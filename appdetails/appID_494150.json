@@ -1,0 +1,162 @@
+{
+  "type": "game",
+  "name": "The Thrill of the Fight - VR Boxing",
+  "steam_appid": 494150,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<strong>Room scale:</strong> The game is currently room scale only with a minimum space requirement of 2m by 1.5m for 360\u00b0 setups and 2m by 2m for forward only setups.<br><br><strong>Oculus Rift users:</strong> The game requires tracked controllers, so you'll need Touch controllers to play. The game can accommodate forward-facing setups, but you'll ideally want a 2m by 2m play space due to the way SteamVR chooses the forward direction of your play area. You must run through the SteamVR room setup for the game to work properly.<br><br><strong>Windows MR users:</strong> The game runs and functions properly through SteamVR, although there are some lighting glitches and the current lack of force feedback when running Windows MR through SteamVR is noticeable. Punch tracking works great, but I'm having some controller tracking problems when blocking (using a Lenovo Explorer) that aren't occurring for another player who primary plays TotF on his Samsung Odyssey. I'm going to refrain from marking support for now while I continue to test, but I'd love to hear your feedback on the forums if you do try out the game.<br><br><strong>Hardlight suit users:</strong> Support for commercial Hardlight suits is currently available on the beta branch. Please opt in by right clicking on the game in Steam, clicking Properties, clicking the Betas tab, and selecting the beta branch from the dropdown menu.<br><br><strong>The Thrill of the Fight is still under active development.</strong> Future improvements include more polish, new opponents, and more.<br><br>The Thrill of the Fight is a boxing game designed specifically for VR. Enter a virtual gym and battle unique challengers with their own boxing styles and techniques. Use timing and skill to land the knockout blow. Evade punches, land jabs, and block blows to become the king of the ring.<br><br>The Thrill of the Fight is best described as a &quot;semi-sim&quot; with some simplified or unrealistic mechanics for the sake of fun and straightforward game play or to accommodate the limits of current VR technology. Mechanics are realistic where possible but the game is not guaranteed to be a fully accurate recreation of real boxing.",
+  "about_the_game": "<strong>Room scale:</strong> The game is currently room scale only with a minimum space requirement of 2m by 1.5m for 360\u00b0 setups and 2m by 2m for forward only setups.<br><br><strong>Oculus Rift users:</strong> The game requires tracked controllers, so you'll need Touch controllers to play. The game can accommodate forward-facing setups, but you'll ideally want a 2m by 2m play space due to the way SteamVR chooses the forward direction of your play area. You must run through the SteamVR room setup for the game to work properly.<br><br><strong>Windows MR users:</strong> The game runs and functions properly through SteamVR, although there are some lighting glitches and the current lack of force feedback when running Windows MR through SteamVR is noticeable. Punch tracking works great, but I'm having some controller tracking problems when blocking (using a Lenovo Explorer) that aren't occurring for another player who primary plays TotF on his Samsung Odyssey. I'm going to refrain from marking support for now while I continue to test, but I'd love to hear your feedback on the forums if you do try out the game.<br><br><strong>Hardlight suit users:</strong> Support for commercial Hardlight suits is currently available on the beta branch. Please opt in by right clicking on the game in Steam, clicking Properties, clicking the Betas tab, and selecting the beta branch from the dropdown menu.<br><br><strong>The Thrill of the Fight is still under active development.</strong> Future improvements include more polish, new opponents, and more.<br><br>The Thrill of the Fight is a boxing game designed specifically for VR. Enter a virtual gym and battle unique challengers with their own boxing styles and techniques. Use timing and skill to land the knockout blow. Evade punches, land jabs, and block blows to become the king of the ring.<br><br>The Thrill of the Fight is best described as a &quot;semi-sim&quot; with some simplified or unrealistic mechanics for the sake of fun and straightforward game play or to accommodate the limits of current VR technology. Mechanics are realistic where possible but the game is not guaranteed to be a fully accurate recreation of real boxing.",
+  "short_description": "The Thrill of the Fight is a room-scale VR boxing game. Face off in the virtual ring where you'll jab, dodge, and sweat your way to the top of the boxing world. Grab your gloves, step through the ropes, and become a champion.",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/494150/header.jpg?t=1521727268",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1 or newer<br></li><li><strong>Processor:</strong> Intel i5-4590 or AMD FX 8350 equivalent or greater<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX970, or AMD Radeon R9 290 equivalent or greater<br></li><li><strong>DirectX:</strong> Version 11</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "Ian Fitz"
+  ],
+  "publishers": [
+    "Ian Fitz"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 999,
+    "final": 999,
+    "discount_percent": 0
+  },
+  "packages": [
+    112398,
+    162245
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy The Thrill of the Fight - VR Boxing",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 112398,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "The Thrill of the Fight - 9,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 999
+        }
+      ]
+    },
+    {
+      "name": "subscriptions",
+      "title": "Buy The Thrill of the Fight - VR Boxing Subscription Plan",
+      "description": "To be billed on a recurring basis.",
+      "selection_text": "Select a subscription plan",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "true",
+      "subs": [
+        {
+          "packageid": 162245,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "1 Month(s) @ 19,99\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">19,99\u20ac at checkout, auto-renewed every 1 month(s) at 19,99\u20ac.</p>",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 1999
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "18",
+      "description": "Sports"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/494150/ss_887c1de96c2b98904cd8584fc075461a81d6c5ac.600x338.jpg?t=1521727268",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/494150/ss_887c1de96c2b98904cd8584fc075461a81d6c5ac.1920x1080.jpg?t=1521727268"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/494150/ss_1b2e94e75c748f5d7487edb224d7e5922362402d.600x338.jpg?t=1521727268",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/494150/ss_1b2e94e75c748f5d7487edb224d7e5922362402d.1920x1080.jpg?t=1521727268"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/494150/ss_7f56c3a864f69082f6de53a29dc28e1aa4d72e02.600x338.jpg?t=1521727268",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/494150/ss_7f56c3a864f69082f6de53a29dc28e1aa4d72e02.1920x1080.jpg?t=1521727268"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/494150/ss_6eec88bf0504eeaf604d2dcfd1987c248c9da5e4.600x338.jpg?t=1521727268",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/494150/ss_6eec88bf0504eeaf604d2dcfd1987c248c9da5e4.1920x1080.jpg?t=1521727268"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/494150/ss_6915d778392ec3c0bae0087261ab199936acbebc.600x338.jpg?t=1521727268",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/494150/ss_6915d778392ec3c0bae0087261ab199936acbebc.1920x1080.jpg?t=1521727268"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/494150/ss_da6566e968c63a14116fcf17643035da581a8197.600x338.jpg?t=1521727268",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/494150/ss_da6566e968c63a14116fcf17643035da581a8197.1920x1080.jpg?t=1521727268"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256711309,
+      "name": "One Round with Luis \"The Lightning\" Felix",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256711309/movie.293x165.jpg?t=1520882558",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256711309/movie480.webm?t=1520882558",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256711309/movie_max.webm?t=1520882558"
+      },
+      "highlight": true
+    }
+  ],
+  "recommendations": {
+    "total": 578
+  },
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "1 Jul, 2016"
+  },
+  "support_info": {
+    "url": "",
+    "email": "fyiandev@gmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494150/page_bg_generated_v6b.jpg?t=1521727268"
+}

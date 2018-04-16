@@ -1,0 +1,182 @@
+{
+  "type": "game",
+  "name": "ESEA",
+  "steam_appid": 479130,
+  "required_age": 0,
+  "is_free": true,
+  "dlc": [
+    497340
+  ],
+  "detailed_description": "ESEA is a third party matchmaking program that uses the industry leading anti-cheat (ESEA Client) to protect matches. ESEA currently has PUGs, Scrims, Ladders, Events and runs one of the largest open format leagues in the world. Join us today for access to one of the largest gaming communities in the world. A premium subscription not only unlocks the game features, it also allows you to join our active website community and forums. A premium subscription is required to use the ESEA network. <br />\r\n<br />\r\nUsers must have a STEAM Account that does not carry any VAC bans in order to play on ESEA. ESEA Premium is used for CS:GO and TF2 on the ESEA Network.",
+  "about_the_game": "ESEA is a third party matchmaking program that uses the industry leading anti-cheat (ESEA Client) to protect matches. ESEA currently has PUGs, Scrims, Ladders, Events and runs one of the largest open format leagues in the world. Join us today for access to one of the largest gaming communities in the world. A premium subscription not only unlocks the game features, it also allows you to join our active website community and forums. A premium subscription is required to use the ESEA network. <br />\r\n<br />\r\nUsers must have a STEAM Account that does not carry any VAC bans in order to play on ESEA. ESEA Premium is used for CS:GO and TF2 on the ESEA Network.",
+  "short_description": "ESEA is a third party matchmaking program that uses the industry leading anti-cheat (ESEA Client) to protect matches. ESEA currently has PUGs, Scrims, Ladders, Events and runs one of the largest open format leagues in the world. ESEA Premium is used for CS:GO and TF2 on the ESEA Network.",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/479130/header.jpg?t=1518118905",
+  "website": "http://www.esea.net",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista Service Pack 2<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Additional Notes:</strong> Users must have a STEAM Account that does not carry any VAC bans in order to play on ESEA.</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> Users must have a STEAM Account that does not carry any VAC bans in order to play on ESEA.</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "ext_user_account_notice": "ESEA ",
+  "developers": [
+    "ESEA"
+  ],
+  "publishers": [
+    "ESEA"
+  ],
+  "packages": [
+    110858,
+    110863,
+    110864,
+    110865,
+    107104
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy ESEA",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 107104,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "ESEA Premium 1 Month + 100 ESEA Points - 7,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 799
+        }
+      ]
+    },
+    {
+      "name": "subscriptions",
+      "title": "Buy ESEA Premium + ESEA Points",
+      "description": "To be billed on a recurring basis.",
+      "selection_text": "Select a subscription plan",
+      "save_text": "Save up to 13%",
+      "display_type": "1",
+      "is_recurring_subscription": "true",
+      "subs": [
+        {
+          "packageid": 110858,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "1 Month(s) @ 7,99\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">7,99\u20ac at checkout, auto-renewed every 1 month(s) at 7,99\u20ac.</p>",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 799
+        },
+        {
+          "packageid": 110863,
+          "percent_savings_text": "-4%",
+          "percent_savings": 4,
+          "option_text": "3 Month(s) @ 7,66\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">24,99\u20ac at checkout, auto-renewed every 3 month(s) at 22,99\u20ac.</p>",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 2499
+        },
+        {
+          "packageid": 110864,
+          "percent_savings_text": "-4%",
+          "percent_savings": 4,
+          "option_text": "6 Month(s) @ 7,66\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">49,99\u20ac at checkout, auto-renewed every 6 month(s) at 45,99\u20ac.</p>",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 4999
+        },
+        {
+          "packageid": 110865,
+          "percent_savings_text": "-13%",
+          "percent_savings": 13,
+          "option_text": "12 Month(s) @ 6,91\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">89,99\u20ac at checkout, auto-renewed every 12 month(s) at 82,99\u20ac.</p>",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 8999
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "genres": [
+    {
+      "id": "57",
+      "description": "Utilities"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_c3e35abc0487a1230af14779589584512224cad8.600x338.jpg?t=1518118905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_c3e35abc0487a1230af14779589584512224cad8.1920x1080.jpg?t=1518118905"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_9f14d3dc58233d9cd116a1bf3e2da7d580a65c4f.600x338.jpg?t=1518118905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_9f14d3dc58233d9cd116a1bf3e2da7d580a65c4f.1920x1080.jpg?t=1518118905"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_32e395abcc55ee33b77a9c88293709efe696b686.600x338.jpg?t=1518118905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_32e395abcc55ee33b77a9c88293709efe696b686.1920x1080.jpg?t=1518118905"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_c94975f60f334c9f49231949071dd72daf96edaa.600x338.jpg?t=1518118905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_c94975f60f334c9f49231949071dd72daf96edaa.1920x1080.jpg?t=1518118905"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_20f6f765b59e119449bfa82c7a01041950aadea1.600x338.jpg?t=1518118905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_20f6f765b59e119449bfa82c7a01041950aadea1.1920x1080.jpg?t=1518118905"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_4e0fcf9e9d9a85cd4aac80121985ff3bec92f516.600x338.jpg?t=1518118905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_4e0fcf9e9d9a85cd4aac80121985ff3bec92f516.1920x1080.jpg?t=1518118905"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_6fd03a9232b06d34666dfdba44f8c467a004277f.600x338.jpg?t=1518118905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/479130/ss_6fd03a9232b06d34666dfdba44f8c467a004277f.1920x1080.jpg?t=1518118905"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256664918,
+      "name": "ESEA Premium #1",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256664918/movie.293x165.jpg?t=1468021262",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256664918/movie480.webm?t=1468021262",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256664918/movie_max.webm?t=1468021262"
+      },
+      "highlight": true
+    }
+  ],
+  "recommendations": {
+    "total": 1522
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "8 Jul, 2016"
+  },
+  "support_info": {
+    "url": "https://play.esea.net/index.php?s=support&amp;d=tickets",
+    "email": "support@esportsea.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/479130/page_bg_generated_v6b.jpg?t=1518118905"
+}
