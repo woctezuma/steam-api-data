@@ -1,0 +1,129 @@
+{
+  "type": "dlc",
+  "name": "emoj.io - Critter Pack",
+  "steam_appid": 538530,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "Unlock the Critter Pack!",
+  "about_the_game": "Unlock the Critter Pack!",
+  "short_description": "Unlock the Critter Pack!",
+  "fullgame": {
+    "appid": "530900",
+    "name": "emoj.io"
+  },
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/538530/header.jpg?t=1476476294",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.7</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 LTS</li></ul>"
+  },
+  "developers": [
+    "Hassey Enterprises, Inc."
+  ],
+  "publishers": [
+    "Hassey Enterprises, Inc."
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 99,
+    "final": 99,
+    "discount_percent": 0
+  },
+  "packages": [
+    131635
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy emoj.io - Critter Pack",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 131635,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "emoj.io - Critter Pack - 0,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 99
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "categories": [
+    {
+      "id": 1,
+      "description": "Multi-player"
+    },
+    {
+      "id": 36,
+      "description": "Online Multi-Player"
+    },
+    {
+      "id": 20,
+      "description": "MMO"
+    },
+    {
+      "id": 27,
+      "description": "Cross-Platform Multiplayer"
+    },
+    {
+      "id": 21,
+      "description": "Downloadable Content"
+    },
+    {
+      "id": 18,
+      "description": "Partial Controller Support"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "29",
+      "description": "Massively Multiplayer"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/538530/ss_04c63085c595c32f9ea69c8e34b3809db7505f4b.600x338.jpg?t=1476476294",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/538530/ss_04c63085c595c32f9ea69c8e34b3809db7505f4b.1920x1080.jpg?t=1476476294"
+    }
+  ],
+  "release_date": {
+    "coming_soon": false,
+    "date": "14 Oct, 2016"
+  },
+  "support_info": {
+    "url": "http://emoj.io/support.php",
+    "email": ""
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/538530/page_bg_generated_v6b.jpg?t=1476476294"
+}

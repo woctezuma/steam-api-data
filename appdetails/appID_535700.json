@@ -1,0 +1,225 @@
+{
+  "type": "game",
+  "name": "3D Chess",
+  "steam_appid": 535700,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<h1>Feature List</h1><p><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/535700/extras/steam_multiplayer_banner.jpg?t=1516800510\" ><br><ul class=\"bb_ul\"><li> 2D &amp; 3D gameplay<br></li><li> Player vs player (PvP) on a single PC or <strong>online</strong><br></li><li> Chess <strong>Puzzle Editor</strong> for re-enacting the brilliant moves of famous chess masters or creating your very own challenging setups.<br></li><li> 3 levels of difficulty<br></li><li> Undo feature<br></li><li> Visual clues for tricky situations<br></li><li> Notation option <br></li><li> Rotating chessboard for a perfect overview<br></li><li> 4 sets of figures and 6 boards<br></li><li> Chess puzzles with 3 levels of difficulty <br></li><li> Challenge the community with your chess puzzles thanks to Steam Workshop integration<br></li><li> In <strong>Chaos Mode</strong> your haphazard opponent will have a very hard time \u00ac great for newcomers<br></li><li> Chess wiki with in-depth rules for new and advanced players<br></li><li> <strong>Steam-Achievements</strong></li></ul></p><br><h1>About the Game</h1><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/535700/extras/steam_banner_3d_chess.png?t=1516800510\" ><br><br>A unique chess trip with exciting instant duels awaits you - test your mettle on the chessboard. Checkmate your opponent with only a few moves and solve challenging chess puzzles in amazing 3D worlds. <br><br>Do you have the strategies and tactics of a true chess master? Finish interrupted matches within a fixed number of moves and unlock more and more puzzles on your way to victory. Play against a challenging virtual opponent or friends in PvP mode on the same PC. Thanks to the rotating chessboard you'll always stay on top of things. <br><br>No matter whether you're <strong>new to chess or a pro</strong>, fully customizable difficulty settings and special features make for a premium chess experience for every chess fan.",
+  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/535700/extras/steam_banner_3d_chess.png?t=1516800510\" ><br><br>A unique chess trip with exciting instant duels awaits you - test your mettle on the chessboard. Checkmate your opponent with only a few moves and solve challenging chess puzzles in amazing 3D worlds. <br><br>Do you have the strategies and tactics of a true chess master? Finish interrupted matches within a fixed number of moves and unlock more and more puzzles on your way to victory. Play against a challenging virtual opponent or friends in PvP mode on the same PC. Thanks to the rotating chessboard you'll always stay on top of things. <br><br>No matter whether you're <strong>new to chess or a pro</strong>, fully customizable difficulty settings and special features make for a premium chess experience for every chess fan.",
+  "short_description": "A unique chess trip with exciting instant duels awaits you - test your mettle on the chessboard. Checkmate your opponent with only a few moves and solve challenging chess puzzles in amazing 3D worlds.",
+  "supported_languages": "English, German, French, Russian",
+  "reviews": "\u201cClear purchase recommendation for beginners and advanced. (Translated)\u201d<br>4/5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.nextgengamersnet.com/Games/3D-Schach/\" target=\"_blank\" rel=\"noopener\"  >Nextgengamersnet (German)</a></a><br>",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/535700/header.jpg?t=1516800510",
+  "website": "https://www.rokapublish.de/",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/10 (32/64bit versions)<br></li><li><strong>Processor:</strong> Dual-Core: 2Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256Mb<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.8+<br></li><li><strong>Processor:</strong> Dual-Core: 2Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256Mb<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04+<br></li><li><strong>Processor:</strong> Dual-Core: 2Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256Mb<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+  },
+  "developers": [
+    "bumblebee"
+  ],
+  "publishers": [
+    "rokapublish"
+  ],
+  "demos": [
+    {
+      "appid": 599030,
+      "description": "Download Demo"
+    }
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 999,
+    "final": 999,
+    "discount_percent": 0
+  },
+  "packages": [
+    130220
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy 3D Chess",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 130220,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "3D Chess - 9,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 999
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 36,
+      "description": "Online Multi-Player"
+    },
+    {
+      "id": 24,
+      "description": "Shared/Split Screen"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    },
+    {
+      "id": 29,
+      "description": "Steam Trading Cards"
+    }
+  ],
+  "genres": [
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "28",
+      "description": "Simulation"
+    },
+    {
+      "id": "18",
+      "description": "Sports"
+    },
+    {
+      "id": "2",
+      "description": "Strategy"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_5c7a0305e5f2d10a7ab3ae779ffb32d8811e06df.600x338.jpg?t=1516800510",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_5c7a0305e5f2d10a7ab3ae779ffb32d8811e06df.1920x1080.jpg?t=1516800510"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_200479a6157f645ca095bd80f6bd522ccf916e3b.600x338.jpg?t=1516800510",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_200479a6157f645ca095bd80f6bd522ccf916e3b.1920x1080.jpg?t=1516800510"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_a02640a2b8ed49c8132e6d76017940a9ff584510.600x338.jpg?t=1516800510",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_a02640a2b8ed49c8132e6d76017940a9ff584510.1920x1080.jpg?t=1516800510"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_d462197498f6fd14be37e620c0602e5075cf6faf.600x338.jpg?t=1516800510",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_d462197498f6fd14be37e620c0602e5075cf6faf.1920x1080.jpg?t=1516800510"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_4463e219536a3e5be65bdf05878ac471f22a091b.600x338.jpg?t=1516800510",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_4463e219536a3e5be65bdf05878ac471f22a091b.1920x1080.jpg?t=1516800510"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_85febe540db1dd76f419ad5b44e5c7b5bab2b1da.600x338.jpg?t=1516800510",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_85febe540db1dd76f419ad5b44e5c7b5bab2b1da.1920x1080.jpg?t=1516800510"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_51727651e03e8a1efb7626912681855440f1d7c6.600x338.jpg?t=1516800510",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_51727651e03e8a1efb7626912681855440f1d7c6.1920x1080.jpg?t=1516800510"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_cac375199ba50b41db1374f1b9d1c1cde1239dae.600x338.jpg?t=1516800510",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_cac375199ba50b41db1374f1b9d1c1cde1239dae.1920x1080.jpg?t=1516800510"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_c41402238cb72d9d19510a40a3425b20c86a6a95.600x338.jpg?t=1516800510",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535700/ss_c41402238cb72d9d19510a40a3425b20c86a6a95.1920x1080.jpg?t=1516800510"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256675466,
+      "name": "3D Chess - Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256675466/movie.293x165.jpg?t=1487755106",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256675466/movie480.webm?t=1487755106",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256675466/movie_max.webm?t=1487755106"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 23,
+    "highlighted": [
+      {
+        "name": "Easy beaten",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+      },
+      {
+        "name": "Medium beaten",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+      },
+      {
+        "name": "Hard beaten",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+      },
+      {
+        "name": "Multiplayer",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+      },
+      {
+        "name": "Chessopedia",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+      },
+      {
+        "name": "Credits",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+      },
+      {
+        "name": "Solved a puzzle",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+      },
+      {
+        "name": "5 Avoid Check",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+      },
+      {
+        "name": "10 Avoid Check",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+      },
+      {
+        "name": "15 Avoid Check",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/535700/336ff76dd3c9a6937a0a65d3fd8e8efeadd40dd4.jpg"
+      }
+    ]
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "6 Dec, 2016"
+  },
+  "support_info": {
+    "url": "",
+    "email": "support@rokapublish.de"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/535700/page_bg_generated_v6b.jpg?t=1516800510"
+}
