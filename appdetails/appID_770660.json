@@ -1,0 +1,192 @@
+{
+  "type": "game",
+  "name": "Thetaball",
+  "steam_appid": 770660,
+  "required_age": 0,
+  "is_free": false,
+  "controller_support": "full",
+  "detailed_description": "<strong>Thetaball</strong> is an authentic digital sport with challenging, physics-based gameplay and lifelike AI. Each of the game's 256 robotic players is a distinct individual, created by a process of simulated evolution; because the bots have co-evolved within a complex physical environment -- both cooperating with and competing against one another -- their behaviors are diverse, robust, and lifelike. The end result is a game with all the challenge and re-playability of a real-world sport.<br><br>In the single-player game, your task is to field a team of robotic athletes in order to advance through a series of progressively more challenging leagues, earning as many coins as you can along the way. You can remotely control any of the bots on your team, or let them play on their own.<br><br>In the local-multiplayer game, 2-8 players choose up sides, with AI-controlled bots filling in the empty slots.<h2 class=\"bb_tag\">About the Engine</h2><strong>Generator</strong> is a specialized 2D game engine based on Evolutionary Robotics, a technique for the automated creation of simulated robots. The engine provides a C++ framework for generating populations of such robots and deploying them in a completed game. It also includes a heavily optimized, glitch-free physics module for simulating the environments in which the robots interact and evolve. Thetaball is the first game built on the Generator engine; more are planned.<h2 class=\"bb_tag\">Some Thetaball Features</h2><ul class=\"bb_ul\"><li>A true physical (not statistical) simulation -- outcomes are determined not by &quot;rolling dice&quot; but by the actual physical interactions between players.<br></li><li>Lifelike AI -- every bot is a distinct individual with its own unique style of play.<br></li><li>Extensive single-player game -- earn coins, develop your team, and advance through the leagues.<br></li><li>Exciting couch multiplayer with up to 8 players -- a great party game!<br></li><li>Play with a gamepad or mouse.<br></li><li>Bet on individual matches or buy in to a tournament.<br></li><li>Slow motion replays.<br></li><li>Ultra-smooth animation.<br></li><li>Monitor your coins with a variety of financial reports.<br></li><li>Dozens of practice drills.<br></li><li>Physics-based procedural sound.</li></ul>",
+  "about_the_game": "<strong>Thetaball</strong> is an authentic digital sport with challenging, physics-based gameplay and lifelike AI. Each of the game's 256 robotic players is a distinct individual, created by a process of simulated evolution; because the bots have co-evolved within a complex physical environment -- both cooperating with and competing against one another -- their behaviors are diverse, robust, and lifelike. The end result is a game with all the challenge and re-playability of a real-world sport.<br><br>In the single-player game, your task is to field a team of robotic athletes in order to advance through a series of progressively more challenging leagues, earning as many coins as you can along the way. You can remotely control any of the bots on your team, or let them play on their own.<br><br>In the local-multiplayer game, 2-8 players choose up sides, with AI-controlled bots filling in the empty slots.<h2 class=\"bb_tag\">About the Engine</h2><strong>Generator</strong> is a specialized 2D game engine based on Evolutionary Robotics, a technique for the automated creation of simulated robots. The engine provides a C++ framework for generating populations of such robots and deploying them in a completed game. It also includes a heavily optimized, glitch-free physics module for simulating the environments in which the robots interact and evolve. Thetaball is the first game built on the Generator engine; more are planned.<h2 class=\"bb_tag\">Some Thetaball Features</h2><ul class=\"bb_ul\"><li>A true physical (not statistical) simulation -- outcomes are determined not by &quot;rolling dice&quot; but by the actual physical interactions between players.<br></li><li>Lifelike AI -- every bot is a distinct individual with its own unique style of play.<br></li><li>Extensive single-player game -- earn coins, develop your team, and advance through the leagues.<br></li><li>Exciting couch multiplayer with up to 8 players -- a great party game!<br></li><li>Play with a gamepad or mouse.<br></li><li>Bet on individual matches or buy in to a tournament.<br></li><li>Slow motion replays.<br></li><li>Ultra-smooth animation.<br></li><li>Monitor your coins with a variety of financial reports.<br></li><li>Dozens of practice drills.<br></li><li>Physics-based procedural sound.</li></ul>",
+  "short_description": "Thetaball is an authentic digital sport with challenging, physics-based gameplay and lifelike AI.",
+  "supported_languages": "English",
+  "reviews": "\u201cThetaball is an incredibly addicting game and it features some excellent AI.\u201d<br>9.1 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.endworldgaming.com/sports/thetaball-review\" target=\"_blank\" rel=\"noopener\"  >End World Gaming</a></a><br><br>\u201c...a big step forward in game AI.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.indiehangover.com/reviewinterview-tim-sheehans-thetaball/\" target=\"_blank\" rel=\"noopener\"  >IndieHangover</a></a><br>",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/770660/header.jpg?t=1521590331",
+  "website": "https://www.thetaball.net",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Storage:</strong> 48 MB available space</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "legal_notice": "\u00a92017 Tim Sheehan",
+  "developers": [
+    "Tim Sheehan"
+  ],
+  "publishers": [
+    "Tim Sheehan"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 37,
+      "description": "Local Multi-Player"
+    },
+    {
+      "id": 39,
+      "description": "Local Co-op"
+    },
+    {
+      "id": 24,
+      "description": "Shared/Split Screen"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    },
+    {
+      "id": 28,
+      "description": "Full controller support"
+    },
+    {
+      "id": 23,
+      "description": "Steam Cloud"
+    },
+    {
+      "id": 15,
+      "description": "Stats"
+    },
+    {
+      "id": 25,
+      "description": "Steam Leaderboards"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "28",
+      "description": "Simulation"
+    },
+    {
+      "id": "18",
+      "description": "Sports"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_685a886aecb10e922def7e8a9762defd85cf48ab.600x338.jpg?t=1521590331",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_685a886aecb10e922def7e8a9762defd85cf48ab.1920x1080.jpg?t=1521590331"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_27d1e7ea375ac6e042bec77d25796df92ff859a0.600x338.jpg?t=1521590331",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_27d1e7ea375ac6e042bec77d25796df92ff859a0.1920x1080.jpg?t=1521590331"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_99e132f77cda9ac10818312be675f2d370bde252.600x338.jpg?t=1521590331",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_99e132f77cda9ac10818312be675f2d370bde252.1920x1080.jpg?t=1521590331"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_9998cba62ccd26532ddcee7b31011ffa0513a2c5.600x338.jpg?t=1521590331",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_9998cba62ccd26532ddcee7b31011ffa0513a2c5.1920x1080.jpg?t=1521590331"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_94f77c71c3f36e361262f02934068bdf7b5bfc2a.600x338.jpg?t=1521590331",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_94f77c71c3f36e361262f02934068bdf7b5bfc2a.1920x1080.jpg?t=1521590331"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_accb05ccf6a5e09a5d67c4c469e167b3d3b99888.600x338.jpg?t=1521590331",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_accb05ccf6a5e09a5d67c4c469e167b3d3b99888.1920x1080.jpg?t=1521590331"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_ee112d8799ddd60116fd5fbf80e3f48c98f8b137.600x338.jpg?t=1521590331",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_ee112d8799ddd60116fd5fbf80e3f48c98f8b137.1920x1080.jpg?t=1521590331"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_3b8a4bf1905683be2a667b768a86ca055c913164.600x338.jpg?t=1521590331",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_3b8a4bf1905683be2a667b768a86ca055c913164.1920x1080.jpg?t=1521590331"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_024053ef341b233c9a94e129b314b4e1e50db988.600x338.jpg?t=1521590331",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_024053ef341b233c9a94e129b314b4e1e50db988.1920x1080.jpg?t=1521590331"
+    },
+    {
+      "id": 9,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_0b04348d920aa761d10faa33467c6fc503063d97.600x338.jpg?t=1521590331",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_0b04348d920aa761d10faa33467c6fc503063d97.1920x1080.jpg?t=1521590331"
+    },
+    {
+      "id": 10,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_6da7f30b861a36f66d50fba45dc0bbf2fd6c9fb8.600x338.jpg?t=1521590331",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_6da7f30b861a36f66d50fba45dc0bbf2fd6c9fb8.1920x1080.jpg?t=1521590331"
+    },
+    {
+      "id": 11,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_23b33225476baaad03ef5f3f4f0aea12059486b6.600x338.jpg?t=1521590331",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_23b33225476baaad03ef5f3f4f0aea12059486b6.1920x1080.jpg?t=1521590331"
+    },
+    {
+      "id": 12,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_f402dc4edc1a9a5dce564c0d083745e4a730fbac.600x338.jpg?t=1521590331",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_f402dc4edc1a9a5dce564c0d083745e4a730fbac.1920x1080.jpg?t=1521590331"
+    },
+    {
+      "id": 13,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_fc1e0c5814b3bb41bffd175cb122fc9313c6e559.600x338.jpg?t=1521590331",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770660/ss_fc1e0c5814b3bb41bffd175cb122fc9313c6e559.1920x1080.jpg?t=1521590331"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256703516,
+      "name": "Gameplay Sample One",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256703516/movie.293x165.jpg?t=1513384053",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256703516/movie480.webm?t=1513384053",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256703516/movie_max.webm?t=1513384053"
+      },
+      "highlight": true
+    },
+    {
+      "id": 256703517,
+      "name": "Gameplay Sample Two",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256703517/movie.293x165.jpg?t=1513384066",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256703517/movie480.webm?t=1513384066",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256703517/movie_max.webm?t=1513384066"
+      },
+      "highlight": true
+    }
+  ],
+  "release_date": {
+    "coming_soon": true,
+    "date": "Spring 2018"
+  },
+  "support_info": {
+    "url": "https://www.thetaball.net",
+    "email": ""
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/770660/page_bg_generated_v6b.jpg?t=1521590331"
+}

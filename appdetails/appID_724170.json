@@ -1,0 +1,208 @@
+{
+  "type": "game",
+  "name": "Solar Lander",
+  "steam_appid": 724170,
+  "required_age": 0,
+  "is_free": false,
+  "controller_support": "full",
+  "detailed_description": "Solar Lander a 2D space lander that simulates orbital mechanics and the conservation of angular momentum.  Players fly around in an Apollo-style lander, land on the surface of a planet, and then redock with the command module to advance to the next level.  You start out in orbit around a planet and docked with the command module.  It is your job to make a safe landing on the surface of the planet, then get back into orbit to redock with the command module.  Each planet has it's unique characteristics based on real life planetary bodies with procedural terrain generation.  Because this game takes place in space, there are no engine sounds, or any other sound that cannot be heard from inside the cockpit of the vehicle.<br />\r\n<br />\r\nAll of the game's mechanics are simulated with a full physics simulation that runs 1,024 times per second!  This makes the 2D simulation very accurate and very realistic.  There is no arbitrary rotation rate or acceleration.  As you use-up fuel, your maximum acceleration will increase and you will be able to change your rotation rate more quickly.  Even the exhaust from the thrusters are physically simulated and can affect both you and other objects on contact.",
+  "about_the_game": "Solar Lander a 2D space lander that simulates orbital mechanics and the conservation of angular momentum.  Players fly around in an Apollo-style lander, land on the surface of a planet, and then redock with the command module to advance to the next level.  You start out in orbit around a planet and docked with the command module.  It is your job to make a safe landing on the surface of the planet, then get back into orbit to redock with the command module.  Each planet has it's unique characteristics based on real life planetary bodies with procedural terrain generation.  Because this game takes place in space, there are no engine sounds, or any other sound that cannot be heard from inside the cockpit of the vehicle.<br />\r\n<br />\r\nAll of the game's mechanics are simulated with a full physics simulation that runs 1,024 times per second!  This makes the 2D simulation very accurate and very realistic.  There is no arbitrary rotation rate or acceleration.  As you use-up fuel, your maximum acceleration will increase and you will be able to change your rotation rate more quickly.  Even the exhaust from the thrusters are physically simulated and can affect both you and other objects on contact.",
+  "short_description": "Fly an Apollo-style lander around various planets, landing to earn points and then redocking with the command module to advance to the next level.",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/724170/header.jpg?t=1523499458",
+  "website": "https://www.tchapman500.com/solar-lander",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 1.0 GHz, 64-bit<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Not Determined<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 65 MB available space<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> Needs Testing on Lower-End Hardware</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2.0 GHz, 64-bit<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Not Determined<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 75 MB available space<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> Tested on 2.8 GHz, 64-bit Quad-Core Processor with Intel Iris Pro Graphics 6200 Integrated Graphics</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 10.11<br></li><li><strong>Processor:</strong> 1.0 GHz, 64-bit<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Not Determined<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> Needs Testing on Lower-End Hardware</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 10.11<br></li><li><strong>Processor:</strong> 2.0 GHz, 64-bit<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Not Determined<br></li><li><strong>Storage:</strong> 120 MB available space<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> Tested on 2.8 GHz, 64-bit Quad-Core Processor with Intel Iris Pro Graphics 6200 Integrated Graphics</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Not Tested<br></li><li><strong>Processor:</strong> Not Tested<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Not Tested<br></li><li><strong>Storage:</strong> 120 MB available space<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> Linux Version Completely Untested</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Not Tested<br></li><li><strong>Processor:</strong> Not Tested<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Not Tested<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> Linux Version Completely Untested</li></ul>"
+  },
+  "developers": [
+    "TChapman500"
+  ],
+  "publishers": [
+    "TChapman500"
+  ],
+  "demos": [
+    {
+      "appid": 724240,
+      "description": "Demo Version"
+    }
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0
+  },
+  "packages": [
+    210457
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Solar Lander",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 210457,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Solar Lander - 4,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 499
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    },
+    {
+      "id": 28,
+      "description": "Full controller support"
+    },
+    {
+      "id": 15,
+      "description": "Stats"
+    },
+    {
+      "id": 25,
+      "description": "Steam Leaderboards"
+    }
+  ],
+  "genres": [
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "28",
+      "description": "Simulation"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/724170/ss_2947a81b4eb1418ec75ae2e4ececf141f60f43ec.600x338.jpg?t=1523499458",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/724170/ss_2947a81b4eb1418ec75ae2e4ececf141f60f43ec.1920x1080.jpg?t=1523499458"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/724170/ss_df37f2bb0fd64a5368faaab9de696a43aa72d674.600x338.jpg?t=1523499458",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/724170/ss_df37f2bb0fd64a5368faaab9de696a43aa72d674.1920x1080.jpg?t=1523499458"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/724170/ss_d27bd1b6fca6873b7dae44074de72542b6f2eed3.600x338.jpg?t=1523499458",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/724170/ss_d27bd1b6fca6873b7dae44074de72542b6f2eed3.1920x1080.jpg?t=1523499458"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/724170/ss_1dea3f1c01b0e9e54f7e384ec74ebacd14ad3cfa.600x338.jpg?t=1523499458",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/724170/ss_1dea3f1c01b0e9e54f7e384ec74ebacd14ad3cfa.1920x1080.jpg?t=1523499458"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/724170/ss_ec034c850c9f885e7df775a4ac0990ac4eb94f32.600x338.jpg?t=1523499458",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/724170/ss_ec034c850c9f885e7df775a4ac0990ac4eb94f32.1920x1080.jpg?t=1523499458"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256700538,
+      "name": "Solar Lander Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256700538/movie.293x165.jpg?t=1510177897",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256700538/movie480.webm?t=1510177897",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256700538/movie_max.webm?t=1510177897"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 13,
+    "highlighted": [
+      {
+        "name": "First Crash",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/724170/60a9bb613c1fc6872edb260c8eb0bdde1bc2a622.jpg"
+      },
+      {
+        "name": "First Landing",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/724170/e5dcf428f03558af8e694c2b53168e1342d96743.jpg"
+      },
+      {
+        "name": "First Redock",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/724170/1a0bb5fe860984ea797e6e26bfc2dbe9718b2a81.jpg"
+      },
+      {
+        "name": "Level 1 Complete",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/724170/f54758484fe13ccdf25a8657395bf670e3e9c676.jpg"
+      },
+      {
+        "name": "I Won!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/724170/2abaf1a949665cb3b9ba4cc9096a59c1669a12ea.jpg"
+      },
+      {
+        "name": "Level 5",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/724170/b3e8bc9a74bec3c4b61aa48b64af8a9aa5cd7bc2.jpg"
+      },
+      {
+        "name": "Level 10",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/724170/12de74744928a5a90f9a25744e860ab83670d020.jpg"
+      },
+      {
+        "name": "Level 15",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/724170/9cef217e85e1c2a7f8048ea71e1c05024198c2bb.jpg"
+      },
+      {
+        "name": "Level 20",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/724170/8af9e6de1bdeb00a745bc4f4228ee446f8840dc4.jpg"
+      },
+      {
+        "name": "Head Landing",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/724170/02179306b64a49697205ebdab5650fbe974e9f9e.jpg"
+      }
+    ]
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "16 Oct, 2017"
+  },
+  "support_info": {
+    "url": "https://tchapman500.com/forums/viewforum.php?f=6",
+    "email": "timothychapman500@gmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/724170/page_bg_generated_v6b.jpg?t=1523499458"
+}

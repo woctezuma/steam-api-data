@@ -1,0 +1,195 @@
+{
+  "type": "game",
+  "name": "Baby Hands",
+  "steam_appid": 708820,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<h1>Baby Hands Update #6 - SXSW ++ GDC madness!!!</h1><p>Wowee! It has been a busy couple of weeks! Thousands of people played Baby Hands at various events over the last 2 weeks! ..and from their homes;)<br><strong><h2 class=\"bb_tag\">24 Million+ YouTube views and counting!</h2></strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/708820/extras/SXSWkids.jpg?t=1523255994\" ><br>     Thanks to all the people that reached out to us! It has been a pleasure to meet and hang out with everyone! So many kids came up to our demo booth at SXSW, and talked about how much they love watching streamers play Baby Hands!!! <br>     Don\u2019t worry though! We stayed busy in the studio, too! Not only are there some cool new items and achievements, but we squashed a lot of bug fixes, as well! Stay tuned for some really big updates, with some awesome new features coming your way! <br><br>In the meantime, here\u2019s a list of the fixes and tweaks in this update:<br><br><ul class=\"bb_ul\"><li>\u201cHouston, we have lift off!\u201d - A new platform for your sister\u2019s toy rocket!<br></li><li>New Achievement art added, implemented many more achievements! Can you find all the new achievements? <br></li><li>New \u201cMacMan\u201d console game!<br></li><li>DJ airhorn! Bwah! Bwah! Bwah! Bwaaaahhhh! \t<br></li><li>Revamped the DJ matching game to not use repeat patterns.<br></li><li>The one ring can now again be smote!<br></li><li>Box o\u2019crayons<br></li><li>Rearranged the toys in the house!<br></li><li>Rearranged challenges, too:)<br></li><li>Lots of lightmap fixes<br></li><li>Cell Phone now has a touch tone sound effect.<br></li><li>Cell phone can now short circuit, too!<br></li><li>Found and closed a seam on the texture of the teleport up and down arrows, barely noticable to all but the artist who was tortured by its very existence!<br></li><li>Tub splash effect spawning consistency is improved.<br></li><li>Tub splash effect toned down, tweaked effect size and position.<br></li><li>Create a player-view centric object loss prevention respawn system\u2026\u2026..that is to say; items lost out of bounds will respawn in front of the player.<br></li><li>Computer was only showing one blue screen, made a second blue screen, should toggle on press after very short delay.<br></li><li>Fixed a bug where players could push items out of locked chests.<br></li><li>Scuba guy is now easier to place, and you can actually get him back out of the water!<br></li><li>Scuba guy did not swim when bathtub was filled with water, checked and fixed again!<br></li><li>Tank firing effects adjusted down to size.<br></li><li>Fixed a bug causing the small blocks to lose gravity after being floated in the bathtub.<br></li><li>Fixed a bug where by; brushing the astronaut past moon seemed to disable hand that launched astronaut.<br></li><li>Game console seemed to not play if cartoon is on, most recent TV input now overrides whatever is currently on TV<br></li><li>Table collider was a little low, and items settled crashing through table, adjusted up.<br></li><li>Letting go of bow inside of shape chest can stick the bow in chest and glitch renderer on and off, some changes made to correct!</li></ul><br>Again, we have had an amazing time showing off Baby Hands to people over the last 2 weeks! We love to listen to streamers and fans describe their ideas of imagination for the game! We are currently working on some of our favorite ideas we have pulled from watching the awesome YouTube streams. <br><br>Lastly, we want to thank IGDA + Austin Game Devs for their amazing support, and for giving us a free booth! So much amazing support provided for local developers! Kudos.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/708820/extras/SXSW_Kids2.jpg?t=1523255994\" ><br><br>As always, thanks for all your help testing and commenting in steam discussions and elsewhere, we couldn\u2019t do it without you!</p><br><h1>SXSW Update!</h1><p><strong>Baby Hands Update #5 - Still Growing!!!</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/708820/extras/finnpyre.JPG?t=1523255994\" ><br>If you happen to be in Austin, Texas next week, look for Baby Hands at various venues across the SXSW Interactive Festival! We have hit well over 300 bug fixes, and the number grows every day! We would like to again thank all the wonderful streamers! ..and a special shout-out to all the viewers! Wow! Super funny videos, and so many great responses! Our streamers have some of the best viewers, and they keep coming up with funny stuff to do in Baby Hands!! You all are truly an inspiration! We have built in some of our favorite viewer comments into new hidden features and achievements!:) So, keep the great suggestions coming! <br>Check out some of the new features this week, and stay tuned for more huge updates coming to Baby Hands! <br><br><ul class=\"bb_ul\"><li>Blast the UFO out of the sky!<br></li><li>Musical instrument \u201csolos\u201d<br></li><li>Tank goes Pew! Pew!<br></li><li>Crawling backwards tutorial <br></li><li>Astronaut fixes: make astronaut new start sequence and respawn zones for when stuck<br></li><li>Cartoon snips: Cut two more short clips of old timey cartoon for TV<br></li><li>New animations added: Red Rocket, spaceman, cars, motorcycle, gamma man, parents bathroom scale, turtle mask(swap), ants, tub overflow, VHS, mousetrap cheese drop, shape box lid<br></li><li>Truck and TransAm polish<br></li><li>Wind-up robot<br></li><li>Turtle swims in tub<br></li><li>Delorean sound effect fix<br></li><li>Play with the TV remote <br></li><li>A ton of new effects! Tub waterfall, toy chest open, drawer unlock, fanFare (general achievement acknowledge), transAm Reveal(smoke cloud, etc when car exits)<br></li><li>Toilet paper rolls 2.0: stackable with precision Grab!<br></li><li>Item unlock grab bug: grabbing key from box is hard to grab, collider improvements implemented<br></li><li>Spray FX check sim space: spray effects setup changes and move to world space<br></li><li>Ducky ignoring gravity: setting problem, fixed\t<br></li><li>Hiccup fail: eating soaps causes bubbles but no hiccups<br></li><li>TV static video to loop:  set video for TV static to loop<br></li><li>Hand offset with head bury: soft lock bug where taking off and putting on floor headset could glitch hand offsets, should be fixed<br></li><li>SFX adjust: cat meow volume upped<br></li><li>Bongo Drums solo not working: solo fixed, rock on!<br></li><li>GameDude Crawl: whichever hand holds game dude cant crawl, fixed gameDude setup<br></li><li>Dead spot on touch pad: there\u2019s a spot that can be pressed that doesn\u2019t register turn<br></li><li>Olives PFX tweak: needs to flourish higher<br></li><li>Spray bottle particle fixes<br></li><li>Jack-in-box polish<br></li><li>more VHS tapes: more cartoons and VHS options<br></li><li>Soap hiccups: made to repeat for a bit<br></li><li>Toy chest lid anim: animation is crooked, needs adjust at top of open<br></li><li>Box open effect: following should have shimmer effect upon unlocking: shape  box, toy chest, dad's drawer.<br></li><li>Toilet flush trigger: sfx for flushing toilet volume up<br></li><li>Radio sound fall off distance up slightly<br></li><li>Trans-am no effect: Missing particle effects and sound effects, fixed\t<br></li><li>Baby Food Splash: tone down break effect and make effect heavier<br></li><li>Boys room teleporter: down arrow still on after down, changed collider locales</li></ul><br>As always, thanks for all your help testing and commenting in steam discussions and elsewhere, we couldn\u2019t do it without you!</p><br><h1>Squishin' Bugs</h1><p><strong>Baby Hands Update #4 - Crawling on bugs feels good!!!</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/708820/extras/cheruToiletBuffet.png?t=1523255994\" ><br>Over 8 Million+ YouTube streamer views in out first month! Thank you all so much for streaming and watching the hilarious gameplay videos for Baby Hands!! This was a week of serious bug squishing! Some new features added, but a lot more features coming soon! Stay tuned!<br><br><ul class=\"bb_ul\"><li>Secret Game on the Scientific Calculator!<br></li><li>Secret car with smoke particles on reveal:)<br></li><li>Moki-mon PFX spawners<br></li><li>Sponge particles fixed<br></li><li>Vomit FX<br></li><li>Fix handcannon: can remove ball from cannon, causes it to fire from your hand after timer<br></li><li>Toilet paper rolls 2.0: stackable with precision Grab<br></li><li>Baseball sticks to mitt<br></li><li>Egg problems: missing PFX &amp; SFX<br></li><li>Music solos!<br></li><li>Eat collider back: move collider back, overeating too far from face<br></li><li>Glider paper plane fix: glider was not looping properly<br></li><li>Block colliders fixed<br></li><li>Pacifier sound fx<br></li><li>Frogbox check and fix: highlightable but not grabbable<br></li><li>Floating ragdolls fix<br></li><li>Kettle whistle: stop loop<br></li><li>Stove animation: snaps back to start frame at end<br></li><li>Check block physics grab: some blocks not physics grabbing properly; cubelong<br></li><li>Radio loops: radios can now toggle so loop SFX<br></li><li>Cars crawlable: need to be able to crawl with cars<br></li><li>Sponge changes: particles need to be changed to work with toggling emission<br></li><li>Volume down: Baloon SFX down, bear SFX down, meow up, <br></li><li>Robot sound inconsistent: volume modulations between grabs(prefab being modded)<br></li><li>Bathroom Teleport Adjusts: Parent's Bathroom(down landing, look direction facing<br></li><li>Hard to grab things in drawers: fixing systems\t<br></li><li>Baseball snap log clean: debugging message playing alot<br></li><li>All doors gone: may be due to an FBX import error.<br></li><li>Teleport when grabbing bug<br></li><li>Sandwich VCR fix<br></li><li>drawer grab fix: hat in drawer not gabable easily<br></li><li>vignette greying in drawers fix<br></li><li>VHS replay fix<br></li><li>Baby Food Splash: tone down break, too watery<br></li><li>Hurt hand reset: hand can hold hurt state when fist clenched??<br></li><li>robot hole in mesh: geo fix<br></li><li>Oven knobs separated<br></li><li>Boys wall not drawing: fix systems<br></li><li>Toilet flush trigger<br></li><li>Nothing in kitchen drawers again: put things in again<br></li><li>Weird shrimp color: particle for shrimp is greenish, changed to reddish<br></li><li>Pacifier SFX no worky: silent pacifier suck<br></li><li>Hand stays red if make fist<br></li><li>Can't grab broken pieces: Piggy Bank, Cup in kitchen</li></ul><br>As always, thanks for all your help testing and commenting in steam discussions and elsewhere, we couldn\u2019t do it without you!</p><br><h1>Baby Steps!</h1><p><strong>Special Announcement 1.0.3</strong><br><br>Baby Hands Update #3 - <h2 class=\"bb_tag\">Baby Steps!!!</h2><br><br>Lots of fixing, lots of new features and improved physics! Thanks again for all the hilarious YouTube streams, and especially all the views! 5 million+ views, and counting!!! <br>While on Early Access, we will be adjusting Achievements, and adding plenty more mini-games!<br><br><br><ul class=\"bb_ul\"><li>New physics! Improved stacking, throwing, crawling and much more!!!<br></li><li>Bow &amp; Arrow mini-game (Part 2:)<br></li><li>New classic cartoon!<br></li><li>New secret toy car! <br></li><li>Improved car key physics<br></li><li>Bubble baths<br></li><li>Adjusted other mini-games<br></li><li>Achievement updates<br></li><li>Amazing Thread-Ripper powered lighting bake, thanks Alienware!<br></li><li>Baby food retextures: face of baby on jar<br></li><li>Scuba man fix in bathtub<br></li><li>Bathtub multi chug: need to continuously repeat gulp SFX while inside of trigger volumes for waters<br></li><li>Bubble hiccups<br></li><li>Wedding ring sound change: try other hit sounds<br></li><li>Parent bath shampoo bubble acting weird: add bubbles from kitchen soap<br></li><li>Water SFX<br></li><li>Oculus start teleport fix<br></li><li>Crawl back tutorial baby book<br></li><li>Lightmap fix under desk<br></li><li>Milk texture fix \t<br></li><li>Can\u2019t throw teddy bear<br></li><li>Food has to be eaten more times: shrimp, turtle food, strawberries.<br></li><li>Turtle food: grab sound issues<br></li><li>Can drink bottle when not held: change setup\t<br></li><li>Pizza box fix<br></li><li>Drop zone on vcr: all tapes need to drop<br></li><li>Fall trigger on couch puts you inside couch: reposition landing object<br></li><li>Pickle respawn wrong: respawns sideways<br></li><li>Capsule colliders need angle drag: adjust to suit \t<br></li><li>Lipstick snap needs to be higher: adjusted for drawing grabbability<br></li><li>Magazines can't throw: check manager settings\t<br></li><li>Fall triggers : can't get fall triggers to work, test and check setup<br></li><li>Can't grab foam finger: grab button wass grip<br></li><li>Arrows suction to wall on start: pooled arrows too close to house, can be seen through wall<br></li><li>Tracking on stacking blocks: rotation to slow<br></li><li>Standing with bow drops it: new grab func on bow<br></li><li>Boys room book colliders need to be tweaked<br></li><li>Arrows stick to helicopter: make no stick<br></li><li>Carpet brakes floor: rugs break the vineting, floor check re-implement<br></li><li>Boys room arrow down move: change position for better view from teleport landing<br></li><li>Robot animation gone again: robot wind animation gone again<br></li><li>Milk drink SFX looping issue: check setup\t<br></li><li>Kaleidoscope makes things go bye bye<br></li><li>Sister desk blackout: adjust geo for better light backe<br></li><li>Kaleidoscope dome broke: setup check and test \t<br></li><li>Pressing rocket button: when holding it makes the rocket drop while still parented to hand. Now drops on air thing press, will need different solution if we want it to not drop<br></li><li>Bat snap point: added snap point for proper grip<br></li><li>Cannonball snap to glove: made to act like baseball and be catchable in glove<br></li><li>Can see tutorial though wall: Glow ring need turn off<br></li><li>Standing on the other side of the toilet makes the tp disappear: check layering and sorting fridge<br></li><li>Crawl + food = no eat: Do not eat the grabbed food while your hand is on the floor<br></li><li>Piano solo: should play once all the way through then back to plinking on keys until player pauses playing and resets sequence. Now works as requested, but there are still potential issues. <br></li><li>Target mini game: system build out for nested targets, completion effects, target shoot to start, floating up balloons, still balloons and balloons on scripted paths<br></li><li>Arrow color rework: red arrows usually mean stop, look for other color<br></li><li>Lipstick snappoint again: snappoint off by 90*, test<br></li><li>Cake snap: check bite angle on first bite, somewhat off<br></li><li>Trash hoop minigame fanfare: fanfare sfx and pfx que, make fanfare(PFX &amp; SFX)<br></li><li>Parent's bath gulp missing: sticking face in filled tub elicits no gulping noise<br></li><li>PFX bathtub issues??: bathtub in kids has drain particles issue<br></li><li>Target fall SFX swap: SFX for targets hitting the floor(failure) needs to be a negative fanfare os some sort, and different from target hit<br></li><li>Rocket PFX check and impl: rocket PFX was throwing errors, turned off, need new PFX<br></li><li>Parent's bathroom tele: needs to slightly raise landing on up teleport on tub, lower slightly toilet up landing<br></li><li>Toy robot as nav agent: walks forward after dropped <br></li><li>Trash hoop func broken: seems to only trigger SFX and not anything in &quot;activate field&quot; and only when item is held, throwing in does not activate, moving in and out of collider fast can bug sound on and SFX can interrupt itself<br></li><li>Improve bow usage: The bow needs to arm every time you attempt to<br></li><li>Baseball bat and ball:  maybe physics material for better ball hitting feel like pitch hit games,<br></li><li>Phone swing: change bones on phone to add more dangle??<br></li><li>Feed turtle his pet food pellets\t: \t<br></li><li>Fly Trap chomp SFX: need to quee chomping SFX on mouth close when flytrap bites at player<br></li><li>Cat audio mix: need multiple cat SFX on attacked<br></li><li>3D worldspace UI canvas\t: \t<br></li><li>Oven to teapot on: shooting oven knobs should turn on teapot SFX and PFX(need PFX made)<br></li><li>Toasted sandwich reverts on grab\t: \t<br></li><li>require grab to eat certain edibles: The food on the table often gets eaten accidentally. We should only face-eat the cat food<br></li><li>Fix timing on Game Dude picture: adjust for feel<br></li><li>musical instrument solo: need system whereby after briefly playing musical instrument, game will play professional toon as long as player keeps pressing<br></li><li>Force Stand door bug\t: after force standing at fridge, closing fridge door glitches force stand on, need checks<br></li><li>Target Timers redner through walls: the timers over astronauts, targets, etc render through walls, can look buggy from afar<br></li><li>Bow left ground on carry: seems angled weird when crawling with bow. Was caused by bow not resetting angle when letting go of the string. fixed<br></li><li>Toilet flush: flushing FX and SFX on handle press(doesn't work in test 2018-02-08)<br></li><li>Ring Fixes: snappoint too big and have to remove too far to release, ring highlight works when worn and stack to washout texture</li></ul><br>As always, thanks for all your help testing and commenting in steam discussions and elsewhere, we couldn\u2019t do it without you!<br><br>P.S. We are currently re-working the achievement implementation. Thus, we will be temporarily taking Steam Achievements offline. We should have them working better than ever soon though, perhaps with a single wipe : (</p><br><h1>New Update is Live!</h1><p><strong>Baby Hands Update #2 - Baby Inception!!!</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/708820/extras/shoots.jpg?t=1523255994\" ><br>Wow! What an amazing first week of development! Baby Hands is a hit! Woohoo!<br>Over 1 million+ views on YouTube in one week!!!<br>Some amazing streamers have posted some hilarious gameplay videos, and it's awesome to watch so many people having fun! In the community announcements, we will be including some of the funniest videos we can find! So, please keep them coming! We will be giving some free Steam keys and other gamer prizes for the best streamers to give away to their fans! So, stay tuned!<br>This week, we added some fun new mini-games, and moved all the toys around! So, you\u2019ll have to rediscover everything!<br>We focused heavily on bug fixes, and snuck in a few new features, too:) <br>The following is a list of major and minor bugs we have addressed in the current build cycle:<br><br><ul class=\"bb_ul\"><li>Back up by holding the grip button (Updated baby book)<br></li><li>Bow &amp; arrow mini-game! (Part 1)<br></li><li>Bubble bath!<br></li><li>Plunger hat<br></li><li>\u201cToasted\u201d sandwich<br></li><li>New toys, and more hidden achievements! (*hint: \u201cVrooom!\u201d)<br></li><li>Crawl spaces: make able to crawl under beds and couch<br></li><li>Drink from the toilet<br></li><li>Pots and pans as wearables: make pots and pans wearable hats <br></li><li>Sponge water FX toned down<br></li><li>Standing teleport error: after teleport stand will sometimes stutter or not be responsive on unstand<br></li><li>Teleport Lower trigger adj: lower trigger height is often too high, set to .01 and test\t<br></li><li>Stereo audio variety: each stereo needs different audio(options in game)<br></li><li>Cat should react to being shot<br></li><li>Baby spray sneeze: baby sneeze on spray on face<br></li><li>On collision achievements: need ability to log achievement when items are moved/ shot<br></li><li>Wedding ring equip: ring wearable functionality(is parented under finger bone(s))<br></li><li>Small piano lightmap UVing\t<br></li><li>Wall phone retexture\t<br></li><li>Standoff on climb: players can understand after warping down from a climb and be well underground, need to turn off stand when climbed<br></li><li>Fix track seams: fix track bottom seams for lightmapping, adjust light probes<br></li><li>Airplane push zone force\t<br></li><li>Sister's glasses prob: check for problems they stuck to face<br></li><li>Car Keys: need to rig<br></li><li>VCR toast sandwich: VCR toasting sandwich after insert(Waiting on art)<br></li><li>parent's bathroom lighting: bad lighting between tub and door, maybe from window above, maybe tub needs to crash<br></li><li>potted plant more dirt: bring dirt level up even with top of pot in potted plant<br></li><li>Progress stat test, steam sdk\tSteam achievements are set up to read progress stats from SDK, need to set them up on site <br></li><li>Frog box grabbable: Frog box needs to be grabbable with collision SFX<br></li><li>Underwater toilet shade: either lightmap or color texture blue for effect<br></li><li>Dippy Chicken texture: beak is messed up, needs fixes<br></li><li>Sandwich inedible post VCR\tsandwich can't be eaten after inserted in VCR, need fix<br></li><li>Grip back crawl: holding grip should force back crawl<br></li><li>Toggle grabbability in drawer: while items are in a closed drawer their intractability needs to toggle off<br></li><li>Bath drink: Drink water from baths should functional(SFX), head in proximity of toilet cause SFX<br></li><li>Turn ins crawlable: all turn ins should be able to crawl with them<br></li><li>House plant pot collision: tighter collision<br></li><li>Add grabbable: make interactable: plunger, umbrella, dustpan<br></li><li>Bathtub bubbles errors: throwing errors<br></li><li>Baseball bat widen: geo fix<br></li><li>Anim trigger CDown: need cooldown on anim trigger for re-start of anim, default to 0(set cat CD to anim length)<br></li><li>Cellphone reachability<br></li><li>Placement move<br></li><li>Check all teleporter: spot check bounds, enable crawl checkbox, (need scene save, do in morning)<br></li><li>Ring System second system restarting: spot check for heights<br></li><li>Playpen rug compression: lower compression, looks fuzzy<br></li><li>No Floor collide on slots: add disable crawl collision script to cars and truck(not motorcycle)<br></li><li>sister's magazine stretches<br></li><li>mouse trap face snap: mouse trap should also react to head trigger<br></li><li>wearable out far: wearable(pacifier) was offset, maybe switch to trigger<br></li><li>diary town page func: not working at all<br></li><li>SFX trigger CDown: radio need CD to no trigger again until end of song<br></li><li>Drinkable soap: drink dish soap and shampoo for hiccups and bubbles<br></li><li>Kaleidoscope dome stop tracking head rotation: Kaleidoscope causing player dizziness. unlocking kaleidoscope rotation from head rotation may help<br></li><li>kaleidoscope dome Fade in: Kaleidoscope is jarring when it starts<br></li><li>kaleidoscope dome render on top: the dome should render on top of all things<br></li><li>ring texture probs: compression too much<br></li><li>mousetrap missing geo: missing hook eye<br></li><li>Ring System, red transparent ring orientation: rotate<br></li><li>Ring System timer bug on Second system activate: improve code for repeatability<br></li><li>Kitchen chair teleport: broken teleport up, goes straight to down spot<br></li><li>Spray bottle no audio yellow: check SFX<br></li><li>spray bottles set-up: not working, needs check and fix<br></li><li>Arrow stick from throw: throwable suction arrow func<br></li><li>Fall trigger tele check: need a fall trigger check for is teleported<br></li><li>delorean volume up: adjust volume up out of engine then down in engine<br></li><li>gamma man missing effects: check systems<br></li><li>cat audio gone: check systems<br></li><li>down arrow: kid's bathroom adjust, multiple Down arrows on boy's desk</li></ul><br>As always, thanks for all your help testing and commenting in steam discussions and elsewhere, we couldn\u2019t do it without you!</p><br><h1>About the Game</h1><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/708820/extras/logoWToys.jpg?t=1523255994\" ><br>Experience the world through the eyes, ears and chubby little hands of a baby! Crawl your way through a zany retro sandbox experience, filled with fantasy and fun! Find lots of cool mini-games and use your imagination to bring your toys to life! Unlock achievements, solve puzzles and hunt for hidden objects in a world of giant furniture, cute stuffed animals and awesome toys!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/708820/extras/BabyHands_lookStill_2017_10_17.png?t=1523255994\" ><br>Home alone in a giant house, full of fun and marvelous things! What\u2019s a baby to do? Crawl around to play with all the cool toys, or just make a mess! Surely, the bigger mess you make, the more attention you will get later! <br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/708820/extras/toysLineup01.jpg?t=1523255994\" ><br>Tear apart your sister\u2019s diary for paper wads to throw, steal your brother\u2019s squirt gun, or find out what happens when you put a sandwich in the VCR! You can crawl your way into all kinds of mayhem, and let your imagination run wild! Watch your sister\u2019s toy rocket ship blast off to Mars, and see your brother\u2019s action figures come to life and battle each other! Cool interactive toys like the squirt guns and suction cup tipped arrows can be used to shoot things around the house or play a variety of different mini games.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/708820/extras/shoots.jpg?t=1523255994\" ><br><strong><i><h2 class=\"bb_tag\">Step into the diapers of a baby for a fun and innocent little adventure for the whole family! Everyone will go gaga for Baby Hands!</h2></i></strong><br><ul class=\"bb_ul\"><li>Crawl across the floor like a little baby!<br></li><li>Grab and throw all sorts of items around! Perhaps those car keys should be in the toilet?<br></li><li>Let your imagination run wild as toys come to life!<br></li><li>Solve various puzzles<br></li><li>Unlock a slew of repeatable mini-games!<br></li><li>Find hidden easter eggs and funny gags all over the house!<br></li><li>Be the baby!</li></ul>",
+  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/708820/extras/logoWToys.jpg?t=1523255994\" ><br>Experience the world through the eyes, ears and chubby little hands of a baby! Crawl your way through a zany retro sandbox experience, filled with fantasy and fun! Find lots of cool mini-games and use your imagination to bring your toys to life! Unlock achievements, solve puzzles and hunt for hidden objects in a world of giant furniture, cute stuffed animals and awesome toys!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/708820/extras/BabyHands_lookStill_2017_10_17.png?t=1523255994\" ><br>Home alone in a giant house, full of fun and marvelous things! What\u2019s a baby to do? Crawl around to play with all the cool toys, or just make a mess! Surely, the bigger mess you make, the more attention you will get later! <br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/708820/extras/toysLineup01.jpg?t=1523255994\" ><br>Tear apart your sister\u2019s diary for paper wads to throw, steal your brother\u2019s squirt gun, or find out what happens when you put a sandwich in the VCR! You can crawl your way into all kinds of mayhem, and let your imagination run wild! Watch your sister\u2019s toy rocket ship blast off to Mars, and see your brother\u2019s action figures come to life and battle each other! Cool interactive toys like the squirt guns and suction cup tipped arrows can be used to shoot things around the house or play a variety of different mini games.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/708820/extras/shoots.jpg?t=1523255994\" ><br><strong><i><h2 class=\"bb_tag\">Step into the diapers of a baby for a fun and innocent little adventure for the whole family! Everyone will go gaga for Baby Hands!</h2></i></strong><br><ul class=\"bb_ul\"><li>Crawl across the floor like a little baby!<br></li><li>Grab and throw all sorts of items around! Perhaps those car keys should be in the toilet?<br></li><li>Let your imagination run wild as toys come to life!<br></li><li>Solve various puzzles<br></li><li>Unlock a slew of repeatable mini-games!<br></li><li>Find hidden easter eggs and funny gags all over the house!<br></li><li>Be the baby!</li></ul>",
+  "short_description": "Experience the world through the eyes, ears and chubby little hands of a baby! Crawl your way through a zany retro sandbox experience, filled with imagination and fun! Baby Hands is a funny, family friendly VR baby simulator!",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese<strong>*</strong>, Portuguese-Brazil<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Swedish<strong>*</strong>, Thai<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "reviews": "\u201cEveryone loves Baby Hands! This game truly shines in VR!\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://www.vive.com\" target=\"_blank\" rel=\"noopener\"  >HTC Vive</a></a><br><br>\u201cYes! So magnificent and fun! Super cool! There's so much to do!\u201d<br><a href=\"https://www.youtube.com/user/TheDiamondMinecart\" target=\"_blank\" rel=\"noreferrer\"  >DanTDM</a></a><br><br>\u201cOH MY GOD YES!!! (Screaming) I'm a regular baby Robin Hood!\u201d<br><a href=\"https://www.youtube.com/user/jacksepticeye\" target=\"_blank\" rel=\"noreferrer\"  >Jacksepticeye</a></a><br>",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/708820/header.jpg?t=1523255994",
+  "website": "http://www.chicken-waffle.com",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1 (64bit)<br></li><li><strong>Processor:</strong> Intel i5-4590<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970 or AMD R9 290 or greater<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "Chicken Waffle"
+  ],
+  "publishers": [
+    "Chicken Waffle"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 2299,
+    "final": 2299,
+    "discount_percent": 0
+  },
+  "packages": [
+    204823
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Baby Hands",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 204823,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Baby Hands - 22,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 2299
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "3",
+      "description": "RPG"
+    },
+    {
+      "id": "28",
+      "description": "Simulation"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/708820/ss_3ecbcab22fb55510b76434e9b09a6e4915b3e777.600x338.jpg?t=1523255994",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/708820/ss_3ecbcab22fb55510b76434e9b09a6e4915b3e777.1920x1080.jpg?t=1523255994"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/708820/ss_6951a60d2101e802a1c0c1f0351278a9eb3e16a8.600x338.jpg?t=1523255994",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/708820/ss_6951a60d2101e802a1c0c1f0351278a9eb3e16a8.1920x1080.jpg?t=1523255994"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/708820/ss_5a67507330ecf7858463c8e29fd5fc7162f7fcb7.600x338.jpg?t=1523255994",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/708820/ss_5a67507330ecf7858463c8e29fd5fc7162f7fcb7.1920x1080.jpg?t=1523255994"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/708820/ss_a436fbf4f9b9bba1c35d7e3e2a3e13e387cbfd0b.600x338.jpg?t=1523255994",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/708820/ss_a436fbf4f9b9bba1c35d7e3e2a3e13e387cbfd0b.1920x1080.jpg?t=1523255994"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/708820/ss_800cefa8dd78ebdc37b25000e381c57df01b2ebf.600x338.jpg?t=1523255994",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/708820/ss_800cefa8dd78ebdc37b25000e381c57df01b2ebf.1920x1080.jpg?t=1523255994"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256707449,
+      "name": "Baby Hands Trailer!",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256707449/movie.293x165.jpg?t=1517342565",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256707449/movie480.webm?t=1517342565",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256707449/movie_max.webm?t=1517342565"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 83,
+    "highlighted": [
+      {
+        "name": "Great Escape!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/708820/74b69402bf60c9104421388c9f8c6303299edb87.jpg"
+      },
+      {
+        "name": "To the Top!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/708820/3cd32c302fdbb2bc7a7740b0da62dd708a114d83.jpg"
+      },
+      {
+        "name": "Fueled Up!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/708820/480ed0db33ddcfe2804629b3bf2b643db672ce2f.jpg"
+      },
+      {
+        "name": "Like a Boss.",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/708820/90f2752b632af1be5a1a5abb7e204e071d3399e5.jpg"
+      },
+      {
+        "name": "Baby Driver",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/708820/e9820f9dd01a95eb53c59f19eb9ac9272a3df0b0.jpg"
+      },
+      {
+        "name": "The Third Dimension!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/708820/2f43c5b657fda228efeaf76c737815d2396e9f16.jpg"
+      },
+      {
+        "name": "Good Baby",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/708820/e50c0b1125ce7fdbf2973080e1a43a48875f79c1.jpg"
+      },
+      {
+        "name": "Channeling Mozart",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/708820/782623dd99b7eae534090de8617db39f26e3c6e4.jpg"
+      },
+      {
+        "name": "Avid Reader",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/708820/6fd138f8257f5ba9ee4747daa7a1c0161d9af176.jpg"
+      },
+      {
+        "name": "Unicorn",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/708820/4fa8b5473103bde0848cc8802b0016cd992570b4.jpg"
+      }
+    ]
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "30 Jan, 2018"
+  },
+  "support_info": {
+    "url": "",
+    "email": "babyhands.support@chicken-waffle.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/708820/page_bg_generated_v6b.jpg?t=1523255994"
+}

@@ -1,0 +1,110 @@
+{
+  "type": "dlc",
+  "name": "Rhombs",
+  "steam_appid": 717900,
+  "required_age": 0,
+  "is_free": false,
+  "controller_support": "full",
+  "detailed_description": "Do you want to replace the usual Sticks with something else? This DLC will help you.<br />\r\nInstead of sticks, you will play for Rhombs.<br />\r\nEnjoy!",
+  "about_the_game": "Do you want to replace the usual Sticks with something else? This DLC will help you.<br />\r\nInstead of sticks, you will play for Rhombs.<br />\r\nEnjoy!",
+  "short_description": "Do you want to replace the usual Sticks with something else? This DLC will help you.",
+  "fullgame": {
+    "appid": "715340",
+    "name": "Sticks"
+  },
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/717900/header.jpg?t=1507084769",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1 GHZ<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 512 MB<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "Striped Rocket"
+  ],
+  "publishers": [
+    "Striped Rocket"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 99,
+    "final": 99,
+    "discount_percent": 0
+  },
+  "packages": [
+    208180
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Rhombs",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 208180,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Rhombs - 0,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 99
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 21,
+      "description": "Downloadable Content"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    },
+    {
+      "id": 28,
+      "description": "Full controller support"
+    }
+  ],
+  "genres": [
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/717900/ss_fc3a5027ec5bcfd96429685c9050db9d9a9f89a9.600x338.jpg?t=1507084769",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/717900/ss_fc3a5027ec5bcfd96429685c9050db9d9a9f89a9.1920x1080.jpg?t=1507084769"
+    }
+  ],
+  "release_date": {
+    "coming_soon": false,
+    "date": "3 Oct, 2017"
+  },
+  "support_info": {
+    "url": "",
+    "email": "stripedrocketsup@gmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/717900/page_bg_generated_v6b.jpg?t=1507084769"
+}
