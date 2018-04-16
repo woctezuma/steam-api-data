@@ -1,0 +1,122 @@
+{
+  "type": "game",
+  "name": "b",
+  "steam_appid": 660880,
+  "required_age": 0,
+  "is_free": true,
+  "detailed_description": "this is a play as you desire game.<h2 class=\"bb_tag\">b free</h2>flight experience: a newly created undulating meadow in spring / summer with a central big tree and day-night-cycle on every start is the playground of b -- a bumblebee of subgenus gaudium formosum, recognizable by their cheeky :p.<h2 class=\"bb_tag\">controls</h2><strong>non-assignable controls</strong><br>ESCAPE: open menu<br>left mouse button click (with menu not open): toggle grass density to alternative value<br>r: toggle let camera rotate around b<br>p: toggle land on below place and stick to it<br>s: halt when moving only due to inertia<br>i: toggle slow down time to a halt<br><br><strong>assignable controls and their default value</strong><br>increase flight speed (accel): w<br>slow down flight speed (brake): s<br>turn left: a<br>turn right: d<br>fly up: space<br>fly down: left shift<br>roll left: q<br>roll right: e<br>move wings to forward flight direction: o<br>move wings to upward flight direction: l<br><br><strong>joystick meaning</strong><br>thrust: speed<br>rudder: up/down<br>wings: roll<br>yaw: left/right<br>heli +/-: forward/upward<br><br><strong>Note</strong>: utilizes joystick 1 of Windows. The preferred joystick might have to be set as default within Windows game controller settings.<h2 class=\"bb_tag\">settings</h2><strong>launcher</strong><br><ul class=\"bb_ul\"><li>Graphics Quality: position in list: top: low quality, low hardware demands; bottom: high quality, high hardware demands (mostly GPU);  <br>most bottom is default</li></ul><br><strong>ingame</strong><br><ul class=\"bb_ul\"><li>landscape setting: 5 is default size. 6 already is demanding. 1 is minimum. 15 is very demanding. (GPU demands scale by the entire range, CPU demands scale from 6 upwards and have a minimum on average around 3 due to number of trees visible.) After change, clouds take time to fill the sky. While their generation isn't complete slider is disabled and frame rate might be unusually low.<br></li><li>disable elastic camera: makes camera statically fixed, improves performance on weak CPUs<br></li><li>number of dandelions: a high number of dandelions requires a strong CPU only when all their seeds are in the air (around one location)</li></ul><h2 class=\"bb_tag\">known issues</h2><ul class=\"bb_ul\"><li>some custom mp3 s don't play (due to large values in one of duration / bitrate / filesize),<br></li><li>sometimes, after having switched resolution, the game doesn't initialize. Alt+Tab ing to Windows Desktop and back to game initializes it then. The menu might not accept input then. In this case, press ESCAPE to play without configuration. A Windows restart cures this issue.</li></ul><strong>Note</strong>: no collisions is on purpose<h2 class=\"bb_tag\">changes</h2><ul class=\"bb_ul\"><li>since media creation: the landscape turning dark for around half a second after sun set and moon rises is fixed, midday peak brightness slightly reduced, morning and evening brightness reduced, night brightness slightly reduced, fog closer in morning and evening, game name logo replaced game name text in menu</li></ul><h2 class=\"bb_tag\">made with</h2><br><strong>Game Engine</strong><br>Unity<br><br><strong>Third-Party assets</strong><br>Shockwave-Sound: Days In the Sun (Full track), From Night to Dawn (60-secs version) (Invoice Nr.: 212765), LYN074: Nature &amp; Environments Set 3, LYN152: Ambient Environments (Invoice Nr.: 212869)<br><br><strong>Third-Party libraries, all from Unity Asset Store</strong><br><ul class=\"bb_ul\"><li>DirectX 11 Grass Shader <br></li><li>Simple SSAO <br></li><li>Azure[Sky] Dynamic Skybox <br></li><li>Unity UI: OxOD Open/Save File Dialog System <br></li><li>uAudio: Mp3 Player/Streamer <br></li><li>NPR Oil Paint Effect</li></ul><br><br><strong>system requirements are a guideline, they are not guaranteed to be the only one or satisfying everyones criteria. The central big tree, when close enough in view, is particularly CPU-intensive and might decrease framerate.</strong><br><br>recommending a joystick having thrust and yaw control.",
+  "about_the_game": "this is a play as you desire game.<h2 class=\"bb_tag\">b free</h2>flight experience: a newly created undulating meadow in spring / summer with a central big tree and day-night-cycle on every start is the playground of b -- a bumblebee of subgenus gaudium formosum, recognizable by their cheeky :p.<h2 class=\"bb_tag\">controls</h2><strong>non-assignable controls</strong><br>ESCAPE: open menu<br>left mouse button click (with menu not open): toggle grass density to alternative value<br>r: toggle let camera rotate around b<br>p: toggle land on below place and stick to it<br>s: halt when moving only due to inertia<br>i: toggle slow down time to a halt<br><br><strong>assignable controls and their default value</strong><br>increase flight speed (accel): w<br>slow down flight speed (brake): s<br>turn left: a<br>turn right: d<br>fly up: space<br>fly down: left shift<br>roll left: q<br>roll right: e<br>move wings to forward flight direction: o<br>move wings to upward flight direction: l<br><br><strong>joystick meaning</strong><br>thrust: speed<br>rudder: up/down<br>wings: roll<br>yaw: left/right<br>heli +/-: forward/upward<br><br><strong>Note</strong>: utilizes joystick 1 of Windows. The preferred joystick might have to be set as default within Windows game controller settings.<h2 class=\"bb_tag\">settings</h2><strong>launcher</strong><br><ul class=\"bb_ul\"><li>Graphics Quality: position in list: top: low quality, low hardware demands; bottom: high quality, high hardware demands (mostly GPU);  <br>most bottom is default</li></ul><br><strong>ingame</strong><br><ul class=\"bb_ul\"><li>landscape setting: 5 is default size. 6 already is demanding. 1 is minimum. 15 is very demanding. (GPU demands scale by the entire range, CPU demands scale from 6 upwards and have a minimum on average around 3 due to number of trees visible.) After change, clouds take time to fill the sky. While their generation isn't complete slider is disabled and frame rate might be unusually low.<br></li><li>disable elastic camera: makes camera statically fixed, improves performance on weak CPUs<br></li><li>number of dandelions: a high number of dandelions requires a strong CPU only when all their seeds are in the air (around one location)</li></ul><h2 class=\"bb_tag\">known issues</h2><ul class=\"bb_ul\"><li>some custom mp3 s don't play (due to large values in one of duration / bitrate / filesize),<br></li><li>sometimes, after having switched resolution, the game doesn't initialize. Alt+Tab ing to Windows Desktop and back to game initializes it then. The menu might not accept input then. In this case, press ESCAPE to play without configuration. A Windows restart cures this issue.</li></ul><strong>Note</strong>: no collisions is on purpose<h2 class=\"bb_tag\">changes</h2><ul class=\"bb_ul\"><li>since media creation: the landscape turning dark for around half a second after sun set and moon rises is fixed, midday peak brightness slightly reduced, morning and evening brightness reduced, night brightness slightly reduced, fog closer in morning and evening, game name logo replaced game name text in menu</li></ul><h2 class=\"bb_tag\">made with</h2><br><strong>Game Engine</strong><br>Unity<br><br><strong>Third-Party assets</strong><br>Shockwave-Sound: Days In the Sun (Full track), From Night to Dawn (60-secs version) (Invoice Nr.: 212765), LYN074: Nature &amp; Environments Set 3, LYN152: Ambient Environments (Invoice Nr.: 212869)<br><br><strong>Third-Party libraries, all from Unity Asset Store</strong><br><ul class=\"bb_ul\"><li>DirectX 11 Grass Shader <br></li><li>Simple SSAO <br></li><li>Azure[Sky] Dynamic Skybox <br></li><li>Unity UI: OxOD Open/Save File Dialog System <br></li><li>uAudio: Mp3 Player/Streamer <br></li><li>NPR Oil Paint Effect</li></ul><br><br><strong>system requirements are a guideline, they are not guaranteed to be the only one or satisfying everyones criteria. The central big tree, when close enough in view, is particularly CPU-intensive and might decrease framerate.</strong><br><br>recommending a joystick having thrust and yaw control.",
+  "short_description": "play as you desire<br />\r\n<br />\r\nb free<br />\r\n<br />\r\nflight experience",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/660880/header.jpg?t=1498460437",
+  "website": "http://uani.de/b",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Vista<br></li><li><strong>Processor:</strong> i5-4430 performance class<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1060 performance class<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 170 MB available space<br></li><li><strong>Additional Notes:</strong> Memory requirement is as needed by the game itself at default settings, estimated maximum frame rate @ 1920x1080 and default settings: 37 (limited by CPU, different settings relieve or tax mostly the GPU). Estimation is based on flying above landscape facing it and sky each around 50% and facing away from the central big tree, using timings at disposal during development-time. Given either required systems class hardware and not running additional software competing for the same resources at the same time for any non-nothing-like duration the experience has been smooth (as in no noticed frame rate fluctuation).</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> i7-7700K performance class<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 1070 performance class<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 170 MB available space<br></li><li><strong>Additional Notes:</strong> Memory requirement is as needed by the game itself at default settings, estimated maximum frame rate @ 1920x1080 and default settings: 65 (limited by CPU, different settings relieve or tax mostly the GPU). Estimation is based on flying above landscape facing it and sky each around 50% and facing away from the central big tree, using timings at disposal during development-time. Given either required systems class hardware and not running additional software competing for the same resources at the same time for any non-nothing-like duration the experience has been smooth (as in no noticed frame rate fluctuation).</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "developers": [
+    "u&i"
+  ],
+  "publishers": [
+    "u&i"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 18,
+      "description": "Partial Controller Support"
+    }
+  ],
+  "genres": [
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "37",
+      "description": "Free to Play"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/660880/ss_0ec45afa80cfda24032177acf1331c6887aee9cc.600x338.jpg?t=1498460437",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/660880/ss_0ec45afa80cfda24032177acf1331c6887aee9cc.1920x1080.jpg?t=1498460437"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/660880/ss_62f8baa853622ec883a2ffed2a4542765966675b.600x338.jpg?t=1498460437",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/660880/ss_62f8baa853622ec883a2ffed2a4542765966675b.1920x1080.jpg?t=1498460437"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/660880/ss_a8e56087fd30436ab28fa5f7ac26734ffe7c5afe.600x338.jpg?t=1498460437",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/660880/ss_a8e56087fd30436ab28fa5f7ac26734ffe7c5afe.1920x1080.jpg?t=1498460437"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/660880/ss_2a97b12dd45bf8ca0a7683e4eed4d61eaf9ca0e2.600x338.jpg?t=1498460437",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/660880/ss_2a97b12dd45bf8ca0a7683e4eed4d61eaf9ca0e2.1920x1080.jpg?t=1498460437"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/660880/ss_ccf9693e8711adb0d9ecae37199a0733d9efefe5.600x338.jpg?t=1498460437",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/660880/ss_ccf9693e8711adb0d9ecae37199a0733d9efefe5.1920x1080.jpg?t=1498460437"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/660880/ss_552530cbaa7a2f5344d93273469dde47841da761.600x338.jpg?t=1498460437",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/660880/ss_552530cbaa7a2f5344d93273469dde47841da761.1920x1080.jpg?t=1498460437"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/660880/ss_4156b66957176518c7221801062e5046125070eb.600x338.jpg?t=1498460437",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/660880/ss_4156b66957176518c7221801062e5046125070eb.1920x1080.jpg?t=1498460437"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256687811,
+      "name": "Release Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256687811/movie.293x165.jpg?t=1498253613",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256687811/movie480.webm?t=1498253613",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256687811/movie_max.webm?t=1498253613"
+      },
+      "highlight": true
+    }
+  ],
+  "recommendations": {
+    "total": 2674
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "26 Jun, 2017"
+  },
+  "support_info": {
+    "url": "",
+    "email": "b@uani.de"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/660880/page_bg_generated_v6b.jpg?t=1498460437"
+}
