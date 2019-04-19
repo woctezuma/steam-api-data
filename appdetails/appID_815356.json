@@ -11,7 +11,7 @@
     "appid": "672680",
     "name": "Call of War"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Japanese, Dutch, Polish, Portuguese, Russian, Czech",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Dutch, Polish, Portuguese, Russian, Czech",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/815356/header.jpg?t=1523374839",
   "website": "https://www.callofwar.com/index.php?id=304&amp;r=851",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 17999,
     "final": 17999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "179,99\u20ac"
   },
   "packages": [
     249509
@@ -156,5 +158,9 @@
     "url": "https://www.callofwar.com/index.php?id=279",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/815356/page_bg_generated_v6b.jpg?t=1523374839"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/815356/page_bg_generated_v6b.jpg?t=1523374839",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

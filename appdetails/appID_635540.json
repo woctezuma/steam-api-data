@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     174559
@@ -134,5 +136,9 @@
     "url": "http://keeperrl.com",
     "email": "miki@keeperrl.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/635540/page_bg_generated_v6b.jpg?t=1499542803"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/635540/page_bg_generated_v6b.jpg?t=1499542803",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

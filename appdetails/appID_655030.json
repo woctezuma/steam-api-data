@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "final": 59,
+    "discount_percent": 70,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "0,59\u20ac"
   },
   "packages": [
     184664
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 184664,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Simple Light Cycles - 1,99\u20ac",
+          "option_text": "Simple Light Cycles - <span class=\"discount_original_price\">1,99\u20ac</span> 0,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 59
         }
       ]
     }
@@ -198,5 +200,9 @@
     "url": "http://slc.kelsam.net/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/655030/page_bg_generated_v6b.jpg?t=1497634644"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/655030/page_bg_generated_v6b.jpg?t=1497634644",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

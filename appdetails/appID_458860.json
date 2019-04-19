@@ -11,7 +11,7 @@
     "appid": "312450",
     "name": "Order of Battle: World War II"
   },
-  "supported_languages": "English, French, German, Spanish, Russian",
+  "supported_languages": "English, French, German, Spanish - Spain, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/458860/header.jpg?t=1478608803",
   "website": "http://slitherine.com/games/order_of_battle_pacific",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     99780
@@ -123,6 +125,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/458860/ss_0a4393a4be76f9b470fa0f613d0964ea5f5cb4d4.1920x1080.jpg?t=1478608803"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Jul, 2016"
@@ -131,5 +136,9 @@
     "url": "www.slitherine.com",
     "email": "support@slitherine.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/458860/page_bg_generated_v6b.jpg?t=1478608803"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/458860/page_bg_generated_v6b.jpg?t=1478608803",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

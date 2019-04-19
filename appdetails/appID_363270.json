@@ -29,10 +29,12 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
-    "65274"
+    65274
   ],
   "package_groups": [
     {
@@ -45,7 +47,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "65274",
+          "packageid": 65274,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "O3DX - 7,99\u20ac",
@@ -196,5 +198,9 @@
     "url": "http://www.o3dx.com",
     "email": "support@o3dx.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/363270/page_bg_generated_v6b.jpg?t=1466492995"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/363270/page_bg_generated_v6b.jpg?t=1466492995",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     70753
@@ -142,6 +144,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/379400/ss_92000921998a393863f1059489d7a1fc6e059b45.1920x1080.jpg?t=1447376435"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Jun, 2015"
@@ -150,5 +155,9 @@
     "url": "http://necrodancer.com/contact.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/379400/page_bg_generated_v6b.jpg?t=1447376435"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/379400/page_bg_generated_v6b.jpg?t=1447376435",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

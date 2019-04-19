@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     117751
@@ -135,7 +137,7 @@
     }
   ],
   "recommendations": {
-    "total": 112
+    "total": 117
   },
   "achievements": {
     "total": 11,
@@ -190,5 +192,9 @@
     "url": "",
     "email": "britt@cowboycolor.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/508990/page_bg_generated_v6b.jpg?t=1470684635"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/508990/page_bg_generated_v6b.jpg?t=1470684635",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

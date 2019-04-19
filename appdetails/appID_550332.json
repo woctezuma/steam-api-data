@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Raven can also be unlocked using in-game currency.",
   "about_the_game": "Raven can also be unlocked using in-game currency.",
-  "short_description": "",
+  "short_description": "Raven can also be unlocked using in-game currency.",
   "fullgame": {
     "appid": "520440",
     "name": "GUILTY GEAR Xrd -REVELATOR-"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     136283
@@ -128,6 +130,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/550332/ss_a42397f06f051bd987a900a7481e381e6cd08901.1920x1080.jpg?t=1481727093"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Dec, 2016"
@@ -136,5 +141,9 @@
     "url": "http://www.arcsystemworks.jp/steam/en/contact_02.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/550332/page_bg_generated_v6b.jpg?t=1481727093"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/550332/page_bg_generated_v6b.jpg?t=1481727093",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

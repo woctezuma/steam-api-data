@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Purchase this DLC to upgrade from B2M3 to B2M3 Professional.",
   "about_the_game": "Purchase this DLC to upgrade from B2M3 to B2M3 Professional.",
-  "short_description": "",
+  "short_description": "Purchase this DLC to upgrade from B2M3 to B2M3 Professional.",
   "fullgame": {
     "appid": "325910",
     "name": "Substance B2M3"
@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 4599,
-    "final": 4599,
-    "discount_percent": 0
+    "initial": 4999,
+    "final": 4999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "49,99\u20ac"
   },
   "packages": [
     52047
@@ -49,11 +51,11 @@
           "packageid": 52047,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Bitmap2Material 3 Professional Upgrade - 45,99\u20ac",
+          "option_text": "Bitmap2Material 3 Professional Upgrade - 49,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 4599
+          "price_in_cents_with_discount": 4999
         }
       ]
     }
@@ -119,6 +121,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/326050/ss_518b042a9f3b6d335db8c15607a319c474873375.1920x1080.jpg?t=1447363944"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Sep, 2014"
@@ -127,5 +132,9 @@
     "url": "www.allegorithmic.com",
     "email": "support@allegorithmic.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/326050/page_bg_generated_v6b.jpg?t=1447363944"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/326050/page_bg_generated_v6b.jpg?t=1447363944",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

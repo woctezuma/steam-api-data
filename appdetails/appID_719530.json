@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     208687
@@ -99,6 +101,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/719530/ss_1a670a3660658d9d425c81adedd0f5db82d9f5c2.1920x1080.jpg?t=1509556036"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Sep, 2017"
@@ -107,5 +112,9 @@
     "url": "https://support.runicgames.com/",
     "email": "support@runicgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/719530/page_bg_generated_v6b.jpg?t=1509556036"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/719530/page_bg_generated_v6b.jpg?t=1509556036",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

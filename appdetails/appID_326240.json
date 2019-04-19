@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     52101
@@ -171,6 +173,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/326240/ss_9615f1c3fb6cf459a4acc1abfabbaeae4da45f64.1920x1080.jpg?t=1447363960"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Oct, 2014"
@@ -179,5 +184,9 @@
     "url": "http://greenlavastudios.com/contact/",
     "email": "info@greenlavastudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/326240/page_bg_generated_v6b.jpg?t=1447363960"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/326240/page_bg_generated_v6b.jpg?t=1447363960",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

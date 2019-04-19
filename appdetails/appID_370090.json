@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     67610
@@ -173,9 +175,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 366
-  },
   "achievements": {
     "total": 14,
     "highlighted": [
@@ -229,5 +228,9 @@
     "url": "http://axisgamesonline.com/p/contact-us/",
     "email": "danny@AxisGamesOnline.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/370090/page_bg_generated_v6b.jpg?t=1447374391"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/370090/page_bg_generated_v6b.jpg?t=1447374391",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

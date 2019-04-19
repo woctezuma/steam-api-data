@@ -12,8 +12,8 @@
     "name": "Microsoft Flight Simulator X: Steam Edition"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/609828/header.jpg?t=1496838678",
-  "website": "http://www.fsxinsider.com",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/609828/header.jpg?t=1537258174",
+  "website": "https://live.dovetailgames.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae XP Service Pack 2 or later<br></li><li><strong>Processor:</strong> 2.0 Ghz or higher (single core)<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong> DirectX\u00ae9 compliant video card or greater, 256 MB video RAM or higher, Shader Model 1.1 or higher (Laptop versions of these chipsets may work but are not supported. Updates to your video and sound card drivers may be required)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 30 MB available space<br></li><li><strong>Sound Card:</strong> Direct X 9.0c compatible<br></li><li><strong>Additional Notes:</strong> Broadband internet connection required for multiplayer features</li></ul>"
   },
@@ -28,8 +28,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1599,
-    "final": 1599,
-    "discount_percent": 0
+    "final": 799,
+    "discount_percent": 50,
+    "initial_formatted": "15,99\u20ac",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     162697
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 162697,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "FSX Steam Edition: Convair R3Y Tradewind Add-On - 15,99\u20ac",
+          "option_text": "FSX Steam Edition: Convair R3Y Tradewind Add-On - <span class=\"discount_original_price\">15,99\u20ac</span> 7,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1599
+          "price_in_cents_with_discount": 799
         }
       ]
     }
@@ -89,55 +91,58 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_ba5ddfa1db10ce4cc94190773c13581b5682c4be.600x338.jpg?t=1496838678",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_ba5ddfa1db10ce4cc94190773c13581b5682c4be.1920x1080.jpg?t=1496838678"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_ba5ddfa1db10ce4cc94190773c13581b5682c4be.600x338.jpg?t=1537258174",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_ba5ddfa1db10ce4cc94190773c13581b5682c4be.1920x1080.jpg?t=1537258174"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_3b9f88a7e13186a9d87c56aeb488980c0427b84f.600x338.jpg?t=1496838678",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_3b9f88a7e13186a9d87c56aeb488980c0427b84f.1920x1080.jpg?t=1496838678"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_3b9f88a7e13186a9d87c56aeb488980c0427b84f.600x338.jpg?t=1537258174",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_3b9f88a7e13186a9d87c56aeb488980c0427b84f.1920x1080.jpg?t=1537258174"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_a4eb354f9b2007aa0e55ee3447987af4fde4fdd2.600x338.jpg?t=1496838678",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_a4eb354f9b2007aa0e55ee3447987af4fde4fdd2.1920x1080.jpg?t=1496838678"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_a4eb354f9b2007aa0e55ee3447987af4fde4fdd2.600x338.jpg?t=1537258174",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_a4eb354f9b2007aa0e55ee3447987af4fde4fdd2.1920x1080.jpg?t=1537258174"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_34c72ea966ee9594561491d04e3f70591b7dad04.600x338.jpg?t=1496838678",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_34c72ea966ee9594561491d04e3f70591b7dad04.1920x1080.jpg?t=1496838678"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_34c72ea966ee9594561491d04e3f70591b7dad04.600x338.jpg?t=1537258174",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_34c72ea966ee9594561491d04e3f70591b7dad04.1920x1080.jpg?t=1537258174"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_55885be72d79b645631a24e435f547b2b95ae1b2.600x338.jpg?t=1496838678",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_55885be72d79b645631a24e435f547b2b95ae1b2.1920x1080.jpg?t=1496838678"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_55885be72d79b645631a24e435f547b2b95ae1b2.600x338.jpg?t=1537258174",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_55885be72d79b645631a24e435f547b2b95ae1b2.1920x1080.jpg?t=1537258174"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_77fb8815e97629270a5cae085d31829138f82110.600x338.jpg?t=1496838678",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_77fb8815e97629270a5cae085d31829138f82110.1920x1080.jpg?t=1496838678"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_77fb8815e97629270a5cae085d31829138f82110.600x338.jpg?t=1537258174",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_77fb8815e97629270a5cae085d31829138f82110.1920x1080.jpg?t=1537258174"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_f31db1446c412ca0d09ceb1c02fc4edd2b5acd48.600x338.jpg?t=1496838678",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_f31db1446c412ca0d09ceb1c02fc4edd2b5acd48.1920x1080.jpg?t=1496838678"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_f31db1446c412ca0d09ceb1c02fc4edd2b5acd48.600x338.jpg?t=1537258174",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_f31db1446c412ca0d09ceb1c02fc4edd2b5acd48.1920x1080.jpg?t=1537258174"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_516437771030af37506939665586c74d02812a5b.600x338.jpg?t=1496838678",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_516437771030af37506939665586c74d02812a5b.1920x1080.jpg?t=1496838678"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_516437771030af37506939665586c74d02812a5b.600x338.jpg?t=1537258174",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_516437771030af37506939665586c74d02812a5b.1920x1080.jpg?t=1537258174"
     },
     {
       "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_686ee9c0af2bfd55f7d4d88a2d57a98ed5ef98c4.600x338.jpg?t=1496838678",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_686ee9c0af2bfd55f7d4d88a2d57a98ed5ef98c4.1920x1080.jpg?t=1496838678"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_686ee9c0af2bfd55f7d4d88a2d57a98ed5ef98c4.600x338.jpg?t=1537258174",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_686ee9c0af2bfd55f7d4d88a2d57a98ed5ef98c4.1920x1080.jpg?t=1537258174"
     },
     {
       "id": 9,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_246acab3402148e1f84c463ef43e57f38c549634.600x338.jpg?t=1496838678",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_246acab3402148e1f84c463ef43e57f38c549634.1920x1080.jpg?t=1496838678"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_246acab3402148e1f84c463ef43e57f38c549634.600x338.jpg?t=1537258174",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/609828/ss_246acab3402148e1f84c463ef43e57f38c549634.1920x1080.jpg?t=1537258174"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Jun, 2017"
@@ -146,5 +151,9 @@
     "url": "http://dovetailgames.kayako.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/609828/page_bg_generated_v6b.jpg?t=1496838678"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/609828/page_bg_generated_v6b.jpg?t=1537258174",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

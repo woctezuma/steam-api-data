@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     46066
@@ -144,6 +146,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/308172/ss_7c57b904444db7c59b0a0c1df5a1aba47a28f356.1920x1080.jpg?t=1447362356"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Dec, 2014"
@@ -152,5 +157,9 @@
     "url": "",
     "email": "support@kasedogames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/308172/page_bg_generated_v6b.jpg?t=1447362356"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/308172/page_bg_generated_v6b.jpg?t=1447362356",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

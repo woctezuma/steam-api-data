@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Gives you the exclusive Transmutation Rune which allows you to absorb any of the game's relics and transform them into one of your choice. <br />\r\n<br />\r\nThe Transmutation Rune allows you to always have the best one at your disposal for any given situation! Note: This ability only becomes available once you have picked up your first relic and you can only transform a relic into one you have already discovered.",
   "about_the_game": "Gives you the exclusive Transmutation Rune which allows you to absorb any of the game's relics and transform them into one of your choice. <br />\r\n<br />\r\nThe Transmutation Rune allows you to always have the best one at your disposal for any given situation! Note: This ability only becomes available once you have picked up your first relic and you can only transform a relic into one you have already discovered.",
-  "short_description": "",
+  "short_description": "Gives you the exclusive Transmutation Rune which allows you to absorb any of the game's relics and transform them into one of your choice. The Transmutation Rune allows you to always have the best one at your disposal for any given situation!",
   "fullgame": {
     "appid": "239250",
     "name": "Castlevania: Lords of Shadow 2"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/273152/header.jpg?t=1468530658",
   "website": "http://www.castlevania-lordsofshadow.com",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     36814,
@@ -120,6 +122,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/273152/ss_18a829c589a71f25076e20b5a708aab52c940c22.1920x1080.jpg?t=1468530658"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Mar, 2014"
@@ -128,5 +133,9 @@
     "url": "https://us.konami.com/support/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/273152/page_bg_generated_v6b.jpg?t=1468530658"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/273152/page_bg_generated_v6b.jpg?t=1468530658",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

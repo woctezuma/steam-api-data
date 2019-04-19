@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     142744
@@ -142,5 +144,9 @@
     "url": "",
     "email": "support@anvate.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/565310/page_bg_generated_v6b.jpg?t=1495616525"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/565310/page_bg_generated_v6b.jpg?t=1495616525",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

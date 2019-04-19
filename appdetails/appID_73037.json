@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>In the Frozen Lake DLC, only the boldest Wizards challenge each other on a large body of water, the Wizards inability to tread water is a more common cause of death during these duels than the successful spellcasting of the opponent.</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>New map for the Versus game mode\n\t\t\t\t\t\t<li>Frozen water provides new environmental hazard\n\t\t\t\t\t\t<li>Contains many different pleasing shades of blue and white\n\t\t\t\t\t\t</ul>",
   "about_the_game": "<p>In the Frozen Lake DLC, only the boldest Wizards challenge each other on a large body of water, the Wizards inability to tread water is a more common cause of death during these duels than the successful spellcasting of the opponent.</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>New map for the Versus game mode\n\t\t\t\t\t\t<li>Frozen water provides new environmental hazard\n\t\t\t\t\t\t<li>Contains many different pleasing shades of blue and white\n\t\t\t\t\t\t</ul>",
-  "short_description": "",
+  "short_description": "In the Frozen Lake DLC, only the boldest Wizards challenge each other on a large body of water, the Wizards inability to tread water is a more common cause of death during these duels than the successful spellcasting of the opponent.",
   "fullgame": {
     "appid": "42910",
     "name": "Magicka"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     8489
@@ -151,6 +153,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/73037/ss_c93e2ae7d6276a2a523d8edf1061d84eb25fc58e.1920x1080.jpg?t=1447354331"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Jun, 2011"
@@ -159,5 +164,9 @@
     "url": "http://www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/73037/page_bg_generated_v6b.jpg?t=1447354331"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/73037/page_bg_generated_v6b.jpg?t=1447354331",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

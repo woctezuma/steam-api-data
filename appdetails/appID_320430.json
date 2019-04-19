@@ -4,16 +4,23 @@
   "steam_appid": 320430,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "Ascension: Chronicle of the Godslayer was the first officially licensed deck building card game for iOS, and is now available for your PC as Ascension: Deckbuilding Game, complete with 5 full expansion decks! Play alone or with friends to battle against the Fallen One for honor and victory. Conceived and designed by three Magic: the Gathering tournament champions, Ascension will provide hours of engaging and strategic game play for enthusiast and experienced gamers alike.<br />\r\n<br />\r\nHighlights<br />\r\n\u2022 Over 300 beautifully detailed cards, hand drawn by Eric Sabee.<br />\r\n\u2022 Full asynchronous support for multiplayer online games.<br />\r\n\u2022 Play against multiple A.I. opponents using varied strategies.<br />\r\n\u2022 Introductory tutorial to teach you how to play.",
-  "about_the_game": "Ascension: Chronicle of the Godslayer was the first officially licensed deck building card game for iOS, and is now available for your PC as Ascension: Deckbuilding Game, complete with 5 full expansion decks! Play alone or with friends to battle against the Fallen One for honor and victory. Conceived and designed by three Magic: the Gathering tournament champions, Ascension will provide hours of engaging and strategic game play for enthusiast and experienced gamers alike.<br />\r\n<br />\r\nHighlights<br />\r\n\u2022 Over 300 beautifully detailed cards, hand drawn by Eric Sabee.<br />\r\n\u2022 Full asynchronous support for multiplayer online games.<br />\r\n\u2022 Play against multiple A.I. opponents using varied strategies.<br />\r\n\u2022 Introductory tutorial to teach you how to play.",
-  "short_description": "Ascension: Chronicle of the Godslayer was the first officially licensed deck building card game for iOS, and is now available for your PCas Ascension: Deckbuilding Game, complete with 5 full expansion decks! Play alone or with friends to battle against the Fallen One for honor and victory. Conceived and designed by three Magic: the Gathering tournament champions, Ascension will provide hours of engaging and strategic game play for enthusiast and experienced gamers alike.",
+  "dlc": [
+    942590,
+    858930,
+    899140
+  ],
+  "detailed_description": "Ascension: Chronicle of the Godslayer was the first officially licensed deck building card game for iOS, and is now available for your PC as Ascension: Deckbuilding Game, complete with 9 full expansion decks and five full promo card packs! Play alone or with friends to battle against the Fallen One for honor and victory. Conceived and designed by three Magic: the Gathering tournament champions, Ascension will provide hours of engaging and strategic game play for enthusiast and experienced gamers alike.<br />\r\n<br />\r\nHighlights<br />\r\n\u2022 Over 300 beautifully detailed cards, hand drawn by Eric Sabee.<br />\r\n\u2022 Full asynchronous support for multiplayer online games.<br />\r\n\u2022 Play against multiple A.I. opponents using varied strategies.<br />\r\n\u2022 Introductory tutorial to teach you how to play.<br />\r\n\u2022 9 full expansion decks included: Return of the Fallen, Storm of Souls, Immortal Heroes, Rise of Vigil, Darkness Unleashed, Realms Unraveled, Dawn of Champions, Dreamscape, War of Shadows, and promo card packs #1 to #5 also included!",
+  "about_the_game": "Ascension: Chronicle of the Godslayer was the first officially licensed deck building card game for iOS, and is now available for your PC as Ascension: Deckbuilding Game, complete with 9 full expansion decks and five full promo card packs! Play alone or with friends to battle against the Fallen One for honor and victory. Conceived and designed by three Magic: the Gathering tournament champions, Ascension will provide hours of engaging and strategic game play for enthusiast and experienced gamers alike.<br />\r\n<br />\r\nHighlights<br />\r\n\u2022 Over 300 beautifully detailed cards, hand drawn by Eric Sabee.<br />\r\n\u2022 Full asynchronous support for multiplayer online games.<br />\r\n\u2022 Play against multiple A.I. opponents using varied strategies.<br />\r\n\u2022 Introductory tutorial to teach you how to play.<br />\r\n\u2022 9 full expansion decks included: Return of the Fallen, Storm of Souls, Immortal Heroes, Rise of Vigil, Darkness Unleashed, Realms Unraveled, Dawn of Champions, Dreamscape, War of Shadows, and promo card packs #1 to #5 also included!",
+  "short_description": "Ascension: Chronicle of the Godslayer was the first officially licensed deck building card game for iOS, and is now available for your PCas Ascension: Deckbuilding Game, complete with 9 full expansion decks! Play alone or with friends to battle against the Fallen One for honor and victory.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/320430/header.jpg?t=1513904382",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/320430/header.jpg?t=1542042354",
   "website": "http://www.playdekgames.com/games.php?games=ascension_page.php&amp;title=Ascension:%20COTG",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> Intel Pentium or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> While Network Connection is not required it is recommended</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2+<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> While Network Connection is not required it is recommended</li></ul>"
   },
-  "mac_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.8+<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> While Network Connection is not required it is recommended</li></ul>"
+  },
   "linux_requirements": [],
   "developers": [
     "Playdek, Inc."
@@ -25,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     49892
@@ -55,7 +64,7 @@
   ],
   "platforms": {
     "windows": true,
-    "mac": false,
+    "mac": true,
     "linux": false
   },
   "categories": [
@@ -89,57 +98,57 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_9389519f120542ad035102130a8d020b94c5e828.600x338.jpg?t=1513904382",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_9389519f120542ad035102130a8d020b94c5e828.1920x1080.jpg?t=1513904382"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_2ba781e2d99c703c0643a767cd8df43ef2771575.600x338.jpg?t=1542042354",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_2ba781e2d99c703c0643a767cd8df43ef2771575.1920x1080.jpg?t=1542042354"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_3c6845f8599a8dc89443c0c1e258f7b74448e61a.600x338.jpg?t=1513904382",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_3c6845f8599a8dc89443c0c1e258f7b74448e61a.1920x1080.jpg?t=1513904382"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_f0b4443f9f5752d83b648457ba73ce0733454839.600x338.jpg?t=1542042354",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_f0b4443f9f5752d83b648457ba73ce0733454839.1920x1080.jpg?t=1542042354"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_9d9fa0d1cec9c6980b5545d621abe4abe5b79635.600x338.jpg?t=1513904382",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_9d9fa0d1cec9c6980b5545d621abe4abe5b79635.1920x1080.jpg?t=1513904382"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_5cd5c8e9871bf5f3c3ddaa847109434c79b6bd7a.600x338.jpg?t=1542042354",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_5cd5c8e9871bf5f3c3ddaa847109434c79b6bd7a.1920x1080.jpg?t=1542042354"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_287b5d6b14ab9d9993ae902c97261a9878363d5b.600x338.jpg?t=1513904382",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_287b5d6b14ab9d9993ae902c97261a9878363d5b.1920x1080.jpg?t=1513904382"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_dd90a818f7491da1353c02c0392a06834329c3a2.600x338.jpg?t=1542042354",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_dd90a818f7491da1353c02c0392a06834329c3a2.1920x1080.jpg?t=1542042354"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_57bcdf4cb6002889ca681cee6126ad1539578062.600x338.jpg?t=1513904382",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_57bcdf4cb6002889ca681cee6126ad1539578062.1920x1080.jpg?t=1513904382"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_0b05fa870f5584d2f1bd41cab1421676caa81518.600x338.jpg?t=1542042354",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_0b05fa870f5584d2f1bd41cab1421676caa81518.1920x1080.jpg?t=1542042354"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_6c1776cf0aa59fbe19e95255a559e4cac7766f78.600x338.jpg?t=1513904382",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_6c1776cf0aa59fbe19e95255a559e4cac7766f78.1920x1080.jpg?t=1513904382"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_edeb2cd5a2db82bfc27aac3515a578effeb95c5e.600x338.jpg?t=1542042354",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_edeb2cd5a2db82bfc27aac3515a578effeb95c5e.1920x1080.jpg?t=1542042354"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_3c6845f8599a8dc89443c0c1e258f7b74448e61a.600x338.jpg?t=1513904382",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_3c6845f8599a8dc89443c0c1e258f7b74448e61a.1920x1080.jpg?t=1513904382"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_cb3ee3b78c8137656df95d75523d4b696f0003c8.600x338.jpg?t=1542042354",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/320430/ss_cb3ee3b78c8137656df95d75523d4b696f0003c8.1920x1080.jpg?t=1542042354"
     }
   ],
   "movies": [
     {
-      "id": 2036090,
-      "name": "Ascension: Deckbuilding Game",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2036090/movie.293x165.jpg?t=1447365920",
+      "id": 256718058,
+      "name": "Ascension: Deckbuilding Game Trailer - English",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256718058/movie.293x165.jpg?t=1527511591",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/2036090/movie480.webm?t=1447365920",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/2036090/movie_max.webm?t=1447365920"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256718058/movie480.webm?t=1527511591",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256718058/movie_max.webm?t=1527511591"
       },
       "highlight": true
     }
   ],
   "recommendations": {
-    "total": 270
+    "total": 360
   },
   "achievements": {
-    "total": 61,
+    "total": 70,
     "highlighted": [
       {
         "name": "On Your Way",
@@ -189,7 +198,11 @@
   },
   "support_info": {
     "url": "https://asmodee.helpshift.com/a/ascension/",
-    "email": "support@asmodee.mail.helpshift.com"
+    "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/320430/page_bg_generated_v6b.jpg?t=1513904382"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/320430/page_bg_generated_v6b.jpg?t=1542042354",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

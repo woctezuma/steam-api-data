@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     115007
@@ -126,5 +128,9 @@
     "url": "http://www.wingedminds.com/",
     "email": "citadel@wingedminds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501060/page_bg_generated_v6b.jpg?t=1469729350"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501060/page_bg_generated_v6b.jpg?t=1469729350",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

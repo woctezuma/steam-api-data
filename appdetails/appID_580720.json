@@ -11,7 +11,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/580720/header.jpg?t=1502120382",
   "website": "http://slitherine.com/products/product.asp?gid=680",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8 / 10<br></li><li><strong>Processor:</strong> 2.3GHZ CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX10 compatible graphics card  Shader model 3+<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 244 MB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible</li></ul>"
+    "minimum": "<strong>M\u00ednimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 7 / 8 / 10<br></li><li><strong>Procesador:</strong> 2.3GHZ CPU<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gr\u00e1ficos:</strong> DirectX10 compatible graphics card  Shader model 3+<br></li><li><strong>DirectX:</strong> Versi\u00f3n 10<br></li><li><strong>Almacenamiento:</strong> 244 MB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX Compatible</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     148873
@@ -131,7 +133,7 @@
     }
   ],
   "recommendations": {
-    "total": 250
+    "total": 358
   },
   "achievements": {
     "total": 33,
@@ -186,5 +188,9 @@
     "url": "www.slitherine.co.uk",
     "email": "support@slitherine.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/580720/page_bg_generated_v6b.jpg?t=1502120382"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/580720/page_bg_generated_v6b.jpg?t=1502120382",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

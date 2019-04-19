@@ -11,7 +11,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/713920/header.jpg?t=1510936123",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8.1, 10<br></li><li><strong>Processor:</strong> Intel Core 2 Duo (or equivalent)<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> with 1024 MB VRAM compatible with DirectX 9<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> Compatible with DirectX</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP, Vista, 7, 8.1, 10<br></li><li><strong>Processeur\u00a0:</strong> Intel Core 2 Duo (or equivalent)<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2048 MB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> with 1024 MB VRAM compatible with DirectX 9<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0<br></li><li><strong>Espace disque\u00a0:</strong> 300 MB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> Compatible with DirectX</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 39,
+    "discount_percent": 88,
+    "initial_formatted": "3,29\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     206621
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 206621,
-          "percent_savings_text": "",
+          "percent_savings_text": "-88%",
           "percent_savings": 0,
-          "option_text": "Brayan Odleys Numbers - 3,99\u20ac",
+          "option_text": "Brayan Odleys Numbers - <span class=\"discount_original_price\">3,29\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Nov, 2017"
@@ -127,5 +132,9 @@
     "url": "http://siberian.digital/",
     "email": "support@siberiandigital.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/713920/page_bg_generated_v6b.jpg?t=1510936123"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/713920/page_bg_generated_v6b.jpg?t=1510936123",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     109434
@@ -125,6 +127,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/486220/ss_ccea9e39a7e9b30a178d97d8e150e2dded0b55a4.1920x1080.jpg?t=1468000885"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Jul, 2016"
@@ -133,5 +138,9 @@
     "url": "http://tinyBuild.com/boid",
     "email": "contact@tinybuildgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/486220/page_bg_generated_v6b.jpg?t=1468000885"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/486220/page_bg_generated_v6b.jpg?t=1468000885",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

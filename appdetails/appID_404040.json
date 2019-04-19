@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     79120,
@@ -141,7 +143,10 @@
     }
   ],
   "recommendations": {
-    "total": 124
+    "total": 137
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -151,5 +156,9 @@
     "url": "http://www.rebellion.co.uk/support",
     "email": "support@rebellion.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404040/page_bg_generated_v6b.jpg?t=1478600087"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404040/page_bg_generated_v6b.jpg?t=1478600087",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     127571
@@ -114,6 +116,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Sep, 2016"
@@ -122,5 +127,9 @@
     "url": "",
     "email": "electronic_maker@abv.bg"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/530240/page_bg_generated_v6b.jpg?t=1474408805"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/530240/page_bg_generated_v6b.jpg?t=1474408805",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

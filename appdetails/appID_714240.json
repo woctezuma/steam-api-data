@@ -10,7 +10,7 @@
   ],
   "detailed_description": "SWARMRIDER OMEGA is an &quot;endless runner&quot;+&quot;twin stick shooter&quot; ARCADE mashup.<br />\r\n<br />\r\nBased on SWARMRIDERS(2016), OMEGA is a darker and faster version, featuring the Saint from UBERMOSH Vol.5.<br />\r\nA low-tunned and remastered version of the classic soundtrack meets new powers, achievements, class mods and a denser Swarm.<br />\r\nThe gameplay is shaped by over a year of feedback, making a short but intense arcade experience.",
   "about_the_game": "SWARMRIDER OMEGA is an &quot;endless runner&quot;+&quot;twin stick shooter&quot; ARCADE mashup.<br />\r\n<br />\r\nBased on SWARMRIDERS(2016), OMEGA is a darker and faster version, featuring the Saint from UBERMOSH Vol.5.<br />\r\nA low-tunned and remastered version of the classic soundtrack meets new powers, achievements, class mods and a denser Swarm.<br />\r\nThe gameplay is shaped by over a year of feedback, making a short but intense arcade experience.",
-  "short_description": "SWARMRIDER OMEGA is an &quot;endless runner&quot;+&quot;twin stick shooter&quot; ARCADE mashup.<br />\r\nBased on SWARMRIDERS(2016), OMEGA is a darker and faster version, featuring the Saint from UBERMOSH Vol.5.",
+  "short_description": "SWARMRIDER OMEGA is an &quot;endless runner&quot;+&quot;twin stick shooter&quot; ARCADE mashup. Based on SWARMRIDERS(2016), OMEGA is a darker and faster version, featuring the Saint from UBERMOSH Vol.5.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/714240/header.jpg?t=1510157228",
   "website": null,
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 49,
-    "discount_percent": 51
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     206719,
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 206719,
-          "percent_savings_text": "-51%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "SWARMRIDER OMEGA - <span class=\"discount_original_price\">0,99\u20ac</span> 0,49\u20ac",
+          "option_text": "SWARMRIDER OMEGA - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 49
+          "price_in_cents_with_discount": 99
         },
         {
           "packageid": 239759,
@@ -179,5 +181,9 @@
     "url": "https://www.facebook.com/swarmriders/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/714240/page_bg_generated_v6b.jpg?t=1510157228"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/714240/page_bg_generated_v6b.jpg?t=1510157228",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

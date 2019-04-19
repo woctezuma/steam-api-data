@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     41584
@@ -172,6 +174,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Apr, 2014"
@@ -180,5 +185,9 @@
     "url": "http://www.wittardgame.com",
     "email": "info@waxlyricalgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/293980/page_bg_generated_v6b.jpg?t=1447361261"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/293980/page_bg_generated_v6b.jpg?t=1447361261",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

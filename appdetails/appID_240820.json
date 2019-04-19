@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Music to kill by and the weapons to make it happen. <br />\n<br />\nThe Guns and Tunes DLC for Teleglitch: Die More Edition will grant players access to eight new starter weapons and utilities . A soundtrack of original music created by the Teleglitch developers deliver five haunting tracks that convey the constant tension of T3P\u2019s chilling game world and complements the actual in-game ambient soundtrack.    <br />\n<br />\nNOTE: The soundtrack is standalone and will be downloaded to your Teleglitch: Die More Edition installation folder. It does not provide in-game music.<br />\nNOTE: Teleglitch pre-order customers already own this DLC.<br />\n<br />\nFeatures:<br />\n-8 new starter weapons and utilities to add to your arsenal<br />\n-5 standalone music tracks that will enhance your Teleglitch experience<br />\n-A new option to randomize your weaponry at the start of the game",
   "about_the_game": "Music to kill by and the weapons to make it happen. <br />\n<br />\nThe Guns and Tunes DLC for Teleglitch: Die More Edition will grant players access to eight new starter weapons and utilities . A soundtrack of original music created by the Teleglitch developers deliver five haunting tracks that convey the constant tension of T3P\u2019s chilling game world and complements the actual in-game ambient soundtrack.    <br />\n<br />\nNOTE: The soundtrack is standalone and will be downloaded to your Teleglitch: Die More Edition installation folder. It does not provide in-game music.<br />\nNOTE: Teleglitch pre-order customers already own this DLC.<br />\n<br />\nFeatures:<br />\n-8 new starter weapons and utilities to add to your arsenal<br />\n-5 standalone music tracks that will enhance your Teleglitch experience<br />\n-A new option to randomize your weaponry at the start of the game",
-  "short_description": "",
+  "short_description": "Music to kill by and the weapons to make it happen. The Guns and Tunes DLC for Teleglitch: Die More Edition will grant players access to eight new starter weapons and utilities . A soundtrack of original music created by the Teleglitch developers deliver five haunting tracks that convey the constant tension of T3P\u2019s chilling game world...",
   "fullgame": {
     "appid": "234390",
     "name": "Teleglitch: Die More Edition"
@@ -34,10 +34,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    "28421"
+    28421
   ],
   "package_groups": [
     {
@@ -50,7 +52,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "28421",
+          "packageid": 28421,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Teleglitch: Guns and Tunes - 1,99\u20ac",
@@ -145,6 +147,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/240820/ss_cfb791b5e725dadf6fd786f5a35b5e9505217afc.1920x1080.jpg?t=1447357993"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Oct, 2013"
@@ -153,5 +158,9 @@
     "url": "www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/240820/page_bg_generated_v6b.jpg?t=1447357993"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/240820/page_bg_generated_v6b.jpg?t=1447357993",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

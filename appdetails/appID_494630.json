@@ -11,7 +11,7 @@
     "appid": "365590",
     "name": "Tom Clancy\u2019s The Division\u2122"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Czech, Dutch, Hungarian, Japanese<strong>*</strong>, Korean, Polish, Portuguese-Brazil<strong>*</strong>, Traditional Chinese, Simplified Chinese, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech, Dutch, Hungarian, Japanese<strong>*</strong>, Korean, Polish, Portuguese - Brazil<strong>*</strong>, Traditional Chinese, Simplified Chinese, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/494630/header.jpg?t=1467275558",
   "website": "http://thedivisiongame.com",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     112590
@@ -140,7 +142,10 @@
     }
   ],
   "recommendations": {
-    "total": 356
+    "total": 322
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -150,5 +155,9 @@
     "url": "https://support.ubi.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494630/page_bg_generated_v6b.jpg?t=1467275558"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494630/page_bg_generated_v6b.jpg?t=1467275558",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     82527
@@ -147,7 +149,10 @@
     }
   ],
   "recommendations": {
-    "total": 328
+    "total": 326
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -157,5 +162,9 @@
     "url": "",
     "email": "ClockworkWolfGames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/412770/page_bg_generated_v6b.jpg?t=1509647016"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/412770/page_bg_generated_v6b.jpg?t=1509647016",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

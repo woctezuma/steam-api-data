@@ -6,13 +6,13 @@
   "is_free": false,
   "detailed_description": "New weapons are added to the game.<br />\r\nAt the Blacksmith, select Buy Weapons to obtain powerful weapons for the applicable characters.<br />\r\n<br />\r\n\u25bcApplicable characters:<br />\r\nKanbei Kuroda / Hanbei Takenaka / Motonari Mori / Takakage Kobayakawa / Hideyoshi Toyotomi / Mitsunari Ishida / Sakon Shima / Nene / Kiyomasa Kato / Masanori Fukushima",
   "about_the_game": "New weapons are added to the game.<br />\r\nAt the Blacksmith, select Buy Weapons to obtain powerful weapons for the applicable characters.<br />\r\n<br />\r\n\u25bcApplicable characters:<br />\r\nKanbei Kuroda / Hanbei Takenaka / Motonari Mori / Takakage Kobayakawa / Hideyoshi Toyotomi / Mitsunari Ishida / Sakon Shima / Nene / Kiyomasa Kato / Masanori Fukushima",
-  "short_description": "New weapons are added to the game.<br />\r\nAt the Blacksmith, select Buy Weapons to obtain powerful weapons for the applicable characters.<br />\r\n<br />\r\n\u25bcApplicable characters:<br />\r\nKanbei Kuroda / Hanbei Takenaka / Motonari Mori / Takakage Kobayakawa / Hideyoshi Toyotomi / Mitsunari Ishida / Sakon Shima / Nene / Kiyomasa Kato / Masanori Fukushima",
+  "short_description": "New weapons are added to the game. At the Blacksmith, select Buy Weapons to obtain powerful weapons for the applicable characters. \u25bcApplicable characters: Kanbei Kuroda / Hanbei Takenaka / Motonari Mori / Takakage Kobayakawa / Hideyoshi Toyotomi / Mitsunari Ishida / Sakon Shima / Nene / Kiyomasa Kato / Masanori...",
   "fullgame": {
     "appid": "595740",
     "name": "SAMURAI WARRIORS: Spirit of Sanada"
   },
   "supported_languages": "English, Traditional Chinese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/595755/header.jpg?t=1507077667",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/595755/header.jpg?t=1550185847",
   "website": "http://www.koeitecmoamerica.com/spiritofsanada/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows\u00ae 7, Windows\u00ae 8.1, Windows\u00ae 10 (64bit required)<br></li><li><strong>Processor:</strong> Core i7 870<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Geforce GTS 450 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 27 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c over<br></li><li><strong>Additional Notes:</strong> 640\u00d7480 pixel over, High Color, VRAM 1GB over</li></ul>",
@@ -37,10 +37,12 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    "155905"
+    155905
   ],
   "package_groups": [
     {
@@ -53,7 +55,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "155905",
+          "packageid": 155905,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "SW: Spirit of Sanada - Additional Weapons Set 5 - 0,99\u20ac",
@@ -101,15 +103,18 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/595755/ss_84f320d6c0babc87e593e937c1e02e51a65d6942.600x338.jpg?t=1507077667",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/595755/ss_84f320d6c0babc87e593e937c1e02e51a65d6942.1920x1080.jpg?t=1507077667"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/595755/ss_84f320d6c0babc87e593e937c1e02e51a65d6942.600x338.jpg?t=1550185847",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/595755/ss_84f320d6c0babc87e593e937c1e02e51a65d6942.1920x1080.jpg?t=1550185847"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/595755/ss_d68944960e22537f692a5046f45aef40a634f857.600x338.jpg?t=1507077667",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/595755/ss_d68944960e22537f692a5046f45aef40a634f857.1920x1080.jpg?t=1507077667"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/595755/ss_d68944960e22537f692a5046f45aef40a634f857.600x338.jpg?t=1550185847",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/595755/ss_d68944960e22537f692a5046f45aef40a634f857.1920x1080.jpg?t=1550185847"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Jun, 2017"
@@ -118,5 +123,9 @@
     "url": "https://koeitecmo.info/inquiry/kta/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/595755/page_bg_generated_v6b.jpg?t=1507077667"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/595755/page_bg_generated_v6b.jpg?t=1550185847",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -12,7 +12,7 @@
     "appid": "265930",
     "name": "Goat Simulator"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Arabic, Japanese, Korean, Polish, Portuguese-Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/425840/header.jpg?t=1501884986",
   "website": "http://goat-simulator.com/",
   "pc_requirements": {
@@ -37,8 +37,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 334,
-    "discount_percent": 33
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     87516
@@ -55,13 +57,13 @@
       "subs": [
         {
           "packageid": 87516,
-          "percent_savings_text": "-33%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Goat Simulator: PAYDAY - <span class=\"discount_original_price\">4,99\u20ac</span> 3,34\u20ac",
+          "option_text": "Goat Simulator: PAYDAY - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 334
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -172,7 +174,10 @@
     }
   ],
   "recommendations": {
-    "total": 363
+    "total": 354
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -182,5 +187,9 @@
     "url": "",
     "email": "support@coffeestain.se"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/425840/page_bg_generated_v6b.jpg?t=1501884986"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/425840/page_bg_generated_v6b.jpg?t=1501884986",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

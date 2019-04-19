@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Down to One is a competitive survival shooter in a large, interactive, open-world environment. Start out with nothing, and use anything you can find in the environment to survive, and eliminate other competitors over the course of a brutal round. <br><br><strong>Core Features:</strong><br><br><ul class=\"bb_ul\"><li>    Realistic Bullet Physics: With physics values from real-world guns, bullet drop, and dynamic bullet penetration, ranged combat has never felt so good.<br></li><li>    Dynamic Looting: Everyone loves looting. With custom loot spawning mechanics, you'll find things where they should be.<br></li><li>    Customization: Play how you want to - take perks that let you knock players weapons out of their hands, play dead to confuse your opponents, and much more. <br></li><li>    Built For Performance: With support for 4K resolution, 64bit-only systems and DX11, your hardware won't get bored easily. <br></li><li>    Advanced 'Netcode': Our networking system dynamically changes network update rates - 'tickrate' - as the player count decreases throughout a round. <br></li><li>    Dedicated Servers: Don't settle for games hosted on someone's dial-up. Our high performance dedicated servers will make multiplayer feel like you're at a LAN. <br></li><li>    Immersive Interaction: Interact with anything you find in the environment with &amp; use it to your advantage. <br></li><li>    Full Body Character: It's hard to have an immersive experience as a floating pair of hands. In Down To One, what you see is what you get.<br></li><li>    Improved Anticheat: With a custom anticheat system, and authoritative networking features, we're aiming to tackle cheating head-on.<br></li><li>    Responsive Input: Raw input sampling and competitively calibrated sensitivity. If you miss, it's not our fault. <br></li><li>    Esports Support: With support for LAN play, custom server rules, and private servers, we're putting the competition into survival.</li></ul>",
   "about_the_game": "Down to One is a competitive survival shooter in a large, interactive, open-world environment. Start out with nothing, and use anything you can find in the environment to survive, and eliminate other competitors over the course of a brutal round. <br><br><strong>Core Features:</strong><br><br><ul class=\"bb_ul\"><li>    Realistic Bullet Physics: With physics values from real-world guns, bullet drop, and dynamic bullet penetration, ranged combat has never felt so good.<br></li><li>    Dynamic Looting: Everyone loves looting. With custom loot spawning mechanics, you'll find things where they should be.<br></li><li>    Customization: Play how you want to - take perks that let you knock players weapons out of their hands, play dead to confuse your opponents, and much more. <br></li><li>    Built For Performance: With support for 4K resolution, 64bit-only systems and DX11, your hardware won't get bored easily. <br></li><li>    Advanced 'Netcode': Our networking system dynamically changes network update rates - 'tickrate' - as the player count decreases throughout a round. <br></li><li>    Dedicated Servers: Don't settle for games hosted on someone's dial-up. Our high performance dedicated servers will make multiplayer feel like you're at a LAN. <br></li><li>    Immersive Interaction: Interact with anything you find in the environment with &amp; use it to your advantage. <br></li><li>    Full Body Character: It's hard to have an immersive experience as a floating pair of hands. In Down To One, what you see is what you get.<br></li><li>    Improved Anticheat: With a custom anticheat system, and authoritative networking features, we're aiming to tackle cheating head-on.<br></li><li>    Responsive Input: Raw input sampling and competitively calibrated sensitivity. If you miss, it's not our fault. <br></li><li>    Esports Support: With support for LAN play, custom server rules, and private servers, we're putting the competition into survival.</li></ul>",
-  "short_description": "<i>42 Players Start. Only 1 will survive.</i><br><br>Down to One is a competitive survival shooter in a large, interactive, open-world environment. Start out with nothing, and use anything you can find in the environment to survive, and eliminate other competitors over the course of a brutal round.",
+  "short_description": "42 Players Start. Only 1 will survive.Down to One is a competitive survival shooter in a large, interactive, open-world environment. Start out with nothing, and use anything you can find in the environment to survive, and eliminate other competitors over the course of a brutal round.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/334040/header.jpg?t=1520162783",
   "website": "https://discord.gg/HbbJXca",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     54942,
@@ -177,7 +179,10 @@
     }
   ],
   "recommendations": {
-    "total": 2245
+    "total": 1729
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -187,5 +192,9 @@
     "url": "http://steamcommunity.com/app/334040/discussions/2/",
     "email": "support@gadget-games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/334040/page_bg_generated_v6b.jpg?t=1520162783"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/334040/page_bg_generated_v6b.jpg?t=1520162783",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

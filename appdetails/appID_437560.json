@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     92089
@@ -114,6 +116,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/437560/ss_e168bebb8e95cbb540cc3cc106a63aac9432e82a.1920x1080.jpg?t=1463097561"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 May, 2016"
@@ -122,5 +127,9 @@
     "url": "http://www.sebissimos.com/gch/",
     "email": "support@rpgmakerweb.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437560/page_bg_generated_v6b.jpg?t=1463097561"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437560/page_bg_generated_v6b.jpg?t=1463097561",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

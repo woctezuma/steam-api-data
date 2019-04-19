@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Energy Cycle Collector's Edition Content includes:<br />\r\n- Artbook &quot;How we made art for Energy Cycle&quot; (12 Pages)<br />\r\n- Pack of exclusive &quot;Energy Cycle&quot; wallpapers<br />\r\n- Random memories (Photo album)",
   "about_the_game": "Energy Cycle Collector's Edition Content includes:<br />\r\n- Artbook &quot;How we made art for Energy Cycle&quot; (12 Pages)<br />\r\n- Pack of exclusive &quot;Energy Cycle&quot; wallpapers<br />\r\n- Random memories (Photo album)",
-  "short_description": "",
+  "short_description": "Energy Cycle Collector's Edition Content includes: - Artbook &quot;How we made art for Energy Cycle&quot; (12 Pages) - Pack of exclusive &quot;Energy Cycle&quot; wallpapers - Random memories (Photo album)",
   "fullgame": {
     "appid": "415960",
     "name": "Energy Cycle"
@@ -34,9 +34,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     87631
@@ -55,11 +57,11 @@
           "packageid": 87631,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Energy Cycle Collector's Edition Content - 0,99\u20ac",
+          "option_text": "Energy Cycle Collector's Edition Content - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -116,5 +118,9 @@
     "url": "http://www.sometimesyou.com/",
     "email": "3.14nkerator@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/426120/page_bg_generated_v6b.jpg?t=1452711399"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/426120/page_bg_generated_v6b.jpg?t=1452711399",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

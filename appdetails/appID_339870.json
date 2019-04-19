@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     56953
@@ -109,5 +111,9 @@
     "url": "http://www.kuchalu.co.uk",
     "email": "ryan@kuchalu.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/339870/page_bg_generated_v6b.jpg?t=1447366447"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/339870/page_bg_generated_v6b.jpg?t=1447366447",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

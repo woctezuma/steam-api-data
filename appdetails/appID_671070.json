@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 13999,
-    "final": 13999,
-    "discount_percent": 0
+    "initial": 9900,
+    "final": 9900,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "99,--\u20ac"
   },
   "packages": [
     190952
@@ -49,11 +51,11 @@
           "packageid": 190952,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Strata Design 3D SE - CX Upgrade - 139,99\u20ac",
+          "option_text": "Strata Design 3D SE - CX Upgrade - 99,--\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 13999
+          "price_in_cents_with_discount": 9900
         }
       ]
     }
@@ -121,5 +123,9 @@
     "url": "https://www.strata.com/support",
     "email": "support@strata.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/671070/page_bg_generated_v6b.jpg?t=1502472529"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/671070/page_bg_generated_v6b.jpg?t=1502472529",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

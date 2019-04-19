@@ -11,7 +11,7 @@
     "appid": "493340",
     "name": "Planet Coaster"
   },
-  "supported_languages": "English, French, German, Spanish, Portuguese-Brazil, Korean, Simplified Chinese, Traditional Chinese, Japanese",
+  "supported_languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Korean, Simplified Chinese, Traditional Chinese, Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/611421/header.jpg?t=1504792686",
   "website": "https://www.planetcoaster.com/",
   "pc_requirements": {
@@ -36,8 +36,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "final": 269,
+    "discount_percent": 10,
+    "initial_formatted": "2,99\u20ac",
+    "final_formatted": "2,69\u20ac"
   },
   "packages": [
     163376
@@ -54,13 +56,13 @@
       "subs": [
         {
           "packageid": 163376,
-          "percent_savings_text": "",
+          "percent_savings_text": "-10%",
           "percent_savings": 0,
-          "option_text": "Planet Coaster - Back to the Future\u2122 Time Machine Construction Kit - 2,99\u20ac",
+          "option_text": "Planet Coaster - Back to the Future\u2122 Time Machine Construction Kit - <span class=\"discount_original_price\">2,99\u20ac</span> 2,69\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 269
         }
       ]
     }
@@ -145,6 +147,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Jul, 2017"
@@ -153,5 +158,9 @@
     "url": "https://support.frontier.co.uk/kb/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/611421/page_bg_generated_v6b.jpg?t=1504792686"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/611421/page_bg_generated_v6b.jpg?t=1504792686",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

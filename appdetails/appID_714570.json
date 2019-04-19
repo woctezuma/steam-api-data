@@ -4,7 +4,7 @@
   "steam_appid": 714570,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<h1>MUSIC BY LUKAS FRETZ</h1><p>Music by Lukas Fretz <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.soundguybasel.ch\" target=\"_blank\" rel=\"noopener\"  >http://www.soundguybasel.ch</a></a></p><br><h1>About the Game</h1>This wonderful hidden object game gives you the unique opportunity to find amazing hidden tools with beautiful scenes with animation. <br><br>Features <br>- Beautiful high-quality images <br>- Animation <br>- Addictive Hidden Object gameplay <br>- Catchy sound effects and music! <br>- Differences randomized on each play <br>- Hints if you get stuck <br>- Try to score the Highest score!",
+  "detailed_description": "<h1>MUSIC BY LUKAS FRETZ</h1><p>Music by Lukas Fretz <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.soundguybasel.ch\" target=\"_blank\" rel=\"noopener\"  >http://www.soundguybasel.ch</a></p><br><h1>About the Game</h1>This wonderful hidden object game gives you the unique opportunity to find amazing hidden tools with beautiful scenes with animation. <br><br>Features <br>- Beautiful high-quality images <br>- Animation <br>- Addictive Hidden Object gameplay <br>- Catchy sound effects and music! <br>- Differences randomized on each play <br>- Hints if you get stuck <br>- Try to score the Highest score!",
   "about_the_game": "This wonderful hidden object game gives you the unique opportunity to find amazing hidden tools with beautiful scenes with animation. <br />\r\n<br />\r\nFeatures <br />\r\n- Beautiful high-quality images <br />\r\n- Animation <br />\r\n- Addictive Hidden Object gameplay <br />\r\n- Catchy sound effects and music! <br />\r\n- Differences randomized on each play <br />\r\n- Hints if you get stuck <br />\r\n- Try to score the Highest score!",
   "short_description": "This wonderful hidden object game gives you the unique opportunity to find amazing hidden tools with beautiful scenes with animation.",
   "supported_languages": "English",
@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 59,
-    "discount_percent": 70
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     206848
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 206848,
-          "percent_savings_text": "-70%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Hidden Object - Tools - <span class=\"discount_original_price\">1,99\u20ac</span> 0,59\u20ac",
+          "option_text": "Hidden Object - Tools - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 59
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -141,6 +143,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Sep, 2017"
@@ -149,5 +154,9 @@
     "url": "http://www.boogygames.com",
     "email": "boogygames@outlook.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/714570/page_bg_generated_v6b.jpg?t=1506693085"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/714570/page_bg_generated_v6b.jpg?t=1506693085",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

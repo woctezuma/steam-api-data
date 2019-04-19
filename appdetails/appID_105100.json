@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     8072
@@ -66,7 +68,7 @@
   },
   "metacritic": {
     "score": 69,
-    "url": "http://www.metacritic.com/game/pc/lume?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/lume?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -116,7 +118,10 @@
     }
   ],
   "recommendations": {
-    "total": 439
+    "total": 225
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -126,5 +131,9 @@
     "url": "",
     "email": "mail@stateofplaygames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/105100/page_bg_generated_v6b.jpg?t=1447354205"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/105100/page_bg_generated_v6b.jpg?t=1447354205",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

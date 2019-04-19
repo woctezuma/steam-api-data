@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "There are bubbles everywhere in <strong>Bubble Blowout!</strong> Use your cannon at the bottom of the screen to match-3 or more bubbles, and clear the entire screen to progress. The more bubbles you burst at once the higher score and better bonus you will get. Suitable to players of all ages and experience levels, this crisp and colorful bubble-blaster offers multiple modes of play. RELAX mode is ideal to introductory players seeking a laid-back and casual gameplay experience. CLASSIC mode has 21 exciting levels to beat, and only experienced players will achieve top-star ratings across all levels. RUSH mode is a match made in heaven to expert players going for the highest score in a fun bubble parade that never ends.",
   "about_the_game": "There are bubbles everywhere in <strong>Bubble Blowout!</strong> Use your cannon at the bottom of the screen to match-3 or more bubbles, and clear the entire screen to progress. The more bubbles you burst at once the higher score and better bonus you will get. Suitable to players of all ages and experience levels, this crisp and colorful bubble-blaster offers multiple modes of play. RELAX mode is ideal to introductory players seeking a laid-back and casual gameplay experience. CLASSIC mode has 21 exciting levels to beat, and only experienced players will achieve top-star ratings across all levels. RUSH mode is a match made in heaven to expert players going for the highest score in a fun bubble parade that never ends.",
-  "short_description": "There are bubbles everywhere in <strong>Bubble Blowout!</strong> Use your cannon at the bottom of the screen to match-3 or more bubbles, and clear the entire screen to progress.",
+  "short_description": "There are bubbles everywhere in Bubble Blowout! Use your cannon at the bottom of the screen to match-3 or more bubbles, and clear the entire screen to progress.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/542720/header.jpg?t=1478752390",
   "website": null,
@@ -25,12 +25,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
-    133562
+    133562,
+    269939
   ],
   "package_groups": [
     {
@@ -46,11 +49,21 @@
           "packageid": 133562,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Bubble Blowout - 1,99\u20ac",
+          "option_text": "Bubble Blowout - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 79
+        },
+        {
+          "packageid": 269939,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Bubble Blowout - Commercial License - 1,59\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -120,6 +133,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Oct, 2016"
@@ -128,5 +144,9 @@
     "url": "http://www.ensenasoft.com",
     "email": "support@ensenasoft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/542720/page_bg_generated_v6b.jpg?t=1478752390"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/542720/page_bg_generated_v6b.jpg?t=1478752390",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

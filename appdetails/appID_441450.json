@@ -5,9 +5,9 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Table of contents:\r\n\r\n- Step by step in the creation of a tileable material of medieval blocks with Substance Designer\r\n- It shows you how to achieve the random blocks so you can use as heightmap on a chosen layout of blocks.\r\n- Explains how to achieve color, roughness, normal map and masks\r\n- Gives you an in depth view of SD nodes and mindset using procedural methods.\r\n- It's not limited to the medieval blocks, you can do a lot more learning from this video.\r\n- Mask Generators are included, as well as source files.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Table of contents:\r\n\r\n- Step by step in the creation of a tileable material of medieval blocks with Substance Designer\r\n- It shows you how to achieve the random blocks so you can use as heightmap on a chosen layout of blocks.\r\n- Explains how to achieve color, roughness, normal map and masks\r\n- Gives you an in depth view of SD nodes and mindset using procedural methods.\r\n- It's not limited to the medieval blocks, you can do a lot more learning from this video.\r\n- Mask Generators are included, as well as source files.",
   "about_the_game": "Table of contents:<br />\r\n<br />\r\n- Step by step in the creation of a tileable material of medieval blocks with Substance Designer<br />\r\n- It shows you how to achieve the random blocks so you can use as heightmap on a chosen layout of blocks.<br />\r\n- Explains how to achieve color, roughness, normal map and masks<br />\r\n- Gives you an in depth view of SD nodes and mindset using procedural methods.<br />\r\n- It's not limited to the medieval blocks, you can do a lot more learning from this video.<br />\r\n- Mask Generators are included, as well as source files.",
-  "short_description": "Tutorial video explaining how to achieve a procedural material of medieval blocks. Made with Substance Designer, created by Hugo Beyer",
+  "short_description": "Tutorial video explaining how to achieve a procedural material of medieval blocks.",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     93473
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Feb, 2016"
@@ -127,5 +132,9 @@
     "url": "",
     "email": "hugobeyer@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/441450/page_bg_generated_v6b.jpg?t=1454463564"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/441450/page_bg_generated_v6b.jpg?t=1454463564",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

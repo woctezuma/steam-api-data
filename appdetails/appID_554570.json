@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 699,
-    "final": 699,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     138264
@@ -48,11 +50,11 @@
           "packageid": 138264,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Witanlore: Dreamtime - 6,99\u20ac",
+          "option_text": "Witanlore: Dreamtime - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 699
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -179,6 +181,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Jan, 2017"
@@ -187,5 +192,9 @@
     "url": "http://www.druidgameworks.com/forums/index.php?/support/",
     "email": "witanlore@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/554570/page_bg_generated_v6b.jpg?t=1509077427"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/554570/page_bg_generated_v6b.jpg?t=1509077427",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

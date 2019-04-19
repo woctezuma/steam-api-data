@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     217030
@@ -151,5 +153,9 @@
     "url": "http://www.blueshiftmedia.co.uk",
     "email": "enquiries@blueshiftmedia.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/741010/page_bg_generated_v6b.jpg?t=1512923240"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/741010/page_bg_generated_v6b.jpg?t=1512923240",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "You are an embedded journalist travelling with a small US Army special forces team as they battle &quot;The Soldiers of Heaven&quot; - a religious cult in Iraq that tried to start a Muslim Armageddon during the Ashura festival. <br />\r\n<br />\r\nThis battle with the SOH ended with over 300 deaths : men, women and children. This project is based on a true story that was covered up... and now you have a chance to try and find the truth. <br />\r\n<br />\r\nArmed with a virtual camera you will film your own version of the story as it unfolds in an immersive 3D world. In this build you can watch a preview in game. <br />\r\n<br />\r\nThis immersive journalism experience combines live action with 3D animation. It is being built with the Unreal 4 game engine. <br />\r\n<br />\r\nWhat makes this experience unique, useful or innovative: <br />\r\n<br />\r\nVirtual reality offers film makers an opportunity to step into their story world and get a 360 degree real time perspective of the world they are trying to bring to life. This is ideal for previsualization and production planning as the film maker can leverage the presence that VR offers and look for new shots and camera angles as they walk around their virtual set. What is missing is a virtual camera that the film maker can use to shoot. <br />\r\n<br />\r\nWe also think that filming in VR could be a new way to create animated films. <br />\r\n<br />\r\nFilmtyme is powered by the Canadian Film Centers Media Lab &quot;Ideaboost&quot; program",
   "about_the_game": "You are an embedded journalist travelling with a small US Army special forces team as they battle &quot;The Soldiers of Heaven&quot; - a religious cult in Iraq that tried to start a Muslim Armageddon during the Ashura festival. <br />\r\n<br />\r\nThis battle with the SOH ended with over 300 deaths : men, women and children. This project is based on a true story that was covered up... and now you have a chance to try and find the truth. <br />\r\n<br />\r\nArmed with a virtual camera you will film your own version of the story as it unfolds in an immersive 3D world. In this build you can watch a preview in game. <br />\r\n<br />\r\nThis immersive journalism experience combines live action with 3D animation. It is being built with the Unreal 4 game engine. <br />\r\n<br />\r\nWhat makes this experience unique, useful or innovative: <br />\r\n<br />\r\nVirtual reality offers film makers an opportunity to step into their story world and get a 360 degree real time perspective of the world they are trying to bring to life. This is ideal for previsualization and production planning as the film maker can leverage the presence that VR offers and look for new shots and camera angles as they walk around their virtual set. What is missing is a virtual camera that the film maker can use to shoot. <br />\r\n<br />\r\nWe also think that filming in VR could be a new way to create animated films. <br />\r\n<br />\r\nFilmtyme is powered by the Canadian Film Centers Media Lab &quot;Ideaboost&quot; program",
-  "short_description": "Armed with a virtual camera you will film your own 360 VR version of the story as it unfolds in an immersive 3D world.  A virtual reality short.",
+  "short_description": "Armed with a virtual camera you will film your own 360 VR version of the story as it unfolds in an immersive 3D world. A virtual reality short.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/384970/header.jpg?t=1485866628",
   "website": "http://www.filmtyme.com",
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     72535
@@ -142,6 +144,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Sep, 2016"
@@ -150,5 +155,9 @@
     "url": "http://www.filmtyme.com",
     "email": "ben@filmtyme.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384970/page_bg_generated_v6b.jpg?t=1485866628"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384970/page_bg_generated_v6b.jpg?t=1485866628",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

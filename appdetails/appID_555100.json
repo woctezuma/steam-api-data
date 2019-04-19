@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     138421
@@ -212,7 +214,7 @@
     }
   ],
   "achievements": {
-    "total": 7,
+    "total": 5,
     "highlighted": [
       {
         "name": "Road to Pimp",
@@ -221,10 +223,6 @@
       {
         "name": "Who needs lock picks",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555100/64276a0aacccaf7551b7e12574ad3e0599c5ff7b.jpg"
-      },
-      {
-        "name": "Weapon master",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555100/dd498e47bd7b64fdd265af53cd56cb1ce29cdfe6.jpg"
       },
       {
         "name": "Eat till you Die",
@@ -237,10 +235,6 @@
       {
         "name": "Property Manager",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555100/40d03dab229c3cd0ad5fbbb492c45f7f3d9bd87c.jpg"
-      },
-      {
-        "name": "Winner",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/555100/9488c29d5b9d6ca718b3dcb0c1efc0e74e221f3a.jpg"
       }
     ]
   },
@@ -252,5 +246,13 @@
     "url": "",
     "email": "cpllc@crackedpiston.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/555100/page_bg_generated_v6b.jpg?t=1488248193"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/555100/page_bg_generated_v6b.jpg?t=1488248193",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

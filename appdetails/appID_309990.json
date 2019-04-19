@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "Foster and Skully's alter-egos take center stage here, all lit up in neon!<br><br><ul class=\"bb_ul\"><li>DJ Skully makes a new appearance as DJ Voltage, sporting a blinding neon-blue skin!<br></li><li>Mr Foster joins the party as Mr Magma, in a blazing red suit!</li></ul><br>Both characters come with their own particle effects - in neon, naturally!",
   "about_the_game": "Foster and Skully's alter-egos take center stage here, all lit up in neon!<br><br><ul class=\"bb_ul\"><li>DJ Skully makes a new appearance as DJ Voltage, sporting a blinding neon-blue skin!<br></li><li>Mr Foster joins the party as Mr Magma, in a blazing red suit!</li></ul><br>Both characters come with their own particle effects - in neon, naturally!",
-  "short_description": "",
+  "short_description": "Foster and Skully's alter-egos take center stage here, all lit up in neon!DJ Skully makes a new appearance as DJ Voltage, sporting a blinding neon-blue skin!Mr Foster joins the party as Mr Magma, in a blazing red suit!Both characters come with their own particle effects - in neon, naturally!",
   "fullgame": {
     "appid": "1250",
     "name": "Killing Floor"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Hungarian, Polish, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Hungarian, Polish, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/309990/header.jpg?t=1447362402",
   "website": "http://www.killingfloorthegame.com",
   "pc_requirements": {
@@ -30,12 +30,14 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     46432,
-    52350,
-    52352
+    52352,
+    52350
   ],
   "package_groups": [
     {
@@ -58,20 +60,20 @@
           "price_in_cents_with_discount": 599
         },
         {
+          "packageid": 52352,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Killing Floor - Community Content Bundle - 16,79\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 1679
+        },
+        {
           "packageid": 52350,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Killing Floor - Premium Character Bundle - 19,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 1999
-        },
-        {
-          "packageid": 52352,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Killing Floor - Community Content Bundle - 19,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -154,6 +156,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/309990/ss_fa365080a28d8488f92ed985a279265c4af49d54.1920x1080.jpg?t=1447362402"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Jul, 2014"
@@ -162,5 +167,9 @@
     "url": "http://www.tripwireinteractive.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/309990/page_bg_generated_v6b.jpg?t=1447362402"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/309990/page_bg_generated_v6b.jpg?t=1447362402",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

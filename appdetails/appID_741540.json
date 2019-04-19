@@ -12,7 +12,7 @@
     "name": "Rytmik Studio"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/741540/header.jpg?t=1516806412",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/741540/header.jpg?t=1539275805",
   "website": "http://rytmikstudio.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista/7/8/10<br></li><li><strong>Additional Notes:</strong> No req.</li></ul>",
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     217213
@@ -83,8 +85,20 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/741540/ss_7e08ddfd6d1f0274182197b3c1ff4e57c05a7b94.600x338.jpg?t=1516806412",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/741540/ss_7e08ddfd6d1f0274182197b3c1ff4e57c05a7b94.1920x1080.jpg?t=1516806412"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/741540/ss_7e08ddfd6d1f0274182197b3c1ff4e57c05a7b94.600x338.jpg?t=1539275805",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/741540/ss_7e08ddfd6d1f0274182197b3c1ff4e57c05a7b94.1920x1080.jpg?t=1539275805"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256731906,
+      "name": "Supporter Song",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256731906/movie.293x165.jpg?t=1539275800",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256731906/movie480.webm?t=1539275800",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256731906/movie_max.webm?t=1539275800"
+      },
+      "highlight": true
     }
   ],
   "release_date": {
@@ -95,5 +109,9 @@
     "url": "http://rytmikstudio.com/support/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/741540/page_bg_generated_v6b.jpg?t=1516806412"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/741540/page_bg_generated_v6b.jpg?t=1539275805",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

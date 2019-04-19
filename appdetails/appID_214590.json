@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     17294,
@@ -165,7 +167,7 @@
     }
   ],
   "recommendations": {
-    "total": 997
+    "total": 521
   },
   "achievements": {
     "total": 50,
@@ -220,5 +222,9 @@
     "url": "http://nyu-media.com",
     "email": "info@nyu-media.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214590/page_bg_generated_v6b.jpg?t=1452830657"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214590/page_bg_generated_v6b.jpg?t=1452830657",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

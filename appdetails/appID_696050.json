@@ -24,10 +24,12 @@
     "Kipsaim(Mike) Delgado"
   ],
   "price_overview": {
-    "currency": "EUR",
+    "currency": "USD",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "$19.99"
   },
   "packages": [
     199979
@@ -46,7 +48,7 @@
           "packageid": 199979,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "The Final Days: Eternal Night - 19,99\u20ac",
+          "option_text": "The Final Days: Eternal Night - $19.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -129,13 +131,20 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
-    "date": "29 Aug, 2017"
+    "date": "Aug 29, 2017"
   },
   "support_info": {
     "url": "",
     "email": "mikedelgadophio@hotmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/696050/page_bg_generated_v6b.jpg?t=1504032906"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/696050/page_bg_generated_v6b.jpg?t=1504032906",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

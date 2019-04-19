@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     206767
@@ -111,6 +113,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/714337/ss_636b4dc84b6e49b2905c04600f0bcbc683205233.1920x1080.jpg?t=1513385915"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Dec, 2017"
@@ -119,5 +124,9 @@
     "url": "",
     "email": "support@ghostlight.uk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/714337/page_bg_generated_v6b.jpg?t=1513385915"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/714337/page_bg_generated_v6b.jpg?t=1513385915",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

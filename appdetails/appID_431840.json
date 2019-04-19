@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 79,
+    "discount_percent": 80,
+    "initial_formatted": "3,99\u20ac",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     89749
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 89749,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "3DRPG - 0,99\u20ac",
+          "option_text": "3DRPG - <span class=\"discount_original_price\">3,99\u20ac</span> 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -179,9 +181,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 137
-  },
   "achievements": {
     "total": 30,
     "highlighted": [
@@ -235,5 +234,9 @@
     "url": "http://doomsterentertainment.com/",
     "email": "support@doomsterentertainment.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/431840/page_bg_generated_v6b.jpg?t=1514668446"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/431840/page_bg_generated_v6b.jpg?t=1514668446",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

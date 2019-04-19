@@ -12,7 +12,7 @@
     "appid": "351970",
     "name": "Tales of Zestiria"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Portuguese-Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/382468/header.jpg?t=1489679155",
   "website": "http://talesofgame.com",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     71733
@@ -157,6 +159,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382468/ss_f768f24a469bc755940f82965fec3bb9297ae6b5.1920x1080.jpg?t=1489679155"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Nov, 2015"
@@ -165,5 +170,9 @@
     "url": "http://www.bandainamcoent.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/382468/page_bg_generated_v6b.jpg?t=1489679155"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/382468/page_bg_generated_v6b.jpg?t=1489679155",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

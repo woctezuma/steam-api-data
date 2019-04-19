@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     49590
@@ -143,7 +145,10 @@
     }
   ],
   "recommendations": {
-    "total": 350
+    "total": 310
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -153,5 +158,9 @@
     "url": "http://www.reprisaluniverse.com",
     "email": "team@reprisaluniverse.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/319560/page_bg_generated_v6b.jpg?t=1478094276"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/319560/page_bg_generated_v6b.jpg?t=1478094276",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

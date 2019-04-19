@@ -11,8 +11,8 @@
     "appid": "595930",
     "name": "Steam: Rails to Riches"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Traditional Chinese, Simplified Chinese, Dutch, Japanese, Korean, Polish, Portuguese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/596822/header.jpg?t=1494256090",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Traditional Chinese, Simplified Chinese, Dutch, Japanese, Korean, Polish, Portuguese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/596822/header.jpg?t=1542869455",
   "website": "http://steam.acram.eu",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2+</li></ul>"
@@ -28,13 +28,15 @@
     "Mobo Studio"
   ],
   "publishers": [
-    "Acram Digital"
+    "Mobo Studio"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 399,
+    "discount_percent": 20,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     156412
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 156412,
-          "percent_savings_text": "",
+          "percent_savings_text": "-20%",
           "percent_savings": 0,
-          "option_text": "Steam: Rails to Riches - Northern England Map - 4,99\u20ac",
+          "option_text": "Steam: Rails to Riches - Northern England Map - <span class=\"discount_original_price\">4,99\u20ac</span> 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -110,13 +112,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/596822/ss_6a7c3ef1b0df64ebe2c7bd9521c6ab7797b7888d.600x338.jpg?t=1494256090",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/596822/ss_6a7c3ef1b0df64ebe2c7bd9521c6ab7797b7888d.1920x1080.jpg?t=1494256090"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/596822/ss_6a7c3ef1b0df64ebe2c7bd9521c6ab7797b7888d.600x338.jpg?t=1542869455",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/596822/ss_6a7c3ef1b0df64ebe2c7bd9521c6ab7797b7888d.1920x1080.jpg?t=1542869455"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/596822/ss_416f052d5253e644512ca84062510f5571bf7b3e.600x338.jpg?t=1494256090",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/596822/ss_416f052d5253e644512ca84062510f5571bf7b3e.1920x1080.jpg?t=1494256090"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/596822/ss_416f052d5253e644512ca84062510f5571bf7b3e.600x338.jpg?t=1542869455",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/596822/ss_416f052d5253e644512ca84062510f5571bf7b3e.1920x1080.jpg?t=1542869455"
     }
   ],
   "release_date": {
@@ -127,5 +129,9 @@
     "url": "http://digital.acram.eu",
     "email": "support@acram.eu"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/596822/page_bg_generated_v6b.jpg?t=1494256090"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/596822/page_bg_generated_v6b.jpg?t=1542869455",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

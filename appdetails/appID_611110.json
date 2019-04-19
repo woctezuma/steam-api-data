@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The pink for disappeared about a year ago. The world had changed forever. We no longer lived \u2013 we survived. We had been surviving on food stolen from the nearest shops for over a year. This was done by the whole camp. And if it hadn't been for a terrible collision nearly half a year ago, there would be twice as many people... At that time we still had hope and faith in others \u2013 we thought that the world would change for the better. Now all hope was lost. <br><strong>What happened to the world and the characters you love - find out after the end of the Sixtieth Kilometer.</strong>",
   "about_the_game": "The pink for disappeared about a year ago. The world had changed forever. We no longer lived \u2013 we survived. We had been surviving on food stolen from the nearest shops for over a year. This was done by the whole camp. And if it hadn't been for a terrible collision nearly half a year ago, there would be twice as many people... At that time we still had hope and faith in others \u2013 we thought that the world would change for the better. Now all hope was lost. <br><strong>What happened to the world and the characters you love - find out after the end of the Sixtieth Kilometer.</strong>",
-  "short_description": "The pink for disappeared about a year ago. The world had changed forever. We no longer lived \u2013 we survived.<br><strong>What happened to the world and the characters you love - find out after the end of the Sixtieth Kilometer.</strong>",
+  "short_description": "The pink for disappeared about a year ago. The world had changed forever. We no longer lived \u2013 we survived.What happened to the world and the characters you love - find out after the end of the Sixtieth Kilometer.",
   "fullgame": {
     "appid": "448780",
     "name": "Sixtieth Kilometer"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     163268
@@ -120,6 +122,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/611110/ss_45f4cc121ad2084f7d821d274042ed7dcd19e6ff.1920x1080.jpg?t=1506341760"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Mar, 2017"
@@ -128,5 +133,12 @@
     "url": "",
     "email": "talentplace@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/611110/page_bg_generated_v6b.jpg?t=1506341760"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/611110/page_bg_generated_v6b.jpg?t=1506341760",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

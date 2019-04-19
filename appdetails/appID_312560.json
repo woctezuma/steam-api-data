@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     47126
@@ -63,7 +65,7 @@
   },
   "metacritic": {
     "score": 78,
-    "url": "http://www.metacritic.com/game/pc/xanadu-next?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/xanadu-next?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -167,7 +169,7 @@
     }
   ],
   "recommendations": {
-    "total": 172
+    "total": 184
   },
   "achievements": {
     "total": 15,
@@ -222,5 +224,9 @@
     "url": "www.xseedgames.com",
     "email": "support@xseedgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/312560/page_bg_generated_v6b.jpg?t=1523575902"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/312560/page_bg_generated_v6b.jpg?t=1523575902",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>30 minute demonstration on how I take a basic line sketch to colored painting in photoshop CC. Covers how to manage layers, and when you should actually paint over your lines.\r\n\r\n-Hires PSD JPG.\r\n-Photoshop Brushes and tool presets\r\n-PSD/JPG of the faced more developed.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>30 minute demonstration on how I take a basic line sketch to colored painting in photoshop CC. Covers how to manage layers, and when you should actually paint over your lines.\r\n\r\n-Hires PSD JPG.\r\n-Photoshop Brushes and tool presets\r\n-PSD/JPG of the faced more developed.",
   "about_the_game": "30 minute demonstration on how I take a basic line sketch to colored painting in photoshop CC. Covers how to manage layers, and when you should actually paint over your lines.<br />\r\n<br />\r\n-Hires PSD JPG.<br />\r\n-Photoshop Brushes and tool presets<br />\r\n-PSD/JPG of the faced more developed.",
   "short_description": "This covers basic line sketch, how to manage laters and when you should paint over your lines.",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     83371
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Jan, 2016"
@@ -127,5 +132,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/414850/page_bg_generated_v6b.jpg?t=1453411250"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/414850/page_bg_generated_v6b.jpg?t=1453411250",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

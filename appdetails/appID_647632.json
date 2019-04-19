@@ -11,15 +11,21 @@
     "appid": "534370",
     "name": "Pure Farming 2018"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Polish, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/647632/header.jpg?t=1520976693",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10,8,7 (64 bit)<br></li><li><strong>Processor:</strong> Intel Core I5 2,3 GHZ or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Geforce 560 GTX 2 GB or better<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 12 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10,8<br></li><li><strong>Processor:</strong> Intel Core I7, 3,0 GHZ or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Geforce GTX 970 4 GB or better<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 12 GB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10,8,7 (64 bit)<br></li><li><strong>Processor:</strong> Intel Core I5 2,3 GHZ or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Geforce 560 GTX 2 GB or better<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 12 GB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10,8<br></li><li><strong>Processor:</strong> Intel Core I7, 3,0 GHZ or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Geforce GTX 970 4 GB or better<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 12 GB available space</li></ul>"
   },
-  "mac_requirements": [],
-  "linux_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
   "legal_notice": "Pure Farming\u00a02018 \u00a9 2017 Techland Sp. z o.o.. Publi\u00e9 par Techland Publishing. d\u00e9velopp\u00e9 par IceFlames au moyen du moteur Unity Technology. Pure Farming et Techland sont des marques de commerce ou des marques d\u00e9pos\u00e9es de Techland Sp. z o.o.",
   "developers": [
     "Ice Flames"
@@ -31,7 +37,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     182054
@@ -87,6 +95,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647632/ss_f616efe3cf79a8bb5bdd6362b7b14a7dc5e1f2cf.1920x1080.jpg?t=1520976693"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Mar, 2018"
@@ -95,5 +106,9 @@
     "url": "support.techland.pl",
     "email": "support@techland.pl"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/647632/page_bg_generated_v6b.jpg?t=1520976693"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/647632/page_bg_generated_v6b.jpg?t=1520976693",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

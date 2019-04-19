@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     195158
@@ -93,11 +95,6 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/682980/ss_c67f1d82cce69840a2865a6aa39c8f93275c8c59.1920x1080.jpg?t=1512755908"
     },
     {
-      "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/682980/?t=1512755908",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/682980/?t=1512755908"
-    },
-    {
       "id": 2,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/682980/ss_3801b06a9fd37a2d1378456ad6549068117bf495.600x338.jpg?t=1512755908",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/682980/ss_3801b06a9fd37a2d1378456ad6549068117bf495.1920x1080.jpg?t=1512755908"
@@ -126,5 +123,9 @@
     "url": "",
     "email": "info@charmgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/682980/page_bg_generated_v6b.jpg?t=1512755908"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/682980/page_bg_generated_v6b.jpg?t=1512755908",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

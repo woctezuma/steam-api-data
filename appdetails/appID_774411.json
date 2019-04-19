@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 99,
+    "discount_percent": 80,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     232195
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 232195,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "Temple of Xiala - 4,99\u20ac",
+          "option_text": "Temple of Xiala - <span class=\"discount_original_price\">4,99\u20ac</span> 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -136,5 +138,9 @@
     "url": "",
     "email": "hannesdelbeke@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/774411/page_bg_generated_v6b.jpg?t=1521501748"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/774411/page_bg_generated_v6b.jpg?t=1521501748",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

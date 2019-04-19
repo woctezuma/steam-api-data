@@ -6,10 +6,10 @@
   "is_free": false,
   "detailed_description": "The F-5E Aggressors ACM campaign puts you in the cockpit of an F-5E Tiger II, as a new Aggressor pilot with the 65th Aggressor Squadron at Nellis Air Force Base. Based on real world procedures you will fly as Red Air against Blue Air Forces.<br><br>You will face a series of challenging Air Combat Maneuver (ACM) missions against dis-similar aircraft. Your opponents include the F-4E, F-5E, F-14A, F-15C, F-15E, F-16C, F/A-18C, M-2000C, MiG-29G, CF-188, MiG-21 and unknown.<br><br>Additionally there are 11 single player practice missions with in-air starts so you can perfect your ACM tactics and techniques.<br><br><ul class=\"bb_ul\"><li>There are over 1800 voiceovers and 49 pages of briefing material including the RED FLAG Spins, Red Forces In Flight Guide,<br></li><li>Maps, Diagrams, Custom Kneeboards and Mission Data cards.</li></ul><u><br>DCS: NEVADA Test and Training Range Map and DCS: F-5E Tiger II are required.</u><br><br><u>This is a campaign for DCS World 2 Open Beta.</u><br><br><strong>Please note that this DLC uses Steam Keys instead of Starforce keys. As such, this purchase cannot be activated on the DCS World e-Shop version. </strong>",
   "about_the_game": "The F-5E Aggressors ACM campaign puts you in the cockpit of an F-5E Tiger II, as a new Aggressor pilot with the 65th Aggressor Squadron at Nellis Air Force Base. Based on real world procedures you will fly as Red Air against Blue Air Forces.<br><br>You will face a series of challenging Air Combat Maneuver (ACM) missions against dis-similar aircraft. Your opponents include the F-4E, F-5E, F-14A, F-15C, F-15E, F-16C, F/A-18C, M-2000C, MiG-29G, CF-188, MiG-21 and unknown.<br><br>Additionally there are 11 single player practice missions with in-air starts so you can perfect your ACM tactics and techniques.<br><br><ul class=\"bb_ul\"><li>There are over 1800 voiceovers and 49 pages of briefing material including the RED FLAG Spins, Red Forces In Flight Guide,<br></li><li>Maps, Diagrams, Custom Kneeboards and Mission Data cards.</li></ul><u><br>DCS: NEVADA Test and Training Range Map and DCS: F-5E Tiger II are required.</u><br><br><u>This is a campaign for DCS World 2 Open Beta.</u><br><br><strong>Please note that this DLC uses Steam Keys instead of Starforce keys. As such, this purchase cannot be activated on the DCS World e-Shop version. </strong>",
-  "short_description": "The F-5E Aggressors ACM campaign puts you in the cockpit of an F-5E Tiger II, as a new Aggressor pilot with the 65th Aggressor Squadron at Nellis Air Force Base. Based on real world procedures you will fly as Red Air against Blue Air Forces.<br><br>You will face a series of challenging Air Combat Maneuver (ACM) missions against dis-similar aircraft. Your opponents include the F-4E, F-5E, F-14A, F-15C, F-15E, F-16C, F/A-18C, M-2000C, MiG-29G, CF-188, MiG-21 and unknown.<br><br>Additionally there are 11 single player practice missions with in-air starts so you can perfect your ACM tactics and techniques.<br><br><ul class=\"bb_ul\"><li>There are over 1800 voiceovers and 49 pages of briefing material including the RED FLAG Spins, Red Forces In Flight Guide,<br></li><li>Maps, Diagrams, Custom Kneeboards and Mission Data cards.</li></ul>",
+  "short_description": "The F-5E Aggressors ACM campaign puts you in the cockpit of an F-5E Tiger II, as a new Aggressor pilot with the 65th Aggressor Squadron at Nellis Air Force Base. Based on real world procedures you will fly as Red Air against Blue Air Forces.",
   "fullgame": {
     "appid": "223750",
-    "name": "DCS World"
+    "name": "DCS World Steam Edition"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/685080/header.jpg?t=1507724644",
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 960,
-    "final": 960,
-    "discount_percent": 0
+    "final": 480,
+    "discount_percent": 50,
+    "initial_formatted": "9,60\u20ac",
+    "final_formatted": "4,80\u20ac"
   },
   "packages": [
     195959
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 195959,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "F-5E: Aggressors Air Combat Maneuver Campaign - 9,60\u20ac",
+          "option_text": "F-5E: Aggressors Air Combat Maneuver Campaign - <span class=\"discount_original_price\">9,60\u20ac</span> 4,80\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 960
+          "price_in_cents_with_discount": 480
         }
       ]
     }
@@ -181,6 +183,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Oct, 2017"
@@ -189,5 +194,9 @@
     "url": "http://forums.eagle.ru/index.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/685080/page_bg_generated_v6b.jpg?t=1507724644"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/685080/page_bg_generated_v6b.jpg?t=1507724644",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

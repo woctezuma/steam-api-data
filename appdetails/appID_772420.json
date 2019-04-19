@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 899,
-    "final": 899,
-    "discount_percent": 0
+    "initial": 599,
+    "final": 599,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     231100
@@ -46,11 +48,11 @@
           "packageid": 231100,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "COMPLEX a VR Puzzle Game HTC Vive - 8,99\u20ac",
+          "option_text": "COMPLEX a VR Puzzle Game HTC Vive - 5,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 899
+          "price_in_cents_with_discount": 599
         }
       ]
     }
@@ -128,6 +130,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Jan, 2018"
@@ -136,5 +141,9 @@
     "url": "https://rockagamesak.jimdo.com/",
     "email": "ademkaya2008@yahoo.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/772420/page_bg_generated_v6b.jpg?t=1515453698"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/772420/page_bg_generated_v6b.jpg?t=1515453698",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

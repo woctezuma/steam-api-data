@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     228271
@@ -153,5 +155,9 @@
     "url": "http://www.lucidlife.net/support/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/768910/page_bg_generated_v6b.jpg?t=1517248815"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/768910/page_bg_generated_v6b.jpg?t=1517248815",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

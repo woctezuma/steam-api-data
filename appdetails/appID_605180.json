@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "&quot;Theory of Fear&quot; is a visual novel combining \u201cslice of life\u201d and \u201cdark fantasy\u201d genres.<br />\r\nIn the daytime, the main heroine is an ordinary girl, a first-year university student, who does an evening job in a caf\u00e9. At night, in her dreams, she visits another world with extraordinary guys, who start pursuing her.<br />\r\nAt first, she makes little account of her dreams, thinking they\u2019re no more than vivid fantasies, but the more she drowns into them, the clearer her realization of the Midworld\u2019s reality becomes \u2013 it exists and those who live there aren\u2019t going to leave her alone\u2026<br />\r\n<br />\r\nAdditional description:<br />\r\n- The novel consists of 12 chapters.<br />\r\n- There are 6 characters in the game: one main heroine and 5 guys, with whom the girl can form relationships.<br />\r\n- 12 different endings, which depend on the player\u2019s choice during the game.<br />\r\n- A system of bonuses, which can be exchanged for different pieces of additional content in the Secret Room (interesting stories from the game world, \u201csecret\u201d biographies of the characters and so on).",
   "about_the_game": "&quot;Theory of Fear&quot; is a visual novel combining \u201cslice of life\u201d and \u201cdark fantasy\u201d genres.<br />\r\nIn the daytime, the main heroine is an ordinary girl, a first-year university student, who does an evening job in a caf\u00e9. At night, in her dreams, she visits another world with extraordinary guys, who start pursuing her.<br />\r\nAt first, she makes little account of her dreams, thinking they\u2019re no more than vivid fantasies, but the more she drowns into them, the clearer her realization of the Midworld\u2019s reality becomes \u2013 it exists and those who live there aren\u2019t going to leave her alone\u2026<br />\r\n<br />\r\nAdditional description:<br />\r\n- The novel consists of 12 chapters.<br />\r\n- There are 6 characters in the game: one main heroine and 5 guys, with whom the girl can form relationships.<br />\r\n- 12 different endings, which depend on the player\u2019s choice during the game.<br />\r\n- A system of bonuses, which can be exchanged for different pieces of additional content in the Secret Room (interesting stories from the game world, \u201csecret\u201d biographies of the characters and so on).",
-  "short_description": "&quot;Theory of Fear&quot; is a visual novel combining \u201cslice of life\u201d and \u201cdark fantasy\u201d genres.<br />\r\nIn the daytime, the main heroine is an ordinary girl, a first-year university student, who does an evening job in a caf\u00e9. At night, in her dreams, she visits another world with extraordinary guys, who start pursuing her...",
+  "short_description": "&quot;Theory of Fear&quot; is a visual novel combining \u201cslice of life\u201d and \u201cdark fantasy\u201d genres. In the daytime, the main heroine is an ordinary girl, a first-year university student, who does an evening job in a caf\u00e9. At night, in her dreams, she visits another world with extraordinary guys, who start pursuing her...",
   "supported_languages": "English, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/605180/header.jpg?t=1490704183",
   "website": "http://www.fear-theory.ru",
@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 449,
+    "discount_percent": 10,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "4,49\u20ac"
   },
   "packages": [
     159527
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 159527,
-          "percent_savings_text": "",
+          "percent_savings_text": "-10%",
           "percent_savings": 0,
-          "option_text": "Theory of Fear - 4,99\u20ac",
+          "option_text": "Theory of Fear - <span class=\"discount_original_price\">4,99\u20ac</span> 4,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 449
         }
       ]
     }
@@ -178,6 +180,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Mar, 2017"
@@ -186,5 +191,13 @@
     "url": "",
     "email": "feartheory666@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/605180/page_bg_generated_v6b.jpg?t=1490704183"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/605180/page_bg_generated_v6b.jpg?t=1490704183",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

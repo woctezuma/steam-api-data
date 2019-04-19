@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     234022
@@ -127,6 +129,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778160/ss_3ed4516448681eb1312184b94b2da07255fdbdc4.1920x1080.jpg?t=1521692868"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Feb, 2018"
@@ -135,5 +140,12 @@
     "url": "http://www.sakuragame.com",
     "email": "gm@sakuragame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/778160/page_bg_generated_v6b.jpg?t=1521692868"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/778160/page_bg_generated_v6b.jpg?t=1521692868",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

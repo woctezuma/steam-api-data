@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>The old watchtower was once used to get a proper view over Midgard but now Wizards have claimed it to settle disputes slightly less petty than the once settled in Aldrheim\u2019s old Training Grounds. This is indeed an epic location for duels and how the wizards get up there in the first place, no one knows.</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>New map for the Versus game mode\n\t\t\t\t\t\t<li>The absense of a railing on a mountaintop ruin provides new environmental hazard\n\t\t\t\t\t\t<li>Height differences not only refers to the deadly fall but also the different platforms of the tower.\n\t\t\t\t\t\t</ul>",
   "about_the_game": "<p>The old watchtower was once used to get a proper view over Midgard but now Wizards have claimed it to settle disputes slightly less petty than the once settled in Aldrheim\u2019s old Training Grounds. This is indeed an epic location for duels and how the wizards get up there in the first place, no one knows.</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>New map for the Versus game mode\n\t\t\t\t\t\t<li>The absense of a railing on a mountaintop ruin provides new environmental hazard\n\t\t\t\t\t\t<li>Height differences not only refers to the deadly fall but also the different platforms of the tower.\n\t\t\t\t\t\t</ul>",
-  "short_description": "",
+  "short_description": "The old watchtower was once used to get a proper view over Midgard but now Wizards have claimed it to settle disputes slightly less petty than the once settled in Aldrheim\u2019s old Training Grounds. This is indeed an epic location for duels and how the wizards get up there in the first place, no one knows.",
   "fullgame": {
     "appid": "42910",
     "name": "Magicka"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     8486
@@ -131,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/73036/ss_2ecc801faf9985ef6688e009138b698810c2426a.1920x1080.jpg?t=1447354329"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Jun, 2011"
@@ -139,5 +144,9 @@
     "url": "http://www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/73036/page_bg_generated_v6b.jpg?t=1447354329"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/73036/page_bg_generated_v6b.jpg?t=1447354329",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/499410/extras/description.png?t=1488887289\" ><br>In this expansion you will face a new threat to the sector - a group of renegades know as Pariahs, led by the infamous Shank Twice. Pariahs are in the habit of asking favors no one can't refuse, and you might become one of those unfortunates. Dive into a brand-new storyline involving pirates, sabotage and gang wars. Join the merciless crew of the Pariahs and see where this all leads.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/499410/extras/key_features.png?t=1488887289\" ><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li><strong>Completely new storyline</strong> that is about twice as long as any given storyline in the original game. This storyline runs in parallel to the original game, so you are completely free to choose what to do first.<br></li><li><strong>New playable faction</strong> - Pariahs with their own star system, unique station, characters, quests and everything.<br></li><li>More unexpected encounters, references, humor and quirky characters!<br></li><li>New ships, new items, new stuff in general. And speaking of ships - we heard you and we added our first capital ship to the game!<br></li><li>New music from the same great composer who created tracks for the original game!<br></li><li>And more!</li></ul></ul>",
   "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/499410/extras/description.png?t=1488887289\" ><br>In this expansion you will face a new threat to the sector - a group of renegades know as Pariahs, led by the infamous Shank Twice. Pariahs are in the habit of asking favors no one can't refuse, and you might become one of those unfortunates. Dive into a brand-new storyline involving pirates, sabotage and gang wars. Join the merciless crew of the Pariahs and see where this all leads.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/499410/extras/key_features.png?t=1488887289\" ><ul class=\"bb_ul\"><ul class=\"bb_ul\"><li><strong>Completely new storyline</strong> that is about twice as long as any given storyline in the original game. This storyline runs in parallel to the original game, so you are completely free to choose what to do first.<br></li><li><strong>New playable faction</strong> - Pariahs with their own star system, unique station, characters, quests and everything.<br></li><li>More unexpected encounters, references, humor and quirky characters!<br></li><li>New ships, new items, new stuff in general. And speaking of ships - we heard you and we added our first capital ship to the game!<br></li><li>New music from the same great composer who created tracks for the original game!<br></li><li>And more!</li></ul></ul>",
-  "short_description": "In this expansion you will face a new threat to the sector - a group of renegades know as Pariahs, led by the infamous Shank Twice. Pariahs are in the habit of asking favors no one can't refuse, and you might become one of those unfortunates. Dive into a brand-new storyline involving pirates, sabotage and gang wars. Join the merciless crew of the Pariahs and see where this all leads.",
+  "short_description": "In this expansion you will face a new threat to the sector - a group of renegades know as Pariahs, led by the infamous Shank Twice. Pariahs are in the habit of asking favors no one can't refuse, and you might become one of those unfortunates. Dive into a brand-new storyline involving pirates, sabotage and gang wars.",
   "fullgame": {
     "appid": "324260",
     "name": "VoidExpanse"
@@ -35,8 +35,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 399,
-    "discount_percent": 20
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     114313
@@ -53,13 +55,13 @@
       "subs": [
         {
           "packageid": 114313,
-          "percent_savings_text": "-20%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "VoidExpanse: Pariahs' Bane - <span class=\"discount_original_price\">4,99\u20ac</span> 3,99\u20ac",
+          "option_text": "VoidExpanse: Pariahs' Bane - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -179,5 +181,9 @@
     "url": "https://atomictorch.com/",
     "email": "atomictorch@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499410/page_bg_generated_v6b.jpg?t=1488887289"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499410/page_bg_generated_v6b.jpg?t=1488887289",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

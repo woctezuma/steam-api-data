@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     83101
@@ -229,7 +231,7 @@
     }
   ],
   "recommendations": {
-    "total": 270
+    "total": 294
   },
   "achievements": {
     "total": 109,
@@ -284,5 +286,9 @@
     "url": "http://forum.pixbits.com",
     "email": "pixbits@pixbits.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/414190/page_bg_generated_v6b.jpg?t=1481074465"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/414190/page_bg_generated_v6b.jpg?t=1481074465",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

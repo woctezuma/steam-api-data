@@ -12,20 +12,20 @@
     "appid": "495350",
     "name": "Woodle Tree 2: Worlds"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Arabic, Japanese, Russian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Japanese, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/553190/header.jpg?t=1478190264",
   "website": "http://www.chubbypixel.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 38 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 38 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 38 MB d'espace disque disponible</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 38 MB d'espace disque disponible</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 38 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 38 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 38 MB d'espace disque disponible</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 38 MB d'espace disque disponible</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 38 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 38 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 38 MB d'espace disque disponible</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 38 MB d'espace disque disponible</li></ul>"
   },
   "developers": [
     "Fabio Ferrara"
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     137440
@@ -145,5 +147,9 @@
     "url": "http://chubbypixel.com/contacts/",
     "email": "info@chubbypixel.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/553190/page_bg_generated_v6b.jpg?t=1478190264"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/553190/page_bg_generated_v6b.jpg?t=1478190264",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

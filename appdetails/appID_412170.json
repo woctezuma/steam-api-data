@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     82317
@@ -199,7 +201,7 @@
     }
   ],
   "recommendations": {
-    "total": 239
+    "total": 135
   },
   "achievements": {
     "total": 52,
@@ -254,5 +256,9 @@
     "url": "http://astronomicgames.com/news.html",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/412170/page_bg_generated_v6b.jpg?t=1505857209"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/412170/page_bg_generated_v6b.jpg?t=1505857209",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

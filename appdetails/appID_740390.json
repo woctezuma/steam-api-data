@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     216799
@@ -45,11 +47,11 @@
           "packageid": 216799,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Terrorist Elimination - 1,99\u20ac",
+          "option_text": "Terrorist Elimination - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -123,6 +125,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Nov, 2017"
@@ -131,5 +136,9 @@
     "url": "",
     "email": "John123@gmail.co"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740390/page_bg_generated_v6b.jpg?t=1510052656"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740390/page_bg_generated_v6b.jpg?t=1510052656",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

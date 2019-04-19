@@ -8,8 +8,8 @@
   "detailed_description": "<strong>\u25a0 Storyline</strong><br>A man returns to his world to reclaim all he has lost<br>without knowing that everything has changed since he left...<br><br><strong>\u25a0 About the game</strong><br>Color Symphony 2 is a puzzle action platformer that utilizes the ambiguity of color. Try to eliminate obstacles or find new paths by using color! This simple rule allows you to solve various problems. Color Symphony 2 will provide lots of fun with improved controls and level designs.<br><br><strong>\u25a0 Features</strong><br>* Unique mechanics that utilizes the ambiguity of color<br>* Simple rules and various solutions<br>* Level design packed with action and puzzles<br>* Over 120 levels and various achievements<br>* Support for Steam Cloud, Leaderboards and Trading Cards<br>* Newly introduced elements<br>* Improved controls and graphics<br>* Optimized for gamepad<br>* Support for various OS including Windows, OSX, and Linux<br>* Support for color blindness and color weakness",
   "about_the_game": "<strong>\u25a0 Storyline</strong><br>A man returns to his world to reclaim all he has lost<br>without knowing that everything has changed since he left...<br><br><strong>\u25a0 About the game</strong><br>Color Symphony 2 is a puzzle action platformer that utilizes the ambiguity of color. Try to eliminate obstacles or find new paths by using color! This simple rule allows you to solve various problems. Color Symphony 2 will provide lots of fun with improved controls and level designs.<br><br><strong>\u25a0 Features</strong><br>* Unique mechanics that utilizes the ambiguity of color<br>* Simple rules and various solutions<br>* Level design packed with action and puzzles<br>* Over 120 levels and various achievements<br>* Support for Steam Cloud, Leaderboards and Trading Cards<br>* Newly introduced elements<br>* Improved controls and graphics<br>* Optimized for gamepad<br>* Support for various OS including Windows, OSX, and Linux<br>* Support for color blindness and color weakness",
   "short_description": "Color Symphony 2 is a puzzle action platformer that utilizes the ambiguity of color. Try to eliminate obstacles or find new paths by using color!",
-  "supported_languages": "English, French, Italian, German, Spanish, Japanese",
-  "reviews": "\u201cI think players are missing out on a very solid indie platformer here.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://breakingcanon.com/color-symphony-2\" target=\"_blank\" rel=\"noopener\"  >Breaking Canon</a></a><br><br>\u201cIf you really are into 2D platformers, then it\u2019s a great game and you should definitely pick it up.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://brashgames.co.uk/2015/12/08/color-symphony-2-review\" target=\"_blank\" rel=\"noopener\"  >Brash Games</a></a><br><br>\u201cColor Symphony 2 is a perfect scratch for the hardcore puzzle platforming itch\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://cogconnected.com/review/color-symphony-2-review\" target=\"_blank\" rel=\"noopener\"  >COGconnected</a></a><br>",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese",
+  "reviews": "\u201cI think players are missing out on a very solid indie platformer here.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://breakingcanon.com/color-symphony-2\" target=\"_blank\" rel=\"noopener\"  >Breaking Canon</a><br><br>\u201cIf you really are into 2D platformers, then it\u2019s a great game and you should definitely pick it up.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://brashgames.co.uk/2015/12/08/color-symphony-2-review\" target=\"_blank\" rel=\"noopener\"  >Brash Games</a><br><br>\u201cColor Symphony 2 is a perfect scratch for the hardcore puzzle platforming itch\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://cogconnected.com/review/color-symphony-2-review\" target=\"_blank\" rel=\"noopener\"  >COGconnected</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/403780/header.jpg?t=1516059302",
   "website": "http://www.remimory.com",
   "pc_requirements": {
@@ -37,8 +37,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 199,
+    "discount_percent": 80,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     79030
@@ -55,13 +57,13 @@
       "subs": [
         {
           "packageid": 79030,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "Color Symphony 2 - 9,99\u20ac",
+          "option_text": "Color Symphony 2 - <span class=\"discount_original_price\">9,99\u20ac</span> 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -274,5 +276,9 @@
     "url": "http://www.remimory.com",
     "email": "contact@remimory.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403780/page_bg_generated_v6b.jpg?t=1516059302"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403780/page_bg_generated_v6b.jpg?t=1516059302",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

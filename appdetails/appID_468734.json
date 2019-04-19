@@ -32,10 +32,12 @@
     "Berserk Games"
   ],
   "price_overview": {
-    "currency": "USD",
+    "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     103447
@@ -54,7 +56,7 @@
           "packageid": 103447,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Tiny Epic Defenders - $4.99",
+          "option_text": "Tiny Epic Defenders - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -167,13 +169,20 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/468734/ss_5902ee04ec4591d67e361274614b94b6129651ae.1920x1080.jpg?t=1478647791"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
-    "date": "Sep 23, 2016"
+    "date": "23 Sep, 2016"
   },
   "support_info": {
     "url": "http://www.berserk-games.com/forum",
     "email": "berserkgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/468734/page_bg_generated_v6b.jpg?t=1478647791"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/468734/page_bg_generated_v6b.jpg?t=1478647791",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

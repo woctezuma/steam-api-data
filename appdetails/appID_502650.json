@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Autumn Park Mini Golf is a first person miniature golf game set in a scenic park. With smooth jazz and piano sets to help set the mood, we think you'll enjoy your time relaxing and exploring the park while you play.  With trick shots and rewards based on how well you play the game, Autumn Park Mini Golf will keep you coming back for more. Can you finish the game under par? <br />\r\n<br />\r\nWe will be supporting only the English language. However the game itself has very little in the way of text and no spoken components. Instead, the game relies on an intuitive gameplay style and understanding of how miniature golf is normally played.",
   "about_the_game": "Autumn Park Mini Golf is a first person miniature golf game set in a scenic park. With smooth jazz and piano sets to help set the mood, we think you'll enjoy your time relaxing and exploring the park while you play.  With trick shots and rewards based on how well you play the game, Autumn Park Mini Golf will keep you coming back for more. Can you finish the game under par? <br />\r\n<br />\r\nWe will be supporting only the English language. However the game itself has very little in the way of text and no spoken components. Instead, the game relies on an intuitive gameplay style and understanding of how miniature golf is normally played.",
-  "short_description": "Autumn Park Mini Golf is a first person miniature golf game set in a scenic park. With smooth jazz and piano sets to help set the mood, we think you'll enjoy your time relaxing and exploring the park while you play.  Can you finish the game under par?",
+  "short_description": "Autumn Park Mini Golf is a first person miniature golf game set in a scenic park. With smooth jazz and piano sets to help set the mood, we think you'll enjoy your time relaxing and exploring the park while you play. Can you finish the game under par?",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/502650/header.jpg?t=1477970490",
   "website": "http://www.autumnparkminigolf.com",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     115560
@@ -201,5 +203,9 @@
     "url": "http://www.autumnparkminigolf.com",
     "email": "serioustangents@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502650/page_bg_generated_v6b.jpg?t=1477970490"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502650/page_bg_generated_v6b.jpg?t=1477970490",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

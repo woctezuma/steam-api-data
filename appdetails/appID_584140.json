@@ -11,7 +11,7 @@
     "appid": "394360",
     "name": "Hearts of Iron IV"
   },
-  "supported_languages": "English, French, German, Polish, Portuguese-Brazil, Russian, Spanish",
+  "supported_languages": "English, French, German, Polish, Portuguese - Brazil, Russian, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/584140/header.jpg?t=1521557110",
   "website": "http://www.heartsofiron4.com/",
   "pc_requirements": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     150412
@@ -172,7 +174,10 @@
     }
   ],
   "recommendations": {
-    "total": 786
+    "total": 797
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -182,5 +187,9 @@
     "url": "https://paradox.zendesk.com/",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/584140/page_bg_generated_v6b.jpg?t=1521557110"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/584140/page_bg_generated_v6b.jpg?t=1521557110",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

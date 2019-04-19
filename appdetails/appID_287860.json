@@ -5,23 +5,29 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Feature List</h1><p><ul class=\"bb_ul\"><li>7 stages of intense action<br></li><li>Local coop and versus mode<br></li><li>Beautiful retro graphics<br></li><li>Online hiscore<br></li><li>Rocking chiptunes soundtrack <br></li><li>Unlockable hard mode</li></ul></p><br><h1>About the Game</h1>8-Bit Commando is a run and gun platformer with fast-paced action, a rocking soundtrack (from the chiptunes artist Ozzed), local multiplayer and explosions. The graphics will take you back to the classic age of gaming and the gameplay is bound to challenge even the most seasoned vets.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/287860/extras/final.png?t=1516310169\" >",
-  "about_the_game": "8-Bit Commando is a run and gun platformer with fast-paced action, a rocking soundtrack (from the chiptunes artist Ozzed), local multiplayer and explosions. The graphics will take you back to the classic age of gaming and the gameplay is bound to challenge even the most seasoned vets.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/287860/extras/final.png?t=1516310169\" >",
+  "detailed_description": "<h1>Feature List</h1><p><ul class=\"bb_ul\"><li>7 stages of intense action<br></li><li>Local coop and versus mode<br></li><li>Beautiful retro graphics<br></li><li>Online hiscore<br></li><li>Rocking chiptunes soundtrack <br></li><li>Unlockable hard mode</li></ul></p><br><h1>About the Game</h1>8-Bit Commando is a run and gun platformer with fast-paced action, a rocking soundtrack (from the chiptunes artist Ozzed), local multiplayer and explosions. The graphics will take you back to the classic age of gaming and the gameplay is bound to challenge even the most seasoned vets.",
+  "about_the_game": "8-Bit Commando is a run and gun platformer with fast-paced action, a rocking soundtrack (from the chiptunes artist Ozzed), local multiplayer and explosions. The graphics will take you back to the classic age of gaming and the gameplay is bound to challenge even the most seasoned vets.",
   "short_description": "8-Bit Commando is a run and gun platformer with fast-paced action, a rocking soundtrack, local multiplayer and explosions.",
-  "supported_languages": "English, French, Swedish, Bulgarian, Russian, Hungarian, Korean, Polish, Italian, German, Spanish, Portuguese-Brazil, Japanese, Dutch, Ukrainian, Danish, Romanian, Czech",
-  "reviews": "\u201cExcellent animation and serious attention to detail really bring it life\u201d<br>8/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://gamecola.net/2011/07/nsfw-8-bit-commando-pc/\" target=\"_blank\" rel=\"noopener\"  >Game Cola</a></a><br><br>\u201cAll the levels are distinctively individual and look fantastic\u201d<br>82/100 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.byttenreviews.co.uk/gamereview.php?id=471\" target=\"_blank\" rel=\"noopener\"  >Bytten</a></a><br>",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/287860/header.jpg?t=1516310169",
+  "supported_languages": "English, French, Swedish, Bulgarian, Russian, Hungarian, Korean, Polish, Italian, German, Spanish - Spain, Portuguese - Brazil, Japanese, Dutch, Ukrainian, Danish, Romanian, Czech",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/287860/header.jpg?t=1554011128",
   "website": "http://2dengine.com/commando/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or later<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> At least one controller required for co-op play</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista+<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> Requires a controller for co-op play</li></ul>"
   },
-  "mac_requirements": [],
-  "linux_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.7+<br></li><li><strong>Processor:</strong> Core 2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> Requires a controller for co-op play</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04+<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> Requires a controller for co-op play</li></ul>"
+  },
   "developers": [
-    "2DEngine"
+    "2dengine"
   ],
   "publishers": [
-    "2DEngine"
+    "2dengine"
   ],
   "demos": [
     {
@@ -31,13 +37,14 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
-    40113,
-    88332
+    40113
   ],
   "package_groups": [
     {
@@ -53,29 +60,19 @@
           "packageid": 40113,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "8-Bit Commando - 2,99\u20ac",
+          "option_text": "8-Bit Commando - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
-        },
-        {
-          "packageid": 88332,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "2DEngine Bundle - 5,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 329
         }
       ]
     }
   ],
   "platforms": {
     "windows": true,
-    "mac": false,
-    "linux": false
+    "mac": true,
+    "linux": true
   },
   "categories": [
     {
@@ -107,6 +104,10 @@
       "description": "Steam Cloud"
     },
     {
+      "id": 15,
+      "description": "Stats"
+    },
+    {
       "id": 25,
       "description": "Steam Leaderboards"
     }
@@ -124,33 +125,43 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_f0c0a83549f49d5bfba44223c1d08c55c9e604c1.600x338.jpg?t=1516310169",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_f0c0a83549f49d5bfba44223c1d08c55c9e604c1.1920x1080.jpg?t=1516310169"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_4bcefbda62834148e3951d67bf21206eeb860095.600x338.jpg?t=1554011128",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_4bcefbda62834148e3951d67bf21206eeb860095.1920x1080.jpg?t=1554011128"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_f123aee01a09c23e1e41fca474077a46774e3970.600x338.jpg?t=1516310169",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_f123aee01a09c23e1e41fca474077a46774e3970.1920x1080.jpg?t=1516310169"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_8a505d5d2ada77562bf88f0bb1eef38330f37d57.600x338.jpg?t=1554011128",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_8a505d5d2ada77562bf88f0bb1eef38330f37d57.1920x1080.jpg?t=1554011128"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_b653db78ba5d97332c7faaa79986f775bee4f7ea.600x338.jpg?t=1516310169",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_b653db78ba5d97332c7faaa79986f775bee4f7ea.1920x1080.jpg?t=1516310169"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_044283fa25289db898d5f538f2a4894fb0c42af3.600x338.jpg?t=1554011128",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_044283fa25289db898d5f538f2a4894fb0c42af3.1920x1080.jpg?t=1554011128"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_cf94802d00476cc9612c745676898b25571543e3.600x338.jpg?t=1516310169",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_cf94802d00476cc9612c745676898b25571543e3.1920x1080.jpg?t=1516310169"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_650c14c08058dd2e743080c099e227cfba954ec2.600x338.jpg?t=1554011128",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_650c14c08058dd2e743080c099e227cfba954ec2.1920x1080.jpg?t=1554011128"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_ab2cbe41391ba398bf1c10d2fbdeafaaaad34ece.600x338.jpg?t=1516310169",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_ab2cbe41391ba398bf1c10d2fbdeafaaaad34ece.1920x1080.jpg?t=1516310169"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_82838221464d6c5045d5e400d53975c080ce7cc5.600x338.jpg?t=1554011128",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_82838221464d6c5045d5e400d53975c080ce7cc5.1920x1080.jpg?t=1554011128"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_506b821ad5dad06823cc4497e90785d8f7f2c906.600x338.jpg?t=1516310169",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_506b821ad5dad06823cc4497e90785d8f7f2c906.1920x1080.jpg?t=1516310169"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_b3f2257485faa36c711a0ee7b38e312fb26896af.600x338.jpg?t=1554011128",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_b3f2257485faa36c711a0ee7b38e312fb26896af.1920x1080.jpg?t=1554011128"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_56f9c4e5774ecdfa522f449f169cbe712d8c0152.600x338.jpg?t=1554011128",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_56f9c4e5774ecdfa522f449f169cbe712d8c0152.1920x1080.jpg?t=1554011128"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_cf2ab51ac5d3b63c1e81f17bd21f150393947b96.600x338.jpg?t=1554011128",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/287860/ss_cf2ab51ac5d3b63c1e81f17bd21f150393947b96.1920x1080.jpg?t=1554011128"
     }
   ],
   "movies": [
@@ -165,9 +176,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 226
-  },
   "achievements": {
     "total": 15,
     "highlighted": [
@@ -218,8 +226,12 @@
     "date": "2 Jun, 2014"
   },
   "support_info": {
-    "url": "",
+    "url": "http://2dengine.com/commando/",
     "email": "support@2dengine.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/287860/page_bg_generated_v6b.jpg?t=1516310169"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/287860/page_bg_generated_v6b.jpg?t=1554011128",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

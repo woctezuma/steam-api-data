@@ -4,14 +4,14 @@
   "steam_appid": 2350,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<p>Never before have the forces aligned. United by name and by cause, The Fallen, Pagans, Crusaders, Intruders, and Stroggs must channel their power into an allied operation where teamwork is the only method of mass destruction. Four distinct games test each troop's synthesis and strength to exacting degrees. Cooperation is the only course of action, and war, the only alternative. Soldiers once alone in their struggle, now face the Arena as one.</p>",
-  "about_the_game": "<p>Never before have the forces aligned. United by name and by cause, The Fallen, Pagans, Crusaders, Intruders, and Stroggs must channel their power into an allied operation where teamwork is the only method of mass destruction. Four distinct games test each troop's synthesis and strength to exacting degrees. Cooperation is the only course of action, and war, the only alternative. Soldiers once alone in their struggle, now face the Arena as one.</p>",
-  "short_description": "",
+  "detailed_description": "Never before have the forces aligned. United by name and by cause, The Fallen, Pagans, Crusaders, Intruders, and Stroggs must channel their power into an allied operation where teamwork is the only method of mass destruction. Four distinct games test each troop's synthesis and strength to exacting degrees. Cooperation is the only course of action, and war, the only alternative. Soldiers once alone in their struggle, now face the Arena as one.",
+  "about_the_game": "Never before have the forces aligned. United by name and by cause, The Fallen, Pagans, Crusaders, Intruders, and Stroggs must channel their power into an allied operation where teamwork is the only method of mass destruction. Four distinct games test each troop's synthesis and strength to exacting degrees. Cooperation is the only course of action, and war, the only alternative. Soldiers once alone in their struggle, now face the Arena as one.",
+  "short_description": "Never before have the forces aligned. United by name and by cause, The Fallen, Pagans, Crusaders, Intruders, and Stroggs must channel their power into an allied operation where teamwork is the only method of mass destruction. Four distinct games test each troop's synthesis and strength to exacting degrees.",
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/2350/header.jpg?t=1447351103",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/2350/header.jpg?t=1543499334",
   "website": null,
   "pc_requirements": {
-    "minimum": "<p>3-D Hardware Accelerator with full OpenGL&reg; support, Pentium II(R) 300 Mhz or AMD&reg; 350 Mhz K6&reg;-2 processor or Athlon&reg; processor, Windows 2000/XP/Vista operating system, 64 MB RAM, 16 MB video card, 400 MB of uncompressed hard disk space for each game, 100 MB of free hard drive space for the Windows swap file (in addition to install space), a 100% Windows&reg; 2000/XP-compatible computer system (including compatible 32-bit drivers for video card, sound card and input devices), 100% DirectX 3.0 or higher compatible sound card, 100% Microsoft-compatible mouse and driver</p>"
+    "minimum": "3-D Hardware Accelerator with full OpenGL\u00ae support, Pentium II(R) 300 Mhz or AMD\u00ae 350 Mhz K6\u00ae-2 processor or Athlon\u00ae processor, Windows 2000/XP/Vista operating system, 64 MB RAM, 16 MB video card, 400 MB of uncompressed hard disk space for each game, 100 MB of free hard drive space for the Windows swap file (in addition to install space), a 100% Windows\u00ae 2000/XP-compatible computer system (including compatible 32-bit drivers for video card, sound card and input devices), 100% DirectX 3.0 or higher compatible sound card, 100% Microsoft-compatible mouse and driver"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     433,
@@ -77,7 +79,7 @@
   },
   "metacritic": {
     "score": 69,
-    "url": "http://www.metacritic.com/game/pc/quake-iii-team-arena?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/quake-iii-team-arena?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -102,17 +104,20 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2350/0000002463.600x338.jpg?t=1447351103",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/2350/0000002463.1920x1080.jpg?t=1447351103"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2350/0000002463.600x338.jpg?t=1543499334",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/2350/0000002463.1920x1080.jpg?t=1543499334"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2350/0000002464.600x338.jpg?t=1447351103",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/2350/0000002464.1920x1080.jpg?t=1447351103"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/2350/0000002464.600x338.jpg?t=1543499334",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/2350/0000002464.1920x1080.jpg?t=1543499334"
     }
   ],
   "recommendations": {
-    "total": 126
+    "total": 116
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -122,5 +127,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/2350/page_bg_generated_v6b.jpg?t=1447351103"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/2350/page_bg_generated_v6b.jpg?t=1543499334",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

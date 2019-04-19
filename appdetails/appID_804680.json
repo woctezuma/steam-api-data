@@ -8,7 +8,7 @@
   "about_the_game": "<h2 class=\"bb_tag\">Become a Ninja!</h2>You are a ninja using shuriken and katana. Show your superior skills to the enemy.<h2 class=\"bb_tag\">Shoot shuriken!</h2>Shuriken is a weapon that can kill enemies in the distance. Shoot the enemies before they approach you. You can also head shot by targeting the enemy's head.<h2 class=\"bb_tag\">Using katana!</h2>katana is a good weapon that not only can attack the enemy, but also can defend the enemy's attack. You can also slice the flying watermelon.<h2 class=\"bb_tag\">Kill the boss!</h2>You can fight one of the five bosses. The boss is fast, powerful, and threatening. You must avoid or defend the boss's attack and continue to attack. Good luck.<h2 class=\"bb_tag\">Challenge the record!</h2>Your play is recorded online. You can be the best record in the world. Make your legend.<h2 class=\"bb_tag\">With your friends</h2>If you and your friend are online, you can kill the Big Golden Samurai together with your friends. Recommend this game to your friends right now.",
   "short_description": "VR Shooting &amp; Slice Action Arcade Game where YOU become Ninja defeats the enemy using a shuriken and a katana and clears to the last stage.",
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/804680/header.jpg?t=1520920207",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/804680/header.jpg?t=1531792277",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Win7 or higher<br></li><li><strong>Processor:</strong> Core i5-4430<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
@@ -23,19 +23,22 @@
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
   },
   "developers": [
-    "MAMMOSSIX Co,. Ltd."
+    "MAMMOSSIX Co., Ltd."
   ],
   "publishers": [
-    "MAMMOSSIX Co,. Ltd."
+    "MAMMOSSIX Co., Ltd."
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
-    245129
+    245129,
+    289943
   ],
   "package_groups": [
     {
@@ -51,11 +54,32 @@
           "packageid": 245129,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Virtual Ninja VR - 14,99\u20ac",
+          "option_text": "Virtual Ninja VR - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 819
+        }
+      ]
+    },
+    {
+      "name": "subscriptions",
+      "title": "Buy Virtual Ninja VR Subscription Plan",
+      "description": "To be billed on a recurring basis.",
+      "selection_text": "Select a subscription plan",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "true",
+      "subs": [
+        {
+          "packageid": 289943,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "1 Month(s) @ 8,19\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">8,19\u20ac at checkout, auto-renewed every 1 month(s) at 8,19\u20ac.</p>",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -91,42 +115,38 @@
     {
       "id": "23",
       "description": "Indie"
-    },
-    {
-      "id": "70",
-      "description": "Early Access"
     }
   ],
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_7f22d1e6988c2f2dd1f65f140fe2fe7ba3f283e3.600x338.jpg?t=1520920207",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_7f22d1e6988c2f2dd1f65f140fe2fe7ba3f283e3.1920x1080.jpg?t=1520920207"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_7f22d1e6988c2f2dd1f65f140fe2fe7ba3f283e3.600x338.jpg?t=1531792277",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_7f22d1e6988c2f2dd1f65f140fe2fe7ba3f283e3.1920x1080.jpg?t=1531792277"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_a05d25b4f84d2e13daf8222eaa3b1d3d2c1d0eae.600x338.jpg?t=1520920207",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_a05d25b4f84d2e13daf8222eaa3b1d3d2c1d0eae.1920x1080.jpg?t=1520920207"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_a05d25b4f84d2e13daf8222eaa3b1d3d2c1d0eae.600x338.jpg?t=1531792277",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_a05d25b4f84d2e13daf8222eaa3b1d3d2c1d0eae.1920x1080.jpg?t=1531792277"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_ee7314e2de9b25126cf2edbc02a054f6923bd474.600x338.jpg?t=1520920207",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_ee7314e2de9b25126cf2edbc02a054f6923bd474.1920x1080.jpg?t=1520920207"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_ee7314e2de9b25126cf2edbc02a054f6923bd474.600x338.jpg?t=1531792277",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_ee7314e2de9b25126cf2edbc02a054f6923bd474.1920x1080.jpg?t=1531792277"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_29a6a100306927cdb6892bd3bb0db34be737819e.600x338.jpg?t=1520920207",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_29a6a100306927cdb6892bd3bb0db34be737819e.1920x1080.jpg?t=1520920207"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_29a6a100306927cdb6892bd3bb0db34be737819e.600x338.jpg?t=1531792277",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_29a6a100306927cdb6892bd3bb0db34be737819e.1920x1080.jpg?t=1531792277"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_caef4e8a6208ed107dbe380131363045c2f81141.600x338.jpg?t=1520920207",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_caef4e8a6208ed107dbe380131363045c2f81141.1920x1080.jpg?t=1520920207"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_caef4e8a6208ed107dbe380131363045c2f81141.600x338.jpg?t=1531792277",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_caef4e8a6208ed107dbe380131363045c2f81141.1920x1080.jpg?t=1531792277"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_47f646eeb81ae5bd00bb7c781d60704ad75768c8.600x338.jpg?t=1520920207",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_47f646eeb81ae5bd00bb7c781d60704ad75768c8.1920x1080.jpg?t=1520920207"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_47f646eeb81ae5bd00bb7c781d60704ad75768c8.600x338.jpg?t=1531792277",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/804680/ss_47f646eeb81ae5bd00bb7c781d60704ad75768c8.1920x1080.jpg?t=1531792277"
     }
   ],
   "movies": [
@@ -188,11 +208,15 @@
   },
   "release_date": {
     "coming_soon": false,
-    "date": "7 Mar, 2018"
+    "date": "16 Jul, 2018"
   },
   "support_info": {
     "url": "www.mammo6.com",
     "email": "mammossix@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/804680/page_bg_generated_v6b.jpg?t=1520920207"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/804680/page_bg_generated_v6b.jpg?t=1531792277",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

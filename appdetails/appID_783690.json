@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>This is a tutorial on Brush Economy for Photoshop and Procreate. This includes the PSD files.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>This is a tutorial on Brush Economy for Photoshop and Procreate. This includes the PSD files.",
   "about_the_game": "This is a tutorial on Brush Economy for Photoshop and Procreate. This includes the PSD files.",
   "short_description": "This tutorial is about brush economy for Photoshop and Procreate.",
   "fullgame": {
@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     236430
@@ -53,11 +55,11 @@
           "packageid": 236430,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Robotpencil Presents: Brush Economy - 4,99\u20ac",
+          "option_text": "Robotpencil Presents: Brush Economy - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -118,5 +120,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/783680/page_bg_generated_v6b.jpg?t=1516993386"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/783680/page_bg_generated_v6b.jpg?t=1516993386",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

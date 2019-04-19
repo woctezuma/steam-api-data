@@ -11,7 +11,7 @@
     "appid": "269550",
     "name": "Zoom Player 13 : Steam Edition"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Arabic, Czech, Hungarian, Japanese, Portuguese, Portuguese-Brazil, Russian, Simplified Chinese, Swedish, Traditional Chinese, Turkish, Ukrainian, Polish, Thai",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Czech, Hungarian, Japanese, Portuguese, Portuguese - Brazil, Russian, Simplified Chinese, Swedish, Traditional Chinese, Turkish, Ukrainian, Polish, Thai",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/404060/header.jpg?t=1465903803",
   "website": "http://inmatrix.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     79126
@@ -99,5 +101,9 @@
     "url": "http://www.inmatrix.com/support.shtml",
     "email": "regsupport@inmatrix.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404060/page_bg_generated_v6b.jpg?t=1465903803"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404060/page_bg_generated_v6b.jpg?t=1465903803",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

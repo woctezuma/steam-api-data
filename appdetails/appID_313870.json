@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     47558
@@ -60,7 +62,7 @@
   },
   "metacritic": {
     "score": 75,
-    "url": "http://www.metacritic.com/game/pc/a-vampyre-story?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/a-vampyre-story?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -188,6 +190,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jul, 2014"
@@ -196,5 +201,9 @@
     "url": "",
     "email": "support@strategyfirst.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/313870/page_bg_generated_v6b.jpg?t=1447362681"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/313870/page_bg_generated_v6b.jpg?t=1447362681",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

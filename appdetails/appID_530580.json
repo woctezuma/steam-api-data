@@ -16,8 +16,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/530580/header.jpg?t=1475521546",
   "website": "http://ideafintl.com/blanc-zombies/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 (64-bit)<br></li><li><strong>Processor:</strong> 3 GHz Intel i3 or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 3 GHz Intel i3 or equivalent<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> 3 GHz Intel i3 or equivalent<br></li><li><strong>Additional Notes:</strong> Caution: ATI Mobility Radeon HD 5xxx, 1GB VRAM 5000 series, AMD processor may not work properly with this game.</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 Home (64-bit)<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 960<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c compatible sound card<br></li><li><strong>Additional Notes:</strong> DirectX 9.0c compatible sound card</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7 (64-bit)<br></li><li><strong>Processeur\u00a0:</strong> 3 GHz Intel i3 or equivalent<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 4 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> 3 GHz Intel i3 or equivalent<br></li><li><strong>DirectX\u00a0:</strong> Version 10<br></li><li><strong>Espace disque\u00a0:</strong> 3 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> 3 GHz Intel i3 or equivalent<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Caution: ATI Mobility Radeon HD 5xxx, 1GB VRAM 5000 series, AMD processor may not work properly with this game.</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 10 Home (64-bit)<br></li><li><strong>Processeur\u00a0:</strong> Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 8 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> NVIDIA GeForce GTX 960<br></li><li><strong>DirectX\u00a0:</strong> Version 10<br></li><li><strong>Espace disque\u00a0:</strong> 3 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> DirectX 9.0c compatible sound card<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> DirectX 9.0c compatible sound card</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     127826
@@ -134,6 +136,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/530580/ss_6887088fb1ff22ea2180cf88b5d2b7ce287dc2c2.1920x1080.jpg?t=1475521546"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Oct, 2016"
@@ -142,5 +147,9 @@
     "url": "http://ideafintl.com/contact.php",
     "email": "pcsupport@ideafintl.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/530580/page_bg_generated_v6b.jpg?t=1475521546"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/530580/page_bg_generated_v6b.jpg?t=1475521546",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

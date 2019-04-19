@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 79,
     "final": 79,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     146897
@@ -151,7 +153,7 @@
     }
   ],
   "recommendations": {
-    "total": 169
+    "total": 186
   },
   "achievements": {
     "total": 24,
@@ -206,5 +208,9 @@
     "url": "",
     "email": "ro.alexdumitrache@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576310/page_bg_generated_v6b.jpg?t=1488499549"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576310/page_bg_generated_v6b.jpg?t=1488499549",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

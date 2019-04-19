@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     112317
@@ -95,6 +97,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/493950/ss_b67ca53611a7f8dc59456053079afb3202d86855.1920x1080.jpg?t=1472811633"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Jun, 2016"
@@ -103,5 +108,9 @@
     "url": "http://muhagames.com/contact/",
     "email": "contact@muhagames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/493950/page_bg_generated_v6b.jpg?t=1472811633"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/493950/page_bg_generated_v6b.jpg?t=1472811633",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

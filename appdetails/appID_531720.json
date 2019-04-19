@@ -16,7 +16,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/531720/header.jpg?t=1475165697",
   "website": "https://www.facebook.com/Rescue-Bear-Operation-1760555727533681/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Memory:</strong> 500 MB RAM<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 500 MB de m\u00e9moire<br></li><li><strong>Espace disque\u00a0:</strong> 250 MB d'espace disque disponible</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     128277
@@ -122,5 +124,9 @@
     "url": "",
     "email": "support@thoughtops.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/531720/page_bg_generated_v6b.jpg?t=1475165697"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/531720/page_bg_generated_v6b.jpg?t=1475165697",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -12,7 +12,7 @@
     "name": "Liquid Rhythm"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201cA powerful rhythm programmer with unparalleled depth and a clever approach to MIDI.\u201d<br>8/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.musictech.net/2014/03/wavedna-liquid-rhythm-review/\" target=\"_blank\" rel=\"noopener\"  >Music Tech</a></a><br><br>\u201cI am actually wondering how I could program MIDI for 30 years without this ingenious application.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.wavedna.com/keys-magazine-review/\" target=\"_blank\" rel=\"noopener\"  >Keys Magazine Germany</a></a><br><br>\u201cEvery once in a while something comes along that changes the way we approach making music. Find out why WaveDNA's Liquid Rhythm takes the prize as the most innovative and cool rhythmic generator yet.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.askaudiomag.com/articles/review-liquid-rhythm-the-future-of-rhythm-programming-here-now\" target=\"_blank\" rel=\"noopener\"  >Ask Audio Magazine</a></a><br>",
+  "reviews": "\u201cA powerful rhythm programmer with unparalleled depth and a clever approach to MIDI.\u201d<br>8/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.musictech.net/2014/03/wavedna-liquid-rhythm-review/\" target=\"_blank\" rel=\"noopener\"  >Music Tech</a><br><br>\u201cI am actually wondering how I could program MIDI for 30 years without this ingenious application.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.wavedna.com/keys-magazine-review/\" target=\"_blank\" rel=\"noopener\"  >Keys Magazine Germany</a><br><br>\u201cEvery once in a while something comes along that changes the way we approach making music. Find out why WaveDNA's Liquid Rhythm takes the prize as the most innovative and cool rhythmic generator yet.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.askaudiomag.com/articles/review-liquid-rhythm-the-future-of-rhythm-programming-here-now\" target=\"_blank\" rel=\"noopener\"  >Ask Audio Magazine</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/267830/header.jpg?t=1447359685",
   "website": "http://www.wavedna.com",
   "pc_requirements": {
@@ -33,11 +33,13 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
+    "initial": 499,
+    "final": 499,
     "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac",
     "recurring_sub": 63765,
-    "recurring_sub_desc": "5,99\u20ac at checkout, auto-renewed every 1 month(s) at 6,99\u20ac."
+    "recurring_sub_desc": "4,99\u20ac at checkout, auto-renewed every 1 month(s) at 5,49\u20ac."
   },
   "packages": [
     63769,
@@ -53,24 +55,24 @@
       "title": "Buy Liquid Rhythm Collection Subscription Plan",
       "description": "To be billed on a recurring basis.",
       "selection_text": "Select a subscription plan",
-      "save_text": "Save up to 12%",
+      "save_text": "Save up to 18%",
       "display_type": "1",
       "is_recurring_subscription": "true",
       "subs": [
         {
           "packageid": 63769,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "1 Month(s) @ 6,99\u20ac/Month",
-          "option_description": "<p class=\"game_purchase_subscription\">5,99\u20ac at checkout, auto-renewed every 1 month(s) at 6,99\u20ac.</p>",
+          "percent_savings_text": "-18%",
+          "percent_savings": 18,
+          "option_text": "1 Month(s) @ 5,49\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">4,99\u20ac at checkout, auto-renewed every 1 month(s) at 5,49\u20ac.</p>",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 499
         },
         {
           "packageid": 63770,
-          "percent_savings_text": "-5%",
-          "percent_savings": 5,
+          "percent_savings_text": "",
+          "percent_savings": 0,
           "option_text": "3 Month(s) @ 6,66\u20ac/Month",
           "option_description": "<p class=\"game_purchase_subscription\">17,99\u20ac at checkout, auto-renewed every 3 month(s) at 19,99\u20ac.</p>",
           "can_get_free_license": "0",
@@ -79,13 +81,13 @@
         },
         {
           "packageid": 63768,
-          "percent_savings_text": "-12%",
-          "percent_savings": 12,
+          "percent_savings_text": "-7%",
+          "percent_savings": 7,
           "option_text": "6 Month(s) @ 6,16\u20ac/Month",
-          "option_description": "<p class=\"game_purchase_subscription\">31,99\u20ac at checkout, auto-renewed every 6 month(s) at 36,99\u20ac.</p>",
+          "option_description": "<p class=\"game_purchase_subscription\">28,99\u20ac at checkout, auto-renewed every 6 month(s) at 36,99\u20ac.</p>",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 3199
+          "price_in_cents_with_discount": 2899
         }
       ]
     }
@@ -268,5 +270,9 @@
     "url": "http://community.wavedna.com/",
     "email": "support@wavedna.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/267830/page_bg_generated_v6b.jpg?t=1447359685"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/267830/page_bg_generated_v6b.jpg?t=1447359685",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

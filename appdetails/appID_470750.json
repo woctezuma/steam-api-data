@@ -11,7 +11,7 @@
     "appid": "301650",
     "name": "Battlezone 98 Redux"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Portuguese-Brazil, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/470750/header.jpg?t=1499420222",
   "website": "http://www.battlezone98.com",
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     104123
@@ -149,6 +151,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Jul, 2016"
@@ -157,5 +162,9 @@
     "url": "http://www.rebellion.co.uk/support",
     "email": "bz98.support@rebellion.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/470750/page_bg_generated_v6b.jpg?t=1499420222"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/470750/page_bg_generated_v6b.jpg?t=1499420222",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

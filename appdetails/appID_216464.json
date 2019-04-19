@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "<p>This permanent boost increases the amount of XP you earn while playing Gotham City Impostors by 2.5x.</p>\n",
   "about_the_game": "<p>This permanent boost increases the amount of XP you earn while playing Gotham City Impostors by 2.5x.</p>\n",
-  "short_description": "",
+  "short_description": "This permanent boost increases the amount of XP you earn while playing Gotham City Impostors by 2.5x.",
   "fullgame": {
     "appid": "206210",
     "name": "Gotham City Impostors Free to Play"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/216464/header.jpg?t=1447356286",
   "website": "http://www.gothamcityimpostors.com ",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     16320
@@ -107,6 +109,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/216464/ss_18310bbf02e0d0cb2128b4e2e2bee6836a3855e5.1920x1080.jpg?t=1447356286"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Aug, 2012"
@@ -115,5 +120,9 @@
     "url": "http://support.wbgames.com/ics/support/default.asp?deptID=24028 ",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/216464/page_bg_generated_v6b.jpg?t=1447356286"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/216464/page_bg_generated_v6b.jpg?t=1447356286",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

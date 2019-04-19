@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     152491
@@ -117,5 +119,9 @@
     "url": "http://www.woodsy-studio.com/contact/",
     "email": "malcolm@woodsy-studio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589330/page_bg_generated_v6b.jpg?t=1486478742"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589330/page_bg_generated_v6b.jpg?t=1486478742",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

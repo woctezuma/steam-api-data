@@ -9,7 +9,7 @@
   "about_the_game": "The Sun and Moon, the winner of Ludum Dare 29, is a platformer with a unique mechanic: you can dive into the ground. Momentum is conserved but gravity is reversed, letting you fling yourself high into the air or deep beneath the surface. The goal is always straightforward - collect the three orbs in the level and jump into the wormhole - but spikes, endless drops and impossible heights make this more and more difficult.<h2 class=\"bb_tag\">Key Features</h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/321560/extras/2.png?t=1447363561\" ><br><ul class=\"bb_ul\"><li><strong>Dive into the ground</strong> - This unique mechanic preserves your momentum, letting you use the level itself to overcome a huge range of challenges.</li></ul><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/321560/extras/5.png?t=1447363561\" ><br><ul class=\"bb_ul\"><li><strong>Conquer over 150 levels</strong> - Run, jump and dive your way through levels spanning from easy to brutally difficult. You'll need to both master the controls as well as think outside the box.</li></ul><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/321560/extras/1.png?t=1447363561\" ><br><ul class=\"bb_ul\"><li><strong>Non-linear level unlock system</strong> - Explore the game in whatever order best suits you.</li></ul><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/321560/extras/6.png?t=1447363561\" ><br><ul class=\"bb_ul\"><li><strong>Achieve Time Goals</strong> - Three tiers of medals provide an additional challenge for even the easiest levels.</li></ul><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/321560/extras/4.png?t=1447363561\" ><br><ul class=\"bb_ul\"><li><strong>Minimalistic graphics</strong> - Straight-to-the-point graphics help you focus on the gameplay.</li></ul><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/321560/extras/3.png?t=1447363561\" ><br><ul class=\"bb_ul\"><li><strong>Music by Dubmood</strong> - A killer track that grows as you progress.</li></ul>",
   "short_description": "The Sun and Moon, the winner of Ludum Dare 29, is a platformer with a unique mechanic: you can dive into the ground. Momentum is conserved but gravity is reversed, letting you fling yourself high into the air or deep beneath the surface.",
   "supported_languages": "English",
-  "reviews": "\u201cThe sort of one-mechanic puzzle platforming I love\u201d<br><a href=\"http://www.rockpapershotgun.com/2014/09/16/sun-moon-ludum-dare-free-game/\" target=\"_blank\" rel=\"noreferrer\"  >Rock, Paper, Shotgun</a></a><br><br>\u201cThe Sun and Moon is a clever, lovely, cleverly lovely puzzle-platformer unlike any other puzzle-platformer you've played\u201d<br><a href=\"http://www.pcgamer.com/momentous-platformer-the-sun-and-moon-is-being-expanded-out-this-october/\" target=\"_blank\" rel=\"noreferrer\"  >PC Gamer</a></a><br><br>\u201cThe lovely, lo-fi platformer... It plays with an addicting pace, the momentum mechanic providing a liberating sense of movement\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://killscreendaily.com/articles/sun-moon-2d-action-platformer-twist/\" target=\"_blank\" rel=\"noopener\"  >Kill Screen</a></a><br>",
+  "reviews": "\u201cThe sort of one-mechanic puzzle platforming I love\u201d<br><a href=\"http://www.rockpapershotgun.com/2014/09/16/sun-moon-ludum-dare-free-game/\" target=\"_blank\" rel=\"noreferrer\"  >Rock, Paper, Shotgun</a><br><br>\u201cThe Sun and Moon is a clever, lovely, cleverly lovely puzzle-platformer unlike any other puzzle-platformer you've played\u201d<br><a href=\"http://www.pcgamer.com/momentous-platformer-the-sun-and-moon-is-being-expanded-out-this-october/\" target=\"_blank\" rel=\"noreferrer\"  >PC Gamer</a><br><br>\u201cThe lovely, lo-fi platformer... It plays with an addicting pace, the momentum mechanic providing a liberating sense of movement\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://killscreendaily.com/articles/sun-moon-2d-action-platformer-twist/\" target=\"_blank\" rel=\"noopener\"  >Kill Screen</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/321560/header.jpg?t=1447363561",
   "website": null,
   "pc_requirements": {
@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 699,
-    "final": 699,
-    "discount_percent": 0
+    "final": 209,
+    "discount_percent": 70,
+    "initial_formatted": "6,99\u20ac",
+    "final_formatted": "2,09\u20ac"
   },
   "packages": [
     50337
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 50337,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "The Sun and Moon - 6,99\u20ac",
+          "option_text": "The Sun and Moon - <span class=\"discount_original_price\">6,99\u20ac</span> 2,09\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 699
+          "price_in_cents_with_discount": 209
         }
       ]
     }
@@ -185,9 +187,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 136
-  },
   "achievements": {
     "total": 13,
     "highlighted": [
@@ -241,5 +240,9 @@
     "url": "",
     "email": "managore@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/321560/page_bg_generated_v6b.jpg?t=1447363561"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/321560/page_bg_generated_v6b.jpg?t=1447363561",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

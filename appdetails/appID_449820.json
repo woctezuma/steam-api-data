@@ -19,7 +19,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "The SCP Foundation is a creative community. As such, SCP Articles are created by people and edited and expounded upon by others in the community. All SCP Articles fall under the Creative Commons Attribution ShareAlike 3.0 License. Under this license any content on the SCP Foundation website can be used as a baseline for any form of creative work that you wish to create, even for commercial use. Regardless of the type/purpose of the work created, that item must then be distributed with the same license.<br><br>We claim rights to our game entitled \"Daughter of Shadows.\" We do not claim ownership of the SCPs that people have created or the entity that is the SCP Foundation. Each Foundation SCP exists in the form of documentation. We adapted these ideas into entities to interact with in a game format.<br><br>According to the SCP Foundation website(<a href=\"https://steamcommunity.com/linkfilter/?url=http://www.scp-wiki.net/\" target=\"_blank\" rel=\"noopener\"  >http://www.scp-wiki.net/</a></a>):<br><br>\"Unless otherwise stated, the content of this page is licensed under Creative Commons Attribution-ShareAlike 3.0 License\" - <a href=\"https://steamcommunity.com/linkfilter/?url=http://creativecommons.org/licenses/by-sa/3.0/legalcode\" target=\"_blank\" rel=\"noopener\"  >http://creativecommons.org/licenses/by-sa/3.0/legalcode</a></a><br><br>The following PDF contains each SCP's Author and Contributors as well as the adaptations we made. This information was pulled and consolidated for our original June 2015 release. - <a href=\"https://steamcommunity.com/linkfilter/?url=http://blackroseindustries.com/DaughterOfShadows/documents/AttributionList.pdf\" target=\"_blank\" rel=\"noopener\"  >http://blackroseindustries.com/DaughterOfShadows/documents/AttributionList.pdf</a>",
+  "legal_notice": "The SCP Foundation is a creative community. As such, SCP Articles are created by people and edited and expounded upon by others in the community. All SCP Articles fall under the Creative Commons Attribution ShareAlike 3.0 License. Under this license any content on the SCP Foundation website can be used as a baseline for any form of creative work that you wish to create, even for commercial use. Regardless of the type/purpose of the work created, that item must then be distributed with the same license.<br><br>We claim rights to our game entitled \"Daughter of Shadows.\" We do not claim ownership of the SCPs that people have created or the entity that is the SCP Foundation. Each Foundation SCP exists in the form of documentation. We adapted these ideas into entities to interact with in a game format.<br><br>According to the SCP Foundation website(<a href=\"https://steamcommunity.com/linkfilter/?url=http://www.scp-wiki.net/\" target=\"_blank\" rel=\"noopener\"  >http://www.scp-wiki.net/</a>):<br><br>\"Unless otherwise stated, the content of this page is licensed under Creative Commons Attribution-ShareAlike 3.0 License\" - <a href=\"https://steamcommunity.com/linkfilter/?url=http://creativecommons.org/licenses/by-sa/3.0/legalcode\" target=\"_blank\" rel=\"noopener\"  >http://creativecommons.org/licenses/by-sa/3.0/legalcode</a><br><br>The following PDF contains each SCP's Author and Contributors as well as the adaptations we made. This information was pulled and consolidated for our original June 2015 release. - <a href=\"https://steamcommunity.com/linkfilter/?url=http://blackroseindustries.com/DaughterOfShadows/documents/AttributionList.pdf\" target=\"_blank\" rel=\"noopener\"  >http://blackroseindustries.com/DaughterOfShadows/documents/AttributionList.pdf</a>",
   "developers": [
     "Blackrose Industries"
   ],
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     96505
@@ -213,5 +215,9 @@
     "url": "http://blackroseindustries.com/DaughterOfShadows/support.php",
     "email": "pwilkescsm@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449820/page_bg_generated_v6b.jpg?t=1471049201"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449820/page_bg_generated_v6b.jpg?t=1471049201",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

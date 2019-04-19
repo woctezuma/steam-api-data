@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 2299,
-    "final": 2299,
-    "discount_percent": 0
+    "initial": 2099,
+    "final": 2099,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "20,99\u20ac"
   },
   "packages": [
     134114
@@ -52,11 +54,11 @@
           "packageid": 134114,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Tyto Online - 22,99\u20ac",
+          "option_text": "Tyto Online - 20,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2299
+          "price_in_cents_with_discount": 2099
         }
       ]
     }
@@ -192,5 +194,9 @@
     "url": "http://support.immersedgames.com",
     "email": "contact@immersedgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/544290/page_bg_generated_v6b.jpg?t=1496316353"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/544290/page_bg_generated_v6b.jpg?t=1496316353",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

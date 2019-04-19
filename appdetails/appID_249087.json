@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "<strong>GERMAN COMMANDER: Luftwaffe Supply Doctrine</strong><br>Using the power of the Luftwaffe, keep your troops on the front lines as long as possible, even if cut off!<br><br><ul class=\"bb_ul\"><li><strong>Stuka Bombing Strike</strong><br>A JU-87D Stuka will dive in and drop a 50kg bomb on the target location. Capture points are neutralized if hit.<br></li><li><strong>Incendiary Bombing Run</strong><br>A Stuka will drop incendiary bombs on the target location.<br></li><li><strong>Reconnaissance Overflight</strong><br>Available aircraft will make a reconnaissance pass on the targeted location to reveal enemy forces.<br></li><li><strong>Supply Drop Zone</strong><br>Cargo planes will fly over a designated Fuel or Muinitions point, dropping off resource crates that can be recovered by infantry.<br></li><li><strong>Air-Dropped Medical Supplies</strong><br>Paradrop medical supplies at a target area. Heals and inspires nearby units when picked up.</li></ul>",
   "about_the_game": "<strong>GERMAN COMMANDER: Luftwaffe Supply Doctrine</strong><br>Using the power of the Luftwaffe, keep your troops on the front lines as long as possible, even if cut off!<br><br><ul class=\"bb_ul\"><li><strong>Stuka Bombing Strike</strong><br>A JU-87D Stuka will dive in and drop a 50kg bomb on the target location. Capture points are neutralized if hit.<br></li><li><strong>Incendiary Bombing Run</strong><br>A Stuka will drop incendiary bombs on the target location.<br></li><li><strong>Reconnaissance Overflight</strong><br>Available aircraft will make a reconnaissance pass on the targeted location to reveal enemy forces.<br></li><li><strong>Supply Drop Zone</strong><br>Cargo planes will fly over a designated Fuel or Muinitions point, dropping off resource crates that can be recovered by infantry.<br></li><li><strong>Air-Dropped Medical Supplies</strong><br>Paradrop medical supplies at a target area. Heals and inspires nearby units when picked up.</li></ul>",
-  "short_description": "",
+  "short_description": "GERMAN COMMANDER: Luftwaffe Supply DoctrineUsing the power of the Luftwaffe, keep your troops on the front lines as long as possible, even if cut off!Stuka Bombing StrikeA JU-87D Stuka will dive in and drop a 50kg bomb on the target location. Capture points are neutralized if hit.",
   "fullgame": {
     "appid": "231430",
     "name": "Company of Heroes 2"
   },
-  "supported_languages": "Czech, English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian, Polish<strong>*</strong>, Russian<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "Czech, English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian, Polish<strong>*</strong>, Russian<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/249087/header.jpg?t=1521807508",
   "website": "http://www.companyofheroes.com/",
   "pc_requirements": {
@@ -36,7 +36,40 @@
     "Feral Interactive (Mac)",
     "Feral Interactive (Linux)"
   ],
-  "package_groups": [],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
+  },
+  "packages": [
+    30066
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy CoH 2 - German Commander: Luftwaffe Supply Doctrine",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 30066,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Company of Heroes 2 - German Commander: Luftwaffe Supply Doctrine - 3,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 399
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": true,
@@ -97,6 +130,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Nov, 2013"
@@ -105,5 +141,9 @@
     "url": "https://support.sega.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/249087/page_bg_generated_v6b.jpg?t=1521807508"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/249087/page_bg_generated_v6b.jpg?t=1521807508",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

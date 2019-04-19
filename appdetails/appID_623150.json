@@ -11,7 +11,7 @@
     "appid": "320300",
     "name": "Car Mechanic Simulator 2015"
   },
-  "supported_languages": "English, Polish, French, Italian, German, Spanish, Russian, Hungarian, Turkish, Portuguese-Brazil, Czech, Dutch",
+  "supported_languages": "English, Polish, French, Italian, German, Spanish - Spain, Russian, Hungarian, Turkish, Portuguese - Brazil, Czech, Dutch",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/623150/header.jpg?t=1494066374",
   "website": "http://www.car.playway.com",
   "pc_requirements": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     167746
@@ -141,6 +143,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Apr, 2017"
@@ -149,5 +154,9 @@
     "url": "http://www.playway.com",
     "email": "help@playway.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/623150/page_bg_generated_v6b.jpg?t=1494066374"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/623150/page_bg_generated_v6b.jpg?t=1494066374",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

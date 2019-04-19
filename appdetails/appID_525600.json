@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Experience an exhilarating new sense of fun while running, jumping and stomping on enemies as you take control of Dyno, a cute dragon who has lost their family. <br />\r\nDyno Adventure bring you everything fans love about 3D platforming. Help Dyno to look for their children!",
   "about_the_game": "Experience an exhilarating new sense of fun while running, jumping and stomping on enemies as you take control of Dyno, a cute dragon who has lost their family. <br />\r\nDyno Adventure bring you everything fans love about 3D platforming. Help Dyno to look for their children!",
-  "short_description": "Experience an exhilarating new sense of fun while running, jumping and stomping on enemies as you take control of Dyno, a cute dragon who has lost their family. <br />\r\nDyno Adventure bring you everything fans love about 3D platforming. Help Dyno to look for their children!",
+  "short_description": "Experience an exhilarating new sense of fun while running, jumping and stomping on enemies as you take control of Dyno, a cute dragon who has lost their family. Dyno Adventure bring you everything fans love about 3D platforming. Help Dyno to look for their children!",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/525600/header.jpg?t=1474928277",
   "website": "http://aresarx.com",
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     125513
@@ -190,6 +192,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Sep, 2016"
@@ -198,5 +203,9 @@
     "url": "http://aresarx.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/525600/page_bg_generated_v6b.jpg?t=1474928277"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/525600/page_bg_generated_v6b.jpg?t=1474928277",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

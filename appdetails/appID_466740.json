@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     102628
@@ -170,7 +172,7 @@
     }
   ],
   "recommendations": {
-    "total": 344
+    "total": 363
   },
   "achievements": {
     "total": 34,
@@ -225,5 +227,9 @@
     "url": "http://madvrstudio.com",
     "email": "contact@madvrstudio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466740/page_bg_generated_v6b.jpg?t=1494927915"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466740/page_bg_generated_v6b.jpg?t=1494927915",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

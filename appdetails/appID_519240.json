@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In this video we will discuss simple ways to approaching color from scratch. This video will focus more on different kinds of color theories rather than rendering techniques. \r\n\r\nSome of the topics that will be covered will be:\r\n-Color Harmonies\r\n-Temperature   \r\n-Extracting colors from photos , creating Color swatches \r\n-Color Variation",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In this video we will discuss simple ways to approaching color from scratch. This video will focus more on different kinds of color theories rather than rendering techniques. \r\n\r\nSome of the topics that will be covered will be:\r\n-Color Harmonies\r\n-Temperature   \r\n-Extracting colors from photos , creating Color swatches \r\n-Color Variation",
   "about_the_game": "In this video we will discuss simple ways to approaching color from scratch. This video will focus more on different kinds of color theories rather than rendering techniques. <br />\r\n<br />\r\nSome of the topics that will be covered will be:<br />\r\n-Color Harmonies<br />\r\n-Temperature   <br />\r\n-Extracting colors from photos , creating Color swatches <br />\r\n-Color Variation",
   "short_description": "In this tutorial we will talk about starting with color from scratch",
   "fullgame": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     122173
@@ -104,6 +106,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/519240/ss_d86977e068dfc7e4c47dd03b64aa4475515b2644.1920x1080.jpg?t=1472502047"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Aug, 2016"
@@ -112,5 +117,9 @@
     "url": "",
     "email": "KdChock@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519240/page_bg_generated_v6b.jpg?t=1472502047"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519240/page_bg_generated_v6b.jpg?t=1472502047",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

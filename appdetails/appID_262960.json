@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     34079
@@ -62,7 +64,7 @@
   },
   "metacritic": {
     "score": 76,
-    "url": "http://www.metacritic.com/game/pc/castle-in-the-darkness?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/castle-in-the-darkness?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -145,7 +147,7 @@
     }
   ],
   "recommendations": {
-    "total": 962
+    "total": 941
   },
   "achievements": {
     "total": 11,
@@ -200,5 +202,9 @@
     "url": "http://castleinthedarkness.mattkap.net",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/262960/page_bg_generated_v6b.jpg?t=1466791340"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/262960/page_bg_generated_v6b.jpg?t=1466791340",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

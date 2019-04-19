@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     123375
@@ -117,6 +119,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/520620/ss_3330550a6eff74c16413e927c8723edee18d4521.1920x1080.jpg?t=1478623196"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Nov, 2016"
@@ -125,5 +130,9 @@
     "url": "http://www.games.adultswim.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/520620/page_bg_generated_v6b.jpg?t=1478623196"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/520620/page_bg_generated_v6b.jpg?t=1478623196",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

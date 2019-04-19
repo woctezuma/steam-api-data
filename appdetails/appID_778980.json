@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     234399
@@ -48,11 +50,11 @@
           "packageid": 234399,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "The Drain Collector - 1,99\u20ac",
+          "option_text": "The Drain Collector - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -122,26 +124,6 @@
       "id": 3,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/778980/ss_80b9826bab216e1c42d11d8f7d834fbd3c3f282f.600x338.jpg?t=1515203391",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778980/ss_80b9826bab216e1c42d11d8f7d834fbd3c3f282f.1920x1080.jpg?t=1515203391"
-    },
-    {
-      "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/778980/?t=1515203391",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778980/?t=1515203391"
-    },
-    {
-      "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/778980/?t=1515203391",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778980/?t=1515203391"
-    },
-    {
-      "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/778980/?t=1515203391",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778980/?t=1515203391"
-    },
-    {
-      "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/778980/?t=1515203391",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778980/?t=1515203391"
     }
   ],
   "movies": [
@@ -156,6 +138,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Jan, 2018"
@@ -164,5 +149,9 @@
     "url": "",
     "email": "river_carley@aol.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/778980/page_bg_generated_v6b.jpg?t=1515203391"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/778980/page_bg_generated_v6b.jpg?t=1515203391",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

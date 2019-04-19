@@ -11,7 +11,7 @@
     "appid": "427520",
     "name": "Factorio"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Hungarian, Dutch, Norwegian, Polish, Portuguese, Portuguese-Brazil, Romanian, Finnish, Swedish, Czech, Russian, Ukrainian, Japanese, Simplified Chinese, Traditional Chinese, Korean",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Hungarian, Dutch, Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Finnish, Swedish, Czech, Russian, Ukrainian, Japanese, Simplified Chinese, Traditional Chinese, Korean",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/436090/header.jpg?t=1457432968",
   "website": "http://danieljamestaylor.co.uk",
   "pc_requirements": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 700,
     "final": 700,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,--\u20ac"
   },
   "packages": [
     91228
@@ -106,6 +108,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/436090/ss_58263e3eefd1eb0156967debda80e50e9c502d3d.1920x1080.jpg?t=1457432968"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Feb, 2016"
@@ -114,5 +119,9 @@
     "url": "http://www.factorio.com/support-overview",
     "email": "support@factorio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/436090/page_bg_generated_v6b.jpg?t=1457432968"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/436090/page_bg_generated_v6b.jpg?t=1457432968",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

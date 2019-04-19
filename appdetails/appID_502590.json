@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This is the complete Epic Manager Original Sound Track, created by <i> GeekSound Factory</i>.<br><br>Includes the following Epic Original Tracks : <br><br><ul class=\"bb_ul\"><li> You're Not the Boss<br></li><li> Song for an Old Friend<br></li><li> Fight for Your Life<br></li><li> Welcome Aboard, Traveller<br></li><li> XP of Mine<br></li><li> Money or Fame</li></ul>",
   "about_the_game": "This is the complete Epic Manager Original Sound Track, created by <i> GeekSound Factory</i>.<br><br>Includes the following Epic Original Tracks : <br><br><ul class=\"bb_ul\"><li> You're Not the Boss<br></li><li> Song for an Old Friend<br></li><li> Fight for Your Life<br></li><li> Welcome Aboard, Traveller<br></li><li> XP of Mine<br></li><li> Money or Fame</li></ul>",
-  "short_description": "This is the complete Epic Manager Original Sound Track, created by <i> GeekSound Factory</i>.",
+  "short_description": "This is the complete Epic Manager Original Sound Track, created by GeekSound Factory.",
   "fullgame": {
     "appid": "391280",
     "name": "Epic Manager - Create Your Own Adventuring Agency!"
@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     115540
@@ -50,11 +52,11 @@
           "packageid": 115540,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Epic Manager - Epic Original Soundtrack - 5,99\u20ac",
+          "option_text": "Epic Manager - Epic Original Soundtrack - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -120,5 +122,9 @@
     "url": "http://manavoid.com/",
     "email": "contact@manavoid.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502590/page_bg_generated_v6b.jpg?t=1469466418"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502590/page_bg_generated_v6b.jpg?t=1469466418",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

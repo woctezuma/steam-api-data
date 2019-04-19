@@ -22,38 +22,7 @@
   "publishers": [
     "Regal Computer Services"
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
-  },
-  "packages": [
-    78924
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy Lands of Hope Redemption",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 78924,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Lands of Hope Redemption - 1,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 199
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -201,6 +170,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Oct, 2015"
@@ -209,5 +181,9 @@
     "url": "http://www.regalcomputerservices.com",
     "email": "dpaull@regalcomputerservices.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403490/page_bg_generated_v6b.jpg?t=1447378087"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403490/page_bg_generated_v6b.jpg?t=1447378087",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

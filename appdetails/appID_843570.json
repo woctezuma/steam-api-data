@@ -8,7 +8,7 @@
   "about_the_game": "The return of the famous platformer in a new version.<br />\r\nPlay the continuation of the project and evaluate new opportunities.<br />\r\nIn the near future, a global expansion of the game levels<br />\r\n<br />\r\nROGALIK - This is a two-dimensional platformer, whose actions take place in Ancient Greece, stylized with pixel graphics. You have to play for a warrior that, with a sword and shield, fights against various opponents and passes numerous obstacles. You will face various difficulties and dangers and your goal is to overcome them.<br />\r\n<br />\r\nFeatures<br />\r\n- Different enemies and their behavior<br />\r\n- Dangerous traps<br />\r\n- Unique 2D design<br />\r\n- Good soundtrack<br />\r\n- Enemies",
   "short_description": "Famous 2D pixel platformer in a new guise",
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/843570/header.jpg?t=1523529559",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/843570/header.jpg?t=1525433140",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 Duo<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> 128 mb<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible<br></li><li><strong>Additional Notes:</strong> You may need to update the driver for your video card and sound card</li></ul>",
@@ -22,7 +22,40 @@
   "publishers": [
     "NuevoSpanish"
   ],
-  "package_groups": [],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
+  },
+  "packages": [
+    263614
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy ROGALIK",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 263614,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "ROGALIK - 0,79\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 79
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -36,6 +69,10 @@
     {
       "id": 22,
       "description": "Steam Achievements"
+    },
+    {
+      "id": 23,
+      "description": "Steam Cloud"
     }
   ],
   "genres": [
@@ -51,28 +88,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_8e6f8463400594a200a205ba58501273dff625f1.600x338.jpg?t=1523529559",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_8e6f8463400594a200a205ba58501273dff625f1.1920x1080.jpg?t=1523529559"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_8e6f8463400594a200a205ba58501273dff625f1.600x338.jpg?t=1525433140",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_8e6f8463400594a200a205ba58501273dff625f1.1920x1080.jpg?t=1525433140"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_77f2013e7613d4ce652779241ead6074359ea6bc.600x338.jpg?t=1523529559",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_77f2013e7613d4ce652779241ead6074359ea6bc.1920x1080.jpg?t=1523529559"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_77f2013e7613d4ce652779241ead6074359ea6bc.600x338.jpg?t=1525433140",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_77f2013e7613d4ce652779241ead6074359ea6bc.1920x1080.jpg?t=1525433140"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_07f1b4691851309c2a368ebdde72041e2ac3184b.600x338.jpg?t=1523529559",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_07f1b4691851309c2a368ebdde72041e2ac3184b.1920x1080.jpg?t=1523529559"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_07f1b4691851309c2a368ebdde72041e2ac3184b.600x338.jpg?t=1525433140",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_07f1b4691851309c2a368ebdde72041e2ac3184b.1920x1080.jpg?t=1525433140"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_986aa37b7b6532b2f00b6c83f57c26adf586254c.600x338.jpg?t=1523529559",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_986aa37b7b6532b2f00b6c83f57c26adf586254c.1920x1080.jpg?t=1523529559"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_986aa37b7b6532b2f00b6c83f57c26adf586254c.600x338.jpg?t=1525433140",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_986aa37b7b6532b2f00b6c83f57c26adf586254c.1920x1080.jpg?t=1525433140"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_8bb04657c8cb5e2b828d9e780ff05378cdfd3ba3.600x338.jpg?t=1523529559",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_8bb04657c8cb5e2b828d9e780ff05378cdfd3ba3.1920x1080.jpg?t=1523529559"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_8bb04657c8cb5e2b828d9e780ff05378cdfd3ba3.600x338.jpg?t=1525433140",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/843570/ss_8bb04657c8cb5e2b828d9e780ff05378cdfd3ba3.1920x1080.jpg?t=1525433140"
     }
   ],
   "movies": [
@@ -87,13 +124,26 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 1,
+    "highlighted": [
+      {
+        "name": "NUEVO PLAYER",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/843570/bef8f89bb803f7807f1b907ac7526fa3797a6400.jpg"
+      }
+    ]
+  },
   "release_date": {
-    "coming_soon": true,
-    "date": "26 Apr, 2018"
+    "coming_soon": false,
+    "date": "27 Apr, 2018"
   },
   "support_info": {
     "url": "",
     "email": "strelo.stalker@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/843570/page_bg_generated_v6b.jpg?t=1523529559"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/843570/page_bg_generated_v6b.jpg?t=1525433140",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

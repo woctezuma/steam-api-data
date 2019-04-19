@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     44376,
@@ -255,5 +257,9 @@
     "url": "http://forum.fruitbatfactory.com/viewforum.php?id=8",
     "email": "support@fruitbatfactory.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/301930/page_bg_generated_v6b.jpg?t=1485808896"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/301930/page_bg_generated_v6b.jpg?t=1485808896",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     150013
@@ -142,9 +144,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 133
-  },
   "achievements": {
     "total": 22,
     "highlighted": [
@@ -198,5 +197,9 @@
     "url": "",
     "email": "support@reverseimpact.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/583490/page_bg_generated_v6b.jpg?t=1491856103"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/583490/page_bg_generated_v6b.jpg?t=1491856103",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

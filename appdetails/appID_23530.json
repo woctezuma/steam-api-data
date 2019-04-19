@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     12576,
@@ -80,7 +82,7 @@
   },
   "metacritic": {
     "score": 69,
-    "url": "http://www.metacritic.com/game/pc/earth-defense-force-insect-armageddon?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/earth-defense-force-insect-armageddon?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -146,7 +148,7 @@
     }
   ],
   "recommendations": {
-    "total": 766
+    "total": 634
   },
   "achievements": {
     "total": 50,
@@ -201,5 +203,9 @@
     "url": "https://d3go.com/support/",
     "email": "support@d3p.us"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/23530/page_bg_generated_v6b.jpg?t=1478042684"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/23530/page_bg_generated_v6b.jpg?t=1478042684",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     12382
@@ -159,7 +161,7 @@
     }
   ],
   "recommendations": {
-    "total": 962
+    "total": 480
   },
   "achievements": {
     "total": 10,
@@ -214,5 +216,9 @@
     "url": "",
     "email": "support@dejobaan.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/15560/page_bg_generated_v6b.jpg?t=1458837534"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/15560/page_bg_generated_v6b.jpg?t=1458837534",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     8250,
@@ -207,5 +209,9 @@
     "url": "",
     "email": "support@ninjabee.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/91810/page_bg_generated_v6b.jpg?t=1447354239"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/91810/page_bg_generated_v6b.jpg?t=1447354239",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

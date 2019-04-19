@@ -11,7 +11,7 @@
     "appid": "339340",
     "name": "Resident Evil 0 / biohazard 0 HD REMASTER"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/406140/header.jpg?t=1461263301",
   "website": "http://www.residentevil.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     79934
@@ -91,6 +93,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/406140/ss_fd135ab9bec45be56ce6e42536f3ba704c0712bf.1920x1080.jpg?t=1461263301"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Jan, 2016"
@@ -99,5 +104,9 @@
     "url": "",
     "email": "support@capcom.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/406140/page_bg_generated_v6b.jpg?t=1461263301"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/406140/page_bg_generated_v6b.jpg?t=1461263301",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

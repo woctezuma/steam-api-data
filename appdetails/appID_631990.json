@@ -34,9 +34,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     172165
@@ -55,11 +57,11 @@
           "packageid": 172165,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Remember, Remember - 14,99\u20ac",
+          "option_text": "Remember, Remember - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -199,5 +201,12 @@
     "url": "https://vamichaelalaws.itch.io/remember-remember/community",
     "email": "michaela.a.laws@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/631990/page_bg_generated_v6b.jpg?t=1494565225"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/631990/page_bg_generated_v6b.jpg?t=1494565225",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

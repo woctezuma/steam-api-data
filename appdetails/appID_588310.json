@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1><strong>Blender Character Modeling For Beginners HD is a series by Riven Phoenix that takes the art student through a step-by-step process in creating a high quality 3D character design from scratch using a formula based system that uses no reference</strong>. The art student will start by building a realistic human figure model using a simple cube, then using special formulas created by Riven Phoenix be able to model the complete human figure down to the last detail. The power of the formula based system is that any person can follow along to get the same exact results. Students will also become very intimate with the design of the human figure using this formula based system as they build out the surface anatomy. This course is designed to teach art students how to use blender and become more confident with it to develop their own character designs from scratch. Each step is explained clearly so the student can follow along with ease.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1><strong>Blender Character Modeling For Beginners HD is a series by Riven Phoenix that takes the art student through a step-by-step process in creating a high quality 3D character design from scratch using a formula based system that uses no reference</strong>. The art student will start by building a realistic human figure model using a simple cube, then using special formulas created by Riven Phoenix be able to model the complete human figure down to the last detail. The power of the formula based system is that any person can follow along to get the same exact results. Students will also become very intimate with the design of the human figure using this formula based system as they build out the surface anatomy. This course is designed to teach art students how to use blender and become more confident with it to develop their own character designs from scratch. Each step is explained clearly so the student can follow along with ease.",
   "about_the_game": "<strong>Blender Character Modeling For Beginners HD is a series by Riven Phoenix that takes the art student through a step-by-step process in creating a high quality 3D character design from scratch using a formula based system that uses no reference</strong>. The art student will start by building a realistic human figure model using a simple cube, then using special formulas created by Riven Phoenix be able to model the complete human figure down to the last detail. The power of the formula based system is that any person can follow along to get the same exact results. Students will also become very intimate with the design of the human figure using this formula based system as they build out the surface anatomy. This course is designed to teach art students how to use blender and become more confident with it to develop their own character designs from scratch. Each step is explained clearly so the student can follow along with ease.",
   "short_description": "Blender Character Modeling For Beginners HD is an on going series by Riven Phoenix that takes the art student through a step-by-step process in creating a high quality 3D character design from scratch using a formula based system that uses no reference",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     152172
@@ -187,5 +189,9 @@
     "url": "http://www.alienthink.com",
     "email": "sales@alienthink.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/588310/page_bg_generated_v6b.jpg?t=1521854082"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/588310/page_bg_generated_v6b.jpg?t=1521854082",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

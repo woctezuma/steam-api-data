@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     219014
@@ -109,6 +111,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Nov, 2017"
@@ -117,5 +122,9 @@
     "url": "",
     "email": "brysonmacduff@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/746360/page_bg_generated_v6b.jpg?t=1511409442"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/746360/page_bg_generated_v6b.jpg?t=1511409442",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

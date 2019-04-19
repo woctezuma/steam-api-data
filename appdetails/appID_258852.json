@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Hive - The Mosquito is an expansion piece for the core Hive game.<br />\r\n<br />\r\nThe Mosquito adds some new tactics to traditional Hive.  The Mosquito has no movement abilities of its own, but is able steal the movement abilities of any insect that it currently touches.  This can really change a game in a hurry as it isn't always easy to see what your opponent is plotting!<br />\r\n<br />\r\nYou can use the Mosquito in all of the game modes available in the core Hive game, including online, local, and games against the computer.  You can also earn new achievements that can only be granted using the Mosquito!",
   "about_the_game": "Hive - The Mosquito is an expansion piece for the core Hive game.<br />\r\n<br />\r\nThe Mosquito adds some new tactics to traditional Hive.  The Mosquito has no movement abilities of its own, but is able steal the movement abilities of any insect that it currently touches.  This can really change a game in a hurry as it isn't always easy to see what your opponent is plotting!<br />\r\n<br />\r\nYou can use the Mosquito in all of the game modes available in the core Hive game, including online, local, and games against the computer.  You can also earn new achievements that can only be granted using the Mosquito!",
-  "short_description": "",
+  "short_description": "Hive - The Mosquito is an expansion piece for the core Hive game. The Mosquito adds some new tactics to traditional Hive. The Mosquito has no movement abilities of its own, but is able steal the movement abilities of any insect that it currently touches.",
   "fullgame": {
     "appid": "251210",
     "name": "Hive"
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     32844,
@@ -192,5 +194,9 @@
     "url": "http://bluelinegamestudios.com",
     "email": "support@bluelinegamestudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/258852/page_bg_generated_v6b.jpg?t=1483560604"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/258852/page_bg_generated_v6b.jpg?t=1483560604",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

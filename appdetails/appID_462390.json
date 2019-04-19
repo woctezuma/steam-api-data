@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     101066
@@ -108,6 +110,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/462390/ss_6445bd761e1e094d052f7481b28bc9cfa75e2362.1920x1080.jpg?t=1475596199"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Oct, 2016"
@@ -116,5 +121,9 @@
     "url": "http://www.aragami-game.com",
     "email": "contact@linceworks.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/462390/page_bg_generated_v6b.jpg?t=1475596199"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/462390/page_bg_generated_v6b.jpg?t=1475596199",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

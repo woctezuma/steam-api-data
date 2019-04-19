@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     158901
@@ -128,6 +130,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Jul, 2017"
@@ -136,5 +141,9 @@
     "url": "http://steamcommunity.com/groups/Atriagames",
     "email": "xdgonx@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/603860/page_bg_generated_v6b.jpg?t=1499806382"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/603860/page_bg_generated_v6b.jpg?t=1499806382",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

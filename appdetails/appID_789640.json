@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\">10 Edition </h2>This DLC adds 2 kinds of sports games, <strong>table tennis</strong> and <strong>golf</strong> to VR SUPER SPORTS.<br>There are upgrades also in the sports game up to now!<br><ul class=\"bb_ul\"><li>Boxing became able to change the number of rounds.<br></li><li>Bowling has added a new color ball.<br></li><li>Japanese Archery,  Kart and DLC-Golf has added the twilight.<br></li><li>DLC-Table tennis changes color of table tennis table depending on difficulty.<h2 class=\"bb_tag\">About added sports</h2></li><li>Table Tennis:  Let's defeat full-scale opponents with technique!<br></li><li>Golf: Over 400 yards at Resort Island Course!?<br>\u3000\u3000\u3000\u3000\u3000Aim for eagle with a newly developed putting guide system!</li></ul><br>*This game is a full-body VR experience. Before playing make sure your surroundings are clear of all friends, furniture, children, spouses, cats, dogs, long-lost siblings, and important equipment entrusted to you by your clients.",
   "about_the_game": "<h2 class=\"bb_tag\">10 Edition </h2>This DLC adds 2 kinds of sports games, <strong>table tennis</strong> and <strong>golf</strong> to VR SUPER SPORTS.<br>There are upgrades also in the sports game up to now!<br><ul class=\"bb_ul\"><li>Boxing became able to change the number of rounds.<br></li><li>Bowling has added a new color ball.<br></li><li>Japanese Archery,  Kart and DLC-Golf has added the twilight.<br></li><li>DLC-Table tennis changes color of table tennis table depending on difficulty.<h2 class=\"bb_tag\">About added sports</h2></li><li>Table Tennis:  Let's defeat full-scale opponents with technique!<br></li><li>Golf: Over 400 yards at Resort Island Course!?<br>\u3000\u3000\u3000\u3000\u3000Aim for eagle with a newly developed putting guide system!</li></ul><br>*This game is a full-body VR experience. Before playing make sure your surroundings are clear of all friends, furniture, children, spouses, cats, dogs, long-lost siblings, and important equipment entrusted to you by your clients.",
-  "short_description": "Finally, the definitive sports experience in VR.  You can play your favorite sports with the VR! A brand new yet realistic way of playing sports.",
+  "short_description": "Finally, the definitive sports experience in VR. You can play your favorite sports with the VR! A brand new yet realistic way of playing sports.",
   "fullgame": {
     "appid": "593240",
     "name": "VR SUPER SPORTS"
@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1199,
-    "final": 1079,
-    "discount_percent": 10
+    "final": 1199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     238823,
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 238823,
-          "percent_savings_text": "-10%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "VR SUPER SPORTS - 10 Edition - <span class=\"discount_original_price\">11,99\u20ac</span> 10,79\u20ac",
+          "option_text": "VR SUPER SPORTS - 10 Edition - 11,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1079
+          "price_in_cents_with_discount": 1199
         }
       ]
     },
@@ -189,5 +191,9 @@
     "url": "http://sat-box.jp/",
     "email": "satboxuserhelp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/789640/page_bg_generated_v6b.jpg?t=1518500401"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/789640/page_bg_generated_v6b.jpg?t=1518500401",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -8,7 +8,7 @@
   "about_the_game": "A dungeon crawl where YOU are the monsters! Lead your minions in tactical turn-based combat against the pesky heroes, and unlock a variety of evil Powers. With a dynamic campaign system and a branching storyline, &quot;Reverse Crawl&quot; lets you experience an RPG from a whole new angle!<br><br><strong>FEATURES</strong><br><br>- Tactical turn-based combat system, where you control the dungeon's minions!<br>- A dynamic campaign that will be different each time, complete with a branching storyline<br>- Artwork, coding and animation by one person (!) in that unique Nerdook style <br>- Unlock new minions, traits and powers as you play, depending on your choices during the campaign!",
   "short_description": "A dungeon crawl where YOU are the dungeon! Lead your minions in tactical turn-based combat against the pesky heroes, and unlock a variety of evil Powers. With a dynamic campaign system and a branching storyline, &quot;Reverse Crawl&quot; lets you experience an RPG from a whole new angle!",
   "supported_languages": "English",
-  "reviews": "\u201cThe game\u2019s simplistic appearance hides a challenging and entertaining game that has a lot of replay value.\u201d<br>8.5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.sggaminginfo.com/2015/09/reverse-crawl-review/\" target=\"_blank\" rel=\"noopener\"  >http://www.sggaminginfo.com/2015/09/reverse-crawl-review/</a></a><br>",
+  "reviews": "\u201cThe game\u2019s simplistic appearance hides a challenging and entertaining game that has a lot of replay value.\u201d<br>8.5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.sggaminginfo.com/2015/09/reverse-crawl-review/\" target=\"_blank\" rel=\"noopener\"  >http://www.sggaminginfo.com/2015/09/reverse-crawl-review/</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/400660/header.jpg?t=1447377849",
   "website": "http://nerdook-productions.com/",
   "pc_requirements": {
@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 149,
+    "discount_percent": 70,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "1,49\u20ac"
   },
   "packages": [
     77750
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 77750,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Reverse Crawl - 5,99\u20ac",
+          "option_text": "Reverse Crawl - <span class=\"discount_original_price\">4,99\u20ac</span> 1,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 149
         }
       ]
     }
@@ -141,7 +143,7 @@
     }
   ],
   "recommendations": {
-    "total": 359
+    "total": 247
   },
   "achievements": {
     "total": 18,
@@ -196,5 +198,9 @@
     "url": "http://nerdook-productions.com/",
     "email": "support@nerdook-productions.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/400660/page_bg_generated_v6b.jpg?t=1447377849"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/400660/page_bg_generated_v6b.jpg?t=1447377849",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

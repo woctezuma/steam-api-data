@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     47580
@@ -52,11 +54,11 @@
           "packageid": 47580,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Heroes Rise: HeroFall - Perfect Legend Guide - 0,99\u20ac",
+          "option_text": "Heroes Rise: HeroFall - Perfect Legend Guide - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -105,6 +107,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/313931/ss_32c273cf3ba488c5cde14cd92a53c12bffc9a79f.1920x1080.jpg?t=1447362684"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Jul, 2014"
@@ -113,5 +118,9 @@
     "url": "https://www.choiceofgames.com/contact-us/",
     "email": "support-herofall-steam@choiceofgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/313931/page_bg_generated_v6b.jpg?t=1447362684"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/313931/page_bg_generated_v6b.jpg?t=1447362684",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

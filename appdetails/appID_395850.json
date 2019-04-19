@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     76121
@@ -167,7 +169,7 @@
     }
   ],
   "recommendations": {
-    "total": 382
+    "total": 279
   },
   "achievements": {
     "total": 24,
@@ -222,5 +224,9 @@
     "url": "bearsimulator.com",
     "email": "support@bearsimulator.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/395850/page_bg_generated_v6b.jpg?t=1456881327"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/395850/page_bg_generated_v6b.jpg?t=1456881327",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

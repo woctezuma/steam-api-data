@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 39,
+    "discount_percent": 75,
+    "initial_formatted": "1,59\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     146371
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 146371,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "Infinitum - Soundtracks - 1,99\u20ac",
+          "option_text": "Infinitum - Soundtracks - <span class=\"discount_original_price\">1,59\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -115,5 +117,9 @@
     "url": "http://betelgeuze1988.wix.com/vgstudio",
     "email": "betelgeuze1988@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/574770/page_bg_generated_v6b.jpg?t=1483530498"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/574770/page_bg_generated_v6b.jpg?t=1483530498",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

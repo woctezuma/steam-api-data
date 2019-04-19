@@ -11,7 +11,7 @@
     "appid": "368500",
     "name": "Assassin's Creed\u00ae Syndicate"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Czech, Dutch, Hungarian, Japanese<strong>*</strong>, Korean, Polish, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech, Dutch, Hungarian, Japanese<strong>*</strong>, Korean, Polish, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/407475/header.jpg?t=1456851911",
   "website": "http://assassinscreed.ubi.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     80431
@@ -96,6 +98,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/407475/ss_800c76e60bc059acd1ed6344912d204781b4e036.1920x1080.jpg?t=1456851911"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Mar, 2016"
@@ -104,5 +109,9 @@
     "url": "https://support.ubi.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407475/page_bg_generated_v6b.jpg?t=1456851911"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407475/page_bg_generated_v6b.jpg?t=1456851911",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

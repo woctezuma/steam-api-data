@@ -11,8 +11,8 @@
     "appid": "230410",
     "name": "Warframe"
   },
-  "supported_languages": "English<strong>*</strong>, German, French, Italian, Korean, Spanish, Simplified Chinese, Russian, Japanese, Polish, Portuguese-Brazil, Traditional Chinese, Turkish, Ukrainian<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/820140/header.jpg?t=1523046761",
+  "supported_languages": "English<strong>*</strong>, German, French, Italian, Korean, Spanish - Spain, Simplified Chinese, Russian, Japanese, Polish, Portuguese - Brazil, Traditional Chinese, Turkish, Ukrainian<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/820140/header.jpg?t=1530643349",
   "website": "http://www.warframe.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows XP SP 3 or higher<br>\t</li><li><strong>Processor:</strong>Intel Core 2 Duo e6400 or AMD Athlon x64 4000+<br>\t</li><li><strong>Memory:</strong>2 GB RAM<br>\t</li><li><strong>Graphics:</strong>Nvidia GeForce 8600 GT or ATI Radeon HD 3600<br>\t</li><li><strong>DirectX\u00ae:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>25 GB HD space<br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection</li></ul>"
@@ -26,38 +26,7 @@
   "publishers": [
     ""
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 1777,
-    "final": 1777,
-    "discount_percent": 0
-  },
-  "packages": [
-    251373
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy Warframe: TennoCon 2018 Digital Pack",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 251373,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "TennoCon 2018 Digital Pack - 17,77\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 1777
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -110,15 +79,21 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820140/ss_1bed353d8945c14b70cd78a1b289005453f0c06f.600x338.jpg?t=1523046761",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820140/ss_1bed353d8945c14b70cd78a1b289005453f0c06f.1920x1080.jpg?t=1523046761"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820140/ss_1bed353d8945c14b70cd78a1b289005453f0c06f.600x338.jpg?t=1530643349",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820140/ss_1bed353d8945c14b70cd78a1b289005453f0c06f.1920x1080.jpg?t=1530643349"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820140/ss_11c70d5b242aff9782f68c2f8f7129e6613e8193.600x338.jpg?t=1523046761",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820140/ss_11c70d5b242aff9782f68c2f8f7129e6613e8193.1920x1080.jpg?t=1523046761"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820140/ss_11c70d5b242aff9782f68c2f8f7129e6613e8193.600x338.jpg?t=1530643349",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820140/ss_11c70d5b242aff9782f68c2f8f7129e6613e8193.1920x1080.jpg?t=1530643349"
     }
   ],
+  "recommendations": {
+    "total": 118
+  },
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Apr, 2018"
@@ -127,5 +102,12 @@
     "url": "http://support.warframe.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/820140/page_bg_generated_v6b.jpg?t=1523046761"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/820140/page_bg_generated_v6b.jpg?t=1530643349",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

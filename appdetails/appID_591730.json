@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Unlocks all current and future levels in Box Maze.<br />\r\n(Playing the game will unlock each level as you complete it, this DLC does not unlock additional content, it allows the player to choose levels without needing to unlock them first)",
   "about_the_game": "Unlocks all current and future levels in Box Maze.<br />\r\n(Playing the game will unlock each level as you complete it, this DLC does not unlock additional content, it allows the player to choose levels without needing to unlock them first)",
-  "short_description": "Unlocks all current and future levels in Box Maze.<br />\r\n(Playing the game will unlock each level as you complete it, this DLC does not unlock additional content, it allows the player to choose levels without needing to unlock them first)",
+  "short_description": "Unlocks all current and future levels in Box Maze. (Playing the game will unlock each level as you complete it, this DLC does not unlock additional content, it allows the player to choose levels without needing to unlock them...",
   "fullgame": {
     "appid": "512020",
     "name": "Box Maze"
@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 49,
-    "discount_percent": 51
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     153920
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 153920,
-          "percent_savings_text": "-51%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Box Maze - Unlock All Levels - <span class=\"discount_original_price\">0,99\u20ac</span> 0,49\u20ac",
+          "option_text": "Box Maze - Unlock All Levels - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 49
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -138,5 +140,9 @@
     "url": "http://steamcommunity.com/groups/gamershype",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/591730/page_bg_generated_v6b.jpg?t=1495847540"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/591730/page_bg_generated_v6b.jpg?t=1495847540",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

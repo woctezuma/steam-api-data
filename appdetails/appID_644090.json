@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     180573
@@ -117,6 +119,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Jan, 2018"
@@ -125,5 +130,9 @@
     "url": "",
     "email": "xdgonx@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/644090/page_bg_generated_v6b.jpg?t=1516561871"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/644090/page_bg_generated_v6b.jpg?t=1516561871",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

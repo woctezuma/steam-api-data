@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 1099,
     "final": 1099,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,99\u20ac"
   },
   "packages": [
     127180
@@ -145,5 +147,9 @@
     "url": "",
     "email": "service@vactordigital.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/528990/page_bg_generated_v6b.jpg?t=1478234489"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/528990/page_bg_generated_v6b.jpg?t=1478234489",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

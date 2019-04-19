@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 39,
+    "discount_percent": 51,
+    "initial_formatted": "0,79\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     96126
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 96126,
-          "percent_savings_text": "",
+          "percent_savings_text": "-51%",
           "percent_savings": 0,
-          "option_text": "Shake Your Money Simulator 2016 - 0,99\u20ac",
+          "option_text": "Shake Your Money Simulator 2016 - <span class=\"discount_original_price\">0,79\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -123,7 +125,7 @@
     }
   ],
   "recommendations": {
-    "total": 649
+    "total": 388
   },
   "achievements": {
     "total": 10,
@@ -178,5 +180,11 @@
     "url": "",
     "email": "motata1111@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/448660/page_bg_generated_v6b.jpg?t=1481123801"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/448660/page_bg_generated_v6b.jpg?t=1481123801",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

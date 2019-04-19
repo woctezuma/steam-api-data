@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In this video tutorial, I'll cover how to go about an interesting creature/alien/monster portrait. The topics I'll cover are:<br><br><ul class=\"bb_ul\"><li>Go wild with the shapes<br></li><li>Push anatomy and features<br></li><li>Don't be afraid of mistakes use them</li></ul>",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In this video tutorial, I'll cover how to go about an interesting creature/alien/monster portrait. The topics I'll cover are:<br><br><ul class=\"bb_ul\"><li>Go wild with the shapes<br></li><li>Push anatomy and features<br></li><li>Don't be afraid of mistakes use them</li></ul>",
   "about_the_game": "In this video tutorial, I'll cover how to go about an interesting creature/alien/monster portrait. The topics I'll cover are:<br><br><ul class=\"bb_ul\"><li>Go wild with the shapes<br></li><li>Push anatomy and features<br></li><li>Don't be afraid of mistakes use them</li></ul>",
   "short_description": "This is a tutorial on how to create a creature/alien/monster portrait.",
   "fullgame": {
@@ -35,9 +35,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     117383
@@ -56,11 +58,11 @@
           "packageid": 117383,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Robotpencil Presents: Alien Portrait Demo - 3,99\u20ac",
+          "option_text": "Robotpencil Presents: Alien Portrait Demo - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -107,6 +109,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/508020/ss_278f9b6c11c13f0a49bfc86873855b7a6afdb9b9.1920x1080.jpg?t=1471637253"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Aug, 2016"
@@ -115,5 +120,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/508020/page_bg_generated_v6b.jpg?t=1471637253"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/508020/page_bg_generated_v6b.jpg?t=1471637253",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

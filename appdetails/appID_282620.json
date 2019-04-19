@@ -7,9 +7,9 @@
   "controller_support": "full",
   "detailed_description": "<h2 class=\"bb_tag\"><strong>STORY SYNOPSIS</strong></h2><br>By the year 2500 Earth had become toxic and unsafe for human life. Pollution and overpopulation had ravaged the planet, forcing humanity to the stars. Colonies and settlements soon sprung up across the solar system, but man had not left its thirst for war behind. Then, they learned the Sun was dying, and everything changed. Only when faced with a threat greater than each other did the nations of man finally come together. The United Colonies of SOL (UCS) was born, its first and only mission: to locate a new home for mankind, safely beyond the doomed borders of our solar system. <br><br>Suit up and take on the role of the Lieutenant Williams and enigmatic Brother Aelius as you battle a mysterious enemy within humanity's solar system and beyond!<h2 class=\"bb_tag\"><strong>GAME FEATURES</strong></h2><br>- Beautiful visuals powered by Unreal Engine 3.<br><br>- Dogfight intelligent AI enemy fighters capable of performing advanced maneuvers to keep you on your toes!<br><br>- Pilot multiple ships -each with their own distinct handling and armament.<br><br>- 21 campaign missions spread throughout our solar system and beyond!<br><br>- Earn medals based on mission performance!<br><br>- Full Tobii EyeX Integration!  Infinitescreen support, target enemies, and more using your eyes!<br><br>- Fully voice acted by top name VO talent including Dave Fennoy (Lee from Season 1 of the Walking Dead), Rachel Butera (actress best known for her on-point impressions and appearances on The Howard Stern Show), Artie Widgery, Alex Brandon (Skyrim, Deus Ex), Troupe Gammage, Laura Post (The Evil Within, Hearthstone) and much more!<br><br>- Now with Steam Workshop support!  Create and share custom missions using the same tools we use!",
   "about_the_game": "<h2 class=\"bb_tag\"><strong>STORY SYNOPSIS</strong></h2><br>By the year 2500 Earth had become toxic and unsafe for human life. Pollution and overpopulation had ravaged the planet, forcing humanity to the stars. Colonies and settlements soon sprung up across the solar system, but man had not left its thirst for war behind. Then, they learned the Sun was dying, and everything changed. Only when faced with a threat greater than each other did the nations of man finally come together. The United Colonies of SOL (UCS) was born, its first and only mission: to locate a new home for mankind, safely beyond the doomed borders of our solar system. <br><br>Suit up and take on the role of the Lieutenant Williams and enigmatic Brother Aelius as you battle a mysterious enemy within humanity's solar system and beyond!<h2 class=\"bb_tag\"><strong>GAME FEATURES</strong></h2><br>- Beautiful visuals powered by Unreal Engine 3.<br><br>- Dogfight intelligent AI enemy fighters capable of performing advanced maneuvers to keep you on your toes!<br><br>- Pilot multiple ships -each with their own distinct handling and armament.<br><br>- 21 campaign missions spread throughout our solar system and beyond!<br><br>- Earn medals based on mission performance!<br><br>- Full Tobii EyeX Integration!  Infinitescreen support, target enemies, and more using your eyes!<br><br>- Fully voice acted by top name VO talent including Dave Fennoy (Lee from Season 1 of the Walking Dead), Rachel Butera (actress best known for her on-point impressions and appearances on The Howard Stern Show), Artie Widgery, Alex Brandon (Skyrim, Deus Ex), Troupe Gammage, Laura Post (The Evil Within, Hearthstone) and much more!<br><br>- Now with Steam Workshop support!  Create and share custom missions using the same tools we use!",
-  "short_description": "The Battle of Sol is an intense space action game where you participate in epic capital ship battles, thrilling dogfights, space station raids, and much more as you liberate humanity's solar system from enemies determined to bring us to its fiery end.  Pilot multiple ships while commanding your fellow wingmen to attack and defend as you battle a ruthless enemy across parts of our solar system and beyond!",
+  "short_description": "The Battle of Sol is an intense space action game where you participate in epic capital ship battles, thrilling dogfights, space station raids, and much more as you liberate humanity's solar system from enemies determined to bring us to its fiery end.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201cThe Battle of Sol delivers where it counts. It offers up huge areas and fills them with cool spaceships, then lets you blow them up. It ties satisfying dogfights together with a surprisingly well executed plot, and manages to make its battles challenging without being unbalanced.\u201d<br>3.5 / 5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.gizorama.com/2015/computer/pc/sol-say-we-all-the-battle-of-sol-review\" target=\"_blank\" rel=\"noopener\"  >Gizorama</a></a><br>",
+  "reviews": "\u201cThe Battle of Sol delivers where it counts. It offers up huge areas and fills them with cool spaceships, then lets you blow them up. It ties satisfying dogfights together with a surprisingly well executed plot, and manages to make its battles challenging without being unbalanced.\u201d<br>3.5 / 5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.gizorama.com/2015/computer/pc/sol-say-we-all-the-battle-of-sol-review\" target=\"_blank\" rel=\"noopener\"  >Gizorama</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/282620/header.jpg?t=1454440365",
   "website": "http://thebattleofsol.com",
   "pc_requirements": {
@@ -29,11 +29,12 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
-    38907,
-    75701
+    38907
   ],
   "package_groups": [
     {
@@ -54,16 +55,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 999
-        },
-        {
-          "packageid": 75701,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "The Sol Bundle - 16,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 1699
         }
       ]
     }
@@ -265,5 +256,9 @@
     "url": "http://www.bitplanetgames.com",
     "email": "support@bitplanetgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/282620/page_bg_generated_v6b.jpg?t=1454440365"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/282620/page_bg_generated_v6b.jpg?t=1454440365",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

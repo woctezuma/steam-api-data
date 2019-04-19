@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     177685
@@ -149,5 +151,9 @@
     "url": "http://polydigital.se/",
     "email": "contact@polydigital.se"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/640670/page_bg_generated_v6b.jpg?t=1508287529"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/640670/page_bg_generated_v6b.jpg?t=1508287529",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

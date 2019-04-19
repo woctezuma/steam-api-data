@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>The sim-troopers of Blood Gulch have seen their fair share of insanity over the years, but they've never faced anything quite like this. Stranded on the planet Chorus, the Reds and Blues must convince two enemy armies to join forces or suffer complete annihilation at the hands of a bloodthirsty war lord. As the final installment in the critically acclaimed Chorus Trilogy, Red vs. Blue: Season 13 is as hilarious as it is thrilling. Between deadly mercenaries, alien artifacts, and old rivalries, our hapless heroes are in for the fight of their lives in the longest running sci-fi/comedy series in American history, Red vs. Blue.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>The sim-troopers of Blood Gulch have seen their fair share of insanity over the years, but they've never faced anything quite like this. Stranded on the planet Chorus, the Reds and Blues must convince two enemy armies to join forces or suffer complete annihilation at the hands of a bloodthirsty war lord. As the final installment in the critically acclaimed Chorus Trilogy, Red vs. Blue: Season 13 is as hilarious as it is thrilling. Between deadly mercenaries, alien artifacts, and old rivalries, our hapless heroes are in for the fight of their lives in the longest running sci-fi/comedy series in American history, Red vs. Blue.",
   "about_the_game": "The sim-troopers of Blood Gulch have seen their fair share of insanity over the years, but they've never faced anything quite like this. Stranded on the planet Chorus, the Reds and Blues must convince two enemy armies to join forces or suffer complete annihilation at the hands of a bloodthirsty war lord. As the final installment in the critically acclaimed Chorus Trilogy, Red vs. Blue: Season 13 is as hilarious as it is thrilling. Between deadly mercenaries, alien artifacts, and old rivalries, our hapless heroes are in for the fight of their lives in the longest running sci-fi/comedy series in American history, Red vs. Blue.",
   "short_description": "The sim-troopers of Blood Gulch have seen their fair share of insanity over the years, but they've never faced anything quite like this.",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     114230,
@@ -205,6 +207,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Aug, 2016"
@@ -213,5 +218,9 @@
     "url": "http://www.cinedigm.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499200/page_bg_generated_v6b.jpg?t=1472754933"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499200/page_bg_generated_v6b.jpg?t=1472754933",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

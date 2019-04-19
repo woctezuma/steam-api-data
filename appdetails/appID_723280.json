@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "VR Photo Viewer is 360-degree spherical panorama photo viewer app with Pretty UI.<br />\r\nThis app has bgm player with Pretty UI.<br />\r\n<br />\r\n<br />\r\nSupported view mode with Pretty UI:<br />\r\n<br />\r\n-Spherical Mono<br />\r\n-Top-Bottom Stereo<br />\r\n-SideBySide Stereo<br />\r\n-Plane<br />\r\n-Parallel<br />\r\n<br />\r\nIf you selected &quot;Parallel View Mode&quot;, you can look like 3D with normal pictures slightly.<br />\r\nIndividual results may vary.",
   "about_the_game": "VR Photo Viewer is 360-degree spherical panorama photo viewer app with Pretty UI.<br />\r\nThis app has bgm player with Pretty UI.<br />\r\n<br />\r\n<br />\r\nSupported view mode with Pretty UI:<br />\r\n<br />\r\n-Spherical Mono<br />\r\n-Top-Bottom Stereo<br />\r\n-SideBySide Stereo<br />\r\n-Plane<br />\r\n-Parallel<br />\r\n<br />\r\nIf you selected &quot;Parallel View Mode&quot;, you can look like 3D with normal pictures slightly.<br />\r\nIndividual results may vary.",
-  "short_description": "VR Photo Viewer is 360-degree spherical panorama photo viewer app with Pretty UI.<br />\r\nThis app has bgm player with Pretty UI.",
+  "short_description": "VR Photo Viewer is 360-degree spherical panorama photo viewer app with Pretty UI. This app has bgm player with Pretty UI.",
   "supported_languages": "English, Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/723280/header.jpg?t=1512704042",
   "website": "http://www.vrai.jp/vr_vr360_en.html",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     210191
@@ -89,11 +91,6 @@
       "id": 4,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/723280/ss_41baca3d13bbb619d03cca0574eb51a678c8b842.600x338.jpg?t=1512704042",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/723280/ss_41baca3d13bbb619d03cca0574eb51a678c8b842.1920x1080.jpg?t=1512704042"
-    },
-    {
-      "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/723280/?t=1512704042",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/723280/?t=1512704042"
     }
   ],
   "movies": [
@@ -108,6 +105,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Oct, 2017"
@@ -116,5 +116,9 @@
     "url": "http://www.vrai.jp/mail/postmail_en.html",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/723280/page_bg_generated_v6b.jpg?t=1512704042"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/723280/page_bg_generated_v6b.jpg?t=1512704042",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

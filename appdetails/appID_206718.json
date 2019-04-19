@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "One of each of vehicle type, but with a twist! Instead of helicopter take a pleasant ride in a hot air balloon, or  perhaps a tram that's been built like a boat to sail the city streets. These innovative vehicles will add a whole new level to the game and keep your company afloat with their high attractiveness.<br><ul class=\"bb_ul\"><li><strong>Hot air balloon</strong> - The balloon is an exciting way to get around the city. The sights are fabulous and the going is slow so the passengers have plenty of time to enjoy them. There are no complicated mechanical parts, so the balloon is reliable and doesn't need much maintenance<br></li><li><strong>Amphibus</strong> - The extraordinary Amphibus is a great invention. Looks like a bus, but glides on water elegantly! It carries a decent amount of passengers and moves speedily on water. It offers superb travelling with cushioned seats<br></li><li><strong>Caterpillar</strong> - The Caterpillar is an unique vehicle. It's a powerful metro train, and looks like a funky caterpillar! It has plenty of room and while the engine isn't top notch, it doesn't consume much fuel, making it a very efficient vehicle<br></li><li><strong>Lucitania</strong> -This fancy tram was designed to be used in parades, but since it was very popular, more were produced. Cleverly disguised as a boat, this tram actually has lots of seats and a decent engine hidden inside<br></li><li><strong>Sight-seeing Bus</strong> - The sight-seeing bus is built to look like a small train. While bringing joy to people by adding a cheerful touch to the cityscape, and also has a very low energy consumption. It's well-rounded vehicle, and very nice looking</li></ul>",
   "about_the_game": "One of each of vehicle type, but with a twist! Instead of helicopter take a pleasant ride in a hot air balloon, or  perhaps a tram that's been built like a boat to sail the city streets. These innovative vehicles will add a whole new level to the game and keep your company afloat with their high attractiveness.<br><ul class=\"bb_ul\"><li><strong>Hot air balloon</strong> - The balloon is an exciting way to get around the city. The sights are fabulous and the going is slow so the passengers have plenty of time to enjoy them. There are no complicated mechanical parts, so the balloon is reliable and doesn't need much maintenance<br></li><li><strong>Amphibus</strong> - The extraordinary Amphibus is a great invention. Looks like a bus, but glides on water elegantly! It carries a decent amount of passengers and moves speedily on water. It offers superb travelling with cushioned seats<br></li><li><strong>Caterpillar</strong> - The Caterpillar is an unique vehicle. It's a powerful metro train, and looks like a funky caterpillar! It has plenty of room and while the engine isn't top notch, it doesn't consume much fuel, making it a very efficient vehicle<br></li><li><strong>Lucitania</strong> -This fancy tram was designed to be used in parades, but since it was very popular, more were produced. Cleverly disguised as a boat, this tram actually has lots of seats and a decent engine hidden inside<br></li><li><strong>Sight-seeing Bus</strong> - The sight-seeing bus is built to look like a small train. While bringing joy to people by adding a cheerful touch to the cityscape, and also has a very low energy consumption. It's well-rounded vehicle, and very nice looking</li></ul>",
-  "short_description": "",
+  "short_description": "One of each of vehicle type, but with a twist! Instead of helicopter take a pleasant ride in a hot air balloon, or perhaps a tram that's been built like a boat to sail the city streets. These innovative vehicles will add a whole new level to the game and keep your company afloat with their high attractiveness.",
   "fullgame": {
     "appid": "73010",
     "name": "Cities in Motion"
   },
-  "supported_languages": "English, German, Spanish, French",
+  "supported_languages": "English, German, Spanish - Spain, French",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/206718/header.jpg?t=1447357304",
   "website": "http://www.citiesinmotion.com",
   "pc_requirements": {
@@ -34,13 +34,12 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
-    19184,
-    29532,
-    29078,
-    35269
+    19184
   ],
   "package_groups": [
     {
@@ -61,36 +60,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 299
-        },
-        {
-          "packageid": 29532,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Cities in Motion DLC Collection - 39,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 3999
-        },
-        {
-          "packageid": 29078,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Cities in Motion Collection - 49,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4999
-        },
-        {
-          "packageid": 35269,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Cities in Motion 1 and 2 Collection - 84,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 8499
         }
       ]
     }
@@ -147,6 +116,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/206718/ss_57f921eab55473c0b50cfb1bdc88ff513c231625.1920x1080.jpg?t=1447357304"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Feb, 2013"
@@ -155,5 +127,9 @@
     "url": "www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/206718/page_bg_generated_v6b.jpg?t=1447357304"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/206718/page_bg_generated_v6b.jpg?t=1447357304",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

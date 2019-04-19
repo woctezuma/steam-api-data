@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>Our newly released Revolution Visualizer features surreal artwork that'll flood your screen with vibrant color and imagery.  Literally hundreds of combinations of art are used to create a unique experience each time you play!</p>\n\t\t\t\t\t\t<p>Once downloaded, the Revolution Visualizer will automatically add itself to your Visualizer rotation.</p>",
   "about_the_game": "<p>Our newly released Revolution Visualizer features surreal artwork that'll flood your screen with vibrant color and imagery.  Literally hundreds of combinations of art are used to create a unique experience each time you play!</p>\n\t\t\t\t\t\t<p>Once downloaded, the Revolution Visualizer will automatically add itself to your Visualizer rotation.</p>",
-  "short_description": "",
+  "short_description": "Our newly released Revolution Visualizer features surreal artwork that'll flood your screen with vibrant color and imagery. Literally hundreds of combinations of art are used to create a unique experience each time you play! Once downloaded, the Revolution Visualizer will automatically add itself to your Visualizer rotation.",
   "fullgame": {
     "appid": "38900",
     "name": "Uninitialized"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     6345
@@ -129,5 +131,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/38921/page_bg_generated_v6b.jpg?t=1447353586"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/38921/page_bg_generated_v6b.jpg?t=1447353586",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

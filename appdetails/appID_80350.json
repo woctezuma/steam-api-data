@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 449,
     "final": 449,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,49\u20ac"
   },
   "packages": [
     13240
@@ -115,7 +117,7 @@
     }
   ],
   "recommendations": {
-    "total": 263
+    "total": 237
   },
   "achievements": {
     "total": 12,
@@ -170,5 +172,9 @@
     "url": "http://www.wadjeteyegames.com",
     "email": "admin@wadjeteyegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/80350/page_bg_generated_v6b.jpg?t=1483440497"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/80350/page_bg_generated_v6b.jpg?t=1483440497",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

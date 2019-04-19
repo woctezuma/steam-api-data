@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     50240,
@@ -388,7 +390,7 @@
     }
   ],
   "recommendations": {
-    "total": 803
+    "total": 395
   },
   "achievements": {
     "total": 5,
@@ -423,5 +425,9 @@
     "url": "http://wicklandgame.com",
     "email": "info@madramsoftware.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/321260/page_bg_generated_v6b.jpg?t=1447363474"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/321260/page_bg_generated_v6b.jpg?t=1447363474",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

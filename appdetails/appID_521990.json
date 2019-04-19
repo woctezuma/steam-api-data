@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     123904
@@ -158,6 +160,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Sep, 2016"
@@ -166,5 +171,9 @@
     "url": "",
     "email": "dawid.buj@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/521990/page_bg_generated_v6b.jpg?t=1474480415"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/521990/page_bg_generated_v6b.jpg?t=1474480415",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

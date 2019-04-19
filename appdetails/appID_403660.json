@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     78970
@@ -132,6 +134,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Sep, 2015"
@@ -140,5 +145,9 @@
     "url": "http://www.ajstarkey.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403660/page_bg_generated_v6b.jpg?t=1447378099"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403660/page_bg_generated_v6b.jpg?t=1447378099",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

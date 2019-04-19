@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 239,
-    "final": 239,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     168389
@@ -53,11 +55,11 @@
           "packageid": 168389,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Blossoms Bloom Brightest - Erica Daki - 2,39\u20ac",
+          "option_text": "Blossoms Bloom Brightest - Erica Daki - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 239
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -110,5 +112,9 @@
     "url": "DharkerStudio.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/624280/page_bg_generated_v6b.jpg?t=1493372037"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/624280/page_bg_generated_v6b.jpg?t=1493372037",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

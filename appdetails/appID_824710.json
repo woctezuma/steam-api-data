@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 59,
-    "discount_percent": 40
+    "final": 39,
+    "discount_percent": 61,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     253199
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 253199,
-          "percent_savings_text": "-40%",
+          "percent_savings_text": "-61%",
           "percent_savings": 0,
-          "option_text": "Crimson difference - <span class=\"discount_original_price\">0,99\u20ac</span> 0,59\u20ac",
+          "option_text": "Crimson difference - <span class=\"discount_original_price\">0,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 59
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -118,6 +120,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Apr, 2018"
@@ -126,5 +131,9 @@
     "url": "",
     "email": "CrimsonEarth@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/824710/page_bg_generated_v6b.jpg?t=1523656266"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/824710/page_bg_generated_v6b.jpg?t=1523656266",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

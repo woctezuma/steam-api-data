@@ -8,7 +8,7 @@
   "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/684430/extras/Introduction_little.png?t=1509246048\" ><br>Hello there!<br>This is my first game on Steam. And the game's name is JU.<h2 class=\"bb_tag\">how to Play?</h2>Use KEY WSAD(or \u2191\u2193\u2190\u2192) to control the green cube move to the red area. Don't worry too much about operation, it's really easy. But you should be really careful about the path you choose, because there are some path traps in the game, such as an endless loop.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>80 Levels<br></li><li>4 play rules:<br></li><li><i>1.Basis rule (Level 1 - 20): Move green cube to the end area(the red block). When you use key to move the green cube, it just keep moving until touch a block-wall. </i><br></li><li><i>2.Following rule (Level 21 - 40): Beside the basis rule, the end area will move when you try to move the green cube. So you should think about the strategy: move the green cube or end area as a chief way. </i><br></li><li><i>3.Twins rule (Level 41 - 60): Beside the basis rule, there will be two green cubes in the game, and two end areas. And be careful: When the green cubes touch each other, they will become one entirety.</i><br></li><li><i>4.Zu rule (Level 61 - 80):  Beside the basis rule, you will find a few green area which will move one block. What you need to think is that move to the end area before anyone of the green areas moves to the left-end-area. And be careful: You need move to the every blue block one time, or the end area will be blocked. This rule could be a little hard, remember it: Think before Move.</i></li></ul><h2 class=\"bb_tag\">why Choose Ju As Game's Name?</h2>Actually, it is the name of a piece in Chinese chess. When I played Chinese chess whit my uncle, it suddenly occurred to me that why not add the rule of JU to a simple maze map. So I made this game, JU.<br><br>Have Fun.",
   "short_description": "Ju is a simple puzzle game. Enjoy the game.",
   "supported_languages": "English, Simplified Chinese",
-  "reviews": "\u201c\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://cowlevel.net/game/JU__/review\" target=\"_blank\" rel=\"noopener\"  >Cowlevel(\u5976\u725b\u5173\u7528\u6237)</a></a><br>",
+  "reviews": "\u201c\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://cowlevel.net/game/JU__/review\" target=\"_blank\" rel=\"noopener\"  >Cowlevel(\u5976\u725b\u5173\u7528\u6237)</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/684430/header.jpg?t=1509246048",
   "website": null,
   "pc_requirements": {
@@ -27,8 +27,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 79,
+    "discount_percent": 20,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     195750,
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 195750,
-          "percent_savings_text": "",
+          "percent_savings_text": "-20%",
           "percent_savings": 0,
-          "option_text": "JU - 0,99\u20ac",
+          "option_text": "JU - <span class=\"discount_original_price\">0,99\u20ac</span> 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         },
         {
           "packageid": 261448,
@@ -176,5 +178,9 @@
     "url": "",
     "email": "wayne-tao@Outlook.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/684430/page_bg_generated_v6b.jpg?t=1509246048"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/684430/page_bg_generated_v6b.jpg?t=1509246048",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

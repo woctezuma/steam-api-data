@@ -23,10 +23,12 @@
     "N-soft"
   ],
   "price_overview": {
-    "currency": "USD",
-    "initial": 499,
-    "final": 349,
-    "discount_percent": 30
+    "currency": "EUR",
+    "initial": 659,
+    "final": 659,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,59\u20ac"
   },
   "packages": [
     124115
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 124115,
-          "percent_savings_text": "-30%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Lord of the Seal - <span class=\"discount_original_price\">$4.99</span> $3.49",
+          "option_text": "Lord of the Seal - 6,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 349
+          "price_in_cents_with_discount": 659
         }
       ]
     }
@@ -142,13 +144,20 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
-    "date": "Sep 16, 2016"
+    "date": "16 Sep, 2016"
   },
   "support_info": {
     "url": "http://blog.goo.ne.jp/stonestone_2010",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/522610/page_bg_generated_v6b.jpg?t=1510504913"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/522610/page_bg_generated_v6b.jpg?t=1510504913",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

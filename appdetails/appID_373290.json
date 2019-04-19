@@ -30,12 +30,14 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 79,
-    "discount_percent": 80
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
-    "68708"
+    68708
   ],
   "package_groups": [
     {
@@ -48,14 +50,14 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "68708",
-          "percent_savings_text": "-80%",
+          "packageid": 68708,
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Stones of Sorrow - <span class=\"discount_original_price\">3,99\u20ac</span> 0,79\u20ac",
+          "option_text": "Stones of Sorrow - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 79
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -209,7 +211,7 @@
     }
   ],
   "achievements": {
-    "total": 16,
+    "total": 14,
     "highlighted": [
       {
         "name": "Welcome to Stones of Sorrow",
@@ -232,16 +234,8 @@
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/373290/3c8ddac6e8ca70ab0aec4f2243f4fa214c7565c7.jpg"
       },
       {
-        "name": "Rip And Tear",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/373290/a110f1c1d14d2986811347d50864e18eae97a513.jpg"
-      },
-      {
         "name": "Don't Care",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/373290/020df1806a30f309592aa871b7f35b3f5432fd07.jpg"
-      },
-      {
-        "name": "Napalm Death",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/373290/53af5356107559588d9f33bd180fc144dfb578a4.jpg"
       },
       {
         "name": " Afterlife",
@@ -250,6 +244,14 @@
       {
         "name": "Blood Horn",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/373290/c7c7f756bdc98ef784b6c22bfa28dcb8886cca2c.jpg"
+      },
+      {
+        "name": "Long Live Death",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/373290/8a7f7404bdccace19a8338f10f0175d35d657a34.jpg"
+      },
+      {
+        "name": "Master of Paintings",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/373290/88d43f40e965870d191928c76c39b1fb314f1e10.jpg"
       }
     ]
   },
@@ -261,5 +263,9 @@
     "url": "",
     "email": "stoneofsorrow@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/373290/page_bg_generated_v6b.jpg?t=1482577849"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/373290/page_bg_generated_v6b.jpg?t=1482577849",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

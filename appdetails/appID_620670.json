@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     166721
@@ -162,6 +164,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Apr, 2017"
@@ -170,5 +175,9 @@
     "url": "http://www.thecursedrevolver.com",
     "email": "thecursedrevolver@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620670/page_bg_generated_v6b.jpg?t=1493189292"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620670/page_bg_generated_v6b.jpg?t=1493189292",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

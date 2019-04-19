@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Control urban maps with 8 urban-themed rifle skins, male and female ghillie characters and 3 new weapons: the Winchester, Sten and Walther PPK.  For use in all campaign, competitive and co-op modes.",
   "about_the_game": "Control urban maps with 8 urban-themed rifle skins, male and female ghillie characters and 3 new weapons: the Winchester, Sten and Walther PPK.  For use in all campaign, competitive and co-op modes.",
-  "short_description": "Control urban maps with 8 urban-themed rifle skins, male and female ghillie characters and 3 new weapons: the Winchester, Sten and Walther PPK.  For use in all campaign, competitive and co-op modes.",
+  "short_description": "Control urban maps with 8 urban-themed rifle skins, male and female ghillie characters and 3 new weapons: the Winchester, Sten and Walther PPK. For use in all campaign, competitive and co-op modes.",
   "fullgame": {
     "appid": "312660",
     "name": "Sniper Elite 4"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Polish, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/513031/header.jpg?t=1496404619",
   "website": "http://www.sniperelite4.com",
   "pc_requirements": {
@@ -32,8 +32,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 799,
-    "final": 399,
-    "discount_percent": 50
+    "final": 799,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     119471
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 119471,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Sniper Elite 4 - Urban Assault Expansion Pack - <span class=\"discount_original_price\">7,99\u20ac</span> 3,99\u20ac",
+          "option_text": "Sniper Elite 4 - Urban Assault Expansion Pack - 7,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 799
         }
       ]
     }
@@ -121,6 +123,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/513031/ss_8ed562f312cfd61a5e0055e345bbd865fce951df.1920x1080.jpg?t=1496404619"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Apr, 2017"
@@ -129,5 +134,9 @@
     "url": "http://www.rebellion.co.uk/support",
     "email": "se4.support@rebellion.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/513031/page_bg_generated_v6b.jpg?t=1496404619"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/513031/page_bg_generated_v6b.jpg?t=1496404619",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     171937
@@ -128,6 +130,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/631554/ss_84e82c4c114b2203d56a2aa29536858de6438bd6.1920x1080.jpg?t=1496242215"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 May, 2017"
@@ -136,5 +141,9 @@
     "url": "http://www.arcsystemworks.jp/steam/en/contact_02.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/631554/page_bg_generated_v6b.jpg?t=1496242215"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/631554/page_bg_generated_v6b.jpg?t=1496242215",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

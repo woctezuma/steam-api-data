@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "San Diego International Airport (IATA: SAN, ICAO: KSAN, FAA LID: SAN), also known as Lindbergh Field.<br />\r\nBy being the busiest single runway airport in the US it adds some different challenge to the controllers.<br />\r\nKSAN has a displaced threshold that is simulated within Tower!3D Pro so the planes will not land at the end of the runway.",
   "about_the_game": "San Diego International Airport (IATA: SAN, ICAO: KSAN, FAA LID: SAN), also known as Lindbergh Field.<br />\r\nBy being the busiest single runway airport in the US it adds some different challenge to the controllers.<br />\r\nKSAN has a displaced threshold that is simulated within Tower!3D Pro so the planes will not land at the end of the runway.",
-  "short_description": "San Diego airport is an airport DLC for Tower!3D Pro",
+  "short_description": "San Diego airport is an airport DLC for Tower!",
   "fullgame": {
     "appid": "588190",
     "name": "Tower!3D Pro"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1799,
     "final": 1799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "17,99\u20ac"
   },
   "packages": [
     164978
@@ -135,5 +137,9 @@
     "url": "http://forum.simflight.com/forum/170-atc-simulators/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/615420/page_bg_generated_v6b.jpg?t=1493052133"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/615420/page_bg_generated_v6b.jpg?t=1493052133",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 1199,
+    "final": 1199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     70233,
@@ -52,21 +54,21 @@
           "packageid": 70233,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Cardinal Quest 2 - 14,99\u20ac",
+          "option_text": "Cardinal Quest 2 - 11,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 1199
         },
         {
           "packageid": 89487,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Cardinal Quest 2 Deluxe Edition - 19,99\u20ac",
+          "option_text": "Cardinal Quest 2 Deluxe Edition - 15,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1999
+          "price_in_cents_with_discount": 1599
         }
       ]
     }
@@ -220,5 +222,9 @@
     "url": "",
     "email": "randomnine@wootfu.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/378030/page_bg_generated_v6b.jpg?t=1452029876"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/378030/page_bg_generated_v6b.jpg?t=1452029876",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

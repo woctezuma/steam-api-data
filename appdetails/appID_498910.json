@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Buried beneath the sand is the answer to a mystery more dangerous than anyone could possibly understand. It's the perfect mission for a bunch of ragtag soldiers who don't know what they're doing anyway.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Buried beneath the sand is the answer to a mystery more dangerous than anyone could possibly understand. It's the perfect mission for a bunch of ragtag soldiers who don't know what they're doing anyway.",
   "about_the_game": "Buried beneath the sand is the answer to a mystery more dangerous than anyone could possibly understand. It's the perfect mission for a bunch of ragtag soldiers who don't know what they're doing anyway.",
   "short_description": "Buried beneath the sand is the answer to a mystery more dangerous than anyone could possibly understand. It's the perfect mission for a bunch of ragtag soldiers who don't know what they're doing anyway.",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     114136,
@@ -165,6 +167,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Aug, 2016"
@@ -173,5 +178,9 @@
     "url": "http://www.cinedigm.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498910/page_bg_generated_v6b.jpg?t=1472754425"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498910/page_bg_generated_v6b.jpg?t=1472754425",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

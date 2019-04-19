@@ -10,7 +10,7 @@
   "detailed_description": "meleng is a logic puzzle game played on a grid of square cells. This grid also contains circles with dots which indicates how many lines must crosses at that point. You must complete the grid by filling in every cell with lines and linking them with or away from each other.<br><br>Contact e-mail: <u>contact@palenogames.ru</u>",
   "about_the_game": "meleng is a logic puzzle game played on a grid of square cells. This grid also contains circles with dots which indicates how many lines must crosses at that point. You must complete the grid by filling in every cell with lines and linking them with or away from each other.<br><br>Contact e-mail: <u>contact@palenogames.ru</u>",
   "short_description": "meleng is a logic puzzle game played on a grid of square cells. This grid also contains circles with dots which indicates how many lines must crosses at that point. You must complete the grid by filling in every cell with lines and linking them with or away from each other.",
-  "supported_languages": "English, French, Italian, German, Spanish, Russian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/735260/header.jpg?t=1513913006",
   "website": "http://palenogames.ru",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     214736
@@ -179,5 +181,9 @@
     "url": "http://palenogames.ru",
     "email": "contact@palenogames.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/735260/page_bg_generated_v6b.jpg?t=1513913006"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/735260/page_bg_generated_v6b.jpg?t=1513913006",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

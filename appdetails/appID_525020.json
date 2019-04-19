@@ -15,13 +15,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/525020/header.jpg?t=1493906778",
   "website": "http://winterwolves.com/queenofthieves.htm",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 25 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 25 MB d'espace disque disponible</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 25 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 25 MB d'espace disque disponible</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 25 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 25 MB d'espace disque disponible</li></ul>"
   },
   "developers": [
     "Winter Wolves"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     125260
@@ -118,6 +120,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/525020/ss_200386b85bf86bdcd4c68c5864bb114d392ee3fe.1920x1080.jpg?t=1493906778"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Jan, 2017"
@@ -126,5 +131,9 @@
     "url": "http://www.winterwolves.com/info.php",
     "email": "info@winterwolves.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/525020/page_bg_generated_v6b.jpg?t=1493906778"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/525020/page_bg_generated_v6b.jpg?t=1493906778",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

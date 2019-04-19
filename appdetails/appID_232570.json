@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Adds the Siege game mode to the Extra Content menu of Resident Evil 6! Protect the innocent civilians from the creatures until the rescue effort arrives. Players can choose to be an agent helping the civilians, or a creature hunting them down in this multiplayer mode that supports up to 6 players!",
   "about_the_game": "Adds the Siege game mode to the Extra Content menu of Resident Evil 6! Protect the innocent civilians from the creatures until the rescue effort arrives. Players can choose to be an agent helping the civilians, or a creature hunting them down in this multiplayer mode that supports up to 6 players!",
-  "short_description": "",
+  "short_description": "Adds the Siege game mode to the Extra Content menu of Resident Evil 6! Protect the innocent civilians from the creatures until the rescue effort arrives. Players can choose to be an agent helping the civilians, or a creature hunting them down in this multiplayer mode that supports up to 6 players!",
   "fullgame": {
     "appid": "221040",
     "name": "Resident Evil 6 / Biohazard 6"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian<strong>*</strong>, Polish, Portuguese-Brazil, Spanish<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian<strong>*</strong>, Polish, Portuguese - Brazil, Spanish - Spain<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/232570/header.jpg?t=1471550245",
   "website": "http://www.residentevil.com/6/",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     27295,
@@ -171,6 +173,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/232570/ss_15b0776268f7eb7335f59965dc64a5467d562aa3.1920x1080.jpg?t=1471550245"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Apr, 2013"
@@ -179,5 +184,9 @@
     "url": "http://shop.capcom.com/store/capcomus/html/pbPage.capcom-support",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/232570/page_bg_generated_v6b.jpg?t=1471550245"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/232570/page_bg_generated_v6b.jpg?t=1471550245",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     164928
@@ -106,6 +108,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/615260/ss_e442cbab1a60858d1d5dd97efb6ac6fee848e591.1920x1080.jpg?t=1492097667"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Apr, 2017"
@@ -114,5 +119,9 @@
     "url": "",
     "email": "support@teamshifty.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/615260/page_bg_generated_v6b.jpg?t=1492097667"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/615260/page_bg_generated_v6b.jpg?t=1492097667",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

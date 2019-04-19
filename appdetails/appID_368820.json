@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     67048
@@ -106,6 +108,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/368820/ss_39eda6e58217cfd02a5b0618e3161cf336845304.1920x1080.jpg?t=1447373998"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 May, 2015"
@@ -114,5 +119,9 @@
     "url": "http://www.rpgmakerweb.com/support",
     "email": "support@rpgmakerweb.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/368820/page_bg_generated_v6b.jpg?t=1447373998"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/368820/page_bg_generated_v6b.jpg?t=1447373998",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

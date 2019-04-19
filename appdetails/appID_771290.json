@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "\u65e7\u624b\u8868 - \u539f\u58f0\u97f3\u4e50\u96c6 (original soundtrack) <br />\r\n<br />\r\n\u66f2\u76ee\u5217\u8868<br />\r\n\u66d6\u6627<br />\r\n\u4e0d\u5b89<br />\r\n\u4e0d\u5999<br />\r\n\u6c89\u6ca1<br />\r\n\u6b22\u60a6<br />\r\n\u7d27\u6025<br />\r\n\u7d27\u5f20\u795e\u79d8<br />\r\n\u903b\u8f91\u5faa\u73af<br />\r\n\u79d8<br />\r\n\u98d8<br />\r\n\u8e4a\u8df7<br />\r\n\u4fcf\u76ae<br />\r\n\u65e5\u5e38<br />\r\n\u6811\u5f71\u6591\u9a73<br />\r\n\u677e\u6c14<br />\r\n\u63a2\u7d22<br />\r\n\u60ac\u7591<br />\r\n\u9065\u60f3<br />\r\n\u5fc6<br />\r\n\u7fbd\u6bdb<br />\r\n\u96e8\u9732<br />\r\n\u7eb8\u8239<br />\r\n\u6307\u9488\u56de\u6eaf<br />\r\n\u7ec8\u7ed3<br />\r\n\u5760\u843d",
   "about_the_game": "\u65e7\u624b\u8868 - \u539f\u58f0\u97f3\u4e50\u96c6 (original soundtrack) <br />\r\n<br />\r\n\u66f2\u76ee\u5217\u8868<br />\r\n\u66d6\u6627<br />\r\n\u4e0d\u5b89<br />\r\n\u4e0d\u5999<br />\r\n\u6c89\u6ca1<br />\r\n\u6b22\u60a6<br />\r\n\u7d27\u6025<br />\r\n\u7d27\u5f20\u795e\u79d8<br />\r\n\u903b\u8f91\u5faa\u73af<br />\r\n\u79d8<br />\r\n\u98d8<br />\r\n\u8e4a\u8df7<br />\r\n\u4fcf\u76ae<br />\r\n\u65e5\u5e38<br />\r\n\u6811\u5f71\u6591\u9a73<br />\r\n\u677e\u6c14<br />\r\n\u63a2\u7d22<br />\r\n\u60ac\u7591<br />\r\n\u9065\u60f3<br />\r\n\u5fc6<br />\r\n\u7fbd\u6bdb<br />\r\n\u96e8\u9732<br />\r\n\u7eb8\u8239<br />\r\n\u6307\u9488\u56de\u6eaf<br />\r\n\u7ec8\u7ed3<br />\r\n\u5760\u843d",
-  "short_description": "Old watch's original soundtrack<br />\r\n<br />\r\nincludeing 29 BGMs and PV in it",
+  "short_description": "Old watch's original soundtrack includeing 29 BGMs and PV in it",
   "fullgame": {
     "appid": "654260",
     "name": "\u65e7\u624b\u8868 - Old Watch"
@@ -33,10 +33,12 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
-    "230504"
+    230504
   ],
   "package_groups": [
     {
@@ -49,7 +51,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "230504",
+          "packageid": 230504,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "\u65e7\u624b\u8868 - \u539f\u58f0\u97f3\u4e50\u96c6 (original soundtrack) - 2,99\u20ac",
@@ -105,5 +107,9 @@
     "url": "",
     "email": "1657310661@qq.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771290/page_bg_generated_v6b.jpg?t=1513774291"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771290/page_bg_generated_v6b.jpg?t=1513774291",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

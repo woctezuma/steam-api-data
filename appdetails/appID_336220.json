@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     55672
@@ -186,6 +188,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Aug, 2015"
@@ -194,5 +199,9 @@
     "url": "http://www.evilaliens.co/",
     "email": "contactevilaliens@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/336220/page_bg_generated_v6b.jpg?t=1502507280"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/336220/page_bg_generated_v6b.jpg?t=1502507280",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

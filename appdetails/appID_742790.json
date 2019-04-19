@@ -15,11 +15,17 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/742790/header.jpg?t=1513877576",
   "website": "http://graviteam.com/games/TWEG.html",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8.1 (64-bit only)<br></li><li><strong>Processor:</strong> AMD FX-8320/Intel Core i3-4160<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon 7570/nVidia GeForce GTX 650 1GB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9 Compatible</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (64-bit only)<br></li><li><strong>Processor:</strong> AMD FX-8350/Intel Core i7-6700<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon R9/nVidia GeForce GTX 970 4GB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9 Compatible</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 8.1 (64-bit only)<br></li><li><strong>Processor:</strong> AMD FX-8320/Intel Core i3-4160<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon 7570/nVidia GeForce GTX 650 1GB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9 Compatible</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit only)<br></li><li><strong>Processor:</strong> AMD FX-8350/Intel Core i7-6700<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon R9/nVidia GeForce GTX 970 4GB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9 Compatible</li></ul>"
   },
-  "mac_requirements": [],
-  "linux_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
   "developers": [
     "Graviteam"
   ],
@@ -30,7 +36,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     217685
@@ -313,6 +321,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/742790/ss_2a7ef3acad877616d82fe11c9578a1497fa1185f.1920x1080.jpg?t=1513877576"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Dec, 2017"
@@ -321,5 +332,12 @@
     "url": "",
     "email": "support@strategyfirst.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/742790/page_bg_generated_v6b.jpg?t=1513877576"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/742790/page_bg_generated_v6b.jpg?t=1513877576",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

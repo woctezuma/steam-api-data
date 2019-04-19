@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     87970
@@ -145,5 +147,9 @@
     "url": "http://omniconnection.net/grimoire/?page_id=19",
     "email": "administration@omniconnection.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/426960/page_bg_generated_v6b.jpg?t=1509023843"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/426960/page_bg_generated_v6b.jpg?t=1509023843",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

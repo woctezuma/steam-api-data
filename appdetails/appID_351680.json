@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     61207
@@ -99,5 +101,9 @@
     "url": "http://www.stateofplaygames.com",
     "email": "mail@stateofplaygames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/351680/page_bg_generated_v6b.jpg?t=1447369520"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/351680/page_bg_generated_v6b.jpg?t=1447369520",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Masterspace is a game about mining, creating and exploring, featuring fully destructible environments and spaceships that allow you to travel between different planets. Use explosives to mine metal ores or watch your newly constructed home get smashed to pieces by a meteorite impact. As you venture into space to discover new planets, the hull integrity of your custom built spaceship will be tested.<br><br>You start out by mining stone and chopping down trees to produce primitive building materials. As the game progresses you will be able to craft more advanced materials and ultimately construct a spaceship. Materials are also used to fabricate a wide range of different objects, ranging from simple furnaces and sawmills, to advanced technological achievements such as laser turrets and deep space sensors.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><strong></strong><li>Fully Destructible planets and Spaceships</li></ul>[/b]Fully destructible environments where planets, buildings and spaceships are completely customizable.<br>[/list]<br> <br><ul class=\"bb_ul\"><strong></strong><li>Explore a Universe Full of Different Planets</li></ul>[/b]Discover new planets with strange lifeforms or planets covered with ice or lava. Spaceships may seamlessly land on all planets without any loading screens.<br>[/list]<br> <br><ul class=\"bb_ul\"><strong></strong><li>Mine Resources, Construct Buildings and Produce Goods</li></ul>[/b]A vast amount of different materials may be used to construct buildings and spaceships or to craft objects.<br>[/list]<br> <br><ul class=\"bb_ul\"><strong></strong><li>Innovative Construction System</li></ul>[/b]A revolutionary hybrid voxel engine allows block-based buildings to be placed on top of smooth, yet fully destructible, terrain.<br>[/list]<br> <br><ul class=\"bb_ul\"><strong></strong><li>Dynamic Liquids</li></ul>[/b]A completely dynamic liquid system allows water to flow freely on the planets. Pumps and pipelines may be constructed to manipulate the water flow.<br>[/list]<br> <br><ul class=\"bb_ul\"><strong></strong><li>Spherical Planets</li></ul>[/b]Playing on spherical planets introduces new challenges and innovative gameplay possibilities.<br>[/list]<br> <br><ul class=\"bb_ul\"><strong></strong><li>Multiplayer Support</li></ul>[/b]Challenge your friends to a space race or invite them to visit your planet. Cooperate to mine resources, complete scenarios or construct the next world wonder.<br>[/list]<br> <br><ul class=\"bb_ul\"><strong></strong><li>Designed for Easy Modding</li></ul>[/b]Designed for easy modding where most aspects of the game may be customized by Lua scripts.<br>[/list]",
   "about_the_game": "Masterspace is a game about mining, creating and exploring, featuring fully destructible environments and spaceships that allow you to travel between different planets. Use explosives to mine metal ores or watch your newly constructed home get smashed to pieces by a meteorite impact. As you venture into space to discover new planets, the hull integrity of your custom built spaceship will be tested.<br><br>You start out by mining stone and chopping down trees to produce primitive building materials. As the game progresses you will be able to craft more advanced materials and ultimately construct a spaceship. Materials are also used to fabricate a wide range of different objects, ranging from simple furnaces and sawmills, to advanced technological achievements such as laser turrets and deep space sensors.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><strong></strong><li>Fully Destructible planets and Spaceships</li></ul>[/b]Fully destructible environments where planets, buildings and spaceships are completely customizable.<br>[/list]<br> <br><ul class=\"bb_ul\"><strong></strong><li>Explore a Universe Full of Different Planets</li></ul>[/b]Discover new planets with strange lifeforms or planets covered with ice or lava. Spaceships may seamlessly land on all planets without any loading screens.<br>[/list]<br> <br><ul class=\"bb_ul\"><strong></strong><li>Mine Resources, Construct Buildings and Produce Goods</li></ul>[/b]A vast amount of different materials may be used to construct buildings and spaceships or to craft objects.<br>[/list]<br> <br><ul class=\"bb_ul\"><strong></strong><li>Innovative Construction System</li></ul>[/b]A revolutionary hybrid voxel engine allows block-based buildings to be placed on top of smooth, yet fully destructible, terrain.<br>[/list]<br> <br><ul class=\"bb_ul\"><strong></strong><li>Dynamic Liquids</li></ul>[/b]A completely dynamic liquid system allows water to flow freely on the planets. Pumps and pipelines may be constructed to manipulate the water flow.<br>[/list]<br> <br><ul class=\"bb_ul\"><strong></strong><li>Spherical Planets</li></ul>[/b]Playing on spherical planets introduces new challenges and innovative gameplay possibilities.<br>[/list]<br> <br><ul class=\"bb_ul\"><strong></strong><li>Multiplayer Support</li></ul>[/b]Challenge your friends to a space race or invite them to visit your planet. Cooperate to mine resources, complete scenarios or construct the next world wonder.<br>[/list]<br> <br><ul class=\"bb_ul\"><strong></strong><li>Designed for Easy Modding</li></ul>[/b]Designed for easy modding where most aspects of the game may be customized by Lua scripts.<br>[/list]",
-  "short_description": "Masterspace is a game about mining, creating and exploring, featuring fully destructible environments and spaceships that allow you to travel between different planets. Use explosives to mine metal ores or watch your newly constructed home get smashed to pieces by a meteorite impact. As you venture into space to discover new planets, the hull integrity of your custom built spaceship will be tested.",
+  "short_description": "Masterspace is a game about mining, creating and exploring, featuring fully destructible environments and spaceships that allow you to travel between different planets. Use explosives to mine metal ores or watch your newly constructed home get smashed to pieces by a meteorite impact.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/282860/header.jpg?t=1447360594",
   "website": "http://www.master-space.com",
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     38943
@@ -163,7 +165,7 @@
     }
   ],
   "recommendations": {
-    "total": 169
+    "total": 132
   },
   "achievements": {
     "total": 11,
@@ -218,5 +220,9 @@
     "url": "http://www.master-space.com",
     "email": "support@master-space.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/282860/page_bg_generated_v6b.jpg?t=1447360594"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/282860/page_bg_generated_v6b.jpg?t=1447360594",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

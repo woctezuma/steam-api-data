@@ -20,7 +20,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2016 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a></a> for more product information.<br><br>Licensed from Legendary Games 2016",
+  "legal_notice": "Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2016 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a> for more product information.<br><br>Licensed from Legendary Games 2016",
   "developers": [
     "SmiteWorks USA, LLC"
   ],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     92264
@@ -108,6 +110,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/438061/ss_834e1bc36feb4ee964fc9a5bae398e8057261d0b.1920x1080.jpg?t=1453741305"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Jan, 2016"
@@ -116,5 +121,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438061/page_bg_generated_v6b.jpg?t=1453741305"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438061/page_bg_generated_v6b.jpg?t=1453741305",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

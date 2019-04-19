@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     210894
@@ -134,6 +136,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Dec, 2017"
@@ -142,5 +147,9 @@
     "url": "bittentoast.com",
     "email": "daniel@bittentoast.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/724980/page_bg_generated_v6b.jpg?t=1514612203"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/724980/page_bg_generated_v6b.jpg?t=1514612203",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

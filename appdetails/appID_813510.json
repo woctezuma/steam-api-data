@@ -12,7 +12,7 @@
     "appid": "598880",
     "name": "Domiverse"
   },
-  "supported_languages": "English, French, German, Spanish",
+  "supported_languages": "English, French, German, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/813510/header.jpg?t=1520438853",
   "website": "https://www.domiverse.be/",
   "pc_requirements": {
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     248578
@@ -115,6 +117,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/813510/ss_68ea9f86ddac110554e2edb93f8972d0f5e02c54.1920x1080.jpg?t=1520438853"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Mar, 2018"
@@ -123,5 +128,9 @@
     "url": "https://hauntedtie.be/",
     "email": "info@hauntedtie.be"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/813510/page_bg_generated_v6b.jpg?t=1520438853"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/813510/page_bg_generated_v6b.jpg?t=1520438853",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

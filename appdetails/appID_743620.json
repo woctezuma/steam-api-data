@@ -4,7 +4,7 @@
   "steam_appid": 743620,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "Train multiple pilots on the same account simultaneously with a Multiple Character Training Certificate.<br />\r\n<br />\r\nMultiple Character Training adds an additional training queue for a second character or extends one that is already activated for a further month.",
+  "detailed_description": "<h1>Steam Created Accounts Only</h1><p><h2 class=\"bb_tag\">This content can only be accessed with EVE Online accounts created through Steam. Existing EVE Online accounts not created through Steam cannot benefit from it.</h2></p><br><h1>About the Game</h1>Train multiple pilots on the same account simultaneously with a Multiple Character Training Certificate.<br><br>Multiple Character Training adds an additional training queue for a second character or extends one that is already activated for a further month.",
   "about_the_game": "Train multiple pilots on the same account simultaneously with a Multiple Character Training Certificate.<br />\r\n<br />\r\nMultiple Character Training adds an additional training queue for a second character or extends one that is already activated for a further month.",
   "short_description": "Train multiple pilots on the same account simultaneously with a Multiple Character Training Certificate.",
   "fullgame": {
@@ -12,7 +12,7 @@
     "name": "EVE Online"
   },
   "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, Russian<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/743620/header.jpg?t=1513171510",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/743620/header.jpg?t=1533724511",
   "website": "http://www.eveonline.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum: </strong><br>\t\t\t\t\t<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8.1 / 10<br>\t\t\t\t\t</li><li><strong>Processor:</strong> Intel Dual Core @ 2.0 GHz, AMD Dual Core @ 2.0 GHz)<br>\t\t\t\t\t</li><li><strong>Memory:</strong> 2 GB<br>\t\t\t\t\t</li><li><strong>Hard Drive:</strong> 20 GB Free Space  <br>\t\t\t\t\t</li><li><strong>Video:</strong> GPU with 256 MB VRAM or more that supports Shader Model 3 and DirectX 9.0c<br>\t\t\t\t\t</li><li><strong>Audio:</strong> Supports SSE, Direct Sound compatible<br>\t\t\t\t\t</li><li><strong>Drivers:</strong> DirectX\u00ae 9.0c (included)<br>\t\t\t\t\t</li><li><strong>Network:</strong> ADSL connection (or faster)</li></ul>",
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1995,
     "final": 1995,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,95\u20ac"
   },
   "packages": [
     217985
@@ -118,10 +120,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/743620/ss_c767177ed7f7679e7fd578f623a0fdbc7f20ad39.600x338.jpg?t=1513171510",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/743620/ss_c767177ed7f7679e7fd578f623a0fdbc7f20ad39.1920x1080.jpg?t=1513171510"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/743620/ss_c767177ed7f7679e7fd578f623a0fdbc7f20ad39.600x338.jpg?t=1533724511",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/743620/ss_c767177ed7f7679e7fd578f623a0fdbc7f20ad39.1920x1080.jpg?t=1533724511"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Dec, 2017"
@@ -130,5 +135,9 @@
     "url": "http://support.eveonline.com",
     "email": "support@eveonline.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/743620/page_bg_generated_v6b.jpg?t=1513171510"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/743620/page_bg_generated_v6b.jpg?t=1533724511",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

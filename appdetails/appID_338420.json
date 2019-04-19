@@ -39,12 +39,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 350,
+    "final": 350,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,50\u20ac"
   },
   "packages": [
-    56388
+    56388,
+    302299
   ],
   "package_groups": [
     {
@@ -60,11 +63,21 @@
           "packageid": 56388,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Alum - 4,99\u20ac",
+          "option_text": "Alum - 3,50\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 350
+        },
+        {
+          "packageid": 302299,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Alum - Commercial License - 3,50\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 350
         }
       ]
     }
@@ -152,9 +165,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 118
-  },
   "achievements": {
     "total": 17,
     "highlighted": [
@@ -208,5 +218,9 @@
     "url": "http://www.crashablestudios.com/",
     "email": "support@crashablestudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/338420/page_bg_generated_v6b.jpg?t=1447778239"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/338420/page_bg_generated_v6b.jpg?t=1447778239",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

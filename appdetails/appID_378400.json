@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     70324
@@ -114,6 +116,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/378400/ss_07963adc7b76420be17cb7c1113024ca3575d276.1920x1080.jpg?t=1475852239"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Jun, 2015"
@@ -122,5 +127,9 @@
     "url": "",
     "email": "thenvlmaker@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/378400/page_bg_generated_v6b.jpg?t=1475852239"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/378400/page_bg_generated_v6b.jpg?t=1475852239",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

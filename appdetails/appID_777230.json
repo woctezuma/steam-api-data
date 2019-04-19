@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "A high-resolution image of the <i>entire</i> layout of <i>Meanwhile</i>. The image is 8640x8640 pixels, available in both JPEG and PNG format. (That's nearly 5 feet square if printed at 150 dpi.)<br><br>Browse the story of <i>Meanwhile</i> as arranged by the author for this app!",
   "about_the_game": "A high-resolution image of the <i>entire</i> layout of <i>Meanwhile</i>. The image is 8640x8640 pixels, available in both JPEG and PNG format. (That's nearly 5 feet square if printed at 150 dpi.)<br><br>Browse the story of <i>Meanwhile</i> as arranged by the author for this app!",
-  "short_description": "A high-resolution image of the <i>entire</i> layout of <i>Meanwhile</i>.",
+  "short_description": "A high-resolution image of the entire layout of Meanwhile.",
   "fullgame": {
     "appid": "714980",
     "name": "Meanwhile: An Interactive Comic Book"
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     233595
@@ -98,5 +100,9 @@
     "url": "http://zarfhome.com/support.html",
     "email": "support@zarfhome.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/777230/page_bg_generated_v6b.jpg?t=1516204410"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/777230/page_bg_generated_v6b.jpg?t=1516204410",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

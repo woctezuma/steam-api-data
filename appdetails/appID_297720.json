@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     43135
@@ -62,7 +64,7 @@
   },
   "metacritic": {
     "score": 49,
-    "url": "http://www.metacritic.com/game/pc/corpse-of-discovery?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/corpse-of-discovery?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -153,7 +155,7 @@
     }
   ],
   "recommendations": {
-    "total": 152
+    "total": 122
   },
   "achievements": {
     "total": 0
@@ -166,5 +168,9 @@
     "url": "www.phosphorgames.com/support",
     "email": "support@phosphorgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/297720/page_bg_generated_v6b.jpg?t=1448038197"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/297720/page_bg_generated_v6b.jpg?t=1448038197",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

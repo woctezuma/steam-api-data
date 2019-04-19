@@ -7,7 +7,7 @@
   "detailed_description": "HOOK is a short minimal, puzzle game that I made after getting a lot of positive feedback about a <br />\r\nprototype that is published on Kongregate.",
   "about_the_game": "HOOK is a short minimal, puzzle game that I made after getting a lot of positive feedback about a <br />\r\nprototype that is published on Kongregate.",
   "short_description": "HOOK is a short minimal, puzzle game.",
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Traditional Chinese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Dutch<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese<strong>*</strong>, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong>, Romanian<strong>*</strong>, Swedish<strong>*</strong>, Thai<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Hungarian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Traditional Chinese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Dutch<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Romanian<strong>*</strong>, Swedish<strong>*</strong>, Thai<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Hungarian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/367580/header.jpg?t=1468254894",
   "website": "http://playthehook.com",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     72493
@@ -127,7 +129,7 @@
     }
   ],
   "recommendations": {
-    "total": 6081
+    "total": 6062
   },
   "achievements": {
     "total": 1,
@@ -146,5 +148,9 @@
     "url": "http://rainbowtrain.eu",
     "email": "maciej@rainbowtrain.eu"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367580/page_bg_generated_v6b.jpg?t=1468254894"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367580/page_bg_generated_v6b.jpg?t=1468254894",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

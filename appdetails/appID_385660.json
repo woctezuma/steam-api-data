@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     72721
@@ -131,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/385660/ss_4e1282a518357e7156268b236c69e4c79ca122cf.1920x1080.jpg?t=1447376997"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Jul, 2015"
@@ -139,5 +144,9 @@
     "url": "http://nyu-media.com",
     "email": "info@nyu-media.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/385660/page_bg_generated_v6b.jpg?t=1447376997"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/385660/page_bg_generated_v6b.jpg?t=1447376997",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

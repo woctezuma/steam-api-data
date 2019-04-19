@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Includes the costume items 'Strawberry &amp; Banana Surprise (Y).'",
   "about_the_game": "Includes the costume items 'Strawberry &amp; Banana Surprise (Y).'",
-  "short_description": "Includes the costume items 'Strawberry &amp; Banana Surprise (Y).'",
+  "short_description": "Includes the costume items 'Strawberry &amp; Banana Surprise (Y).",
   "fullgame": {
     "appid": "446390",
     "name": "Onechanbara Z2: Chaos"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     108099
@@ -109,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/482222/ss_dff5000810760a22c0399c27f0482757cffe321f.1920x1080.jpg?t=1464920022"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Jun, 2016"
@@ -117,5 +122,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/482222/page_bg_generated_v6b.jpg?t=1464920022"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/482222/page_bg_generated_v6b.jpg?t=1464920022",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     53669
@@ -169,5 +171,9 @@
     "url": "https://www.facebook.com/redemptiononline4steam",
     "email": "steam@movegames.co.kr"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/330880/page_bg_generated_v6b.jpg?t=1484656028"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/330880/page_bg_generated_v6b.jpg?t=1484656028",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

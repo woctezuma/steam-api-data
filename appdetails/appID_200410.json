@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     13311
@@ -68,7 +70,7 @@
   },
   "metacritic": {
     "score": 57,
-    "url": "http://www.metacritic.com/game/pc/sol-exodus?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/sol-exodus?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -245,5 +247,9 @@
     "url": "http://www.SOLExodus.com/support",
     "email": "support@bitplanetgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/200410/page_bg_generated_v6b.jpg?t=1447354658"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/200410/page_bg_generated_v6b.jpg?t=1447354658",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

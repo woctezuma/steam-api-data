@@ -12,14 +12,14 @@
     "appid": "487350",
     "name": "Pirate Pop Plus"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Japanese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/534030/header.jpg?t=1478551665",
   "website": "http://piratepopplus.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2+</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP SP2+</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.8+</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OS X 10.8+</li></ul>"
   },
   "linux_requirements": [],
   "legal_notice": "\u00a92016 dadako,<br />\r\nLicensed by 13AM Shipping Solutions Inc.<br />\r\nPublished by 13AM Games Inc.",
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     129465
@@ -121,5 +123,9 @@
     "url": "http://www.13amgames.com/contact/",
     "email": "contact@13amgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/534030/page_bg_generated_v6b.jpg?t=1478551665"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/534030/page_bg_generated_v6b.jpg?t=1478551665",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -23,10 +23,12 @@
     "Playing With Matches"
   ],
   "price_overview": {
-    "currency": "USD",
+    "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     123992
@@ -45,7 +47,7 @@
           "packageid": 123992,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Quick Draw - $9.99",
+          "option_text": "Quick Draw - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -149,11 +151,15 @@
   },
   "release_date": {
     "coming_soon": false,
-    "date": "Jan 10, 2017"
+    "date": "10 Jan, 2017"
   },
   "support_info": {
     "url": "https://pwmgames.com/contact-us",
     "email": "support@pwmgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/522250/page_bg_generated_v6b.jpg?t=1485845621"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/522250/page_bg_generated_v6b.jpg?t=1485845621",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

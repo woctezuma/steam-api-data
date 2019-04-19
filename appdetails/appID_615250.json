@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Your mission: colonize new worlds on distant planets. As the Mission Commander, you and the Mechanized Assault &amp; Exploration (M.A.X.) force under your command are the first ones in. Mining stations, power plants, tactical combat vehicle factories, habitats \u2013 it's up to you to plan and construct them. <br><br>The entire new colony? You create it. The resources you find there? Control them. Enemies? Crush 'em! And there will be enemies. You're not the only Mission Commander trying to colonize the planets. You'll have to push yourself to the limit to survive the ultimate showdown in strategic warfare. It's espionage, heavy artillery, offensives, counter offensives and intelligence \u2013 all with maximum consequences. <br><br>At its core, M.A.X. is about resource-gathering, building, and tactical combat. The game offers more than 50 land, sea, and air units, most of which can be upgraded to improve their armor, speed, and range. You can play as one of eight different factions with different advantages for each one. <br><br><ul class=\"bb_ul\"><li>A level of complexity unseen in contemporary strategy games<br></li><li>Choose either simultaneous or turn-based game mode to fit your personal preference<br></li><li>Play as one of 8 human clans and use dozens upon dozens of land, sea and air units</li></ul>",
   "about_the_game": "Your mission: colonize new worlds on distant planets. As the Mission Commander, you and the Mechanized Assault &amp; Exploration (M.A.X.) force under your command are the first ones in. Mining stations, power plants, tactical combat vehicle factories, habitats \u2013 it's up to you to plan and construct them. <br><br>The entire new colony? You create it. The resources you find there? Control them. Enemies? Crush 'em! And there will be enemies. You're not the only Mission Commander trying to colonize the planets. You'll have to push yourself to the limit to survive the ultimate showdown in strategic warfare. It's espionage, heavy artillery, offensives, counter offensives and intelligence \u2013 all with maximum consequences. <br><br>At its core, M.A.X. is about resource-gathering, building, and tactical combat. The game offers more than 50 land, sea, and air units, most of which can be upgraded to improve their armor, speed, and range. You can play as one of eight different factions with different advantages for each one. <br><br><ul class=\"bb_ul\"><li>A level of complexity unseen in contemporary strategy games<br></li><li>Choose either simultaneous or turn-based game mode to fit your personal preference<br></li><li>Play as one of 8 human clans and use dozens upon dozens of land, sea and air units</li></ul>",
-  "short_description": "<ul class=\"bb_ul\"><li>A level of complexity unseen in contemporary strategy games<br></li><li>Choose either simultaneous or turn-based game mode to fit your personal preference<br></li><li>Play as one of 8 human clans and use dozens upon dozens of land, sea and air units</li></ul>",
+  "short_description": "A level of complexity unseen in contemporary strategy gamesChoose either simultaneous or turn-based game mode to fit your personal preferencePlay as one of 8 human clans and use dozens upon dozens of land, sea and air units",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/615250/header.jpg?t=1491597302",
   "website": "http://www.interplay.com",
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 699,
+    "discount_percent": 30,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     164925
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 164925,
-          "percent_savings_text": "",
+          "percent_savings_text": "-30%",
           "percent_savings": 0,
-          "option_text": "M.A.X.: Mechanized Assault & Exploration - 9,99\u20ac",
+          "option_text": "M.A.X.: Mechanized Assault & Exploration - <span class=\"discount_original_price\">9,99\u20ac</span> 6,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 699
         }
       ]
     }
@@ -142,6 +144,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Apr, 2017"
@@ -150,5 +155,9 @@
     "url": "http://interplay.com/support/customer_service.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/615250/page_bg_generated_v6b.jpg?t=1491597302"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/615250/page_bg_generated_v6b.jpg?t=1491597302",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

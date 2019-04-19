@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     222929
@@ -190,5 +192,9 @@
     "url": "",
     "email": "contact.trgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/756100/page_bg_generated_v6b.jpg?t=1515248248"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/756100/page_bg_generated_v6b.jpg?t=1515248248",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

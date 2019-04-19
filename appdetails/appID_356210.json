@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     62921
@@ -67,7 +69,7 @@
   },
   "metacritic": {
     "score": 68,
-    "url": "http://www.metacritic.com/game/pc/tony-tough-and-the-night-of-roasted-moths?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/tony-tough-and-the-night-of-roasted-moths?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -153,6 +155,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 May, 2015"
@@ -161,5 +166,9 @@
     "url": "http://www.nightdivestudios.com/?utm_source=steampowered.com&amp;utm_medium=product&amp;utm_campaign=support%20-%20tony%20tough",
     "email": "daniel@nightdivestudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/356210/page_bg_generated_v6b.jpg?t=1515205318"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/356210/page_bg_generated_v6b.jpg?t=1515205318",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

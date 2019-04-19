@@ -7,7 +7,7 @@
   "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/370160/extras/frontwarslogo500.png?t=1467671381\" ><br><br><strong>Front Wars</strong> is a turn-based strategy game. Revive the great battles of the second world war in a tense campaign, or challenge a friend online.<br><br>The two armies take turns building and commanding units on a grid-based map. The objective is to defeat the enemy army. There are two ways to defeat an opponent: destroy every one of the opponent's units on the map or capture the opponent's headquarters. The terrain on a map affects unit range of movements and the defense attributes of units stationed in that terrain. Capturing cities and enemy buildings will give the player new fundings at the beginning of each turn, with which the player can create a variety of new units (soldiers, tanks, planes, ships...) to gain power over his opponent.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li> 2 Single Player Campaigns<br></li><li> 41 Missions<br></li><li> 18 different Units : Soldiers, Tanks, Planes, Ships...<br></li><li> 3 difficulty levels<br></li><li> Turn-based multiplayer</li></ul><h2 class=\"bb_tag\">Work in progress:</h2><ul class=\"bb_ul\"><li> Map Editor<br></li><li> Map Sharing system</li></ul>",
   "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/370160/extras/frontwarslogo500.png?t=1467671381\" ><br><br><strong>Front Wars</strong> is a turn-based strategy game. Revive the great battles of the second world war in a tense campaign, or challenge a friend online.<br><br>The two armies take turns building and commanding units on a grid-based map. The objective is to defeat the enemy army. There are two ways to defeat an opponent: destroy every one of the opponent's units on the map or capture the opponent's headquarters. The terrain on a map affects unit range of movements and the defense attributes of units stationed in that terrain. Capturing cities and enemy buildings will give the player new fundings at the beginning of each turn, with which the player can create a variety of new units (soldiers, tanks, planes, ships...) to gain power over his opponent.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li> 2 Single Player Campaigns<br></li><li> 41 Missions<br></li><li> 18 different Units : Soldiers, Tanks, Planes, Ships...<br></li><li> 3 difficulty levels<br></li><li> Turn-based multiplayer</li></ul><h2 class=\"bb_tag\">Work in progress:</h2><ul class=\"bb_ul\"><li> Map Editor<br></li><li> Map Sharing system</li></ul>",
   "short_description": "Front Wars is a turn-based strategy game. Take control of allied troops and revive the great battles of the second world war in a tense campaign against the german army, or you can challenge your friends online.",
-  "supported_languages": "English, French, Italian, German, Spanish, Dutch, Greek, Japanese, Portuguese, Russian, Simplified Chinese, Traditional Chinese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Greek, Japanese, Portuguese, Russian, Simplified Chinese, Traditional Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/370160/header.jpg?t=1467671381",
   "website": "http://www.homemade-games.com/",
   "pc_requirements": {
@@ -25,10 +25,12 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
-    "67630"
+    67630
   ],
   "package_groups": [
     {
@@ -41,7 +43,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "67630",
+          "packageid": 67630,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Front Wars - 6,99\u20ac",
@@ -145,6 +147,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Aug, 2015"
@@ -153,5 +158,9 @@
     "url": "http://www.homemade-games.com/",
     "email": "support@homemade-games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/370160/page_bg_generated_v6b.jpg?t=1467671381"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/370160/page_bg_generated_v6b.jpg?t=1467671381",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

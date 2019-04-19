@@ -12,7 +12,7 @@
     "appid": "435530",
     "name": "The Final Station"
   },
-  "supported_languages": "English, Russian, Italian, German, Spanish, Polish, Portuguese, Portuguese-Brazil, French, Simplified Chinese",
+  "supported_languages": "English, Russian, Italian, German, Spanish - Spain, Polish, Portuguese, Portuguese - Brazil, French, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/595290/header.jpg?t=1492620072",
   "website": "http://thefinalstation.com",
   "pc_requirements": {
@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     155481
@@ -175,6 +177,9 @@
   "recommendations": {
     "total": 146
   },
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Apr, 2017"
@@ -183,5 +188,9 @@
     "url": "http://tinybuild.com",
     "email": "contact@tinybuildgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/595290/page_bg_generated_v6b.jpg?t=1492620072"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/595290/page_bg_generated_v6b.jpg?t=1492620072",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

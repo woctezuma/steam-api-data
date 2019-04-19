@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     192614
@@ -112,6 +114,51 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 20,
+    "highlighted": [
+      {
+        "name": "On a roll",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/675950/85e11a120aa97a62fb7641eb5669cd87f0b69b97.jpg"
+      },
+      {
+        "name": "Courage under fire",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/675950/cbc1f8d3068fdf6b2728c2fed2d5aeff150236b5.jpg"
+      },
+      {
+        "name": "True Grit",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/675950/107427971da8f044cd34b39f9d9fc3f0db1a3534.jpg"
+      },
+      {
+        "name": "Hard to beat",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/675950/c003c7159bd4f1e96b66dab0be8f92fb5cfcbe73.jpg"
+      },
+      {
+        "name": "Hard as nails",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/675950/3e11f1f44c8c85c25a5503d93e7cb59cb3dbdc94.jpg"
+      },
+      {
+        "name": "Take the hard road",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/675950/098dd6a92b8abea2b88a2648244de2fdc98d12fd.jpg"
+      },
+      {
+        "name": "Basic Training",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/675950/6beec5f5d57eb7f6824e6a5d42b82df278bb5463.jpg"
+      },
+      {
+        "name": "British Invasion",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/675950/276dc332ab234bcf25fab0b5cd2e10ebb0bbd61d.jpg"
+      },
+      {
+        "name": "French Invasion",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/675950/92c8fd7bd3bfb9a69aae5ff974c32b004ff97c7b.jpg"
+      },
+      {
+        "name": "British Assault",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/675950/293a99b1eac78d71d3ce72dfbae477eeed4fc044.jpg"
+      }
+    ]
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Sep, 2017"
@@ -120,5 +167,9 @@
     "url": "",
     "email": "support@hexwar.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/675950/page_bg_generated_v6b.jpg?t=1504250810"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/675950/page_bg_generated_v6b.jpg?t=1504250810",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

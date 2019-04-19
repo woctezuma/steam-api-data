@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Grimm episode 11 - King Midas",
   "about_the_game": "Grimm episode 11 - King Midas",
-  "short_description": "",
+  "short_description": "Grimm episode 11 - King Midas",
   "fullgame": {
     "appid": "252150",
     "name": "Grimm"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     33714,
@@ -141,5 +143,9 @@
     "url": "http://support.spicyhorse.com",
     "email": "support@spicyhorsegames.zendesk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261400/page_bg_generated_v6b.jpg?t=1447359311"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261400/page_bg_generated_v6b.jpg?t=1447359311",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

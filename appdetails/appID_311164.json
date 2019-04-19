@@ -12,7 +12,7 @@
     "name": "Warface"
   },
   "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/311164/header.jpg?t=1492716211",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/311164/header.jpg?t=1548788094",
   "website": "https://wf.my.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, Windows 7, Windows 8<br></li><li><strong>Processor:</strong> Intel Dual-Core 2 GHz or AMD Dual-Core 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8600 or AMD ATI Radeon 3650<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>",
@@ -20,9 +20,9 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "\u00a9 2017 Crytek GmbH ('Crytek'). Published by My.com B.V. All rights reserved. All trademarks are the property of their respective owners.",
+  "legal_notice": "\u00a9 2017-2018 Mail.Ru LLC. Published by My.com B.V. All rights reserved. All trademarks are the property of their respective owners.",
   "developers": [
-    "Crytek"
+    "My.com"
   ],
   "publishers": [
     "My.com"
@@ -39,8 +39,16 @@
       "description": "Multi-player"
     },
     {
+      "id": 36,
+      "description": "Online Multi-Player"
+    },
+    {
       "id": 9,
       "description": "Co-op"
+    },
+    {
+      "id": 38,
+      "description": "Online Co-op"
     },
     {
       "id": 21,
@@ -63,30 +71,37 @@
     {
       "id": "37",
       "description": "Free to Play"
+    },
+    {
+      "id": "29",
+      "description": "Massively Multiplayer"
     }
   ],
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_ef3f5f353fe04034371a8e123d37e7f7125291c7.600x338.jpg?t=1492716211",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_ef3f5f353fe04034371a8e123d37e7f7125291c7.1920x1080.jpg?t=1492716211"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_ef3f5f353fe04034371a8e123d37e7f7125291c7.600x338.jpg?t=1548788094",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_ef3f5f353fe04034371a8e123d37e7f7125291c7.1920x1080.jpg?t=1548788094"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_2ff07ba6f629453b9d9d10313ceed0933956cc7e.600x338.jpg?t=1492716211",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_2ff07ba6f629453b9d9d10313ceed0933956cc7e.1920x1080.jpg?t=1492716211"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_2ff07ba6f629453b9d9d10313ceed0933956cc7e.600x338.jpg?t=1548788094",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_2ff07ba6f629453b9d9d10313ceed0933956cc7e.1920x1080.jpg?t=1548788094"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_9f481a2c45dc80cc8878248cf68f1ed1587d882c.600x338.jpg?t=1492716211",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_9f481a2c45dc80cc8878248cf68f1ed1587d882c.1920x1080.jpg?t=1492716211"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_9f481a2c45dc80cc8878248cf68f1ed1587d882c.600x338.jpg?t=1548788094",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_9f481a2c45dc80cc8878248cf68f1ed1587d882c.1920x1080.jpg?t=1548788094"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_2149aa60520c2faaf20ab771788d15ee3edb9d5b.600x338.jpg?t=1492716211",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_2149aa60520c2faaf20ab771788d15ee3edb9d5b.1920x1080.jpg?t=1492716211"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_2149aa60520c2faaf20ab771788d15ee3edb9d5b.600x338.jpg?t=1548788094",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311164/ss_2149aa60520c2faaf20ab771788d15ee3edb9d5b.1920x1080.jpg?t=1548788094"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Dec, 2014"
@@ -95,5 +110,9 @@
     "url": "http://support.my.com/games/kb/WF",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/311164/page_bg_generated_v6b.jpg?t=1492716211"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/311164/page_bg_generated_v6b.jpg?t=1548788094",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

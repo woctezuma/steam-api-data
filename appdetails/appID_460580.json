@@ -6,8 +6,8 @@
   "is_free": false,
   "detailed_description": "Step into your very own Virtual Reality Planetarium! Star Chart lets you explore the solar system and night sky in a beautiful and accurate real-time simulation.<br />\r\n<br />\r\n*** Star Chart supports VR through the Vive or Oculus Rift, while regular desktop use is also supported ***<br />\r\n<br />\r\nWe're proud to bring to you the hugely successful astronomy &amp; star gazing app - Star Chart - downloaded by over 20 million people world-wide.<br />\r\n<br />\r\nDelight in exploring the solar system, from the Sun to the smallest moons of Saturn and out to the coldest, darkest, farthest reaches of Pluto. Gaze down and marvel at our solar system from above. Look up in wonder at the rings of Saturn. Feel the awe of floating in space around worlds no human has yet set foot on. Understand how the constellations of our night sky are made up of stars distant to each other in both space and time. Embrace the impossible distances of our solar system and the inordinate scale of our universe.<br />\r\n<br />\r\nStar Chart currently includes:<br />\r\n- An accurate real-time simulation of the visible stars and planets as you see them from Earth<br />\r\n- A 3D solar system to explore, including the Sun, the planets, major moons and more<br />\r\n- A Sky View mode that recreates your view of the night sky from your own GPS coordinates <br />\r\n- All 88 constellations based on the beautiful artwork of 17th century astronomer Johannes Hevelius<br />\r\n- IAU Named rocky planet surface details.<br />\r\n<br />\r\nWhat better way to learn about the night sky and astronomy than to immerse yourself as a virtual astronaut travelling through space. This experience is the perfect way for both the young and old to let their inner child experience the thrills of embracing the final frontier.<br />\r\n<br />\r\nPlease NOTE:<br />\r\n- Star Chart requires hardware to be viewed in Virtual Reality - ie either a Vive or Oculus Rift.<br />\r\n- Written from the ground up for Virtual Reality, this version of Star Chart is in many ways a superior product to that on iOS / Android / Windows 8 and more. But please do not expect full feature parity yet. We will continue to develop and enhance Star Chart over time, and we hope that soon Star Chart will reach parity with our other versions. But please note that there are no promises as to which features we will include nor when.<br />\r\n<br />\r\nFeel free to provide us with your thoughts, feedback and feature requests. And for help using Star Chart in VR please see the Virtual Reality section of our Star Chart User Guide: www.escapistgames.com/starchart/instruction_manual.html",
   "about_the_game": "Step into your very own Virtual Reality Planetarium! Star Chart lets you explore the solar system and night sky in a beautiful and accurate real-time simulation.<br />\r\n<br />\r\n*** Star Chart supports VR through the Vive or Oculus Rift, while regular desktop use is also supported ***<br />\r\n<br />\r\nWe're proud to bring to you the hugely successful astronomy &amp; star gazing app - Star Chart - downloaded by over 20 million people world-wide.<br />\r\n<br />\r\nDelight in exploring the solar system, from the Sun to the smallest moons of Saturn and out to the coldest, darkest, farthest reaches of Pluto. Gaze down and marvel at our solar system from above. Look up in wonder at the rings of Saturn. Feel the awe of floating in space around worlds no human has yet set foot on. Understand how the constellations of our night sky are made up of stars distant to each other in both space and time. Embrace the impossible distances of our solar system and the inordinate scale of our universe.<br />\r\n<br />\r\nStar Chart currently includes:<br />\r\n- An accurate real-time simulation of the visible stars and planets as you see them from Earth<br />\r\n- A 3D solar system to explore, including the Sun, the planets, major moons and more<br />\r\n- A Sky View mode that recreates your view of the night sky from your own GPS coordinates <br />\r\n- All 88 constellations based on the beautiful artwork of 17th century astronomer Johannes Hevelius<br />\r\n- IAU Named rocky planet surface details.<br />\r\n<br />\r\nWhat better way to learn about the night sky and astronomy than to immerse yourself as a virtual astronaut travelling through space. This experience is the perfect way for both the young and old to let their inner child experience the thrills of embracing the final frontier.<br />\r\n<br />\r\nPlease NOTE:<br />\r\n- Star Chart requires hardware to be viewed in Virtual Reality - ie either a Vive or Oculus Rift.<br />\r\n- Written from the ground up for Virtual Reality, this version of Star Chart is in many ways a superior product to that on iOS / Android / Windows 8 and more. But please do not expect full feature parity yet. We will continue to develop and enhance Star Chart over time, and we hope that soon Star Chart will reach parity with our other versions. But please note that there are no promises as to which features we will include nor when.<br />\r\n<br />\r\nFeel free to provide us with your thoughts, feedback and feature requests. And for help using Star Chart in VR please see the Virtual Reality section of our Star Chart User Guide: www.escapistgames.com/starchart/instruction_manual.html",
-  "short_description": "Star Chart is the ultimate Virtual Reality experience: your very own Planetarium! Explore the solar system and night sky in a beautiful and accurate real-time simulation. <i>Support for non-VR devices included</i>",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Danish, Japanese, Korean, Norwegian, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "short_description": "Star Chart is the ultimate Virtual Reality experience: your very own Planetarium! Explore the solar system and night sky in a beautiful and accurate real-time simulation.",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Danish, Japanese, Korean, Norwegian, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/460580/header.jpg?t=1473076837",
   "website": "http://www.starchart.info",
   "pc_requirements": {
@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 649,
-    "discount_percent": 35
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     100367
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 100367,
-          "percent_savings_text": "-35%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Star Chart - <span class=\"discount_original_price\">9,99\u20ac</span> 6,49\u20ac",
+          "option_text": "Star Chart - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 649
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -209,6 +211,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Sep, 2016"
@@ -217,5 +222,9 @@
     "url": "sites.google.com/site/starchartuserguide/",
     "email": "sc@escapistgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/460580/page_bg_generated_v6b.jpg?t=1473076837"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/460580/page_bg_generated_v6b.jpg?t=1473076837",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

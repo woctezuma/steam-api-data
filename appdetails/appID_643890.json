@@ -8,13 +8,17 @@
   "about_the_game": "Chess game with advanced artificial intellect of player's opponent in 3D environment. Main feature is smart artificial intellect, which can give you hard work for win!<br />\r\n<br />\r\nFeatures:<br />\r\n- 6 levels of AI's strength<br />\r\n- Action in full 3D environment <br />\r\n- Eye-catching graphics<br />\r\n- Controllable camera <br />\r\n- &quot;Undo turn&quot; function",
   "short_description": "Chess game with advanced artificial intellect of player's opponent in 3D environment. Main feature is smart artificial intellect, which can give you hard work for win!",
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/643890/header.jpg?t=1496483406",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/643890/header.jpg?t=1528300655",
   "website": "https://www.facebook.com/Atriagames",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Processor 1.6 Ghz or better<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> Graphical Card with 512 megabytes of video memory and support of DirectX 9.0.<br></li><li><strong>Storage:</strong> 120 MB available space<br></li><li><strong>Sound Card:</strong> Integrated Audio</li></ul>"
   },
-  "mac_requirements": [],
-  "linux_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> \u041e\u0421: Mac OS X 10.9+<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> GPU with 512 mb of Video Memory and OpenGL 4.1, SM 4.0 support<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Additional Notes:</strong> Reflections can be not supported and if visual artifacts occured, reflections must be disabled on game options</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> \u041e\u0421: Ubunty 12.04+, SteamOS+<br></li><li><strong>Processor:</strong> Intel Pentium 2.9 Ghz \u0438\u043b\u0438 \u0430\u043d\u0430\u043b\u043e\u0433\u0438\u0447\u043d\u044b\u0439<br></li><li><strong>Memory:</strong> 512 GB RAM<br></li><li><strong>Graphics:</strong> GPU with 512 mb of Video Memory and OpenGL 4.1, SM 4.0 support<br></li><li><strong>Storage:</strong> 120 MB available space<br></li><li><strong>Additional Notes:</strong> Reflections can be not supported and if visual artifacts occured, reflections must be disabled on game options</li></ul>"
+  },
   "developers": [
     "Flying. Stone. Production"
   ],
@@ -25,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     180742
@@ -55,8 +61,8 @@
   ],
   "platforms": {
     "windows": true,
-    "mac": false,
-    "linux": false
+    "mac": true,
+    "linux": true
   },
   "genres": [
     {
@@ -71,33 +77,33 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_4e08fdb6fd568e81a735d49c14bd1748e89f08e1.600x338.jpg?t=1496483406",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_4e08fdb6fd568e81a735d49c14bd1748e89f08e1.1920x1080.jpg?t=1496483406"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_4e08fdb6fd568e81a735d49c14bd1748e89f08e1.600x338.jpg?t=1528300655",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_4e08fdb6fd568e81a735d49c14bd1748e89f08e1.1920x1080.jpg?t=1528300655"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_2c4ac42c4438348e792982aee49a929da63499a7.600x338.jpg?t=1496483406",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_2c4ac42c4438348e792982aee49a929da63499a7.1920x1080.jpg?t=1496483406"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_2c4ac42c4438348e792982aee49a929da63499a7.600x338.jpg?t=1528300655",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_2c4ac42c4438348e792982aee49a929da63499a7.1920x1080.jpg?t=1528300655"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_5e7c32a1498030004fc9406fcf4f41876eba6510.600x338.jpg?t=1496483406",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_5e7c32a1498030004fc9406fcf4f41876eba6510.1920x1080.jpg?t=1496483406"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_5e7c32a1498030004fc9406fcf4f41876eba6510.600x338.jpg?t=1528300655",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_5e7c32a1498030004fc9406fcf4f41876eba6510.1920x1080.jpg?t=1528300655"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_e4b99f644e5fc7869c1ad7ce108757fe7392dc15.600x338.jpg?t=1496483406",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_e4b99f644e5fc7869c1ad7ce108757fe7392dc15.1920x1080.jpg?t=1496483406"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_e4b99f644e5fc7869c1ad7ce108757fe7392dc15.600x338.jpg?t=1528300655",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_e4b99f644e5fc7869c1ad7ce108757fe7392dc15.1920x1080.jpg?t=1528300655"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_db0ca910111be19139008681f001ddc00226ba08.600x338.jpg?t=1496483406",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_db0ca910111be19139008681f001ddc00226ba08.1920x1080.jpg?t=1496483406"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_db0ca910111be19139008681f001ddc00226ba08.600x338.jpg?t=1528300655",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_db0ca910111be19139008681f001ddc00226ba08.1920x1080.jpg?t=1528300655"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_62707e9e71a851737a9031f330b113dcbe9d87bd.600x338.jpg?t=1496483406",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_62707e9e71a851737a9031f330b113dcbe9d87bd.1920x1080.jpg?t=1496483406"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_62707e9e71a851737a9031f330b113dcbe9d87bd.600x338.jpg?t=1528300655",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/643890/ss_62707e9e71a851737a9031f330b113dcbe9d87bd.1920x1080.jpg?t=1528300655"
     }
   ],
   "movies": [
@@ -112,6 +118,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 May, 2017"
@@ -120,5 +129,9 @@
     "url": "http://steamcommunity.com/groups/Atriagames",
     "email": "xdgonx@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/643890/page_bg_generated_v6b.jpg?t=1496483406"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/643890/page_bg_generated_v6b.jpg?t=1528300655",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

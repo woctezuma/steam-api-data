@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The Hawk Support Ship is a fast fighter that can clamp onto any ship large enough to tow it around. If you are a new player, do NOT buy this ship until you've played the game long enough to be absolutely sure you want it. This ship is not required for play and its main use is for owners of large colonies.<br />\r\n<br />\r\nSupport ships are sold to support more development, artwork, and hopefully some UI work on the game.",
   "about_the_game": "The Hawk Support Ship is a fast fighter that can clamp onto any ship large enough to tow it around. If you are a new player, do NOT buy this ship until you've played the game long enough to be absolutely sure you want it. This ship is not required for play and its main use is for owners of large colonies.<br />\r\n<br />\r\nSupport ships are sold to support more development, artwork, and hopefully some UI work on the game.",
-  "short_description": "The Hawk Support Ship is a fast fighter that can clamp onto any ship large enough to tow it around. If you are a new player, do NOT buy this ship until you've played the game long enough to be absolutely sure you want it. This ship is not required for play and its main use is for owners of large colonies.<br />\r\n<br />\r\nSupport ships are sold to support more development, artwork, and hopefully some UI work on the game.",
+  "short_description": "The Hawk Support Ship is a fast fighter that can clamp onto any ship large enough to tow it around. If you are a new player, do NOT buy this ship until you've played the game long enough to be absolutely sure you want it. This ship is not required for play and its main use is for owners of large colonies.",
   "fullgame": {
     "appid": "345010",
     "name": "Ascent - The Space Game"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 2299,
     "final": 2299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "22,99\u20ac"
   },
   "packages": [
     74870
@@ -114,5 +116,9 @@
     "url": "http://forum.thespacegame.com",
     "email": "support@fluffykittenstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/391840/page_bg_generated_v6b.jpg?t=1447377379"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/391840/page_bg_generated_v6b.jpg?t=1447377379",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

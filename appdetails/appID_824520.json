@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 130,
+    "final": 130,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,30\u20ac"
   },
   "packages": [
     253135
@@ -45,11 +47,11 @@
           "packageid": 253135,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Nobody Knows - 1,99\u20ac",
+          "option_text": "Nobody Knows - 1,30\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 130
         }
       ]
     }
@@ -147,5 +149,12 @@
     "url": "https://rpg.blue/home.php?mod=space&amp;uid=2676330",
     "email": "http://widlprophecy@163.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/824520/page_bg_generated_v6b.jpg?t=1522749767"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/824520/page_bg_generated_v6b.jpg?t=1522749767",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 1099,
     "final": 1099,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,99\u20ac"
   },
   "packages": [
     69646
@@ -152,6 +154,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Aug, 2015"
@@ -160,5 +165,9 @@
     "url": "http://www.dddwares.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/376130/page_bg_generated_v6b.jpg?t=1479307855"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/376130/page_bg_generated_v6b.jpg?t=1479307855",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

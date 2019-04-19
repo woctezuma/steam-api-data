@@ -6,8 +6,8 @@
   "is_free": false,
   "detailed_description": "Zaki&amp;Mia stole all the mails and spread them all over the worlds !<br />\r\nHelp Maria to bring them back to their owners !<br />\r\nShe is an amateur,and she still needs a lot of practice to master her broom !<br />\r\nIt will not be easy ! but she has to do what she has to do !<br />\r\n<br />\r\nA fantastic adventure and addictive game !<br />\r\ntry and retry , to control her clumsy broom and travel through many different magical worlds<br />\r\nCross the magical portals and face funny cute evil enemies !<br />\r\nLocate and get coins to buy checkpoints<br />\r\nMany different items help you to get coins and mails !<br />\r\n<br />\r\n-The Hourglass !!! you can back in time and retry without loosing items or restart from checkpoints !!<br />\r\n<br />\r\n-The Chest avoids you to lose catched items<br />\r\n<br />\r\n-The Compass locates the items<br />\r\n<br />\r\n-The Magnet attracts far items<br />\r\n<br />\r\nComplete the different tasks into each level, to get all the 3 Stars !",
   "about_the_game": "Zaki&amp;Mia stole all the mails and spread them all over the worlds !<br />\r\nHelp Maria to bring them back to their owners !<br />\r\nShe is an amateur,and she still needs a lot of practice to master her broom !<br />\r\nIt will not be easy ! but she has to do what she has to do !<br />\r\n<br />\r\nA fantastic adventure and addictive game !<br />\r\ntry and retry , to control her clumsy broom and travel through many different magical worlds<br />\r\nCross the magical portals and face funny cute evil enemies !<br />\r\nLocate and get coins to buy checkpoints<br />\r\nMany different items help you to get coins and mails !<br />\r\n<br />\r\n-The Hourglass !!! you can back in time and retry without loosing items or restart from checkpoints !!<br />\r\n<br />\r\n-The Chest avoids you to lose catched items<br />\r\n<br />\r\n-The Compass locates the items<br />\r\n<br />\r\n-The Magnet attracts far items<br />\r\n<br />\r\nComplete the different tasks into each level, to get all the 3 Stars !",
-  "short_description": "Zaki&amp;Mia stole all the mails and spread them all over the worlds !<br />\r\nHelp Maria to bring them back to their owners !",
-  "supported_languages": "English<strong>*</strong>, Italian, French, German, Spanish<br><strong>*</strong>languages with full audio support",
+  "short_description": "Zaki&amp;Mia stole all the mails and spread them all over the worlds ! Help Maria to bring them back to their owners !",
+  "supported_languages": "English<strong>*</strong>, Italian, French, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/447860/header.jpg?t=1490958534",
   "website": "https://www.facebook.com/mariathewitch/",
   "pc_requirements": {
@@ -26,11 +26,14 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 49,
-    "discount_percent": 90
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    95798
+    95798,
+    237790
   ],
   "package_groups": [
     {
@@ -44,13 +47,23 @@
       "subs": [
         {
           "packageid": 95798,
-          "percent_savings_text": "-90%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Maria the Witch - <span class=\"discount_original_price\">4,99\u20ac</span> 0,49\u20ac",
+          "option_text": "Maria the Witch - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 49
+          "price_in_cents_with_discount": 499
+        },
+        {
+          "packageid": 237790,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Maria the Witch - Commercial License - 4,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -192,5 +205,9 @@
     "url": "www.napsteam.com",
     "email": "info@napsteam.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447860/page_bg_generated_v6b.jpg?t=1490958534"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447860/page_bg_generated_v6b.jpg?t=1490958534",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     205790
@@ -98,6 +100,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/711630/ss_963f588b75b6e578e8bf434fbb4ef6481f8a209d.1920x1080.jpg?t=1506532049"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Sep, 2017"
@@ -106,5 +111,9 @@
     "url": "",
     "email": "eveslangame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/711630/page_bg_generated_v6b.jpg?t=1506532049"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/711630/page_bg_generated_v6b.jpg?t=1506532049",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

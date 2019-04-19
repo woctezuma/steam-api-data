@@ -12,7 +12,7 @@
     "appid": "215530",
     "name": "The Incredible Adventures of Van Helsing"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Czech, Hungarian, Polish, Portuguese, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Czech, Hungarian, Polish, Portuguese, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/215533/header.jpg?t=1507544159",
   "website": "http://www.neocoregames.com/games/the-incredible-adventures-of-van-helsing/overview/",
   "pc_requirements": {
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     130644
@@ -159,6 +161,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/215533/ss_ef6c8fd30dc36a9314fd3e7e5e248a354c3b5648.1920x1080.jpg?t=1507544159"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Oct, 2016"
@@ -167,5 +172,9 @@
     "url": "http://forum.neocoregames.com/index.php?/forum/8-bug-reporting-and-issues/",
     "email": "support@neocoregames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/215533/page_bg_generated_v6b.jpg?t=1507544159"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/215533/page_bg_generated_v6b.jpg?t=1507544159",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

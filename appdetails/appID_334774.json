@@ -11,7 +11,7 @@
     "appid": "234630",
     "name": "Project CARS"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Polish, Portuguese-Brazil, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/334774/header.jpg?t=1447365370",
   "website": "http://www.projectcarsgame.com/",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 349,
     "final": 349,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,49\u20ac"
   },
   "packages": [
     55201
@@ -172,6 +174,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Aug, 2015"
@@ -180,5 +185,9 @@
     "url": "http://www.bandainamcogames.com/company/support.html",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/334774/page_bg_generated_v6b.jpg?t=1447365370"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/334774/page_bg_generated_v6b.jpg?t=1447365370",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

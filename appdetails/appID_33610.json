@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     2566,
@@ -76,7 +78,7 @@
   },
   "metacritic": {
     "score": 82,
-    "url": "http://www.metacritic.com/game/pc/broken-sword-the-sleeping-dragon?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/broken-sword-the-sleeping-dragon?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -127,7 +129,10 @@
     }
   ],
   "recommendations": {
-    "total": 292
+    "total": 284
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -137,5 +142,9 @@
     "url": "https://revolution.co.uk/support/",
     "email": "support@revolution.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/33610/page_bg_generated_v6b.jpg?t=1485515156"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/33610/page_bg_generated_v6b.jpg?t=1485515156",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

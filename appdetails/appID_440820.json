@@ -12,7 +12,7 @@
     "name": "Stardew Valley"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/440820/header.jpg?t=1456510246",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/440820/header.jpg?t=1540066374",
   "website": "http://www.stardewvalley.net",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows xp or greater<br></li><li><strong>Processor:</strong> 500 Mhz<br></li><li><strong>Memory:</strong> 500 MB RAM<br></li><li><strong>Graphics:</strong> integrated graphics<br></li><li><strong>Storage:</strong> 235 MB available space<br></li><li><strong>Sound Card:</strong> Required<br></li><li><strong>Additional Notes:</strong> Your computer must be able to play mp3 files</li></ul>"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     93208
@@ -59,8 +61,8 @@
   ],
   "platforms": {
     "windows": true,
-    "mac": false,
-    "linux": false
+    "mac": true,
+    "linux": true
   },
   "categories": [
     {
@@ -89,12 +91,15 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/440820/ss_c525c5958747dbf9d6d9cbd13d6e5a7f8ec3f3e1.600x338.jpg?t=1456510246",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/440820/ss_c525c5958747dbf9d6d9cbd13d6e5a7f8ec3f3e1.1920x1080.jpg?t=1456510246"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/440820/ss_c525c5958747dbf9d6d9cbd13d6e5a7f8ec3f3e1.600x338.jpg?t=1540066374",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/440820/ss_c525c5958747dbf9d6d9cbd13d6e5a7f8ec3f3e1.1920x1080.jpg?t=1540066374"
     }
   ],
   "recommendations": {
-    "total": 148
+    "total": 181
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -104,5 +109,9 @@
     "url": "",
     "email": "stardewvalley@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/440820/page_bg_generated_v6b.jpg?t=1456510246"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/440820/page_bg_generated_v6b.jpg?t=1540066374",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

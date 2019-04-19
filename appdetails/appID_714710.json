@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     206890
@@ -93,11 +95,6 @@
       "id": 0,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/714710/ss_843f148cee34a43563daa8cf24038bd053a91881.600x338.jpg?t=1522171509",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/714710/ss_843f148cee34a43563daa8cf24038bd053a91881.1920x1080.jpg?t=1522171509"
-    },
-    {
-      "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/714710/?t=1522171509",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/714710/?t=1522171509"
     }
   ],
   "release_date": {
@@ -108,5 +105,9 @@
     "url": "",
     "email": "support@binji.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/714710/page_bg_generated_v6b.jpg?t=1522171509"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/714710/page_bg_generated_v6b.jpg?t=1522171509",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,7 +11,7 @@
     "appid": "221680",
     "name": "Rocksmith\u00ae 2014 Edition - Remastered"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/637811/header.jpg?t=1513705341",
   "website": "http://rocksmith.ubi.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     176307
@@ -135,6 +137,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/637811/ss_af4f5e7b48d5933ceb8a96192cda6877ff8e71a2.1920x1080.jpg?t=1513705341"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Dec, 2017"
@@ -143,5 +148,9 @@
     "url": "https://support.ubi.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/637811/page_bg_generated_v6b.jpg?t=1513705341"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/637811/page_bg_generated_v6b.jpg?t=1513705341",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

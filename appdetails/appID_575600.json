@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     146681,
@@ -218,7 +220,7 @@
     }
   ],
   "recommendations": {
-    "total": 105
+    "total": 107
   },
   "achievements": {
     "total": 0
@@ -231,5 +233,9 @@
     "url": "",
     "email": "tungsten@itungs.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/575600/page_bg_generated_v6b.jpg?t=1495877858"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/575600/page_bg_generated_v6b.jpg?t=1495877858",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

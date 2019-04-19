@@ -15,17 +15,10 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/788230/header.jpg?t=1519315596",
   "website": "http://fearea.ru",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3-4340 / AMD FX-6300<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVidia GeForce GTX 560 1GB / AMD Radeon HD 7850 1GB<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Additional Notes:</strong> Requires a 64-bit processor and operating system</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3-4340 / AMD FX-6300<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVidia GeForce GTX 560 1GB / AMD Radeon HD 7850 1GB<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Additional Notes:</strong> Requires a 64-bit processor and operating system</li></ul>"
   },
-  "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
-  },
-  "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
-  },
+  "mac_requirements": [],
+  "linux_requirements": [],
   "legal_notice": "\u00a9 2015\u20142018 by MUVGAMES. MUVGAMES and FeArea are trademarks and/or registered trademarks of MUVGAMES  or its licensors, all other logos are trademarks of their respective owners.",
   "developers": [
     "MUVGAMES"
@@ -130,5 +123,9 @@
     "url": "http://fearea.ru",
     "email": "help@muvgames.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/788230/page_bg_generated_v6b.jpg?t=1519315596"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/788230/page_bg_generated_v6b.jpg?t=1519315596",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

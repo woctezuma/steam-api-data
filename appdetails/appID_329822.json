@@ -11,8 +11,8 @@
     "appid": "220700",
     "name": "RPG Maker VX Ace"
   },
-  "supported_languages": "English, French, German, Spanish, Italian, Portuguese-Brazil",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/329822/header.jpg?t=1515050871",
+  "supported_languages": "English, French, German, Spanish - Spain, Italian, Portuguese - Brazil",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/329822/header.jpg?t=1523931277",
   "website": "http://www.rpgmakerweb.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Microsoft\u00ae Windows\u00ae XP / Vista / 7 (32-bit/64-bit)<br>\t</li><li><strong>Processor:</strong>Intel\u00ae Pentium\u00ae 4 2.0 GHz equivalent or faster processor<br>\t</li><li><strong>Memory:</strong>512 MB RAM<br>\t</li><li><strong>Graphics:</strong>1024 x 768 pixels or higher desktop resolution<br>\t</li><li><strong>Hard Drive:</strong>400 MB HD space</li></ul>",
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     53291
@@ -94,10 +96,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329822/ss_8ddfb4c887a6eb883ea71a671b648e7a65d0e73a.600x338.jpg?t=1515050871",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329822/ss_8ddfb4c887a6eb883ea71a671b648e7a65d0e73a.1920x1080.jpg?t=1515050871"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/329822/ss_8ddfb4c887a6eb883ea71a671b648e7a65d0e73a.600x338.jpg?t=1523931277",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/329822/ss_8ddfb4c887a6eb883ea71a671b648e7a65d0e73a.1920x1080.jpg?t=1523931277"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Oct, 2014"
@@ -106,5 +111,9 @@
     "url": "http://www.rpgmakerweb.com/support",
     "email": "support@rpgmakerweb.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/329822/page_bg_generated_v6b.jpg?t=1515050871"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/329822/page_bg_generated_v6b.jpg?t=1523931277",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

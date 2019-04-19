@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     41485
@@ -141,7 +143,7 @@
     }
   ],
   "recommendations": {
-    "total": 875
+    "total": 687
   },
   "achievements": {
     "total": 0
@@ -154,5 +156,9 @@
     "url": "",
     "email": "support@nova-dimension.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/293320/page_bg_generated_v6b.jpg?t=1514320397"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/293320/page_bg_generated_v6b.jpg?t=1514320397",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

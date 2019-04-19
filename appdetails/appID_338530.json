@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Trouble In The Manor</strong> is an online multiplayer game which takes place in a spooky far away manor. You are designated one of three roles upon each round: innocent, bloodhound, or murderer.<br><br>If you're <strong>INNOCENT</strong>, your job is to seek out murderers by any means necessary, finding any items on the manor grounds to aid other innocents and calling a hit on murderers once you have enough evidence or killing them yourself.<br><br><strong>BLOODHOUNDS</strong> are the same as innocents with the exception that they have an advantage with DNA devices that allow them to compare DNA against bodies they've found or any DNA that is left in an area by a murderer.<br><br>If you're a <strong>MURDERER</strong>, your job is to kill every innocent and bloodhound in the round as they can. They have a selection of items they can buy in the store with currency found within the manor. These items range from weapons to traps to disguising devices.<br><br>A <strong>MURDERER</strong> also has the choice of transforming into a <strong>VAMPIRE</strong> by awakening the vampire that sleeps in the basement coffin. Vampires can turn other innocents into vampires and help the murderers quest for blood.<br><br>Work together, trust no one.",
   "about_the_game": "<strong>Trouble In The Manor</strong> is an online multiplayer game which takes place in a spooky far away manor. You are designated one of three roles upon each round: innocent, bloodhound, or murderer.<br><br>If you're <strong>INNOCENT</strong>, your job is to seek out murderers by any means necessary, finding any items on the manor grounds to aid other innocents and calling a hit on murderers once you have enough evidence or killing them yourself.<br><br><strong>BLOODHOUNDS</strong> are the same as innocents with the exception that they have an advantage with DNA devices that allow them to compare DNA against bodies they've found or any DNA that is left in an area by a murderer.<br><br>If you're a <strong>MURDERER</strong>, your job is to kill every innocent and bloodhound in the round as they can. They have a selection of items they can buy in the store with currency found within the manor. These items range from weapons to traps to disguising devices.<br><br>A <strong>MURDERER</strong> also has the choice of transforming into a <strong>VAMPIRE</strong> by awakening the vampire that sleeps in the basement coffin. Vampires can turn other innocents into vampires and help the murderers quest for blood.<br><br>Work together, trust no one.",
-  "short_description": "Trouble In The Manor is an online multiplayer game which takes place in a spooky far away manor.<br />\r\nYou are designated one of three roles upon each round: innocent, bloodhound, or murderer.",
+  "short_description": "Trouble In The Manor is an online multiplayer game which takes place in a spooky far away manor. You are designated one of three roles upon each round: innocent, bloodhound, or murderer.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/338530/header.jpg?t=1481109132",
   "website": "http://www.charyb.com/trouble",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     63836
@@ -180,7 +182,7 @@
     }
   ],
   "recommendations": {
-    "total": 288
+    "total": 138
   },
   "achievements": {
     "total": 21,
@@ -235,5 +237,9 @@
     "url": "",
     "email": "tlino@shaw.ca"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/338530/page_bg_generated_v6b.jpg?t=1481109132"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/338530/page_bg_generated_v6b.jpg?t=1481109132",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

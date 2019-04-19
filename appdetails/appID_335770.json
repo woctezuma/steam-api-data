@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     55541
@@ -155,5 +157,9 @@
     "url": "http://kuronekosoft.com/",
     "email": "http://kuronekosoft.com/mailform.php"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/335770/page_bg_generated_v6b.jpg?t=1447365540"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/335770/page_bg_generated_v6b.jpg?t=1447365540",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

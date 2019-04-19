@@ -28,10 +28,12 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    "57281"
+    57281
   ],
   "package_groups": [
     {
@@ -44,7 +46,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "57281",
+          "packageid": 57281,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Siege of Turtle Enclave - 4,99\u20ac",
@@ -172,6 +174,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Feb, 2015"
@@ -180,5 +185,9 @@
     "url": "http://www.conjurerstower.com/support",
     "email": "conjurerstower@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340920/page_bg_generated_v6b.jpg?t=1454266774"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340920/page_bg_generated_v6b.jpg?t=1454266774",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

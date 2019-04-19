@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     127222
@@ -156,5 +158,9 @@
     "url": "http://trainwreckgames.com/contact",
     "email": "contact@trainwreckgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/529140/page_bg_generated_v6b.jpg?t=1490752882"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/529140/page_bg_generated_v6b.jpg?t=1490752882",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

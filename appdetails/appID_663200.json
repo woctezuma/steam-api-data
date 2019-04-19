@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     188217
@@ -128,6 +130,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Aug, 2017"
@@ -136,5 +141,9 @@
     "url": "",
     "email": "support@forever-entertainment.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/663200/page_bg_generated_v6b.jpg?t=1502963027"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/663200/page_bg_generated_v6b.jpg?t=1502963027",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

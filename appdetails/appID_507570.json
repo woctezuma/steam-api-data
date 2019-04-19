@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>This is a full series on how to find reference, study and begin concepts for Sci-Fi Armor Design. It is an in-depth tutorial on what you will need to create Sci-Fi Armor in Photoshop.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>This is a full series on how to find reference, study and begin concepts for Sci-Fi Armor Design. It is an in-depth tutorial on what you will need to create Sci-Fi Armor in Photoshop.",
   "about_the_game": "This is a full series on how to find reference, study and begin concepts for Sci-Fi Armor Design. It is an in-depth tutorial on what you will need to create Sci-Fi Armor in Photoshop.",
   "short_description": "Designing Sci-Fi Armor from start to finish",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     117200
@@ -115,5 +117,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/507570/page_bg_generated_v6b.jpg?t=1470434208"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/507570/page_bg_generated_v6b.jpg?t=1470434208",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

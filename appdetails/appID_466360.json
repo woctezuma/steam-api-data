@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     102475
@@ -122,5 +124,9 @@
     "url": "http://www.awaceb.com",
     "email": "contact@awaceb.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466360/page_bg_generated_v6b.jpg?t=1489586025"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466360/page_bg_generated_v6b.jpg?t=1489586025",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

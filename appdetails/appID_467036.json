@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Includes the costume item 'Rider Scarf.'",
   "about_the_game": "Includes the costume item 'Rider Scarf.'",
-  "short_description": "Includes the costume item 'Rider Scarf.'",
+  "short_description": "Includes the costume item 'Rider Scarf.",
   "fullgame": {
     "appid": "446390",
     "name": "Onechanbara Z2: Chaos"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     102735
@@ -104,6 +106,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467036/ss_1fa631115b3f4634ae02c8f0df8c94bc7b312222.1920x1080.jpg?t=1466043160"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jun, 2016"
@@ -112,5 +117,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467036/page_bg_generated_v6b.jpg?t=1466043160"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467036/page_bg_generated_v6b.jpg?t=1466043160",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

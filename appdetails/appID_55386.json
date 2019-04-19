@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "Live the high life of Zimos himself by adding a weapon to your arsenal and an outfit to your wardrobe with the Z Style Pack. You won't go unnoticed in the bold and pimpalicious outfit good enough to be called The &quot;Z&quot;. Arm yourself with the super flashy Bling Shotgun and your bullets won't be the only thing that makes an impact.",
   "about_the_game": "Live the high life of Zimos himself by adding a weapon to your arsenal and an outfit to your wardrobe with the Z Style Pack. You won't go unnoticed in the bold and pimpalicious outfit good enough to be called The &quot;Z&quot;. Arm yourself with the super flashy Bling Shotgun and your bullets won't be the only thing that makes an impact.",
-  "short_description": "",
+  "short_description": "Live the high life of Zimos himself by adding a weapon to your arsenal and an outfit to your wardrobe with the Z Style Pack. You won't go unnoticed in the bold and pimpalicious outfit good enough to be called The &quot;Z&quot;. Arm yourself with the super flashy Bling Shotgun and your bullets won't be the only thing that makes an impact.",
   "fullgame": {
     "appid": "55230",
     "name": "Saints Row: The Third"
   },
-  "supported_languages": "Czech, Dutch, English, French, Italian, Polish, Russian, Spanish",
+  "supported_languages": "Czech, Dutch, English, French, Italian, Polish, Russian, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/55386/header.jpg?t=1479294883",
   "website": "http://www.saintsrow.com/",
   "pc_requirements": {
@@ -33,11 +33,13 @@
     "currency": "EUR",
     "initial": 149,
     "final": 149,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,49\u20ac"
   },
   "packages": [
     12491,
-    "17933"
+    17933
   ],
   "package_groups": [
     {
@@ -60,7 +62,7 @@
           "price_in_cents_with_discount": 149
         },
         {
-          "packageid": "17933",
+          "packageid": 17933,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Saints Row: The Third - The Full Package - 14,99\u20ac",
@@ -131,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/55386/ss_9fdd7ac4eff0c3a1a5997c4aee6297f5d7bc2e14.1920x1080.jpg?t=1479294883"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Dec, 2011"
@@ -139,5 +144,11 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/55386/page_bg_generated_v6b.jpg?t=1479294883"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/55386/page_bg_generated_v6b.jpg?t=1479294883",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

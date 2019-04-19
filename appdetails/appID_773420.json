@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     231623
@@ -45,11 +47,11 @@
           "packageid": 231623,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Panacea: Last Will - 7,99\u20ac",
+          "option_text": "Panacea: Last Will - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -123,6 +125,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Jan, 2018"
@@ -131,5 +136,9 @@
     "url": "https://vk.com/topic-80238898_31644496",
     "email": "horrendous_games@rambler.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/773420/page_bg_generated_v6b.jpg?t=1517062496"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/773420/page_bg_generated_v6b.jpg?t=1517062496",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

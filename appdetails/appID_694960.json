@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     199532
@@ -45,11 +47,11 @@
           "packageid": 199532,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Zenethics Lab : Outbreak - 5,99\u20ac",
+          "option_text": "Zenethics Lab : Outbreak - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -246,5 +248,9 @@
     "url": "",
     "email": "zenethicslab+support@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/694960/page_bg_generated_v6b.jpg?t=1508757070"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/694960/page_bg_generated_v6b.jpg?t=1508757070",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

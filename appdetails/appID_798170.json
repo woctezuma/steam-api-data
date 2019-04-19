@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     242439
@@ -100,16 +102,6 @@
       "id": 5,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/798170/ss_8e271e4aa55fa304528aa54481903ca6f3eb84b1.600x338.jpg?t=1520927463",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/798170/ss_8e271e4aa55fa304528aa54481903ca6f3eb84b1.1920x1080.jpg?t=1520927463"
-    },
-    {
-      "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/798170/?t=1520927463",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/798170/?t=1520927463"
-    },
-    {
-      "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/798170/?t=1520927463",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/798170/?t=1520927463"
     }
   ],
   "movies": [
@@ -124,6 +116,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Mar, 2018"
@@ -132,5 +127,9 @@
     "url": "",
     "email": "erythgameshelp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/798170/page_bg_generated_v6b.jpg?t=1520927463"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/798170/page_bg_generated_v6b.jpg?t=1520927463",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

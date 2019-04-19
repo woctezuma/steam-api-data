@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 899,
-    "final": 899,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     119819
@@ -51,11 +53,11 @@
           "packageid": 119819,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Elena - 8,99\u20ac",
+          "option_text": "Elena - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 899
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -120,6 +122,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Dec, 2016"
@@ -128,5 +133,9 @@
     "url": "http://labone48.com",
     "email": "support@labone48.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/513860/page_bg_generated_v6b.jpg?t=1482707567"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/513860/page_bg_generated_v6b.jpg?t=1482707567",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "You Wake Up.<br>You noticed that you were trapped in a small room.<br>A clock displayed on the wall has counted down.<br><br>Let's escape from the room by solving some mystery.<h2 class=\"bb_tag\">[Caution]</h2>This Game Is Only For Htc Vive.<br>You can explore every corner of the room by making use of the room scale of HTC Vive.",
   "about_the_game": "You Wake Up.<br>You noticed that you were trapped in a small room.<br>A clock displayed on the wall has counted down.<br><br>Let's escape from the room by solving some mystery.<h2 class=\"bb_tag\">[Caution]</h2>This Game Is Only For Htc Vive.<br>You can explore every corner of the room by making use of the room scale of HTC Vive.",
-  "short_description": "You Wake Up.<br />\r\nYou noticed that you were trapped in a small room.<br />\r\nA clock displayed on the wall has counted down.<br />\r\n<br />\r\nLet's escape from the room by solving some mystery.",
+  "short_description": "You Wake Up. You noticed that you were trapped in a small room. A clock displayed on the wall has counted down. Let's escape from the room by solving some mystery.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/654070/header.jpg?t=1499157252",
   "website": null,
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     184315
@@ -109,6 +111,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Jul, 2017"
@@ -117,5 +122,9 @@
     "url": "http://loosespace.blog.fc2.com/",
     "email": "dev@haru-ni.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/654070/page_bg_generated_v6b.jpg?t=1499157252"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/654070/page_bg_generated_v6b.jpg?t=1499157252",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

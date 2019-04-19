@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     102336
@@ -114,8 +116,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 104
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -125,5 +127,9 @@
     "url": "",
     "email": "piotr.krol89@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/465930/page_bg_generated_v6b.jpg?t=1462982580"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/465930/page_bg_generated_v6b.jpg?t=1462982580",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

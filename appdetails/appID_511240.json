@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Gone In November Collector's Edition Content includes:<br />\r\n- Game's source code<br />\r\n- Uunused contents<br />\r\n- Behind-the-scene images",
   "about_the_game": "Gone In November Collector's Edition Content includes:<br />\r\n- Game's source code<br />\r\n- Uunused contents<br />\r\n- Behind-the-scene images",
-  "short_description": "",
+  "short_description": "Gone In November Collector's Edition Content includes: - Game's source code - Uunused contents - Behind-the-scene images",
   "fullgame": {
     "appid": "507390",
     "name": "Gone In November"
@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     118827
@@ -48,11 +50,11 @@
           "packageid": 118827,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Gone In November Collector's Edition Content - 0,99\u20ac",
+          "option_text": "Gone In November Collector's Edition Content - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -101,5 +103,9 @@
     "url": "http://www.SometimesYou.com/",
     "email": "3.14nkerator@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/511240/page_bg_generated_v6b.jpg?t=1471543018"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/511240/page_bg_generated_v6b.jpg?t=1471543018",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

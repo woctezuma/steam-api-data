@@ -36,9 +36,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1999,
-    "final": 1999,
-    "discount_percent": 0
+    "initial": 1679,
+    "final": 1679,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "16,79\u20ac"
   },
   "packages": [
     203868
@@ -57,11 +59,11 @@
           "packageid": 203868,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "NASCAR Heat 2 - Season Pass - 19,99\u20ac",
+          "option_text": "NASCAR Heat 2 - Season Pass - 16,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1999
+          "price_in_cents_with_discount": 1679
         }
       ]
     }
@@ -119,6 +121,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/706290/ss_65faa32f9d276f7dd694694d50182fa6e33b3b59.1920x1080.jpg?t=1505236820"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Sep, 2017"
@@ -127,5 +132,9 @@
     "url": "nascareat.com/support",
     "email": "customersupport@704games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/706290/page_bg_generated_v6b.jpg?t=1505236820"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/706290/page_bg_generated_v6b.jpg?t=1505236820",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

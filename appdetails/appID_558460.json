@@ -15,8 +15,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/558460/header.jpg?t=1480112932",
   "website": "http://www.virtualbattlemap.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / Windows 8 / Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5/i7 or AMD Phenom II x4<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon 4870/5770/6770 or Nvidia GeForce GTX 260/460/550 Ti<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> None<br></li><li><strong>Additional Notes:</strong> Higher quality map exports require more ram.</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / Windows 8 / Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5/i7 or AMD Phenom II x4<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon 7870/R9 270 or Nvidia GeForce GTX 660 Ti/760<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> None<br></li><li><strong>Additional Notes:</strong> Higher quality map exports require more ram.</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7 / Windows 8 / Windows 10<br></li><li><strong>Processeur\u00a0:</strong> Intel Core i5/i7 or AMD Phenom II x4<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 4 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> ATI Radeon 4870/5770/6770 or Nvidia GeForce GTX 260/460/550 Ti<br></li><li><strong>DirectX\u00a0:</strong> Version 11<br></li><li><strong>Espace disque\u00a0:</strong> 2 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> None<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Higher quality map exports require more ram.</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7 / Windows 8 / Windows 10<br></li><li><strong>Processeur\u00a0:</strong> Intel Core i5/i7 or AMD Phenom II x4<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 8 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> ATI Radeon 7870/R9 270 or Nvidia GeForce GTX 660 Ti/760<br></li><li><strong>DirectX\u00a0:</strong> Version 11<br></li><li><strong>Espace disque\u00a0:</strong> 2 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> None<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Higher quality map exports require more ram.</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     139785
@@ -142,5 +144,9 @@
     "url": "http://www.virtualbattlemap.com",
     "email": "mwmdragon.work@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/558460/page_bg_generated_v6b.jpg?t=1480112932"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/558460/page_bg_generated_v6b.jpg?t=1480112932",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

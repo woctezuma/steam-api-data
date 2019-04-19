@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     35119
@@ -146,7 +148,10 @@
     }
   ],
   "recommendations": {
-    "total": 418
+    "total": 291
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -156,5 +161,9 @@
     "url": "",
     "email": "support@ludosity.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/267360/page_bg_generated_v6b.jpg?t=1453388569"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/267360/page_bg_generated_v6b.jpg?t=1453388569",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

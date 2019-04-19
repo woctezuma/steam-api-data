@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     191789
@@ -141,6 +143,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Oct, 2017"
@@ -149,5 +154,9 @@
     "url": "http://blockchain-games.io",
     "email": "info@blockchain-games.io"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/673730/page_bg_generated_v6b.jpg?t=1516584308"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/673730/page_bg_generated_v6b.jpg?t=1516584308",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -33,10 +33,12 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
-    "121000"
+    121000
   ],
   "package_groups": [
     {
@@ -49,7 +51,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "121000",
+          "packageid": 121000,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Cards of Chaos - 6,99\u20ac",
@@ -252,5 +254,9 @@
     "url": "http://pixelbattery.com",
     "email": "bloemiphone@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/517110/page_bg_generated_v6b.jpg?t=1488587837"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/517110/page_bg_generated_v6b.jpg?t=1488587837",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

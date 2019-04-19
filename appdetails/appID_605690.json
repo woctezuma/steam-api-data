@@ -12,7 +12,7 @@
     "appid": "370770",
     "name": "Holodrive"
   },
-  "supported_languages": "English<strong>*</strong>, Portuguese-Brazil, Spanish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, Portuguese - Brazil, Spanish - Spain<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/605690/header.jpg?t=1504045447",
   "website": "http://www.playholodrive.com",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     159771
@@ -167,6 +169,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/605690/ss_036e92e91448927de5e03fb430d03e5ef8f45d2f.1920x1080.jpg?t=1504045447"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Mar, 2017"
@@ -175,5 +180,9 @@
     "url": "http://www.bitcakestudio.com",
     "email": "contact@bitcakestudio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/605690/page_bg_generated_v6b.jpg?t=1504045447"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/605690/page_bg_generated_v6b.jpg?t=1504045447",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

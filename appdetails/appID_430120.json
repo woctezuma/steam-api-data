@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     89187
@@ -101,6 +103,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/430120/ss_e9758d10c87fbeda6996c3c9084a064db2023865.1920x1080.jpg?t=1461667957"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Apr, 2016"
@@ -109,5 +114,9 @@
     "url": "",
     "email": "steeloceangm@cyou-inc.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/430120/page_bg_generated_v6b.jpg?t=1461667957"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/430120/page_bg_generated_v6b.jpg?t=1461667957",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

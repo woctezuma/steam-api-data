@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     123522
@@ -92,6 +94,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/520871/ss_7e73a16e5bd97374b5b9886bec6b04a698cb4b54.1920x1080.jpg?t=1472668011"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Aug, 2016"
@@ -100,5 +105,9 @@
     "url": "http://support.cyan.com",
     "email": "support@cyan.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/520871/page_bg_generated_v6b.jpg?t=1472668011"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/520871/page_bg_generated_v6b.jpg?t=1472668011",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

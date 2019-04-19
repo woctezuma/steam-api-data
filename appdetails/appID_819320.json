@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "For the intrepid globetrotter, the Dawn of the Morninglight Collector's Edition features an exclusive pet, cosmetics, and a Special Agent to command through the Agent Network!  <br><br>Collector's Edition Includes:<br><ul class=\"bb_ul\"><li>Witch Doctor's Outfit (Male and Female)<br></li><li>Scarlet Kongamato pet<br></li><li>Mask of Death's Wisdom<br></li><li>Special Agent Dossier</li></ul><br>Purchase not necessary to access new story content.  Your character must be at least Level 15 and able to access the Agent Network to use the Agent Dossier. <br><br>*NOTE: Dawn of the Morninglight Collector\u2019s Editions purchased through Steam only apply to Steam Users of Secret World Legends",
   "about_the_game": "For the intrepid globetrotter, the Dawn of the Morninglight Collector's Edition features an exclusive pet, cosmetics, and a Special Agent to command through the Agent Network!  <br><br>Collector's Edition Includes:<br><ul class=\"bb_ul\"><li>Witch Doctor's Outfit (Male and Female)<br></li><li>Scarlet Kongamato pet<br></li><li>Mask of Death's Wisdom<br></li><li>Special Agent Dossier</li></ul><br>Purchase not necessary to access new story content.  Your character must be at least Level 15 and able to access the Agent Network to use the Agent Dossier. <br><br>*NOTE: Dawn of the Morninglight Collector\u2019s Editions purchased through Steam only apply to Steam Users of Secret World Legends",
-  "short_description": "Dawn of the Morninglight Collector\u2019s Edition includes:<br><ul class=\"bb_ul\"><li>Exclusive Foil Agent<br></li><li>Kongamato Pet<br></li><li>Male Witch Doctor Outfit<br></li><li>Female Witch Doctor Outfit<br></li><li>Mask of Death\u2019s Wisdom</li></ul>",
+  "short_description": "Dawn of the Morninglight Collector\u2019s Edition includes:Exclusive Foil AgentKongamato PetMale Witch Doctor OutfitFemale Witch Doctor OutfitMask of Death\u2019s Wisdom",
   "fullgame": {
     "appid": "215280",
     "name": "Secret World Legends"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     251081
@@ -146,6 +148,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Apr, 2018"
@@ -154,5 +159,9 @@
     "url": "http://help.funcom.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/819320/page_bg_generated_v6b.jpg?t=1522852353"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/819320/page_bg_generated_v6b.jpg?t=1522852353",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

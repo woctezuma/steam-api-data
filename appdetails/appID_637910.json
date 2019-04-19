@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "'80s synth beats and electronica mixed with classical strings and orchestral elements. This is the SmuggleCraft Original Soundtrack. From high energy races to smooth easy cruising, every track will get you pumped for your next smuggling gig.<br><br>The SmuggleCraft Soundtrack features music from composer <strong>Bravendary</strong>.<br><br>The soundtrack is available in .aiff format. Track listing as follows:<br>The Aspiration<br>The Care Package<br>The Chase<br>The Chill<br>The Combustion<br>The Deep<br>The Fortress<br>The Gates<br>The Glimmer<br>The Jewel<br>The Night Run<br>The Rumble<br>The Rush Delivery",
   "about_the_game": "'80s synth beats and electronica mixed with classical strings and orchestral elements. This is the SmuggleCraft Original Soundtrack. From high energy races to smooth easy cruising, every track will get you pumped for your next smuggling gig.<br><br>The SmuggleCraft Soundtrack features music from composer <strong>Bravendary</strong>.<br><br>The soundtrack is available in .aiff format. Track listing as follows:<br>The Aspiration<br>The Care Package<br>The Chase<br>The Chill<br>The Combustion<br>The Deep<br>The Fortress<br>The Gates<br>The Glimmer<br>The Jewel<br>The Night Run<br>The Rumble<br>The Rush Delivery",
-  "short_description": "'80s synth beats and electronica mixed with classical strings and orchestral elements. This is the SmuggleCraft Original Soundtrack. From high energy races to smooth easy cruising, every track will get you pumped for your next smuggling gig.<br><br>The SmuggleCraft Soundtrack features music from composer <strong>Bravendary</strong>.",
+  "short_description": "'80s synth beats and electronica mixed with classical strings and orchestral elements. This is the SmuggleCraft Original Soundtrack. From high energy races to smooth easy cruising, every track will get you pumped for your next smuggling gig.The SmuggleCraft Soundtrack features music from composer Bravendary.",
   "fullgame": {
     "appid": "592020",
     "name": "SmuggleCraft"
@@ -33,9 +33,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     176436
@@ -54,11 +56,11 @@
           "packageid": 176436,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "SmuggleCraft Original Soundtrack - 5,99\u20ac",
+          "option_text": "SmuggleCraft Original Soundtrack - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -149,5 +151,9 @@
     "url": "www.happybadgers.com",
     "email": "info@happybadgers.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/637910/page_bg_generated_v6b.jpg?t=1497895248"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/637910/page_bg_generated_v6b.jpg?t=1497895248",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

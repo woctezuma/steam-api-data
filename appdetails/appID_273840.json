@@ -7,7 +7,7 @@
   "detailed_description": "Developed with support from real teams and drivers, Stock Car Extreme is one of the most highly regarded racing simulators for the PC. In addition to the current season of Stock Car V8 - a brazilian series featuring world class drivers such as Rubens Barrichello and Ricardo Zonta - Stock Car Extreme includes several extra series and tracks covering a wide variety of racing disciplines. It also enjoys a continuous flow of free updates to further stablish itself as one of the most realistic, complete and immersive titles in the racing simulation genre.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Realistic racing simulator<br></li><li>Various different racing series<br></li><li>Enjoys continuous flow of free updates to add new content and improve the game<br></li><li>Light on system requirements</li></ul>",
   "about_the_game": "Developed with support from real teams and drivers, Stock Car Extreme is one of the most highly regarded racing simulators for the PC. In addition to the current season of Stock Car V8 - a brazilian series featuring world class drivers such as Rubens Barrichello and Ricardo Zonta - Stock Car Extreme includes several extra series and tracks covering a wide variety of racing disciplines. It also enjoys a continuous flow of free updates to further stablish itself as one of the most realistic, complete and immersive titles in the racing simulation genre.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Realistic racing simulator<br></li><li>Various different racing series<br></li><li>Enjoys continuous flow of free updates to add new content and improve the game<br></li><li>Light on system requirements</li></ul>",
   "short_description": "Stock Car Extreme is a realistic racing game simulating brazilian Stock Car V8 series, also featuring several extra series and tracks covering a wide variety of racing disciplines.",
-  "supported_languages": "English, French, German, Spanish, Portuguese-Brazil",
+  "supported_languages": "English, French, German, Spanish - Spain, Portuguese - Brazil",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/273840/header.jpg?t=1447360134",
   "website": "http://game-stockcar.com.br/?lang=en",
   "pc_requirements": {
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "final": 749,
+    "discount_percent": 50,
+    "initial_formatted": "14,99\u20ac",
+    "final_formatted": "7,49\u20ac"
   },
   "packages": [
     86904
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 86904,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Stock Car Extreme - 14,99\u20ac",
+          "option_text": "Stock Car Extreme - <span class=\"discount_original_price\">14,99\u20ac</span> 7,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 749
         }
       ]
     }
@@ -183,7 +185,10 @@
     }
   ],
   "recommendations": {
-    "total": 427
+    "total": 310
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -193,5 +198,9 @@
     "url": "http://game-stockcar.com.br/support/?lang=en",
     "email": "support@reizastudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/273840/page_bg_generated_v6b.jpg?t=1447360134"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/273840/page_bg_generated_v6b.jpg?t=1447360134",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

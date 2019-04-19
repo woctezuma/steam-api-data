@@ -11,22 +11,22 @@
     "appid": "223850",
     "name": "3DMark"
   },
-  "supported_languages": "English, German, Simplified Chinese, Russian, Spanish, Japanese, Korean",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/406950/header.jpg?t=1513783277",
-  "website": "http://www.futuremark.com/benchmarks/3dmark",
+  "supported_languages": "English, German, Simplified Chinese, Russian, Spanish - Spain, Japanese, Korean",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/406950/header.jpg?t=1529575423",
+  "website": "https://benchmarks.ul.com/3dmark",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows Vista*<br>\t</li><li><strong>Processor:</strong>1.8 GHz dual-core<br>\t</li><li><strong>Graphics:</strong>DirectX 9<br>\t</li><li><strong>Storage:</strong>6 GB free space</li></ul><br><strong>Memory</strong><br><ul class=\"bb_ul\"><li><strong>Ice Storm:</strong>2 GB RAM and 128 MB video card memory<br></li><li><strong>Ice Storm Unlimited:</strong>2 GB RAM and 128 MB video card memory<br></li><li><strong>Ice Storm Extreme:</strong>4 GB RAM and 256 MB video card memory</li></ul><br>* Ice Storm Extreme requires a 64-bit version of Windows. Windows 7 users must install Service Pack 1. Windows Vista users must install Service Pack 2 and the DirectX 11 platform update."
   },
   "mac_requirements": [],
   "linux_requirements": [],
   "developers": [
-    "Futuremark"
+    "UL"
   ],
   "publishers": [
-    ""
+    "UL"
   ],
   "packages": [
-    114165
+    323175
   ],
   "package_groups": [
     {
@@ -39,14 +39,14 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": 114165,
+          "packageid": 323175,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "3DMark - 27,99\u20ac",
+          "option_text": "3DMark - 24,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2799
+          "price_in_cents_with_discount": 2499
         }
       ]
     }
@@ -79,32 +79,39 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_493649fa5b4796a6db22ce1bd0ffb45d6b5921e0.600x338.jpg?t=1513783277",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_493649fa5b4796a6db22ce1bd0ffb45d6b5921e0.1920x1080.jpg?t=1513783277"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_493649fa5b4796a6db22ce1bd0ffb45d6b5921e0.600x338.jpg?t=1529575423",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_493649fa5b4796a6db22ce1bd0ffb45d6b5921e0.1920x1080.jpg?t=1529575423"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_095eaabc00ec7d2f7c9e3931e0c1092aa6b894f2.600x338.jpg?t=1513783277",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_095eaabc00ec7d2f7c9e3931e0c1092aa6b894f2.1920x1080.jpg?t=1513783277"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_095eaabc00ec7d2f7c9e3931e0c1092aa6b894f2.600x338.jpg?t=1529575423",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_095eaabc00ec7d2f7c9e3931e0c1092aa6b894f2.1920x1080.jpg?t=1529575423"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_b1cb4ffe87f5e00ce12373a9e8a56f9e4ae373d1.600x338.jpg?t=1513783277",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_b1cb4ffe87f5e00ce12373a9e8a56f9e4ae373d1.1920x1080.jpg?t=1513783277"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_b1cb4ffe87f5e00ce12373a9e8a56f9e4ae373d1.600x338.jpg?t=1529575423",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_b1cb4ffe87f5e00ce12373a9e8a56f9e4ae373d1.1920x1080.jpg?t=1529575423"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_de90ba3b4785245219792ebb428b61e5d6c35699.600x338.jpg?t=1513783277",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_de90ba3b4785245219792ebb428b61e5d6c35699.1920x1080.jpg?t=1513783277"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_de90ba3b4785245219792ebb428b61e5d6c35699.600x338.jpg?t=1529575423",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/406950/ss_de90ba3b4785245219792ebb428b61e5d6c35699.1920x1080.jpg?t=1529575423"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Dec, 2015"
   },
   "support_info": {
-    "url": "http://www.futuremark.com/support",
+    "url": "https://benchmarks.ul.com/support",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/406950/page_bg_generated_v6b.jpg?t=1513783277"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/406950/page_bg_generated_v6b.jpg?t=1529575423",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

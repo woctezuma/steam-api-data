@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Enjoy being a farmer between 1950 and 1970 in the Agricultural Simulator \u2013 Historical Farming. The game takes you to the good old days and you will experience the charming farming of the 60's and 70's. Fans of nostalgia and history will be glad to work with original designed machines and to till a field with well known Old-timer Tractors. With the new feature \u2013 the dynamic ground Agrar Simulator \u2013 Historical Farming presents the first real furrows which will be left when working at the fields with strong machines. The furrows will have impact on the driving behavior of the tractors and guarantee pure realism. It is up to the player to decide in which region he would like to cultivate his farm. There are two amazing scenarios \u2013 idyllic highlands, valleys and woods in the alp-region or the fascinating Toscana region with measured climate.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Experience the charming farming in between 1950 and 1970<br></li><li>Original drafted Old-timer tractors of well known brands like John Deere, Lanz Bulldog etc.<br></li><li>Pure Realism due to features like the dynamic ground with furrows. <br></li><li>Two different scenarios \u2013 Toskana and the northern Alp-Region.</li></ul>",
   "about_the_game": "Enjoy being a farmer between 1950 and 1970 in the Agricultural Simulator \u2013 Historical Farming. The game takes you to the good old days and you will experience the charming farming of the 60's and 70's. Fans of nostalgia and history will be glad to work with original designed machines and to till a field with well known Old-timer Tractors. With the new feature \u2013 the dynamic ground Agrar Simulator \u2013 Historical Farming presents the first real furrows which will be left when working at the fields with strong machines. The furrows will have impact on the driving behavior of the tractors and guarantee pure realism. It is up to the player to decide in which region he would like to cultivate his farm. There are two amazing scenarios \u2013 idyllic highlands, valleys and woods in the alp-region or the fascinating Toscana region with measured climate.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Experience the charming farming in between 1950 and 1970<br></li><li>Original drafted Old-timer tractors of well known brands like John Deere, Lanz Bulldog etc.<br></li><li>Pure Realism due to features like the dynamic ground with furrows. <br></li><li>Two different scenarios \u2013 Toskana and the northern Alp-Region.</li></ul>",
-  "short_description": "",
+  "short_description": "Enjoy being a farmer between 1950 and 1970 in the Agricultural Simulator \u2013 Historical Farming. The game takes you to the good old days and you will experience the charming farming of the 60's and 70's. Fans of nostalgia and history will be glad to work with original designed machines and to till a field with well known Old-timer Tractors.",
   "supported_languages": "English, French, Italian, German, Czech, Hungarian, Polish",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/259890/header.jpg?t=1447359185",
   "website": "http://www.agrar-simulator.de/",
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 299,
+    "discount_percent": 70,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     33128,
@@ -45,23 +47,23 @@
       "subs": [
         {
           "packageid": 33128,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Historical Farming - 9,99\u20ac",
+          "option_text": "Historical Farming - <span class=\"discount_original_price\">9,99\u20ac</span> 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 299
         },
         {
           "packageid": 66034,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Agricultural Simulator Anthology - 19,99\u20ac",
+          "option_text": "Agricultural Simulator Anthology - <span class=\"discount_original_price\">19,99\u20ac</span> 5,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1999
+          "price_in_cents_with_discount": 599
         }
       ]
     }
@@ -211,8 +213,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 255
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -222,5 +224,9 @@
     "url": "http://www.agrar-simulator.de/",
     "email": "support@uieg.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/259890/page_bg_generated_v6b.jpg?t=1447359185"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/259890/page_bg_generated_v6b.jpg?t=1447359185",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

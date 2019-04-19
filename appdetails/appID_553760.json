@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     145596
@@ -50,11 +52,11 @@
           "packageid": 145596,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Einlanzer - 7,99\u20ac",
+          "option_text": "Einlanzer - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -255,5 +257,9 @@
     "url": "www.einlanzergame.com",
     "email": "andrew@einlanzergame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/553760/page_bg_generated_v6b.jpg?t=1522256840"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/553760/page_bg_generated_v6b.jpg?t=1522256840",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

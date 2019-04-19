@@ -23,12 +23,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "initial": 659,
+    "final": 659,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,59\u20ac"
   },
   "packages": [
-    156822
+    156822,
+    336897
   ],
   "package_groups": [
     {
@@ -44,11 +47,21 @@
           "packageid": 156822,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Attack of the Bugs - 7,99\u20ac",
+          "option_text": "Attack of the Bugs - 6,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 659
+        },
+        {
+          "packageid": 336897,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Attack of the Bugs - Commercial License - 6,59\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 659
         }
       ]
     }
@@ -179,5 +192,9 @@
     "url": "http://forums.emptyclipstudios.com/c/attack-of-the-bugs",
     "email": "support@emptyclipstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/597590/page_bg_generated_v6b.jpg?t=1513385048"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/597590/page_bg_generated_v6b.jpg?t=1513385048",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,20 +11,20 @@
     "appid": "500980",
     "name": "Endangered"
   },
-  "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/560610/header.jpg?t=1484023689",
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/560610/header.jpg?t=1554428853",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) 2 Duo CPU E 8500 @ 3.16 GHz (2 CPUs)<br></li><li><strong>Graphics:</strong> Nvidia Geforce 8800 GTS 512<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8/8.1/10<br></li><li><strong>Processor:</strong> Intel i7(TM)<br></li><li><strong>Graphics:</strong> Nvidia GTX 980M<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 50 GB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 8/8.1/10<br></li><li><strong>Processeur\u00a0:</strong> Intel(R) i7<br></li><li><strong>Graphiques\u00a0:</strong> Nvidia GTX 980<br></li><li><strong>DirectX\u00a0:</strong> Version 10<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 10 GB d'espace disque disponible</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 8/8.1/10<br></li><li><strong>Processeur\u00a0:</strong> Intel(R) i7<br></li><li><strong>Graphiques\u00a0:</strong> Nvidia GTX 1080<br></li><li><strong>DirectX\u00a0:</strong> Version 11<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 50 GB d'espace disque disponible</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
   "developers": [
-    "Strawberry Game Studios"
+    "Strawberry Game Studios,LLC"
   ],
   "publishers": [
-    "Strawberry Game Studios"
+    "Strawberry Game Studios,LLC"
   ],
   "package_groups": [],
   "platforms": {
@@ -34,8 +34,8 @@
   },
   "categories": [
     {
-      "id": 36,
-      "description": "Online Multi-Player"
+      "id": 2,
+      "description": "Single-player"
     },
     {
       "id": 10,
@@ -48,38 +48,42 @@
   ],
   "genres": [
     {
-      "id": "73",
-      "description": "Violent"
-    },
-    {
       "id": "1",
       "description": "Action"
     },
     {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
       "id": "37",
       "description": "Free to Play"
+    },
+    {
+      "id": "2",
+      "description": "Strategy"
     }
   ],
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_1e15dddb58895ef75748ea3557c4d0698a6814e8.600x338.jpg?t=1484023689",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_1e15dddb58895ef75748ea3557c4d0698a6814e8.1920x1080.jpg?t=1484023689"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_1e15dddb58895ef75748ea3557c4d0698a6814e8.600x338.jpg?t=1554428853",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_1e15dddb58895ef75748ea3557c4d0698a6814e8.1920x1080.jpg?t=1554428853"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_716d4253d08b2ecb3c3695e31416fd603fca04fa.600x338.jpg?t=1484023689",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_716d4253d08b2ecb3c3695e31416fd603fca04fa.1920x1080.jpg?t=1484023689"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_716d4253d08b2ecb3c3695e31416fd603fca04fa.600x338.jpg?t=1554428853",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_716d4253d08b2ecb3c3695e31416fd603fca04fa.1920x1080.jpg?t=1554428853"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_2c8034216163deb8ba6452fd544ef725ce3096bc.600x338.jpg?t=1484023689",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_2c8034216163deb8ba6452fd544ef725ce3096bc.1920x1080.jpg?t=1484023689"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_2c8034216163deb8ba6452fd544ef725ce3096bc.600x338.jpg?t=1554428853",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_2c8034216163deb8ba6452fd544ef725ce3096bc.1920x1080.jpg?t=1554428853"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_0a6e545599da957c5af4552235cc0bcb00117ecc.600x338.jpg?t=1484023689",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_0a6e545599da957c5af4552235cc0bcb00117ecc.1920x1080.jpg?t=1484023689"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_0a6e545599da957c5af4552235cc0bcb00117ecc.600x338.jpg?t=1554428853",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/560610/ss_0a6e545599da957c5af4552235cc0bcb00117ecc.1920x1080.jpg?t=1554428853"
     }
   ],
   "release_date": {
@@ -87,8 +91,12 @@
     "date": "9 Jan, 2017"
   },
   "support_info": {
-    "url": "http://strawberrygamestudios.com",
+    "url": "strawberrygamestudios.com",
     "email": "support@strawberrygamestudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/560610/page_bg_generated_v6b.jpg?t=1484023689"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/560610/page_bg_generated_v6b.jpg?t=1554428853",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Get the SpellKnights <strong><i>Season pass</i></strong> and get <strong>all SpellKnights DLC</strong> for one great price.<br><br> The Season Pass includes: <br><br><ul class=\"bb_ul\"><li>Started Pack</li></ul><ul class=\"bb_ul\"><li>Champion Pack</li></ul><ul class=\"bb_ul\"><li>Leyend Pack</li></ul><ul class=\"bb_ul\"><li>Master of the Arena</li></ul><ul class=\"bb_ul\"><li>Traveler Pack</li></ul><br>Do you want to be a pro of Spellknights? Get the Season Pass so that you can play with all features and characters from all packs together. Improve your way of playing!!",
   "about_the_game": "Get the SpellKnights <strong><i>Season pass</i></strong> and get <strong>all SpellKnights DLC</strong> for one great price.<br><br> The Season Pass includes: <br><br><ul class=\"bb_ul\"><li>Started Pack</li></ul><ul class=\"bb_ul\"><li>Champion Pack</li></ul><ul class=\"bb_ul\"><li>Leyend Pack</li></ul><ul class=\"bb_ul\"><li>Master of the Arena</li></ul><ul class=\"bb_ul\"><li>Traveler Pack</li></ul><br>Do you want to be a pro of Spellknights? Get the Season Pass so that you can play with all features and characters from all packs together. Improve your way of playing!!",
-  "short_description": "Get the SpellKnights <strong><i>Season pass</i></strong> and get <strong>all SpellKnights DLC</strong> for one great price.",
+  "short_description": "Get the SpellKnights Season pass and get all SpellKnights DLC for one great price.",
   "fullgame": {
     "appid": "444620",
     "name": "SpellKnights"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     112362
@@ -113,5 +115,9 @@
     "url": "",
     "email": "info@mechanicalboss.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494074/page_bg_generated_v6b.jpg?t=1468435130"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494074/page_bg_generated_v6b.jpg?t=1468435130",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

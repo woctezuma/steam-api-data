@@ -33,9 +33,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 490,
-    "final": 490,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     54788
@@ -54,11 +56,11 @@
           "packageid": 54788,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Towers of Altrac - 4,90\u20ac",
+          "option_text": "Towers of Altrac - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 490
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -215,9 +217,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 103
-  },
   "achievements": {
     "total": 82,
     "highlighted": [
@@ -271,5 +270,9 @@
     "url": "http://www.towersofaltrac.com",
     "email": "info@towersofaltrac.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/333660/page_bg_generated_v6b.jpg?t=1493497196"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/333660/page_bg_generated_v6b.jpg?t=1493497196",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

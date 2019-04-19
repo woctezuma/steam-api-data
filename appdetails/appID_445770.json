@@ -26,9 +26,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1999,
-    "final": 1999,
-    "discount_percent": 0
+    "initial": 1699,
+    "final": 1699,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "16,99\u20ac"
   },
   "packages": [
     95048
@@ -47,11 +49,11 @@
           "packageid": 95048,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Airport Madness 3D - 19,99\u20ac",
+          "option_text": "Airport Madness 3D - 16,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1999
+          "price_in_cents_with_discount": 1699
         }
       ]
     }
@@ -211,11 +213,6 @@
       "id": 25,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/445770/ss_47c6074a8f2b3d6f1c8fa6b17b9937e30fd3de1b.600x338.jpg?t=1489877546",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/445770/ss_47c6074a8f2b3d6f1c8fa6b17b9937e30fd3de1b.1920x1080.jpg?t=1489877546"
-    },
-    {
-      "id": 26,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/445770/?t=1489877546",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/445770/?t=1489877546"
     }
   ],
   "movies": [
@@ -231,7 +228,7 @@
     }
   ],
   "recommendations": {
-    "total": 192
+    "total": 189
   },
   "achievements": {
     "total": 48,
@@ -286,5 +283,9 @@
     "url": "http://bigfatsimulations.com/support",
     "email": "support@bigfatsimulations.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/445770/page_bg_generated_v6b.jpg?t=1489877546"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/445770/page_bg_generated_v6b.jpg?t=1489877546",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

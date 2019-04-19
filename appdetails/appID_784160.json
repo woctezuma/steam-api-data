@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     236611
@@ -50,11 +52,11 @@
           "packageid": 236611,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "NASCAR Heat 2 - 2018 Season Update - 9,99\u20ac",
+          "option_text": "NASCAR Heat 2 - 2018 Season Update - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -111,6 +113,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/784160/ss_ea1eec1dc0d685c195b8ca8699c242a2073cc6fb.1920x1080.jpg?t=1518205701"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Feb, 2018"
@@ -119,5 +124,9 @@
     "url": "nascarheat.com/support",
     "email": "customersupport@704games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/784160/page_bg_generated_v6b.jpg?t=1518205701"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/784160/page_bg_generated_v6b.jpg?t=1518205701",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

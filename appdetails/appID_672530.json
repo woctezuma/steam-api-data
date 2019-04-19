@@ -12,8 +12,8 @@
     "name": "Queen of Seas"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/672530/header.jpg?t=1499395591",
-  "website": "http://urucagames.com/queen-of-seas/",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/672530/header.jpg?t=1548893881",
+  "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or 10<br></li><li><strong>Processor:</strong> Pentium<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or 10<br></li><li><strong>Processor:</strong> Core i3<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
@@ -22,16 +22,18 @@
   "linux_requirements": [],
   "legal_notice": "Non-commercial use only",
   "developers": [
-    "Uruca Game Studio"
+    "BIOSZARD Dev"
   ],
   "publishers": [
-    ""
+    "BIOSZARD Dev"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 61,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     191414
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 191414,
-          "percent_savings_text": "",
+          "percent_savings_text": "-61%",
           "percent_savings": 0,
-          "option_text": "Queen of Seas - Original Sound Track - 0,99\u20ac",
+          "option_text": "Queen of Seas - Original Sound Track - <span class=\"discount_original_price\">0,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -99,8 +101,8 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/672530/ss_4d11b571787318c6a4efe5a707d71917ca52ba36.600x338.jpg?t=1499395591",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/672530/ss_4d11b571787318c6a4efe5a707d71917ca52ba36.1920x1080.jpg?t=1499395591"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/672530/ss_4d11b571787318c6a4efe5a707d71917ca52ba36.600x338.jpg?t=1548893881",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/672530/ss_4d11b571787318c6a4efe5a707d71917ca52ba36.1920x1080.jpg?t=1548893881"
     }
   ],
   "movies": [
@@ -120,8 +122,12 @@
     "date": "6 Jul, 2017"
   },
   "support_info": {
-    "url": "http://www.thejungle.com.br",
-    "email": "adm@thejungle.com.br"
+    "url": "http://www.bioszard.com",
+    "email": "contact@bioszard.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/672530/page_bg_generated_v6b.jpg?t=1499395591"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/672530/page_bg_generated_v6b.jpg?t=1548893881",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

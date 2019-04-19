@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     97564
@@ -211,7 +213,7 @@
     }
   ],
   "recommendations": {
-    "total": 220
+    "total": 268
   },
   "achievements": {
     "total": 33,
@@ -266,5 +268,9 @@
     "url": "www.grip-digital.com",
     "email": "support@grip-digital.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/452540/page_bg_generated_v6b.jpg?t=1496308064"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/452540/page_bg_generated_v6b.jpg?t=1496308064",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

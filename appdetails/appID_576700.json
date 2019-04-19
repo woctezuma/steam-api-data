@@ -32,10 +32,12 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
-    "147039"
+    147039
   ],
   "package_groups": [
     {
@@ -48,7 +50,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "147039",
+          "packageid": 147039,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Hollow Halls - 2,99\u20ac",
@@ -116,6 +118,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Jan, 2017"
@@ -124,5 +129,9 @@
     "url": "",
     "email": "brokencodegames@mail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576700/page_bg_generated_v6b.jpg?t=1488312828"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576700/page_bg_generated_v6b.jpg?t=1488312828",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

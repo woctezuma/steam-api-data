@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     79574
@@ -214,5 +216,12 @@
     "url": "",
     "email": "hello@queenunderthemountain.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/405240/page_bg_generated_v6b.jpg?t=1498240040"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/405240/page_bg_generated_v6b.jpg?t=1498240040",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": "As an optional set of features, which can be turned on in the options menu, some dwarves will play sex animations. "
+  }
 }

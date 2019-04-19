@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "MinSweeper is a minimalist take on the classic Minesweeper. Simple relaxing game play in which you avoid mines on a puzzle board and try to get the best time. Play the given puzzles or play a custom puzzle. Also features a soothing soundtrack. MinSweeper also includes 3 minigames:<br><br><ul class=\"bb_ul\"><li>Sudoku: The classic, intense puzzle<br></li><li>Catcher: Catch falling blocks while avoiding mines.<br></li><li>Asteroids: Play as a spaceship; avoid and destroy asteroids to rack up score. </li></ul><br>Integrated with Steam API to include achievements and Leaderboards.",
   "about_the_game": "MinSweeper is a minimalist take on the classic Minesweeper. Simple relaxing game play in which you avoid mines on a puzzle board and try to get the best time. Play the given puzzles or play a custom puzzle. Also features a soothing soundtrack. MinSweeper also includes 3 minigames:<br><br><ul class=\"bb_ul\"><li>Sudoku: The classic, intense puzzle<br></li><li>Catcher: Catch falling blocks while avoiding mines.<br></li><li>Asteroids: Play as a spaceship; avoid and destroy asteroids to rack up score. </li></ul><br>Integrated with Steam API to include achievements and Leaderboards.",
-  "short_description": "MinSweeper is a minimalist take on the classic Minesweeper. Simple relaxing game play in which you avoid mines on a puzzle board and try to get the best time. MinSweeper also includes 3 minigames",
+  "short_description": "MinSweeper is a minimalist take on the classic Minesweeper. Simple relaxing game play in which you avoid mines on a puzzle board and try to get the best time.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/726030/header.jpg?t=1509398949",
   "website": null,
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     211479
@@ -188,5 +190,9 @@
     "url": "",
     "email": "colossalwreckemail@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/726030/page_bg_generated_v6b.jpg?t=1509398949"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/726030/page_bg_generated_v6b.jpg?t=1509398949",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

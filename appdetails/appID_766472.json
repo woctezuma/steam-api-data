@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     226702
@@ -51,11 +53,11 @@
           "packageid": 226702,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC - EMD GP50 - Burlington Northern (Phase I) - 9,99\u20ac",
+          "option_text": "TANE DLC - EMD GP50 - Burlington Northern (Phase I) - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -111,6 +113,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/766472/ss_8da0abcf87a1c01ed0b41aa41892f3669c0389e5.1920x1080.jpg?t=1512524293"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Dec, 2017"
@@ -119,5 +124,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/766472/page_bg_generated_v6b.jpg?t=1512524293"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/766472/page_bg_generated_v6b.jpg?t=1512524293",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

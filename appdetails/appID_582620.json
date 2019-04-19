@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     149576
@@ -189,9 +191,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 127
-  },
   "achievements": {
     "total": 12,
     "highlighted": [
@@ -245,5 +244,9 @@
     "url": "https://www.reddit.com/r/Copoka/",
     "email": "copokagame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/582620/page_bg_generated_v6b.jpg?t=1488163990"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/582620/page_bg_generated_v6b.jpg?t=1488163990",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

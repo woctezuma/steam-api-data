@@ -25,10 +25,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    "143005"
+    143005
   ],
   "package_groups": [
     {
@@ -41,7 +43,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "143005",
+          "packageid": 143005,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Con Man: A Small Step for Manly - 1,99\u20ac",
@@ -72,6 +74,9 @@
       "description": "Captions available"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Dec, 2016"
@@ -80,5 +85,9 @@
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

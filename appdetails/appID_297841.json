@@ -11,7 +11,7 @@
     "appid": "274980",
     "name": "Influent"
   },
-  "supported_languages": "English<strong>*</strong>, Japanese, French, German, Russian, Swedish, Italian, Spanish, Portuguese, Portuguese-Brazil, Danish, Finnish, Korean, Norwegian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, Japanese, French, German, Russian, Swedish, Italian, Spanish - Spain, Portuguese, Portuguese - Brazil, Danish, Finnish, Korean, Norwegian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/297841/header.jpg?t=1511361503",
   "website": "http://playinfluent.com/",
   "pc_requirements": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     43186
@@ -131,5 +133,9 @@
     "url": "http://playinfluent.com/",
     "email": "contact@playinfluent.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/297841/page_bg_generated_v6b.jpg?t=1511361503"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/297841/page_bg_generated_v6b.jpg?t=1511361503",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

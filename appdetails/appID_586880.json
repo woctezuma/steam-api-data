@@ -8,7 +8,7 @@
   "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/586880/extras/miniprecio.png?t=1497513974\" ><br><br>&quot;Mini Ghost&quot; is a mini metroidvania where the mini hero has to... well, reading can be rather boring, right? I'll best show you the introduction of the game with a mini comic:<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/586880/extras/comic.jpg?t=1497513974\" ><h2 class=\"bb_tag\">MINI FEATURES</h2>- MSX look and feel<br>- 100 mini rooms + 4 mini bosses + 24 mini items to collect or buy in mini shops<br>- Mini comics included<br>- Around 2 mini hours of gameplay<br>- Mini price!<br>- Prequel of Ghost 1.0<br>- Done by the mini creator of Unepic<h2 class=\"bb_tag\">TROLL YOUR FRIENDS</h2>Steam friends are playing MiniGhost? Troll them!<br>You can watch them while they play, and you can shoot them stuff, make their enemies bolder, or place fake platforms.<br>There is no better way to laugh!<h2 class=\"bb_tag\">MINI EDITORS</h2><br>Besides, the game includes three editors:<br>- Level editor: create your own maps and share them on Steam Workshop<br>- Character editor: create your own characters and share them on Steam Workshop<br>- Tileset editor: give a new look to your map creating your own designs<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/586880/extras/octopus_mitad.png?t=1497513974\" ><h2 class=\"bb_tag\">SPEEDRUNS</h2><br>The game also includes a leaderboard for speedrunners<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/586880/extras/leaderboard_mitad.png?t=1497513974\" >",
   "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/586880/extras/miniprecio.png?t=1497513974\" ><br><br>&quot;Mini Ghost&quot; is a mini metroidvania where the mini hero has to... well, reading can be rather boring, right? I'll best show you the introduction of the game with a mini comic:<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/586880/extras/comic.jpg?t=1497513974\" ><h2 class=\"bb_tag\">MINI FEATURES</h2>- MSX look and feel<br>- 100 mini rooms + 4 mini bosses + 24 mini items to collect or buy in mini shops<br>- Mini comics included<br>- Around 2 mini hours of gameplay<br>- Mini price!<br>- Prequel of Ghost 1.0<br>- Done by the mini creator of Unepic<h2 class=\"bb_tag\">TROLL YOUR FRIENDS</h2>Steam friends are playing MiniGhost? Troll them!<br>You can watch them while they play, and you can shoot them stuff, make their enemies bolder, or place fake platforms.<br>There is no better way to laugh!<h2 class=\"bb_tag\">MINI EDITORS</h2><br>Besides, the game includes three editors:<br>- Level editor: create your own maps and share them on Steam Workshop<br>- Character editor: create your own characters and share them on Steam Workshop<br>- Tileset editor: give a new look to your map creating your own designs<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/586880/extras/octopus_mitad.png?t=1497513974\" ><h2 class=\"bb_tag\">SPEEDRUNS</h2><br>The game also includes a leaderboard for speedrunners<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/586880/extras/leaderboard_mitad.png?t=1497513974\" >",
   "short_description": "&quot;Mini Ghost&quot; is a mini metroidvania in the 80's MSX art style and gameplay. It's the mini prequel of Ghost 1.0.",
-  "supported_languages": "English, Spanish, French, Italian, Russian",
+  "supported_languages": "English, Spanish - Spain, French, Italian, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/586880/header.jpg?t=1497513974",
   "website": null,
   "pc_requirements": {
@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "final": 99,
+    "discount_percent": 50,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     151679
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 151679,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Mini Ghost - 1,99\u20ac",
+          "option_text": "Mini Ghost - <span class=\"discount_original_price\">1,99\u20ac</span> 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -182,7 +184,7 @@
     }
   ],
   "recommendations": {
-    "total": 245
+    "total": 265
   },
   "achievements": {
     "total": 24,
@@ -237,5 +239,9 @@
     "url": "",
     "email": "unepicgame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/586880/page_bg_generated_v6b.jpg?t=1497513974"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/586880/page_bg_generated_v6b.jpg?t=1497513974",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

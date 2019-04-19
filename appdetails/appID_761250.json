@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Achievement Clicker Coal Edition!<br />\r\n<br />\r\nWith Coal Edition you get more Achievements to buy, and a reskin on the game!",
   "about_the_game": "Achievement Clicker Coal Edition!<br />\r\n<br />\r\nWith Coal Edition you get more Achievements to buy, and a reskin on the game!",
-  "short_description": "Achievement Clicker Coal Edition!<br />\r\n<br />\r\nWith Coal Edition you get more Achievements to buy, and a reskin on the game!",
+  "short_description": "Achievement Clicker Coal Edition! With Coal Edition you get more Achievements to buy, and a reskin on the game!",
   "fullgame": {
     "appid": "743640",
     "name": "Achievement Clicker"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     224842
@@ -101,5 +103,9 @@
     "url": "https://twitter.com/OfficialAndyDev",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/761250/page_bg_generated_v6b.jpg?t=1511862360"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/761250/page_bg_generated_v6b.jpg?t=1511862360",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

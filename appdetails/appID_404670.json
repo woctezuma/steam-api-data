@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     79390
@@ -103,5 +105,9 @@
     "url": "",
     "email": "contact@bskgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404670/page_bg_generated_v6b.jpg?t=1447378172"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404670/page_bg_generated_v6b.jpg?t=1447378172",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

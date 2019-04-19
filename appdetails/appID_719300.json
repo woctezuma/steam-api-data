@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     208614
@@ -127,6 +129,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Oct, 2017"
@@ -135,5 +140,9 @@
     "url": "http://pikointeractive.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/719300/page_bg_generated_v6b.jpg?t=1513731518"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/719300/page_bg_generated_v6b.jpg?t=1513731518",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

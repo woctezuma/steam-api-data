@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     40844
@@ -171,7 +173,7 @@
     }
   ],
   "recommendations": {
-    "total": 154
+    "total": 144
   },
   "achievements": {
     "total": 0
@@ -184,5 +186,9 @@
     "url": "",
     "email": "support@meteoricgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/291250/page_bg_generated_v6b.jpg?t=1516284031"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/291250/page_bg_generated_v6b.jpg?t=1516284031",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

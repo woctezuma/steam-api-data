@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 1899,
     "final": 1899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "18,99\u20ac"
   },
   "packages": [
     16989
@@ -64,7 +66,7 @@
   },
   "metacritic": {
     "score": 44,
-    "url": "http://www.metacritic.com/game/pc/cortex-command?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/cortex-command?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -219,7 +221,7 @@
     }
   ],
   "recommendations": {
-    "total": 3702
+    "total": 1321
   },
   "achievements": {
     "total": 11,
@@ -274,5 +276,9 @@
     "url": "http://forums.datarealms.com/viewforum.php?f=72",
     "email": "support@datarealms.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/209670/page_bg_generated_v6b.jpg?t=1518343579"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/209670/page_bg_generated_v6b.jpg?t=1518343579",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

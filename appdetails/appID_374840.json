@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     69203
@@ -120,5 +122,12 @@
     "url": "http://lastdisbeliever.com",
     "email": "sashadarko@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/374840/page_bg_generated_v6b.jpg?t=1489125117"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/374840/page_bg_generated_v6b.jpg?t=1489125117",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

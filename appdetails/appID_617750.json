@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     165738
@@ -174,6 +176,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Jul, 2017"
@@ -182,5 +187,9 @@
     "url": "http://www.playneurowake.com",
     "email": "neurowake@shortfuse.cn"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/617750/page_bg_generated_v6b.jpg?t=1502969108"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/617750/page_bg_generated_v6b.jpg?t=1502969108",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     60028
@@ -253,5 +255,9 @@
     "url": "http://www.dedicationlabs.com",
     "email": "support@dedicationlabs.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/348160/page_bg_generated_v6b.jpg?t=1494587795"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/348160/page_bg_generated_v6b.jpg?t=1494587795",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

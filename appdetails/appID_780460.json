@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     235053
@@ -100,6 +102,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/780460/ss_11ce0a1f6dd26a75c7f89bbc2c0caac7557a766e.1920x1080.jpg?t=1516730401"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Jan, 2018"
@@ -108,5 +113,9 @@
     "url": "http://sqex.to/steamsupport",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/780460/page_bg_generated_v6b.jpg?t=1516730401"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/780460/page_bg_generated_v6b.jpg?t=1516730401",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

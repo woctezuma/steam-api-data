@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     222616
@@ -44,7 +46,7 @@
           "packageid": 222616,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Speed of Visualization - 0,99\u20ac",
+          "option_text": "Target speed - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -113,6 +115,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jan, 2018"
@@ -121,5 +126,9 @@
     "url": "",
     "email": "hyperexp@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/755230/page_bg_generated_v6b.jpg?t=1516084964"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/755230/page_bg_generated_v6b.jpg?t=1516084964",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

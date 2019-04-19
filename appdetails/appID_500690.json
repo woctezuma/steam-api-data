@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     114875
@@ -180,5 +182,9 @@
     "url": "http://Projecttranquil.com",
     "email": "projecttranquil@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/500690/page_bg_generated_v6b.jpg?t=1510688543"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/500690/page_bg_generated_v6b.jpg?t=1510688543",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     191049
@@ -149,6 +151,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Aug, 2017"
@@ -157,5 +162,9 @@
     "url": "http://www.crystallinegreen.com",
     "email": "contact@crystallinegreen.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/671370/page_bg_generated_v6b.jpg?t=1501800988"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/671370/page_bg_generated_v6b.jpg?t=1501800988",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

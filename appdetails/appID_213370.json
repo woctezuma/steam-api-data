@@ -11,7 +11,7 @@
     "appid": "204100",
     "name": "Max Payne 3"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian<strong>*</strong>, Russian, Spanish<strong>*</strong>, Japanese, Korean, Polish, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian<strong>*</strong>, Russian, Spanish - Spain<strong>*</strong>, Japanese, Korean, Polish, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/213370/header.jpg?t=1478120777",
   "website": "http://www.rockstargames.com/maxpayne3",
   "pc_requirements": [],
@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     14907
@@ -152,8 +154,8 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/213370/ss_4fc1bd43a6a2d09617706b8dd85900edf293a711.1920x1080.jpg?t=1478120777"
     }
   ],
-  "recommendations": {
-    "total": 111
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -163,5 +165,9 @@
     "url": "http://support.rockstargames.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/213370/page_bg_generated_v6b.jpg?t=1478120777"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/213370/page_bg_generated_v6b.jpg?t=1478120777",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

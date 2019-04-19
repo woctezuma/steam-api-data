@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 600,
     "final": 600,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,--\u20ac"
   },
   "packages": [
     58364
@@ -121,6 +123,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/345380/ss_bedee0910769241ef5089020f635289580fdb246.1920x1080.jpg?t=1468444256"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": ""
@@ -129,5 +134,9 @@
     "url": "http://mediatonicgames.com/",
     "email": "info@mediatonicgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/345380/page_bg_generated_v6b.jpg?t=1468444256"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/345380/page_bg_generated_v6b.jpg?t=1468444256",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

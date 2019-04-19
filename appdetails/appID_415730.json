@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Deep within the Coalsack Nebula waits the space-station DarkHack. <br />\r\n<br />\r\nEnter into this highly anomalous part of space to explore the mysterious station in order to find the Skin of Nesak, an armour so powerful it is rumoured to have one belonged to Nesak \u2013 the high priest of the Progenitors. Yet beware, this is a station consumed by darkness, where exploration must be done by the narrow beam of a torch. <br />\r\n<br />\r\nFeatures:<br />\r\n\u2022\tA highly atmospheric experience with a completely new torch/darkness system.<br />\r\n\u2022\tPowerful new armour.<br />\r\n\u2022\tA roguelike, in game, experience for those playing normal or ironman mode.",
   "about_the_game": "Deep within the Coalsack Nebula waits the space-station DarkHack. <br />\r\n<br />\r\nEnter into this highly anomalous part of space to explore the mysterious station in order to find the Skin of Nesak, an armour so powerful it is rumoured to have one belonged to Nesak \u2013 the high priest of the Progenitors. Yet beware, this is a station consumed by darkness, where exploration must be done by the narrow beam of a torch. <br />\r\n<br />\r\nFeatures:<br />\r\n\u2022\tA highly atmospheric experience with a completely new torch/darkness system.<br />\r\n\u2022\tPowerful new armour.<br />\r\n\u2022\tA roguelike, in game, experience for those playing normal or ironman mode.",
-  "short_description": "Deep within the Coalsack Nebula waits the space-station DarkHack. <br />\r\n<br />\r\nEnter into this highly anomalous part of space to explore the mysterious station in order to find the Skin of Nesak, an armour so powerful it is rumoured to have one belonged to Nesak \u2013 the high priest of the Progenitors. Yet beware, this is a station consumed by darkness, where exploration must be done by the narrow beam of a torch.",
+  "short_description": "Deep within the Coalsack Nebula waits the space-station DarkHack. Enter into this highly anomalous part of space to explore the mysterious station in order to find the Skin of Nesak, an armour so powerful it is rumoured to have one belonged to Nesak \u2013 the high priest of the Progenitors.",
   "fullgame": {
     "appid": "363510",
     "name": "STAR-BOX: RPG Adventures in Space"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     83724
@@ -157,5 +159,9 @@
     "url": "",
     "email": "flynnmichael81@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/415730/page_bg_generated_v6b.jpg?t=1447378737"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/415730/page_bg_generated_v6b.jpg?t=1447378737",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

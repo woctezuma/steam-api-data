@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1599,
     "final": 1599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "15,99\u20ac"
   },
   "packages": [
     117880,
@@ -164,5 +166,9 @@
     "url": "http://www.vrotein.co.kr",
     "email": "app@vrotein.co.kr"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/509360/page_bg_generated_v6b.jpg?t=1487302216"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/509360/page_bg_generated_v6b.jpg?t=1487302216",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Grimm - Episode 21 - Sleeping Beauty",
   "about_the_game": "Grimm - Episode 21 - Sleeping Beauty",
-  "short_description": "",
+  "short_description": "Grimm - Episode 21 - Sleeping Beauty",
   "fullgame": {
     "appid": "252150",
     "name": "Grimm"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     33734,
@@ -136,5 +138,9 @@
     "url": "http://support.spicyhorse.com",
     "email": "support@spicyhorsegames.zendesk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261410/page_bg_generated_v6b.jpg?t=1447359318"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261410/page_bg_generated_v6b.jpg?t=1447359318",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

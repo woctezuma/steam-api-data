@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Enrich your Hearts of Iron III playing experience with new uniforms for the US forces. Included in the pack you will gets sprites for the following:<br><ul class=\"bb_ul\"><li>Infantry / Anti-Tank 1936; 1942; 1944   (only one Sprite each year)<br></li><li>Artillery / Rocket Artillery 1936; 1942; 1944  (only one Sprite each year)<br></li><li>Anti-Air 1936; 1942; 1944 <br></li><li>Marine-Infantry 1936; 1942; 1944<br></li><li>Armored Car 1936; 1942; 1944 <br></li><li>Mountain Infantry 1942<br></li><li>Partisan 1936<br></li><li>Cavalry 1936; 1942; 1944<br></li><li>Military Police 1936; 1942; 1944<br></li><li>Militia 1936; 1942; 1944<br></li><li>Engineer 1936; 1942; 1944<br></li><li>Paratrooper 1942; 1944<br></li><li>HQ 1936 <br></li><li>Garrison 1936<br></li><li>Self Propelled Artillery 1942<br></li><li>Self Propelled Artillery / Self Propelled Rocket Artillery 1944 (only one Sprite)</li></ul>US Infantry Sprite Pack includes 35 new uniforms for various models of infantry when playing as the US.",
   "about_the_game": "Enrich your Hearts of Iron III playing experience with new uniforms for the US forces. Included in the pack you will gets sprites for the following:<br><ul class=\"bb_ul\"><li>Infantry / Anti-Tank 1936; 1942; 1944   (only one Sprite each year)<br></li><li>Artillery / Rocket Artillery 1936; 1942; 1944  (only one Sprite each year)<br></li><li>Anti-Air 1936; 1942; 1944 <br></li><li>Marine-Infantry 1936; 1942; 1944<br></li><li>Armored Car 1936; 1942; 1944 <br></li><li>Mountain Infantry 1942<br></li><li>Partisan 1936<br></li><li>Cavalry 1936; 1942; 1944<br></li><li>Military Police 1936; 1942; 1944<br></li><li>Militia 1936; 1942; 1944<br></li><li>Engineer 1936; 1942; 1944<br></li><li>Paratrooper 1942; 1944<br></li><li>HQ 1936 <br></li><li>Garrison 1936<br></li><li>Self Propelled Artillery 1942<br></li><li>Self Propelled Artillery / Self Propelled Rocket Artillery 1944 (only one Sprite)</li></ul>US Infantry Sprite Pack includes 35 new uniforms for various models of infantry when playing as the US.",
-  "short_description": "",
+  "short_description": "Enrich your Hearts of Iron III playing experience with new uniforms for the US forces. Included in the pack you will gets sprites for the following:Infantry / Anti-Tank 1936; 1942; 1944 (only one Sprite each year)Artillery / Rocket Artillery 1936; 1942; 1944 (only one Sprite each year)Anti-Air 1936; 1942; 1944 Marine-Infantry 1936; 1942;...",
   "fullgame": {
     "appid": "42903",
     "name": "Hearts of Iron III: For the Motherland"
@@ -31,12 +31,12 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    15898,
-    29531,
-    37223
+    15898
   ],
   "package_groups": [
     {
@@ -57,26 +57,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 99
-        },
-        {
-          "packageid": 29531,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron 3 DLC Collection - 29,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2999
-        },
-        {
-          "packageid": 37223,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron Collection III (Jan 2014) - 41,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4199
         }
       ]
     }
@@ -125,6 +105,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/214980/ss_edebee26fbcd37eb112bc70f188a0d3277fc3e5b.1920x1080.jpg?t=1447356081"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Jul, 2012"
@@ -133,5 +116,9 @@
     "url": "www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214980/page_bg_generated_v6b.jpg?t=1447356081"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214980/page_bg_generated_v6b.jpg?t=1447356081",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

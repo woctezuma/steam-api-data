@@ -11,7 +11,7 @@
     "appid": "371520",
     "name": "Bounty Train"
   },
-  "supported_languages": "English, German, Russian, Ukrainian, French, Spanish, Traditional Chinese, Simplified Chinese, Japanese, Polish",
+  "supported_languages": "English, German, Russian, Ukrainian, French, Spanish - Spain, Traditional Chinese, Simplified Chinese, Japanese, Polish",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/394090/header.jpg?t=1495111596",
   "website": "http://bountytrain.com/",
   "pc_requirements": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 3499,
     "final": 3499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "34,99\u20ac"
   },
   "packages": [
     75550
@@ -190,6 +192,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Aug, 2015"
@@ -198,5 +203,9 @@
     "url": "http://forum.daedalic.de/",
     "email": "support@daedalic.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/394090/page_bg_generated_v6b.jpg?t=1495111596"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/394090/page_bg_generated_v6b.jpg?t=1495111596",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

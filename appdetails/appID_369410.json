@@ -10,7 +10,7 @@
   "short_description": "The Soundtrack for the game Life Of Pixel",
   "fullgame": {
     "appid": "327260",
-    "name": "Life of Pixel"
+    "name": "Super Life of Pixel"
   },
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/369410/header.jpg?t=1505731344",
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     67233
@@ -103,5 +105,9 @@
     "url": "http://www.supericon.co.uk/",
     "email": "support@supericon.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/369410/page_bg_generated_v6b.jpg?t=1505731344"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/369410/page_bg_generated_v6b.jpg?t=1505731344",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

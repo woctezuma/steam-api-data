@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     187902
@@ -155,5 +157,9 @@
     "url": "",
     "email": "terry.katsoulis@plaidmangames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/662690/page_bg_generated_v6b.jpg?t=1499358875"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/662690/page_bg_generated_v6b.jpg?t=1499358875",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

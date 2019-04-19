@@ -15,7 +15,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/421100/header.jpg?t=1478101392",
   "website": "http://slitherine.com/games/hon_pc",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae Vista/7/8/10<br></li><li><strong>Processor:</strong> Pentium 4 or equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 512 Mb DirectX 9 video card with shader model 2.0<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 50 MB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e\u914d\u7f6e:</strong><br><ul class=\"bb_ul\"><li><strong>\u64cd\u4f5c\u7cfb\u7edf:</strong> Windows\u00ae Vista/7/8/10<br></li><li><strong>\u5904\u7406\u5668:</strong> Pentium 4 or equivalent<br></li><li><strong>\u5185\u5b58:</strong> 1 GB RAM<br></li><li><strong>\u56fe\u5f62:</strong> 512 Mb DirectX 9 video card with shader model 2.0<br></li><li><strong>DirectX \u7248\u672c:</strong> 9.0c<br></li><li><strong>\u5b58\u50a8\u7a7a\u95f4:</strong> \u9700\u8981 50 MB \u53ef\u7528\u7a7a\u95f4<br></li><li><strong>\u58f0\u5361:</strong> DirectX Compatible Sound Card</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     85840
@@ -110,6 +112,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/421100/ss_2018f52a999627b477315fc201b46d4b976a9b53.1920x1080.jpg?t=1478101392"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Dec, 2015"
@@ -118,5 +123,9 @@
     "url": "www.slitherine.com",
     "email": "support@slitherine.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/421100/page_bg_generated_v6b.jpg?t=1478101392"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/421100/page_bg_generated_v6b.jpg?t=1478101392",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

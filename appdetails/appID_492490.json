@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 50,
-    "discount_percent": 49
+    "initial": 79,
+    "final": 40,
+    "discount_percent": 49,
+    "initial_formatted": "0,79\u20ac",
+    "final_formatted": "0,40\u20ac"
   },
   "packages": [
     111688
@@ -44,11 +46,11 @@
           "packageid": 111688,
           "percent_savings_text": "-49%",
           "percent_savings": 0,
-          "option_text": "Zombie Apocalypse: Escape The Undead City - <span class=\"discount_original_price\">0,99\u20ac</span> 0,50\u20ac",
+          "option_text": "Zombie Apocalypse: Escape The Undead City - <span class=\"discount_original_price\">0,79\u20ac</span> 0,40\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 50
+          "price_in_cents_with_discount": 40
         }
       ]
     }
@@ -152,6 +154,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jun, 2016"
@@ -160,5 +165,9 @@
     "url": "http://www.playanarchygames.com",
     "email": "support@anarchyent.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492490/page_bg_generated_v6b.jpg?t=1473448349"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492490/page_bg_generated_v6b.jpg?t=1473448349",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

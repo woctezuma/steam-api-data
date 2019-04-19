@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     115583
@@ -127,7 +129,7 @@
     }
   ],
   "recommendations": {
-    "total": 218
+    "total": 215
   },
   "achievements": {
     "total": 55,
@@ -182,5 +184,9 @@
     "url": "",
     "email": "echa.spb@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502740/page_bg_generated_v6b.jpg?t=1496189469"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502740/page_bg_generated_v6b.jpg?t=1496189469",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

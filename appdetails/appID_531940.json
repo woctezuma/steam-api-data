@@ -15,7 +15,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/531940/header.jpg?t=1474609864",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 9<br></li><li><strong>Graphics:</strong> 1TB</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 9<br></li><li><strong>Graphiques\u00a0:</strong> 1TB</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     128360
@@ -106,5 +108,9 @@
     "url": "",
     "email": "laugicalgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/531940/page_bg_generated_v6b.jpg?t=1474609864"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/531940/page_bg_generated_v6b.jpg?t=1474609864",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

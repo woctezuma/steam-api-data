@@ -7,10 +7,10 @@
   "controller_support": "full",
   "detailed_description": "The Diluvion Official Digital Artbook includes concept arts and illustrations created for the game during its production by artists Leo Dasso &amp; Charles Lister.",
   "about_the_game": "The Diluvion Official Digital Artbook includes concept arts and illustrations created for the game during its production by artists Leo Dasso &amp; Charles Lister.",
-  "short_description": "",
+  "short_description": "The Diluvion Official Digital Artbook includes concept arts and illustrations created for the game during its production by artists Leo Dasso &amp; Charles Lister.",
   "fullgame": {
     "appid": "446790",
-    "name": "Diluvion"
+    "name": "Diluvion: Resubmerged"
   },
   "supported_languages": "English<strong>*</strong>, French, German, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/577610/header.jpg?t=1505119502",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     147460
@@ -102,13 +104,11 @@
       "id": 0,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/577610/ss_fb4675bca51e3cc947651f158bea73c3eec3d057.600x338.jpg?t=1505119502",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/577610/ss_fb4675bca51e3cc947651f158bea73c3eec3d057.1920x1080.jpg?t=1505119502"
-    },
-    {
-      "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/577610/?t=1505119502",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/577610/?t=1505119502"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Feb, 2017"
@@ -117,5 +117,9 @@
     "url": "",
     "email": "support@arachnidgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/577610/page_bg_generated_v6b.jpg?t=1505119502"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/577610/page_bg_generated_v6b.jpg?t=1505119502",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

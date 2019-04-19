@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>The universe is in chaos, and the final hope for humanity is two thousand years in the past with a fast talking computer that loves knock-knock jokes. What could possibly go wrong? Red vs. Blue returns for the biggest adventure yet!",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>The universe is in chaos, and the final hope for humanity is two thousand years in the past with a fast talking computer that loves knock-knock jokes. What could possibly go wrong? Red vs. Blue returns for the biggest adventure yet!",
   "about_the_game": "The universe is in chaos, and the final hope for humanity is two thousand years in the past with a fast talking computer that loves knock-knock jokes. What could possibly go wrong? Red vs. Blue returns for the biggest adventure yet!",
   "short_description": "The universe is in chaos, and the final hope for humanity is two thousand years in the past with a fast talking computer that loves knock-knock jokes. What could possibly go wrong? Red Vs. Blue returns for the biggest adventure yet!",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     113934,
@@ -170,6 +172,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Aug, 2016"
@@ -178,5 +183,9 @@
     "url": "http://www.cinedigm.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498250/page_bg_generated_v6b.jpg?t=1472754203"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498250/page_bg_generated_v6b.jpg?t=1472754203",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

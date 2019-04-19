@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "&quot;DARK SOULS\u2122 II Crown of the Ivory King&quot; is the third of 3 large-scale DLC additions to DARK SOULS\u2122 II, and includes all-new stages, maps, boss characters, weapons &amp; armor! In this third DLC, players will find themselves in a world shining bright with the glow of treacherous ice. Can you find and recover the lost crown?",
   "about_the_game": "&quot;DARK SOULS\u2122 II Crown of the Ivory King&quot; is the third of 3 large-scale DLC additions to DARK SOULS\u2122 II, and includes all-new stages, maps, boss characters, weapons &amp; armor! In this third DLC, players will find themselves in a world shining bright with the glow of treacherous ice. Can you find and recover the lost crown?",
-  "short_description": "",
+  "short_description": "&quot;DARK SOULS\u2122 II Crown of the Ivory King&quot; is the third of 3 large-scale DLC additions to DARK SOULS\u2122 II, and includes all-new stages, maps, boss characters, weapons &amp; armor! In this third DLC, players will find themselves in a world shining bright with the glow of treacherous ice. Can you find and recover the lost crown?",
   "fullgame": {
     "appid": "236430",
     "name": "DARK SOULS\u2122 II"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Korean, Polish, Portuguese-Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/271944/header.jpg?t=1447360025",
   "website": null,
   "pc_requirements": {
@@ -33,12 +33,14 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     36527,
     58135,
-    "39300"
+    39300
   ],
   "package_groups": [
     {
@@ -71,7 +73,7 @@
           "price_in_cents_with_discount": 3999
         },
         {
-          "packageid": "39300",
+          "packageid": 39300,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "DARK SOULS\u2122 II - Season Pass - 24,99\u20ac",
@@ -229,7 +231,10 @@
     }
   ],
   "recommendations": {
-    "total": 166
+    "total": 109
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -239,5 +244,9 @@
     "url": "http://www.bandainamcoent.com/support",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/271944/page_bg_generated_v6b.jpg?t=1447360025"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/271944/page_bg_generated_v6b.jpg?t=1447360025",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

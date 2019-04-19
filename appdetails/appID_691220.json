@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Parkour is a runner game with tons of challenges. Your objective is simple - try to run as far as possible.<br />\r\nThe levels are randomly generated. The difficulty increases as you run farther.<br />\r\nLava, monsters, powerups &amp; your quick &quot;decision making&quot; will change your fate.<br />\r\n<br />\r\nFeatures :<br />\r\n- Randomly generated chunks<br />\r\n- Powerups (speed, points, invincibility, health)<br />\r\n- Various obstacles (lava, spikes, monsters)<br />\r\n- Different levels can be explored as you run farther<br />\r\n- Achievements &amp; leaderboard (Google Play, Steam)",
   "about_the_game": "Parkour is a runner game with tons of challenges. Your objective is simple - try to run as far as possible.<br />\r\nThe levels are randomly generated. The difficulty increases as you run farther.<br />\r\nLava, monsters, powerups &amp; your quick &quot;decision making&quot; will change your fate.<br />\r\n<br />\r\nFeatures :<br />\r\n- Randomly generated chunks<br />\r\n- Powerups (speed, points, invincibility, health)<br />\r\n- Various obstacles (lava, spikes, monsters)<br />\r\n- Different levels can be explored as you run farther<br />\r\n- Achievements &amp; leaderboard (Google Play, Steam)",
-  "short_description": "Parkour is a runner game with tons of challenges.<br />\r\nTry to run as far as possible.",
+  "short_description": "Parkour is a runner game with tons of challenges. Try to run as far as possible.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/691220/header.jpg?t=1504363079",
   "website": "http://www.mubeatstudio.com/portfolio-item/parkour/",
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     198129
@@ -189,5 +191,9 @@
     "url": "http://www.mubeatstudio.com/contact-us/",
     "email": "jmdg22@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/691220/page_bg_generated_v6b.jpg?t=1504363079"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/691220/page_bg_generated_v6b.jpg?t=1504363079",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

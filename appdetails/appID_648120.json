@@ -7,8 +7,8 @@
   "detailed_description": "Battle of Painters is the first online game where you have to compete with other players in a drawing!<br />\r\n<br />\r\nThe round starts and you get given a theme, the goal is to make a drawing based on the given theme in 5 minutes using a bunch of tools like pencil, eraser, spray, square and circle shapes, line, bomb(erases everything), undo and redo tools. But you are not alone: other players are drawing their paintings in front of you! There is a voting for the best picture after the round is over. The painting with the most votes wins the game!<br />\r\n<br />\r\n- 2 game modes: Battle of Artists and Draw a guess<br />\r\n- Online gallery with the best works<br />\r\n- Friends system<br />\r\n- Creating a unique character<br />\r\n- Clans",
   "about_the_game": "Battle of Painters is the first online game where you have to compete with other players in a drawing!<br />\r\n<br />\r\nThe round starts and you get given a theme, the goal is to make a drawing based on the given theme in 5 minutes using a bunch of tools like pencil, eraser, spray, square and circle shapes, line, bomb(erases everything), undo and redo tools. But you are not alone: other players are drawing their paintings in front of you! There is a voting for the best picture after the round is over. The painting with the most votes wins the game!<br />\r\n<br />\r\n- 2 game modes: Battle of Artists and Draw a guess<br />\r\n- Online gallery with the best works<br />\r\n- Friends system<br />\r\n- Creating a unique character<br />\r\n- Clans",
   "short_description": "Become the best painter in the universe in this colorful online game!",
-  "supported_languages": "English, Spanish, Korean, Russian, Thai, Italian, German, Simplified Chinese, Portuguese, Ukrainian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/648120/header.jpg?t=1516646468",
+  "supported_languages": "English, Spanish - Spain, Korean, Russian, Thai, Italian, German, Simplified Chinese, Portuguese, Ukrainian",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/648120/header.jpg?t=1529478933",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 1.2 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 128 MB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
@@ -29,10 +29,13 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    "182613"
+    182613,
+    305200
   ],
   "package_groups": [
     {
@@ -45,10 +48,20 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "182613",
+          "packageid": 182613,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Battle of Painters - 0,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 99
+        },
+        {
+          "packageid": 305200,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Pixel Painter - Commercial License - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -76,6 +89,10 @@
       "description": "Cross-Platform Multiplayer"
     },
     {
+      "id": 29,
+      "description": "Steam Trading Cards"
+    },
+    {
       "id": 15,
       "description": "Stats"
     }
@@ -93,30 +110,33 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_3de83398afdc0a436d259b515ecef162d0fa8021.600x338.jpg?t=1516646468",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_3de83398afdc0a436d259b515ecef162d0fa8021.1920x1080.jpg?t=1516646468"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_3de83398afdc0a436d259b515ecef162d0fa8021.600x338.jpg?t=1529478933",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_3de83398afdc0a436d259b515ecef162d0fa8021.1920x1080.jpg?t=1529478933"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_2e18f5b795e1384a6d8dccda5a88e38b09abf683.600x338.jpg?t=1516646468",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_2e18f5b795e1384a6d8dccda5a88e38b09abf683.1920x1080.jpg?t=1516646468"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_2e18f5b795e1384a6d8dccda5a88e38b09abf683.600x338.jpg?t=1529478933",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_2e18f5b795e1384a6d8dccda5a88e38b09abf683.1920x1080.jpg?t=1529478933"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_638f50da012ee254ca950325e645c18e4759200c.600x338.jpg?t=1516646468",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_638f50da012ee254ca950325e645c18e4759200c.1920x1080.jpg?t=1516646468"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_638f50da012ee254ca950325e645c18e4759200c.600x338.jpg?t=1529478933",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_638f50da012ee254ca950325e645c18e4759200c.1920x1080.jpg?t=1529478933"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_a65c573d13ad777de6f73e0ce9ad1593e9ca1ec9.600x338.jpg?t=1516646468",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_a65c573d13ad777de6f73e0ce9ad1593e9ca1ec9.1920x1080.jpg?t=1516646468"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_a65c573d13ad777de6f73e0ce9ad1593e9ca1ec9.600x338.jpg?t=1529478933",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_a65c573d13ad777de6f73e0ce9ad1593e9ca1ec9.1920x1080.jpg?t=1529478933"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_58b05eab2e3d82e02464c33565d4b2fa39bc3263.600x338.jpg?t=1516646468",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_58b05eab2e3d82e02464c33565d4b2fa39bc3263.1920x1080.jpg?t=1516646468"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_58b05eab2e3d82e02464c33565d4b2fa39bc3263.600x338.jpg?t=1529478933",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/648120/ss_58b05eab2e3d82e02464c33565d4b2fa39bc3263.1920x1080.jpg?t=1529478933"
     }
   ],
+  "recommendations": {
+    "total": 364
+  },
   "achievements": {
     "total": 0
   },
@@ -128,5 +148,9 @@
     "url": "https://vk.com/pixelpainter",
     "email": "belkovandrew@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/648120/page_bg_generated_v6b.jpg?t=1516646468"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/648120/page_bg_generated_v6b.jpg?t=1529478933",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

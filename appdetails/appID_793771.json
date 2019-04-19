@@ -11,7 +11,7 @@
     "appid": "363890",
     "name": "RPG Maker MV"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Portuguese-Brazil, Russian, Japanese, Korean, Traditional Chinese, Arabic, Simplified Chinese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Japanese, Korean, Traditional Chinese, Arabic, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/793771/header.jpg?t=1523615903",
   "website": "http://www.rpgmakerweb.com/",
   "pc_requirements": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     240569
@@ -108,6 +110,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793771/ss_e82e25af96ae386f54acfe2d4678f9a30fe1a4e6.1920x1080.jpg?t=1523615903"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Feb, 2018"
@@ -116,5 +121,9 @@
     "url": "http://www.rpgmakerweb.com/support",
     "email": "support@rpgmakerweb.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793771/page_bg_generated_v6b.jpg?t=1523615903"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793771/page_bg_generated_v6b.jpg?t=1523615903",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

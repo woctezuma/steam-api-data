@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     217553
@@ -154,6 +156,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Feb, 2018"
@@ -162,5 +167,9 @@
     "url": "http://roguemance.com",
     "email": "lucas@roguemance.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/742530/page_bg_generated_v6b.jpg?t=1519564762"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/742530/page_bg_generated_v6b.jpg?t=1519564762",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -10,7 +10,7 @@
   ],
   "detailed_description": "Chaos Domain is a game about shooting bad people in the face.<br><br>Apart from that, it is also a run and gun platformer, powered by Unreal Engine. The game is highly influenced by games from 8-bit and 16-bit era, including Contra/Probotector series, as well as titles like Abuse and Doom Troopers. <br><br>The game is set on a huge spaceship occupied by chaos cultists, where the main character (who clearly looks like a hi-tech version of the god Anubis) must kill everyone in sight. The game is obviously not story-driven, it\u2019s all about action.<br><br>Players can upgrade weapons and purchase special items that can boost their performance. Local co-op for 2 players is available.<br><br><br><strong>FEATURES</strong><br>\u2022 Classic gameplay.<br>\u2022 10 levels split into sub-areas, which gives us about 30 stages.<br>\u2022 Upgradable weapons and a range of special abilities to choose from.<br>\u2022 Pure hardcore run and gun action.<br>\u2022 Traditional 2 Player local co-op.",
   "about_the_game": "Chaos Domain is a game about shooting bad people in the face.<br><br>Apart from that, it is also a run and gun platformer, powered by Unreal Engine. The game is highly influenced by games from 8-bit and 16-bit era, including Contra/Probotector series, as well as titles like Abuse and Doom Troopers. <br><br>The game is set on a huge spaceship occupied by chaos cultists, where the main character (who clearly looks like a hi-tech version of the god Anubis) must kill everyone in sight. The game is obviously not story-driven, it\u2019s all about action.<br><br>Players can upgrade weapons and purchase special items that can boost their performance. Local co-op for 2 players is available.<br><br><br><strong>FEATURES</strong><br>\u2022 Classic gameplay.<br>\u2022 10 levels split into sub-areas, which gives us about 30 stages.<br>\u2022 Upgradable weapons and a range of special abilities to choose from.<br>\u2022 Pure hardcore run and gun action.<br>\u2022 Traditional 2 Player local co-op.",
-  "short_description": "Chaos Domain is a game about shooting bad people in the face. Apart from that, it is also a run and gun platformer, powered by Unreal Engine. The game is highly influenced by games from 8-bit and 16-bit era, including Contra/Probotector series, as well as titles like Abuse and Doom Troopers. The game is set on a huge spaceship occupied by chaos cultists, where the main character (who clearly looks like a hi-tech version of the god Anubis) must kill everyone in sight.",
+  "short_description": "Chaos Domain is a game about shooting bad people in the face. Apart from that, it is also a run and gun platformer, powered by Unreal Engine. The game is highly influenced by games from 8-bit and 16-bit era, including Contra/Probotector series, as well as titles like Abuse and Doom Troopers.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/287100/header.jpg?t=1447360857",
   "website": "http://holywarp.com/",
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 99,
-    "discount_percent": 90
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     39922,
@@ -50,23 +52,23 @@
       "subs": [
         {
           "packageid": 39922,
-          "percent_savings_text": "-90%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Chaos Domain - <span class=\"discount_original_price\">9,99\u20ac</span> 0,99\u20ac",
+          "option_text": "Chaos Domain - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 999
         },
         {
           "packageid": 44419,
-          "percent_savings_text": "-90%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Chaos Domain Soundtrack Edition - <span class=\"discount_original_price\">12,99\u20ac</span> 1,29\u20ac",
+          "option_text": "Chaos Domain Soundtrack Edition - 12,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 129
+          "price_in_cents_with_discount": 1299
         }
       ]
     }
@@ -168,9 +170,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 789
-  },
   "achievements": {
     "total": 39,
     "highlighted": [
@@ -224,5 +223,9 @@
     "url": "http://holywarp.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/287100/page_bg_generated_v6b.jpg?t=1447360857"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/287100/page_bg_generated_v6b.jpg?t=1447360857",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 2799,
-    "final": 2799,
-    "discount_percent": 0
+    "initial": 4199,
+    "final": 4199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "41,99\u20ac"
   },
   "packages": [
     72052
@@ -49,11 +51,11 @@
           "packageid": 72052,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Grand Designer Pro - 27,99\u20ac",
+          "option_text": "Grand Designer Pro - 41,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2799
+          "price_in_cents_with_discount": 4199
         }
       ]
     }
@@ -109,5 +111,9 @@
     "url": "http://www.ignishot.com/contact.html",
     "email": "support@ignishot.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/383510/page_bg_generated_v6b.jpg?t=1493677255"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/383510/page_bg_generated_v6b.jpg?t=1493677255",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Exercise to your own music</strong>!  Punch, dodge, and dance around the ring. <br><br>BeatBoxer is a VR boxing game that puts you in the spotlight of your own boxing match. Play any song from Youtube or use Airplay to play a continuous stream of music from Spotify, Pandora, iTunes, or your favorite music app.<br><br>Train up from a feather weight, to world champ with increasing difficulty.  Dip left and right to avoid dodges while executing upper cuts and jabs to the rhythm of your music.  Immerse yourself and dance around the ring in Room-Scale VR.  Put your opponent on the ropes and connect multiple streaks to increase your score.<br><br>Each song is generated in real time using our custom developed music analysis software that <br>Allows you to stream continuously from any Airplay device \u2013 or directly from Youtube. <br><br>BeatBoxer tracks your score in a local leaderboard so you can show your friends who really floats like a butter fly and stings like a bee.  <br><br>Active developers on this project mean that new features are pumped out rapidly and community feedback molds new features.",
   "about_the_game": "<strong>Exercise to your own music</strong>!  Punch, dodge, and dance around the ring. <br><br>BeatBoxer is a VR boxing game that puts you in the spotlight of your own boxing match. Play any song from Youtube or use Airplay to play a continuous stream of music from Spotify, Pandora, iTunes, or your favorite music app.<br><br>Train up from a feather weight, to world champ with increasing difficulty.  Dip left and right to avoid dodges while executing upper cuts and jabs to the rhythm of your music.  Immerse yourself and dance around the ring in Room-Scale VR.  Put your opponent on the ropes and connect multiple streaks to increase your score.<br><br>Each song is generated in real time using our custom developed music analysis software that <br>Allows you to stream continuously from any Airplay device \u2013 or directly from Youtube. <br><br>BeatBoxer tracks your score in a local leaderboard so you can show your friends who really floats like a butter fly and stings like a bee.  <br><br>Active developers on this project mean that new features are pumped out rapidly and community feedback molds new features.",
-  "short_description": "<strong>Exercise to your own music</strong>!  Punch, dodge, and dance around the ring. BeatBoxer is a Room-Scale VR boxing game that puts you in the spotlight of your own boxing match. Play any song from Youtube or use Airplay to play a continuous stream of music from Spotify, Pandora, iTunes, or your favorite music app.",
+  "short_description": "Exercise to your own music! Punch, dodge, and dance around the ring. BeatBoxer is a Room-Scale VR boxing game that puts you in the spotlight of your own boxing match. Play any song from Youtube or use Airplay to play a continuous stream of music from Spotify, Pandora, iTunes, or your favorite music app.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/546650/header.jpg?t=1484063511",
   "website": null,
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     134915
@@ -110,16 +112,6 @@
       "id": 6,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/546650/ss_24ae5a6981864af2c064fd22f87f95706984c44d.600x338.jpg?t=1484063511",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/546650/ss_24ae5a6981864af2c064fd22f87f95706984c44d.1920x1080.jpg?t=1484063511"
-    },
-    {
-      "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/546650/?t=1484063511",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/546650/?t=1484063511"
-    },
-    {
-      "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/546650/?t=1484063511",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/546650/?t=1484063511"
     }
   ],
   "movies": [
@@ -134,6 +126,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Nov, 2016"
@@ -142,5 +137,9 @@
     "url": "",
     "email": "BeatBoxerLLC@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/546650/page_bg_generated_v6b.jpg?t=1484063511"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/546650/page_bg_generated_v6b.jpg?t=1484063511",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

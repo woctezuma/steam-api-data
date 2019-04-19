@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     74127
@@ -80,6 +82,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389990/ss_1d6d42147eeaa5009988e7cc6a916c59c1f243fa.1920x1080.jpg?t=1457634691"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Jul, 2015"
@@ -88,5 +93,11 @@
     "url": "",
     "email": "support@acrowdofmonsters.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389990/page_bg_generated_v6b.jpg?t=1457634691"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389990/page_bg_generated_v6b.jpg?t=1457634691",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

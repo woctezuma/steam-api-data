@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     154182
@@ -116,6 +118,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Mar, 2017"
@@ -124,5 +129,9 @@
     "url": "http://www.animatechina.com/",
     "email": "yangjianyou18@sina.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/592360/page_bg_generated_v6b.jpg?t=1490236528"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/592360/page_bg_generated_v6b.jpg?t=1490236528",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

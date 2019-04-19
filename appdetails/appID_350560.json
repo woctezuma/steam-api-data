@@ -11,7 +11,7 @@
     "appid": "345660",
     "name": "RIDE"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Polish<strong>*</strong>, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong>, Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/350560/header.jpg?t=1489747537",
   "website": "http://ridevideogame.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     60831
@@ -157,6 +159,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Sep, 2015"
@@ -165,5 +170,9 @@
     "url": "http://milestone.it/contacts/support/?lang=en",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/350560/page_bg_generated_v6b.jpg?t=1489747537"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/350560/page_bg_generated_v6b.jpg?t=1489747537",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

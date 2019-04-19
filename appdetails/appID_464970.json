@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     102002
@@ -116,6 +118,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464970/ss_4861111dc2869c51c5b7e61e71d1b56077c2dfb5.1920x1080.jpg?t=1508269500"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Apr, 2016"
@@ -124,5 +129,9 @@
     "url": "http://decayinglogic.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/464970/page_bg_generated_v6b.jpg?t=1508269500"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/464970/page_bg_generated_v6b.jpg?t=1508269500",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

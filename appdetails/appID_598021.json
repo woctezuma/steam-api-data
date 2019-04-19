@@ -12,11 +12,11 @@
     "appid": "360430",
     "name": "Mafia III"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Polish, Portuguese-Brazil, Czech, Russian, Japanese, Simplified Chinese, Traditional Chinese, Korean<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish, Portuguese - Brazil, Czech, Russian, Japanese, Simplified Chinese, Traditional Chinese, Korean<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/598021/header.jpg?t=1496156532",
   "website": "https://www.mafiagame.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows\u00ae 7, 64-bit<br></li><li><strong>Processor:</strong> Intel i5-2500K, AMD FX-8120<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> 2GB of Video Memory &amp; NVIDIA GeForce GTX 660, AMD Radeon HD7870<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compliant Sound Card<br></li><li><strong>Additional Notes:</strong> Windows 8.1 users may need additional Windows Update files: Please <a href=\"https://steamcommunity.com/linkfilter/?url=http://support.2k.com/hc/articles/226214648-A-Note-For-Windows-8-Users\" target=\"_blank\" rel=\"noopener\"  >Click here for information</a></a></li></ul>",
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows\u00ae 7, 64-bit<br></li><li><strong>Processor:</strong> Intel i5-2500K, AMD FX-8120<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> 2GB of Video Memory &amp; NVIDIA GeForce GTX 660, AMD Radeon HD7870<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compliant Sound Card<br></li><li><strong>Additional Notes:</strong> Windows 8.1 users may need additional Windows Update files: Please <a href=\"https://steamcommunity.com/linkfilter/?url=http://support.2k.com/hc/articles/226214648-A-Note-For-Windows-8-Users\" target=\"_blank\" rel=\"noopener\"  >Click here for information</a></li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows\u00ae 7, 64-bit<br></li><li><strong>Processor:</strong> Intel Core i7 3770 / AMD FX-8350<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 4GB of Video Memory &amp; NVIDIA GeForce GTX 780 or GeForce GTX 1060, AMD Radeon R9 290X<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compliant Sound Card</li></ul>"
   },
   "mac_requirements": {
@@ -27,7 +27,7 @@
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
   },
-  "legal_notice": "\u00a9 2017 TAKE-TWO INTERACTIVE SOFTWARE, INC. DEVELOPED BY HANGAR 13. MAFIA, TAKE-TWO INTERACTIVE SOFTWARE, 2K, HANGAR 13, AND THEIR RESPECTIVE LOGOS ARE ALL TRADEMARKS AND/OR REGISTERED TRADEMARKS OF TAKE-TWO INTERACTIVE SOFTWARE, INC. THE RATINGS ICON IS A TRADEMARK OF THE ENTERTAINMENT SOFTWARE ASSOCIATION. ALL OTHER MARKS ARE PROPERTY OF THEIR RESPECTIVE OWNERS. ALL RIGHTS RESERVED. <br><br>Use of this product requires agreement to the following third party end user license agreement: <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.take2games.com/eula/\" target=\"_blank\" rel=\"noopener\"  >http://www.take2games.com/eula/</a></a>",
+  "legal_notice": "\u00a9 2017 TAKE-TWO INTERACTIVE SOFTWARE, INC. DEVELOPED BY HANGAR 13. MAFIA, TAKE-TWO INTERACTIVE SOFTWARE, 2K, HANGAR 13, AND THEIR RESPECTIVE LOGOS ARE ALL TRADEMARKS AND/OR REGISTERED TRADEMARKS OF TAKE-TWO INTERACTIVE SOFTWARE, INC. THE RATINGS ICON IS A TRADEMARK OF THE ENTERTAINMENT SOFTWARE ASSOCIATION. ALL OTHER MARKS ARE PROPERTY OF THEIR RESPECTIVE OWNERS. ALL RIGHTS RESERVED. <br><br>Use of this product requires agreement to the following third party end user license agreement: <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.take2games.com/eula/\" target=\"_blank\" rel=\"noopener\"  >http://www.take2games.com/eula/</a>",
   "developers": [
     "Hangar 13"
   ],
@@ -37,8 +37,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "final": 749,
+    "discount_percent": 50,
+    "initial_formatted": "14,99\u20ac",
+    "final_formatted": "7,49\u20ac"
   },
   "packages": [
     156950
@@ -55,13 +57,13 @@
       "subs": [
         {
           "packageid": 156950,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Mafia III: Stones Unturned - 14,99\u20ac",
+          "option_text": "Mafia III: Stones Unturned - <span class=\"discount_original_price\">14,99\u20ac</span> 7,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 749
         }
       ]
     }
@@ -193,7 +195,10 @@
     }
   ],
   "recommendations": {
-    "total": 199
+    "total": 157
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -203,5 +208,13 @@
     "url": "support.2k.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/598021/page_bg_generated_v6b.jpg?t=1496156532"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/598021/page_bg_generated_v6b.jpg?t=1496156532",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

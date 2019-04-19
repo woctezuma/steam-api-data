@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 799,
+    "final": 799,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     70384
@@ -45,11 +47,11 @@
           "packageid": 70384,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Witches, Heroes and Magic - 14,99\u20ac",
+          "option_text": "Witches, Heroes and Magic - 7,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 799
         }
       ]
     }
@@ -135,6 +137,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Jun, 2015"
@@ -143,5 +148,9 @@
     "url": "https://www.facebook.com/pages/Witches-Heroes-and-Magic-WHAM/900411509987289",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/378510/page_bg_generated_v6b.jpg?t=1512465870"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/378510/page_bg_generated_v6b.jpg?t=1512465870",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

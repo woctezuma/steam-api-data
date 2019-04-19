@@ -12,7 +12,7 @@
     "appid": "479110",
     "name": "Hunter's Legacy"
   },
-  "supported_languages": "English, Spanish",
+  "supported_languages": "English, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/480600/header.jpg?t=1479856674",
   "website": "http://www.lienzo.mx/hunterslegacy/",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     107571
@@ -106,5 +108,9 @@
     "url": "http://www.lienzo.mx/contact/",
     "email": "hola@lienzo.mx"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/480600/page_bg_generated_v6b.jpg?t=1479856674"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/480600/page_bg_generated_v6b.jpg?t=1479856674",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

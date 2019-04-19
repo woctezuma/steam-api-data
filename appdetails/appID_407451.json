@@ -11,7 +11,7 @@
     "appid": "327670",
     "name": "Ironcast"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/407451/header.jpg?t=1506940039",
   "website": "http://www.dreadbit.com/Ironcast",
   "pc_requirements": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     80410
@@ -136,13 +138,11 @@
       "id": 5,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/407451/ss_53e58d3f3135a7c3ed9a91fe5298e5dad58b9a87.600x338.jpg?t=1506940039",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/407451/ss_53e58d3f3135a7c3ed9a91fe5298e5dad58b9a87.1920x1080.jpg?t=1506940039"
-    },
-    {
-      "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/407451/?t=1506940039",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/407451/?t=1506940039"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Nov, 2015"
@@ -151,5 +151,9 @@
     "url": "",
     "email": "support@ripstone.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407451/page_bg_generated_v6b.jpg?t=1506940039"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407451/page_bg_generated_v6b.jpg?t=1506940039",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

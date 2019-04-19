@@ -11,7 +11,7 @@
     "appid": "219990",
     "name": "Grim Dawn"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Spanish, Czech, Dutch, Greek, Japanese, Russian, Simplified Chinese, Portuguese-Brazil, Italian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Czech, Dutch, Greek, Japanese, Russian, Simplified Chinese, Portuguese - Brazil, Italian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/565610/header.jpg?t=1505836048",
   "website": "http://www.grimdawn.com/",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     142859
@@ -127,7 +129,10 @@
     }
   ],
   "recommendations": {
-    "total": 131
+    "total": 160
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -137,5 +142,9 @@
     "url": "http://www.grimdawn.com/forums/",
     "email": "support@crateentertainment.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/565610/page_bg_generated_v6b.jpg?t=1505836048"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/565610/page_bg_generated_v6b.jpg?t=1505836048",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     66476
@@ -169,5 +171,9 @@
     "url": "http://www.82apps.com/support.html",
     "email": "support@82apps.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367090/page_bg_generated_v6b.jpg?t=1447373525"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367090/page_bg_generated_v6b.jpg?t=1447373525",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

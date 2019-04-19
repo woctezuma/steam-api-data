@@ -8,15 +8,20 @@
   "detailed_description": "As an apprentice magician and alchemist, you learn from different alchemy masters. They teach you to mix elixirs, create potions and control them on alchemist table. Prove everyone that you are a born alchemist! <br />\r\n<br />\r\nKey features: <br />\r\n- 60 levels of varying difficulty in 5 scenarios; <br />\r\n- realistic fluid animation and physics; <br />\r\n- challenging puzzles; <br />\r\n- fancy hand-drawn graphics <br />\r\n<br />\r\nP.S. This game was initially designed for devices with accelerometer but for PC we decided to add WASD and arrow controls, that made the game even more difficult and entertaining!",
   "about_the_game": "As an apprentice magician and alchemist, you learn from different alchemy masters. They teach you to mix elixirs, create potions and control them on alchemist table. Prove everyone that you are a born alchemist! <br />\r\n<br />\r\nKey features: <br />\r\n- 60 levels of varying difficulty in 5 scenarios; <br />\r\n- realistic fluid animation and physics; <br />\r\n- challenging puzzles; <br />\r\n- fancy hand-drawn graphics <br />\r\n<br />\r\nP.S. This game was initially designed for devices with accelerometer but for PC we decided to add WASD and arrow controls, that made the game even more difficult and entertaining!",
   "short_description": "As an apprentice magician and alchemist, you learn from different alchemy masters. They teach you to mix elixirs, create potions and control them on alchemist table. Prove everyone that you are a born alchemist!",
-  "supported_languages": "English, Russian, Portuguese, Portuguese-Brazil, Ukrainian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/464230/header.jpg?t=1474312723",
+  "supported_languages": "English, Russian, Portuguese, Portuguese - Brazil, Ukrainian",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/464230/header.jpg?t=1531925953",
   "website": "https://www.facebook.com/coloursofmagicgame/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> Pentium III, 500Mhz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 1.1 Capable Video with 512MB VRAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 30 MB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> .Net Framework 2.0-4.5+</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Pentium IV<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 Capable Video<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 30 MB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> .Net Framework 2.0-4.5+</li></ul>"
   },
-  "mac_requirements": [],
-  "linux_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.9<br></li><li><strong>Memory:</strong> 2064 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.9</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 2064 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+  },
   "developers": [
     "RunServer"
   ],
@@ -27,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     101730
@@ -57,8 +64,8 @@
   ],
   "platforms": {
     "windows": true,
-    "mac": false,
-    "linux": false
+    "mac": true,
+    "linux": true
   },
   "categories": [
     {
@@ -91,28 +98,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_ca91fe6e1cab0b976a7f27a794f225d7969d627d.600x338.jpg?t=1474312723",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_ca91fe6e1cab0b976a7f27a794f225d7969d627d.1920x1080.jpg?t=1474312723"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_ca91fe6e1cab0b976a7f27a794f225d7969d627d.600x338.jpg?t=1531925953",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_ca91fe6e1cab0b976a7f27a794f225d7969d627d.1920x1080.jpg?t=1531925953"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_e8b6e71c122aa95050183e5c66b5bba2f4b52265.600x338.jpg?t=1474312723",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_e8b6e71c122aa95050183e5c66b5bba2f4b52265.1920x1080.jpg?t=1474312723"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_e8b6e71c122aa95050183e5c66b5bba2f4b52265.600x338.jpg?t=1531925953",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_e8b6e71c122aa95050183e5c66b5bba2f4b52265.1920x1080.jpg?t=1531925953"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_ea01d5e2d4810fb13339707afc23c82ffd4db2d9.600x338.jpg?t=1474312723",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_ea01d5e2d4810fb13339707afc23c82ffd4db2d9.1920x1080.jpg?t=1474312723"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_ea01d5e2d4810fb13339707afc23c82ffd4db2d9.600x338.jpg?t=1531925953",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_ea01d5e2d4810fb13339707afc23c82ffd4db2d9.1920x1080.jpg?t=1531925953"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_64eef39024b2099df50844d7e998dcea02eda9f4.600x338.jpg?t=1474312723",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_64eef39024b2099df50844d7e998dcea02eda9f4.1920x1080.jpg?t=1474312723"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_64eef39024b2099df50844d7e998dcea02eda9f4.600x338.jpg?t=1531925953",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_64eef39024b2099df50844d7e998dcea02eda9f4.1920x1080.jpg?t=1531925953"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_a518f328dc2d6e2f01c7732aa2a61445b58c99c3.600x338.jpg?t=1474312723",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_a518f328dc2d6e2f01c7732aa2a61445b58c99c3.1920x1080.jpg?t=1474312723"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_a518f328dc2d6e2f01c7732aa2a61445b58c99c3.600x338.jpg?t=1531925953",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464230/ss_a518f328dc2d6e2f01c7732aa2a61445b58c99c3.1920x1080.jpg?t=1531925953"
     }
   ],
   "movies": [
@@ -200,5 +207,9 @@
     "url": "http://runserver.net/support/fluids",
     "email": "fluids@runserver.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/464230/page_bg_generated_v6b.jpg?t=1474312723"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/464230/page_bg_generated_v6b.jpg?t=1531925953",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

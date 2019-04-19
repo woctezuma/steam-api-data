@@ -13,7 +13,7 @@
     "name": "Pixel Puzzles Ultimate"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/591499/header.jpg?t=1508270387",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/591499/header.jpg?t=1544286997",
   "website": "http://decayinglogic.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, 8.1, 8, 7, Vista, XP<br></li><li><strong>Processor:</strong> Intel\u00ae Core 2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0 Compatible<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> Generic Sound Device</li></ul>"
@@ -25,13 +25,15 @@
     "DL Softworks"
   ],
   "publishers": [
-    "KISS ltd"
+    "DL Softworks"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 149,
-    "discount_percent": 50
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     153826
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 153826,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Pixel Puzzles Ultimate - Puzzle Pack: Sunflowers - <span class=\"discount_original_price\">2,99\u20ac</span> 1,49\u20ac",
+          "option_text": "Pixel Puzzles Ultimate - Puzzle Pack: Sunflowers - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 149
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -127,10 +129,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/591499/ss_c03e13ba0a8187e1f4a7d822ec2dd18bcaa8ed90.600x338.jpg?t=1508270387",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/591499/ss_c03e13ba0a8187e1f4a7d822ec2dd18bcaa8ed90.1920x1080.jpg?t=1508270387"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/591499/ss_c03e13ba0a8187e1f4a7d822ec2dd18bcaa8ed90.600x338.jpg?t=1544286997",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/591499/ss_c03e13ba0a8187e1f4a7d822ec2dd18bcaa8ed90.1920x1080.jpg?t=1544286997"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Jun, 2017"
@@ -139,5 +144,9 @@
     "url": "http://decayinglogic.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/591499/page_bg_generated_v6b.jpg?t=1508270387"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/591499/page_bg_generated_v6b.jpg?t=1544286997",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

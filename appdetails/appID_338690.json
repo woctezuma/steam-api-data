@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     56502,
@@ -145,6 +147,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/338690/ss_eec3f0546a1ce1fb246850b947b91a8e45500b2f.1920x1080.jpg?t=1447366129"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Jun, 2015"
@@ -153,5 +158,9 @@
     "url": "http://sonofnor.com",
     "email": "support@stillalive-studios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/338690/page_bg_generated_v6b.jpg?t=1447366129"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/338690/page_bg_generated_v6b.jpg?t=1447366129",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

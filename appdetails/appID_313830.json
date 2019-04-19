@@ -12,7 +12,7 @@
   "about_the_game": "See No Evil is a dark, isometric puzzle game about sound manipulation. A harsh fantasy where the willingly blind are hostile to the nonconformist. Sometimes, the world seems darker with your eyes open.<br />\r\n<br />\r\nBecome a Seer and explore the beautiful, mind bending, twisted fantasy that is the world around you. Guided only by a journal left in your decaying prison, and opposed by an army of those afraid of what they don't understand, you seek to learn why the world went dark.<br />\r\n<br />\r\n&quot;Noetic spared no expense when it comes to great ambience, FX, and scoring.&quot;- Indie Game Magazine<br />\r\n<br />\r\n&quot;See No Evil is a simple, pretty puzzle game for people who find beauty in strange things.&quot; -indielove<br />\r\n<br />\r\n&quot;It is both pleasing and exciting to see gaming evolve as an art-form. To take a game and make it not only deliver a story, but also highlight key aspects of life and tackle some of humanity\u2019s flaws without compromising in gameplay, takes a great deal of skill&quot; -in2gpu",
   "short_description": "See No Evil is a dark, isometric puzzle game about sound manipulation. A harsh fantasy where the willingly blind are hostile to the nonconformist. Sometimes, the world seems darker with your eyes open.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201cSee No Evil is a ridiculously engaging, unconventional sound-based puzzler developed by a small team at Noetic Games that blends original and challenging gameplay with a thought-provoking premise.\u201d<br>4/5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.hardcoregamer.com/2014/08/29/review-see-no-evil/101071/\" target=\"_blank\" rel=\"noopener\"  >Hardcore Gamer</a></a><br><br>\u201cWithout this good of a soundtrack, a game focused around auditory experience would definitely flounder; however, it adds the perfect exclamation point on a game that already has a lot going for it.\u201d<br><a href=\"http://indiegamemag.com/see-no-evil-preview-you-may-speak-it-you-may-hear-it-but-you-wont-see-it/\" target=\"_blank\" rel=\"noreferrer\"  >Indie Game Magazine</a></a><br>",
+  "reviews": "\u201cSee No Evil is a ridiculously engaging, unconventional sound-based puzzler developed by a small team at Noetic Games that blends original and challenging gameplay with a thought-provoking premise.\u201d<br>4/5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.hardcoregamer.com/2014/08/29/review-see-no-evil/101071/\" target=\"_blank\" rel=\"noopener\"  >Hardcore Gamer</a><br><br>\u201cWithout this good of a soundtrack, a game focused around auditory experience would definitely flounder; however, it adds the perfect exclamation point on a game that already has a lot going for it.\u201d<br><a href=\"http://indiegamemag.com/see-no-evil-preview-you-may-speak-it-you-may-hear-it-but-you-wont-see-it/\" target=\"_blank\" rel=\"noreferrer\"  >Indie Game Magazine</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/313830/header.jpg?t=1492977656",
   "website": null,
   "pc_requirements": {
@@ -33,13 +33,15 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 61,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     47634,
-    249669,
-    50093
+    50093,
+    249669
   ],
   "package_groups": [
     {
@@ -53,13 +55,23 @@
       "subs": [
         {
           "packageid": 47634,
-          "percent_savings_text": "",
+          "percent_savings_text": "-61%",
           "percent_savings": 0,
-          "option_text": "See No Evil - 0,99\u20ac",
+          "option_text": "See No Evil - <span class=\"discount_original_price\">0,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 39
+        },
+        {
+          "packageid": 50093,
+          "percent_savings_text": "-80%",
+          "percent_savings": 0,
+          "option_text": "See No Evil 2-pack - <span class=\"discount_original_price\">1,99\u20ac</span> 0,39\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 39
         },
         {
           "packageid": 249669,
@@ -70,16 +82,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 99
-        },
-        {
-          "packageid": 50093,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "See No Evil 2-pack - 1,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -161,7 +163,7 @@
     }
   ],
   "recommendations": {
-    "total": 287
+    "total": 246
   },
   "achievements": {
     "total": 27,
@@ -216,5 +218,9 @@
     "url": "",
     "email": "ian@ip-builders.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/313830/page_bg_generated_v6b.jpg?t=1492977656"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/313830/page_bg_generated_v6b.jpg?t=1492977656",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

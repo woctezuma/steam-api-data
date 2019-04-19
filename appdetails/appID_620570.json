@@ -40,7 +40,9 @@
     "currency": "EUR",
     "initial": 2299,
     "final": 2299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "22,99\u20ac"
   },
   "packages": [
     166691
@@ -171,6 +173,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 May, 2017"
@@ -179,5 +184,9 @@
     "url": "http://forum.simflight.com/forum/170-atc-simulators/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620570/page_bg_generated_v6b.jpg?t=1511173332"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620570/page_bg_generated_v6b.jpg?t=1511173332",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

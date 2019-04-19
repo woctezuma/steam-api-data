@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     77703
@@ -143,6 +145,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Sep, 2015"
@@ -151,5 +156,9 @@
     "url": "http://nuligine.ru",
     "email": "nuligine@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/400500/page_bg_generated_v6b.jpg?t=1482990902"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/400500/page_bg_generated_v6b.jpg?t=1482990902",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

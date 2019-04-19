@@ -11,7 +11,7 @@
     "appid": "429680",
     "name": "Spellweaver"
   },
-  "supported_languages": "English, French, German, Spanish, Czech, Dutch, Polish, Portuguese-Brazil, Russian, Simplified Chinese",
+  "supported_languages": "English, French, German, Spanish - Spain, Czech, Dutch, Polish, Portuguese - Brazil, Russian, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/465230/header.jpg?t=1479821520",
   "website": "https://spellweaver-tcg.com",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 495,
     "final": 495,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,95\u20ac"
   },
   "packages": [
     102079
@@ -146,5 +148,9 @@
     "url": "https://spellweaver-tcg.com/forum",
     "email": "support@spellweaver-tcg.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/465230/page_bg_generated_v6b.jpg?t=1479821520"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/465230/page_bg_generated_v6b.jpg?t=1479821520",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

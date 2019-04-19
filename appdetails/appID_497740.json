@@ -32,8 +32,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 80,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     113695
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 113695,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "AuroraRL - OST - 1,99\u20ac",
+          "option_text": "AuroraRL - OST - <span class=\"discount_original_price\">1,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -117,5 +119,9 @@
     "url": "http://siberian.digital/",
     "email": "support@siberiandigital.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/497740/page_bg_generated_v6b.jpg?t=1471441001"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/497740/page_bg_generated_v6b.jpg?t=1471441001",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

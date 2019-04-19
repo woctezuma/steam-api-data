@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     239766
@@ -176,11 +178,6 @@
       "id": 12,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/791890/ss_96bd2d9bc253ee859bf4fb13529580406e6d3980.600x338.jpg?t=1519307827",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/791890/ss_96bd2d9bc253ee859bf4fb13529580406e6d3980.1920x1080.jpg?t=1519307827"
-    },
-    {
-      "id": 13,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/791890/?t=1519307827",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/791890/?t=1519307827"
     }
   ],
   "release_date": {
@@ -191,5 +188,9 @@
     "url": "",
     "email": "rus.ancient@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/791890/page_bg_generated_v6b.jpg?t=1519307827"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/791890/page_bg_generated_v6b.jpg?t=1519307827",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -4,15 +4,15 @@
   "steam_appid": 491760,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "Order CPU Subscription to raise your CPU limit to the point depending on your game level.",
-  "about_the_game": "Order CPU Subscription to raise your CPU limit to the point depending on your game level.",
-  "short_description": "Order CPU Subscription to raise your CPU limit to the point depending on your game level.",
+  "detailed_description": "Unlock full CPU in your account on the official MMO server. Doesn't affect private and community-hosted servers.",
+  "about_the_game": "Unlock full CPU in your account on the official MMO server. Doesn't affect private and community-hosted servers.",
+  "short_description": "Unlock full CPU in your account on the official MMO server. Doesn't affect private and community-hosted servers.",
   "fullgame": {
     "appid": "464350",
     "name": "Screeps"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/491760/header.jpg?t=1511240090",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/491760/header.jpg?t=1544907374",
   "website": "https://screeps.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Network:</strong> Broadband Internet connection</li></ul>",
@@ -37,12 +37,14 @@
     "initial": 899,
     "final": 899,
     "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac",
     "recurring_sub": 110397,
     "recurring_sub_desc": "8,99\u20ac at checkout, auto-renewed every 1 month(s) at 8,99\u20ac."
   },
   "packages": [
     108950,
-    "110406",
+    110406,
     110407
   ],
   "package_groups": [
@@ -66,7 +68,7 @@
           "price_in_cents_with_discount": 899
         },
         {
-          "packageid": "110406",
+          "packageid": 110406,
           "percent_savings_text": "-15%",
           "percent_savings": 15,
           "option_text": "3 Month(s) @ 7,66\u20ac/Month",
@@ -127,22 +129,18 @@
     {
       "id": "2",
       "description": "Strategy"
-    },
-    {
-      "id": "70",
-      "description": "Early Access"
     }
   ],
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/491760/ss_86ca83d79a0da1da36b0c40b4eb08e9636c1ddab.600x338.jpg?t=1511240090",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/491760/ss_86ca83d79a0da1da36b0c40b4eb08e9636c1ddab.1920x1080.jpg?t=1511240090"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/491760/ss_86ca83d79a0da1da36b0c40b4eb08e9636c1ddab.600x338.jpg?t=1544907374",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/491760/ss_86ca83d79a0da1da36b0c40b4eb08e9636c1ddab.1920x1080.jpg?t=1544907374"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/491760/ss_86ca83d79a0da1da36b0c40b4eb08e9636c1ddab.600x338.jpg?t=1511240090",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/491760/ss_86ca83d79a0da1da36b0c40b4eb08e9636c1ddab.1920x1080.jpg?t=1511240090"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/491760/ss_86ca83d79a0da1da36b0c40b4eb08e9636c1ddab.600x338.jpg?t=1544907374",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/491760/ss_86ca83d79a0da1da36b0c40b4eb08e9636c1ddab.1920x1080.jpg?t=1544907374"
     }
   ],
   "release_date": {
@@ -153,5 +151,9 @@
     "url": "https://screeps.com",
     "email": "contact@screeps.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/491760/page_bg_generated_v6b.jpg?t=1511240090"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/491760/page_bg_generated_v6b.jpg?t=1544907374",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     194500
@@ -126,11 +128,6 @@
       "id": 5,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/681020/ss_6601a8c240fa8713bb7b73178b95a09e2751537a.600x338.jpg?t=1508951099",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/681020/ss_6601a8c240fa8713bb7b73178b95a09e2751537a.1920x1080.jpg?t=1508951099"
-    },
-    {
-      "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/681020/?t=1508951099",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/681020/?t=1508951099"
     }
   ],
   "movies": [
@@ -198,5 +195,9 @@
     "url": "http://www.verdictstudiosllc.com/",
     "email": "verdictstudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/681020/page_bg_generated_v6b.jpg?t=1508951099"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/681020/page_bg_generated_v6b.jpg?t=1508951099",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

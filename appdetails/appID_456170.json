@@ -12,7 +12,7 @@
   "about_the_game": "<strong>Bannerman</strong> is a gritty, dark and atmospheric <strong>medieval action-adventure</strong> with <strong>challenging skill-based combat</strong> inspired by historical swordsmanship.<br><br>You play as a man-at-arms who is left for dead following a terrible battle. On awakening you discover your lord's banner has been lost. Bound in service to your lord, you must now travel across a war-torn medieval land in pursuit.<br><br>With a sinister atmosphere, bleak narrative and punishing combat, <strong>Bannerman</strong> explores the dark side of medieval fantasy. You are <i>not</i> a valiant questing hero, and there are no <i>knights in shining armour</i> to be found in this world.<h2 class=\"bb_tag\">Key Features:</h2><br><ul class=\"bb_ul\"><li>Intense medieval combat! Cut, stab, parry, dodge, punch, kick and bash your enemies using authentic techniques researched and compiled from historical sources.<br></li><li>A dark narrative explores the senseless brutality of war in a medieval-fantasy world.<br></li><li>16-bit rotoscoped animations capture the authentic movement of characters and the impact of medieval combat!<br></li><li>An amazing soundtrack sets the scene - combining acoustic guitars, banjos and folk instruments to create a haunting atmosphere.<br></li><li>A focus on skill-based melee combat rewards careful timing and cautious engagements.<br></li><li>Face off against deadly bosses in brutal duels to the death!<br></li><li>Unlock combat treatises as you progress - discover new abilities and combat techniques!</li></ul>",
   "short_description": "Bannerman is a gritty and atmospheric medieval action/adventure with a bleak narrative and focus on historically accurate, challenging skill-based swordfighting!",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201c...it can be quite hard but it\u2019s also very rewarding, and deserving of any praise it gets.\u201d<br>9/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.criticalgamer.co.uk/2017/09/06/bannerman-review/\" target=\"_blank\" rel=\"noopener\"  >Critical Gamer</a></a><br><br>\u201cBannerman is a hard, brutal game that manages to mix difficulty and combat rhythm together to form a meditative, deep, and fulfilling side-scroller.\u201d<br>9/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.gameskinny.com/unkqi/bannerman-review-sidescrolling-meditative-combat\" target=\"_blank\" rel=\"noopener\"  >Game Skinny</a></a><br><br>\u201cFans of skill-based combat who are interested in the masterfully created retro visuals will get a short but intense journey through the gritty side of war in medieval times.\u201d<br>7.5/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://worthplaying.com/article/2017/10/4/reviews/105529/\" target=\"_blank\" rel=\"noopener\"  >Worth Playing</a></a><br>",
+  "reviews": "\u201c...it can be quite hard but it\u2019s also very rewarding, and deserving of any praise it gets.\u201d<br>9/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.criticalgamer.co.uk/2017/09/06/bannerman-review/\" target=\"_blank\" rel=\"noopener\"  >Critical Gamer</a><br><br>\u201cBannerman is a hard, brutal game that manages to mix difficulty and combat rhythm together to form a meditative, deep, and fulfilling side-scroller.\u201d<br>9/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.gameskinny.com/unkqi/bannerman-review-sidescrolling-meditative-combat\" target=\"_blank\" rel=\"noopener\"  >Game Skinny</a><br><br>\u201cFans of skill-based combat who are interested in the masterfully created retro visuals will get a short but intense journey through the gritty side of war in medieval times.\u201d<br>7.5/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://worthplaying.com/article/2017/10/4/reviews/105529/\" target=\"_blank\" rel=\"noopener\"  >Worth Playing</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/456170/header.jpg?t=1511433909",
   "website": "http://www.bannermangame.com",
   "pc_requirements": {
@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 999,
+    "final": 499,
+    "discount_percent": 50,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     98802
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 98802,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Bannerman - 14,99\u20ac",
+          "option_text": "Bannerman - <span class=\"discount_original_price\">9,99\u20ac</span> 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -230,5 +232,12 @@
     "url": "",
     "email": "support@armitagegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/456170/page_bg_generated_v6b.jpg?t=1511433909"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/456170/page_bg_generated_v6b.jpg?t=1511433909",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": "Bannerman contains depictions of graphic violence (including dismemberment and gore)."
+  }
 }

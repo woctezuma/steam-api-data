@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     99520
@@ -205,5 +207,9 @@
     "url": "http://www.VReakout.com",
     "email": "support@animateobjects.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/458110/page_bg_generated_v6b.jpg?t=1469217514"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/458110/page_bg_generated_v6b.jpg?t=1469217514",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

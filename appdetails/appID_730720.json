@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Buff up your party with the Deluxe Pack! Game not included.<br />\r\n<br />\r\nIncludes the following digital goodies:<br />\r\n- Character Art Collection<br />\r\n- Rough Sketch Collection<br />\r\n- Phone wallpapers <br />\r\n- Exclusive PC wallpaper and theme by the Neptunia team<br />\r\n- OST<br />\r\n<br />\r\nThe Deluxe Pack contents will be downloaded into your steamapps &gt; common &gt; Cyberdimension Neptunia: 4 Goddesses Online &gt; Deluxe Edition folder.",
   "about_the_game": "Buff up your party with the Deluxe Pack! Game not included.<br />\r\n<br />\r\nIncludes the following digital goodies:<br />\r\n- Character Art Collection<br />\r\n- Rough Sketch Collection<br />\r\n- Phone wallpapers <br />\r\n- Exclusive PC wallpaper and theme by the Neptunia team<br />\r\n- OST<br />\r\n<br />\r\nThe Deluxe Pack contents will be downloaded into your steamapps &gt; common &gt; Cyberdimension Neptunia: 4 Goddesses Online &gt; Deluxe Edition folder.",
-  "short_description": "Buff up your party with the Deluxe Pack! Game not included.<br />\r\n<br />\r\nIncludes the following digital goodies:<br />\r\n- Character Art Collection <br />\r\n- Rough Sketch Collection<br />\r\n- Phone wallpapers<br />\r\n- Exclusive PC wallpaper and theme by the Neptunia team<br />\r\n- OST",
+  "short_description": "Buff up your party with the Deluxe Pack! Game not included. Includes the following digital goodies: - Character Art Collection - Rough Sketch Collection - Phone wallpapers - Exclusive PC wallpaper and theme by the Neptunia team -...",
   "fullgame": {
     "appid": "632350",
     "name": "Cyberdimension Neptunia: 4 Goddesses Online | \u56db\u5973\u795e\u30aa\u30f3\u30e9\u30a4\u30f3 CYBER DIMENSION NEPTUNE | \u56db\u5973\u795eONLINE \u5e7b\u6b21\u5143\u904a\u6232\u6230\u6a5f\u5c11\u5973"
@@ -33,8 +33,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 199,
+    "discount_percent": 80,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     213119
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 213119,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "Cyberdimension Neptunia: 4 Goddesses Online - Deluxe Pack - 9,99\u20ac",
+          "option_text": "Cyberdimension Neptunia: 4 Goddesses Online - Deluxe Pack - <span class=\"discount_original_price\">9,99\u20ac</span> 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -126,6 +128,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/730720/ss_1f2ded9d365708c9f366ab5b051300aad46b1bb6.1920x1080.jpg?t=1520645055"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Feb, 2018"
@@ -134,5 +139,9 @@
     "url": "http://www.ideafintl.com/pcsupport.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/730720/page_bg_generated_v6b.jpg?t=1520645055"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/730720/page_bg_generated_v6b.jpg?t=1520645055",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

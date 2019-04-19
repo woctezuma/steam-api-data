@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1599,
-    "final": 1599,
-    "discount_percent": 0
+    "initial": 899,
+    "final": 899,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     186777
@@ -45,11 +47,11 @@
           "packageid": 186777,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Hero of the Galactic Core - 15,99\u20ac",
+          "option_text": "Hero of the Galactic Core - 8,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1599
+          "price_in_cents_with_discount": 899
         }
       ]
     }
@@ -219,5 +221,9 @@
     "url": "",
     "email": "deeknz@slingshot.co.nz"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/659790/page_bg_generated_v6b.jpg?t=1504556109"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/659790/page_bg_generated_v6b.jpg?t=1504556109",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

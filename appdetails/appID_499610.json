@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Welcome to Copter and Sky, a brand new, hexacopter RC simulation! <br />\r\n<br />\r\nYou will control a modern RC hexacopter in different gamemodes, levels and more! You will fight against the wind to fly, monitor the battery charge and avoid crashing into objects to prevent damage which could lead your copter to failure. Currently, the game has many features such as - going fishing, racing, golf, shooting cannon balls into the goal and carrying objects from A to B all while controlling your drone! The game is built within Unreal Engine 4, which brings excellent physics which makes drone control more difficult, and brings a nice touch to realism as you play. In it's current state, the game is ready for release. Updates are not guaranteed, but if the game becomes popular enough we plan to add customisation options to your drone and possibly more levels, gamemodes and more. <br />\r\n<br />\r\nHere is a simplified list of what Copter and Sky has to offer currently:- <br />\r\n<br />\r\n1. Real input controls with gamepad support. <br />\r\n2. Custom camera; Third person, first person, cinematic. <br />\r\n3. Golf, Fishing, Racing, Obstacle Courses, Shooting and more. <br />\r\n4. Lovely graphics and realistic lighting and maps; day and night cycle. <br />\r\n5. Friendly support. <br />\r\n6. Guarantee for fun if you enjoy flying drones.",
   "about_the_game": "Welcome to Copter and Sky, a brand new, hexacopter RC simulation! <br />\r\n<br />\r\nYou will control a modern RC hexacopter in different gamemodes, levels and more! You will fight against the wind to fly, monitor the battery charge and avoid crashing into objects to prevent damage which could lead your copter to failure. Currently, the game has many features such as - going fishing, racing, golf, shooting cannon balls into the goal and carrying objects from A to B all while controlling your drone! The game is built within Unreal Engine 4, which brings excellent physics which makes drone control more difficult, and brings a nice touch to realism as you play. In it's current state, the game is ready for release. Updates are not guaranteed, but if the game becomes popular enough we plan to add customisation options to your drone and possibly more levels, gamemodes and more. <br />\r\n<br />\r\nHere is a simplified list of what Copter and Sky has to offer currently:- <br />\r\n<br />\r\n1. Real input controls with gamepad support. <br />\r\n2. Custom camera; Third person, first person, cinematic. <br />\r\n3. Golf, Fishing, Racing, Obstacle Courses, Shooting and more. <br />\r\n4. Lovely graphics and realistic lighting and maps; day and night cycle. <br />\r\n5. Friendly support. <br />\r\n6. Guarantee for fun if you enjoy flying drones.",
-  "short_description": "<strong>You will control a modern RC hexacopter in different gamemodes!</strong>",
+  "short_description": "You will control a modern RC hexacopter in different gamemodes!",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/499610/header.jpg?t=1508657082",
   "website": "http://flydreamdev.com/projects/copter-and-sky/",
@@ -33,9 +33,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 350,
+    "final": 350,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,50\u20ac"
   },
   "packages": [
     114412
@@ -54,11 +56,11 @@
           "packageid": 114412,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Copter and Sky - 4,99\u20ac",
+          "option_text": "Copter and Sky - 3,50\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 350
         }
       ]
     }
@@ -247,5 +249,9 @@
     "url": "http://flydreamdev.com/",
     "email": "support@flydreamdev.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499610/page_bg_generated_v6b.jpg?t=1508657082"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499610/page_bg_generated_v6b.jpg?t=1508657082",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     112221
@@ -271,5 +273,9 @@
     "url": "http://frontrange.software",
     "email": "hello@frontrange.software"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/493620/page_bg_generated_v6b.jpg?t=1475263619"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/493620/page_bg_generated_v6b.jpg?t=1475263619",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

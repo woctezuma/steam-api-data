@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     178455
@@ -207,5 +209,9 @@
     "url": "",
     "email": "support@arcadedistillery.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/622080/page_bg_generated_v6b.jpg?t=1499964135"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/622080/page_bg_generated_v6b.jpg?t=1499964135",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

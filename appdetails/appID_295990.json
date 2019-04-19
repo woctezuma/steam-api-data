@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     42625
@@ -118,8 +120,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 123
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -129,5 +131,9 @@
     "url": "",
     "email": "evopollution@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/295990/page_bg_generated_v6b.jpg?t=1447361511"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/295990/page_bg_generated_v6b.jpg?t=1447361511",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

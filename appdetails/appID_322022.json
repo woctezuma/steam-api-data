@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Purchase the Prototype DLC and receive the following extras (available for PC, Mac and linux) for The Talos Principle:<br><br><ul class=\"bb_ul\"><li><strong>Prototype Levels</strong> - Includes more than 100 puzzles from early prototype development stage and 1 exclusive level from early beta version, not present in the final game. <br></li><li><strong>Elohim Voice - US version</strong> - Elohim voice narrated by Serious Sam narrator Bill Jurney.<br></li><li><strong>Elohim Voice - Writer's prototype</strong> - Elohim voice narrated by The Talos Principle's writer Jonas Kyratzes.</li></ul>",
   "about_the_game": "Purchase the Prototype DLC and receive the following extras (available for PC, Mac and linux) for The Talos Principle:<br><br><ul class=\"bb_ul\"><li><strong>Prototype Levels</strong> - Includes more than 100 puzzles from early prototype development stage and 1 exclusive level from early beta version, not present in the final game. <br></li><li><strong>Elohim Voice - US version</strong> - Elohim voice narrated by Serious Sam narrator Bill Jurney.<br></li><li><strong>Elohim Voice - Writer's prototype</strong> - Elohim voice narrated by The Talos Principle's writer Jonas Kyratzes.</li></ul>",
-  "short_description": "",
+  "short_description": "Purchase the Prototype DLC and receive the following extras (available for PC, Mac and linux) for The Talos Principle:Prototype Levels - Includes more than 100 puzzles from early prototype development stage and 1 exclusive level from early beta version, not present in the final game.",
   "fullgame": {
     "appid": "257510",
     "name": "The Talos Principle"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Russian, Japanese, Korean, Polish, Portuguese-Brazil, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Russian, Japanese, Korean, Polish, Portuguese - Brazil, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/322022/header.jpg?t=1447363541",
   "website": "http://www.talosprinciple.com",
   "pc_requirements": {
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     50518
@@ -123,6 +125,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/322022/ss_2e3e5f82ede2df6eed9ace06df0e6dc492b80182.1920x1080.jpg?t=1447363541"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Dec, 2014"
@@ -131,5 +136,9 @@
     "url": "http://steamcommunity.com/discussions/",
     "email": "support@croteam.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/322022/page_bg_generated_v6b.jpg?t=1447363541"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/322022/page_bg_generated_v6b.jpg?t=1447363541",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

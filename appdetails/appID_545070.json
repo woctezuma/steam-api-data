@@ -12,7 +12,7 @@
     "appid": "403970",
     "name": "The Dwarves"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German<strong>*</strong>, Spanish, Portuguese-Brazil, Russian, Polish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German<strong>*</strong>, Spanish - Spain, Portuguese - Brazil, Russian, Polish<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/545070/header.jpg?t=1488358018",
   "website": "http://www.dwarves-game.com/",
   "pc_requirements": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 1000,
     "final": 1000,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,--\u20ac"
   },
   "packages": [
     140829,
@@ -113,6 +115,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/545070/ss_fe8578d580733f5064fef33d50d977071a1f53ae.1920x1080.jpg?t=1488358018"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Dec, 2016"
@@ -121,5 +126,9 @@
     "url": "https://kingartgames.freshdesk.com/support/home",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/545070/page_bg_generated_v6b.jpg?t=1488358018"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/545070/page_bg_generated_v6b.jpg?t=1488358018",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

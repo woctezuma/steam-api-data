@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "<p>This permanent boost increases the amount of XP that both you and your teammates earn while playing Gotham City Impostors by 25 percent.</p>\n",
   "about_the_game": "<p>This permanent boost increases the amount of XP that both you and your teammates earn while playing Gotham City Impostors by 25 percent.</p>\n",
-  "short_description": "",
+  "short_description": "This permanent boost increases the amount of XP that both you and your teammates earn while playing Gotham City Impostors by 25 percent.",
   "fullgame": {
     "appid": "206210",
     "name": "Gotham City Impostors Free to Play"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/216465/header.jpg?t=1447356287",
   "website": "http://www.gothamcityimpostors.com ",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     16321
@@ -107,6 +109,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/216465/ss_0a7f70551b948ee6768d16361a3f3aa82adfd913.1920x1080.jpg?t=1447356287"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Aug, 2012"
@@ -115,5 +120,9 @@
     "url": "http://support.wbgames.com/ics/support/default.asp?deptID=24028 ",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/216465/page_bg_generated_v6b.jpg?t=1447356287"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/216465/page_bg_generated_v6b.jpg?t=1447356287",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

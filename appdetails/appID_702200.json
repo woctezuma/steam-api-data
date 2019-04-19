@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "In Lost with Dinosaurs you are a scientist that somehow teleported himself into dinosaurs times in order to collect mushrooms.<br />\r\nYou must collect all the mushrooms in all  8 levels and find a way to get back to modern times.<br />\r\nBut you have to be very careful those dinosaurs are hungry and will attack and stole some of your mushrooms.<br />\r\nYou can temporary shoot them down and you can use power up potions that you will find in game. The red potion makes you jump higher for 10 seconds and the green potion allows you to make a double jump.<br />\r\nIf you get lost and you are unable to find a mushroom you can press K for a hint.<br />\r\nWhen you got all mushrooms you must search for exit.<br />\r\nIn your way there will be 3 types of energy field. You must collect the corresponding color crystal to disable that energy field.<br />\r\nGood luck",
   "about_the_game": "In Lost with Dinosaurs you are a scientist that somehow teleported himself into dinosaurs times in order to collect mushrooms.<br />\r\nYou must collect all the mushrooms in all  8 levels and find a way to get back to modern times.<br />\r\nBut you have to be very careful those dinosaurs are hungry and will attack and stole some of your mushrooms.<br />\r\nYou can temporary shoot them down and you can use power up potions that you will find in game. The red potion makes you jump higher for 10 seconds and the green potion allows you to make a double jump.<br />\r\nIf you get lost and you are unable to find a mushroom you can press K for a hint.<br />\r\nWhen you got all mushrooms you must search for exit.<br />\r\nIn your way there will be 3 types of energy field. You must collect the corresponding color crystal to disable that energy field.<br />\r\nGood luck",
-  "short_description": "Collect power up that help you reach all placed in order to collect mushrooms. Avoid dinosaurs that will steal them from you",
+  "short_description": "Collect power up that help you reach all placed in order to collect mushrooms.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/702200/header.jpg?t=1504941057",
   "website": null,
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 49,
-    "discount_percent": 51
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     202380
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 202380,
-          "percent_savings_text": "-51%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Lost with Dinosaurs - <span class=\"discount_original_price\">0,99\u20ac</span> 0,49\u20ac",
+          "option_text": "Lost with Dinosaurs - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 49
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -191,5 +193,9 @@
     "url": "",
     "email": "morosanumv@yahoo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/702200/page_bg_generated_v6b.jpg?t=1504941057"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/702200/page_bg_generated_v6b.jpg?t=1504941057",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

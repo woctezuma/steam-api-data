@@ -4,15 +4,15 @@
   "steam_appid": 410750,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "my GAMECITY &quot;GC Coin&quot; code<br>You could earn &quot;GC Coin&quot; by entering the serial code and answer the questionnaire through the GAMECITY site.<br>Please go to the site below for details.<br><br>\u25bdmy GAMECITY GC Coin<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.gamecity.ne.jp/mygc/enquete/\" target=\"_blank\" rel=\"noopener\"  >http://www.gamecity.ne.jp/mygc/enquete/</a></a>",
-  "about_the_game": "my GAMECITY &quot;GC Coin&quot; code<br>You could earn &quot;GC Coin&quot; by entering the serial code and answer the questionnaire through the GAMECITY site.<br>Please go to the site below for details.<br><br>\u25bdmy GAMECITY GC Coin<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.gamecity.ne.jp/mygc/enquete/\" target=\"_blank\" rel=\"noopener\"  >http://www.gamecity.ne.jp/mygc/enquete/</a></a>",
-  "short_description": "my GAMECITY &quot;GC Coin&quot; code<br />\r\nYou could earn &quot;GC Coin&quot; by entering the serial code and answer the questionnaire through the GAMECITY site.",
+  "detailed_description": "my GAMECITY &quot;GC Coin&quot; code<br>You could earn &quot;GC Coin&quot; by entering the serial code and answer the questionnaire through the GAMECITY site.<br>Please go to the site below for details.<br><br>\u25bdmy GAMECITY GC Coin<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.gamecity.ne.jp/mygc/enquete/\" target=\"_blank\" rel=\"noopener\"  >http://www.gamecity.ne.jp/mygc/enquete/</a>",
+  "about_the_game": "my GAMECITY &quot;GC Coin&quot; code<br>You could earn &quot;GC Coin&quot; by entering the serial code and answer the questionnaire through the GAMECITY site.<br>Please go to the site below for details.<br><br>\u25bdmy GAMECITY GC Coin<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.gamecity.ne.jp/mygc/enquete/\" target=\"_blank\" rel=\"noopener\"  >http://www.gamecity.ne.jp/mygc/enquete/</a>",
+  "short_description": "my GAMECITY &quot;GC Coin&quot; code You could earn &quot;GC Coin&quot; by entering the serial code and answer the questionnaire through the GAMECITY site.",
   "fullgame": {
     "appid": "370730",
     "name": "NOBUNAGA'S AMBITION: Tenshouki WPK HD Version / \u4fe1\u9577\u306e\u91ce\u671b\u30fb\u5929\u7fd4\u8a18 with \u30d1\u30ef\u30fc\u30a2\u30c3\u30d7\u30ad\u30c3\u30c8 HD Version"
   },
   "supported_languages": "Japanese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/410750/header.jpg?t=1447378476",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/410750/header.jpg?t=1550181639",
   "website": "http://www.gamecity.ne.jp/tenshouki/hd/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae 10, Windows\u00ae 8, Windows\u00ae 8.1, Windows\u00ae 7, Windows\u00ae Vista<br></li><li><strong>Processor:</strong> Pentium\u00ae4 1.0GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 1024*768 pixel over<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> 16 bit stereo, 48KHz WAVE file can be played<br></li><li><strong>Additional Notes:</strong> 128MB over VRAM</li></ul>",
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 5099,
     "final": 5099,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "50,99\u20ac"
   },
   "packages": [
     67819
@@ -91,10 +93,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/410750/ss_a2c2916edaea8af53f91d5ff8f405274e3c905dc.600x338.jpg?t=1447378476",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/410750/ss_a2c2916edaea8af53f91d5ff8f405274e3c905dc.1920x1080.jpg?t=1447378476"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/410750/ss_a2c2916edaea8af53f91d5ff8f405274e3c905dc.600x338.jpg?t=1550181639",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/410750/ss_a2c2916edaea8af53f91d5ff8f405274e3c905dc.1920x1080.jpg?t=1550181639"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Nov, 2015"
@@ -103,5 +108,9 @@
     "url": "https://www.gamecity.ne.jp/support/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/410750/page_bg_generated_v6b.jpg?t=1447378476"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/410750/page_bg_generated_v6b.jpg?t=1550181639",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

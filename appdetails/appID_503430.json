@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     115803
@@ -171,5 +173,9 @@
     "url": "",
     "email": "muttezinho@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/503430/page_bg_generated_v6b.jpg?t=1503290655"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/503430/page_bg_generated_v6b.jpg?t=1503290655",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

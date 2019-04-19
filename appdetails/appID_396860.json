@@ -38,9 +38,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 899,
-    "final": 899,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     76509
@@ -59,11 +61,11 @@
           "packageid": 76509,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Over The Hills And Far Away - 8,99\u20ac",
+          "option_text": "Over The Hills And Far Away - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 899
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -171,7 +173,7 @@
     }
   ],
   "recommendations": {
-    "total": 161
+    "total": 165
   },
   "achievements": {
     "total": 8,
@@ -218,5 +220,9 @@
     "url": "http://war-girl.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396860/page_bg_generated_v6b.jpg?t=1461001559"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396860/page_bg_generated_v6b.jpg?t=1461001559",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

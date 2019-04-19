@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     41509
@@ -190,9 +192,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 205
-  },
   "achievements": {
     "total": 0
   },
@@ -204,5 +203,9 @@
     "url": "http://explore-frontiers.com/?page_id=13",
     "email": "frontiers.game@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/293480/page_bg_generated_v6b.jpg?t=1461693697"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/293480/page_bg_generated_v6b.jpg?t=1461693697",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

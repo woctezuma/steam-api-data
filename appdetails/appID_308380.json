@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Uber-Hardcore Turn-Based Steampunk Squad Tactics.<br><br>Conquer the super-continent of Pangea with an invasion of Airships!<br>Battle Dastardly Pirate Insurgents!<br>Keep the locals happy or they will be revolting!<br><br><i>Game Features:</i><br>Turn-based squad tactical combat with emergent gameplay<br>Hardcore and Streamline gameplay modes<br>Environmental Realism Mod for high poly environments.<br><br>2 massive strategic campaigns featuring resource, technology and population management<br>Campaigns are randomized on creation for infinite replayability<br>Single Battle Mode for getting straight into tactical action<br>No two games the same<br><br>20 battlefields<br>Randomized deployment on battlefields<br>5 types of environment with environmental modifiers<br>3 types of battlefield objectives<br>4 types of weather<br><br>Enemy Ai with 11 different combat tactics<br>5 Ai campaign strategies<br>7 classes of troops, each with 4 upgrades of weapons/equipment<br>Troops have unique attributes which are upgraded with experience ... if they survive combat ...<br><br>6 playable Steampunk factions<br><ul class=\"bb_ul\"><li>Austro-Hungarian Empire<br></li><li>British Royalists<br></li><li>Chinese Dynasty<br></li><li>Peoples Collective<br></li><li>US Republic<br></li><li>Zulu Nation</li></ul><br>How big is the game?<br>Average battle time ~ 30 minutes<br>Average campaign time &gt; 100 hours",
   "about_the_game": "Uber-Hardcore Turn-Based Steampunk Squad Tactics.<br><br>Conquer the super-continent of Pangea with an invasion of Airships!<br>Battle Dastardly Pirate Insurgents!<br>Keep the locals happy or they will be revolting!<br><br><i>Game Features:</i><br>Turn-based squad tactical combat with emergent gameplay<br>Hardcore and Streamline gameplay modes<br>Environmental Realism Mod for high poly environments.<br><br>2 massive strategic campaigns featuring resource, technology and population management<br>Campaigns are randomized on creation for infinite replayability<br>Single Battle Mode for getting straight into tactical action<br>No two games the same<br><br>20 battlefields<br>Randomized deployment on battlefields<br>5 types of environment with environmental modifiers<br>3 types of battlefield objectives<br>4 types of weather<br><br>Enemy Ai with 11 different combat tactics<br>5 Ai campaign strategies<br>7 classes of troops, each with 4 upgrades of weapons/equipment<br>Troops have unique attributes which are upgraded with experience ... if they survive combat ...<br><br>6 playable Steampunk factions<br><ul class=\"bb_ul\"><li>Austro-Hungarian Empire<br></li><li>British Royalists<br></li><li>Chinese Dynasty<br></li><li>Peoples Collective<br></li><li>US Republic<br></li><li>Zulu Nation</li></ul><br>How big is the game?<br>Average battle time ~ 30 minutes<br>Average campaign time &gt; 100 hours",
-  "short_description": "Uber-Hardcore, Turn-Based, Steampunk, Squad Tactics.<br />\r\nBattle 6 other factions for control of Pangea in emergent, tactical gameplay.",
+  "short_description": "Uber-Hardcore, Turn-Based, Steampunk, Squad Tactics. Battle 6 other factions for control of Pangea in emergent, tactical gameplay.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/308380/header.jpg?t=1485026139",
   "website": "http://www.yorkshirerifles.com",
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1599,
-    "final": 1599,
-    "discount_percent": 0
+    "final": 799,
+    "discount_percent": 50,
+    "initial_formatted": "15,99\u20ac",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     46150
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 46150,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Airship Dragoon - 15,99\u20ac",
+          "option_text": "Airship Dragoon - <span class=\"discount_original_price\">15,99\u20ac</span> 7,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1599
+          "price_in_cents_with_discount": 799
         }
       ]
     }
@@ -231,5 +233,9 @@
     "url": "http://www.yorkshirerifles.com/webpages/support.html",
     "email": "techsupport@yorkshirerifles.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/308380/page_bg_generated_v6b.jpg?t=1485026139"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/308380/page_bg_generated_v6b.jpg?t=1485026139",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

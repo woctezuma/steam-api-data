@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     227452
@@ -44,11 +46,11 @@
           "packageid": 227452,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Witchball - 4,99\u20ac",
+          "option_text": "Witchball - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -139,11 +141,6 @@
       "id": 8,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/768580/ss_7cbdbe8c53d1ea1909cdcffb21c69dab06f7d7c1.600x338.jpg?t=1516488911",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/768580/ss_7cbdbe8c53d1ea1909cdcffb21c69dab06f7d7c1.1920x1080.jpg?t=1516488911"
-    },
-    {
-      "id": 9,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/768580/?t=1516488911",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/768580/?t=1516488911"
     }
   ],
   "movies": [
@@ -168,6 +165,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Jan, 2018"
@@ -176,5 +176,9 @@
     "url": "",
     "email": "slclark@nyu.edu"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/768580/page_bg_generated_v6b.jpg?t=1516488911"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/768580/page_bg_generated_v6b.jpg?t=1516488911",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

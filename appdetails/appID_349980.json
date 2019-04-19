@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     60648
@@ -148,6 +150,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 May, 2015"
@@ -156,5 +161,9 @@
     "url": "http://www.cssquaredgamestudio.com/contact",
     "email": "contact@cssquaredgamestudio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/349980/page_bg_generated_v6b.jpg?t=1478709731"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/349980/page_bg_generated_v6b.jpg?t=1478709731",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

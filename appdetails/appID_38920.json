@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>Our newly released Mesh Visualizer features intricately animated visuals scrolled out onto a 3d plane.  Literally hundreds of combinations of art are used to create a unique experience each time you play!</p>\n\t\t\t\t\t\t<p>Once downloaded, the Mesh Visualizer will automatically add itself to your Visualizer rotation.</p>",
   "about_the_game": "<p>Our newly released Mesh Visualizer features intricately animated visuals scrolled out onto a 3d plane.  Literally hundreds of combinations of art are used to create a unique experience each time you play!</p>\n\t\t\t\t\t\t<p>Once downloaded, the Mesh Visualizer will automatically add itself to your Visualizer rotation.</p>",
-  "short_description": "",
+  "short_description": "Our newly released Mesh Visualizer features intricately animated visuals scrolled out onto a 3d plane. Literally hundreds of combinations of art are used to create a unique experience each time you play! Once downloaded, the Mesh Visualizer will automatically add itself to your Visualizer rotation.",
   "fullgame": {
     "appid": "38900",
     "name": "Uninitialized"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     6344
@@ -129,5 +131,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/38920/page_bg_generated_v6b.jpg?t=1447353586"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/38920/page_bg_generated_v6b.jpg?t=1447353586",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

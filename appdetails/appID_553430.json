@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     137599
@@ -168,5 +170,9 @@
     "url": "http://bouldervrstudios.com",
     "email": "founders@bouldervrstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/553430/page_bg_generated_v6b.jpg?t=1509753152"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/553430/page_bg_generated_v6b.jpg?t=1509753152",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

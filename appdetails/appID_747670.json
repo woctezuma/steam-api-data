@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     219468
@@ -99,6 +101,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/747670/ss_ae0654d4c3d1c8269846b8b36f3586c24a34989a.1920x1080.jpg?t=1516125681"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Jan, 2018"
@@ -107,5 +112,9 @@
     "url": "support.aspyr.com",
     "email": "support@aspyr.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/747670/page_bg_generated_v6b.jpg?t=1516125681"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/747670/page_bg_generated_v6b.jpg?t=1516125681",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

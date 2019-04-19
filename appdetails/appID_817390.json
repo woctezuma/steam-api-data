@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 150,
+    "final": 150,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,50\u20ac"
   },
   "packages": [
     250254
@@ -45,11 +47,11 @@
           "packageid": 250254,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Age of Giants - 1,99\u20ac",
+          "option_text": "Age of Giants - 1,50\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 150
         }
       ]
     }
@@ -102,6 +104,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/817390/ss_711d730261dd64419136b158cdb7fe8908e06a39.1920x1080.jpg?t=1523869494"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Apr, 2018"
@@ -110,5 +115,9 @@
     "url": "http://www.ageofgiants.com/",
     "email": "Info@astrobotgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/817390/page_bg_generated_v6b.jpg?t=1523869494"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/817390/page_bg_generated_v6b.jpg?t=1523869494",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

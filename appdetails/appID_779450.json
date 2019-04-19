@@ -4,11 +4,11 @@
   "steam_appid": 779450,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "Our world is dry and bleak. The last suplies are long gone, we had to find a different way to survive.<br><br>Brave men and women go out to the unknown worlds every day and night, to bring resources and secure the survival of people.<br>Four types of vehicles, loads of weapons all against the beasts of the universe. <br>Alone or with others, fight the creatures, save the people, explore the galaxy.<br><br>Play as one of them and become an Overlander.<h2 class=\"bb_tag\"><strong>Features</strong></h2><ul class=\"bb_ul\"><li>Explore<br>Visit all the different worlds, discover their wildlife and creatures. <br>Watch and observe how they live, measure their strength, <br>then decide whether or not you want to fight them. Hunt for survival.<br><br></li><li>Combat and Strategy<br>Play alone or with others, you decide. Alone you can take more reward, but don't forget being alone is never safe.<br>Hunting in a team you have the advantage to create advanced strategies, surround the beasts and divide the treasure.<br><br></li><li>Upgrade<br>Four different vehicles, four important roles. <br>Choose which suits you the best or try out all of them. <br>Experience and upgrade yours to be the strongest and fastest of all.</li></ul>",
-  "about_the_game": "Our world is dry and bleak. The last suplies are long gone, we had to find a different way to survive.<br><br>Brave men and women go out to the unknown worlds every day and night, to bring resources and secure the survival of people.<br>Four types of vehicles, loads of weapons all against the beasts of the universe. <br>Alone or with others, fight the creatures, save the people, explore the galaxy.<br><br>Play as one of them and become an Overlander.<h2 class=\"bb_tag\"><strong>Features</strong></h2><ul class=\"bb_ul\"><li>Explore<br>Visit all the different worlds, discover their wildlife and creatures. <br>Watch and observe how they live, measure their strength, <br>then decide whether or not you want to fight them. Hunt for survival.<br><br></li><li>Combat and Strategy<br>Play alone or with others, you decide. Alone you can take more reward, but don't forget being alone is never safe.<br>Hunting in a team you have the advantage to create advanced strategies, surround the beasts and divide the treasure.<br><br></li><li>Upgrade<br>Four different vehicles, four important roles. <br>Choose which suits you the best or try out all of them. <br>Experience and upgrade yours to be the strongest and fastest of all.</li></ul>",
-  "short_description": "Four types of vehicles, loads of weapons all against the beasts of the universe. <br />\nAlone or with others, fight the creatures, save the people, explore the galaxy.<br />\nPlay as one of them and become an Overlander.",
+  "detailed_description": "Many types of vehicles, loads of weapons, even more customization to build the best racer. <br>Race as one of them and become an Overlander.<h2 class=\"bb_tag\"><strong>Features</strong></h2><ul class=\"bb_ul\"><li>Online Multiplayer &amp; Offline play 4-8 players per race, different modes, lots of maps.<br></li><li>Beautiful worlds to explore while playing.<br></li><li>Combat and Strategy - Not just the speed, but weapons and tactics decide who will be the winner.<br></li><li>Upgrade - Many different vehicles to customize. <br>Choose which suits you the best or try out all of them. <br>Unlock all power-ups and upgrade your vehicle to be the strongest and fastest of all.</li></ul>",
+  "about_the_game": "Many types of vehicles, loads of weapons, even more customization to build the best racer. <br>Race as one of them and become an Overlander.<h2 class=\"bb_tag\"><strong>Features</strong></h2><ul class=\"bb_ul\"><li>Online Multiplayer &amp; Offline play 4-8 players per race, different modes, lots of maps.<br></li><li>Beautiful worlds to explore while playing.<br></li><li>Combat and Strategy - Not just the speed, but weapons and tactics decide who will be the winner.<br></li><li>Upgrade - Many different vehicles to customize. <br>Choose which suits you the best or try out all of them. <br>Unlock all power-ups and upgrade your vehicle to be the strongest and fastest of all.</li></ul>",
+  "short_description": "Many types of vehicles, loads of weapons, even more customization to build the best racer. Experience fast-paced online or offline multiplayer racing, with weapons, power-ups and more. Unlock all power-ups and upgrade your vehicle to be the strongest and fastest of all.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/779450/header.jpg?t=1523116152",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/779450/header.jpg?t=1550939640",
   "website": "http://overlandersgame.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3-4340 / AMD FX-6300<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce GTX 660 2GB / AMD Radeon HD 7850 2GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>",
@@ -40,12 +40,28 @@
       "description": "Single-player"
     },
     {
+      "id": 1,
+      "description": "Multi-player"
+    },
+    {
       "id": 36,
       "description": "Online Multi-Player"
     },
     {
+      "id": 37,
+      "description": "Local Multi-Player"
+    },
+    {
+      "id": 9,
+      "description": "Co-op"
+    },
+    {
       "id": 38,
       "description": "Online Co-op"
+    },
+    {
+      "id": 39,
+      "description": "Local Co-op"
     },
     {
       "id": 22,
@@ -74,12 +90,12 @@
       "description": "Action"
     },
     {
-      "id": "25",
-      "description": "Adventure"
-    },
-    {
       "id": "23",
       "description": "Indie"
+    },
+    {
+      "id": "9",
+      "description": "Racing"
     },
     {
       "id": "2",
@@ -89,41 +105,71 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_401153491c5138d5dca95dc057487f09f9b6f75f.600x338.jpg?t=1523116152",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_401153491c5138d5dca95dc057487f09f9b6f75f.1920x1080.jpg?t=1523116152"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_41c5a6faa097be524bcc799d8da3282a35e9aaab.600x338.jpg?t=1550939640",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_41c5a6faa097be524bcc799d8da3282a35e9aaab.1920x1080.jpg?t=1550939640"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_e2d9f96fc963079196939cca802100325fc49f79.600x338.jpg?t=1523116152",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_e2d9f96fc963079196939cca802100325fc49f79.1920x1080.jpg?t=1523116152"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_adb483ac77caa04aca5fcee990ec330a6bf0bedb.600x338.jpg?t=1550939640",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_adb483ac77caa04aca5fcee990ec330a6bf0bedb.1920x1080.jpg?t=1550939640"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_4fb0d1288d4878785bfaf3c2447de96515f3d856.600x338.jpg?t=1523116152",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_4fb0d1288d4878785bfaf3c2447de96515f3d856.1920x1080.jpg?t=1523116152"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_7031f407054d5799d961ad639ef961b3032b2ee6.600x338.jpg?t=1550939640",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_7031f407054d5799d961ad639ef961b3032b2ee6.1920x1080.jpg?t=1550939640"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_cd8060576a6ae08339480f924a57966bddd7a0a5.600x338.jpg?t=1523116152",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_cd8060576a6ae08339480f924a57966bddd7a0a5.1920x1080.jpg?t=1523116152"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_258d3384b3a0f869278d675674e8c96f8c05d4da.600x338.jpg?t=1550939640",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_258d3384b3a0f869278d675674e8c96f8c05d4da.1920x1080.jpg?t=1550939640"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_5556a6f3bddbee2b472997dfe4ff1ba972f6b3b7.600x338.jpg?t=1523116152",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_5556a6f3bddbee2b472997dfe4ff1ba972f6b3b7.1920x1080.jpg?t=1523116152"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_5c3eaaa4759c00955b015dfbcf4be8c6ba8f84af.600x338.jpg?t=1550939640",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_5c3eaaa4759c00955b015dfbcf4be8c6ba8f84af.1920x1080.jpg?t=1550939640"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_5fa478139d527ca89dd464ef4e9db26f2aaa1be1.600x338.jpg?t=1523116152",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_5fa478139d527ca89dd464ef4e9db26f2aaa1be1.1920x1080.jpg?t=1523116152"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_eb6bc59990939bff2fa828724d8e7aa11629e951.600x338.jpg?t=1550939640",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_eb6bc59990939bff2fa828724d8e7aa11629e951.1920x1080.jpg?t=1550939640"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_1f3b8b93aa6e699d89d218cc77df39b7701b0a55.600x338.jpg?t=1523116152",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_1f3b8b93aa6e699d89d218cc77df39b7701b0a55.1920x1080.jpg?t=1523116152"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_713c03967bca5e1c057e897ba36b6c0de0653421.600x338.jpg?t=1550939640",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_713c03967bca5e1c057e897ba36b6c0de0653421.1920x1080.jpg?t=1550939640"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_ff4736911bd235f4e146aff7f8ff02add4f28558.600x338.jpg?t=1550939640",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_ff4736911bd235f4e146aff7f8ff02add4f28558.1920x1080.jpg?t=1550939640"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_a4dc07f0be112bc37060a83e4ae277a5e43ad885.600x338.jpg?t=1550939640",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_a4dc07f0be112bc37060a83e4ae277a5e43ad885.1920x1080.jpg?t=1550939640"
+    },
+    {
+      "id": 9,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_c34c508d35a7d5a6f8dff7e100161d231ea3446a.600x338.jpg?t=1550939640",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_c34c508d35a7d5a6f8dff7e100161d231ea3446a.1920x1080.jpg?t=1550939640"
+    },
+    {
+      "id": 10,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_74735625b857b3f504dc5f6cccb53376e0e784e3.600x338.jpg?t=1550939640",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/779450/ss_74735625b857b3f504dc5f6cccb53376e0e784e3.1920x1080.jpg?t=1550939640"
     }
   ],
   "movies": [
+    {
+      "id": 256742006,
+      "name": "Official Gameplay Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256742006/movie.293x165.jpg?t=1549095424",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742006/movie480.webm?t=1549095424",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742006/movie_max.webm?t=1549095424"
+      },
+      "highlight": true
+    },
     {
       "id": 256705625,
       "name": "Overlanders Teaser Trailer",
@@ -132,36 +178,40 @@
         "480": "http://steamcdn-a.akamaihd.net/steam/apps/256705625/movie480.webm?t=1516092700",
         "max": "http://steamcdn-a.akamaihd.net/steam/apps/256705625/movie_max.webm?t=1516092700"
       },
-      "highlight": true
+      "highlight": false
     },
     {
       "id": 256713560,
       "name": "Iceland short clip",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256713560/movie.293x165.jpg?t=1523015816",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256713560/movie.293x165.jpg?t=1549047010",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256713560/movie480.webm?t=1523015816",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256713560/movie_max.webm?t=1523015816"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256713560/movie480.webm?t=1549047010",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256713560/movie_max.webm?t=1549047010"
       },
-      "highlight": true
+      "highlight": false
     },
     {
       "id": 256713561,
       "name": "Ocean cliff short clip",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256713561/movie.293x165.jpg?t=1523016179",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256713561/movie.293x165.jpg?t=1549047018",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256713561/movie480.webm?t=1523016179",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256713561/movie_max.webm?t=1523016179"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256713561/movie480.webm?t=1549047018",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256713561/movie_max.webm?t=1549047018"
       },
-      "highlight": true
+      "highlight": false
     }
   ],
   "release_date": {
     "coming_soon": true,
-    "date": "May 2018"
+    "date": "2019 Q1"
   },
   "support_info": {
     "url": "http://overlandersgame.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/779450/page_bg_generated_v6b.jpg?t=1523116152"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/779450/page_bg_generated_v6b.jpg?t=1550939640",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

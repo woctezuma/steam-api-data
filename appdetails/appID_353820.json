@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     62021,
@@ -154,6 +156,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/353820/ss_1a6e4aa86eb8438ccfd37eb3639fdd64e4f7a3e4.1920x1080.jpg?t=1447370131"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Apr, 2015"
@@ -162,5 +167,9 @@
     "url": "http://www.hb-studios.com/forum/index.php?board=20.0",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/353820/page_bg_generated_v6b.jpg?t=1447370131"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/353820/page_bg_generated_v6b.jpg?t=1447370131",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

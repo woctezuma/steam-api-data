@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     98537
@@ -142,5 +144,12 @@
     "url": "",
     "email": "cupholderdev@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/455490/page_bg_generated_v6b.jpg?t=1458610844"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/455490/page_bg_generated_v6b.jpg?t=1458610844",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

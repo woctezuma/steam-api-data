@@ -20,7 +20,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "COPYRIGHT \u24d2 Joycity Corp. ALL RIGHTS RESERVED<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://corp.joycity.com/html/en/intro.html\" target=\"_blank\" rel=\"noopener\"  >http://corp.joycity.com/html/en/intro.html</a></a>",
+  "legal_notice": "COPYRIGHT \u24d2 Joycity Corp. ALL RIGHTS RESERVED<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://corp.joycity.com/html/en/intro.html\" target=\"_blank\" rel=\"noopener\"  >http://corp.joycity.com/html/en/intro.html</a>",
   "developers": [
     "Joycity"
   ],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     68633
@@ -138,6 +140,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/373171/ss_883d292209cc28acd3f43d2f5ca8efa9ba7ef97c.1920x1080.jpg?t=1505450359"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Jun, 2015"
@@ -146,5 +151,9 @@
     "url": "",
     "email": "steam_support@gamekiss.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/373171/page_bg_generated_v6b.jpg?t=1505450359"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/373171/page_bg_generated_v6b.jpg?t=1505450359",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

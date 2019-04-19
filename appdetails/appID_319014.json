@@ -33,8 +33,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 79,
+    "discount_percent": 20,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     49427
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 49427,
-          "percent_savings_text": "",
+          "percent_savings_text": "-20%",
           "percent_savings": 0,
-          "option_text": "Hyperdimension Neptunia Re;Birth1 Plutia Battle Entry - 0,99\u20ac",
+          "option_text": "Hyperdimension Neptunia Re;Birth1 Plutia Battle Entry - <span class=\"discount_original_price\">0,99\u20ac</span> 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -148,7 +150,10 @@
     }
   ],
   "recommendations": {
-    "total": 118
+    "total": 115
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -158,5 +163,9 @@
     "url": "ideafintl.com/contact/steam",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/319014/page_bg_generated_v6b.jpg?t=1513833873"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/319014/page_bg_generated_v6b.jpg?t=1513833873",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

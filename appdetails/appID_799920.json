@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1099,
     "final": 1099,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,99\u20ac"
   },
   "packages": [
     243213
@@ -198,6 +200,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Feb, 2018"
@@ -206,5 +211,9 @@
     "url": "",
     "email": "theodorniklas21@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/799920/page_bg_generated_v6b.jpg?t=1519201009"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/799920/page_bg_generated_v6b.jpg?t=1519201009",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

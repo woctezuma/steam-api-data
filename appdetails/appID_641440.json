@@ -11,7 +11,7 @@
     "appid": "262410",
     "name": "World of Guns: Gun Disassembly"
   },
-  "supported_languages": "English, Russian, Italian, German, French, Spanish, Ukrainian, Polish, Traditional Chinese, Czech, Portuguese-Brazil, Dutch, Swedish, Japanese, Portuguese, Simplified Chinese",
+  "supported_languages": "English, Russian, Italian, German, French, Spanish - Spain, Ukrainian, Polish, Traditional Chinese, Czech, Portuguese - Brazil, Dutch, Swedish, Japanese, Portuguese, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/641440/header.jpg?t=1495219028",
   "website": "http://noble-empire.com/",
   "pc_requirements": {
@@ -36,8 +36,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 499,
-    "discount_percent": 50
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     178007
@@ -54,13 +56,13 @@
       "subs": [
         {
           "packageid": 178007,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "World of Guns: Revolver Pack #1 - <span class=\"discount_original_price\">9,99\u20ac</span> 4,99\u20ac",
+          "option_text": "World of Guns: Revolver Pack #1 - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -173,6 +175,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/641440/ss_f0d1415fc57933725a85615b1bc3a981fd310648.1920x1080.jpg?t=1495219028"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 May, 2017"
@@ -181,5 +186,9 @@
     "url": "http://noble-empire.com/contacts.php",
     "email": "ler@noble-empire.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/641440/page_bg_generated_v6b.jpg?t=1495219028"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/641440/page_bg_generated_v6b.jpg?t=1495219028",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

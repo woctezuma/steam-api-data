@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>More Stuff!</strong><br>You've repetitively clicked all the buttons, you've spammed all the achievements, you've read (maybe) three or four deaths, and you've nearly crashed out our server.  What more is there to do?  Well we are proud to present you with the Deluxe Edition package!  In this delightful addition we are offering you the following:<br><br><ul class=\"bb_ul\"><li> The full soundtrack (the game will use the extra tracks)<br></li><li> Four special wallpapers<br></li><li> Full, printable poster from our previous contest<br></li><li> Extended game-play statistics such as individual death counts<br></li><li> 6 new regular deaths<br></li><li> 6 new Steam-only deaths<br></li><li> No new achievements!</li></ul><br>Bonus content (wallpapers, poster, and soundtrack) can be found within the game's Steam folder.<br><br>This version of the game will also make use of the new music tracks and included a new intro and menu track.<br><br>Non-achievement based content comes in the way of additional deaths and story. These new deaths will count towards your totals for &quot;experiencing all unique deaths&quot; achievements but not add to the total needed to get it.  They just make a it a little bit easier to obtain them and are here mostly for your reading torment/enjoyment.",
   "about_the_game": "<strong>More Stuff!</strong><br>You've repetitively clicked all the buttons, you've spammed all the achievements, you've read (maybe) three or four deaths, and you've nearly crashed out our server.  What more is there to do?  Well we are proud to present you with the Deluxe Edition package!  In this delightful addition we are offering you the following:<br><br><ul class=\"bb_ul\"><li> The full soundtrack (the game will use the extra tracks)<br></li><li> Four special wallpapers<br></li><li> Full, printable poster from our previous contest<br></li><li> Extended game-play statistics such as individual death counts<br></li><li> 6 new regular deaths<br></li><li> 6 new Steam-only deaths<br></li><li> No new achievements!</li></ul><br>Bonus content (wallpapers, poster, and soundtrack) can be found within the game's Steam folder.<br><br>This version of the game will also make use of the new music tracks and included a new intro and menu track.<br><br>Non-achievement based content comes in the way of additional deaths and story. These new deaths will count towards your totals for &quot;experiencing all unique deaths&quot; achievements but not add to the total needed to get it.  They just make a it a little bit easier to obtain them and are here mostly for your reading torment/enjoyment.",
-  "short_description": "You've repetitively clicked all the buttons, you've spammed all the achievements, you've ready (maybe) three or four deaths, and you've nearly crashed out our server.  What more is there to do?  Well we are proud to present you with the Deluxe Edition package!",
+  "short_description": "You've repetitively clicked all the buttons, you've spammed all the achievements, you've ready (maybe) three or four deaths, and you've nearly crashed out our server. What more is there to do? Well we are proud to present you with the Deluxe Edition package!",
   "fullgame": {
     "appid": "388490",
     "name": "One Way To Die: Steam Edition"
@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     77481
@@ -153,6 +155,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/399840/ss_f0ee85b0b6c7d3a1ccf988f272fc2d372910326d.1920x1080.jpg?t=1486957710"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Sep, 2015"
@@ -161,5 +166,11 @@
     "url": "https://coaguco.com/?see=about&amp;what=support",
     "email": "games@coaguco.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/399840/page_bg_generated_v6b.jpg?t=1486957710"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/399840/page_bg_generated_v6b.jpg?t=1486957710",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

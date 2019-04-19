@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     148587
@@ -130,5 +132,9 @@
     "url": "http://www.mooseman.ru",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/579890/page_bg_generated_v6b.jpg?t=1487319926"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/579890/page_bg_generated_v6b.jpg?t=1487319926",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

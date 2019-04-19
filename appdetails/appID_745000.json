@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     218563
@@ -178,5 +180,9 @@
     "url": "http://www.tinytouchtales.com/feedback",
     "email": "hello@tinytouchtales.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/745000/page_bg_generated_v6b.jpg?t=1517990421"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/745000/page_bg_generated_v6b.jpg?t=1517990421",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

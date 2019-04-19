@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     178010
@@ -144,5 +146,9 @@
     "url": "http://labyrinththegame.com/forum",
     "email": "support@labyrinththegame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/641450/page_bg_generated_v6b.jpg?t=1519241430"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/641450/page_bg_generated_v6b.jpg?t=1519241430",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

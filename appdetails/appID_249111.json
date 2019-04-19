@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "<strong>SOVIET SKIN: (H) Two Tone Don Front</strong><br>Chemically treated washable white paint over factory standard olive green helped create the stark bi-tonal winter livery used by the Red Guards.<br><br>This skin is used only for the heavy weight class.",
   "about_the_game": "<strong>SOVIET SKIN: (H) Two Tone Don Front</strong><br>Chemically treated washable white paint over factory standard olive green helped create the stark bi-tonal winter livery used by the Red Guards.<br><br>This skin is used only for the heavy weight class.",
-  "short_description": "",
+  "short_description": "SOVIET SKIN: (H) Two Tone Don FrontChemically treated washable white paint over factory standard olive green helped create the stark bi-tonal winter livery used by the Red Guards.This skin is used only for the heavy weight class.",
   "fullgame": {
     "appid": "231430",
     "name": "Company of Heroes 2"
   },
-  "supported_languages": "Czech, English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian, Polish<strong>*</strong>, Russian<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "Czech, English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian, Polish<strong>*</strong>, Russian<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/249111/header.jpg?t=1521816199",
   "website": "http://www.companyofheroes.com/",
   "pc_requirements": {
@@ -40,10 +40,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    "30104"
+    30104
   ],
   "package_groups": [
     {
@@ -56,7 +58,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "30104",
+          "packageid": 30104,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "CoH 2 - Soviet Skin: (H) Two Tone Don Front - 1,99\u20ac",
@@ -116,6 +118,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/249111/ss_6ee861f65e41ee18352bddb91236d374baf21414.1920x1080.jpg?t=1521816199"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Nov, 2013"
@@ -124,5 +129,9 @@
     "url": "https://support.sega.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/249111/page_bg_generated_v6b.jpg?t=1521816199"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/249111/page_bg_generated_v6b.jpg?t=1521816199",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

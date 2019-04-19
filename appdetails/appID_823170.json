@@ -12,14 +12,14 @@
     "name": "Ellen"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/823170/header.jpg?t=1521740394",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/823170/header.jpg?t=1549626579",
   "website": "http://www.ellen-game.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> 1.7 GHz Dual Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 260, ATI Radeon 4870 HD, or equivalent card with at least 512 MB VRAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> OSX 10.10 or higher<br></li><li><strong>Processor:</strong> 1.7 GHz Dual Core CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 260, ATI Radeon 4870 HD, or equivalent card with at least 512 MB VRAM<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
   },
   "linux_requirements": {
@@ -30,7 +30,8 @@
     "Red Mount Media"
   ],
   "publishers": [
-    "Red Mount Media"
+    "Red Mount Media",
+    "Antarsoft"
   ],
   "package_groups": [],
   "platforms": {
@@ -54,14 +55,6 @@
   ],
   "genres": [
     {
-      "id": "73",
-      "description": "Violent"
-    },
-    {
-      "id": "74",
-      "description": "Gore"
-    },
-    {
       "id": "1",
       "description": "Action"
     },
@@ -81,25 +74,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_049ccdd7c0bbefd4b8802fdb59106f333b086ed2.600x338.jpg?t=1521740394",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_049ccdd7c0bbefd4b8802fdb59106f333b086ed2.1920x1080.jpg?t=1521740394"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_049ccdd7c0bbefd4b8802fdb59106f333b086ed2.600x338.jpg?t=1549626579",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_049ccdd7c0bbefd4b8802fdb59106f333b086ed2.1920x1080.jpg?t=1549626579"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_e4973241c50dba37eb5b97674d7fc8c9b2945b22.600x338.jpg?t=1521740394",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_e4973241c50dba37eb5b97674d7fc8c9b2945b22.1920x1080.jpg?t=1521740394"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_e4973241c50dba37eb5b97674d7fc8c9b2945b22.600x338.jpg?t=1549626579",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_e4973241c50dba37eb5b97674d7fc8c9b2945b22.1920x1080.jpg?t=1549626579"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_24a165734a39ffc7b637d0d29f45e9fce1778bc2.600x338.jpg?t=1521740394",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_24a165734a39ffc7b637d0d29f45e9fce1778bc2.1920x1080.jpg?t=1521740394"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_24a165734a39ffc7b637d0d29f45e9fce1778bc2.600x338.jpg?t=1549626579",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_24a165734a39ffc7b637d0d29f45e9fce1778bc2.1920x1080.jpg?t=1549626579"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_1a345ae43991744bdfabeb03bb85986375615e5e.600x338.jpg?t=1521740394",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_1a345ae43991744bdfabeb03bb85986375615e5e.1920x1080.jpg?t=1521740394"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_1a345ae43991744bdfabeb03bb85986375615e5e.600x338.jpg?t=1549626579",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/823170/ss_1a345ae43991744bdfabeb03bb85986375615e5e.1920x1080.jpg?t=1549626579"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Mar, 2018"
@@ -108,5 +104,12 @@
     "url": "http://www.redmountmedia.com",
     "email": "hello@redmountmedia.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/823170/page_bg_generated_v6b.jpg?t=1521740394"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/823170/page_bg_generated_v6b.jpg?t=1549626579",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

@@ -11,7 +11,7 @@
     "appid": "313660",
     "name": "Alea Jacta Est"
   },
-  "supported_languages": "English, French, German, Spanish",
+  "supported_languages": "English, French, German, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/313800/header.jpg?t=1517305618",
   "website": "http://www.ageod.com/products/460/details/Birth.of.Rome",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     47538
@@ -164,6 +166,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/313800/ss_7e188598ac01e8c49a5cf0efdf340501eb0c41c3.1920x1080.jpg?t=1517305618"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Apr, 2015"
@@ -172,5 +177,9 @@
     "url": "http://www.slitherine.com/",
     "email": "support@slitherine.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/313800/page_bg_generated_v6b.jpg?t=1517305618"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/313800/page_bg_generated_v6b.jpg?t=1517305618",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

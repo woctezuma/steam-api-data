@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "",
   "about_the_game": "",
-  "short_description": "A large soda, a long movie, and an out-of-order men's room at the local dollar theater bring about a bladder emergency for Dan on his way home.  Sadly, Los Angeles gridlock proves to be the last straw in an already-bad situation, and Dan soon finds himself bent on revenge against traffic itself.",
+  "short_description": "A large soda, a long movie, and an out-of-order men's room at the local dollar theater bring about a bladder emergency for Dan on his way home. Sadly, Los Angeles gridlock proves to be the last straw in an already-bad situation, and Dan soon finds himself bent on revenge against traffic itself.",
   "fullgame": {
     "appid": "621580",
     "name": "Dan Vs."
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 249,
     "final": 249,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     169743
@@ -72,6 +74,9 @@
       "description": "Captions available"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Dec, 2017"
@@ -80,5 +85,9 @@
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

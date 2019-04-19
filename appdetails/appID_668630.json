@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     190081
@@ -170,7 +172,7 @@
     }
   ],
   "recommendations": {
-    "total": 9648
+    "total": 11717
   },
   "achievements": {
     "total": 70,
@@ -225,5 +227,9 @@
     "url": "http://www.sakuragame.com",
     "email": "gm@sakuragame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/668630/page_bg_generated_v6b.jpg?t=1518153777"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/668630/page_bg_generated_v6b.jpg?t=1518153777",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

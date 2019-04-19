@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "This pack will save you time by revealing all of the activity locations on your map.",
   "about_the_game": "This pack will save you time by revealing all of the activity locations on your map.",
-  "short_description": "",
+  "short_description": "This pack will save you time by revealing all of the activity locations on your map.",
   "fullgame": {
     "appid": "242050",
     "name": "Assassin\u2019s Creed\u00ae IV Black Flag\u2122"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Czech, Danish, Dutch, Finnish, Norwegian, Polish, Portuguese, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong>, Swedish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech, Danish, Dutch, Finnish, Norwegian, Polish, Portuguese, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Swedish<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/260472/header.jpg?t=1455812941",
   "website": "http://www.assassinscreed.com",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     33349
@@ -125,6 +127,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/260472/ss_1731a6467ede27fa624caa1b23332307b2149257.1920x1080.jpg?t=1455812941"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Nov, 2013"
@@ -133,5 +138,9 @@
     "url": "https://support.ubi.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/260472/page_bg_generated_v6b.jpg?t=1455812941"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/260472/page_bg_generated_v6b.jpg?t=1455812941",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

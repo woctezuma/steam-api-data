@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     48951
@@ -129,6 +131,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317890/ss_6ab506565eb744050f48d669bdca760ad44dcaa6.1920x1080.jpg?t=1447363097"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Aug, 2014"
@@ -137,5 +142,9 @@
     "url": "http://www.quicktequila.com/",
     "email": "support@quicktequila.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/317890/page_bg_generated_v6b.jpg?t=1447363097"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/317890/page_bg_generated_v6b.jpg?t=1447363097",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

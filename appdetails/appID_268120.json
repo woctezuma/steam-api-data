@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The Randomizer is a MIDI effect that generates rhythm patterns\u2013 just how random those patterns are is totally customizable. It works sort of like a time machine would, were a time machine to be possible in the physical world.<br />\r\n<br />\r\nFirst, you dial in your settings: will there be a wild variation in the patterns, the velocity, will those patterns be distributed across several tracks (more on that soon). Once you\u2019re satisfied you have some coordinates that could yield interesting results, press the Suprise Me! button.<br />\r\n<br />\r\nJust as a time machine would propel you through the time-space continuum at alarming velocities we could never quite understand, so too will the Randomizer create patterns based on those coordinates.<br />\r\n<br />\r\nDistribute patterns across several tracks. What does that mean? Some pro\u2019s use two or three different hi hats to get an interesting texture in the drums. Use the Randomizer to distribute a hi hat pattern, for example, across three different hi hat tracks.",
   "about_the_game": "The Randomizer is a MIDI effect that generates rhythm patterns\u2013 just how random those patterns are is totally customizable. It works sort of like a time machine would, were a time machine to be possible in the physical world.<br />\r\n<br />\r\nFirst, you dial in your settings: will there be a wild variation in the patterns, the velocity, will those patterns be distributed across several tracks (more on that soon). Once you\u2019re satisfied you have some coordinates that could yield interesting results, press the Suprise Me! button.<br />\r\n<br />\r\nJust as a time machine would propel you through the time-space continuum at alarming velocities we could never quite understand, so too will the Randomizer create patterns based on those coordinates.<br />\r\n<br />\r\nDistribute patterns across several tracks. What does that mean? Some pro\u2019s use two or three different hi hats to get an interesting texture in the drums. Use the Randomizer to distribute a hi hat pattern, for example, across three different hi hat tracks.",
-  "short_description": "",
+  "short_description": "The Randomizer is a MIDI effect that generates rhythm patterns\u2013 just how random those patterns are is totally customizable. It works sort of like a time machine would, were a time machine to be possible in the physical world.",
   "fullgame": {
     "appid": "262610",
     "name": "Liquid Rhythm"
@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     35449,
@@ -57,11 +59,11 @@
           "packageid": 35449,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Liquid Rhythm Randomizer - 13,99\u20ac",
+          "option_text": "Liquid Rhythm Randomizer - 11,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1399
+          "price_in_cents_with_discount": 1149
         },
         {
           "packageid": 35349,
@@ -80,24 +82,24 @@
       "title": "Buy Liquid Rhythm Randomizer Subscription Plan",
       "description": "To be billed on a recurring basis.",
       "selection_text": "Select a subscription plan",
-      "save_text": "Save up to 12%",
+      "save_text": "Save up to 18%",
       "display_type": "1",
       "is_recurring_subscription": "true",
       "subs": [
         {
           "packageid": 63769,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "1 Month(s) @ 6,99\u20ac/Month",
-          "option_description": "<p class=\"game_purchase_subscription\">5,99\u20ac at checkout, auto-renewed every 1 month(s) at 6,99\u20ac.</p>",
+          "percent_savings_text": "-18%",
+          "percent_savings": 18,
+          "option_text": "1 Month(s) @ 5,49\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">4,99\u20ac at checkout, auto-renewed every 1 month(s) at 5,49\u20ac.</p>",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 499
         },
         {
           "packageid": 63770,
-          "percent_savings_text": "-5%",
-          "percent_savings": 5,
+          "percent_savings_text": "",
+          "percent_savings": 0,
           "option_text": "3 Month(s) @ 6,66\u20ac/Month",
           "option_description": "<p class=\"game_purchase_subscription\">17,99\u20ac at checkout, auto-renewed every 3 month(s) at 19,99\u20ac.</p>",
           "can_get_free_license": "0",
@@ -106,13 +108,13 @@
         },
         {
           "packageid": 63768,
-          "percent_savings_text": "-12%",
-          "percent_savings": 12,
+          "percent_savings_text": "-7%",
+          "percent_savings": 7,
           "option_text": "6 Month(s) @ 6,16\u20ac/Month",
-          "option_description": "<p class=\"game_purchase_subscription\">31,99\u20ac at checkout, auto-renewed every 6 month(s) at 36,99\u20ac.</p>",
+          "option_description": "<p class=\"game_purchase_subscription\">28,99\u20ac at checkout, auto-renewed every 6 month(s) at 36,99\u20ac.</p>",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 3199
+          "price_in_cents_with_discount": 2899
         }
       ]
     }
@@ -178,5 +180,9 @@
     "url": "http://community.wavedna.com/",
     "email": "support@wavedna.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/268120/page_bg_generated_v6b.jpg?t=1447359707"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/268120/page_bg_generated_v6b.jpg?t=1447359707",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

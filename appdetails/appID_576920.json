@@ -15,13 +15,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/576920/header.jpg?t=1483986580",
   "website": "http://ladykillerinabind.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 2.2 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX compatible card</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e\u914d\u7f6e:</strong><br><ul class=\"bb_ul\"><li><strong>\u64cd\u4f5c\u7cfb\u7edf:</strong> Windows XP<br></li><li><strong>\u5904\u7406\u5668:</strong> 2.2 GHz<br></li><li><strong>\u5185\u5b58:</strong> 4 GB RAM<br></li><li><strong>\u56fe\u5f62:</strong> DirectX compatible card</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X version Leopard 10.5.8 or later<br></li><li><strong>Processor:</strong> 2.2 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e\u914d\u7f6e:</strong><br><ul class=\"bb_ul\"><li><strong>\u64cd\u4f5c\u7cfb\u7edf:</strong> OS X version Leopard 10.5.8 or later<br></li><li><strong>\u5904\u7406\u5668:</strong> 2.2 GHz<br></li><li><strong>\u5185\u5b58:</strong> 4 GB RAM</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> 2.2 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e\u914d\u7f6e:</strong><br><ul class=\"bb_ul\"><li><strong>\u64cd\u4f5c\u7cfb\u7edf:</strong> Ubuntu 12.04<br></li><li><strong>\u5904\u7406\u5668:</strong> 2.2 GHz<br></li><li><strong>\u5185\u5b58:</strong> 4 GB RAM</li></ul>"
   },
   "developers": [
     "Love Conquers All Games"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     147101
@@ -126,6 +128,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/576920/ss_6bbe0a629c354bfd9daae692a2755841be549fc3.1920x1080.jpg?t=1483986580"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Jan, 2017"
@@ -134,5 +139,12 @@
     "url": "",
     "email": "christine@loveconquersallgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576920/page_bg_generated_v6b.jpg?t=1483986580"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576920/page_bg_generated_v6b.jpg?t=1483986580",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

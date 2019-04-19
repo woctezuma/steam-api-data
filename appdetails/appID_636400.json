@@ -8,7 +8,7 @@
   "about_the_game": "<strong>CUBOTS:THE ORIGINS</strong> provides light-hearted insight into a cube's life. Usually, cube games are basic puzzle games, but this is more like an action-adventure puzzle game. The main objective is to have the Cubot take the blessed cube to the goal. Players need to study and analyse the level to proceed further and achieve this goal.<br><br>There are evolving levels in multiple atmospheric environments, with numerous obstacles to cross for the player to find the blessed cube. Players must ensure the safety of the Cubot from the enemy Z-Bots and other challenging obstacles. CUBOTS: THE ORIGINS has a blend of sci-fi and classic retro-style objects. Additionally, players need to collect enough bolts to unlock bigger &amp; harder levels, with <i>new environments and original music tracks!</i><br><br>On the completion of CUBOTS: THE ORIGINS, players will learn multiple skills: analysis, planning, memorization, and also PATIENCE!",
   "short_description": "Be a part of an adventurous journey in Cubots: The Origins. Explore and survive in beautiful, atmospheric environments!",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201cIndia\u2019s Musical Frontier\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://serenademagazine.com/features/video-games-indias-musical-frontier\" target=\"_blank\" rel=\"noopener\"  >Serenade Magazine</a></a><br>",
+  "reviews": "\u201cIndia\u2019s Musical Frontier\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://serenademagazine.com/features/video-games-indias-musical-frontier\" target=\"_blank\" rel=\"noopener\"  >Serenade Magazine</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/636400/header.jpg?t=1510571701",
   "website": "http:// www.streetlampgames.com",
   "pc_requirements": {
@@ -30,10 +30,13 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
-    174877
+    174877,
+    263199
   ],
   "package_groups": [
     {
@@ -50,6 +53,16 @@
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "CUBOTS - The Origins - 2,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 299
+        },
+        {
+          "packageid": 263199,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "CUBOTS - The Origins - Commercial License - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -223,5 +236,9 @@
     "url": "http://www.streetlampgames.com/",
     "email": "support@streetlampgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/636400/page_bg_generated_v6b.jpg?t=1510571701"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/636400/page_bg_generated_v6b.jpg?t=1510571701",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

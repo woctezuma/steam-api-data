@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     32113
@@ -152,6 +154,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Nov, 2014"
@@ -160,5 +165,9 @@
     "url": "http://www.nightdivestudios.com/?utm_source=steampowered.com&amp;utm_medium=product&amp;utm_campaign=support%20-%20inherit%20the%20earth",
     "email": "daniel@nightdivestudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/257260/page_bg_generated_v6b.jpg?t=1466791064"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/257260/page_bg_generated_v6b.jpg?t=1466791064",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

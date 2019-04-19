@@ -11,7 +11,7 @@
     "appid": "447040",
     "name": "Watch_Dogs\u00ae 2"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Czech, Dutch, Hungarian, Japanese<strong>*</strong>, Korean, Polish, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech, Dutch, Hungarian, Japanese<strong>*</strong>, Korean, Polish, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/525031/header.jpg?t=1495123536",
   "website": "http://watchdogs.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     125266
@@ -100,7 +102,10 @@
     }
   ],
   "recommendations": {
-    "total": 105
+    "total": 113
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -110,5 +115,9 @@
     "url": "https://support.ubi.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/525031/page_bg_generated_v6b.jpg?t=1495123536"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/525031/page_bg_generated_v6b.jpg?t=1495123536",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

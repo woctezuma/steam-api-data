@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     199457
@@ -113,5 +115,9 @@
     "url": "stegalosaurus.org",
     "email": "bryymiller@stegalosaurus.org"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/694800/page_bg_generated_v6b.jpg?t=1514520816"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/694800/page_bg_generated_v6b.jpg?t=1514520816",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

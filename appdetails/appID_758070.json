@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<h2 class=\"bb_tag\">What is Kill the Superweapon?</h2><br><strong>Kill the Superweapon</strong> is a 3D Twin-Stick Action game.  The game uses a <strong>diorama-style perspective</strong>, allowing for twin-stick shooting, jumping, and 3D environments.<br><br>In each of the game's levels, you must navigate a facility housing one of the bio-mehcnaically modified super-soldiers known as <strong>Superweapons</strong>.  You must search the facilities to find special ammunition that will let you take down the Superweapon.  However, the Superweapons are not content to just wait around for you.  They will <strong>roam from room to room</strong> in pursuit of the player.<h2 class=\"bb_tag\">Story</h2><strong>Samantha Kill</strong> is on a mission to take down the weapons manufacturer <strong>Abaddon Inc.</strong>  They are developing a series of Superweapons, bio-mechanically altered Supersoldiers who will be the weapons of the future.  They plan to bring about World War III, and sell their Superweapons to all sides.  Samantha Kill is armed with the <strong>Total Ablation Beam</strong>, an experimental weapon stolen from Abaddon Inc., and the only thing which can harm the Superweapons.  She must break into Abaddon's labs, find batteries to charge up the beam, and take out the Superweapons.  But, be warned, the Superweapons are not content to wait around for Samantha to find them.  They'll roam the level in pursuit of our hero.",
   "about_the_game": "<h2 class=\"bb_tag\">What is Kill the Superweapon?</h2><br><strong>Kill the Superweapon</strong> is a 3D Twin-Stick Action game.  The game uses a <strong>diorama-style perspective</strong>, allowing for twin-stick shooting, jumping, and 3D environments.<br><br>In each of the game's levels, you must navigate a facility housing one of the bio-mehcnaically modified super-soldiers known as <strong>Superweapons</strong>.  You must search the facilities to find special ammunition that will let you take down the Superweapon.  However, the Superweapons are not content to just wait around for you.  They will <strong>roam from room to room</strong> in pursuit of the player.<h2 class=\"bb_tag\">Story</h2><strong>Samantha Kill</strong> is on a mission to take down the weapons manufacturer <strong>Abaddon Inc.</strong>  They are developing a series of Superweapons, bio-mechanically altered Supersoldiers who will be the weapons of the future.  They plan to bring about World War III, and sell their Superweapons to all sides.  Samantha Kill is armed with the <strong>Total Ablation Beam</strong>, an experimental weapon stolen from Abaddon Inc., and the only thing which can harm the Superweapons.  She must break into Abaddon's labs, find batteries to charge up the beam, and take out the Superweapons.  But, be warned, the Superweapons are not content to wait around for Samantha to find them.  They'll roam the level in pursuit of our hero.",
-  "short_description": "3D Twin-Stick Action game where bosses can roam from room to room in pursuit of the player.  <i>Samantha Kill</i> is on a mission to take down Abaddon Inc. and their Bio-Mechanical Supersoldiers.",
+  "short_description": "3D Twin-Stick Action game where bosses can roam from room to room in pursuit of the player. Samantha Kill is on a mission to take down Abaddon Inc. and their Bio-Mechanical Supersoldiers.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/758070/header.jpg?t=1520272902",
   "website": "http://renegadesector.com/",
@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     223659
@@ -155,11 +157,6 @@
       "id": 13,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/758070/ss_e2ac43c0b460839c336e98794e25708ec89350d8.600x338.jpg?t=1520272902",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/758070/ss_e2ac43c0b460839c336e98794e25708ec89350d8.1920x1080.jpg?t=1520272902"
-    },
-    {
-      "id": 14,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/758070/?t=1520272902",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/758070/?t=1520272902"
     }
   ],
   "movies": [
@@ -227,5 +224,9 @@
     "url": "http://renegadesector.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/758070/page_bg_generated_v6b.jpg?t=1520272902"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/758070/page_bg_generated_v6b.jpg?t=1520272902",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

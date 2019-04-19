@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 1399,
     "final": 1399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "13,99\u20ac"
   },
   "packages": [
     13521
@@ -64,7 +66,7 @@
   },
   "metacritic": {
     "score": 46,
-    "url": "http://www.metacritic.com/game/pc/starpoint-gemini?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/starpoint-gemini?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -174,6 +176,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/108110/ss_5efc41e43fccfdc34d165d792ef29a3ae8816e4a.1920x1080.jpg?t=1447355303"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Feb, 2012"
@@ -182,5 +187,9 @@
     "url": "http://www.startpointgemini.com",
     "email": "customersupport@starpointgemini.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/108110/page_bg_generated_v6b.jpg?t=1447355303"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/108110/page_bg_generated_v6b.jpg?t=1447355303",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

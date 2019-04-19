@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     159605
@@ -92,6 +94,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/605333/ss_068e4af25176755eac6b597280d6c7095d7bb603.1920x1080.jpg?t=1505258832"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Sep, 2017"
@@ -100,5 +105,9 @@
     "url": "",
     "email": "support@xseedgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/605333/page_bg_generated_v6b.jpg?t=1505258832"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/605333/page_bg_generated_v6b.jpg?t=1505258832",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

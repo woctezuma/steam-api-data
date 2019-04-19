@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 424,
-    "discount_percent": 15
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     251920
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 251920,
-          "percent_savings_text": "-15%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Yafti - <span class=\"discount_original_price\">4,99\u20ac</span> 4,24\u20ac",
+          "option_text": "Yafti - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 424
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -125,6 +127,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Apr, 2018"
@@ -133,5 +138,9 @@
     "url": "http://russpuppy.com/contact",
     "email": "info@russpuppy.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/821410/page_bg_generated_v6b.jpg?t=1523572371"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/821410/page_bg_generated_v6b.jpg?t=1523572371",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

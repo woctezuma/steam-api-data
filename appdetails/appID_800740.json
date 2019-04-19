@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 1249,
+    "final": 1249,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,49\u20ac"
   },
   "packages": [
     243537
@@ -49,11 +51,11 @@
           "packageid": 243537,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Sprint Vector - OST - 14,99\u20ac",
+          "option_text": "Sprint Vector - OST - 12,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 1249
         }
       ]
     }
@@ -107,6 +109,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/800740/ss_f82d0d0b74bf786bee169f89f6e1dd1009d261aa.1920x1080.jpg?t=1518110097"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Feb, 2018"
@@ -115,5 +120,9 @@
     "url": "http://www.sprintvector.com",
     "email": "support@survios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/800740/page_bg_generated_v6b.jpg?t=1518110097"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/800740/page_bg_generated_v6b.jpg?t=1518110097",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

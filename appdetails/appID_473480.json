@@ -8,7 +8,7 @@
   "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/473480/extras/Miko_Mole_Banner.png ?t=1501555992\" ><br><br>Miko Mole on PC features charismatic Miko with a passion for shiny gems, who is on a mission to become master thief by collecting enough diamonds on each level to open its exit to progress. The game contains 6 challenging environments with 40 levels per world for an impressive 240 total levels. Dig down, dig deep, and uncover precious gems for Miko, but be careful, as each level requires quick reflexes and cunning strategy to avoid the many obstacles, surprises, traps and tricky puzzles, not to mention the many enemies such as bats, skunks and rats. And if you get stuck, certain objects of the environment can be manipulated granting access to otherwise inaccessible areas. Miko Mole is a lot of fun with its stealth-action gameplay and mind-bending puzzles. The ability to grab and move objects, and the ability to blow-up stuff is not just insanely cool, it is a recipe for success. Miko Mole is a great arcade puzzler suitable to players of all ages and experience levels.<br><br>Key Features<br>-\tAddictive, Stealth-Action Gameplay<br>-\tFull Of Surprises And Challenging Tasks<br>-\t6 Challenging Worlds<br>-\t240 Levels To Complete<br>-\tSuitable To Players Of All Ages &amp; Experience Levels",
   "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/473480/extras/Miko_Mole_Banner.png ?t=1501555992\" ><br><br>Miko Mole on PC features charismatic Miko with a passion for shiny gems, who is on a mission to become master thief by collecting enough diamonds on each level to open its exit to progress. The game contains 6 challenging environments with 40 levels per world for an impressive 240 total levels. Dig down, dig deep, and uncover precious gems for Miko, but be careful, as each level requires quick reflexes and cunning strategy to avoid the many obstacles, surprises, traps and tricky puzzles, not to mention the many enemies such as bats, skunks and rats. And if you get stuck, certain objects of the environment can be manipulated granting access to otherwise inaccessible areas. Miko Mole is a lot of fun with its stealth-action gameplay and mind-bending puzzles. The ability to grab and move objects, and the ability to blow-up stuff is not just insanely cool, it is a recipe for success. Miko Mole is a great arcade puzzler suitable to players of all ages and experience levels.<br><br>Key Features<br>-\tAddictive, Stealth-Action Gameplay<br>-\tFull Of Surprises And Challenging Tasks<br>-\t6 Challenging Worlds<br>-\t240 Levels To Complete<br>-\tSuitable To Players Of All Ages &amp; Experience Levels",
   "short_description": "Miko Mole on PC features charismatic Miko with a passion for shiny gems, who is on a mission to become master thief by collecting enough diamonds on each level to open its exit to progress.",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Dutch, Polish, Portuguese, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Dutch, Polish, Portuguese, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/473480/header.jpg?t=1501555992",
   "website": "http://www.mikomole.com/",
   "pc_requirements": {
@@ -26,9 +26,12 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
+    269932,
     105065
   ],
   "package_groups": [
@@ -41,6 +44,16 @@
       "display_type": 0,
       "is_recurring_subscription": "false",
       "subs": [
+        {
+          "packageid": 269932,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Miko Mole - Commercial License - 3,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 399
+        },
         {
           "packageid": 105065,
           "percent_savings_text": "",
@@ -207,5 +220,9 @@
     "url": "http://www.ensenasoft.com/contactus.html",
     "email": "support@ensenasoft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/473480/page_bg_generated_v6b.jpg?t=1501555992"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/473480/page_bg_generated_v6b.jpg?t=1501555992",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

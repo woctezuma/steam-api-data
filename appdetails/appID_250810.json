@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Things just got real on EDNIII. Download this free DLC pack to experience higher resolution, in-game cinematics!  (Purchase of full game is required.)",
   "about_the_game": "Things just got real on EDNIII. Download this free DLC pack to experience higher resolution, in-game cinematics!  (Purchase of full game is required.)",
-  "short_description": "",
+  "short_description": "Things just got real on EDNIII. Download this free DLC pack to experience higher resolution, in-game cinematics! (Purchase of full game is required.",
   "fullgame": {
     "appid": "226720",
     "name": "LOST PLANET\u00ae 3"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Polish, Portuguese-Brazil, Russian, Japanese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish, Portuguese - Brazil, Russian, Japanese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/250810/header.jpg?t=1447358609",
   "website": "http://www.lostplanetthegame.com/",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 3999,
     "final": 3999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "Free"
   },
   "packages": [
     30540,
@@ -146,6 +148,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/250810/ss_a0dd18a7a0de61781816fb56f6af4e469d7f1c7a.1920x1080.jpg?t=1447358609"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Aug, 2013"
@@ -154,5 +159,9 @@
     "url": "http://shop.capcom.com/store/capcomus/html/pbPage.capcom-support",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/250810/page_bg_generated_v6b.jpg?t=1447358609"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/250810/page_bg_generated_v6b.jpg?t=1447358609",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

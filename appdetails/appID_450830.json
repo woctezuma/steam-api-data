@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "If you ran out of tequila and all gringos are dead, then you should look at our Artbook.<br />\r\nIt's a set of high quality art from our game, portraits of characters and descriptions of defining moments of the plot, which will bring gleam back in your eye.",
   "about_the_game": "If you ran out of tequila and all gringos are dead, then you should look at our Artbook.<br />\r\nIt's a set of high quality art from our game, portraits of characters and descriptions of defining moments of the plot, which will bring gleam back in your eye.",
-  "short_description": "If you ran out of tequila and all gringos are dead, then you should look at our Artbook.<br />\r\nIt's a set of high quality art from our game, portraits of characters and descriptions of defining moments of the plot, which will bring gleam back in your eye.",
+  "short_description": "If you ran out of tequila and all gringos are dead, then you should look at our Artbook. It's a set of high quality art from our game, portraits of characters and descriptions of defining moments of the plot, which will bring gleam back in your eye.",
   "fullgame": {
     "appid": "410110",
     "name": "12 is Better Than 6"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     96901
@@ -90,6 +92,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/450830/ss_4a73e865115dba530e16616d4e560ca9173dbfcf.1920x1080.jpg?t=1457733881"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Mar, 2016"
@@ -98,5 +103,9 @@
     "url": "http://pinkappgames.com/",
     "email": "support@12-is-better-than-6.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/450830/page_bg_generated_v6b.jpg?t=1457733881"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/450830/page_bg_generated_v6b.jpg?t=1457733881",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

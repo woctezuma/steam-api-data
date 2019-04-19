@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 39,
+    "discount_percent": 88,
+    "initial_formatted": "3,29\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     126469
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 126469,
-          "percent_savings_text": "",
+          "percent_savings_text": "-88%",
           "percent_savings": 0,
-          "option_text": "VR Journey - 2,99\u20ac",
+          "option_text": "VR Journey - <span class=\"discount_original_price\">3,29\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -155,5 +157,9 @@
     "url": "",
     "email": "support@nova-dimension.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/527540/page_bg_generated_v6b.jpg?t=1522436244"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/527540/page_bg_generated_v6b.jpg?t=1522436244",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

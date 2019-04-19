@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     217899
@@ -192,5 +194,9 @@
     "url": "http://titanforgedgames.com/",
     "email": "contact@titanforgedgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/743340/page_bg_generated_v6b.jpg?t=1518903833"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/743340/page_bg_generated_v6b.jpg?t=1518903833",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

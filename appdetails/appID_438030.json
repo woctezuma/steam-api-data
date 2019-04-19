@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     92250
@@ -136,7 +138,10 @@
     }
   ],
   "recommendations": {
-    "total": 423
+    "total": 292
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -146,5 +151,9 @@
     "url": "www.newrealitygames.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438030/page_bg_generated_v6b.jpg?t=1454448826"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438030/page_bg_generated_v6b.jpg?t=1454448826",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

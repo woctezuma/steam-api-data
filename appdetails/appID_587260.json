@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 5499,
     "final": 5499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "54,99\u20ac"
   },
   "packages": [
     151795
@@ -148,7 +150,7 @@
     }
   ],
   "recommendations": {
-    "total": 216
+    "total": 364
   },
   "achievements": {
     "total": 55,
@@ -203,5 +205,9 @@
     "url": "",
     "email": "support@aksysgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/587260/page_bg_generated_v6b.jpg?t=1518095072"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/587260/page_bg_generated_v6b.jpg?t=1518095072",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

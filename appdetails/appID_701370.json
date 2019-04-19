@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     202112
@@ -144,5 +146,9 @@
     "url": "http://thornemedia.com",
     "email": "support@thornemedia.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/701370/page_bg_generated_v6b.jpg?t=1512172401"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/701370/page_bg_generated_v6b.jpg?t=1512172401",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

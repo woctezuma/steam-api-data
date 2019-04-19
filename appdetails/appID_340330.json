@@ -11,7 +11,7 @@
   "about_the_game": "Deity Quest is a light-hearted, pokemon-inspired RPG where you play as an ambitious young god, recently assigned to a world - Aberos - to convert followers and gain power. Your goal is to become the Overgod, the highest position among the many gods of Aberos. Develop your divine magic, support your followers in fast-paced 6 vs. 6 battles, adventure through locations, and compete with other deities in your quest to reach the top!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/340330/extras/title_features.png?t=1452269351\" ><br><ul class=\"bb_ul\"><li><strong>Convert Followers</strong><br>Discover 128 unique follower types throughout the land of Aberos, each with their own strengths, weaknesses and skills.<br></li><li><strong>Develop as a Deity</strong><br>Gain powerful magic unique to your alignment to support your followers and smite your enemies.<br></li><li><strong>Explore Aberos</strong><br>Travel through locations and quests, finding items and secrets, solving puzzles, gaining experience and discovering new followers.<br></li><li><strong>Fight 6 vs. 6 Battles</strong><br>Use strategy to manage and support your followers as they fight, and get the most out of their individual skills.<br></li><li><strong>Become the Overgod</strong><br>Race your rival, battle other deities and solve a murder mystery as you strive to become the Overgod of Aberos!<br></li><li><strong>Multiplayer Trading and Battles</strong><br>You can now trade followers with other players and battle other players online or over a LAN without the extended edition DLC!</li></ul>",
   "short_description": "Deity Quest is a light-hearted RPG where your goal is to convert followers and gain power to become the Overgod of Aberos. Use your divine magic to support your followers in fast-paced, strategic 6 vs. 6 battles, and compete with other deities in your quest to reach the top!",
   "supported_languages": "English",
-  "reviews": "\u201cTaking the rock-paper-scissors-lizard-spock approach of Pokemon and having up to 12 characters on the field at once leads to greater tactical complexity and some really interesting choices.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://indierpgs.com/2014/05/indierpgs-com-checks-out-deity-quest\" target=\"_blank\" rel=\"noopener\"  >IndieRPGs</a></a><br><br>\u201cThe strategy available is glorious. If you want one tough cookie at your front lines while miles of archers hide behind him, godspeed, go ahead and do it.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://indiejuice.tv/a-deitys-quest-in-strategy/\" target=\"_blank\" rel=\"noopener\"  >Indie Juice</a></a><br>",
+  "reviews": "\u201cTaking the rock-paper-scissors-lizard-spock approach of Pokemon and having up to 12 characters on the field at once leads to greater tactical complexity and some really interesting choices.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://indierpgs.com/2014/05/indierpgs-com-checks-out-deity-quest\" target=\"_blank\" rel=\"noopener\"  >IndieRPGs</a><br><br>\u201cThe strategy available is glorious. If you want one tough cookie at your front lines while miles of archers hide behind him, godspeed, go ahead and do it.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://indiejuice.tv/a-deitys-quest-in-strategy/\" target=\"_blank\" rel=\"noopener\"  >Indie Juice</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/340330/header.jpg?t=1452269351",
   "website": "http://fancyfishgames.com/DeityQuest/",
   "pc_requirements": {
@@ -39,12 +39,14 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     57100,
     57371,
-    "57727"
+    57727
   ],
   "package_groups": [
     {
@@ -77,7 +79,7 @@
           "price_in_cents_with_discount": 1299
         },
         {
-          "packageid": "57727",
+          "packageid": 57727,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Deity Quest Extended Upgrade - 3,99\u20ac",
@@ -265,5 +267,9 @@
     "url": "http://fancyfishgames.com/forums/categories/deity-quest",
     "email": "davidmaletz@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340330/page_bg_generated_v6b.jpg?t=1452269351"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340330/page_bg_generated_v6b.jpg?t=1452269351",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

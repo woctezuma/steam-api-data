@@ -13,7 +13,7 @@
   "about_the_game": "Too fast, too furious and packed full of action \u2013 are you ready for the rocket-powered world of Cloudbuilt?<br><br>A game of speed, precision and freedom, use all the abilities of your rocket-powered suit to avoid fatal hazards, dodge hostile robots and reach not just the finish line, but the top of the worldwide leaderboards. Carve your own path through a multitude of mysterious floating ruins high above the clouds and show everyone you're the best!<br><br>Now with Steamworks Level Editor tools! Will you create the greatest Cloudbuilt community level ever?<br><br><ul class=\"bb_ul\"><li>Parkour-style platforming combines with action-packed gunplay as you race against the clock to complete each stage<br></li><li>Open level design allows you to carve your own route through any stage, then refine it to get the fastest time possible<br></li><li>Make your mark on the global leader boards \u2013 find new shortcuts and climb as high as you can!<br></li><li>Create your own Cloudbuilt stages with the Level Editor and upload them to Steamworks or download levels made by others.</li></ul><br>(Please note: Use of level-building assets from Defiance DLC pack requires ownership of Defiance DLC. Minimum specs of Cloudbuilt are slightly higher than shown for those wishing to use the Level Editor tools)",
   "short_description": "The fastest platformer around just got even faster \u2013 avoid fatal hazards, dodge hostile robots and use the Level Editor tools to create your own amazing Cloudbuilt stages!",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201cCloudbuilt is a gorgeous free-running game with a touching metaphorical dimension.\u201d<br>8/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.eurogamer.net/articles/2014-03-27-cloudbuilt-review\" target=\"_blank\" rel=\"noopener\"  >Eurogamer</a></a><br><br>\u201cCould easily top game of the year lists\u2026 f*ck this brilliant bullsh*t.\u201d<br><a href=\"http://www.rockpapershotgun.com/2014/04/23/wot-i-think-cloudbuilt/\" target=\"_blank\" rel=\"noreferrer\"  >Rock Paper Shotgun</a></a><br><br>\u201c... primed to be an intensely challenging, beautifully stylised runner/platformer.\u201d<br><a href=\"https://www.youtube.com/watch?v=Iyk8rQs7tTs&amp;list=UUy1Ms_5qBTawC-k7PVjHXKQ\" target=\"_blank\" rel=\"noreferrer\"  >Total Biscuit</a></a><br>",
+  "reviews": "\u201cCloudbuilt is a gorgeous free-running game with a touching metaphorical dimension.\u201d<br>8/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.eurogamer.net/articles/2014-03-27-cloudbuilt-review\" target=\"_blank\" rel=\"noopener\"  >Eurogamer</a><br><br>\u201cCould easily top game of the year lists\u2026 f*ck this brilliant bullsh*t.\u201d<br><a href=\"http://www.rockpapershotgun.com/2014/04/23/wot-i-think-cloudbuilt/\" target=\"_blank\" rel=\"noreferrer\"  >Rock Paper Shotgun</a><br><br>\u201c... primed to be an intensely challenging, beautifully stylised runner/platformer.\u201d<br><a href=\"https://www.youtube.com/watch?v=Iyk8rQs7tTs&amp;list=UUy1Ms_5qBTawC-k7PVjHXKQ\" target=\"_blank\" rel=\"noreferrer\"  >Total Biscuit</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/262390/header.jpg?t=1478085723",
   "website": "http://www.coilworks.se/cloudbuilt/",
   "pc_requirements": {
@@ -32,8 +32,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1899,
-    "final": 1899,
-    "discount_percent": 0
+    "final": 474,
+    "discount_percent": 75,
+    "initial_formatted": "18,99\u20ac",
+    "final_formatted": "4,74\u20ac"
   },
   "packages": [
     33977
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 33977,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "Cloudbuilt - 18,99\u20ac",
+          "option_text": "Cloudbuilt - <span class=\"discount_original_price\">18,99\u20ac</span> 4,74\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1899
+          "price_in_cents_with_discount": 474
         }
       ]
     }
@@ -68,7 +70,7 @@
   },
   "metacritic": {
     "score": 72,
-    "url": "http://www.metacritic.com/game/pc/cloudbuilt?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/cloudbuilt?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -204,7 +206,7 @@
     }
   ],
   "recommendations": {
-    "total": 793
+    "total": 681
   },
   "achievements": {
     "total": 37,
@@ -259,5 +261,9 @@
     "url": "www.risingstargames.com",
     "email": "customerservice@risingstargames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/262390/page_bg_generated_v6b.jpg?t=1478085723"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/262390/page_bg_generated_v6b.jpg?t=1478085723",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

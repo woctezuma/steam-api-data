@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>The year is 2030 and an influx of refuges have effortlessly transformed themselves into a terrorist organization known as the Individual Eleven. With a sadistic intent of mass destruction, will they triumph in victory or discover the gloomy pitfalls of defeat?",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>The year is 2030 and an influx of refuges have effortlessly transformed themselves into a terrorist organization known as the Individual Eleven. With a sadistic intent of mass destruction, will they triumph in victory or discover the gloomy pitfalls of defeat?",
   "about_the_game": "The year is 2030 and an influx of refuges have effortlessly transformed themselves into a terrorist organization known as the Individual Eleven. With a sadistic intent of mass destruction, will they triumph in victory or discover the gloomy pitfalls of defeat?",
   "short_description": "The year is 2030 and an influx of refuges have effortlessly transformed themselves into a terrorist organization known as the Individual Eleven. With a sadistic intent of mass destruction, will they triumph in victory or discover the gloomy pitfalls of defeat?",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     152718,
@@ -149,6 +151,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Mar, 2017"
@@ -157,5 +162,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589910/page_bg_generated_v6b.jpg?t=1490890464"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589910/page_bg_generated_v6b.jpg?t=1490890464",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     224034
@@ -118,6 +120,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Dec, 2017"
@@ -126,5 +131,9 @@
     "url": "",
     "email": "peace_salikhov@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/759090/page_bg_generated_v6b.jpg?t=1513062843"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/759090/page_bg_generated_v6b.jpg?t=1513062843",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

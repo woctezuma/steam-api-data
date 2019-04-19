@@ -28,38 +28,10 @@
   "publishers": [
     "d/dx Labs"
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
-  },
   "packages": [
     119611
   ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy The Tower: Last Stand",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 119611,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "The Tower: Last Stand - 2,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 299
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -149,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Oct, 2016"
@@ -157,5 +132,9 @@
     "url": "http://ddxlabs.com/",
     "email": "ddxlabsinfo@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/513170/page_bg_generated_v6b.jpg?t=1477860778"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/513170/page_bg_generated_v6b.jpg?t=1477860778",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

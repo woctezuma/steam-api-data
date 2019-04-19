@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong><u>WARNING: THIS GAME REQUIRES SKILL. </u></strong><br><br>The Orb Chambers 2 is a brutally hard physics puzzle platformer expanding on the original to make it better in every way possible. <br><br>The game now includes MUCH more content, improved graphics and plenty of new features! <br><br><ul class=\"bb_ul\"><li>- Skill system has been added. <br></li><li>- Certain Items in the levels are now able to be moved around. <br></li><li>- More complex level designs. <br></li><li>- Improved lighting system and movement system. <br></li><li>- Earn trophies for your cabnit in your house and picture frames for completing challenges!. <br></li><li></li></ul>The Orb chambers 2 is allot more interactive and the keyboard now plays a big part in the game. <br><br>For anyone who has played the original you wont want to miss out on this!.<br>-------------------------------------------------------------------------------------------------------------------------------<br><br>For anyone wishing to record you might need to turn the lighting engine off in game. and make sure to record at 60fps",
   "about_the_game": "<strong><u>WARNING: THIS GAME REQUIRES SKILL. </u></strong><br><br>The Orb Chambers 2 is a brutally hard physics puzzle platformer expanding on the original to make it better in every way possible. <br><br>The game now includes MUCH more content, improved graphics and plenty of new features! <br><br><ul class=\"bb_ul\"><li>- Skill system has been added. <br></li><li>- Certain Items in the levels are now able to be moved around. <br></li><li>- More complex level designs. <br></li><li>- Improved lighting system and movement system. <br></li><li>- Earn trophies for your cabnit in your house and picture frames for completing challenges!. <br></li><li></li></ul>The Orb chambers 2 is allot more interactive and the keyboard now plays a big part in the game. <br><br>For anyone who has played the original you wont want to miss out on this!.<br>-------------------------------------------------------------------------------------------------------------------------------<br><br>For anyone wishing to record you might need to turn the lighting engine off in game. and make sure to record at 60fps",
-  "short_description": "<strong><u>WARNING: THIS GAME REQUIRES SKILL. </u></strong><br>The Orb Chambers 2 is a brutally hard physics puzzle plat-former expanding on the original to make it better in every way possible. <br>The game now includes MUCH more content, improved graphics and plenty of new features!",
+  "short_description": "WARNING: THIS GAME REQUIRES SKILL. The Orb Chambers 2 is a brutally hard physics puzzle plat-former expanding on the original to make it better in every way possible. The game now includes MUCH more content, improved graphics and plenty of new features!",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/501830/header.jpg?t=1470482882",
   "website": "http://www.starsystemstudios.co.za/",
@@ -27,11 +27,14 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 79,
-    "final": 39,
-    "discount_percent": 51
+    "final": 47,
+    "discount_percent": 41,
+    "initial_formatted": "0,79\u20ac",
+    "final_formatted": "0,47\u20ac"
   },
   "packages": [
-    115267
+    115267,
+    336318
   ],
   "package_groups": [
     {
@@ -45,13 +48,23 @@
       "subs": [
         {
           "packageid": 115267,
-          "percent_savings_text": "-51%",
+          "percent_savings_text": "-41%",
           "percent_savings": 0,
-          "option_text": "The Orb Chambers II - <span class=\"discount_original_price\">0,79\u20ac</span> 0,39\u20ac",
+          "option_text": "The Orb Chambers II - <span class=\"discount_original_price\">0,79\u20ac</span> 0,47\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 39
+          "price_in_cents_with_discount": 47
+        },
+        {
+          "packageid": 336318,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "The Orb Chambers II - Commercial License - 0,79\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -193,7 +206,7 @@
     }
   ],
   "achievements": {
-    "total": 40,
+    "total": 35,
     "highlighted": [
       {
         "name": "Clear Level 1",
@@ -245,5 +258,9 @@
     "url": "http://www.starsystemstudios.co.za/",
     "email": "starsystemstudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501830/page_bg_generated_v6b.jpg?t=1470482882"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501830/page_bg_generated_v6b.jpg?t=1470482882",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

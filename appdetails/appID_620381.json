@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     166630
@@ -131,5 +133,9 @@
     "url": "http://panoramikinc.com/",
     "email": "tapadventure.supp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620381/page_bg_generated_v6b.jpg?t=1501244872"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620381/page_bg_generated_v6b.jpg?t=1501244872",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

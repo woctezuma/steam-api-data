@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>On Pluto, a war broke out between the forces of the &quot;Colonial Fleet&quot; and the paramilitary group &quot;Alpha.&quot; Captain Scipio, helping the fleet fighters, was able to destroy the base of the Alpha and return to Earth.<br><br> Having received the distress signal from Pluto, criminal authorities send elite &quot;Alpha&quot; units to help planetary forces. The composition of these detachments includes the most experienced captain Alex Altman.  Multiple campaigns in which he participated, strongly affected the character of the protagonist.  His excessive self-confidence can lead to a sad end.  Only from the player depends on what fate will take Altman.<br><br> The game has a linear plot. There will be dialogs with the choice of the answer and moving around the map. The combat system is a shootout with the opponent on the field, in which you can only reach the middle. There are bosses, the victory over which will send the main character to a new chapter and levels of puzzles.</strong><br><br><strong> <u> FEATURES: [/ u] <br>1. New branch of the plot. <br>2. A multi-level battle with the boss. <br>3. Fine musical design <br>4. Different gameplay <br>5. A large number of levels [/ b]</u></strong>",
   "about_the_game": "<strong>On Pluto, a war broke out between the forces of the &quot;Colonial Fleet&quot; and the paramilitary group &quot;Alpha.&quot; Captain Scipio, helping the fleet fighters, was able to destroy the base of the Alpha and return to Earth.<br><br> Having received the distress signal from Pluto, criminal authorities send elite &quot;Alpha&quot; units to help planetary forces. The composition of these detachments includes the most experienced captain Alex Altman.  Multiple campaigns in which he participated, strongly affected the character of the protagonist.  His excessive self-confidence can lead to a sad end.  Only from the player depends on what fate will take Altman.<br><br> The game has a linear plot. There will be dialogs with the choice of the answer and moving around the map. The combat system is a shootout with the opponent on the field, in which you can only reach the middle. There are bosses, the victory over which will send the main character to a new chapter and levels of puzzles.</strong><br><br><strong> <u> FEATURES: [/ u] <br>1. New branch of the plot. <br>2. A multi-level battle with the boss. <br>3. Fine musical design <br>4. Different gameplay <br>5. A large number of levels [/ b]</u></strong>",
-  "short_description": "<strong> You are a mercenary of the elite unit of the largest syndicate &quot;Alpha.&quot; You were sent to Pluton, where you will have to face difficulties.  Spitfire character of the protagonist will lead him to the most dangerous places of this world.  His fate is completely in your hands! [/ b]</strong>",
+  "short_description": "You are a mercenary of the elite unit of the largest syndicate &quot;Alpha.&quot; You were sent to Pluton, where you will have to face difficulties. Spitfire character of the protagonist will lead him to the most dangerous places of this world. His fate is completely in your hands!",
   "fullgame": {
     "appid": "718980",
     "name": "Grey Zone"
@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 59,
+    "discount_percent": 40,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,59\u20ac"
   },
   "packages": [
     223680
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 223680,
-          "percent_savings_text": "",
+          "percent_savings_text": "-40%",
           "percent_savings": 0,
-          "option_text": "Grey Zone:Object 67 - 0,99\u20ac",
+          "option_text": "Grey Zone:Object 67 - <span class=\"discount_original_price\">0,99\u20ac</span> 0,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 59
         }
       ]
     }
@@ -134,5 +136,9 @@
     "url": "",
     "email": "stalkerpoioi@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/758130/page_bg_generated_v6b.jpg?t=1514412255"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/758130/page_bg_generated_v6b.jpg?t=1514412255",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

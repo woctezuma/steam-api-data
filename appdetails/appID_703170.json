@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     202733
@@ -106,5 +108,9 @@
     "url": "",
     "email": "soldatov_ao@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/703170/page_bg_generated_v6b.jpg?t=1505498633"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/703170/page_bg_generated_v6b.jpg?t=1505498633",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

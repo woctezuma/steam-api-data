@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Puzzles At Mystery Manor</strong> is a jigsaw puzzle game, in which your task is to unravel the puzzles in the haunted manor of Jack Jasper, a madman, genius and murderer, who killed 40 people and captured their tortured souls in 40 paintings and hid them throughout the house. <br><br>In this exhilarating combination of terror and jigsaw puzzles, you travel throughout the manor helping solve puzzles related to the grisly murders he committed. Each broken picture unveils where the lunatic laid each of his victims to rest... Can you make it through the manor and survive to tell the tale?",
   "about_the_game": "<strong>Puzzles At Mystery Manor</strong> is a jigsaw puzzle game, in which your task is to unravel the puzzles in the haunted manor of Jack Jasper, a madman, genius and murderer, who killed 40 people and captured their tortured souls in 40 paintings and hid them throughout the house. <br><br>In this exhilarating combination of terror and jigsaw puzzles, you travel throughout the manor helping solve puzzles related to the grisly murders he committed. Each broken picture unveils where the lunatic laid each of his victims to rest... Can you make it through the manor and survive to tell the tale?",
-  "short_description": "<strong>Puzzles At Mystery Manor</strong> is a jigsaw puzzle game, in which your task is to unravel the puzzles in the haunted manor of Jack Jasper, a madman, genius and murderer, who killed 40 people and captured their tortured souls in 40 paintings and hid them throughout the house.",
+  "short_description": "Puzzles At Mystery Manor is a jigsaw puzzle game, in which your task is to unravel the puzzles in the haunted manor of Jack Jasper, a madman, genius and murderer, who killed 40 people and captured their tortured souls in 40 paintings and hid them throughout the house.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/489890/header.jpg?t=1504716275",
   "website": "http://www.ensenasoft.com/",
@@ -25,12 +25,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
-    110739
+    110739,
+    269947
   ],
   "package_groups": [
     {
@@ -46,11 +49,21 @@
           "packageid": 110739,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Puzzles At Mystery Manor - 2,99\u20ac",
+          "option_text": "Puzzles At Mystery Manor - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 79
+        },
+        {
+          "packageid": 269947,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Puzzles At Mystery Manor - Commercial License - 2,39\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -135,6 +148,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jun, 2016"
@@ -143,5 +159,9 @@
     "url": "http://www.ensenasoft.com",
     "email": "support@ensenasoft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/489890/page_bg_generated_v6b.jpg?t=1504716275"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/489890/page_bg_generated_v6b.jpg?t=1504716275",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

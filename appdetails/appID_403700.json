@@ -17,7 +17,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "By using this app, you are accepting the Terms of Use and Privacy Policy located at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.addictinggames.com/legal/privacy-policy.jsp\" target=\"_blank\" rel=\"noopener\"  >http://www.addictinggames.com/legal/privacy-policy.jsp</a></a> and <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.addictinggames.com/legal/terms-use.jsp\" target=\"_blank\" rel=\"noopener\"  >http://www.addictinggames.com/legal/terms-use.jsp</a></a>, respectively.",
+  "legal_notice": "By using this app, you are accepting the Terms of Use and Privacy Policy located at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.addictinggames.com/legal/privacy-policy.jsp\" target=\"_blank\" rel=\"noopener\"  >http://www.addictinggames.com/legal/privacy-policy.jsp</a> and <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.addictinggames.com/legal/terms-use.jsp\" target=\"_blank\" rel=\"noopener\"  >http://www.addictinggames.com/legal/terms-use.jsp</a>, respectively.",
   "developers": [
     "Ben 'Yahtzee' Croshaw",
     "Collected Worlds"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     78983
@@ -137,7 +139,7 @@
     }
   ],
   "recommendations": {
-    "total": 244
+    "total": 234
   },
   "achievements": {
     "total": 18,
@@ -192,5 +194,9 @@
     "url": "https://addictinggameshelp.zendesk.com/",
     "email": "hatfall@addictinggameshelp.zendesk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403700/page_bg_generated_v6b.jpg?t=1448033332"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403700/page_bg_generated_v6b.jpg?t=1448033332",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

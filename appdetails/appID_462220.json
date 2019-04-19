@@ -7,7 +7,7 @@
   "detailed_description": "Mahjong Deluxe 3 is the newest entry in the popular Mahjong series of casual games produced by award-winning game developer EnsenaSoft. With more than 15 million downloads across versions, the blockbuster series of Mahjong Deluxe continues to impress with its ease of use, intuitive controls and family-friendly features and content. <br />\r\n<br />\r\nMahjong Deluxe 3 includes 8 different worlds containing a total of 640 exciting puzzle layouts to enjoy in classic 2D and glorious 3D. Puzzles are laid out using random tile orders, allowing you to replay each layout many times with a new experience each session. An exciting scoring system, great sound effects and relaxing music adds to the fun. Suitable to players of all ages and experience levels, Mahjong Deluxe 3 offers a modern rendition of the popular Chinese classic, and is a must-have download in your casual game collection.",
   "about_the_game": "Mahjong Deluxe 3 is the newest entry in the popular Mahjong series of casual games produced by award-winning game developer EnsenaSoft. With more than 15 million downloads across versions, the blockbuster series of Mahjong Deluxe continues to impress with its ease of use, intuitive controls and family-friendly features and content. <br />\r\n<br />\r\nMahjong Deluxe 3 includes 8 different worlds containing a total of 640 exciting puzzle layouts to enjoy in classic 2D and glorious 3D. Puzzles are laid out using random tile orders, allowing you to replay each layout many times with a new experience each session. An exciting scoring system, great sound effects and relaxing music adds to the fun. Suitable to players of all ages and experience levels, Mahjong Deluxe 3 offers a modern rendition of the popular Chinese classic, and is a must-have download in your casual game collection.",
   "short_description": "Mahjong Deluxe 3 is the newest entry in the popular Mahjong series of casual games produced by award-winning game developer EnsenaSoft.",
-  "supported_languages": "English, French, Italian, German, Spanish, Portuguese-Brazil, Dutch, Norwegian, Portuguese, Swedish, Hungarian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Dutch, Norwegian, Portuguese, Swedish, Hungarian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/462220/header.jpg?t=1478753691",
   "website": "http://www.mahjongdeluxe3.com",
   "pc_requirements": {
@@ -25,12 +25,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
-    101005
+    101005,
+    269929
   ],
   "package_groups": [
     {
@@ -46,11 +49,21 @@
           "packageid": 101005,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Mahjong Deluxe 3 - 4,99\u20ac",
+          "option_text": "Mahjong Deluxe 3 - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 329
+        },
+        {
+          "packageid": 269929,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Mahjong Deluxe 3 - Commercial License - 3,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -125,6 +138,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Apr, 2016"
@@ -133,5 +149,9 @@
     "url": "www.mahjongdeluxe3.com",
     "email": "support@ensenasoft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/462220/page_bg_generated_v6b.jpg?t=1478753691"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/462220/page_bg_generated_v6b.jpg?t=1478753691",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

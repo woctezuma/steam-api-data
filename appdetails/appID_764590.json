@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "If you always thought that there were too few loot boxes in other games, this game is for you!<br><br><strong>Shadow of Loot Box</strong> is an attempt to present what video games can become in the near future. Each level of this shooter is a reference to a popular trend in the modern game development industry.<br>Will you be able to overcome the thorny path full of microtransactions, loot boxes and bugs, resisting the temptation to use the in-game store?<br><br><strong>Features:</strong><br><ul class=\"bb_ul\"><li>Loot Boxes<br></li><li>More Loot Boxes!<br></li><li>Micropayments<br></li><li>Pre-Pre-Early Access<br></li><li>Cut content<br></li><li>Procedurally Generated Quests<br></li><li>Towers and Outposts<br></li><li>And much more!</li></ul>",
   "about_the_game": "If you always thought that there were too few loot boxes in other games, this game is for you!<br><br><strong>Shadow of Loot Box</strong> is an attempt to present what video games can become in the near future. Each level of this shooter is a reference to a popular trend in the modern game development industry.<br>Will you be able to overcome the thorny path full of microtransactions, loot boxes and bugs, resisting the temptation to use the in-game store?<br><br><strong>Features:</strong><br><ul class=\"bb_ul\"><li>Loot Boxes<br></li><li>More Loot Boxes!<br></li><li>Micropayments<br></li><li>Pre-Pre-Early Access<br></li><li>Cut content<br></li><li>Procedurally Generated Quests<br></li><li>Towers and Outposts<br></li><li>And much more!</li></ul>",
-  "short_description": "<strong>Shadow of Loot Box</strong> is a first-person shooter about micropayments, loot boxes, cut content and everything we &quot;love&quot; in modern video games.",
+  "short_description": "Shadow of Loot Box is a first-person shooter about micropayments, loot boxes, cut content and everything we &quot;love&quot; in modern video games.",
   "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/764590/header.jpg?t=1520499302",
   "website": "http://statelysnail.com/",
@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 334,
-    "discount_percent": 33
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     226044
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 226044,
-          "percent_savings_text": "-33%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Shadow of LootBox - <span class=\"discount_original_price\">4,99\u20ac</span> 3,34\u20ac",
+          "option_text": "Shadow of LootBox - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 334
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -184,5 +186,9 @@
     "url": "http://statelysnail.com/",
     "email": "support@statelysnail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/764590/page_bg_generated_v6b.jpg?t=1520499302"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/764590/page_bg_generated_v6b.jpg?t=1520499302",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

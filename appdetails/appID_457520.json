@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     99340
@@ -157,9 +159,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 108
-  },
   "achievements": {
     "total": 15,
     "highlighted": [
@@ -213,5 +212,9 @@
     "url": "",
     "email": "aamatniekss@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/457520/page_bg_generated_v6b.jpg?t=1460213211"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/457520/page_bg_generated_v6b.jpg?t=1460213211",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

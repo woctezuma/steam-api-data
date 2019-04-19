@@ -27,14 +27,16 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 2499,
-    "final": 2499,
-    "discount_percent": 0
+    "initial": 3499,
+    "final": 3499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "34,99\u20ac"
   },
   "packages": [
     130636,
-    "189208",
-    "137245"
+    189208,
+    137245
   ],
   "package_groups": [
     {
@@ -50,24 +52,24 @@
           "packageid": 130636,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Call to Arms - Season Pass - 24,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2499
-        },
-        {
-          "packageid": "189208",
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Call to Arms - Upgrade to Ultimate Edition - 34,99\u20ac",
+          "option_text": "Call to Arms - Season Pass - 34,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 3499
         },
         {
-          "packageid": "137245",
+          "packageid": 189208,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Call to Arms - Upgrade to Ultimate Edition - 49,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 4999
+        },
+        {
+          "packageid": 137245,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Call to Arms - Ultimate Edition - 59,99\u20ac",
@@ -195,6 +197,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/561140/ss_efbf63cf194debf6080ce476133b9efb7fa57916.1920x1080.jpg?t=1516130386"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Nov, 2016"
@@ -203,5 +208,9 @@
     "url": "http://digitalmindsoft.eu/about-us/contact",
     "email": "info@digitalmindsoft.eu"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/561140/page_bg_generated_v6b.jpg?t=1516130386"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/561140/page_bg_generated_v6b.jpg?t=1516130386",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

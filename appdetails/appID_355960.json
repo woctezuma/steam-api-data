@@ -11,7 +11,7 @@
     "appid": "266840",
     "name": "Age of Mythology: Extended Edition"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese, Korean<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/355960/header.jpg?t=1482965749",
   "website": "http://www.ageofempires.com/aom",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     62797
@@ -148,7 +150,10 @@
     }
   ],
   "recommendations": {
-    "total": 868
+    "total": 943
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -158,5 +163,9 @@
     "url": "http://www.ageofempires.com/contact.aspx",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/355960/page_bg_generated_v6b.jpg?t=1482965749"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/355960/page_bg_generated_v6b.jpg?t=1482965749",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     58272
@@ -90,6 +92,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/343510/ss_2cec24f685dc4e5ccc73d7f8d0027af755932d03.1920x1080.jpg?t=1447367414"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Jan, 2015"
@@ -98,5 +103,9 @@
     "url": "https://docs.google.com/forms/d/1HyemRQVhqElq3nh9yLo08CGcw2LH6rBMZQvmgZHw4IM/viewform",
     "email": "jacobdanielmooney@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/343510/page_bg_generated_v6b.jpg?t=1447367414"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/343510/page_bg_generated_v6b.jpg?t=1447367414",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

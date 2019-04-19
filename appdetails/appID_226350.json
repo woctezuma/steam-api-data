@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "For the first time in SpellForce,  you play not as the hero to tell his story, but rather as one of the NPCs. The stories of the scenarios are set before Faith in Destiny and are briefly mentioned there. The scenarios pick up these discussions of their past and tell these stories in detail.<br><br><br><strong>Flink's Secret Diary</strong><br>Order Master Matricus has recorded his secrets of fire magic in a Fire Ledger a powerful artifact. This compendium grants its owner the powers of fire magic. But the orcs have stolen it. Flink McWinter, a famous thief and scoundrel from the SpellForce universe, was hired by Matricus (or so he claims) to steal back the Fire Ledger. He quickly realizes that this will unfortunately not be an easy task, even for a master thief such as he...<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li> Play the &quot;true&quot; story of Flink McWinter ... or at least his version of events<br></li><li> At least 4 hours of genuine SpellForce feel on Flink's home island<br></li><li> Experience a thrilling and humorous story full of orcs, barbarians, thieves, and Flink's mother, as well as wine, women, and song<br></li><li> 60 % RPG and 40 % RTS with lots of puzzles and tricky situations</li></ul>",
   "about_the_game": "For the first time in SpellForce,  you play not as the hero to tell his story, but rather as one of the NPCs. The stories of the scenarios are set before Faith in Destiny and are briefly mentioned there. The scenarios pick up these discussions of their past and tell these stories in detail.<br><br><br><strong>Flink's Secret Diary</strong><br>Order Master Matricus has recorded his secrets of fire magic in a Fire Ledger a powerful artifact. This compendium grants its owner the powers of fire magic. But the orcs have stolen it. Flink McWinter, a famous thief and scoundrel from the SpellForce universe, was hired by Matricus (or so he claims) to steal back the Fire Ledger. He quickly realizes that this will unfortunately not be an easy task, even for a master thief such as he...<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li> Play the &quot;true&quot; story of Flink McWinter ... or at least his version of events<br></li><li> At least 4 hours of genuine SpellForce feel on Flink's home island<br></li><li> Experience a thrilling and humorous story full of orcs, barbarians, thieves, and Flink's mother, as well as wine, women, and song<br></li><li> 60 % RPG and 40 % RTS with lots of puzzles and tricky situations</li></ul>",
-  "short_description": "For the first time in SpellForce,  you play not as the hero to tell his story, but rather as one of the NPCs.",
+  "short_description": "For the first time in SpellForce, you play not as the hero to tell his story, but rather as one of the NPCs.",
   "fullgame": {
     "appid": "65530",
     "name": "SpellForce 2: Faith in Destiny"
@@ -31,12 +31,13 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     18590,
-    18605,
-    36855
+    18605
   ],
   "package_groups": [
     {
@@ -67,16 +68,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 999
-        },
-        {
-          "packageid": 36855,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "SpellForce Complete - 59,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 5999
         }
       ]
     }
@@ -158,6 +149,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/226350/ss_408ff88dc284dc286ceaf4ae4c53b479ef8a36a6.1920x1080.jpg?t=1471945405"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Dec, 2012"
@@ -166,5 +160,9 @@
     "url": "",
     "email": "support@quanticlab.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/226350/page_bg_generated_v6b.jpg?t=1471945405"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/226350/page_bg_generated_v6b.jpg?t=1471945405",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

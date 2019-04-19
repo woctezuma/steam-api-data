@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Excellent dlc Grand Pskov Story - artbook &quot;50 shadows of Pskov&quot;  includes 50 arts + bonus art from game Grand Pskov Story<br />\r\n<br />\r\nart size 1280x800",
   "about_the_game": "Excellent dlc Grand Pskov Story - artbook &quot;50 shadows of Pskov&quot;  includes 50 arts + bonus art from game Grand Pskov Story<br />\r\n<br />\r\nart size 1280x800",
-  "short_description": "Excellent dlc Grand Pskov Story - artbook &quot;50 shadows of Pskov&quot;  includes 50 arts + bonus art from game Grand Pskov Story",
+  "short_description": "Excellent dlc Grand Pskov Story - artbook &quot;50 shadows of Pskov&quot; includes 50 arts + bonus art from game Grand Pskov Story",
   "fullgame": {
     "appid": "735590",
     "name": "Grand Pskov Story"
@@ -28,8 +28,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 44,
+    "discount_percent": 56,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,44\u20ac"
   },
   "packages": [
     215887
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 215887,
-          "percent_savings_text": "",
+          "percent_savings_text": "-56%",
           "percent_savings": 0,
-          "option_text": "Grand Pskov Story - artbook \"50 shadows of Pskov\" - 0,99\u20ac",
+          "option_text": "Grand Pskov Story - artbook \"50 shadows of Pskov\" - <span class=\"discount_original_price\">0,99\u20ac</span> 0,44\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 44
         }
       ]
     }
@@ -120,6 +122,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/738250/ss_8067b425ec58029c85859fa20bfd772beb92e679.1920x1080.jpg?t=1509520140"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Nov, 2017"
@@ -128,5 +133,12 @@
     "url": "",
     "email": "excellente23@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/738250/page_bg_generated_v6b.jpg?t=1509520140"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/738250/page_bg_generated_v6b.jpg?t=1509520140",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

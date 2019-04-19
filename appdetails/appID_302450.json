@@ -12,7 +12,7 @@
     "appid": "272470",
     "name": "The Incredible Adventures of Van Helsing II"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Hungarian, Polish, Portuguese, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Hungarian, Polish, Portuguese, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/302450/header.jpg?t=1507544458",
   "website": "http://neocoregames.com",
   "pc_requirements": {
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     44560
@@ -164,6 +166,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/302450/ss_baa4107ba1c6fd550f3d251a34908cf8df73c76b.1920x1080.jpg?t=1507544458"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Oct, 2016"
@@ -172,5 +177,9 @@
     "url": "http://forum.neocoregames.com/index.php?/forum/8-bug-reporting-and-issues/",
     "email": "support@vanhelsingthegame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/302450/page_bg_generated_v6b.jpg?t=1507544458"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/302450/page_bg_generated_v6b.jpg?t=1507544458",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

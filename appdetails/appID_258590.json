@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     32634
@@ -144,7 +146,7 @@
     }
   ],
   "recommendations": {
-    "total": 425
+    "total": 354
   },
   "achievements": {
     "total": 12,
@@ -199,5 +201,9 @@
     "url": "",
     "email": "advanced.platforms@turner.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/258590/page_bg_generated_v6b.jpg?t=1447359048"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/258590/page_bg_generated_v6b.jpg?t=1447359048",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

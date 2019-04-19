@@ -7,7 +7,7 @@
   "detailed_description": "3D Pinball game with an amazing feature: a Table Editor for you to create and play your own tables. Pinball comes with 10 original tables and a growing number of online tables created by players around the world. Experience tons of amazing effects in this original, highly entertaining Pinball game. With realistic physics, cool sounds and unlimited tables, Pinball will have you coming back for more.",
   "about_the_game": "3D Pinball game with an amazing feature: a Table Editor for you to create and play your own tables. Pinball comes with 10 original tables and a growing number of online tables created by players around the world. Experience tons of amazing effects in this original, highly entertaining Pinball game. With realistic physics, cool sounds and unlimited tables, Pinball will have you coming back for more.",
   "short_description": "3D Pinball game with an amazing feature: a Table Editor for you to create and play your own tables.",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Arabic, Japanese, Korean, Portuguese, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Japanese, Korean, Portuguese, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/745120/header.jpg?t=1510321117",
   "website": "http://www.bakno.com/Pinball",
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     218598
@@ -129,6 +131,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Nov, 2017"
@@ -137,5 +142,9 @@
     "url": "http://www.bakno.com/Support",
     "email": "info@bakno.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/745120/page_bg_generated_v6b.jpg?t=1510321117"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/745120/page_bg_generated_v6b.jpg?t=1510321117",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

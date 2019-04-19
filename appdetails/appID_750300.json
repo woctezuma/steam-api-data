@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     220331
@@ -116,11 +118,6 @@
       "id": 1,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/750300/ss_468050f3f36c5359d256fd0c49d3d23437eecff6.600x338.jpg?t=1510263600",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/750300/ss_468050f3f36c5359d256fd0c49d3d23437eecff6.1920x1080.jpg?t=1510263600"
-    },
-    {
-      "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/750300/?t=1510263600",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/750300/?t=1510263600"
     }
   ],
   "release_date": {
@@ -131,5 +128,9 @@
     "url": "",
     "email": "wischutz@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/750300/page_bg_generated_v6b.jpg?t=1510263600"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/750300/page_bg_generated_v6b.jpg?t=1510263600",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

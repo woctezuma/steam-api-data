@@ -12,8 +12,8 @@
     "appid": "442120",
     "name": "Pinball FX3"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/836820/header.jpg?t=1523455251",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/836820/header.jpg?t=1523976289",
   "website": "http://www.pinballfx.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / Windows 8 / Windows 10<br></li><li><strong>Processor:</strong> Dual Core CPU @ 1.6GHz<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> Nvida GTS 450 or AMD equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card / integrated</li></ul>"
@@ -27,7 +27,40 @@
   "publishers": [
     "Zen Studios"
   ],
-  "package_groups": [],
+  "price_overview": {
+    "currency": "USD",
+    "initial": 699,
+    "final": 699,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "$6.99"
+  },
+  "packages": [
+    260882
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Pinball FX3 - Star Wars\u2122 Pinball: The Last Jedi\u2122",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 260882,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Pinball FX3 - Star Wars\u2122 Pinball: The Last Jedi - $6.99",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 699
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -68,54 +101,61 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_1c6f092be87e08531da37571233c8ce4122b3f8c.600x338.jpg?t=1523455251",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_1c6f092be87e08531da37571233c8ce4122b3f8c.1920x1080.jpg?t=1523455251"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_1c6f092be87e08531da37571233c8ce4122b3f8c.600x338.jpg?t=1523976289",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_1c6f092be87e08531da37571233c8ce4122b3f8c.1920x1080.jpg?t=1523976289"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_eee32f6474fd09f697ac40e84d640fa021031dc3.600x338.jpg?t=1523455251",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_eee32f6474fd09f697ac40e84d640fa021031dc3.1920x1080.jpg?t=1523455251"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_eee32f6474fd09f697ac40e84d640fa021031dc3.600x338.jpg?t=1523976289",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_eee32f6474fd09f697ac40e84d640fa021031dc3.1920x1080.jpg?t=1523976289"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_13fab4b5555ce05bff2594c1b14d3279d74615c1.600x338.jpg?t=1523455251",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_13fab4b5555ce05bff2594c1b14d3279d74615c1.1920x1080.jpg?t=1523455251"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_13fab4b5555ce05bff2594c1b14d3279d74615c1.600x338.jpg?t=1523976289",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_13fab4b5555ce05bff2594c1b14d3279d74615c1.1920x1080.jpg?t=1523976289"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_ff48bdfa1825877af3c5e58d0ea9db5572dd3881.600x338.jpg?t=1523455251",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_ff48bdfa1825877af3c5e58d0ea9db5572dd3881.1920x1080.jpg?t=1523455251"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_ff48bdfa1825877af3c5e58d0ea9db5572dd3881.600x338.jpg?t=1523976289",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_ff48bdfa1825877af3c5e58d0ea9db5572dd3881.1920x1080.jpg?t=1523976289"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_afb88c0ffa469ab498ed5553faafe76411c2d0a7.600x338.jpg?t=1523455251",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_afb88c0ffa469ab498ed5553faafe76411c2d0a7.1920x1080.jpg?t=1523455251"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_afb88c0ffa469ab498ed5553faafe76411c2d0a7.600x338.jpg?t=1523976289",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_afb88c0ffa469ab498ed5553faafe76411c2d0a7.1920x1080.jpg?t=1523976289"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_068f4716b4234ef7cf41cfe7751fc18e090032a2.600x338.jpg?t=1523455251",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_068f4716b4234ef7cf41cfe7751fc18e090032a2.1920x1080.jpg?t=1523455251"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_068f4716b4234ef7cf41cfe7751fc18e090032a2.600x338.jpg?t=1523976289",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/836820/ss_068f4716b4234ef7cf41cfe7751fc18e090032a2.1920x1080.jpg?t=1523976289"
     }
   ],
   "movies": [
     {
       "id": 256712770,
       "name": "Star Wars\u2122 Pinball: The Last Jedi\u2122 Trailer",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256712770/movie.293x165.jpg?t=1523455236",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256712770/movie.293x165.jpg?t=1523976283",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256712770/movie480.webm?t=1523455236",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256712770/movie_max.webm?t=1523455236"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256712770/movie480.webm?t=1523976283",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256712770/movie_max.webm?t=1523976283"
       },
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
-    "coming_soon": true,
-    "date": "17 Apr, 2018"
+    "coming_soon": false,
+    "date": "Apr 17, 2018"
   },
   "support_info": {
     "url": "http://forum.zenstudios.com/forum.php",
     "email": "support@zenstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/836820/page_bg_generated_v6b.jpg?t=1523455251"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/836820/page_bg_generated_v6b.jpg?t=1523976289",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

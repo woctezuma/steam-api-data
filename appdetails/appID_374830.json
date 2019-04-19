@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     69201
@@ -201,9 +203,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 245
-  },
   "achievements": {
     "total": 40,
     "highlighted": [
@@ -257,5 +256,9 @@
     "url": "http://kiltedcamel.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/374830/page_bg_generated_v6b.jpg?t=1469130977"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/374830/page_bg_generated_v6b.jpg?t=1469130977",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

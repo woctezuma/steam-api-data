@@ -4,11 +4,11 @@
   "steam_appid": 745740,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "You need to solve puzzles. Destroy all shapes. If you cant pass level just click on hint button. Click on screen to open menu and choose levels. Hold mouse button and try to destroy shapes after that will be next level. There are 70 levels that will more difficult than previous one<br><br><br><br><i>Game Features :<br>Simple Drag the dot and Release to Shoot all the walls<br>Addictive levels<br>Simple Graphics<br>Use hint to Clear the Levels<br>More than 70+ levels</i>",
-  "about_the_game": "You need to solve puzzles. Destroy all shapes. If you cant pass level just click on hint button. Click on screen to open menu and choose levels. Hold mouse button and try to destroy shapes after that will be next level. There are 70 levels that will more difficult than previous one<br><br><br><br><i>Game Features :<br>Simple Drag the dot and Release to Shoot all the walls<br>Addictive levels<br>Simple Graphics<br>Use hint to Clear the Levels<br>More than 70+ levels</i>",
-  "short_description": "A simple puzzle game. Simple graphics and nice music. Try your mind in more than 70+ levels. They are  waiting for you.",
+  "detailed_description": "You need to solve puzzles. Destroy all shapes. If you cant pass level just click on hint button. Click on screen to open menu and choose levels. Hold mouse button and try to destroy shapes after that will be next level. There are 70 levels that will more difficult than previous one<br><br><br><br><i>Game Features :<br>Addictive levels<br>Simple Graphics<br>Use hint to clear the Levels<br>More than 70+ levels<br>Easy achievements<br>Custom achievements</i>",
+  "about_the_game": "You need to solve puzzles. Destroy all shapes. If you cant pass level just click on hint button. Click on screen to open menu and choose levels. Hold mouse button and try to destroy shapes after that will be next level. There are 70 levels that will more difficult than previous one<br><br><br><br><i>Game Features :<br>Addictive levels<br>Simple Graphics<br>Use hint to clear the Levels<br>More than 70+ levels<br>Easy achievements<br>Custom achievements</i>",
+  "short_description": "A simple puzzle game. Simple graphics and nice music. Try your mind in more than 70+ levels. They are waiting for you.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/745740/header.jpg?t=1516477489",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/745740/header.jpg?t=1547647231",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows xp sp2<br></li><li><strong>Processor:</strong> Pentium\u00ae 4 1.5 GHz / Athlon\u00ae XP<br></li><li><strong>Memory:</strong> 100 MB RAM<br></li><li><strong>Graphics:</strong> GeForce 210 590Mhz<br></li><li><strong>DirectX:</strong> Version 5.2<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
@@ -26,9 +26,12 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
+    272736,
     218803
   ],
   "package_groups": [
@@ -41,6 +44,16 @@
       "display_type": 0,
       "is_recurring_subscription": "false",
       "subs": [
+        {
+          "packageid": 272736,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Reflex - Commercial License - 0,79\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 79
+        },
         {
           "packageid": 218803,
           "percent_savings_text": "",
@@ -67,6 +80,10 @@
     {
       "id": 22,
       "description": "Steam Achievements"
+    },
+    {
+      "id": 23,
+      "description": "Steam Cloud"
     }
   ],
   "genres": [
@@ -86,44 +103,52 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_f2e802ef973245ae5072cb4bc9a5880135b9c700.600x338.jpg?t=1516477489",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_f2e802ef973245ae5072cb4bc9a5880135b9c700.1920x1080.jpg?t=1516477489"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_e4aa44a09778da870d54620a3b4b72d1d0684be6.600x338.jpg?t=1547647231",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_e4aa44a09778da870d54620a3b4b72d1d0684be6.1920x1080.jpg?t=1547647231"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_a1c15de51b55db3848d88b64e1fc161b68f7cbb8.600x338.jpg?t=1516477489",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_a1c15de51b55db3848d88b64e1fc161b68f7cbb8.1920x1080.jpg?t=1516477489"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_7266fecf441a7b7e7e94358641c32db9e7d1a66e.600x338.jpg?t=1547647231",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_7266fecf441a7b7e7e94358641c32db9e7d1a66e.1920x1080.jpg?t=1547647231"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_0bd684bcf34e6f0f03f44127e943939c70d901e6.600x338.jpg?t=1516477489",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_0bd684bcf34e6f0f03f44127e943939c70d901e6.1920x1080.jpg?t=1516477489"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_a943b094e8a4ee7ae27135240d3d8c5d94dc4446.600x338.jpg?t=1547647231",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_a943b094e8a4ee7ae27135240d3d8c5d94dc4446.1920x1080.jpg?t=1547647231"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_97ca203ee94021de46aa737303e9e1fec6c5ba3e.600x338.jpg?t=1516477489",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_97ca203ee94021de46aa737303e9e1fec6c5ba3e.1920x1080.jpg?t=1516477489"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_2640db0c0e27062d06d314f4f6f128d400a1baa8.600x338.jpg?t=1547647231",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_2640db0c0e27062d06d314f4f6f128d400a1baa8.1920x1080.jpg?t=1547647231"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_9feb9afdb2894ca8944dd6c0c3e7451c196c4383.600x338.jpg?t=1516477489",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_9feb9afdb2894ca8944dd6c0c3e7451c196c4383.1920x1080.jpg?t=1516477489"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_3a07d810098b0bc08ef43729c52c07cc570bfa53.600x338.jpg?t=1547647231",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_3a07d810098b0bc08ef43729c52c07cc570bfa53.1920x1080.jpg?t=1547647231"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_bf07e84b9c811b44c1b36cdd705b62243a146ed8.600x338.jpg?t=1547647231",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/745740/ss_bf07e84b9c811b44c1b36cdd705b62243a146ed8.1920x1080.jpg?t=1547647231"
     }
   ],
   "movies": [
     {
-      "id": 256700096,
-      "name": "Just another puzzle game",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256700096/movie.293x165.jpg?t=1510217070",
+      "id": 256740566,
+      "name": "reflex",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256740566/movie.293x165.jpg?t=1547647222",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256700096/movie480.webm?t=1510217070",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256700096/movie_max.webm?t=1510217070"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740566/movie480.webm?t=1547647222",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740566/movie_max.webm?t=1547647222"
       },
       "highlight": true
     }
   ],
+  "recommendations": {
+    "total": 111
+  },
   "achievements": {
-    "total": 581,
+    "total": 1505,
     "highlighted": [
       {
         "name": "A",
@@ -175,5 +200,9 @@
     "url": "",
     "email": "zzz4354zzz4354hhhhhh@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/745740/page_bg_generated_v6b.jpg?t=1516477489"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/745740/page_bg_generated_v6b.jpg?t=1547647231",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

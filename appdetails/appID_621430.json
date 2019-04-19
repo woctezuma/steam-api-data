@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>This tutorial will teach you how to begin understanding basic functionality and test if it makes sense without explanation. As well as how to start creatively then go practically.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>This tutorial will teach you how to begin understanding basic functionality and test if it makes sense without explanation. As well as how to start creatively then go practically.",
   "about_the_game": "This tutorial will teach you how to begin understanding basic functionality and test if it makes sense without explanation. As well as how to start creatively then go practically.",
   "short_description": "This tutorial is about how to design practically.",
   "fullgame": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     167081
@@ -118,5 +120,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/621430/page_bg_generated_v6b.jpg?t=1491939944"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/621430/page_bg_generated_v6b.jpg?t=1491939944",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

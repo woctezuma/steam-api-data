@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1599,
-    "final": 1599,
-    "discount_percent": 0
+    "initial": 1249,
+    "final": 1249,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,49\u20ac"
   },
   "packages": [
     223423
@@ -51,11 +53,11 @@
           "packageid": 223423,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: NS SD60E First Responders - 15,99\u20ac",
+          "option_text": "TANE DLC: NS SD60E First Responders - 12,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1599
+          "price_in_cents_with_discount": 1249
         }
       ]
     }
@@ -146,6 +148,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/447480/ss_1e84d632ea16a61aec880f2fc290ea2749f6095e.1920x1080.jpg?t=1479203571"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Feb, 2016"
@@ -154,5 +159,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447480/page_bg_generated_v6b.jpg?t=1479203571"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447480/page_bg_generated_v6b.jpg?t=1479203571",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

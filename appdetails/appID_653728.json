@@ -11,8 +11,8 @@
     "appid": "363890",
     "name": "RPG Maker MV"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Portuguese-Brazil, Russian, Japanese, Korean, Traditional Chinese, Arabic, Simplified Chinese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/653728/header.jpg?t=1517534722",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Japanese, Korean, Traditional Chinese, Arabic, Simplified Chinese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/653728/header.jpg?t=1526893384",
   "website": "http://www.rpgmakerweb.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processor:</strong> PC with 1.0GHz Intel\u00ae Pentium\u00ae III equivalent or higher processor<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9/OpenGL 4.1 capable GPU<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound-compatible sound card<br></li><li><strong>Additional Notes:</strong> 1024x768 or better video resolution</li></ul>"
@@ -25,9 +25,7 @@
   },
   "legal_notice": "\u00a92015 KADOKAWA CORPORATION./YOJI OJIMA",
   "developers": [
-    "KADOKAWA",
-    "Yoji Ojima",
-    "Sherman 3D"
+    "Sherman3D"
   ],
   "publishers": [
     "Degica"
@@ -36,7 +34,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     184202
@@ -96,20 +96,23 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/653728/ss_38b136898e34deb9d23e19e17ae497d0c7fc4d24.600x338.jpg?t=1517534722",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/653728/ss_38b136898e34deb9d23e19e17ae497d0c7fc4d24.1920x1080.jpg?t=1517534722"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/653728/ss_38b136898e34deb9d23e19e17ae497d0c7fc4d24.600x338.jpg?t=1526893384",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/653728/ss_38b136898e34deb9d23e19e17ae497d0c7fc4d24.1920x1080.jpg?t=1526893384"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/653728/ss_5eb626cc02a399d7be2b548ecba54274ebf5d65b.600x338.jpg?t=1517534722",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/653728/ss_5eb626cc02a399d7be2b548ecba54274ebf5d65b.1920x1080.jpg?t=1517534722"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/653728/ss_5eb626cc02a399d7be2b548ecba54274ebf5d65b.600x338.jpg?t=1526893384",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/653728/ss_5eb626cc02a399d7be2b548ecba54274ebf5d65b.1920x1080.jpg?t=1526893384"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/653728/ss_6d34e76b8167f208709d80b5b97543ba47cd0756.600x338.jpg?t=1517534722",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/653728/ss_6d34e76b8167f208709d80b5b97543ba47cd0756.1920x1080.jpg?t=1517534722"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/653728/ss_6d34e76b8167f208709d80b5b97543ba47cd0756.600x338.jpg?t=1526893384",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/653728/ss_6d34e76b8167f208709d80b5b97543ba47cd0756.1920x1080.jpg?t=1526893384"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Jun, 2017"
@@ -118,5 +121,9 @@
     "url": "http://www.rpgmakerweb.com/support",
     "email": "support@rpgmakerweb.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/653728/page_bg_generated_v6b.jpg?t=1517534722"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/653728/page_bg_generated_v6b.jpg?t=1526893384",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

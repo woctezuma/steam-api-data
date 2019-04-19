@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 449,
+    "final": 449,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,49\u20ac"
   },
   "packages": [
     1494
@@ -45,11 +47,11 @@
           "packageid": 1494,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Obulis - 4,99\u20ac",
+          "option_text": "Obulis - 4,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 449
         }
       ]
     }
@@ -172,7 +174,7 @@
     }
   ],
   "recommendations": {
-    "total": 686
+    "total": 481
   },
   "achievements": {
     "total": 17,
@@ -227,5 +229,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/11330/page_bg_generated_v6b.jpg?t=1511314799"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/11330/page_bg_generated_v6b.jpg?t=1511314799",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

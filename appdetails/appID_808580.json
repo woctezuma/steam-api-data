@@ -3,13 +3,13 @@
   "name": "The Lone Chameleon",
   "steam_appid": 808580,
   "required_age": 0,
-  "is_free": false,
+  "is_free": true,
   "detailed_description": "<strong>The Lone Chameleon</strong> is a 2D puzzle-game. <br>You control 4 characters with unique abilities and make them work together to solve challenging puzzles.<br>Jump, avoid paralyzing rays and use moving pillars wisely to escape these rooms where every steps count.<br>New mechanics are introduced regulary throughout the 60 levels of the game. <br>Small scenes here and there will depict a discrete yet touching narrative.",
   "about_the_game": "<strong>The Lone Chameleon</strong> is a 2D puzzle-game. <br>You control 4 characters with unique abilities and make them work together to solve challenging puzzles.<br>Jump, avoid paralyzing rays and use moving pillars wisely to escape these rooms where every steps count.<br>New mechanics are introduced regulary throughout the 60 levels of the game. <br>Small scenes here and there will depict a discrete yet touching narrative.",
   "short_description": "A 2D puzzle-game about cooperation and empathy.",
   "supported_languages": "English, French",
-  "reviews": "\u201cIn a market that\u2019s oversaturated with puzzle games, it can be difficult to find the hidden gems. Instead of digging through disappointment, checkout The Lone Chameleon.\u201d<br>8/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=https://virtualhaven.org/\" target=\"_blank\" rel=\"noopener\"  >Virtual Haven</a></a><br>",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/808580/header.jpg?t=1519849939",
+  "reviews": "\u201cIn a market that\u2019s oversaturated with puzzle games, it can be difficult to find the hidden gems. Instead of digging through disappointment, checkout The Lone Chameleon.\u201d<br>8/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=https://virtualhaven.org/\" target=\"_blank\" rel=\"noopener\"  >Virtual Haven</a><br>",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/808580/header.jpg?t=1551926767",
   "website": "https://twitter.com/LoneChameleon",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8, or 10<br></li><li><strong>Processor:</strong> 1.2GHz processor<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
@@ -22,38 +22,7 @@
   "publishers": [
     "Spidove"
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
-  },
-  "packages": [
-    246639
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy The Lone Chameleon",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 246639,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "The Lone Chameleon - 3,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 399
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -67,6 +36,10 @@
   ],
   "genres": [
     {
+      "id": "37",
+      "description": "Free to Play"
+    },
+    {
       "id": "23",
       "description": "Indie"
     }
@@ -74,33 +47,33 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_4cbdfbb4c9cc05a5a5196eba3795a3b25abc1628.600x338.jpg?t=1519849939",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_4cbdfbb4c9cc05a5a5196eba3795a3b25abc1628.1920x1080.jpg?t=1519849939"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_4cbdfbb4c9cc05a5a5196eba3795a3b25abc1628.600x338.jpg?t=1551926767",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_4cbdfbb4c9cc05a5a5196eba3795a3b25abc1628.1920x1080.jpg?t=1551926767"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_694055235b1b83a9a7ee6e5038cf2ba468aa9ead.600x338.jpg?t=1519849939",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_694055235b1b83a9a7ee6e5038cf2ba468aa9ead.1920x1080.jpg?t=1519849939"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_694055235b1b83a9a7ee6e5038cf2ba468aa9ead.600x338.jpg?t=1551926767",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_694055235b1b83a9a7ee6e5038cf2ba468aa9ead.1920x1080.jpg?t=1551926767"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_6fd6e048c83055ef1f0b8ea02cf50a082c11769b.600x338.jpg?t=1519849939",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_6fd6e048c83055ef1f0b8ea02cf50a082c11769b.1920x1080.jpg?t=1519849939"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_6fd6e048c83055ef1f0b8ea02cf50a082c11769b.600x338.jpg?t=1551926767",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_6fd6e048c83055ef1f0b8ea02cf50a082c11769b.1920x1080.jpg?t=1551926767"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_5249178bbbe4398a50ab4ca8da63f9503496901c.600x338.jpg?t=1519849939",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_5249178bbbe4398a50ab4ca8da63f9503496901c.1920x1080.jpg?t=1519849939"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_5249178bbbe4398a50ab4ca8da63f9503496901c.600x338.jpg?t=1551926767",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_5249178bbbe4398a50ab4ca8da63f9503496901c.1920x1080.jpg?t=1551926767"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_9d788e2dba58770d43a079798a11c25d3c02c1d6.600x338.jpg?t=1519849939",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_9d788e2dba58770d43a079798a11c25d3c02c1d6.1920x1080.jpg?t=1519849939"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_9d788e2dba58770d43a079798a11c25d3c02c1d6.600x338.jpg?t=1551926767",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_9d788e2dba58770d43a079798a11c25d3c02c1d6.1920x1080.jpg?t=1551926767"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_46fea01b84cb449f910ea41d292b2fe25fc10b8a.600x338.jpg?t=1519849939",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_46fea01b84cb449f910ea41d292b2fe25fc10b8a.1920x1080.jpg?t=1519849939"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_46fea01b84cb449f910ea41d292b2fe25fc10b8a.600x338.jpg?t=1551926767",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/808580/ss_46fea01b84cb449f910ea41d292b2fe25fc10b8a.1920x1080.jpg?t=1551926767"
     }
   ],
   "movies": [
@@ -115,6 +88,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Feb, 2018"
@@ -123,5 +99,9 @@
     "url": "",
     "email": "thelonechameleon@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/808580/page_bg_generated_v6b.jpg?t=1519849939"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/808580/page_bg_generated_v6b.jpg?t=1551926767",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

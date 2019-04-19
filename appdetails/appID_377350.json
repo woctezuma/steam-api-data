@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 21999,
-    "final": 21999,
-    "discount_percent": 0
+    "initial": 1679,
+    "final": 1679,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "16,79\u20ac"
   },
   "packages": [
     70045
@@ -45,11 +47,11 @@
           "packageid": 70045,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "ChessBase 13 Pro - 219,99\u20ac",
+          "option_text": "ChessBase 13 Pro - 16,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 21999
+          "price_in_cents_with_discount": 1679
         }
       ]
     }
@@ -124,6 +126,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Aug, 2016"
@@ -132,5 +137,9 @@
     "url": "www.support.encore.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/377350/page_bg_generated_v6b.jpg?t=1471449964"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/377350/page_bg_generated_v6b.jpg?t=1471449964",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

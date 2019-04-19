@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     183256
@@ -159,6 +161,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Aug, 2017"
@@ -167,5 +172,9 @@
     "url": "",
     "email": "derrickw@dwivideogames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548790/page_bg_generated_v6b.jpg?t=1501717374"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548790/page_bg_generated_v6b.jpg?t=1501717374",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

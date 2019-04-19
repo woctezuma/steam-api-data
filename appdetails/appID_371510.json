@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 99,
-    "discount_percent": 90
+    "initial": 889,
+    "final": 889,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,89\u20ac"
   },
   "packages": [
     68094
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 68094,
-          "percent_savings_text": "-90%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Gunnheim - <span class=\"discount_original_price\">9,99\u20ac</span> 0,99\u20ac",
+          "option_text": "Gunnheim - 8,89\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 889
         }
       ]
     }
@@ -171,7 +173,7 @@
     }
   ],
   "recommendations": {
-    "total": 270
+    "total": 105
   },
   "achievements": {
     "total": 11,
@@ -226,5 +228,9 @@
     "url": "www.sieidi.com/contact",
     "email": "contact@sieidi.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/371510/page_bg_generated_v6b.jpg?t=1513276365"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/371510/page_bg_generated_v6b.jpg?t=1513276365",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

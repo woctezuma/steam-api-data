@@ -35,8 +35,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 599,
-    "final": 479,
-    "discount_percent": 20
+    "final": 599,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     154387
@@ -53,13 +55,13 @@
       "subs": [
         {
           "packageid": 154387,
-          "percent_savings_text": "-20%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "SUPER ARMY OF TENTACLES 3, XPACK III: Isle of the Cat Girls - <span class=\"discount_original_price\">5,99\u20ac</span> 4,79\u20ac",
+          "option_text": "SUPER ARMY OF TENTACLES 3, XPACK III: Isle of the Cat Girls - 5,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 479
+          "price_in_cents_with_discount": 599
         }
       ]
     }
@@ -136,5 +138,9 @@
     "url": "stegalosaurus.org",
     "email": "bryymiller@stegalosaurus.org"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/592816/page_bg_generated_v6b.jpg?t=1517629190"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/592816/page_bg_generated_v6b.jpg?t=1517629190",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

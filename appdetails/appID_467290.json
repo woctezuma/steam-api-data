@@ -34,10 +34,12 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
-    "102891"
+    102891
   ],
   "package_groups": [
     {
@@ -50,7 +52,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "102891",
+          "packageid": 102891,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Starship Titanic - 5,99\u20ac",
@@ -126,6 +128,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Oct, 2016"
@@ -134,5 +139,9 @@
     "url": "",
     "email": "daniel@nightdivestudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467290/page_bg_generated_v6b.jpg?t=1516146254"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467290/page_bg_generated_v6b.jpg?t=1516146254",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

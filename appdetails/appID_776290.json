@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     233186
@@ -123,6 +125,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Jan, 2018"
@@ -131,5 +136,9 @@
     "url": "http://www.refugio3d.com",
     "email": "info@refugio3d.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/776290/page_bg_generated_v6b.jpg?t=1515779997"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/776290/page_bg_generated_v6b.jpg?t=1515779997",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The Bowhead Support Ship is a heavy freighter with thrusters in all six directions. If you are a new player, do NOT buy this ship until you've played the game long enough to be absolutely sure you want it. This ship is not required for play and it is difficult to fly (it's a big, heavy, slow ship).<br />\r\n<br />\r\nSupport ships are sold to support more development, artwork, and hopefully some UI work on the game.",
   "about_the_game": "The Bowhead Support Ship is a heavy freighter with thrusters in all six directions. If you are a new player, do NOT buy this ship until you've played the game long enough to be absolutely sure you want it. This ship is not required for play and it is difficult to fly (it's a big, heavy, slow ship).<br />\r\n<br />\r\nSupport ships are sold to support more development, artwork, and hopefully some UI work on the game.",
-  "short_description": "The Bowhead Support Ship is a heavy freighter with thrusters in all six directions. If you are a new player, do NOT buy this ship until you've played the game long enough to be absolutely sure you want it. This ship is not required for play and it is difficult to fly (it's a big, heavy, slow ship).<br />\r\n<br />\r\nSupport ships are sold to support more development, artwork, and hopefully some UI work on the game.",
+  "short_description": "The Bowhead Support Ship is a heavy freighter with thrusters in all six directions. If you are a new player, do NOT buy this ship until you've played the game long enough to be absolutely sure you want it. This ship is not required for play and it is difficult to fly (it's a big, heavy, slow ship).",
   "fullgame": {
     "appid": "345010",
     "name": "Ascent - The Space Game"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 8299,
     "final": 8299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "82,99\u20ac"
   },
   "packages": [
     74868
@@ -110,5 +112,9 @@
     "url": "http://forum.thespacegame.com",
     "email": "support@fluffykittenstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/391830/page_bg_generated_v6b.jpg?t=1447377379"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/391830/page_bg_generated_v6b.jpg?t=1447377379",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

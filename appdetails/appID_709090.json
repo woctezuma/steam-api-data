@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Defendoooooor!! Main Title<br />\r\n<br />\r\nThis DLC includes the game main soundtrack named Defendors PATH!",
   "about_the_game": "Defendoooooor!! Main Title<br />\r\n<br />\r\nThis DLC includes the game main soundtrack named Defendors PATH!",
-  "short_description": "Defendoooooor!! Main Title",
+  "short_description": "Defendoooooor!! Main...",
   "fullgame": {
     "appid": "683230",
     "name": "Defendoooooor!!"
@@ -29,10 +29,13 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    204925
+    204925,
+    307428
   ],
   "package_groups": [
     {
@@ -49,6 +52,16 @@
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Defendoooooor!! - Main title - 0,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 99
+        },
+        {
+          "packageid": 307428,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Defendoooooor!! - Main title - Commercial License - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -120,5 +133,9 @@
     "url": "",
     "email": "Whitedogapp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/709090/page_bg_generated_v6b.jpg?t=1504784901"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/709090/page_bg_generated_v6b.jpg?t=1504784901",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

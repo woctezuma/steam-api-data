@@ -12,7 +12,7 @@
     "appid": "466940",
     "name": "The Sandbox Evolution - Craft a 2D Pixel Universe!"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Portuguese, Portuguese-Brazil",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese, Portuguese - Brazil",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/555770/header.jpg?t=1481108898",
   "website": "http://www.thesandbox2.com",
   "pc_requirements": {
@@ -21,7 +21,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "Please consult our Privacy Policy at <a href=\"https://steamcommunity.com/linkfilter/?url=https://thesandbox.helpshift.com/a/the-sandbox-2/?s=legal-terms&f=privacy-policy&l=en\" target=\"_blank\" rel=\"noopener\"  >https://thesandbox.helpshift.com/a/the-sandbox-2/?s=legal-terms&f=privacy-policy&l=en</a></a>",
+  "legal_notice": "Please consult our Privacy Policy at <a href=\"https://steamcommunity.com/linkfilter/?url=https://thesandbox.helpshift.com/a/the-sandbox-2/?s=legal-terms&f=privacy-policy&l=en\" target=\"_blank\" rel=\"noopener\"  >https://thesandbox.helpshift.com/a/the-sandbox-2/?s=legal-terms&f=privacy-policy&l=en</a>",
   "developers": [
     "PIXOWL INC."
   ],
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     138795
@@ -225,16 +227,6 @@
       "id": 23,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/555770/ss_d9652869182685fd0608171b02eead2a9272109d.600x338.jpg?t=1481108898",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/555770/ss_d9652869182685fd0608171b02eead2a9272109d.1920x1080.jpg?t=1481108898"
-    },
-    {
-      "id": 24,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/555770/?t=1481108898",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/555770/?t=1481108898"
-    },
-    {
-      "id": 25,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/555770/?t=1481108898",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/555770/?t=1481108898"
     }
   ],
   "movies": [
@@ -257,5 +249,9 @@
     "url": "https://thesandbox.helpshift.com/a/the-sandbox-2/",
     "email": "thesandbox2@pixowl.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/555770/page_bg_generated_v6b.jpg?t=1481108898"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/555770/page_bg_generated_v6b.jpg?t=1481108898",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

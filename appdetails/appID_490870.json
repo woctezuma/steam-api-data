@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 98,
+    "discount_percent": 70,
+    "initial_formatted": "3,29\u20ac",
+    "final_formatted": "0,98\u20ac"
   },
   "packages": [
     111133
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 111133,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "WEIRD HERO - 2,99\u20ac",
+          "option_text": "WEIRD HERO - <span class=\"discount_original_price\">3,29\u20ac</span> 0,98\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 98
         }
       ]
     }
@@ -178,5 +180,9 @@
     "url": "https://vk.com/snail_ninja",
     "email": "snail-ninja@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/490870/page_bg_generated_v6b.jpg?t=1492334014"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/490870/page_bg_generated_v6b.jpg?t=1492334014",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

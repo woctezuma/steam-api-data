@@ -28,8 +28,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1999,
-    "final": 1999,
-    "discount_percent": 0
+    "final": 499,
+    "discount_percent": 75,
+    "initial_formatted": "19,99\u20ac",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     49594
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 49594,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "Ancient Space - 19,99\u20ac",
+          "option_text": "Ancient Space - <span class=\"discount_original_price\">19,99\u20ac</span> 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1999
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -166,7 +168,7 @@
     }
   ],
   "recommendations": {
-    "total": 291
+    "total": 217
   },
   "achievements": {
     "total": 30,
@@ -221,5 +223,9 @@
     "url": "https://paradox.zendesk.com/home",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/249190/page_bg_generated_v6b.jpg?t=1447358499"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/249190/page_bg_generated_v6b.jpg?t=1447358499",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

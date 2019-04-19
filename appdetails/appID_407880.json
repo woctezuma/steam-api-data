@@ -42,7 +42,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     80568
@@ -274,5 +276,9 @@
     "url": "",
     "email": "urs.cgg@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407880/page_bg_generated_v6b.jpg?t=1509040207"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407880/page_bg_generated_v6b.jpg?t=1509040207",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

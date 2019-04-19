@@ -11,7 +11,7 @@
     "appid": "334030",
     "name": "Epic Arena"
   },
-  "supported_languages": "English, German, Russian, Ukrainian, French, Spanish, Arabic, Japanese, Korean, Portuguese, Simplified Chinese, Traditional Chinese, Turkish",
+  "supported_languages": "English, German, Russian, Ukrainian, French, Spanish - Spain, Arabic, Japanese, Korean, Portuguese, Simplified Chinese, Traditional Chinese, Turkish",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/361541/header.jpg?t=1447372187",
   "website": "http://www.epicarenagame.com/",
   "pc_requirements": {
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     64757,
@@ -158,5 +160,9 @@
     "url": "http://www.epicarenagame.com/support/contacts/",
     "email": "support@epicarenagame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/361541/page_bg_generated_v6b.jpg?t=1447372187"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/361541/page_bg_generated_v6b.jpg?t=1447372187",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

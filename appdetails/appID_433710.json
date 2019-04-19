@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     90355
@@ -127,6 +129,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Jan, 2016"
@@ -135,5 +140,9 @@
     "url": "http://www.mixedbag.it",
     "email": "info@mixedbag.it"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/433710/page_bg_generated_v6b.jpg?t=1461745405"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/433710/page_bg_generated_v6b.jpg?t=1461745405",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

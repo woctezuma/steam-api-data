@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     136777
@@ -202,5 +204,9 @@
     "url": "http://infiniverse.fr/en/",
     "email": "studio@infiniverse.fr"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/551320/page_bg_generated_v6b.jpg?t=1508513476"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/551320/page_bg_generated_v6b.jpg?t=1508513476",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

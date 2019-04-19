@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>Hearts of Iron III: Their Finest Hour  puts you back in the commander\u2019s seat during World War II. Win the war with new units, strategies and enhanced game modes.</p>\n <p>Destroy your enemies from within with an expanded espionage system that includes new missions and covert operations. A new battle plan mode allows you to load historical plans or draw your own; all of which can be shared with allies in real-time during multiplayer.</p>\n<p>Along with the enhanced gameplay there are two new battle scenarios and a new custom game mode that lets you jump straight into the action.</p>\n<h2>Key Features:</h2>\n<ul>\n<li>New unique, elite units for each major nation's army - Ghurkhas, Rangers, Imperial guards and more\n<li>A deeper naval invasion system with the ability to develop specialized landing and assault crafts\n<li>Increased control over strategic warfare with a new lend-lease system for lending your industrial might to allies\n<li>Leaders are now able to gain traits and allocating them is more important than ever with a new combat tactics system\n<li>New game mode for single and multiplayer. Start with a clean slate and instantly produce units, research technologies and affect political alignment. Speed up the early years and jump straight into the action\n<li>Two new detailed battle scenarios, the Finnish Winter War and the Spanish Civil War\n</ul>",
   "about_the_game": "<p>Hearts of Iron III: Their Finest Hour  puts you back in the commander\u2019s seat during World War II. Win the war with new units, strategies and enhanced game modes.</p>\n <p>Destroy your enemies from within with an expanded espionage system that includes new missions and covert operations. A new battle plan mode allows you to load historical plans or draw your own; all of which can be shared with allies in real-time during multiplayer.</p>\n<p>Along with the enhanced gameplay there are two new battle scenarios and a new custom game mode that lets you jump straight into the action.</p>\n<h2>Key Features:</h2>\n<ul>\n<li>New unique, elite units for each major nation's army - Ghurkhas, Rangers, Imperial guards and more\n<li>A deeper naval invasion system with the ability to develop specialized landing and assault crafts\n<li>Increased control over strategic warfare with a new lend-lease system for lending your industrial might to allies\n<li>Leaders are now able to gain traits and allocating them is more important than ever with a new combat tactics system\n<li>New game mode for single and multiplayer. Start with a clean slate and instantly produce units, research technologies and affect political alignment. Speed up the early years and jump straight into the action\n<li>Two new detailed battle scenarios, the Finnish Winter War and the Spanish Civil War\n</ul>",
-  "short_description": "",
+  "short_description": "Hearts of Iron III: Their Finest Hour puts you back in the commander\u2019s seat during World War II. Win the war with new units, strategies and enhanced game modes. Destroy your enemies from within with an expanded espionage system that includes new missions and covert operations.",
   "fullgame": {
     "appid": "42903",
     "name": "Hearts of Iron III: For the Motherland"
@@ -30,12 +30,12 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
-    16890,
-    29531,
-    37223
+    16890
   ],
   "package_groups": [
     {
@@ -56,26 +56,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 999
-        },
-        {
-          "packageid": 29531,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron 3 DLC Collection - 29,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2999
-        },
-        {
-          "packageid": 37223,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron Collection III (Jan 2014) - 41,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4199
         }
       ]
     }
@@ -170,6 +150,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Sep, 2012"
@@ -178,5 +161,9 @@
     "url": "http://www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214986/page_bg_generated_v6b.jpg?t=1447356083"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214986/page_bg_generated_v6b.jpg?t=1447356083",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>From Bedrooms to Billions: The Amiga Years! is a feature film documentary that explores the influence of the Commodore Amiga and how it influenced a generation of developers to take video game development, music and publishing to a whole new level which then changed the video game industry forever! \r\n\r\nThis film, which is the sequel to the acclaimed 'From Bedrooms to Billions' (2014) looks at the creation of the now legendary Commodore Amiga a remarkable and very personal tale told by the surviving team members themselves. The film then goes onto explore how once released in 1985 the Commodore Amiga helped evolve the video games industry as a whole new set of  games and experiences were possible thanks to its incredible custom hardware. Many of these styles of games, music and demos as well as development techniques honed during the Amiga era are still present in the video games industry we know today.\r\n \r\nInterviews include the creators of Populous, The Secret of Monkey Island, Sensible World of Soccer, Defender of the Crown, Syndicate, Alien Breed, Wings, Shadow of the Beast, Turrican II, The First Samurai, Another World, Flashback and many many others this film will be of great interest to anyone who enjoys either games or the history of the quite remarkable video games industry.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>From Bedrooms to Billions: The Amiga Years! is a feature film documentary that explores the influence of the Commodore Amiga and how it influenced a generation of developers to take video game development, music and publishing to a whole new level which then changed the video game industry forever! \r\n\r\nThis film, which is the sequel to the acclaimed 'From Bedrooms to Billions' (2014) looks at the creation of the now legendary Commodore Amiga a remarkable and very personal tale told by the surviving team members themselves. The film then goes onto explore how once released in 1985 the Commodore Amiga helped evolve the video games industry as a whole new set of  games and experiences were possible thanks to its incredible custom hardware. Many of these styles of games, music and demos as well as development techniques honed during the Amiga era are still present in the video games industry we know today.\r\n \r\nInterviews include the creators of Populous, The Secret of Monkey Island, Sensible World of Soccer, Defender of the Crown, Syndicate, Alien Breed, Wings, Shadow of the Beast, Turrican II, The First Samurai, Another World, Flashback and many many others this film will be of great interest to anyone who enjoys either games or the history of the quite remarkable video games industry.",
   "about_the_game": "From Bedrooms to Billions: The Amiga Years! is a feature film documentary that explores the influence of the Commodore Amiga and how it influenced a generation of developers to take video game development, music and publishing to a whole new level which then changed the video game industry forever! <br />\r\n<br />\r\nThis film, which is the sequel to the acclaimed 'From Bedrooms to Billions' (2014) looks at the creation of the now legendary Commodore Amiga a remarkable and very personal tale told by the surviving team members themselves. The film then goes onto explore how once released in 1985 the Commodore Amiga helped evolve the video games industry as a whole new set of  games and experiences were possible thanks to its incredible custom hardware. Many of these styles of games, music and demos as well as development techniques honed during the Amiga era are still present in the video games industry we know today.<br />\r\n <br />\r\nInterviews include the creators of Populous, The Secret of Monkey Island, Sensible World of Soccer, Defender of the Crown, Syndicate, Alien Breed, Wings, Shadow of the Beast, Turrican II, The First Samurai, Another World, Flashback and many many others this film will be of great interest to anyone who enjoys either games or the history of the quite remarkable video games industry.",
   "short_description": "From Bedrooms to Billions: The Amiga Years! is a feature film documentary that explores the influence of the Commodore Amiga and how it influenced a generation of developers to take video game development, music and publishing to a whole new level which then changed the video game industry forever!",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     136762
@@ -145,6 +147,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Nov, 2016"
@@ -153,5 +158,9 @@
     "url": "http://www.frombedroomstobillions.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/551260/page_bg_generated_v6b.jpg?t=1478275255"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/551260/page_bg_generated_v6b.jpg?t=1478275255",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

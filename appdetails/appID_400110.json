@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 2299,
     "final": 2299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "22,99\u20ac"
   },
   "packages": [
     77567
@@ -71,7 +73,7 @@
   },
   "metacritic": {
     "score": 79,
-    "url": "http://www.metacritic.com/game/pc/else-heartbreak()?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/else-heartbreak()?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -178,7 +180,10 @@
     }
   ],
   "recommendations": {
-    "total": 450
+    "total": 187
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -188,5 +193,9 @@
     "url": "http://elseheartbreak.com/support.html",
     "email": "support@elseheartbreak.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/400110/page_bg_generated_v6b.jpg?t=1447377823"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/400110/page_bg_generated_v6b.jpg?t=1447377823",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

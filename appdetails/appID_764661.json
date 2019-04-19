@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     226068
@@ -109,5 +111,9 @@
     "url": "",
     "email": "thunder4dev@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/764661/page_bg_generated_v6b.jpg?t=1512720949"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/764661/page_bg_generated_v6b.jpg?t=1512720949",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "<i>State of Decay: Lifeline</i> puts you into the boots of Greyhound One, a military unit sent into a zombie-infested city to rescue the team of scientists who can put an end to the outbreak.<br><br><i>Lifeline</i> features a new map, new characters, and a new way to play: Defend your base against hordes of zombies, using the best military equipment and personnel your unit can scrape together.<br><br>The fate of the city is in your hands. How many people can you save?<br><br>*<i>Breakdown</i> (259040) and <i>Lifeline</i> (259041) DLCs purchased separately will not work with <i>State of Decay: YOSE Day One Edition</i> (61628).  <i>Breakdown</i> and <i>Lifeline</i> will continue to work with the original DX9 <i>State of Decay</i> release (241540).",
   "about_the_game": "<i>State of Decay: Lifeline</i> puts you into the boots of Greyhound One, a military unit sent into a zombie-infested city to rescue the team of scientists who can put an end to the outbreak.<br><br><i>Lifeline</i> features a new map, new characters, and a new way to play: Defend your base against hordes of zombies, using the best military equipment and personnel your unit can scrape together.<br><br>The fate of the city is in your hands. How many people can you save?<br><br>*<i>Breakdown</i> (259040) and <i>Lifeline</i> (259041) DLCs purchased separately will not work with <i>State of Decay: YOSE Day One Edition</i> (61628).  <i>Breakdown</i> and <i>Lifeline</i> will continue to work with the original DX9 <i>State of Decay</i> release (241540).",
-  "short_description": "<i>Lifeline</i> features a new map, new characters, and a new way to play: Defend your base against hordes of zombies, using the best military equipment and personnel your unit can scrape together.",
+  "short_description": "Lifeline features a new map, new characters, and a new way to play: Defend your base against hordes of zombies, using the best military equipment and personnel your unit can scrape together.",
   "fullgame": {
     "appid": "241540",
     "name": "State of Decay"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/259041/header.jpg?t=1447359129",
   "website": "http://www.undeadlabs.com",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     32922
@@ -141,7 +143,10 @@
     }
   ],
   "recommendations": {
-    "total": 179
+    "total": 177
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -151,5 +156,9 @@
     "url": "http://forums.undeadlabs.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/259041/page_bg_generated_v6b.jpg?t=1447359129"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/259041/page_bg_generated_v6b.jpg?t=1447359129",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     63415
@@ -162,7 +164,7 @@
     }
   ],
   "recommendations": {
-    "total": 240
+    "total": 128
   },
   "achievements": {
     "total": 0
@@ -175,5 +177,9 @@
     "url": "http://www.seabassandgazellestudios.com/contact-us.html",
     "email": "sbandgstudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/357650/page_bg_generated_v6b.jpg?t=1510129699"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/357650/page_bg_generated_v6b.jpg?t=1510129699",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

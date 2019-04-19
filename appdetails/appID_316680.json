@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Black Ice - Level One, by V-Axys features more than 30 minutes of music created exclusively for the game. This includes both MP3 (320kbps) and FLAC (lossless!) versions of all files.<br />\r\n<br />\r\nFiles will be placed in your Black Ice folder in the Steam Directory: ...Steam\\steamapps\\common\\Black Ice\\Soundtrack - Level One",
   "about_the_game": "Black Ice - Level One, by V-Axys features more than 30 minutes of music created exclusively for the game. This includes both MP3 (320kbps) and FLAC (lossless!) versions of all files.<br />\r\n<br />\r\nFiles will be placed in your Black Ice folder in the Steam Directory: ...Steam\\steamapps\\common\\Black Ice\\Soundtrack - Level One",
-  "short_description": "Black Ice - Level One, by V-Axys features more than 30 minutes of music created exclusively for the game. This includes both MP3 (320kbps) and FLAC (lossless!) versions of all files.<br />\r\n<br />\r\nFiles will be placed in your Black Ice folder in the Steam Directory: ...Steam\\steamapps\\common\\Black Ice\\Soundtrack - Level One",
+  "short_description": "Black Ice - Level One, by V-Axys features more than 30 minutes of music created exclusively for the game. This includes both MP3 (320kbps) and FLAC (lossless!) versions of all files. Files will be placed in your Black Ice folder in the Steam Directory: ...",
   "fullgame": {
     "appid": "311800",
     "name": "Black Ice"
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     48503
@@ -122,5 +124,9 @@
     "url": "http://www.superdupergc.com",
     "email": "support@blackicegame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/316680/page_bg_generated_v6b.jpg?t=1447362944"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/316680/page_bg_generated_v6b.jpg?t=1447362944",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

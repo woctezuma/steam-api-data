@@ -12,7 +12,7 @@
     "name": "Warface"
   },
   "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/311163/header.jpg?t=1485917725",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/311163/header.jpg?t=1548788100",
   "website": "https://wf.my.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, Windows 7, Windows 8<br></li><li><strong>Processor:</strong> Intel Dual-Core 2 GHz or AMD Dual-Core 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8600 or AMD ATI Radeon 3650<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>",
@@ -20,9 +20,9 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "\u00a9 2017 Crytek GmbH ('Crytek'). Published by My.com B.V. All rights reserved. All trademarks are the property of their respective owners.",
+  "legal_notice": "\u00a9 2017-2018 Mail.Ru LLC. Published by My.com B.V. All rights reserved. All trademarks are the property of their respective owners.",
   "developers": [
-    "Crytek"
+    "My.com"
   ],
   "publishers": [
     "My.com"
@@ -39,8 +39,16 @@
       "description": "Multi-player"
     },
     {
+      "id": 36,
+      "description": "Online Multi-Player"
+    },
+    {
       "id": 9,
       "description": "Co-op"
+    },
+    {
+      "id": 38,
+      "description": "Online Co-op"
     },
     {
       "id": 21,
@@ -53,6 +61,10 @@
     {
       "id": 29,
       "description": "Steam Trading Cards"
+    },
+    {
+      "id": 35,
+      "description": "In-App Purchases"
     }
   ],
   "genres": [
@@ -63,30 +75,37 @@
     {
       "id": "37",
       "description": "Free to Play"
+    },
+    {
+      "id": "29",
+      "description": "Massively Multiplayer"
     }
   ],
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_26ef2632b0914230f27b46f01f9dfcacbcd51a18.600x338.jpg?t=1485917725",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_26ef2632b0914230f27b46f01f9dfcacbcd51a18.1920x1080.jpg?t=1485917725"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_26ef2632b0914230f27b46f01f9dfcacbcd51a18.600x338.jpg?t=1548788100",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_26ef2632b0914230f27b46f01f9dfcacbcd51a18.1920x1080.jpg?t=1548788100"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_6f202c9ebd3223721a4cbff078761b18a642c2ed.600x338.jpg?t=1485917725",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_6f202c9ebd3223721a4cbff078761b18a642c2ed.1920x1080.jpg?t=1485917725"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_6f202c9ebd3223721a4cbff078761b18a642c2ed.600x338.jpg?t=1548788100",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_6f202c9ebd3223721a4cbff078761b18a642c2ed.1920x1080.jpg?t=1548788100"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_f390030ef1f6f4144494681a4b545b0d8a084eff.600x338.jpg?t=1485917725",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_f390030ef1f6f4144494681a4b545b0d8a084eff.1920x1080.jpg?t=1485917725"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_f390030ef1f6f4144494681a4b545b0d8a084eff.600x338.jpg?t=1548788100",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_f390030ef1f6f4144494681a4b545b0d8a084eff.1920x1080.jpg?t=1548788100"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_c5b2557d498f7ccc2f01d44770dbc16aec5c4069.600x338.jpg?t=1485917725",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_c5b2557d498f7ccc2f01d44770dbc16aec5c4069.1920x1080.jpg?t=1485917725"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_c5b2557d498f7ccc2f01d44770dbc16aec5c4069.600x338.jpg?t=1548788100",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/311163/ss_c5b2557d498f7ccc2f01d44770dbc16aec5c4069.1920x1080.jpg?t=1548788100"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Dec, 2014"
@@ -95,5 +114,9 @@
     "url": "http://support.my.com/games/kb/WF/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/311163/page_bg_generated_v6b.jpg?t=1485917725"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/311163/page_bg_generated_v6b.jpg?t=1548788100",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

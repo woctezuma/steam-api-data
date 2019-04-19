@@ -11,7 +11,7 @@
     "appid": "388800",
     "name": "Azure Striker Gunvolt"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Japanese, Portuguese, Russian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/396990/header.jpg?t=1447377672",
   "website": "http://www.gunvolt.com/en/",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     76541
@@ -106,6 +108,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/396990/ss_3545a513ffbe93d4bcb051d411c14814c64123a1.1920x1080.jpg?t=1447377672"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Aug, 2015"
@@ -114,5 +119,9 @@
     "url": "http://inticreates.com/",
     "email": "support@inticreates.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396990/page_bg_generated_v6b.jpg?t=1447377672"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396990/page_bg_generated_v6b.jpg?t=1447377672",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>Carefully guide your nation from the era of absolute monarchies in the early 19th century, through expansion and colonization, to finally become a truly great power by the dawn of the 20th century. Enhance your Victoria II and A House Divided experience with the American Civil War Spritepack. You will received 12 historical sprites which include:</p>\n<ul>\n<li>Infantry USA & CSA\n<li>Special Forces USA & CSA\u00a0\n<li>Cavalry USA & CSA\n<li>Artillery USA & CSA\n<li>Engineer USA & CSA\n<li>Guard USA & CSA\n</ul>\n<p>This spritepack will give you 12 historically authentic modelled units for the \u201cAmerican Civil War Era\u201d with new animations, for a more realistic and more beautiful game atmosphere. Units are equipped with muskets, sabres, kepis, hardee hats and much more.</p>",
   "about_the_game": "<p>Carefully guide your nation from the era of absolute monarchies in the early 19th century, through expansion and colonization, to finally become a truly great power by the dawn of the 20th century. Enhance your Victoria II and A House Divided experience with the American Civil War Spritepack. You will received 12 historical sprites which include:</p>\n<ul>\n<li>Infantry USA & CSA\n<li>Special Forces USA & CSA\u00a0\n<li>Cavalry USA & CSA\n<li>Artillery USA & CSA\n<li>Engineer USA & CSA\n<li>Guard USA & CSA\n</ul>\n<p>This spritepack will give you 12 historically authentic modelled units for the \u201cAmerican Civil War Era\u201d with new animations, for a more realistic and more beautiful game atmosphere. Units are equipped with muskets, sabres, kepis, hardee hats and much more.</p>",
-  "short_description": "",
+  "short_description": "Carefully guide your nation from the era of absolute monarchies in the early 19th century, through expansion and colonization, to finally become a truly great power by the dawn of the 20th century. Enhance your Victoria II and A House Divided experience with the American Civil War Spritepack.",
   "fullgame": {
     "appid": "42968",
     "name": "Victoria II: A House Divided"
@@ -31,11 +31,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    15899,
-    29111
+    15899
   ],
   "package_groups": [
     {
@@ -56,16 +57,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 199
-        },
-        {
-          "packageid": 29111,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Victoria II DLC Collection - 24,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2499
         }
       ]
     }
@@ -114,6 +105,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/215000/ss_d0634d9a2d414175ac9756cb79bf021a38d4d457.1920x1080.jpg?t=1447356086"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Jul, 2012"
@@ -122,5 +116,9 @@
     "url": "www.paradoxplaza.com/support ",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/215000/page_bg_generated_v6b.jpg?t=1447356086"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/215000/page_bg_generated_v6b.jpg?t=1447356086",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

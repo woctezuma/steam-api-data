@@ -12,7 +12,7 @@
     "appid": "236870",
     "name": "HITMAN\u2122"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Polish, Russian, Portuguese-Brazil, Simplified Chinese, Japanese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Russian, Portuguese - Brazil, Simplified Chinese, Japanese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/588660/header.jpg?t=1507120570",
   "website": "http://www.hitman.com/",
   "pc_requirements": {
@@ -41,7 +41,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     152160
@@ -118,7 +120,10 @@
     }
   ],
   "recommendations": {
-    "total": 151
+    "total": 187
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -128,5 +133,12 @@
     "url": "http://steamcommunity.com/app/236870/discussions",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/588660/page_bg_generated_v6b.jpg?t=1507120570"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/588660/page_bg_generated_v6b.jpg?t=1507120570",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

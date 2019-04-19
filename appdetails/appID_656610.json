@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     185373
@@ -166,11 +168,6 @@
       "id": 10,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656610/ss_2fcfab49d2642150949a527f5ac61b715c4780fe.600x338.jpg?t=1523477173",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656610/ss_2fcfab49d2642150949a527f5ac61b715c4780fe.1920x1080.jpg?t=1523477173"
-    },
-    {
-      "id": 11,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656610/?t=1523477173",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656610/?t=1523477173"
     }
   ],
   "movies": [
@@ -206,7 +203,7 @@
     }
   ],
   "achievements": {
-    "total": 2522,
+    "total": 2516,
     "highlighted": [
       {
         "name": "Bongo \u00ae",
@@ -258,5 +255,9 @@
     "url": "http://anpa.us",
     "email": "info@anpa.us"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/656610/page_bg_generated_v6b.jpg?t=1523477173"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/656610/page_bg_generated_v6b.jpg?t=1523477173",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

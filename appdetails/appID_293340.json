@@ -28,8 +28,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 179,
-    "discount_percent": 82
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     41488
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 41488,
-          "percent_savings_text": "-82%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "The Good Life - <span class=\"discount_original_price\">9,99\u20ac</span> 1,79\u20ac",
+          "option_text": "The Good Life - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 179
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -198,7 +200,7 @@
     }
   ],
   "recommendations": {
-    "total": 116
+    "total": 112
   },
   "achievements": {
     "total": 33,
@@ -253,5 +255,9 @@
     "url": "",
     "email": "support@immersionfx.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/293340/page_bg_generated_v6b.jpg?t=1447361238"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/293340/page_bg_generated_v6b.jpg?t=1447361238",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

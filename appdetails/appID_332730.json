@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     54431
@@ -200,5 +202,9 @@
     "url": "http://www.thrillion.co.uk",
     "email": "admin@thrillion.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/332730/page_bg_generated_v6b.jpg?t=1447364933"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/332730/page_bg_generated_v6b.jpg?t=1447364933",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     7991,
@@ -66,7 +68,7 @@
   },
   "metacritic": {
     "score": 75,
-    "url": "http://www.metacritic.com/game/pc/hector-badge-of-carnage---episode-1-we-negotiate-with-terrorists?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/hector-badge-of-carnage---episode-1-we-negotiate-with-terrorists?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -131,9 +133,6 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/94620/ss_eb9e8e5678b2a762393b98bcfc8a2d94397250ef.1920x1080.jpg?t=1495053608"
     }
   ],
-  "recommendations": {
-    "total": 167
-  },
   "achievements": {
     "total": 0
   },
@@ -145,5 +144,9 @@
     "url": "",
     "email": "support@telltalegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/94620/page_bg_generated_v6b.jpg?t=1495053608"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/94620/page_bg_generated_v6b.jpg?t=1495053608",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

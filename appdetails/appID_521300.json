@@ -26,10 +26,12 @@
     "TestTubeGames"
   ],
   "price_overview": {
-    "currency": "USD",
+    "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     123660
@@ -48,7 +50,7 @@
           "packageid": 123660,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "The Electric Shocktopus - $5.99",
+          "option_text": "The Electric Shocktopus - 5,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -154,11 +156,15 @@
   },
   "release_date": {
     "coming_soon": false,
-    "date": "Nov 30, 2016"
+    "date": "30 Nov, 2016"
   },
   "support_info": {
     "url": "http://testtubegames.com/",
     "email": "andy@testtubegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/521300/page_bg_generated_v6b.jpg?t=1480533530"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/521300/page_bg_generated_v6b.jpg?t=1480533530",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

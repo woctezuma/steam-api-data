@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     217024
@@ -196,5 +198,9 @@
     "url": "https://www.facebook.com/WurstDefenderCoopEdition/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740990/page_bg_generated_v6b.jpg?t=1515360251"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740990/page_bg_generated_v6b.jpg?t=1515360251",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

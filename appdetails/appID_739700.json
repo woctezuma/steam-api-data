@@ -4,15 +4,15 @@
   "steam_appid": 739700,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "This is a printable mask pattern in PDF file format, that allows you to build a low-poly Minotaur head.<br />\r\n<br />\r\nJust print, fold, cut and glue together and there you are, your bull head is ready. Paper not included.<br />\r\n<br />\r\nAdmit it, you've always wanted to be a Minotaur. Now you can! And on top of it, scare your neighbour's kids while still being half human :)",
-  "about_the_game": "This is a printable mask pattern in PDF file format, that allows you to build a low-poly Minotaur head.<br />\r\n<br />\r\nJust print, fold, cut and glue together and there you are, your bull head is ready. Paper not included.<br />\r\n<br />\r\nAdmit it, you've always wanted to be a Minotaur. Now you can! And on top of it, scare your neighbour's kids while still being half human :)",
+  "detailed_description": "This is a printable mask pattern in PDF file format, that allows you to build a low-poly Minotaur head.<br />\r\n<br />\r\nJust print, fold, cut and glue together and there you are, your bull head is ready. Paper not included.<br />\r\n<br />\r\nAdmit it, you've always wanted to be a Minotaur. Now you can! And on top of it, scare your neighbour's kids while still being half human \ud83d\ude00",
+  "about_the_game": "This is a printable mask pattern in PDF file format, that allows you to build a low-poly Minotaur head.<br />\r\n<br />\r\nJust print, fold, cut and glue together and there you are, your bull head is ready. Paper not included.<br />\r\n<br />\r\nAdmit it, you've always wanted to be a Minotaur. Now you can! And on top of it, scare your neighbour's kids while still being half human \ud83d\ude00",
   "short_description": "Build your paper Minotaur mask by printing this pattern!",
   "fullgame": {
     "appid": "676240",
     "name": "TAURONOS"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/739700/header.jpg?t=1512028691",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/739700/header.jpg?t=1535604505",
   "website": "http://16bitnights.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> PDF recommended to be printed in A3 format.</li></ul>"
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     216544
@@ -65,8 +67,8 @@
   ],
   "platforms": {
     "windows": true,
-    "mac": false,
-    "linux": false
+    "mac": true,
+    "linux": true
   },
   "categories": [
     {
@@ -91,13 +93,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/739700/ss_21f905c6f9463aad353cc1dae785046acabc9eed.600x338.jpg?t=1512028691",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/739700/ss_21f905c6f9463aad353cc1dae785046acabc9eed.1920x1080.jpg?t=1512028691"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/739700/ss_21f905c6f9463aad353cc1dae785046acabc9eed.600x338.jpg?t=1535604505",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/739700/ss_21f905c6f9463aad353cc1dae785046acabc9eed.1920x1080.jpg?t=1535604505"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/739700/ss_043bb3100f61f90689914f487a9729882d2cbeb6.600x338.jpg?t=1512028691",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/739700/ss_043bb3100f61f90689914f487a9729882d2cbeb6.1920x1080.jpg?t=1512028691"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/739700/ss_043bb3100f61f90689914f487a9729882d2cbeb6.600x338.jpg?t=1535604505",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/739700/ss_043bb3100f61f90689914f487a9729882d2cbeb6.1920x1080.jpg?t=1535604505"
     }
   ],
   "release_date": {
@@ -108,5 +110,9 @@
     "url": "http://16bitnights.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/739700/page_bg_generated_v6b.jpg?t=1512028691"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/739700/page_bg_generated_v6b.jpg?t=1535604505",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

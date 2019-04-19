@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     68619
@@ -195,6 +197,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Aug, 2015"
@@ -203,5 +208,9 @@
     "url": "http://protomnimultimedia.com/contact",
     "email": "support@protomnimultimedia.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/373120/page_bg_generated_v6b.jpg?t=1447375058"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/373120/page_bg_generated_v6b.jpg?t=1447375058",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

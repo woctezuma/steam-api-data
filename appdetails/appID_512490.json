@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 249,
-    "discount_percent": 50
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     119283
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 119283,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Zombie Estate 2 - <span class=\"discount_original_price\">4,99\u20ac</span> 2,49\u20ac",
+          "option_text": "Zombie Estate 2 - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 249
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -172,7 +174,7 @@
     }
   ],
   "recommendations": {
-    "total": 217
+    "total": 231
   },
   "achievements": {
     "total": 18,
@@ -227,5 +229,9 @@
     "url": "",
     "email": "support@zombieestate.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512490/page_bg_generated_v6b.jpg?t=1484325949"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512490/page_bg_generated_v6b.jpg?t=1484325949",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

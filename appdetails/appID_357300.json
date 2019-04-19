@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     63310
@@ -160,7 +162,7 @@
     }
   ],
   "recommendations": {
-    "total": 600
+    "total": 390
   },
   "achievements": {
     "total": 11,
@@ -215,5 +217,9 @@
     "url": "",
     "email": "support@noumenongames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/357300/page_bg_generated_v6b.jpg?t=1447371017"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/357300/page_bg_generated_v6b.jpg?t=1447371017",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

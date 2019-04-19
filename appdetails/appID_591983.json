@@ -12,7 +12,7 @@
     "appid": "380600",
     "name": "Fishing Planet"
   },
-  "supported_languages": "English, French, German, Polish, Russian, Ukrainian, Spanish, Dutch, Portuguese-Brazil, Simplified Chinese",
+  "supported_languages": "English, French, German, Polish, Russian, Ukrainian, Spanish - Spain, Dutch, Portuguese - Brazil, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/591983/header.jpg?t=1520961082",
   "website": "http://www.fishingplanet.com",
   "pc_requirements": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     154055
@@ -133,6 +135,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/591983/ss_6238d80a9b27b94fd5923396ba2be3740fb5e8a4.1920x1080.jpg?t=1520961082"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Nov, 2017"
@@ -141,5 +146,9 @@
     "url": "",
     "email": "support@fishingplanet.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/591983/page_bg_generated_v6b.jpg?t=1520961082"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/591983/page_bg_generated_v6b.jpg?t=1520961082",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "IMPORTANT NOTE: This DLC requires Apple QuickTime for decoding AAC files. Unfortunately, Apple stopped supporting security patches for QuickTime on PC. We are looking to create an update that does not use QuickTime, but there is no estimated release date for it. We are still providing this DLC for convenience to our users, but know that QuickTime carries a security risk, use QuickTime at your own risk!<br />\r\n<br />\r\nWith this download you can play non-DRM iTunes m4a and AAC files in Symphony. The cost is to cover the per-copy license fee needed for the patented AAC decoding.",
   "about_the_game": "IMPORTANT NOTE: This DLC requires Apple QuickTime for decoding AAC files. Unfortunately, Apple stopped supporting security patches for QuickTime on PC. We are looking to create an update that does not use QuickTime, but there is no estimated release date for it. We are still providing this DLC for convenience to our users, but know that QuickTime carries a security risk, use QuickTime at your own risk!<br />\r\n<br />\r\nWith this download you can play non-DRM iTunes m4a and AAC files in Symphony. The cost is to cover the per-copy license fee needed for the patented AAC decoding.",
-  "short_description": "",
+  "short_description": "IMPORTANT NOTE: This DLC requires Apple QuickTime for decoding AAC files. Unfortunately, Apple stopped supporting security patches for QuickTime on PC. We are looking to create an update that does not use QuickTime, but there is no estimated release date for it.",
   "fullgame": {
     "appid": "207750",
     "name": "Symphony"
@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     33549,
@@ -51,21 +53,21 @@
           "packageid": 33549,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Symphony - iTunes and m4a Support DLC - 0,99\u20ac",
+          "option_text": "Symphony - iTunes and m4a Support DLC - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         },
         {
           "packageid": 15833,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Symphony with iTunes and m4a support - 9,99\u20ac",
+          "option_text": "Symphony with iTunes and m4a support - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -138,5 +140,9 @@
     "url": "",
     "email": "support@emptyclipstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261060/page_bg_generated_v6b.jpg?t=1497986112"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261060/page_bg_generated_v6b.jpg?t=1497986112",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

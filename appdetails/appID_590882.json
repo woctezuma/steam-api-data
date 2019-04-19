@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This DLC will add, or change, nothing to the game. But if you like <i>It Lurks in the Woods</i> and wish to give a little something, you can buy this DLC.",
   "about_the_game": "This DLC will add, or change, nothing to the game. But if you like <i>It Lurks in the Woods</i> and wish to give a little something, you can buy this DLC.",
-  "short_description": "This DLC will add, or change, nothing to the game. But if you like <i>It Lurks in the Woods</i> and wish to give a little something, you can buy this DLC.",
+  "short_description": "This DLC will add, or change, nothing to the game. But if you like It Lurks in the Woods and wish to give a little something, you can buy this DLC.",
   "fullgame": {
     "appid": "589620",
     "name": "It Lurks in the Woods"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     153263
@@ -101,5 +103,9 @@
     "url": "",
     "email": "olivier.leclair93@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/590882/page_bg_generated_v6b.jpg?t=1486593111"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/590882/page_bg_generated_v6b.jpg?t=1486593111",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

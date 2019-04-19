@@ -10,10 +10,10 @@
   "short_description": "Reality blurs as a rogue scientist struggles to keep his terminally ill wife alive inside a virtual world.",
   "fullgame": {
     "appid": "778720",
-    "name": "The Defector"
+    "name": "The Defector Anthology"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/778741/header.jpg?t=1516670183",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/778741/header.jpg?t=1538780215",
   "website": null,
   "pc_requirements": [],
   "mac_requirements": [],
@@ -21,7 +21,16 @@
   "publishers": [
     ""
   ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "Free"
+  },
   "packages": [
+    234257,
     234248
   ],
   "package_groups": [
@@ -34,6 +43,16 @@
       "display_type": 0,
       "is_recurring_subscription": "false",
       "subs": [
+        {
+          "packageid": 234257,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "The Defector: Anima - 1,59\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 159
+        },
         {
           "packageid": 234248,
           "percent_savings_text": "",
@@ -62,13 +81,20 @@
       "description": "Native Steam Controller Support"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
-    "date": "4 Jan, 2018"
+    "date": "5 Oct, 2018"
   },
   "support_info": {
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

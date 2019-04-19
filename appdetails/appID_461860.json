@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     100831
@@ -188,5 +190,9 @@
     "url": "http://eccgames.com",
     "email": "support@eccgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/461860/page_bg_generated_v6b.jpg?t=1471986315"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/461860/page_bg_generated_v6b.jpg?t=1471986315",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

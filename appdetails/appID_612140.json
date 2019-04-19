@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "&quot;Once upon a time, there was a family of 4 who lived in a log cabin by the mines. Everything was cool. But one day somebody left the door open and all their pets ran away! This is the story of how they got them back.&quot;<br />\r\n<br />\r\nWeebish Mines is a kind of spiritual successor to &quot;Legacy of the Wizard&quot;, my favorite NES game from a million years ago. Help the family search the giant underground mines in ye ol' Metroidvania fashion for their missing pets. Use gems to fuel special items like pickaxes, guns, oxygen tanks, keys, and bombs. <br />\r\n<br />\r\nDon't get STATUE-IZED or it's game over, man! Game over!",
   "about_the_game": "&quot;Once upon a time, there was a family of 4 who lived in a log cabin by the mines. Everything was cool. But one day somebody left the door open and all their pets ran away! This is the story of how they got them back.&quot;<br />\r\n<br />\r\nWeebish Mines is a kind of spiritual successor to &quot;Legacy of the Wizard&quot;, my favorite NES game from a million years ago. Help the family search the giant underground mines in ye ol' Metroidvania fashion for their missing pets. Use gems to fuel special items like pickaxes, guns, oxygen tanks, keys, and bombs. <br />\r\n<br />\r\nDon't get STATUE-IZED or it's game over, man! Game over!",
-  "short_description": "&quot;Once upon a time, there was a family of 4 who lived in a log cabin by the mines. Everything was cool. But one day somebody left the door open and all their pets ran away! This is the story of how they got them back.&quot;",
+  "short_description": "&quot;Once upon a time, there was a family of 4 who lived in a log cabin by the mines. Everything was cool. But one day somebody left the door open and all their pets ran away! This is the story of how they got them back.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/612140/header.jpg?t=1499170238",
   "website": "http://dxfgames.com",
@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 224,
-    "discount_percent": 25
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     163814
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 163814,
-          "percent_savings_text": "-25%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Weebish Mines - <span class=\"discount_original_price\">2,99\u20ac</span> 2,24\u20ac",
+          "option_text": "Weebish Mines - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 224
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -209,5 +211,9 @@
     "url": "",
     "email": "dxfgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/612140/page_bg_generated_v6b.jpg?t=1499170238"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/612140/page_bg_generated_v6b.jpg?t=1499170238",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

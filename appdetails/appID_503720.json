@@ -1,19 +1,19 @@
 {
   "type": "dlc",
-  "name": "Hero Siege - Nethermancer (Skin)",
+  "name": "Skin - Nethermancer",
   "steam_appid": 503720,
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
   "detailed_description": "The new Supporter skin for Pyromancer is here!<br />\r\n<br />\r\nHelp us cover server costs and the further development of Hero Siege! We thank you for all your support!",
   "about_the_game": "The new Supporter skin for Pyromancer is here!<br />\r\n<br />\r\nHelp us cover server costs and the further development of Hero Siege! We thank you for all your support!",
-  "short_description": "",
+  "short_description": "The new Supporter skin for Pyromancer is here! Help us cover server costs and the further development of Hero Siege! We thank you for all your support!",
   "fullgame": {
     "appid": "269210",
     "name": "Hero Siege"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/503720/header.jpg?t=1513338963",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/503720/header.jpg?t=1537263461",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> same as main game</li></ul>"
@@ -33,9 +33,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     115891
@@ -43,7 +45,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Hero Siege - Nethermancer (Skin)",
+      "title": "Buy Skin - Nethermancer",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -54,11 +56,11 @@
           "packageid": 115891,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Nethermancer - 1,99\u20ac",
+          "option_text": "Nethermancer - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -135,10 +137,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/503720/ss_54b3f3588e32b80d3c5572f71a35ed978b4aa9d0.600x338.jpg?t=1513338963",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/503720/ss_54b3f3588e32b80d3c5572f71a35ed978b4aa9d0.1920x1080.jpg?t=1513338963"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/503720/ss_54b3f3588e32b80d3c5572f71a35ed978b4aa9d0.600x338.jpg?t=1537263461",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/503720/ss_54b3f3588e32b80d3c5572f71a35ed978b4aa9d0.1920x1080.jpg?t=1537263461"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Aug, 2016"
@@ -147,5 +152,9 @@
     "url": "http://panicartstudios.com",
     "email": "panicartstudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/503720/page_bg_generated_v6b.jpg?t=1513338963"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/503720/page_bg_generated_v6b.jpg?t=1537263461",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

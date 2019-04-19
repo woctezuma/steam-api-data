@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     102634
@@ -161,7 +163,7 @@
     }
   ],
   "achievements": {
-    "total": 16,
+    "total": 17,
     "highlighted": [
       {
         "name": "Grim Reaper",
@@ -213,5 +215,9 @@
     "url": "",
     "email": "ampersandbear@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466770/page_bg_generated_v6b.jpg?t=1490781134"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466770/page_bg_generated_v6b.jpg?t=1490781134",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     57046
@@ -141,7 +143,7 @@
     }
   ],
   "recommendations": {
-    "total": 1208
+    "total": 1211
   },
   "achievements": {
     "total": 0
@@ -154,5 +156,9 @@
     "url": "http://halfbus.co/",
     "email": "info@halfbus.co"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340150/page_bg_generated_v6b.jpg?t=1505561225"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340150/page_bg_generated_v6b.jpg?t=1505561225",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

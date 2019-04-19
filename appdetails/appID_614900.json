@@ -10,7 +10,7 @@
   "detailed_description": "Divide squares and evade obstacles. Simple minimalist game that can train your reactions and some move strategies. Just click your mouse button and squares will split. But after short time they will move to each other again so you need to click fast to keep them divided.<br><br>Contact e-mail: <u>contact@palenogames.ru</u>",
   "about_the_game": "Divide squares and evade obstacles. Simple minimalist game that can train your reactions and some move strategies. Just click your mouse button and squares will split. But after short time they will move to each other again so you need to click fast to keep them divided.<br><br>Contact e-mail: <u>contact@palenogames.ru</u>",
   "short_description": "Divide squares and evade obstacles. Simple minimalist game that can train your reactions and some move strategies. Just click your mouse button and squares will split. But after short time they will move to each other again so you need to click fast to keep them divided.",
-  "supported_languages": "English, French, Italian, German, Spanish, Bulgarian, Portuguese-Brazil, Danish, Simplified Chinese, Russian, Ukrainian, Arabic, Hungarian, Greek, Traditional Chinese, Korean, Dutch, Norwegian, Polish, Portuguese, Romanian, Thai, Turkish, Finnish, Czech, Swedish, Japanese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Portuguese - Brazil, Danish, Simplified Chinese, Russian, Ukrainian, Arabic, Hungarian, Greek, Traditional Chinese, Korean, Dutch, Norwegian, Polish, Portuguese, Romanian, Thai, Turkish, Finnish, Czech, Swedish, Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/614900/header.jpg?t=1509599474",
   "website": null,
   "pc_requirements": {
@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 63,
+    "discount_percent": 36,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,63\u20ac"
   },
   "packages": [
     164805
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 164805,
-          "percent_savings_text": "",
+          "percent_savings_text": "-36%",
           "percent_savings": 0,
-          "option_text": "Devade - 0,99\u20ac",
+          "option_text": "Devade - <span class=\"discount_original_price\">0,99\u20ac</span> 0,63\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 63
         }
       ]
     }
@@ -197,5 +199,9 @@
     "url": "http://palenogames.ru",
     "email": "contact@palenogames.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/614900/page_bg_generated_v6b.jpg?t=1509599474"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/614900/page_bg_generated_v6b.jpg?t=1509599474",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

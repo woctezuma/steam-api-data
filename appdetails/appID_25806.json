@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>Requested by the fans, Heir to the Throne is the third expansion to the preeminent historical strategy game Europa Universalis III. The expansion takes the hugely successful game beyond Complete, with improvements across the board.</p><br><br>\n\t\t\t\t\t<h2>GAME FEATURES:</h2>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li>Intriguing Casus Belli system, where wars have specific goals from start to finish.\n\t\t\t\t\t<li>Monarchs now belong to dynasties, with far reaching effects on the diplomatic model.\n\t\t\t\t\t<li>More involving and powerful Holy Roman Empire and Papacy options.\n\t\t\t\t\t<li>Special diplomatic options for Republics.\n\t\t\t\t\t<li>Set your National Focus in a province to enhance growth and strengthen your hold in the region.\n\t\t\t\t\t<li>Permanent Terra Incognita removed and replaced with impassable regions.\n\t\t\t\t\t<li>Cultural Tradition allows better advisors in the same way that Military Tradition allows better generals and admirals.\n\t\t\t\t\t<li>Many other additions and improvements.\n\t\t\t\t\t</ul>",
   "about_the_game": "<p>Requested by the fans, Heir to the Throne is the third expansion to the preeminent historical strategy game Europa Universalis III. The expansion takes the hugely successful game beyond Complete, with improvements across the board.</p><br><br>\n\t\t\t\t\t<h2>GAME FEATURES:</h2>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li>Intriguing Casus Belli system, where wars have specific goals from start to finish.\n\t\t\t\t\t<li>Monarchs now belong to dynasties, with far reaching effects on the diplomatic model.\n\t\t\t\t\t<li>More involving and powerful Holy Roman Empire and Papacy options.\n\t\t\t\t\t<li>Special diplomatic options for Republics.\n\t\t\t\t\t<li>Set your National Focus in a province to enhance growth and strengthen your hold in the region.\n\t\t\t\t\t<li>Permanent Terra Incognita removed and replaced with impassable regions.\n\t\t\t\t\t<li>Cultural Tradition allows better advisors in the same way that Military Tradition allows better generals and admirals.\n\t\t\t\t\t<li>Many other additions and improvements.\n\t\t\t\t\t</ul>",
-  "short_description": "",
+  "short_description": "Requested by the fans, Heir to the Throne is the third expansion to the preeminent historical strategy game Europa Universalis III. The expansion takes the hugely successful game beyond Complete, with improvements across the board. GAME FEATURES: Intriguing Casus Belli system, where wars have specific goals from start to finish.",
   "fullgame": {
     "appid": "25800",
     "name": "Europa Universalis III Complete"
@@ -30,12 +30,12 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
-    2640,
-    29116,
-    29112
+    2640
   ],
   "package_groups": [
     {
@@ -56,26 +56,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 999
-        },
-        {
-          "packageid": 29116,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Europa Universalis III DLC Collection - 29,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2999
-        },
-        {
-          "packageid": 29112,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Europa Universalis III Collection - 39,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 3999
         }
       ]
     }
@@ -87,7 +67,7 @@
   },
   "metacritic": {
     "score": 86,
-    "url": "http://www.metacritic.com/game/pc/europa-universalis-iii-heir-to-the-throne?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/europa-universalis-iii-heir-to-the-throne?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -180,6 +160,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/25806/ss_e47cad070fcfff65751a793ea14c4164fa494e30.1920x1080.jpg?t=1447352781"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Dec, 2009"
@@ -188,5 +171,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25806/page_bg_generated_v6b.jpg?t=1447352781"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25806/page_bg_generated_v6b.jpg?t=1447352781",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

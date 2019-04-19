@@ -21,10 +21,12 @@
     ""
   ],
   "price_overview": {
-    "currency": "USD",
+    "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     127714
@@ -43,7 +45,7 @@
           "packageid": 127714,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Battle Disc: Wakening of Lion Armour! - $0.99",
+          "option_text": "Battle Disc: Wakening of Lion Armour! - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -71,13 +73,20 @@
       "description": "Captions available"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
-    "date": "Oct 21, 2016"
+    "date": "21 Oct, 2016"
   },
   "support_info": {
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

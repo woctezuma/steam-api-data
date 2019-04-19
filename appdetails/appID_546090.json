@@ -12,11 +12,11 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/546090/header.jpg?t=1478459674",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 2.0Ghz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Windows XP<br></li><li><strong>Prozessor:</strong> 2.0Ghz+<br></li><li><strong>Arbeitsspeicher:</strong> 4 GB RAM<br></li><li><strong>Grafik:</strong> 1GB<br></li><li><strong>Speicherplatz:</strong> 250 MB verf\u00fcgbarer Speicherplatz</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 LTS<br></li><li><strong>Processor:</strong> 2.0Ghz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Ubuntu 14.04 LTS<br></li><li><strong>Prozessor:</strong> 2.0Ghz+<br></li><li><strong>Arbeitsspeicher:</strong> 4 GB RAM<br></li><li><strong>Grafik:</strong> 1GB<br></li><li><strong>Speicherplatz:</strong> 250 MB verf\u00fcgbarer Speicherplatz</li></ul>"
   },
   "developers": [
     "Walter Machado"
@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     134670,
@@ -135,6 +137,9 @@
       "highlight": true
     }
   ],
+  "recommendations": {
+    "total": 111
+  },
   "achievements": {
     "total": 5,
     "highlighted": [
@@ -168,5 +173,9 @@
     "url": "https://www.facebook.com/triptovinelands",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/546090/page_bg_generated_v6b.jpg?t=1478459674"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/546090/page_bg_generated_v6b.jpg?t=1478459674",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

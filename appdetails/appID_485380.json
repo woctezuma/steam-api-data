@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     109163
@@ -147,7 +149,7 @@
     }
   ],
   "recommendations": {
-    "total": 1517
+    "total": 1485
   },
   "achievements": {
     "total": 11,
@@ -202,5 +204,13 @@
     "url": "http://www.reflectstudios.com",
     "email": "aflatau@reflectstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/485380/page_bg_generated_v6b.jpg?t=1478826657"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/485380/page_bg_generated_v6b.jpg?t=1478826657",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

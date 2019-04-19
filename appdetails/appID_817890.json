@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     250449
@@ -137,6 +139,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Mar, 2018"
@@ -145,5 +150,9 @@
     "url": "https://pulsarnikproductions.wordpress.com/",
     "email": "nik.44@hotmail.it"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/817890/page_bg_generated_v6b.jpg?t=1521286085"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/817890/page_bg_generated_v6b.jpg?t=1521286085",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

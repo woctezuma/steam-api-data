@@ -11,7 +11,7 @@
     "appid": "371120",
     "name": "Discouraged Workers"
   },
-  "supported_languages": "English, Korean, Simplified Chinese, Spanish, Russian",
+  "supported_languages": "English, Korean, Simplified Chinese, Spanish - Spain, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/375161/header.jpg?t=1520042158",
   "website": "https://yggdrasil-studio.github.io/Discouraged-Workers/",
   "pc_requirements": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     69299
@@ -114,6 +116,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/375161/ss_6a2e67c0cb2304183c564909854195bf9ad4f39a.1920x1080.jpg?t=1520042158"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Mar, 2018"
@@ -122,5 +127,12 @@
     "url": "https://www.facebook.com/YGGDRASILSTUDIO",
     "email": "yggdrasilgamestudio@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/375161/page_bg_generated_v6b.jpg?t=1520042158"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/375161/page_bg_generated_v6b.jpg?t=1520042158",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

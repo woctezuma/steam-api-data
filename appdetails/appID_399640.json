@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 819,
     "final": 819,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     77373
@@ -153,7 +155,7 @@
     }
   ],
   "recommendations": {
-    "total": 378
+    "total": 316
   },
   "achievements": {
     "total": 24,
@@ -208,5 +210,9 @@
     "url": "http://nimblygames.com",
     "email": "flamebreak@nimblygames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/399640/page_bg_generated_v6b.jpg?t=1458082745"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/399640/page_bg_generated_v6b.jpg?t=1458082745",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -13,11 +13,11 @@
     708523,
     708530
   ],
-  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/1.png?t=1513264793\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/2.png?t=1513264793\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/3.png?t=1513264793\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/4.png?t=1513264793\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/5.png?t=1513264793\" >",
-  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/1.png?t=1513264793\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/2.png?t=1513264793\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/3.png?t=1513264793\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/4.png?t=1513264793\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/5.png?t=1513264793\" >",
+  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/1.png?t=1549538400\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/2.png?t=1549538400\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/3.png?t=1549538400\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/4.png?t=1549538400\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/5.png?t=1549538400\" >",
+  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/1.png?t=1549538400\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/2.png?t=1549538400\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/3.png?t=1549538400\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/4.png?t=1549538400\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/688480/extras/5.png?t=1549538400\" >",
   "short_description": "EVE: Valkyrie \u2013 Warzone is a first-person spaceship shooter that puts you in the cockpit for fast, fun, intense\u00a0multiplayer\u00a0space combat.",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/688480/header.jpg?t=1513264793",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/688480/header.jpg?t=1549538400",
   "website": "https://www.evevalkyrie.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1 or newer<br></li><li><strong>Processor:</strong> i3-550 processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GTX 460 / AMD 290 or equivalent DX 11 compatible card<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 30 GB available space<br></li><li><strong>Additional Notes:</strong> Supports Xbox One controllers and Xbox 360 controllers on PC. Compatible with HOTAS flight stick controls.</li></ul>",
@@ -36,10 +36,13 @@
     "currency": "EUR",
     "initial": 2999,
     "final": 2999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "29,99\u20ac"
   },
   "packages": [
-    197291
+    197291,
+    287764
   ],
   "package_groups": [
     {
@@ -60,6 +63,27 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 2999
+        }
+      ]
+    },
+    {
+      "name": "subscriptions",
+      "title": "Buy EVE: Valkyrie \u2013 Warzone Subscription Plan",
+      "description": "To be billed on a recurring basis.",
+      "selection_text": "Select a subscription plan",
+      "save_text": "",
+      "display_type": "1",
+      "is_recurring_subscription": "true",
+      "subs": [
+        {
+          "packageid": 287764,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "1 Month(s) @ 39,99\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">39,99\u20ac at checkout, auto-renewed every 1 month(s) at 39,99\u20ac.</p>",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 3999
         }
       ]
     }
@@ -100,43 +124,43 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_db077e8ab1b0e1cabe087d676c35b4e5e2b45bd7.600x338.jpg?t=1513264793",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_db077e8ab1b0e1cabe087d676c35b4e5e2b45bd7.1920x1080.jpg?t=1513264793"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_db077e8ab1b0e1cabe087d676c35b4e5e2b45bd7.600x338.jpg?t=1549538400",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_db077e8ab1b0e1cabe087d676c35b4e5e2b45bd7.1920x1080.jpg?t=1549538400"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_89ed4aa4c3369ed844e46b2ba56619e2fdd811b0.600x338.jpg?t=1513264793",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_89ed4aa4c3369ed844e46b2ba56619e2fdd811b0.1920x1080.jpg?t=1513264793"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_89ed4aa4c3369ed844e46b2ba56619e2fdd811b0.600x338.jpg?t=1549538400",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_89ed4aa4c3369ed844e46b2ba56619e2fdd811b0.1920x1080.jpg?t=1549538400"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_8198da4b4aebc325aa23e6483e2dd40c98df22f8.600x338.jpg?t=1513264793",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_8198da4b4aebc325aa23e6483e2dd40c98df22f8.1920x1080.jpg?t=1513264793"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_8198da4b4aebc325aa23e6483e2dd40c98df22f8.600x338.jpg?t=1549538400",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_8198da4b4aebc325aa23e6483e2dd40c98df22f8.1920x1080.jpg?t=1549538400"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_951b152a45c68c2adf35e91ce34ee1abd62fd5e2.600x338.jpg?t=1513264793",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_951b152a45c68c2adf35e91ce34ee1abd62fd5e2.1920x1080.jpg?t=1513264793"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_951b152a45c68c2adf35e91ce34ee1abd62fd5e2.600x338.jpg?t=1549538400",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_951b152a45c68c2adf35e91ce34ee1abd62fd5e2.1920x1080.jpg?t=1549538400"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_16b1583541c045868240ee484556e60b6db9deed.600x338.jpg?t=1513264793",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_16b1583541c045868240ee484556e60b6db9deed.1920x1080.jpg?t=1513264793"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_16b1583541c045868240ee484556e60b6db9deed.600x338.jpg?t=1549538400",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_16b1583541c045868240ee484556e60b6db9deed.1920x1080.jpg?t=1549538400"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_38a0bc13c2d4d663a16f3f42048e73c3940fd037.600x338.jpg?t=1513264793",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_38a0bc13c2d4d663a16f3f42048e73c3940fd037.1920x1080.jpg?t=1513264793"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_38a0bc13c2d4d663a16f3f42048e73c3940fd037.600x338.jpg?t=1549538400",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_38a0bc13c2d4d663a16f3f42048e73c3940fd037.1920x1080.jpg?t=1549538400"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_f6c2a4d11ce20b394158502d40a2d3a70d316e40.600x338.jpg?t=1513264793",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_f6c2a4d11ce20b394158502d40a2d3a70d316e40.1920x1080.jpg?t=1513264793"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_f6c2a4d11ce20b394158502d40a2d3a70d316e40.600x338.jpg?t=1549538400",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_f6c2a4d11ce20b394158502d40a2d3a70d316e40.1920x1080.jpg?t=1549538400"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_50f1b9e33883c6e7c5549ce5e625621e95c6b30f.600x338.jpg?t=1513264793",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_50f1b9e33883c6e7c5549ce5e625621e95c6b30f.1920x1080.jpg?t=1513264793"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_50f1b9e33883c6e7c5549ce5e625621e95c6b30f.600x338.jpg?t=1549538400",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688480/ss_50f1b9e33883c6e7c5549ce5e625621e95c6b30f.1920x1080.jpg?t=1549538400"
     }
   ],
   "movies": [
@@ -162,7 +186,7 @@
     }
   ],
   "recommendations": {
-    "total": 242
+    "total": 265
   },
   "achievements": {
     "total": 33,
@@ -217,5 +241,9 @@
     "url": "https://support.evevalkyrie.com/hc/en-us",
     "email": "support@evevalkyrie.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/688480/page_bg_generated_v6b.jpg?t=1513264793"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/688480/page_bg_generated_v6b.jpg?t=1549538400",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

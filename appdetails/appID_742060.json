@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Disgraced</strong><br><br>The Renegade Pack DLC lets you start off ahead of the curve with some extra items to help you in your adventures!<br><strong>Renegade Pack DLC: </strong><br><ul class=\"bb_ul\"><li>1x Katana (weapon)<br></li><li>1x Sarubeji Do (armor)<br></li><li>10x Ryo (money)<br></li><li>10x Materials (building resources)<br></li><li>10x Rations (food)<br></li><li>10x Supplies (weapons and armor)<br></li><li>10x Influence (reputation)<br></li><li>1x Mastery Journal (experience)<br></li><li>2x Bandages (healing item)<br></li><li>1x Poultice (healing item)<br></li><li>1x Pottage (provisions item)</li></ul><br><strong>PLEASE NOTE: STARTING A NEW GAME WILL BE REQUIRED TO ACCESS THE ITEMS. THEY ARE GRANTED IMMEDIATELY AFTER CHARACTER CREATION!</strong>",
   "about_the_game": "<strong>Disgraced</strong><br><br>The Renegade Pack DLC lets you start off ahead of the curve with some extra items to help you in your adventures!<br><strong>Renegade Pack DLC: </strong><br><ul class=\"bb_ul\"><li>1x Katana (weapon)<br></li><li>1x Sarubeji Do (armor)<br></li><li>10x Ryo (money)<br></li><li>10x Materials (building resources)<br></li><li>10x Rations (food)<br></li><li>10x Supplies (weapons and armor)<br></li><li>10x Influence (reputation)<br></li><li>1x Mastery Journal (experience)<br></li><li>2x Bandages (healing item)<br></li><li>1x Poultice (healing item)<br></li><li>1x Pottage (provisions item)</li></ul><br><strong>PLEASE NOTE: STARTING A NEW GAME WILL BE REQUIRED TO ACCESS THE ITEMS. THEY ARE GRANTED IMMEDIATELY AFTER CHARACTER CREATION!</strong>",
-  "short_description": "Disgraced Renegade Pack DLC:<br />\nThe Renegade Pack DLC lets you start off ahead of the curve with some extra items to help you in your adventures!",
+  "short_description": "Disgraced Renegade Pack DLC: The Renegade Pack DLC lets you start off ahead of the curve with some extra items to help you in your adventures!",
   "fullgame": {
     "appid": "485360",
     "name": "Disgraced"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     217417
@@ -128,5 +130,9 @@
     "url": "http://steamcommunity.com/app/485360/discussions/0/",
     "email": "crsvstudiosspprt@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/742060/page_bg_generated_v6b.jpg?t=1509641298"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/742060/page_bg_generated_v6b.jpg?t=1509641298",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

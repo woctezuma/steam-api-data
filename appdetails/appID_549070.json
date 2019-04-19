@@ -12,11 +12,11 @@
     "appid": "547590",
     "name": "Pinball FX2 VR"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/549070/header.jpg?t=1480417397",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel i5-4590 or AMD equivalent<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970 / AMD 290X<br></li><li><strong>Storage:</strong> 900 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7<br></li><li><strong>Processeur\u00a0:</strong> Intel i5-4590 or AMD equivalent<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 6 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> NVIDIA GTX 970 / AMD 290X<br></li><li><strong>Espace disque\u00a0:</strong> 900 MB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> DirectX compatible sound card</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 2299,
     "final": 2299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "22,99\u20ac"
   },
   "packages": [
     135772
@@ -135,6 +137,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Nov, 2016"
@@ -143,5 +148,9 @@
     "url": "",
     "email": "support@zenstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/549070/page_bg_generated_v6b.jpg?t=1480417397"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/549070/page_bg_generated_v6b.jpg?t=1480417397",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -12,7 +12,7 @@
     "appid": "424840",
     "name": "Little Nightmares"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Korean, Polish, Portuguese-Brazil, Russian, Swedish, Traditional Chinese, Japanese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, Swedish, Traditional Chinese, Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/584095/header.jpg?t=1519315576",
   "website": "http://www.little-nightmares.com",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     150391
@@ -123,7 +125,10 @@
     }
   ],
   "recommendations": {
-    "total": 133
+    "total": 150
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -133,5 +138,9 @@
     "url": "http://www.bandainamcogames.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/584095/page_bg_generated_v6b.jpg?t=1519315576"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/584095/page_bg_generated_v6b.jpg?t=1519315576",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

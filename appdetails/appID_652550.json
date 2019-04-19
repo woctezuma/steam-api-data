@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     183857
@@ -135,9 +137,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 127
-  },
   "achievements": {
     "total": 26,
     "highlighted": [
@@ -191,5 +190,9 @@
     "url": "https://www.facebook.com/groups/227976034343629/",
     "email": "snarahirah@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/652550/page_bg_generated_v6b.jpg?t=1500549794"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/652550/page_bg_generated_v6b.jpg?t=1500549794",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

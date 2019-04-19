@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     164883
@@ -152,5 +154,9 @@
     "url": "https://spellweaver-tcg.com/forum",
     "email": "support@spellweaver-tcg.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/615130/page_bg_generated_v6b.jpg?t=1491849913"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/615130/page_bg_generated_v6b.jpg?t=1491849913",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

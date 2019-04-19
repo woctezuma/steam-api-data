@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Lop Nor Zombie is a VR zombie shoot game that fully featured by \u3010HTC Vive\u3011. <br />\r\n<br />\r\nFrom the videos you can find the vr operation of pistol and smg. Other rich Weapons are possible by taking advantage of the controller of HTC Vive(steam vr).<br />\r\n<br />\r\nAlso another feature is that you can move freely with cold time\uff0ceach time with limited radius. Of course wont get sick by teleport. You wont be a defense turrent any more in our game.",
   "about_the_game": "Lop Nor Zombie is a VR zombie shoot game that fully featured by \u3010HTC Vive\u3011. <br />\r\n<br />\r\nFrom the videos you can find the vr operation of pistol and smg. Other rich Weapons are possible by taking advantage of the controller of HTC Vive(steam vr).<br />\r\n<br />\r\nAlso another feature is that you can move freely with cold time\uff0ceach time with limited radius. Of course wont get sick by teleport. You wont be a defense turrent any more in our game.",
-  "short_description": "In a west lab of Lop Nor, staff were infected by virus and become to Zombies. Soldier 9527 discovered the threaten and entered the town to investigate what happened in the town. You have to survive by killing all the zombies you met. Examine the environment carefully and make use all the weapons including melee weapon and guns you can find to defeat the horrible creatures. Also you have to solve some puzzles to keep searching forward. <br />\r\nIMPORTANT: keep the distance from zombies and kill them before they get close to you, or the zombie would eat you soon !",
+  "short_description": "In a west lab of Lop Nor, staff were infected by virus and become to Zombies. Soldier 9527 discovered the threaten and entered the town to investigate what happened in the town. You have to survive by killing all the zombies you met.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/521860/header.jpg?t=1475360928",
   "website": null,
@@ -25,10 +25,13 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
-    123832
+    123832,
+    271475
   ],
   "package_groups": [
     {
@@ -49,6 +52,16 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 299
+        },
+        {
+          "packageid": 271475,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Lop Nor Zombie VR - Commercial License - 8,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 899
         }
       ]
     }
@@ -113,6 +126,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Sep, 2016"
@@ -121,5 +137,9 @@
     "url": "http://www.hashvr.com/",
     "email": "master@hashvr.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/521860/page_bg_generated_v6b.jpg?t=1475360928"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/521860/page_bg_generated_v6b.jpg?t=1475360928",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

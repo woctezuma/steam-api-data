@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     89157
@@ -153,5 +155,9 @@
     "url": "https://www.leadwerks.com/contact",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/430061/page_bg_generated_v6b.jpg?t=1513960260"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/430061/page_bg_generated_v6b.jpg?t=1513960260",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

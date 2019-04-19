@@ -12,7 +12,7 @@
     "appid": "223100",
     "name": "Homefront\u00ae: The Revolution"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Czech, Japanese, Polish, Portuguese-Brazil, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech, Japanese, Polish, Portuguese - Brazil, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/500272/header.jpg?t=1488960140",
   "website": "http://www.homefront-game.com/",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     114732
@@ -140,6 +142,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/500272/ss_6cccd34018ff004c22e9fe183af0396c5ba4cd36.1920x1080.jpg?t=1488960140"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Mar, 2017"
@@ -148,5 +153,12 @@
     "url": "helpcenter.deepsilver.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/500272/page_bg_generated_v6b.jpg?t=1488960140"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/500272/page_bg_generated_v6b.jpg?t=1488960140",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

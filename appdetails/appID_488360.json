@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h1>Development Blog</h1><p>Update 1.1 \r\n\r\n- Serious performance improvements for all scenes! (especially for Rain Room and Fireworks)\r\n- Updated visuals to all scenes!\r\n- Removed screeching sound from Main Menu scene.\r\n- Added new visuals/sounds to main menu room \r\n- Increased size of forest scene by x50\r\n- Remastered Rain room and mountain scene\r\n- Birds in mountain scene. \r\n\r\n\r\nHello all! Although this game is not a officially an early access game, I am treating it as such. I fully intend to keep working on it and fixing what needs to be fixed. As of right now I'm getting a lot of great feedback on features that need to be improved on and things that should be added. Here are a few things I would like to point out that I'm working on.\r\n\r\n- Performance  (Done \u2713)\r\nRight now performance is pretty bad but I plan on fixing this first before anything else. \r\n\r\n- Size of scenes.  (ongoing  \u2713 (Forrest scene))\r\nRight now scenes are a little small and I hope to improve on that. Currently my only limitation with this is performance. The bigger the scenes the more assets I need to add to fill the extra space. The more assets I add, the more it eats from performance. With that said I am actively working on improving performance too. \r\n\r\n- Scene &quot;life&quot;.  (ongoing \u2713 (Mountain scene Birds))\r\nPlanning on adding more stuff to scenes to make them feel a little less lonely and empty. For example, sticks and rocks on the ground, birds, and more foliage. \r\n\r\n- More scenes. \r\n\r\n    I'm going to start working on a few new scenes number one being an ocean scene. I would love to make a beach but the really hard part about that is the waves. It's incredibly difficult to make realistic waves. A ocean wave simulation is not within my ability or the physics engines ability. With that said, I'm thinking I'll just make a scene where you are placed farther away from the shore or just in the ocean in a boat or something along those lines. \r\n\r\n    Another scene I want to make is a daylight forest. With the sun out and birds in the air, I think a daylight forest would be pretty relaxing.\r\n\r\n    Space scene. I have a few ideas on this one. This scene will either be you just standing in space next to some asteroids or where you are on a planet with no atmosphere looking out at a scenic space scene. Really excited about this one.\r\n\r\n-Updated Rain Room.  (Done \u2713)\r\nI'm thinking of just overhauling the rain room and making it a little more professional such as adding higher quality models, working on the rain effect a little, updating the architecture,  and, performance.   \r\n\r\n-Updated mountain scene.  (Done \u2713)\r\nI'm thinking of just overhauling this scene as well. I'm going to fix the textures on this scene and make them them higher resolution and make it look better overall.\r\n\r\nKeep in mind that all this stuff will take me time. I currently work full time elsewhere and do this as a hobby so be patient and great things will come!</p><br><h1>About the Game</h1>Have you ever wished to be sitting next to a fireplace during a rainstorm, camping in the woods, or standing on the edge of a beautiful mountainous landscape? Now you can with this virtual reality (VR) room-scale experience. Available for the HTC Vive, this experience will be more relaxing and exciting than anything available for the price. This game isn't quite classified as a game, but thats the point! It's more of an experience. There has been lack of relaxation/meditation type games out for the Vive on the market and this is a solution to that. It's a place you can go to relax, to reflect, unwind and just listen to the in-game 3D audio sounds of nature/3D sound effects.",
   "about_the_game": "Have you ever wished to be sitting next to a fireplace during a rainstorm, camping in the woods, or standing on the edge of a beautiful mountainous landscape? Now you can with this virtual reality (VR) room-scale experience. Available for the HTC Vive, this experience will be more relaxing and exciting than anything available for the price. This game isn't quite classified as a game, but thats the point! It's more of an experience. There has been lack of relaxation/meditation type games out for the Vive on the market and this is a solution to that. It's a place you can go to relax, to reflect, unwind and just listen to the in-game 3D audio sounds of nature/3D sound effects.",
-  "short_description": "Have you ever wished to be sitting next to a fireplace during a rainstorm, camping in the woods, or standing on the edge of a beautiful mountainous landscape? Now you can with this virtual reality (VR) room-scale experience. Available for the HTC Vive, this experience will be more relaxing and exciting than anything available for the price. This game isn't quite classified as a game, but thats the point! It's more of an experience.",
+  "short_description": "Have you ever wished to be sitting next to a fireplace during a rainstorm, camping in the woods, or standing on the edge of a beautiful mountainous landscape? Now you can with this virtual reality (VR) room-scale experience.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/488360/header.jpg?t=1471103592",
   "website": null,
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     110113
@@ -214,6 +216,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Jul, 2016"
@@ -222,5 +227,9 @@
     "url": "",
     "email": "VistascapesVR@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/488360/page_bg_generated_v6b.jpg?t=1471103592"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/488360/page_bg_generated_v6b.jpg?t=1471103592",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

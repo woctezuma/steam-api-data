@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     100205
@@ -133,7 +135,7 @@
     }
   ],
   "recommendations": {
-    "total": 220
+    "total": 226
   },
   "achievements": {
     "total": 0
@@ -146,5 +148,12 @@
     "url": "",
     "email": "ask@frontwing.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/460160/page_bg_generated_v6b.jpg?t=1522228517"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/460160/page_bg_generated_v6b.jpg?t=1522228517",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

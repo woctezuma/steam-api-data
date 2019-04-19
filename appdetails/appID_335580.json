@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The Zombie Actions Figures Pack provides you with a horde of undead monsters to slay.  Fight your way through the flesh-eating mob or pit them against each other in an all-zombie brawl to the death.  All characters are fully scripted and ready to use in Leadwerks, with no programming required.  Just drop them into your map and press play!<h2 class=\"bb_tag\">Contents</h2><ul class=\"bb_ul\"><li>Five zombie character models from various walks of life.<br></li><li>Idle, death, walk, run, and two attack animations.<br></li><li>All associated materials, textures, and sounds.<br></li><li>Integration with default Leadwerks AI script.</li></ul><h2 class=\"bb_tag\">Installing the DLC</h2>To install this DLC, select the &quot;Workshop &gt; Browse Workshop&quot; menu in the main window.  Select the &quot;DLC&quot; tab and choose this item in the list.  Press the Install button, and the DLC contents will be added to your current project.",
   "about_the_game": "The Zombie Actions Figures Pack provides you with a horde of undead monsters to slay.  Fight your way through the flesh-eating mob or pit them against each other in an all-zombie brawl to the death.  All characters are fully scripted and ready to use in Leadwerks, with no programming required.  Just drop them into your map and press play!<h2 class=\"bb_tag\">Contents</h2><ul class=\"bb_ul\"><li>Five zombie character models from various walks of life.<br></li><li>Idle, death, walk, run, and two attack animations.<br></li><li>All associated materials, textures, and sounds.<br></li><li>Integration with default Leadwerks AI script.</li></ul><h2 class=\"bb_tag\">Installing the DLC</h2>To install this DLC, select the &quot;Workshop &gt; Browse Workshop&quot; menu in the main window.  Select the &quot;DLC&quot; tab and choose this item in the list.  Press the Install button, and the DLC contents will be added to your current project.",
-  "short_description": "The Leadwerks Zombie Character Pack provides you with a horde of undead monsters to slay.  Fight your way through the flesh-eating mob or pit them against each other in an all-zombie brawl to the death.  All characters are fully scripted and ready to use in Leadwerks, with no programming required.  Just drop them into your game map and press play!",
+  "short_description": "The Leadwerks Zombie Character Pack provides you with a horde of undead monsters to slay. Fight your way through the flesh-eating mob or pit them against each other in an all-zombie brawl to the death. All characters are fully scripted and ready to use in Leadwerks, with no programming required.",
   "fullgame": {
     "appid": "251810",
     "name": "Leadwerks Game Engine"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     55481
@@ -150,5 +152,9 @@
     "url": "http://www.leadwerks.com/werkspace/page/Company/contact",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/335580/page_bg_generated_v6b.jpg?t=1462402075"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/335580/page_bg_generated_v6b.jpg?t=1462402075",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

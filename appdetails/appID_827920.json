@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     254612
@@ -51,11 +53,11 @@
           "packageid": 254612,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Bounce - 0,99\u20ac",
+          "option_text": "Bounce - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -194,5 +196,9 @@
     "url": "",
     "email": "mikhail.mel17@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/827920/page_bg_generated_v6b.jpg?t=1522675308"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/827920/page_bg_generated_v6b.jpg?t=1522675308",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

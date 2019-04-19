@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     60094
@@ -128,8 +130,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 149
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -139,5 +141,9 @@
     "url": "",
     "email": "kristopherathin@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/348380/page_bg_generated_v6b.jpg?t=1447368666"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/348380/page_bg_generated_v6b.jpg?t=1447368666",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

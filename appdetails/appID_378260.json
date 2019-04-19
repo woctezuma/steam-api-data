@@ -6,9 +6,9 @@
   "is_free": false,
   "detailed_description": "Fortify is a real-time strategy game with a tower defense twist. Defend your castle from attacking monsters and siege weapons by using ranged and melee defenders, catapults, cannons, oil fields and more. You start at the iron age, advancing to the medieval age,  and later, the imperial age. Each new age enables important upgrades and allows for new techniques to defend your castle.<br />\r\n<br />\r\nThe Steam Edition includes<br />\r\n- Two mission maps<br />\r\n- Multiplayer Player vs Player, tower defense style<br />\r\n- Arcade mode: How long can you survive the attacks?<br />\r\n- Real-time lighting and shadows<br />\r\n- Achievements<br />\r\n- Leaderboards<br />\r\nAnd more<br />\r\n<br />\r\nMultiplayer mode plays just like normal, but instead of having enemies attack automatically, every monster that attacks you has been sent by your opponent. In order to gain an advantage you must learn to balance attack and defense.",
   "about_the_game": "Fortify is a real-time strategy game with a tower defense twist. Defend your castle from attacking monsters and siege weapons by using ranged and melee defenders, catapults, cannons, oil fields and more. You start at the iron age, advancing to the medieval age,  and later, the imperial age. Each new age enables important upgrades and allows for new techniques to defend your castle.<br />\r\n<br />\r\nThe Steam Edition includes<br />\r\n- Two mission maps<br />\r\n- Multiplayer Player vs Player, tower defense style<br />\r\n- Arcade mode: How long can you survive the attacks?<br />\r\n- Real-time lighting and shadows<br />\r\n- Achievements<br />\r\n- Leaderboards<br />\r\nAnd more<br />\r\n<br />\r\nMultiplayer mode plays just like normal, but instead of having enemies attack automatically, every monster that attacks you has been sent by your opponent. In order to gain an advantage you must learn to balance attack and defense.",
-  "short_description": "Fortify is a real-time strategy game with a tower defense twist. Defend your castle from attacking monsters and siege weapons by using ranged and melee defenders, catapults, cannons, oil fields and more. You start at the iron age, advancing to the medieval age,  and later, the imperial age. Each new age enables important upgrades and allows for new techniques to defend your castle.",
+  "short_description": "Fortify is a real-time strategy game with a tower defense twist. Defend your castle from attacking monsters and siege weapons by using ranged and melee defenders, catapults, cannons, oil fields and more. You start at the iron age, advancing to the medieval age, and later, the imperial age.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201cFortify is in a league of its own when compared to the standard, more passive gameplay of other tower defense games.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://thenerdistheword.ca/index.php/2016/04/18/fortify-reviewed/\" target=\"_blank\" rel=\"noopener\"  >The Nerd Is The Word</a></a><br><br>\u201cThe great variety of attacking enemies keep you on your toes as you try and level up your units, build and manage resources.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://indiegraph.wordpress.com/2013/10/08/fortify-special-edition-review/\" target=\"_blank\" rel=\"noopener\"  >IndieGraph</a></a><br><br>\u201cOne day at 2:00 AM I woke up with a new idea on how to pass day 6 without dying. I got up and started playing.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.gamertico.com/2016/02/18/analisis-de-fortify-pc/\" target=\"_blank\" rel=\"noopener\"  >Gamertico</a></a><br>",
+  "reviews": "\u201cFortify is in a league of its own when compared to the standard, more passive gameplay of other tower defense games.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://thenerdistheword.ca/index.php/2016/04/18/fortify-reviewed/\" target=\"_blank\" rel=\"noopener\"  >The Nerd Is The Word</a><br><br>\u201cThe great variety of attacking enemies keep you on your toes as you try and level up your units, build and manage resources.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://indiegraph.wordpress.com/2013/10/08/fortify-special-edition-review/\" target=\"_blank\" rel=\"noopener\"  >IndieGraph</a><br><br>\u201cOne day at 2:00 AM I woke up with a new idea on how to pass day 6 without dying. I got up and started playing.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.gamertico.com/2016/02/18/analisis-de-fortify-pc/\" target=\"_blank\" rel=\"noopener\"  >Gamertico</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/378260/header.jpg?t=1490811022",
   "website": null,
   "pc_requirements": {
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 99,
-    "discount_percent": 80
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     70290
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 70290,
-          "percent_savings_text": "-80%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Fortify - <span class=\"discount_original_price\">4,99\u20ac</span> 0,99\u20ac",
+          "option_text": "Fortify - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -292,5 +294,9 @@
     "url": "http://holgerssonentertainment.com/contact/contact.html",
     "email": "contact@holgerssonentertainment.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/378260/page_bg_generated_v6b.jpg?t=1490811022"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/378260/page_bg_generated_v6b.jpg?t=1490811022",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

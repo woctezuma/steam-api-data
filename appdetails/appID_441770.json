@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1999,
-    "final": 1999,
-    "discount_percent": 0
+    "final": 1099,
+    "discount_percent": 45,
+    "initial_formatted": "19,99\u20ac",
+    "final_formatted": "10,99\u20ac"
   },
   "packages": [
     93583
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 93583,
-          "percent_savings_text": "",
+          "percent_savings_text": "-45%",
           "percent_savings": 0,
-          "option_text": "MindTex 2 - 19,99\u20ac",
+          "option_text": "MindTex 2 - <span class=\"discount_original_price\">19,99\u20ac</span> 10,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1999
+          "price_in_cents_with_discount": 1099
         }
       ]
     }
@@ -121,6 +123,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Feb, 2016"
@@ -129,5 +134,9 @@
     "url": "",
     "email": "support@frozenflamecorp.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/441770/page_bg_generated_v6b.jpg?t=1456137695"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/441770/page_bg_generated_v6b.jpg?t=1456137695",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 99,
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     110174
@@ -46,11 +48,11 @@
           "packageid": 110174,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Hover 2030 - 1,99\u20ac",
+          "option_text": "Hover 2030 - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -138,5 +140,9 @@
     "url": "http://russpuppy.com/contact",
     "email": "info@russpuppy.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/488580/page_bg_generated_v6b.jpg?t=1467047062"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/488580/page_bg_generated_v6b.jpg?t=1467047062",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

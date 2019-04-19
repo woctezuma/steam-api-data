@@ -1,6 +1,6 @@
 {
   "type": "dlc",
-  "name": "Seven: The Days Long Gone - Original Soundtrack",
+  "name": "Seven: Enhanced Edition - Original Soundtrack",
   "steam_appid": 744870,
   "required_age": 0,
   "is_free": false,
@@ -9,10 +9,10 @@
   "short_description": "Digital Soundtrack - captivating music by The Witcher 3: Wild Hunt composer, Marcin Przyby\u0142owicz featuring Arkadiusz Reikowski, Jacek Paciorkowski &amp; Miracle of Sound.",
   "fullgame": {
     "appid": "471010",
-    "name": "Seven: The Days Long Gone"
+    "name": "Seven: Enhanced Edition"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/744870/header.jpg?t=1512115387",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/744870/header.jpg?t=1553600058",
   "website": "http://seven-game.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows 7/8.1/10 (64-bit versions)<br></li><li><strong>Processor:</strong> Intel Core i5-2400, AMD FX-8320<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 660 2GB, AMD Radeon 7850 2GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     218518
@@ -40,7 +42,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Seven: The Days Long Gone - Original Soundtrack",
+      "title": "Buy Seven: Enhanced Edition - Original Soundtrack",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -51,7 +53,7 @@
           "packageid": 218518,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Seven: The Days Long Gone - Original Soundtrack - 9,99\u20ac",
+          "option_text": "Seven: Enhanced Edition - Original Soundtrack - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -92,10 +94,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/744870/ss_055afa29c71f9d51c848fa378167419747b0e319.600x338.jpg?t=1512115387",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/744870/ss_055afa29c71f9d51c848fa378167419747b0e319.1920x1080.jpg?t=1512115387"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/744870/ss_055afa29c71f9d51c848fa378167419747b0e319.600x338.jpg?t=1553600058",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/744870/ss_055afa29c71f9d51c848fa378167419747b0e319.1920x1080.jpg?t=1553600058"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Dec, 2017"
@@ -104,5 +109,9 @@
     "url": "",
     "email": "support@imgn.pro"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/744870/page_bg_generated_v6b.jpg?t=1512115387"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/744870/page_bg_generated_v6b.jpg?t=1553600058",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

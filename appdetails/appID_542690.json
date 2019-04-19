@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Mahsung Deluxe</strong> is a unique blend of mahjong, concentration and puzzle solving cleverly combined into a single great game with 50 mind-bending challenges. Your task is to remove all tiles from the board by pairing up similar tiles.  Tile matches are only possible if a line can interconnect both tiles using no more than 3 segments (2 corners). A straight line can remove neighboring tiles that match. Wall-tiles are obstacles and part of the environment. On trickier levels, some tile images are hidden behind a \u201c?\u201d symbol and needs to be flipped and memorized for a correct match.",
   "about_the_game": "<strong>Mahsung Deluxe</strong> is a unique blend of mahjong, concentration and puzzle solving cleverly combined into a single great game with 50 mind-bending challenges. Your task is to remove all tiles from the board by pairing up similar tiles.  Tile matches are only possible if a line can interconnect both tiles using no more than 3 segments (2 corners). A straight line can remove neighboring tiles that match. Wall-tiles are obstacles and part of the environment. On trickier levels, some tile images are hidden behind a \u201c?\u201d symbol and needs to be flipped and memorized for a correct match.",
-  "short_description": "<strong>Mahsung Deluxe</strong> is a unique blend of mahjong, concentration and puzzle solving cleverly combined into a single great game with 50 mind-bending challenges.",
+  "short_description": "Mahsung Deluxe is a unique blend of mahjong, concentration and puzzle solving cleverly combined into a single great game with 50 mind-bending challenges.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/542690/header.jpg?t=1478753945",
   "website": "http://www.ensenasoft.com",
@@ -25,12 +25,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
-    133553
+    133553,
+    269953
   ],
   "package_groups": [
     {
@@ -46,11 +49,21 @@
           "packageid": 133553,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Mahsung Deluxe - 1,99\u20ac",
+          "option_text": "Mahsung Deluxe - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 79
+        },
+        {
+          "packageid": 269953,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Mahsung Deluxe - Commercial License - 1,59\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -116,6 +129,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Oct, 2016"
@@ -124,5 +140,9 @@
     "url": "http://www.ensenasoft.com",
     "email": "support@ensenasoft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/542690/page_bg_generated_v6b.jpg?t=1478753945"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/542690/page_bg_generated_v6b.jpg?t=1478753945",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

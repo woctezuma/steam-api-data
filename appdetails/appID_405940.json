@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     79838
@@ -102,5 +104,9 @@
     "url": "http://sapphiredragonproductions.com/",
     "email": "admin@sapphiredragonproductions.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/405940/page_bg_generated_v6b.jpg?t=1447378238"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/405940/page_bg_generated_v6b.jpg?t=1447378238",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

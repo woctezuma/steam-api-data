@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "7 additional, historical Tractor models for Professional Farmer 2014:<br><br><ul class=\"bb_ul\"><li>Friend 15F<br></li><li>Torino Mk. 25<br></li><li>Rainman Model 3<br></li><li>Brownman 88<br></li><li>Friend Bauer <br></li><li>Oliveman Mk. 5<br></li><li>FarmMaster 6x1</li></ul>",
   "about_the_game": "7 additional, historical Tractor models for Professional Farmer 2014:<br><br><ul class=\"bb_ul\"><li>Friend 15F<br></li><li>Torino Mk. 25<br></li><li>Rainman Model 3<br></li><li>Brownman 88<br></li><li>Friend Bauer <br></li><li>Oliveman Mk. 5<br></li><li>FarmMaster 6x1</li></ul>",
-  "short_description": "",
+  "short_description": "7 additional, historical Tractor models for Professional Farmer 2014:Friend 15FTorino Mk. 25Rainman Model 3Brownman 88Friend Bauer Oliveman Mk.",
   "fullgame": {
     "appid": "258880",
     "name": "Professional Farmer 2014"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Polish, Russian, Dutch",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Polish, Russian, Dutch",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/264830/header.jpg?t=1447359478",
   "website": "http://www.professional-farmer.com/",
   "pc_requirements": {
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "final": 59,
+    "discount_percent": 70,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "0,59\u20ac"
   },
   "packages": [
     34405,
@@ -49,23 +51,23 @@
       "subs": [
         {
           "packageid": 34405,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Good Ol\u2019 Times - 1,99\u20ac",
+          "option_text": "Good Ol\u2019 Times - <span class=\"discount_original_price\">1,99\u20ac</span> 0,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 59
         },
         {
           "packageid": 42344,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Professional Farmer 2014 Platinum Edition - 19,99\u20ac",
+          "option_text": "Professional Farmer 2014 Platinum Edition - <span class=\"discount_original_price\">19,99\u20ac</span> 5,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1999
+          "price_in_cents_with_discount": 599
         }
       ]
     }
@@ -138,6 +140,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/264830/ss_377f10808a82776272e12c5322d6fb4edb909760.1920x1080.jpg?t=1447359478"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Dec, 2013"
@@ -146,5 +151,9 @@
     "url": "http://www.professional-farmer.com/",
     "email": "support@uieg.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/264830/page_bg_generated_v6b.jpg?t=1447359478"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/264830/page_bg_generated_v6b.jpg?t=1447359478",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

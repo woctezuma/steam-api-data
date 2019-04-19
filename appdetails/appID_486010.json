@@ -7,13 +7,13 @@
   "controller_support": "full",
   "detailed_description": "Add a set containing a new blade, scabbard, and ODM gear to the Equipment Supply Station. <br />\r\nAdd a little flavor to the battlefield by using a new weapon designed with a Christmas's motif. <br />\r\n<br />\r\n*Weapon All Set which contains all 4 weapon sets will be released for a special price in December.<br />\r\n<br />\r\n* The images are from an in-development build and may differ from the final version.",
   "about_the_game": "Add a set containing a new blade, scabbard, and ODM gear to the Equipment Supply Station. <br />\r\nAdd a little flavor to the battlefield by using a new weapon designed with a Christmas's motif. <br />\r\n<br />\r\n*Weapon All Set which contains all 4 weapon sets will be released for a special price in December.<br />\r\n<br />\r\n* The images are from an in-development build and may differ from the final version.",
-  "short_description": "Add a set containing a new blade, scabbard, and ODM gear to the Equipment Supply Station. <br />\r\nAdd a little flavor to the battlefield by using a new weapon designed with a Christmas's motif. <br />\r\n<br />\r\n*Weapon All Set which contains all 4 weapon sets will be released for a special price in December.",
+  "short_description": "Add a set containing a new blade, scabbard, and ODM gear to the Equipment Supply Station. Add a little flavor to the battlefield by using a new weapon designed with a Christmas's motif. *Weapon All Set which contains all 4 weapon sets will be released for a special price in December.",
   "fullgame": {
     "appid": "449800",
     "name": "Attack on Titan / A.O.T. Wings of Freedom"
   },
   "supported_languages": "English, French, German, Traditional Chinese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/486010/header.jpg?t=1484188373",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/486010/header.jpg?t=1550183137",
   "website": "http://www.koeitecmoamerica.com/attackontitan/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae 7, Windows\u00ae 8.1, Windows\u00ae 10<br></li><li><strong>Processor:</strong> Core i7 870 2.8GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Geforce GTS 450<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 25 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c over<br></li><li><strong>Additional Notes:</strong> Pixel Shader 3.0 over 3D Accelerator chip , VRAM 1GB over</li></ul>",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     109365
@@ -100,15 +102,18 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/486010/ss_19102ece95e0bf4caf5a610438c3e97c3467eed6.600x338.jpg?t=1484188373",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/486010/ss_19102ece95e0bf4caf5a610438c3e97c3467eed6.1920x1080.jpg?t=1484188373"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/486010/ss_19102ece95e0bf4caf5a610438c3e97c3467eed6.600x338.jpg?t=1550183137",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/486010/ss_19102ece95e0bf4caf5a610438c3e97c3467eed6.1920x1080.jpg?t=1550183137"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/486010/ss_db575d441009cfcd98f0b872d60009fb7a2d0d06.600x338.jpg?t=1484188373",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/486010/ss_db575d441009cfcd98f0b872d60009fb7a2d0d06.1920x1080.jpg?t=1484188373"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/486010/ss_db575d441009cfcd98f0b872d60009fb7a2d0d06.600x338.jpg?t=1550183137",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/486010/ss_db575d441009cfcd98f0b872d60009fb7a2d0d06.1920x1080.jpg?t=1550183137"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Nov, 2016"
@@ -117,5 +122,9 @@
     "url": "http://www.koeitecmoamerica.com/support/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/486010/page_bg_generated_v6b.jpg?t=1484188373"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/486010/page_bg_generated_v6b.jpg?t=1550183137",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

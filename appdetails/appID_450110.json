@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     96638
@@ -170,9 +172,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 105
-  },
   "achievements": {
     "total": 15,
     "highlighted": [
@@ -226,5 +225,9 @@
     "url": "http://www.novavirtualreality.com/",
     "email": "novavrvideos@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/450110/page_bg_generated_v6b.jpg?t=1459206609"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/450110/page_bg_generated_v6b.jpg?t=1459206609",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

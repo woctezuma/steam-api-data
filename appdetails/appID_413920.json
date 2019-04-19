@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>This is a 57 minute live demo, painting Jubal. The tutorial includes the Photoshop Brushes and Tool presets.\r\n\r\nI talk about subtle ways to render anatomy, about how to take your time, and having fun with your own art.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>This is a 57 minute live demo, painting Jubal. The tutorial includes the Photoshop Brushes and Tool presets.\r\n\r\nI talk about subtle ways to render anatomy, about how to take your time, and having fun with your own art.",
   "about_the_game": "This is a 57 minute live demo, painting Jubal. The tutorial includes the Photoshop Brushes and Tool presets.<br />\r\n<br />\r\nI talk about subtle ways to render anatomy, about how to take your time, and having fun with your own art.",
   "short_description": "This is a 57 minute live demo, painting Jubal, by Anthony Jones",
   "fullgame": {
@@ -37,10 +37,12 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
-    "83013"
+    83013
   ],
   "package_groups": [
     {
@@ -53,7 +55,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "83013",
+          "packageid": 83013,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Robotpencil Presents: Character Design - Jubal - 5,99\u20ac",
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Nov, 2015"
@@ -127,5 +132,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413920/page_bg_generated_v6b.jpg?t=1447360992"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413920/page_bg_generated_v6b.jpg?t=1447360992",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

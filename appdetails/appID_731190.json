@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 799,
-    "final": 599,
-    "discount_percent": 25
+    "final": 799,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     213302
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 213302,
-          "percent_savings_text": "-25%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Loud or Quiet - <span class=\"discount_original_price\">7,99\u20ac</span> 5,99\u20ac",
+          "option_text": "Loud or Quiet - 7,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 799
         }
       ]
     }
@@ -226,5 +228,9 @@
     "url": "",
     "email": "unit02games@outlook.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/731190/page_bg_generated_v6b.jpg?t=1511179269"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/731190/page_bg_generated_v6b.jpg?t=1511179269",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

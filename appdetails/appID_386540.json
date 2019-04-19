@@ -11,7 +11,7 @@
   "detailed_description": "<h1>Feature List</h1><p><ul class=\"bb_ul\"><li>action-loaded top down shooter<br></li><li>command a team of special units for strategic gameplay<br></li><li>a wide range of weapon types and special items to unlock for missions<br></li><li>countless different merciless enemy robots<br></li><li>20 missions on different planets with a variety of environments (biomes)<br></li><li>and even in space!</li></ul></p><br><h1>About the Game</h1>AI Invasion is an action-loaded strategic top-down shooter in a futuristic setting. The superior machines subjugated the universe. In a wide range of missions you takes the role of a soldier to defend bases, escort convoys through enemy territory and reclaim occupied outposts. <br><br>But you don't fight alone. You have to equip and command a team of special units to achieve your ultimate goal:  The reclamation of the planet system.",
   "about_the_game": "AI Invasion is an action-loaded strategic top-down shooter in a futuristic setting. The superior machines subjugated the universe. In a wide range of missions you takes the role of a soldier to defend bases, escort convoys through enemy territory and reclaim occupied outposts. <br />\r\n<br />\r\nBut you don't fight alone. You have to equip and command a team of special units to achieve your ultimate goal:  The reclamation of the planet system.",
   "short_description": "A.I. Invasion is an action-loaded top-down-shooter in a futuristic setting. The superior machines subjugated the universe. In a wide range of missions you take the role of a soldier and equip and command a team of special units to reclaim the planet system.",
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, Italian<strong>*</strong>, French<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, Italian<strong>*</strong>, French<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/386540/header.jpg?t=1447430027",
   "website": "http://www.ai-invasion.com/",
   "pc_requirements": {
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 299,
+    "discount_percent": 70,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     72962
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 72962,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "A.I. Invasion - 9,99\u20ac",
+          "option_text": "A.I. Invasion - <span class=\"discount_original_price\">9,99\u20ac</span> 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -292,5 +294,9 @@
     "url": "http://www.ai-invasion.com",
     "email": "support.en@ai-invasion.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/386540/page_bg_generated_v6b.jpg?t=1447430027"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/386540/page_bg_generated_v6b.jpg?t=1447430027",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

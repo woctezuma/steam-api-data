@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     63146
@@ -103,6 +105,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/356831/ss_bb540f1f57234b5617ab4e9e42c24079e078776b.1920x1080.jpg?t=1515405227"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Sep, 2017"
@@ -111,5 +116,9 @@
     "url": "http://gearsforbreakfast.com/",
     "email": "support@gearsforbreakfast.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/356831/page_bg_generated_v6b.jpg?t=1515405227"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/356831/page_bg_generated_v6b.jpg?t=1515405227",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

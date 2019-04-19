@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Welcome to CloudBound, the first indie title to be released by Silicon Storm! We've had a lot of fun making this game, and we're excited to hear what people think! If you have any comments, questions, or suggestions for what you'd like to see in CloudBound, please let us know! <br><br><strong>A Virtual Reality Grappling Hook!</strong> <br><br>CloudBound is a VR platformer where the player uses a Grappling Hook gun to swing, climb, and fling their way to the top of each level. Using our DFoV System (&quot;Dynamic Field of View&quot;) we've managed to dramatically reduce simulation sickness to the point that users can move comfortably at high speeds! Don't take our word for it, let us know what you think! <br><br>This game is currently planned for Early Access, as we have many more additions currently in production; new levels, hazards, mechanics, graphics updates, and story elements will all make their into the game with each update.",
   "about_the_game": "Welcome to CloudBound, the first indie title to be released by Silicon Storm! We've had a lot of fun making this game, and we're excited to hear what people think! If you have any comments, questions, or suggestions for what you'd like to see in CloudBound, please let us know! <br><br><strong>A Virtual Reality Grappling Hook!</strong> <br><br>CloudBound is a VR platformer where the player uses a Grappling Hook gun to swing, climb, and fling their way to the top of each level. Using our DFoV System (&quot;Dynamic Field of View&quot;) we've managed to dramatically reduce simulation sickness to the point that users can move comfortably at high speeds! Don't take our word for it, let us know what you think! <br><br>This game is currently planned for Early Access, as we have many more additions currently in production; new levels, hazards, mechanics, graphics updates, and story elements will all make their into the game with each update.",
-  "short_description": "CloudBound is a VR platformer where the player uses a Grappling Hook gun to swing, climb, and fling their way to the top of each level. Using our DFoV System (&quot;Dynamic Field of View&quot;) we've managed to dramatically reduce simulation sickness to the point that users can move comfortably at high speeds! Don't take our word for it, let us know what you think!",
+  "short_description": "CloudBound is a VR platformer where the player uses a Grappling Hook gun to swing, climb, and fling their way to the top of each level. Using our DFoV System (&quot;Dynamic Field of View&quot;) we've managed to dramatically reduce simulation sickness to the point that users can move comfortably at high speeds!",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/526240/header.jpg?t=1484872148",
   "website": "http://www.cloudboundvr.com",
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     125953
@@ -136,6 +138,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Sep, 2016"
@@ -144,5 +149,9 @@
     "url": "http://www/siliconstorm.com",
     "email": "steamsupport@siliconstorm.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/526240/page_bg_generated_v6b.jpg?t=1484872148"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/526240/page_bg_generated_v6b.jpg?t=1484872148",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -32,10 +32,12 @@
     ""
   ],
   "price_overview": {
-    "currency": "SAR",
-    "initial": 3300,
-    "final": 3300,
-    "discount_percent": 0
+    "currency": "EUR",
+    "initial": 999,
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     103423
@@ -54,11 +56,11 @@
           "packageid": 103423,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Zombicide - 33.00 SR",
+          "option_text": "Zombicide - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 3300
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -177,6 +179,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/468726/ss_ee27d5452c22784b77f6c13fe9b286c68e12c083.1920x1080.jpg?t=1478647919"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Jun, 2016"
@@ -185,5 +190,9 @@
     "url": "http://www.berserk-games.com/forum",
     "email": "berserkgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/468726/page_bg_generated_v6b.jpg?t=1478647919"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/468726/page_bg_generated_v6b.jpg?t=1478647919",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

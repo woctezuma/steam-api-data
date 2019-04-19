@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     68453
@@ -170,6 +172,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Aug, 2015"
@@ -178,5 +183,9 @@
     "url": "http://ru.akella.com/Page.aspx?id=support",
     "email": "support@playhard.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/372560/page_bg_generated_v6b.jpg?t=1447374913"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/372560/page_bg_generated_v6b.jpg?t=1447374913",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

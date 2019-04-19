@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     115614
@@ -137,6 +139,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502830/ss_ff349e7472af2c70089c25925e073385a851f2e7.1920x1080.jpg?t=1478176696"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Jul, 2016"
@@ -145,5 +150,9 @@
     "url": "",
     "email": "showdownsupport@betadwarf.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502830/page_bg_generated_v6b.jpg?t=1478176696"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502830/page_bg_generated_v6b.jpg?t=1478176696",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,54 +11,23 @@
     "appid": "291480",
     "name": "Warface"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Polish<strong>*</strong>, Spanish<strong>*</strong>, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/616960/header.jpg?t=1501759591",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Polish<strong>*</strong>, Spanish - Spain<strong>*</strong>, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/616960/header.jpg?t=1548788031",
   "website": "https://wf.my.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8<br></li><li><strong>Processor:</strong> Intel Dual-Core 2 GHz or AMD Dual-Core 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8600 or AMD ATI Radeon 3650<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8, Windows 10<br></li><li><strong>Processor:</strong> Intel Dual-Core 2.6 GHz or AMD Dual-Core 2.6 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 9600GT or better, AMD Radeon 3870 or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> Intel Dual-Core 2 GHz or AMD Dual-Core 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8600 or AMD ATI Radeon 3650<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> Intel Dual-Core 2.6 GHz or AMD Dual-Core 2.6 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 9600GT or better, AMD Radeon 3870 or better<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "\u00a9 2017 Crytek GmbH ('Crytek'). Published by My.com B.V. All rights reserved. All trademarks are the property of their respective owners.",
+  "legal_notice": "\u00a9 2017-2018 Mail.Ru LLC. Published by My.com B.V. All rights reserved. All trademarks are the property of their respective owners.",
   "developers": [
-    "Crytek"
+    "My.com"
   ],
   "publishers": [
     "My.com"
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 3199,
-    "final": 3199,
-    "discount_percent": 0
-  },
-  "packages": [
-    165454
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy Warface - Crysis Male Nanosuit Pack",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 165454,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Warface - Crysis Male Nanosuit Pack - 31,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 3199
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -70,12 +39,20 @@
       "description": "Multi-player"
     },
     {
+      "id": 36,
+      "description": "Online Multi-Player"
+    },
+    {
       "id": 20,
       "description": "MMO"
     },
     {
       "id": 9,
       "description": "Co-op"
+    },
+    {
+      "id": 38,
+      "description": "Online Co-op"
     },
     {
       "id": 21,
@@ -111,70 +88,73 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_c289a45580bbfd4e4c9a471fd8eb48219066fd75.600x338.jpg?t=1501759591",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_c289a45580bbfd4e4c9a471fd8eb48219066fd75.1920x1080.jpg?t=1501759591"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_c289a45580bbfd4e4c9a471fd8eb48219066fd75.600x338.jpg?t=1548788031",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_c289a45580bbfd4e4c9a471fd8eb48219066fd75.1920x1080.jpg?t=1548788031"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_0694c5fd432cd2b4c352fee3fcdb4fa72ea5ca08.600x338.jpg?t=1501759591",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_0694c5fd432cd2b4c352fee3fcdb4fa72ea5ca08.1920x1080.jpg?t=1501759591"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_0694c5fd432cd2b4c352fee3fcdb4fa72ea5ca08.600x338.jpg?t=1548788031",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_0694c5fd432cd2b4c352fee3fcdb4fa72ea5ca08.1920x1080.jpg?t=1548788031"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_2f01d76c7489164e97f3aad459e9bab06b459bcd.600x338.jpg?t=1501759591",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_2f01d76c7489164e97f3aad459e9bab06b459bcd.1920x1080.jpg?t=1501759591"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_2f01d76c7489164e97f3aad459e9bab06b459bcd.600x338.jpg?t=1548788031",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_2f01d76c7489164e97f3aad459e9bab06b459bcd.1920x1080.jpg?t=1548788031"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_0141767541761b7e63e9d26884da7942ac8729e8.600x338.jpg?t=1501759591",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_0141767541761b7e63e9d26884da7942ac8729e8.1920x1080.jpg?t=1501759591"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_0141767541761b7e63e9d26884da7942ac8729e8.600x338.jpg?t=1548788031",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_0141767541761b7e63e9d26884da7942ac8729e8.1920x1080.jpg?t=1548788031"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_68208b069cc8169d163fd1b0c1adc42f67acdeb4.600x338.jpg?t=1501759591",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_68208b069cc8169d163fd1b0c1adc42f67acdeb4.1920x1080.jpg?t=1501759591"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_68208b069cc8169d163fd1b0c1adc42f67acdeb4.600x338.jpg?t=1548788031",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_68208b069cc8169d163fd1b0c1adc42f67acdeb4.1920x1080.jpg?t=1548788031"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_b678b7c98a358a2d7c00330cb2895149a01b2706.600x338.jpg?t=1501759591",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_b678b7c98a358a2d7c00330cb2895149a01b2706.1920x1080.jpg?t=1501759591"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_b678b7c98a358a2d7c00330cb2895149a01b2706.600x338.jpg?t=1548788031",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_b678b7c98a358a2d7c00330cb2895149a01b2706.1920x1080.jpg?t=1548788031"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_3cfdb099698e24beb0803eaf3e6e01ecd8cfba2a.600x338.jpg?t=1501759591",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_3cfdb099698e24beb0803eaf3e6e01ecd8cfba2a.1920x1080.jpg?t=1501759591"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_3cfdb099698e24beb0803eaf3e6e01ecd8cfba2a.600x338.jpg?t=1548788031",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_3cfdb099698e24beb0803eaf3e6e01ecd8cfba2a.1920x1080.jpg?t=1548788031"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_165686e30d632ac2eb3c349f88b6fe9faa359ed3.600x338.jpg?t=1501759591",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_165686e30d632ac2eb3c349f88b6fe9faa359ed3.1920x1080.jpg?t=1501759591"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_165686e30d632ac2eb3c349f88b6fe9faa359ed3.600x338.jpg?t=1548788031",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_165686e30d632ac2eb3c349f88b6fe9faa359ed3.1920x1080.jpg?t=1548788031"
     },
     {
       "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_fdac0777d91013153b9534f131b506df76d79056.600x338.jpg?t=1501759591",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_fdac0777d91013153b9534f131b506df76d79056.1920x1080.jpg?t=1501759591"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_fdac0777d91013153b9534f131b506df76d79056.600x338.jpg?t=1548788031",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_fdac0777d91013153b9534f131b506df76d79056.1920x1080.jpg?t=1548788031"
     },
     {
       "id": 9,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_9d155880afbffac216108b66623db74f669ffac0.600x338.jpg?t=1501759591",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_9d155880afbffac216108b66623db74f669ffac0.1920x1080.jpg?t=1501759591"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_9d155880afbffac216108b66623db74f669ffac0.600x338.jpg?t=1548788031",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_9d155880afbffac216108b66623db74f669ffac0.1920x1080.jpg?t=1548788031"
     },
     {
       "id": 10,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_8efa9f77ddaac99df8dfc5c0d47a2f0b3a7b4300.600x338.jpg?t=1501759591",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_8efa9f77ddaac99df8dfc5c0d47a2f0b3a7b4300.1920x1080.jpg?t=1501759591"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_8efa9f77ddaac99df8dfc5c0d47a2f0b3a7b4300.600x338.jpg?t=1548788031",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_8efa9f77ddaac99df8dfc5c0d47a2f0b3a7b4300.1920x1080.jpg?t=1548788031"
     },
     {
       "id": 11,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_59c8441c021adf0ffd2c3d7d705a83597d0342df.600x338.jpg?t=1501759591",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_59c8441c021adf0ffd2c3d7d705a83597d0342df.1920x1080.jpg?t=1501759591"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_59c8441c021adf0ffd2c3d7d705a83597d0342df.600x338.jpg?t=1548788031",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_59c8441c021adf0ffd2c3d7d705a83597d0342df.1920x1080.jpg?t=1548788031"
     },
     {
       "id": 12,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_8b742115e319d9a010573df47998f2fb9bebc046.600x338.jpg?t=1501759591",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_8b742115e319d9a010573df47998f2fb9bebc046.1920x1080.jpg?t=1501759591"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_8b742115e319d9a010573df47998f2fb9bebc046.600x338.jpg?t=1548788031",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616960/ss_8b742115e319d9a010573df47998f2fb9bebc046.1920x1080.jpg?t=1548788031"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Apr, 2017"
@@ -183,5 +163,9 @@
     "url": "http://support.my.com/games/kb/WF",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/616960/page_bg_generated_v6b.jpg?t=1501759591"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/616960/page_bg_generated_v6b.jpg?t=1548788031",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -34,9 +34,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     206266
@@ -55,11 +57,11 @@
           "packageid": 206266,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Duped - 3,99\u20ac",
+          "option_text": "Duped - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -133,6 +135,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Sep, 2017"
@@ -141,5 +146,9 @@
     "url": "https://twitter.com/nomossstudios",
     "email": "reuben+dupedsupport@nomoss.co"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/712760/page_bg_generated_v6b.jpg?t=1506815017"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/712760/page_bg_generated_v6b.jpg?t=1506815017",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

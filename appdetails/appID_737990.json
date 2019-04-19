@@ -12,7 +12,7 @@
     "appid": "438740",
     "name": "Friday the 13th: The Game"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/737990/header.jpg?t=1509065589",
   "website": "http://www.f13game.com",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     215770
@@ -137,6 +139,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/737990/ss_5c4fa8fc5636a6533646b79052c88d6a80576914.1920x1080.jpg?t=1509065589"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Oct, 2017"
@@ -145,5 +150,9 @@
     "url": "www.jasonkillsbugs.com",
     "email": "f13game@fearthegun.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/737990/page_bg_generated_v6b.jpg?t=1509065589"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/737990/page_bg_generated_v6b.jpg?t=1509065589",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

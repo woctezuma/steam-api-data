@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     144897
@@ -108,13 +110,11 @@
       "id": 0,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/570930/ss_6ecb70073953e6539315c1dca998253dcf7f22f0.600x338.jpg?t=1511191769",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/570930/ss_6ecb70073953e6539315c1dca998253dcf7f22f0.1920x1080.jpg?t=1511191769"
-    },
-    {
-      "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/570930/?t=1511191769",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/570930/?t=1511191769"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Dec, 2016"
@@ -123,5 +123,9 @@
     "url": "http://34bigthings.com/press/sheet.php?p=redout",
     "email": "info@34bigthings.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/570930/page_bg_generated_v6b.jpg?t=1511191769"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/570930/page_bg_generated_v6b.jpg?t=1511191769",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

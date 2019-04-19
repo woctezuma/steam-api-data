@@ -11,12 +11,12 @@
     "appid": "545110",
     "name": "Driver Booster 4 for Steam"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Danish, Russian, Bulgarian, Hungarian, Turkish, Greek, Czech, Japanese, Polish, Thai, Swedish, Romanian, Finnish, Dutch, Portuguese, Portuguese-Brazil, Korean, Ukrainian, Norwegian, Simplified Chinese, Traditional Chinese, Arabic",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Danish, Russian, Bulgarian, Hungarian, Turkish, Greek, Czech, Japanese, Polish, Thai, Swedish, Romanian, Finnish, Dutch, Portuguese, Portuguese - Brazil, Korean, Ukrainian, Norwegian, Simplified Chinese, Traditional Chinese, Arabic",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/546360/header.jpg?t=1478575676",
   "website": "http://www.iobit.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, Windows 8/8.1, Windows 7, Windows XP, Vista<br></li><li><strong>Processor:</strong> 1 GHz processor or faster<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, Windows 8/8.1, Windows 7, Windows XP, Vista<br></li><li><strong>Processor:</strong> 2 GHz processor or faster<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+    "minimum": "<strong>M\u00ednimos:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10, Windows 8/8.1, Windows 7, Windows XP, Vista<br></li><li><strong>Processador:</strong> 1 GHz processor or faster<br></li><li><strong>Mem\u00f3ria:</strong> 512 MB de RAM<br></li><li><strong>Rede:</strong> Conex\u00e3o de internet banda larga<br></li><li><strong>Armazenamento:</strong> 500 MB de espa\u00e7o dispon\u00edvel</li></ul>",
+    "recommended": "<strong>Recomendados:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 10, Windows 8/8.1, Windows 7, Windows XP, Vista<br></li><li><strong>Processador:</strong> 2 GHz processor or faster<br></li><li><strong>Mem\u00f3ria:</strong> 1024 MB de RAM<br></li><li><strong>Rede:</strong> Conex\u00e3o de internet banda larga<br></li><li><strong>Armazenamento:</strong> 10 GB de espa\u00e7o dispon\u00edvel</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 2799,
     "final": 2799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "27,99\u20ac"
   },
   "packages": [
     134775
@@ -147,5 +149,9 @@
     "url": "http://www.iobit.com",
     "email": "http://www.iobit.com/en/onlinefeedback.php"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/546360/page_bg_generated_v6b.jpg?t=1478575676"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/546360/page_bg_generated_v6b.jpg?t=1478575676",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     64709
@@ -99,6 +101,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/361440/ss_93d6eaaf70b330053539b6a6ab8b345169f7bcd7.1920x1080.jpg?t=1469247241"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Apr, 2015"
@@ -107,5 +112,9 @@
     "url": "http://primalcarnageforums.com/",
     "email": "support@circle5studios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/361440/page_bg_generated_v6b.jpg?t=1469247241"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/361440/page_bg_generated_v6b.jpg?t=1469247241",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -16,8 +16,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/476868/header.jpg?t=1467748634",
   "website": "http://ideafintl.com/nep-v2/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel i5 2.3 GHz or comparable<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 650 or comparable<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 17 GB available space<br></li><li><strong>Sound Card:</strong> Windows compatible sound card<br></li><li><strong>Additional Notes:</strong> Shader v5 or newer</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i5 3.3 GHz or comparable<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 960 or comparable<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 17 GB available space<br></li><li><strong>Sound Card:</strong> Windows compatible sound card<br></li><li><strong>Additional Notes:</strong> Shader v5 or newer</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Windows 7<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> Intel i5 2.3 GHz or comparable<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 6 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> NVIDIA GeForce GTX 650 or comparable<br></li><li><strong>DirectX:</strong> \u0412\u0435\u0440\u0441\u0438\u0438 11<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 17 GB<br></li><li><strong>\u0417\u0432\u0443\u043a\u043e\u0432\u0430\u044f \u043a\u0430\u0440\u0442\u0430:</strong> Windows compatible sound card<br></li><li><strong>\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e:</strong> Shader v5 or newer</li></ul>",
+    "recommended": "<strong>\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Windows 10<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> Intel i5 3.3 GHz or comparable<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 8 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> NVIDIA GeForce GTX 960 or comparable<br></li><li><strong>DirectX:</strong> \u0412\u0435\u0440\u0441\u0438\u0438 11<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 17 GB<br></li><li><strong>\u0417\u0432\u0443\u043a\u043e\u0432\u0430\u044f \u043a\u0430\u0440\u0442\u0430:</strong> Windows compatible sound card<br></li><li><strong>\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e:</strong> Shader v5 or newer</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -32,8 +32,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 79,
+    "discount_percent": 20,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     106228
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 106228,
-          "percent_savings_text": "",
+          "percent_savings_text": "-20%",
           "percent_savings": 0,
-          "option_text": "Megadimension Neptunia VII Party Character [Nepgya] - 0,99\u20ac",
+          "option_text": "Megadimension Neptunia VII Party Character [Nepgya] - <span class=\"discount_original_price\">0,99\u20ac</span> 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -114,6 +116,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/476868/ss_2d453c1026a3c084f3beb9e02dda536e4a8f64b2.1920x1080.jpg?t=1467748634"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jul, 2016"
@@ -122,5 +127,9 @@
     "url": "http://ideafintl.com/contact.php",
     "email": "pcsupport@ideafintl.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/476868/page_bg_generated_v6b.jpg?t=1467748634"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/476868/page_bg_generated_v6b.jpg?t=1467748634",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

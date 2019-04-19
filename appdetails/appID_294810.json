@@ -12,7 +12,7 @@
   "about_the_game": "The second entry in the critically acclaimed BlazBlue franchise, BlazBlue: Continuum Shift Extend adds a number of game play modes, story scenarios, new moves, and an all-new playable character to further enhance the BlazBlue experience and solidify its status as one of the all-time great 2D fighters.<br><i></i><br><strong>Story</strong><br>Several years after the end of the Second War, multiple branches of the Librarium reputed to command a force as powerful as an entire nation\u2019s army were suddenly and utterly destroyed. Inexplicably, the hidden cauldrons within each branch were also completely decimated. The few survivors spoke in hushed, shaken tones of a single man who had<br>appeared out of nowhere, cutting down all in his path.<br><i></i><br><strong>Main Game Features</strong><br><ul class=\"bb_ul\"><li>Expanded Character Roster: In addition to the downloadable characters offered for the previous entry in the series (Makoto, Valkenhyn, and Platinum the Trinity), EXTEND introduces Relius Clover, the mad puppeteer and Carl's father, as a playable character. Master a whole new way of fighting with Relius as he uses his marionette, Ignis, to turn the tide of battle.<br></li><li>Enhanced Story Mode: Relive and rediscover the events that took place in BlazBlue: Calamity Trigger or venture forth into one of four all new story scenarios!<br></li><li>New and Revised Game Modes: Take on the strongest of foes in Unlimited Mars Mode or fight your way to the bottom of Abyss Mode!<br></li><li>Fully Revised Combat System: All characters, new and old, have been thoroughly rebalanced and armed with all new strategies and combos to take your game to the top!<br></li><li>Improved Online Multiplayer: Battle it out in BlazBlue\u2019s acclaimed online mode with all new multiplayer features, such as online team battles!</li></ul>",
   "short_description": "The second entry in the critically acclaimed BlazBlue franchise, BlazBlue: Continuum Shift Extend adds a number of game play modes, story scenarios, new moves, and an all-new playable character to further enhance the BlazBlue experience and solidify its status as one of the all-time great 2D fighters.",
   "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong>, Korean, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201c&quot;...BlazBlue has it all: awesome characters, stunning backgrounds, sweet music, tons of unlockables and -- most importantly -- enjoyable fighting...&quot;\u201d<br>85 \u2013 <a href=\"http://www.ign.com/articles/2012/02/14/blazblue-continuum-shift-extend-review\" target=\"_blank\" rel=\"noreferrer\"  >IGN</a></a><br><br>\u201c&quot;...Blazblue: Continuum Shift Extend offers a comprehensive and satisfying package...&quot;\u201d<br>\u2605\u2605\u2605\u2605\u2606 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.joystiq.com/2012/02/27/blazblue-continuum-shift-extend-review/\" target=\"_blank\" rel=\"noopener\"  >Joystiq</a></a><br>",
+  "reviews": "\u201c&quot;...BlazBlue has it all: awesome characters, stunning backgrounds, sweet music, tons of unlockables and -- most importantly -- enjoyable fighting...&quot;\u201d<br>85 \u2013 <a href=\"http://www.ign.com/articles/2012/02/14/blazblue-continuum-shift-extend-review\" target=\"_blank\" rel=\"noreferrer\"  >IGN</a><br><br>\u201c&quot;...Blazblue: Continuum Shift Extend offers a comprehensive and satisfying package...&quot;\u201d<br>\u2605\u2605\u2605\u2605\u2606 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.joystiq.com/2012/02/27/blazblue-continuum-shift-extend-review/\" target=\"_blank\" rel=\"noopener\"  >Joystiq</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/294810/header.jpg?t=1447361329",
   "website": "http://arcsystemworksu.com/",
   "pc_requirements": {
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1999,
-    "final": 1999,
-    "discount_percent": 0
+    "final": 299,
+    "discount_percent": 85,
+    "initial_formatted": "19,99\u20ac",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     41910,
@@ -50,23 +52,23 @@
       "subs": [
         {
           "packageid": 41910,
-          "percent_savings_text": "",
+          "percent_savings_text": "-85%",
           "percent_savings": 0,
-          "option_text": "BlazBlue: Continuum Shift Extend - 19,99\u20ac",
+          "option_text": "BlazBlue: Continuum Shift Extend - <span class=\"discount_original_price\">19,99\u20ac</span> 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1999
+          "price_in_cents_with_discount": 299
         },
         {
           "packageid": 34131,
-          "percent_savings_text": "",
+          "percent_savings_text": "-85%",
           "percent_savings": 0,
-          "option_text": "BlazBlue: Calamity Trigger - 8,99\u20ac",
+          "option_text": "BlazBlue: Calamity Trigger - <span class=\"discount_original_price\">8,99\u20ac</span> 1,34\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 899
+          "price_in_cents_with_discount": 134
         }
       ]
     }
@@ -227,7 +229,7 @@
     }
   ],
   "recommendations": {
-    "total": 996
+    "total": 798
   },
   "achievements": {
     "total": 50,
@@ -282,5 +284,9 @@
     "url": "http://h2games.co.kr/eng/",
     "email": "support@h2interactive.co.kr"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/294810/page_bg_generated_v6b.jpg?t=1447361329"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/294810/page_bg_generated_v6b.jpg?t=1447361329",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

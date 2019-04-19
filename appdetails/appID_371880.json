@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     68209
@@ -217,5 +219,9 @@
     "url": "www.binarycocoa.com",
     "email": "joseph@binarycocoa.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/371880/page_bg_generated_v6b.jpg?t=1458674198"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/371880/page_bg_generated_v6b.jpg?t=1458674198",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<strong>*NOTE* This pack is available in the in-game store under the Marketplace tab.  You are strongly recommended to find the product there and make your purchase from within the game.</strong><br><br>This pack contains a number of scenic assets that you can add to your own route creations in order to add more detail and variety.<br><br>List of items included:<br><br><ul class=\"bb_ul\"><li>MP02 Bench01<br></li><li>MP02 Bench02<br></li><li>MP02 Bin01<br></li><li>MP02 Bin02<br></li><li>MP02 Bollard01<br></li><li>MP02 Bollard02<br></li><li>MP02 BrickPlanter<br></li><li>MP02 TownSet01<br></li><li>MP02 TownSet02<br></li><li>MP02 TownSet03<br></li><li>MP02 TownSet04<br></li><li>MP02 TownSet05<br></li><li>MP02 TownSet06<br></li><li>MP02 TownSet07<br></li><li>MP02 TownSet08<br></li><li>MP02 TownSet09<br></li><li>MP02 TownSet10<br></li><li>MP02 TownSet11<br></li><li>MP02 TownSetBingo<br></li><li>MP02 TownSetPub<br></li><li>MP02 BusShelter01<br></li><li>MP02 BusShelter02<br></li><li>MP02 BusTimeTable<br></li><li>MP02 Concrete Tile<br></li><li>MP02 Fence<br></li><li>MP02 FishandChipsSign<br></li><li>MP02 ForSaleSign<br></li><li>MP02 PostBox01<br></li><li>MP02 StreetLight01<br></li><li>MP02 StreetLight02<br></li><li>MP02 Town Path<br></li><li>MP02 TrafficLight01<br></li><li>MP02 Trolley<br></li><li>MP02 TrolleyPark<br></li><li>MP02 Wall Brick<br></li><li>MP02 Wall Concrete</li></ul>",
   "about_the_game": "<strong>*NOTE* This pack is available in the in-game store under the Marketplace tab.  You are strongly recommended to find the product there and make your purchase from within the game.</strong><br><br>This pack contains a number of scenic assets that you can add to your own route creations in order to add more detail and variety.<br><br>List of items included:<br><br><ul class=\"bb_ul\"><li>MP02 Bench01<br></li><li>MP02 Bench02<br></li><li>MP02 Bin01<br></li><li>MP02 Bin02<br></li><li>MP02 Bollard01<br></li><li>MP02 Bollard02<br></li><li>MP02 BrickPlanter<br></li><li>MP02 TownSet01<br></li><li>MP02 TownSet02<br></li><li>MP02 TownSet03<br></li><li>MP02 TownSet04<br></li><li>MP02 TownSet05<br></li><li>MP02 TownSet06<br></li><li>MP02 TownSet07<br></li><li>MP02 TownSet08<br></li><li>MP02 TownSet09<br></li><li>MP02 TownSet10<br></li><li>MP02 TownSet11<br></li><li>MP02 TownSetBingo<br></li><li>MP02 TownSetPub<br></li><li>MP02 BusShelter01<br></li><li>MP02 BusShelter02<br></li><li>MP02 BusTimeTable<br></li><li>MP02 Concrete Tile<br></li><li>MP02 Fence<br></li><li>MP02 FishandChipsSign<br></li><li>MP02 ForSaleSign<br></li><li>MP02 PostBox01<br></li><li>MP02 StreetLight01<br></li><li>MP02 StreetLight02<br></li><li>MP02 Town Path<br></li><li>MP02 TrafficLight01<br></li><li>MP02 Trolley<br></li><li>MP02 TrolleyPark<br></li><li>MP02 Wall Brick<br></li><li>MP02 Wall Concrete</li></ul>",
-  "short_description": "",
+  "short_description": "*NOTE* This pack is available in the in-game store under the Marketplace tab. You are strongly recommended to find the product there and make your purchase from within the game.This pack contains a number of scenic assets that you can add to your own route creations in order to add more detail and variety.",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     41331
@@ -131,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/256525/ss_681c4d32adf0a532ad1305f6c12225d679531a33.1920x1080.jpg?t=1447360062"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Apr, 2014"
@@ -139,5 +144,9 @@
     "url": "http://www.railsimulator.com/support.php",
     "email": "support@railsimulator.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/256525/page_bg_generated_v6b.jpg?t=1447360062"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/256525/page_bg_generated_v6b.jpg?t=1447360062",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

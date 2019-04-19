@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>A comprehensive series of movies offering an in-depth history both of Revolution and their games, over a 25 year journey. Enjoy unique insights from the creative minds who have taken part, from <i>Lure of the Temptress</i> in 1992 to their latest title <i>Broken Sword 5 - the Serpent\u2019s Curse</i>. Dave Gibbons recalls working on <i>Beneath a Steel Sky</i>, whilst Charles Cecil looks back on what influenced him to create George, Nico and the <i>Broken Sword</i> universe. Discover the trials and tribulations faced and how Revolution has survived and thrived over the course of a quarter century of adventure game development. An essential watch for all fans of the genre.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>A comprehensive series of movies offering an in-depth history both of Revolution and their games, over a 25 year journey. Enjoy unique insights from the creative minds who have taken part, from <i>Lure of the Temptress</i> in 1992 to their latest title <i>Broken Sword 5 - the Serpent\u2019s Curse</i>. Dave Gibbons recalls working on <i>Beneath a Steel Sky</i>, whilst Charles Cecil looks back on what influenced him to create George, Nico and the <i>Broken Sword</i> universe. Discover the trials and tribulations faced and how Revolution has survived and thrived over the course of a quarter century of adventure game development. An essential watch for all fans of the genre.",
   "about_the_game": "A comprehensive series of movies offering an in-depth history both of Revolution and their games, over a 25 year journey. Enjoy unique insights from the creative minds who have taken part, from <i>Lure of the Temptress</i> in 1992 to their latest title <i>Broken Sword 5 - the Serpent\u2019s Curse</i>. Dave Gibbons recalls working on <i>Beneath a Steel Sky</i>, whilst Charles Cecil looks back on what influenced him to create George, Nico and the <i>Broken Sword</i> universe. Discover the trials and tribulations faced and how Revolution has survived and thrived over the course of a quarter century of adventure game development. An essential watch for all fans of the genre.",
   "short_description": "A comprehensive series of movies offering an in-depth history both of Revolution and their games, over a 25 year journey.",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     144590
@@ -135,6 +137,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Mar, 2017"
@@ -143,5 +148,9 @@
     "url": "https://revolution.co.uk/support/",
     "email": "support@revolution.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/570370/page_bg_generated_v6b.jpg?t=1489177769"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/570370/page_bg_generated_v6b.jpg?t=1489177769",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

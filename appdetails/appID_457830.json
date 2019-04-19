@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     99429
@@ -105,5 +107,9 @@
     "url": "http://www.draconus.com/contact",
     "email": "support@draconus.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/457830/page_bg_generated_v6b.jpg?t=1514349429"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/457830/page_bg_generated_v6b.jpg?t=1514349429",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

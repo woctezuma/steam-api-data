@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     40167
@@ -116,6 +118,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/288240/ss_a9e2f32a28b3d46812f5bad7e5b473178f469b42.1920x1080.jpg?t=1447360916"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Jun, 2014"
@@ -124,5 +129,9 @@
     "url": "http://www.headupgames.com/conpresso/_rubric/index.php?rubric=EN+Support",
     "email": "support@headupgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/288240/page_bg_generated_v6b.jpg?t=1447360916"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/288240/page_bg_generated_v6b.jpg?t=1447360916",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

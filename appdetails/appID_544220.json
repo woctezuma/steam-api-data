@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 420,
     "final": 420,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,20\u20ac"
   },
   "packages": [
     134095
@@ -139,6 +141,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Dec, 2016"
@@ -147,5 +152,13 @@
     "url": "http://sadisticbutchering.com",
     "email": "info@suomi-peli.fi"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/544220/page_bg_generated_v6b.jpg?t=1481453954"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/544220/page_bg_generated_v6b.jpg?t=1481453954",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

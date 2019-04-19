@@ -12,7 +12,7 @@
     "appid": "241930",
     "name": "Middle-earth\u2122: Shadow of Mordor\u2122"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Polish, Portuguese-Brazil<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish, Portuguese - Brazil<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/318412/header.jpg?t=1521546019",
   "website": "http://www.shadowofmordor.com",
   "pc_requirements": {
@@ -41,7 +41,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     49191
@@ -162,6 +164,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/318412/ss_91525f897368ce534373fe62e4d6f2f0f4aa9917.1920x1080.jpg?t=1521546019"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Nov, 2014"
@@ -170,5 +175,9 @@
     "url": "http://support.wbgames.com",
     "email": "support@wbgames.com or Wbgames.intsupport@warnerbros.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/318412/page_bg_generated_v6b.jpg?t=1521546019"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/318412/page_bg_generated_v6b.jpg?t=1521546019",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

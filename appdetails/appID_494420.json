@@ -11,7 +11,7 @@
     "appid": "378610",
     "name": "Valley"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/494420/header.jpg?t=1472046649",
   "website": "http://blueislestudios.com",
   "pc_requirements": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     112489
@@ -121,6 +123,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/494420/ss_ba216c3a072bc3b638ae74eb25e5bcae2c8af021.1920x1080.jpg?t=1472046649"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Aug, 2016"
@@ -129,5 +134,9 @@
     "url": "http://blueislestudios.com/contact",
     "email": "support@blueislestudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494420/page_bg_generated_v6b.jpg?t=1472046649"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494420/page_bg_generated_v6b.jpg?t=1472046649",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

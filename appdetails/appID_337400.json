@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h1>Premium Rhinotaur Pack</h1><p><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/337400/extras/Eldevin_PremiumRhinotaurPackDLC.jpg?t=1447365802\" ></p><br><h1>About the Game</h1>Begin your adventure in Eldevin in style with the 'Rhinotaur' premium pack!<h2 class=\"bb_tag\">Rhinotaur Mount</h2><ul class=\"bb_ul\"><li>Ride around the mythical realms of Eldevin on your Aurelian Rhinotaur mount!<br></li><li>The mount will be available to all your characters, and includes maximum riding skill for free on one character!</li></ul><h2 class=\"bb_tag\">2 Steam Backpacks</h2><ul class=\"bb_ul\"><li>Expand your inventory with over 128 additional slots! (2 x 64)<br></li><li>The bags can be moved freely between your characters via the account vault.<br></li><li>Each bag includes a token to unlock a bag slot on a character.</li></ul><h2 class=\"bb_tag\">Eldevin Champion Set</h2><ul class=\"bb_ul\"><li>Wear an epic Vanity set and take on the role of the 'Champion' of Eldevin Kingdom.<br></li><li>This set can be transfered to any of your characters!</li></ul><h2 class=\"bb_tag\">4 Birth Stones</h2><ul class=\"bb_ul\"><li>Create 4 additonal character's allowing you to create a character for each of the 6 class specifications in the game. (Warrior, Templar, Mage, Prohet, Ranger, Assassin)</li></ul><h2 class=\"bb_tag\">1000 Eldevin Points</h2><ul class=\"bb_ul\"><li>A premium currency that can be used in the Eldevin Market or traded with other players.</li></ul><h2 class=\"bb_tag\">Reincarnation</h2><ul class=\"bb_ul\"><li>Allows you to revive yourself instantly where you died with 100% Health and 50% Mana. (24 hour cool-down)</li></ul><br><i>Note : All items except the Eldevin Points are bound to your Eldevin account. Once learned the Rhinotaur Mount will be available on all characters on your account however you will be required to learn the riding skill on each character after the first to use it.</i>",
   "about_the_game": "Begin your adventure in Eldevin in style with the 'Rhinotaur' premium pack!<h2 class=\"bb_tag\">Rhinotaur Mount</h2><ul class=\"bb_ul\"><li>Ride around the mythical realms of Eldevin on your Aurelian Rhinotaur mount!<br></li><li>The mount will be available to all your characters, and includes maximum riding skill for free on one character!</li></ul><h2 class=\"bb_tag\">2 Steam Backpacks</h2><ul class=\"bb_ul\"><li>Expand your inventory with over 128 additional slots! (2 x 64)<br></li><li>The bags can be moved freely between your characters via the account vault.<br></li><li>Each bag includes a token to unlock a bag slot on a character.</li></ul><h2 class=\"bb_tag\">Eldevin Champion Set</h2><ul class=\"bb_ul\"><li>Wear an epic Vanity set and take on the role of the 'Champion' of Eldevin Kingdom.<br></li><li>This set can be transfered to any of your characters!</li></ul><h2 class=\"bb_tag\">4 Birth Stones</h2><ul class=\"bb_ul\"><li>Create 4 additonal character's allowing you to create a character for each of the 6 class specifications in the game. (Warrior, Templar, Mage, Prohet, Ranger, Assassin)</li></ul><h2 class=\"bb_tag\">1000 Eldevin Points</h2><ul class=\"bb_ul\"><li>A premium currency that can be used in the Eldevin Market or traded with other players.</li></ul><h2 class=\"bb_tag\">Reincarnation</h2><ul class=\"bb_ul\"><li>Allows you to revive yourself instantly where you died with 100% Health and 50% Mana. (24 hour cool-down)</li></ul><br><i>Note : All items except the Eldevin Points are bound to your Eldevin account. Once learned the Rhinotaur Mount will be available on all characters on your account however you will be required to learn the riding skill on each character after the first to use it.</i>",
-  "short_description": "",
+  "short_description": "Begin your adventure in Eldevin in style with the 'Rhinotaur' premium pack!Rhinotaur MountRide around the mythical realms of Eldevin on your Aurelian Rhinotaur mount!The mount will be available to all your characters, and includes maximum riding skill for free on one character!",
   "fullgame": {
     "appid": "298160",
     "name": "Eldevin"
@@ -32,10 +32,12 @@
     "currency": "EUR",
     "initial": 3199,
     "final": 3199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "31,99\u20ac"
   },
   "packages": [
-    "56055"
+    56055
   ],
   "package_groups": [
     {
@@ -48,7 +50,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "56055",
+          "packageid": 56055,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Eldevin : Rhinotaur Premium Pack - 31,99\u20ac",
@@ -157,5 +159,9 @@
     "url": "https://www.huntedcow.com/support",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/337400/page_bg_generated_v6b.jpg?t=1447365802"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/337400/page_bg_generated_v6b.jpg?t=1447365802",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

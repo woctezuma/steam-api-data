@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     223218
@@ -131,6 +133,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Mar, 2018"
@@ -139,5 +144,9 @@
     "url": "studiotokoyo.com",
     "email": "info@studiotokoyo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/756840/page_bg_generated_v6b.jpg?t=1521989092"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/756840/page_bg_generated_v6b.jpg?t=1521989092",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     68903
@@ -114,6 +116,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/373940/ss_8e8c5ca75433e98f17a19cda20ee10abcb2b42fa.1920x1080.jpg?t=1454508928"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Jul, 2015"
@@ -122,5 +127,9 @@
     "url": "https://paradox.zendesk.com/home",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/373940/page_bg_generated_v6b.jpg?t=1454508928"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/373940/page_bg_generated_v6b.jpg?t=1454508928",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

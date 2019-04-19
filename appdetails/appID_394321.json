@@ -11,7 +11,7 @@
     "appid": "203770",
     "name": "Crusader Kings II"
   },
-  "supported_languages": "English, French, German, Spanish",
+  "supported_languages": "English, French, German, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/394321/header.jpg?t=1491255738",
   "website": "http://www.crusaderkings.com/",
   "pc_requirements": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     75640
@@ -151,6 +153,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/394321/ss_c7b336ab4d260959a6481af015524f1b82acb6ab.1920x1080.jpg?t=1491255738"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Feb, 2016"
@@ -159,5 +164,9 @@
     "url": "https://paradox.zendesk.com/home",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/394321/page_bg_generated_v6b.jpg?t=1491255738"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/394321/page_bg_generated_v6b.jpg?t=1491255738",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

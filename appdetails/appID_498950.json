@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>As former alliances are betrayed and friends become enemies, the Reds and Blues find themselves in an impossible predicament; in order to save the universe this time, they can't be totally incompetent. While on the run, the two teams must find a way to put aside their past differences and figure out the mystery behind Project Freelancer once and for all. Then they can get back to their past differences. The entire cast of Red vs. Blue returns for the most hilarious and eye-popping season to date. With a unique combination of machinima from the blockbuster video game Halo, and stunning new animated sequences, this is Red vs. Blue unlike anything you've seen before. Prepare for a Revelation...",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>As former alliances are betrayed and friends become enemies, the Reds and Blues find themselves in an impossible predicament; in order to save the universe this time, they can't be totally incompetent. While on the run, the two teams must find a way to put aside their past differences and figure out the mystery behind Project Freelancer once and for all. Then they can get back to their past differences. The entire cast of Red vs. Blue returns for the most hilarious and eye-popping season to date. With a unique combination of machinima from the blockbuster video game Halo, and stunning new animated sequences, this is Red vs. Blue unlike anything you've seen before. Prepare for a Revelation...",
   "about_the_game": "As former alliances are betrayed and friends become enemies, the Reds and Blues find themselves in an impossible predicament; in order to save the universe this time, they can't be totally incompetent. While on the run, the two teams must find a way to put aside their past differences and figure out the mystery behind Project Freelancer once and for all. Then they can get back to their past differences. The entire cast of Red vs. Blue returns for the most hilarious and eye-popping season to date. With a unique combination of machinima from the blockbuster video game Halo, and stunning new animated sequences, this is Red vs. Blue unlike anything you've seen before. Prepare for a Revelation...",
   "short_description": "As former alliances are betrayed and friends become enemies, the Reds and Blues find themselves in an impossible predicament; in order to save the universe this time, they can't be totally incompetent.",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     114152,
@@ -165,6 +167,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Aug, 2016"
@@ -173,5 +178,9 @@
     "url": "http://www.cinedigm.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498950/page_bg_generated_v6b.jpg?t=1472754568"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498950/page_bg_generated_v6b.jpg?t=1472754568",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

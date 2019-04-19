@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     123889
@@ -103,5 +105,9 @@
     "url": "http://www.potassiumfrog.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/521960/page_bg_generated_v6b.jpg?t=1475178632"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/521960/page_bg_generated_v6b.jpg?t=1475178632",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

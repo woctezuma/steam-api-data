@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>Our new Tornado Visualizer features spinning graphics that dynamically change as you play!</p>\n\t\t\t\t\t\t<p>Once downloaded, the Tornado Visualizer will automatically add itself to your Visualizer rotation.</p>\n\t\t\t\t\t\t<h2>Key features:</h2><ul>\n\t\t\t\t\t\t<li>Brand new Visualzer featuring intense spinning graphics that change as you play!\n\t\t\t\t\t\t<li>Our Tornado Visualizer will automatically integrate into your songs in Rhythm Zone after downloading!</ul>\n\t\t\t\t\t\t",
   "about_the_game": "<p>Our new Tornado Visualizer features spinning graphics that dynamically change as you play!</p>\n\t\t\t\t\t\t<p>Once downloaded, the Tornado Visualizer will automatically add itself to your Visualizer rotation.</p>\n\t\t\t\t\t\t<h2>Key features:</h2><ul>\n\t\t\t\t\t\t<li>Brand new Visualzer featuring intense spinning graphics that change as you play!\n\t\t\t\t\t\t<li>Our Tornado Visualizer will automatically integrate into your songs in Rhythm Zone after downloading!</ul>\n\t\t\t\t\t\t",
-  "short_description": "",
+  "short_description": "Our new Tornado Visualizer features spinning graphics that dynamically change as you play! Once downloaded, the Tornado Visualizer will automatically add itself to your Visualizer rotation. Key features: Brand new Visualzer featuring intense spinning graphics that change as you play!",
   "fullgame": {
     "appid": "38900",
     "name": "Uninitialized"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     6600
@@ -129,5 +131,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/38923/page_bg_generated_v6b.jpg?t=1447353724"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/38923/page_bg_generated_v6b.jpg?t=1447353724",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

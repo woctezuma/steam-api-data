@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Swimwear costumes for 5 Just Deserts Heroines!<br />\r\nNo need to purchase it again from in-game store.",
   "about_the_game": "Swimwear costumes for 5 Just Deserts Heroines!<br />\r\nNo need to purchase it again from in-game store.",
-  "short_description": "Swimwear costumes for 5 Just Deserts Heroines!<br />\r\nNo need to purchase it again from in-game store.",
+  "short_description": "Swimwear costumes for 5 Just Deserts Heroines! No need to purchase it again from in-game store.",
   "fullgame": {
     "appid": "488660",
     "name": "Just Deserts"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     121044
@@ -129,6 +131,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/517290/ss_8d39ff00da54902c14b9a8ab8f3f09a19ff24efd.1920x1080.jpg?t=1478562561"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Aug, 2016"
@@ -137,5 +142,9 @@
     "url": "",
     "email": "support@sekaiproject.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/517290/page_bg_generated_v6b.jpg?t=1478562561"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/517290/page_bg_generated_v6b.jpg?t=1478562561",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

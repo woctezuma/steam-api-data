@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1999,
-    "final": 1399,
-    "discount_percent": 30
+    "final": 1999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     114872
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 114872,
-          "percent_savings_text": "-30%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Jockey Rush - <span class=\"discount_original_price\">19,99\u20ac</span> 13,99\u20ac",
+          "option_text": "Jockey Rush - 19,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1399
+          "price_in_cents_with_discount": 1999
         }
       ]
     }
@@ -170,6 +172,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jul, 2016"
@@ -178,5 +183,9 @@
     "url": "http://www.jockeyrush.com",
     "email": "contactus@strategicdesigns.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/500680/page_bg_generated_v6b.jpg?t=1468573443"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/500680/page_bg_generated_v6b.jpg?t=1468573443",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

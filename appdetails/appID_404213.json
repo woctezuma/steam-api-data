@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1899,
-    "final": 1899,
-    "discount_percent": 0
+    "initial": 1499,
+    "final": 1499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     223443
@@ -53,11 +55,11 @@
           "packageid": 223443,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: LMS Coronation Scot - 18,99\u20ac",
+          "option_text": "TANE DLC: LMS Coronation Scot - 14,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1899
+          "price_in_cents_with_discount": 1499
         }
       ]
     }
@@ -163,6 +165,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404213/ss_2543c287ace40622d18e854c00bdfa388a229adc.1920x1080.jpg?t=1479205184"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Jan, 2016"
@@ -171,5 +176,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404213/page_bg_generated_v6b.jpg?t=1479205184"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404213/page_bg_generated_v6b.jpg?t=1479205184",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Inspired by the hit song \u201cCarry Me\u201d by superstar electronic musician Kygo, this revolutionary new music experience transports you into a stunning visual world and immerses you within beautiful environments of oceans, forests, mountains, skies and a final epic sweep of the cosmos. Feel the incredible sensation of seamlessly floating upward as you continually scale larger throughout your journey into the world of Kygo. A true must see for music fans!",
   "about_the_game": "Inspired by the hit song \u201cCarry Me\u201d by superstar electronic musician Kygo, this revolutionary new music experience transports you into a stunning visual world and immerses you within beautiful environments of oceans, forests, mountains, skies and a final epic sweep of the cosmos. Feel the incredible sensation of seamlessly floating upward as you continually scale larger throughout your journey into the world of Kygo. A true must see for music fans!",
-  "short_description": "Join superstar electronic musician Kygo in this incredible virtual reality experience inspired by the hit song \u201cCarry Me.\u201d",
+  "short_description": "Join superstar electronic musician Kygo in this incredible virtual reality experience inspired by the hit song \u201cCarry Me.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/577440/header.jpg?t=1509753252",
   "website": "http://kygomusic.com/",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     147376
@@ -116,6 +118,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Feb, 2017"
@@ -124,5 +129,9 @@
     "url": "",
     "email": "smevr@sonymusic.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/577440/page_bg_generated_v6b.jpg?t=1509753252"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/577440/page_bg_generated_v6b.jpg?t=1509753252",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

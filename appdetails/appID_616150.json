@@ -11,7 +11,7 @@
     "appid": "579020",
     "name": "Constructor"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish, Czech<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain, Czech<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/616150/header.jpg?t=1500971789",
   "website": null,
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     165206
@@ -120,6 +122,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/616150/ss_1b532e4d3dce99970665e046b6518a655beab6a6.1920x1080.jpg?t=1500971789"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Jul, 2017"
@@ -128,5 +133,9 @@
     "url": "http://www.system3.com/contact/",
     "email": "steamsupport@system3.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/616150/page_bg_generated_v6b.jpg?t=1500971789"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/616150/page_bg_generated_v6b.jpg?t=1500971789",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

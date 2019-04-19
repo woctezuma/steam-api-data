@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "Grab your friends and set off for adventure in Trove, the ultimate action MMO!<br><br>Revel in the wonders of the Sun, Moon, and Shadow all at once with this brand new pack. Brimming with new content, this pack features a whole mountain of mounts (including a pair of lethal skysharks), an alliance of allies, and a whole heap of super styles.<h2 class=\"bb_tag\">Includes: </h2><h2 class=\"bb_tag\">6 Mounts</h2><ul class=\"bb_ul\"><li>Radiant Skyshark<br></li><li>Seat of the Sun<br></li><li>Serene Skyshark<br></li><li>D\u2019awtter of the Moon<br></li><li>Shadowy Carpet<br></li><li>Marauding Mormolok</li></ul><h2 class=\"bb_tag\">3 Allies</h2><ul class=\"bb_ul\"><li>Lunar Rabbit<br></li><li>Solar Ribbit<br></li><li>Shifty Shadowbat</li></ul><h2 class=\"bb_tag\">18 Styles</h2><ul class=\"bb_ul\"><li>3 Helmet Styles<br></li><li>3 Melee Styles<br></li><li>3 Pistol Styles<br></li><li>3 Bow Styles<br></li><li>3 Staff Styles<br></li><li>3 Spear Styles</li></ul>",
   "about_the_game": "Grab your friends and set off for adventure in Trove, the ultimate action MMO!<br><br>Revel in the wonders of the Sun, Moon, and Shadow all at once with this brand new pack. Brimming with new content, this pack features a whole mountain of mounts (including a pair of lethal skysharks), an alliance of allies, and a whole heap of super styles.<h2 class=\"bb_tag\">Includes: </h2><h2 class=\"bb_tag\">6 Mounts</h2><ul class=\"bb_ul\"><li>Radiant Skyshark<br></li><li>Seat of the Sun<br></li><li>Serene Skyshark<br></li><li>D\u2019awtter of the Moon<br></li><li>Shadowy Carpet<br></li><li>Marauding Mormolok</li></ul><h2 class=\"bb_tag\">3 Allies</h2><ul class=\"bb_ul\"><li>Lunar Rabbit<br></li><li>Solar Ribbit<br></li><li>Shifty Shadowbat</li></ul><h2 class=\"bb_tag\">18 Styles</h2><ul class=\"bb_ul\"><li>3 Helmet Styles<br></li><li>3 Melee Styles<br></li><li>3 Pistol Styles<br></li><li>3 Bow Styles<br></li><li>3 Staff Styles<br></li><li>3 Spear Styles</li></ul>",
-  "short_description": "Grab your friends and set off for adventure in Trove, the ultimate action MMO!<br />\r\n<br />\r\nRevel in the wonders of the Sun, Moon, and Shadow all at once with this brand new pack. Brimming with new content, this pack features a whole mountain of mounts (including a pair of lethal skysharks), an alliance of allies, and a whole heap of super styles.",
+  "short_description": "Grab your friends and set off for adventure in Trove, the ultimate action MMO! Revel in the wonders of the Sun, Moon, and Shadow all at once with this brand new pack. Brimming with new content, this pack features a whole mountain of mounts (including a pair of lethal skysharks), an alliance of allies, and a whole heap of super styles.",
   "fullgame": {
     "appid": "304050",
     "name": "Trove"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, German, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/693160/header.jpg?t=1503449995",
   "website": "http://www.trionworlds.com/trove/?affiliateId=251",
   "pc_requirements": {
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1999,
-    "final": 599,
-    "discount_percent": 70
+    "final": 1999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     198753
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 198753,
-          "percent_savings_text": "-70%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Trove - Eclipse Pack - <span class=\"discount_original_price\">19,99\u20ac</span> 5,99\u20ac",
+          "option_text": "Trove - Eclipse Pack - 19,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 1999
         }
       ]
     }
@@ -148,6 +150,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/693160/ss_2713621c24393266807c8549c53cd933b39e27c4.1920x1080.jpg?t=1503449995"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Aug, 2017"
@@ -156,5 +161,9 @@
     "url": "https://support.trionworlds.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/693160/page_bg_generated_v6b.jpg?t=1503449995"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/693160/page_bg_generated_v6b.jpg?t=1503449995",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

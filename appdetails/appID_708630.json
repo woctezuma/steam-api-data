@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 69,
-    "discount_percent": 30
+    "final": 64,
+    "discount_percent": 35,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,64\u20ac"
   },
   "packages": [
     204747
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 204747,
-          "percent_savings_text": "-30%",
+          "percent_savings_text": "-35%",
           "percent_savings": 0,
-          "option_text": "Little Adventurer II - <span class=\"discount_original_price\">0,99\u20ac</span> 0,69\u20ac",
+          "option_text": "Little Adventurer II - <span class=\"discount_original_price\">0,99\u20ac</span> 0,64\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 69
+          "price_in_cents_with_discount": 64
         }
       ]
     }
@@ -110,6 +112,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Sep, 2017"
@@ -118,5 +123,9 @@
     "url": "",
     "email": "1150872679@qq.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/708630/page_bg_generated_v6b.jpg?t=1506009502"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/708630/page_bg_generated_v6b.jpg?t=1506009502",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Full length digital album (MP3 / FLAC).<br />\r\n<br />\r\nComposers: Stanislav Abrah\u00e1m, Jan Burian &amp; Ann 2.35f<br />\r\nCover Art: Vojt\u011bch Van\u011bk, Kate\u0159ina Kynclov\u00e1 <br />\r\nMixed by: Dominik J\u00edcha<br />\r\n<br />\r\n1. Power On! (0:41)<br />\r\n2. All Aboard (6:02) <br />\r\n3. Rail Veins (1:45)<br />\r\n4. Organ (2:47)*<br />\r\n5. Border City (5:58)<br />\r\n6. The Abnormitron (0:59)<br />\r\n7. Harp for Seventeen Minutes (17:03)* <br />\r\n8. Echoes (1:55)<br />\r\n9. Transparent Land (1:28)<br />\r\n10. Ann 2.35f (2:26)<br />\r\n<br />\r\nTotal 41:04",
   "about_the_game": "Full length digital album (MP3 / FLAC).<br />\r\n<br />\r\nComposers: Stanislav Abrah\u00e1m, Jan Burian &amp; Ann 2.35f<br />\r\nCover Art: Vojt\u011bch Van\u011bk, Kate\u0159ina Kynclov\u00e1 <br />\r\nMixed by: Dominik J\u00edcha<br />\r\n<br />\r\n1. Power On! (0:41)<br />\r\n2. All Aboard (6:02) <br />\r\n3. Rail Veins (1:45)<br />\r\n4. Organ (2:47)*<br />\r\n5. Border City (5:58)<br />\r\n6. The Abnormitron (0:59)<br />\r\n7. Harp for Seventeen Minutes (17:03)* <br />\r\n8. Echoes (1:55)<br />\r\n9. Transparent Land (1:28)<br />\r\n10. Ann 2.35f (2:26)<br />\r\n<br />\r\nTotal 41:04",
-  "short_description": "Full length digital album (MP3 / FLAC).<br />\r\n<br />\r\nComposers: Stanislav Abrah\u00e1m, Jan Burian &amp; Ann 2.35f<br />\r\nCover Art: Vojt\u011bch Van\u011bk, Kate\u0159ina Kynclov\u00e1 <br />\r\nMixed by: Dominik J\u00edcha",
+  "short_description": "Full length digital album (MP3 / FLAC). Composers: Stanislav Abrah\u00e1m, Jan Burian &amp; Ann 2.35f Cover Art: Vojt\u011bch Van\u011bk, Kate\u0159ina Kynclov\u00e1 Mixed by: Dominik...",
   "fullgame": {
     "appid": "532290",
     "name": "Dark Train"
@@ -34,8 +34,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 74,
-    "discount_percent": 75
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     181044
@@ -52,13 +54,13 @@
       "subs": [
         {
           "packageid": 181044,
-          "percent_savings_text": "-75%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Dark Train: Soundtrack - <span class=\"discount_original_price\">2,99\u20ac</span> 0,74\u20ac",
+          "option_text": "Dark Train: Soundtrack - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 74
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -147,6 +149,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Jun, 2017"
@@ -155,5 +160,11 @@
     "url": "",
     "email": "studio@paperash.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/645040/page_bg_generated_v6b.jpg?t=1515671048"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/645040/page_bg_generated_v6b.jpg?t=1515671048",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

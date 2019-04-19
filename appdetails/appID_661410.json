@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     188472
@@ -140,6 +142,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Jul, 2017"
@@ -148,5 +153,13 @@
     "url": "",
     "email": "dlhbstudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/661410/page_bg_generated_v6b.jpg?t=1501013922"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/661410/page_bg_generated_v6b.jpg?t=1501013922",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

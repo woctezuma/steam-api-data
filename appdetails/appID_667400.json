@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 80,
+    "final": 80,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,80\u20ac"
   },
   "packages": [
     189701
@@ -45,11 +47,11 @@
           "packageid": 189701,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Mazeglaser - 0,99\u20ac",
+          "option_text": "Mazeglaser - 0,80\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 80
         }
       ]
     }
@@ -114,6 +116,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Sep, 2017"
@@ -122,5 +127,9 @@
     "url": "",
     "email": "pjotrfu@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/667400/page_bg_generated_v6b.jpg?t=1505502770"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/667400/page_bg_generated_v6b.jpg?t=1505502770",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

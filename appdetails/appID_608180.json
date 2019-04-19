@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 500,
+    "final": 500,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,--\u20ac"
   },
   "packages": [
     161261
@@ -49,11 +51,11 @@
           "packageid": 161261,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Donation - 5 - 4,99\u20ac",
+          "option_text": "Donation - 5 - 5,--\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 500
         }
       ]
     }
@@ -129,5 +131,9 @@
     "url": "https://discord.gg/3UQnt7X",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/608180/page_bg_generated_v6b.jpg?t=1492708227"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/608180/page_bg_generated_v6b.jpg?t=1492708227",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -12,7 +12,7 @@
     "appid": "711750",
     "name": "Monster Energy Supercross - The Official Videogame"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/736670/header.jpg?t=1518509136",
   "website": "https://supercrossthegame.com/",
   "pc_requirements": {
@@ -37,8 +37,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 399,
-    "final": 279,
-    "discount_percent": 30
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     215191
@@ -55,13 +57,13 @@
       "subs": [
         {
           "packageid": 215191,
-          "percent_savings_text": "-30%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Monster Energy Supercross - Themed Liveries & Tracksuits - <span class=\"discount_original_price\">3,99\u20ac</span> 2,79\u20ac",
+          "option_text": "Monster Energy Supercross - Themed Liveries & Tracksuits - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 279
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -142,6 +144,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/736670/ss_3135e86310e9e7bb7d1e2795860bc62405dedd4a.1920x1080.jpg?t=1518509136"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Feb, 2018"
@@ -150,5 +155,9 @@
     "url": "http://milestone.it/supporto/?lang=en",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/736670/page_bg_generated_v6b.jpg?t=1518509136"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/736670/page_bg_generated_v6b.jpg?t=1518509136",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

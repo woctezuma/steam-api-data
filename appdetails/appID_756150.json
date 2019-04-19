@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     222948
@@ -44,11 +46,11 @@
           "packageid": 222948,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Born Tubi Wild - 2,99\u20ac",
+          "option_text": "Born Tubi Wild - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -132,5 +134,9 @@
     "url": "https://dzsembori.hu",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/756150/page_bg_generated_v6b.jpg?t=1513140147"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/756150/page_bg_generated_v6b.jpg?t=1513140147",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

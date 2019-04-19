@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\"><strong>Crazy Stone has made a huge step forward by combining Deep Neural Networks with Monte Carlo Tree Search.</strong></h2><br>The new Crazy Stone employs Deep Convolutional neural networks as a replacement for the pattern database and has produced a significant improvement in strength.<br>The new program has scored a winning rate of over 90% against the previous program Crazy Stone 2013\u2009!<br><br>We have provided 20 levels of play (13k-7d) for all the board sizes.<br>Crazy\u2009Stone has improved not only in strength, but also in his style of play and the lower levels are perfect for the average players.<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li> 20 levels of play for each board size (9\u00d79, 13\u00d713, 19\u00d719)<br></li><li> Human vs Computer, Human vs Human (sharing a single device)<br></li><li> Computer vs Computer Games<br></li><li> Handicap games, variable options of Komi<br></li><li> Hint (suggest)<br></li><li> Instant Undo (available even when the computer is thinking)<br></li><li> Automatic territory calculation<br></li><li> Japanese\u2009/\u2009Chinese Rule<br></li><li> Suspend\u2009/\u2009Re-start games<br></li><li> Save\u2009/\u2009Load game record in sgf files<br></li><li> Automatic and manual replay of a game record<br></li><li> Highlight the last move<br></li><li> COM resign feature<br></li><li> Two types of Board and Stones<br></li><li> Byoyomi games (Timed games)<br>(You will not be able to select computer level in timed games)<br></li><li>Analysis Mode (Move list, Histogram, Record analysis)<br>You can analyze your current game and also game records saved in sgf files. Some screen-shot samples of the analysis mode are shown above.</li></ul>",
   "about_the_game": "<h2 class=\"bb_tag\"><strong>Crazy Stone has made a huge step forward by combining Deep Neural Networks with Monte Carlo Tree Search.</strong></h2><br>The new Crazy Stone employs Deep Convolutional neural networks as a replacement for the pattern database and has produced a significant improvement in strength.<br>The new program has scored a winning rate of over 90% against the previous program Crazy Stone 2013\u2009!<br><br>We have provided 20 levels of play (13k-7d) for all the board sizes.<br>Crazy\u2009Stone has improved not only in strength, but also in his style of play and the lower levels are perfect for the average players.<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li> 20 levels of play for each board size (9\u00d79, 13\u00d713, 19\u00d719)<br></li><li> Human vs Computer, Human vs Human (sharing a single device)<br></li><li> Computer vs Computer Games<br></li><li> Handicap games, variable options of Komi<br></li><li> Hint (suggest)<br></li><li> Instant Undo (available even when the computer is thinking)<br></li><li> Automatic territory calculation<br></li><li> Japanese\u2009/\u2009Chinese Rule<br></li><li> Suspend\u2009/\u2009Re-start games<br></li><li> Save\u2009/\u2009Load game record in sgf files<br></li><li> Automatic and manual replay of a game record<br></li><li> Highlight the last move<br></li><li> COM resign feature<br></li><li> Two types of Board and Stones<br></li><li> Byoyomi games (Timed games)<br>(You will not be able to select computer level in timed games)<br></li><li>Analysis Mode (Move list, Histogram, Record analysis)<br>You can analyze your current game and also game records saved in sgf files. Some screen-shot samples of the analysis mode are shown above.</li></ul>",
-  "short_description": "<h2 class=\"bb_tag\">Crazy Stone has made a huge step forward by combining Deep Neural Networks with Monte Carlo Tree Search.</h2>",
+  "short_description": "Crazy Stone has made a huge step forward by combining Deep Neural Networks with Monte Carlo Tree Search.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/479330/header.jpg?t=1464256204",
   "website": "http://www.unbalance.co.jp/igo/eng/",
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 7399,
     "final": 7399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "73,99\u20ac"
   },
   "packages": [
     107168
@@ -115,6 +117,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 May, 2016"
@@ -123,5 +128,9 @@
     "url": "http://www.unbalance.co.jp/igo/eng/contact.html?from=contents",
     "email": "support@unbalance.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/479330/page_bg_generated_v6b.jpg?t=1464256204"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/479330/page_bg_generated_v6b.jpg?t=1464256204",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     96024
@@ -66,7 +68,7 @@
   },
   "metacritic": {
     "score": 67,
-    "url": "http://www.metacritic.com/game/pc/nefarious?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/nefarious?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -204,7 +206,7 @@
     }
   ],
   "recommendations": {
-    "total": 298
+    "total": 246
   },
   "achievements": {
     "total": 44,
@@ -259,5 +261,9 @@
     "url": "https://www.nefariousgame.com",
     "email": "nefariousfeedback@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/448290/page_bg_generated_v6b.jpg?t=1489598618"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/448290/page_bg_generated_v6b.jpg?t=1489598618",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

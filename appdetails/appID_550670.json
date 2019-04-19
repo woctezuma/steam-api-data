@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/550670/extras/GameName_2.png?t=1484079910\" ><br><br><strong>What The Heck Dude?</strong> is a drunk fight simulator with realistic physics. You are going to find yourself in different life situations, and every time you will have to start a fight. No matter where are you and what you are doing, your only task is to spoil the event and initiate a brawl.",
   "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/550670/extras/GameName_2.png?t=1484079910\" ><br><br><strong>What The Heck Dude?</strong> is a drunk fight simulator with realistic physics. You are going to find yourself in different life situations, and every time you will have to start a fight. No matter where are you and what you are doing, your only task is to spoil the event and initiate a brawl.",
-  "short_description": "<strong>What The Heck Dude?</strong> is a drunk fight simulator with realistic physics. You are going to find yourself in different life situations, and every time you will have to start a fight. No matter where are you and what you are doing, your only task is to spoil the event and initiate a brawl.",
+  "short_description": "What The Heck Dude? is a drunk fight simulator with realistic physics. You are going to find yourself in different life situations, and every time you will have to start a fight. No matter where are you and what you are doing, your only task is to spoil the event and initiate a brawl.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/550670/header.jpg?t=1484079910",
   "website": null,
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     136416
@@ -142,7 +144,10 @@
     }
   ],
   "recommendations": {
-    "total": 225
+    "total": 204
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -152,5 +157,9 @@
     "url": "",
     "email": "jooomly@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/550670/page_bg_generated_v6b.jpg?t=1484079910"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/550670/page_bg_generated_v6b.jpg?t=1484079910",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     14063
@@ -116,7 +118,7 @@
     }
   ],
   "recommendations": {
-    "total": 654
+    "total": 257
   },
   "achievements": {
     "total": 17,
@@ -171,5 +173,9 @@
     "url": "",
     "email": "contact@gooeyblob.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/207430/page_bg_generated_v6b.jpg?t=1447355416"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/207430/page_bg_generated_v6b.jpg?t=1447355416",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

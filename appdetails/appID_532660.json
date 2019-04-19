@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 189,
     "final": 189,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,89\u20ac"
   },
   "packages": [
     128803
@@ -166,5 +168,9 @@
     "url": "http://www.exteriagame.com/",
     "email": "contact@exteriagame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/532660/page_bg_generated_v6b.jpg?t=1478219000"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/532660/page_bg_generated_v6b.jpg?t=1478219000",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

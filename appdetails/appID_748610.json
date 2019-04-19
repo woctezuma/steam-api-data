@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\">You asked for more airports</h2><br>Airport Madness 3D: Volume 2 brings you eight new airports, new aircraft, more gates, and sharper detail.  Like the first volume, we offer players a 3-dimensional air traffic control experience, from a control tower perspective. Push traffic as quickly as you can, while avoiding midair collisions. Choose good weather or bad, adjust the tower height to your preference, then do your best to manage jet traffic into and out of eight different real-world airports. Listen to human pilot voices as the aircraft obey your every command. Scan your radar screens for potential conflicts between aircraft, or use &quot;Sky Cam&quot; to observe the airport action from any perspective.<h2 class=\"bb_tag\">Volume Two offers the following airports:</h2><br><ul class=\"bb_ul\"><li>New York John F. Kennedy<br></li><li>Toronto Pearson<br></li><li>Miami<br></li><li>London City<br></li><li>San Francisco<br></li><li>Lukla Nepal<br></li><li>Hong Kong<br></li><li>Chicago O'Hare</li></ul><br>In addition to a UI refresh, the big change since <i>Volume 1</i> is the all-new <i>Career Stats page</i>, which lets you track your ongoing performance history across all eight airports.  We've added some minor goodies, such as &quot;flight mode&quot; to the sky cam, giving it the control feel of an actual aircraft.<h2 class=\"bb_tag\">It feels real!</h2>Our terrain is built from real-world earth data. Airport designs are based on real-world layouts. Game play has been designed by real-world air traffic controllers and commercial pilots. Even the aircraft flight characteristics are highly realistic.",
   "about_the_game": "<h2 class=\"bb_tag\">You asked for more airports</h2><br>Airport Madness 3D: Volume 2 brings you eight new airports, new aircraft, more gates, and sharper detail.  Like the first volume, we offer players a 3-dimensional air traffic control experience, from a control tower perspective. Push traffic as quickly as you can, while avoiding midair collisions. Choose good weather or bad, adjust the tower height to your preference, then do your best to manage jet traffic into and out of eight different real-world airports. Listen to human pilot voices as the aircraft obey your every command. Scan your radar screens for potential conflicts between aircraft, or use &quot;Sky Cam&quot; to observe the airport action from any perspective.<h2 class=\"bb_tag\">Volume Two offers the following airports:</h2><br><ul class=\"bb_ul\"><li>New York John F. Kennedy<br></li><li>Toronto Pearson<br></li><li>Miami<br></li><li>London City<br></li><li>San Francisco<br></li><li>Lukla Nepal<br></li><li>Hong Kong<br></li><li>Chicago O'Hare</li></ul><br>In addition to a UI refresh, the big change since <i>Volume 1</i> is the all-new <i>Career Stats page</i>, which lets you track your ongoing performance history across all eight airports.  We've added some minor goodies, such as &quot;flight mode&quot; to the sky cam, giving it the control feel of an actual aircraft.<h2 class=\"bb_tag\">It feels real!</h2>Our terrain is built from real-world earth data. Airport designs are based on real-world layouts. Game play has been designed by real-world air traffic controllers and commercial pilots. Even the aircraft flight characteristics are highly realistic.",
-  "short_description": "Our second volume of Airport Madness 3D compliments the first one with eight new airports, new aircraft, more gates, and sharper detail. <br />\r\n<br />\r\nVolume Two offers New York John F. Kennedy, Toronto Pearson, Miami, London City, San Francisco, Lukla Nepal, Hong Kong, and Chicago O'Hare.  An all-new career stats page lets you track your performance history across all eight airports.",
+  "short_description": "Our second volume of Airport Madness 3D compliments the first one with eight new airports, new aircraft, more gates, and sharper detail. Volume Two offers New York John F. Kennedy, Toronto Pearson, Miami, London City, San Francisco, Lukla Nepal, Hong Kong, and Chicago O'Hare.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/748610/header.jpg?t=1511909284",
   "website": "https://bigfatsimulations.com/game/airportmadness3dvolumeii",
@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1999,
-    "final": 1399,
-    "discount_percent": 30
+    "initial": 1699,
+    "final": 1019,
+    "discount_percent": 40,
+    "initial_formatted": "16,99\u20ac",
+    "final_formatted": "10,19\u20ac"
   },
   "packages": [
     219804
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 219804,
-          "percent_savings_text": "-30%",
+          "percent_savings_text": "-40%",
           "percent_savings": 0,
-          "option_text": "Airport Madness 3D: Volume 2 - <span class=\"discount_original_price\">19,99\u20ac</span> 13,99\u20ac",
+          "option_text": "Airport Madness 3D: Volume 2 - <span class=\"discount_original_price\">16,99\u20ac</span> 10,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1399
+          "price_in_cents_with_discount": 1019
         }
       ]
     }
@@ -234,5 +236,9 @@
     "url": "https://bigfatsimulations.com/support",
     "email": "support@bigfatsimulations.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/748610/page_bg_generated_v6b.jpg?t=1511909284"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/748610/page_bg_generated_v6b.jpg?t=1511909284",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

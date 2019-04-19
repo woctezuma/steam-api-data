@@ -12,7 +12,7 @@
     "appid": "255220",
     "name": "GRID Autosport"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/289022/header.jpg?t=1449764569",
   "website": "http://www.gridgame.com/",
   "pc_requirements": {
@@ -42,11 +42,12 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
-    40381,
-    74013
+    40381
   ],
   "package_groups": [
     {
@@ -67,16 +68,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 599
-        },
-        {
-          "packageid": 74013,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "GRID Autosport Complete - 62,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 6299
         }
       ]
     }
@@ -149,6 +140,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/289022/ss_1aea6b34d3d7d05a1549cf6ca57254931109236e.1920x1080.jpg?t=1449764569"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Aug, 2014"
@@ -157,5 +151,9 @@
     "url": "http://forums.codemasters.com/categories/grid-games-technical-assistance",
     "email": "UK, US: custservice@codemasters.com; FR: serviceclientele@codemasters.com; DE: kundendienst@codemasters.com; NE: klantenservice@codemasters.nl; ES: es.support@namcobandaipartners.com; IT: it.support@namcobandaipartners.com; PO: pomoc@cdprojekt.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/289022/page_bg_generated_v6b.jpg?t=1449764569"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/289022/page_bg_generated_v6b.jpg?t=1449764569",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

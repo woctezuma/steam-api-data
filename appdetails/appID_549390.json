@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h1>Update Notes</h1><p>Version 1.1 has been released:<br>-Support for <strong>Shared Screen coop</strong> has been added for up to 4 players. <strong>Requires one gamepad per player</strong>.<br>-Improved &quot;Game Over&quot; screen.</p><br><h1>About the Game</h1>Fun cooperative game for 1-4 players.<br><br>Each player controls a forklift truck in a warehouse.<br>As new goods keeps arriving, the players must work together organizing them,<br>so that they can make the outgoing deliveries as needed.<br><br>100 warehouse maps divided into three difficulties.<br>Each map have high replayability and a separate hiscore for each player count.<br><br>5 difficulty levels that controls the pace of the game, allowing you to<br>select something that suits you and your friends skill level and taste.<br>Higher difficulty increases the score for each delivery.<br><br>Your friends can join your game at any time. The game will dynamically<br>balance the difficulty in addition to the selected one.<h2 class=\"bb_tag\">How to play</h2><br>Steer your truck with W, S, A, D, press Space to lift/drop and Q for horn<br>or with a Gamepad.<br>Change the controls or the reverse steering behaviour in the options.<br><br>The period bar shows the remaining time of this period.<br>Difficulty and player count affects the period length.<br>Each successfull delivery gives you score based on difficulty.<br><br>Orders indicate how many deliveries are left before the game ends.<br><br>Incoming goods arrive on conveyor belts.<br>If anything collides with it, a huge amount of orders will be lost.<br><br>Blue goods must be dropped in the matching delivery zone before the end of the current period.<br>Failure will result in a score reduction and two lost orders.<br><br>Goods with a number must be delivered during the period X periods from the current.<br>The number will decrease each new period.<br><br>Grey goods don't have a known delivery period, but may randomly get one each new period.<br><br>Each period, one grey goods becomes an optional bonus delivery for that period only.<br>It will be worth double score and may be dropped in any delivery zone.",
   "about_the_game": "Fun cooperative game for 1-4 players.<br><br>Each player controls a forklift truck in a warehouse.<br>As new goods keeps arriving, the players must work together organizing them,<br>so that they can make the outgoing deliveries as needed.<br><br>100 warehouse maps divided into three difficulties.<br>Each map have high replayability and a separate hiscore for each player count.<br><br>5 difficulty levels that controls the pace of the game, allowing you to<br>select something that suits you and your friends skill level and taste.<br>Higher difficulty increases the score for each delivery.<br><br>Your friends can join your game at any time. The game will dynamically<br>balance the difficulty in addition to the selected one.<h2 class=\"bb_tag\">How to play</h2><br>Steer your truck with W, S, A, D, press Space to lift/drop and Q for horn<br>or with a Gamepad.<br>Change the controls or the reverse steering behaviour in the options.<br><br>The period bar shows the remaining time of this period.<br>Difficulty and player count affects the period length.<br>Each successfull delivery gives you score based on difficulty.<br><br>Orders indicate how many deliveries are left before the game ends.<br><br>Incoming goods arrive on conveyor belts.<br>If anything collides with it, a huge amount of orders will be lost.<br><br>Blue goods must be dropped in the matching delivery zone before the end of the current period.<br>Failure will result in a score reduction and two lost orders.<br><br>Goods with a number must be delivered during the period X periods from the current.<br>The number will decrease each new period.<br><br>Grey goods don't have a known delivery period, but may randomly get one each new period.<br><br>Each period, one grey goods becomes an optional bonus delivery for that period only.<br>It will be worth double score and may be dropped in any delivery zone.",
-  "short_description": "Fun cooperative game for 1-4 players.<br />\r\n<br />\r\nEach player controls a forklift truck in a warehouse.<br />\r\nAs new goods keeps arriving, the players must work together organizing them,<br />\r\nso that they can make the outgoing deliveries as needed.",
+  "short_description": "Fun cooperative game for 1-4 players. Each player controls a forklift truck in a warehouse. As new goods keeps arriving, the players must work together organizing them, so that they can make the outgoing deliveries as needed.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/549390/header.jpg?t=1488727877",
   "website": null,
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     135910
@@ -129,6 +131,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Feb, 2017"
@@ -137,5 +142,9 @@
     "url": "https://www.facebook.com/Stolpskott-Studios-293877094093864",
     "email": "stolpskottstudios@telia.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/549390/page_bg_generated_v6b.jpg?t=1488727877"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/549390/page_bg_generated_v6b.jpg?t=1488727877",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

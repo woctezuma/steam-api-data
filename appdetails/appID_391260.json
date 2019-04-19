@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "When your world is invaded by mysterious creatures, the very survival of humanity is at stake.  Some believe these creatures are gods, descending down on the earth to punish humanity for its cruel and wicked ways.  Others believe them to be malevolent invaders from beyond the stars.  It's up to you to discover the truth behind these creatures' origins and save humanity from their wrath.<br><br>It's widely believed that the secret to defeating these monsters lies in temples that appeared, scattered throughout the world, 50 years prior.  Journeying to these temples, across the harsh, hostile landscape will require intense skill, cunning, and might.   Unearthing the secrets inside will be a challenge akin to the most hardcore JRPG's of the 16 bit eras.<br><br>Can you harness the power to defeat the gods?  Labyronia is an epic adventure that will stick with you forever.<br><br><i>Key features - </i><br><br>-Partly non-linear progression in a large and original world.<br>-The Cue system encourages exploration. Find abnormalities to obtain skills, and challenge yourself to collect all the Cues!<br>-Strategic Boss battles, and smooth combat system with Yanfly's battle engine.<br>-Random battles are limited to the world map (and even there it's possible to avoid them usually.) Otherwise, all enemies are visible.<br>-Clean, colorful visuals and a bunch of fresh-looking monsters.<br>-Experience the emotional storyline and challenge the four elemental gods!",
   "about_the_game": "When your world is invaded by mysterious creatures, the very survival of humanity is at stake.  Some believe these creatures are gods, descending down on the earth to punish humanity for its cruel and wicked ways.  Others believe them to be malevolent invaders from beyond the stars.  It's up to you to discover the truth behind these creatures' origins and save humanity from their wrath.<br><br>It's widely believed that the secret to defeating these monsters lies in temples that appeared, scattered throughout the world, 50 years prior.  Journeying to these temples, across the harsh, hostile landscape will require intense skill, cunning, and might.   Unearthing the secrets inside will be a challenge akin to the most hardcore JRPG's of the 16 bit eras.<br><br>Can you harness the power to defeat the gods?  Labyronia is an epic adventure that will stick with you forever.<br><br><i>Key features - </i><br><br>-Partly non-linear progression in a large and original world.<br>-The Cue system encourages exploration. Find abnormalities to obtain skills, and challenge yourself to collect all the Cues!<br>-Strategic Boss battles, and smooth combat system with Yanfly's battle engine.<br>-Random battles are limited to the world map (and even there it's possible to avoid them usually.) Otherwise, all enemies are visible.<br>-Clean, colorful visuals and a bunch of fresh-looking monsters.<br>-Experience the emotional storyline and challenge the four elemental gods!",
-  "short_description": "Labyronia is an epic RPG.  Only by defeating the gods can you, and your friends, save the world.",
+  "short_description": "Labyronia is an epic RPG. Only by defeating the gods can you, and your friends, save the world.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/391260/header.jpg?t=1492975016",
   "website": null,
@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 61,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     74703,
@@ -45,13 +47,13 @@
       "subs": [
         {
           "packageid": 74703,
-          "percent_savings_text": "",
+          "percent_savings_text": "-61%",
           "percent_savings": 0,
-          "option_text": "Labyronia - 0,99\u20ac",
+          "option_text": "Labyronia - <span class=\"discount_original_price\">0,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 39
         },
         {
           "packageid": 250473,
@@ -175,7 +177,7 @@
     }
   ],
   "recommendations": {
-    "total": 1022
+    "total": 920
   },
   "achievements": {
     "total": 6,
@@ -214,5 +216,9 @@
     "url": "",
     "email": "ian@ip-builders.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/391260/page_bg_generated_v6b.jpg?t=1492975016"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/391260/page_bg_generated_v6b.jpg?t=1492975016",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

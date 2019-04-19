@@ -5,21 +5,25 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "Play as your favorite Youtuber in SpeedRunners! <br><br>This pack includes:<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/317490/extras/pewdiepieteam.png?t=1447363050\" ><br><br>These are purely cosmetic changes that do not affect gameplay.<br><br>By purchasing these characters, you're able to support #TeamSpeedRunner in King of Speed - the official in-game tournament between SpeedRunner and Falcon. Playing any of them until November 20th will result in your wins counting towards the team's total. If your team wins, all of the sales we make from this DLC go to cancer research.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/317490/extras/rsz_1kingofspeed_infographic-1.png?t=1447363050\" >",
-  "about_the_game": "Play as your favorite Youtuber in SpeedRunners! <br><br>This pack includes:<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/317490/extras/pewdiepieteam.png?t=1447363050\" ><br><br>These are purely cosmetic changes that do not affect gameplay.<br><br>By purchasing these characters, you're able to support #TeamSpeedRunner in King of Speed - the official in-game tournament between SpeedRunner and Falcon. Playing any of them until November 20th will result in your wins counting towards the team's total. If your team wins, all of the sales we make from this DLC go to cancer research.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/317490/extras/rsz_1kingofspeed_infographic-1.png?t=1447363050\" >",
-  "short_description": "Play as PewDiePie, Strippin, CinnamonToastKen, or Dodger in this Youtuber DLC pack for SpeedRunners! By purchasing these characters, you're able to support #TeamSpeedRunner in King of Speed - the official in-game tournament between SpeedRunner and Falcon. Playing any of them until November 20th will result in your wins counting towards the team's total. If your team wins, all of the sales we make from this DLC go to cancer research.",
+  "detailed_description": "Play as your favorite Youtuber in SpeedRunners! <br><br>This pack includes:<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/317490/extras/pewdiepieteam.png?t=1534843107\" ><br><br>These are purely cosmetic changes that do not affect gameplay.<br><br>By purchasing these characters, you're able to support #TeamSpeedRunner in King of Speed - the official in-game tournament between SpeedRunner and Falcon. Playing any of them until November 20th will result in your wins counting towards the team's total. If your team wins, all of the sales we make from this DLC go to cancer research.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/317490/extras/rsz_1kingofspeed_infographic-1.png?t=1534843107\" >",
+  "about_the_game": "Play as your favorite Youtuber in SpeedRunners! <br><br>This pack includes:<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/317490/extras/pewdiepieteam.png?t=1534843107\" ><br><br>These are purely cosmetic changes that do not affect gameplay.<br><br>By purchasing these characters, you're able to support #TeamSpeedRunner in King of Speed - the official in-game tournament between SpeedRunner and Falcon. Playing any of them until November 20th will result in your wins counting towards the team's total. If your team wins, all of the sales we make from this DLC go to cancer research.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/317490/extras/rsz_1kingofspeed_infographic-1.png?t=1534843107\" >",
+  "short_description": "Play as PewDiePie, Strippin, CinnamonToastKen, or Dodger in this Youtuber DLC pack for SpeedRunners! By purchasing these characters, you're able to support #TeamSpeedRunner in King of Speed - the official in-game tournament between SpeedRunner and Falcon.",
   "fullgame": {
     "appid": "207140",
     "name": "SpeedRunners"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/317490/header.jpg?t=1447363050",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/317490/header.jpg?t=1534843107",
   "website": "http://tinyBuild.com/speedrunners",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 and up<br></li><li><strong>Processor:</strong> 1Ghz and up<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Integrated will work fine. Or a toaster.<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Recommend to play with an Xbox controller</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP and up<br></li><li><strong>Processor:</strong> 1Ghz and up<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> Integrated will work fine. Or a toaster.<br></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>"
   },
-  "mac_requirements": [],
-  "linux_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX El Capitain<br></li><li><strong>Processor:</strong> 1Ghz and up - tested on fanless MacBooks<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Additional Notes:</strong> Tested on latest OSX on 1.2Ghz &quot;fanless&quot; MacBooks. Works like a charm.</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Latest Debian redistributable or SteamOS<br></li><li><strong>Processor:</strong> 1Ghz and up<br></li><li><strong>Graphics:</strong> your toaster<br></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>"
+  },
   "developers": [
     "DoubleDutch Games"
   ],
@@ -30,7 +34,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     48807
@@ -60,8 +66,8 @@
   ],
   "platforms": {
     "windows": true,
-    "mac": false,
-    "linux": false
+    "mac": true,
+    "linux": true
   },
   "categories": [
     {
@@ -126,28 +132,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_efa7700782d88a3a6ef665516802394cd866f9d9.600x338.jpg?t=1447363050",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_efa7700782d88a3a6ef665516802394cd866f9d9.1920x1080.jpg?t=1447363050"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_efa7700782d88a3a6ef665516802394cd866f9d9.600x338.jpg?t=1534843107",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_efa7700782d88a3a6ef665516802394cd866f9d9.1920x1080.jpg?t=1534843107"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_4738286fef890dcebf5dcee0cae3f56051438339.600x338.jpg?t=1447363050",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_4738286fef890dcebf5dcee0cae3f56051438339.1920x1080.jpg?t=1447363050"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_4738286fef890dcebf5dcee0cae3f56051438339.600x338.jpg?t=1534843107",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_4738286fef890dcebf5dcee0cae3f56051438339.1920x1080.jpg?t=1534843107"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_b3e17f16afd8cc3cddb68894bea763488b64c110.600x338.jpg?t=1447363050",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_b3e17f16afd8cc3cddb68894bea763488b64c110.1920x1080.jpg?t=1447363050"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_b3e17f16afd8cc3cddb68894bea763488b64c110.600x338.jpg?t=1534843107",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_b3e17f16afd8cc3cddb68894bea763488b64c110.1920x1080.jpg?t=1534843107"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_442b003ce04ce07f81f3f8bdab429b35b2e4d23f.600x338.jpg?t=1447363050",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_442b003ce04ce07f81f3f8bdab429b35b2e4d23f.1920x1080.jpg?t=1447363050"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_442b003ce04ce07f81f3f8bdab429b35b2e4d23f.600x338.jpg?t=1534843107",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_442b003ce04ce07f81f3f8bdab429b35b2e4d23f.1920x1080.jpg?t=1534843107"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_bc10262b2d6b46532248af4630cb93aa268f16eb.600x338.jpg?t=1447363050",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_bc10262b2d6b46532248af4630cb93aa268f16eb.1920x1080.jpg?t=1447363050"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_bc10262b2d6b46532248af4630cb93aa268f16eb.600x338.jpg?t=1534843107",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/317490/ss_bc10262b2d6b46532248af4630cb93aa268f16eb.1920x1080.jpg?t=1534843107"
     }
   ],
   "movies": [
@@ -172,6 +178,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Oct, 2014"
@@ -180,5 +189,9 @@
     "url": "http://tinyBuild.com",
     "email": "contact@tinybuildgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/317490/page_bg_generated_v6b.jpg?t=1447363050"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/317490/page_bg_generated_v6b.jpg?t=1534843107",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     98095
@@ -213,5 +215,9 @@
     "url": "http://www.blazeepic.com",
     "email": "blaze_epic@yahoo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/454130/page_bg_generated_v6b.jpg?t=1458150487"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/454130/page_bg_generated_v6b.jpg?t=1458150487",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

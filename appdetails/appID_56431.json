@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Includes 4 unique ability and wargear items to equip your squad with.<ul class=\"bb_ul\"><li><strong>SKULL BREAKER:</strong> Hits on the enemy with this weapon have the chance to cause an explosive area of effect attack.<br>\t\t\t\t\t\t</li><li><strong>ARMOR OF IMMORTAL:</strong> Gain the protection of an invulnerability shield when your character is critically injured.<br>\t\t\t\t\t\t</li><li><strong>HERALD OF THE WARP:</strong> Equipping this item significantly lowers your ability cooldown timers.<br>\t\t\t\t\t\t</li><li><strong>MARK OF CHAOS FAVOR:</strong> Your character gains the benefits of chaos god worship from all the dark gods.</li></ul>",
   "about_the_game": "Includes 4 unique ability and wargear items to equip your squad with.<ul class=\"bb_ul\"><li><strong>SKULL BREAKER:</strong> Hits on the enemy with this weapon have the chance to cause an explosive area of effect attack.<br>\t\t\t\t\t\t</li><li><strong>ARMOR OF IMMORTAL:</strong> Gain the protection of an invulnerability shield when your character is critically injured.<br>\t\t\t\t\t\t</li><li><strong>HERALD OF THE WARP:</strong> Equipping this item significantly lowers your ability cooldown timers.<br>\t\t\t\t\t\t</li><li><strong>MARK OF CHAOS FAVOR:</strong> Your character gains the benefits of chaos god worship from all the dark gods.</li></ul>",
-  "short_description": "",
+  "short_description": "Includes 4 unique ability and wargear items to equip your squad with.SKULL BREAKER: Hits on the enemy with this weapon have the chance to cause an explosive area of effect attack. ARMOR OF IMMORTAL: Gain the protection of an invulnerability shield when your character is critically injured.",
   "fullgame": {
     "appid": "56437",
     "name": "Warhammer 40,000: Dawn of War II: Retribution"
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     7433,
@@ -183,6 +185,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/56431/ss_61101b6a5ff2002fdbab11b3835e7cc88f930278.1920x1080.jpg?t=1522071173"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Feb, 2011"
@@ -191,5 +196,9 @@
     "url": "https://support.sega.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/56431/page_bg_generated_v6b.jpg?t=1522071173"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/56431/page_bg_generated_v6b.jpg?t=1522071173",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

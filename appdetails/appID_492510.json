@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>The Vytal Festival Tournament is the ultimate battle of skill, pitting the world's most powerful Huntsmen and Huntresses in training against one another... and it's finally here! Ruby, Weiss, Blake, and Yang are back for a season of over-the-top action, and they're not alone. New fighters from around Remnant are ready to bring glory to their kingdom, but there are those among them with a far more sinister goal in mind.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>The Vytal Festival Tournament is the ultimate battle of skill, pitting the world's most powerful Huntsmen and Huntresses in training against one another... and it's finally here! Ruby, Weiss, Blake, and Yang are back for a season of over-the-top action, and they're not alone. New fighters from around Remnant are ready to bring glory to their kingdom, but there are those among them with a far more sinister goal in mind.",
   "about_the_game": "The Vytal Festival Tournament is the ultimate battle of skill, pitting the world's most powerful Huntsmen and Huntresses in training against one another... and it's finally here! Ruby, Weiss, Blake, and Yang are back for a season of over-the-top action, and they're not alone. New fighters from around Remnant are ready to bring glory to their kingdom, but there are those among them with a far more sinister goal in mind.",
   "short_description": "The future-fantasy world of Remnant is filled with ravenous monsters, treacherous terrain, and more villains than you can shake a sniper-scythe at. Fortunately, Beacon Academy is training Huntsmen and Huntresses to battle the evils of the world.",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     111695,
@@ -140,6 +142,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jul, 2016"
@@ -148,5 +153,9 @@
     "url": "www.cinedigm.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492510/page_bg_generated_v6b.jpg?t=1472753880"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492510/page_bg_generated_v6b.jpg?t=1472753880",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

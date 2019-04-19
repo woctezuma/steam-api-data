@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     83570
@@ -203,7 +205,7 @@
     }
   ],
   "recommendations": {
-    "total": 201
+    "total": 197
   },
   "achievements": {
     "total": 38,
@@ -258,5 +260,9 @@
     "url": "http://www.ideafintl.com/monmon/home.html",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/415300/page_bg_generated_v6b.jpg?t=1489518294"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/415300/page_bg_generated_v6b.jpg?t=1489518294",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

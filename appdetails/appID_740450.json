@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     216821
@@ -48,11 +50,11 @@
           "packageid": 216821,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Alien Planet - 2,99\u20ac",
+          "option_text": "Alien Planet - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -126,6 +128,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Dec, 2017"
@@ -134,5 +139,9 @@
     "url": "http://falkrus.com/",
     "email": "support@falkrus.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740450/page_bg_generated_v6b.jpg?t=1512385639"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740450/page_bg_generated_v6b.jpg?t=1512385639",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

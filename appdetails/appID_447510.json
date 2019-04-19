@@ -12,7 +12,7 @@
     "appid": "245170",
     "name": "Skullgirls"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese<strong>*</strong>, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<strong>*</strong>, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/447510/header.jpg?t=1516345231",
   "website": "http://www.skullgirls.com",
   "pc_requirements": {
@@ -39,7 +39,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     95686
@@ -144,7 +146,10 @@
     }
   ],
   "recommendations": {
-    "total": 124
+    "total": 128
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -154,5 +159,9 @@
     "url": "http://www.skullgirls.com",
     "email": "bugreports@labzerogames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447510/page_bg_generated_v6b.jpg?t=1516345231"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447510/page_bg_generated_v6b.jpg?t=1516345231",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

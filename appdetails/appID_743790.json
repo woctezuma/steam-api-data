@@ -10,9 +10,9 @@
   "short_description": "The Original Soundtrack by the amazing Tom Dunkin, featuring an original piece by Fat Bard! Slice and dice your way to a delicious meal with the sounds of Battle Chef Brigade! Includes high quality MP3 and FLAC versions, along with a piano arrangement of the Title Theme!",
   "fullgame": {
     "appid": "452570",
-    "name": "Battle Chef Brigade"
+    "name": "Battle Chef Brigade Deluxe"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/743790/header.jpg?t=1511197474",
   "website": "http://www.battlechefbrigade.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     218086
@@ -143,6 +145,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/743790/ss_47805056f455ce841b6239c4cfc589b0598dbd0d.1920x1080.jpg?t=1511197474"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Nov, 2017"
@@ -151,5 +156,9 @@
     "url": "games.adultswim.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/743790/page_bg_generated_v6b.jpg?t=1511197474"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/743790/page_bg_generated_v6b.jpg?t=1511197474",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

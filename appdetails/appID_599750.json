@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     157465
@@ -176,7 +178,7 @@
     }
   ],
   "recommendations": {
-    "total": 606
+    "total": 731
   },
   "achievements": {
     "total": 32,
@@ -231,5 +233,9 @@
     "url": "http://www.en.kremlingames.com/",
     "email": "main@kremlingames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/599750/page_bg_generated_v6b.jpg?t=1515231796"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/599750/page_bg_generated_v6b.jpg?t=1515231796",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

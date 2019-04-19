@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     71217
@@ -147,6 +149,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jun, 2015"
@@ -155,5 +160,9 @@
     "url": "http://kholat.com",
     "email": "support@imgn.pro"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/380800/page_bg_generated_v6b.jpg?t=1447376708"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/380800/page_bg_generated_v6b.jpg?t=1447376708",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

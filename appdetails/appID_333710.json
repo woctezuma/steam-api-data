@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     54800
@@ -52,7 +54,7 @@
           "packageid": 54800,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Bonus Content (Mp3+Wallpapers) - 4,99\u20ac",
+          "option_text": "ToA: Seasons Of The Wolf Bonus Content (Mp3+Wallpapers) - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -129,6 +131,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/333710/ss_4495de744f0b7aecadd37444b355c057b6700e45.1920x1080.jpg?t=1447365139"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jan, 2015"
@@ -137,5 +142,9 @@
     "url": "http://www.winterwolves.com/info.php",
     "email": "info@winterwolves.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/333710/page_bg_generated_v6b.jpg?t=1447365139"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/333710/page_bg_generated_v6b.jpg?t=1447365139",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

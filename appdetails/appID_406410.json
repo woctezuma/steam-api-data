@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     80038
@@ -144,6 +146,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Mar, 2016"
@@ -152,5 +157,9 @@
     "url": "",
     "email": "nathan@virtualex.com.au"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/406410/page_bg_generated_v6b.jpg?t=1515226086"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/406410/page_bg_generated_v6b.jpg?t=1515226086",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

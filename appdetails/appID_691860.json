@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     198354
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Sep, 2017"
@@ -127,5 +132,9 @@
     "url": "noctecraft.dk",
     "email": "test@test.dk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/691860/page_bg_generated_v6b.jpg?t=1519593850"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/691860/page_bg_generated_v6b.jpg?t=1519593850",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

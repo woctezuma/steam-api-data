@@ -11,7 +11,7 @@
     "appid": "403040",
     "name": "Driver Booster 3 for STEAM"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Polish, Portuguese, Portuguese-Brazil, Romanian, Russian, Swedish, Thai, Turkish, Ukrainian, Norwegian, Simplified Chinese, Traditional Chinese, Arabic",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Swedish, Thai, Turkish, Ukrainian, Norwegian, Simplified Chinese, Traditional Chinese, Arabic",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/412090/header.jpg?t=1477042536",
   "website": "http://www.iobit.com",
   "pc_requirements": {
@@ -20,7 +20,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "<a href=\"https://steamcommunity.com/linkfilter/?url=http://www.iobit.com/en/eula.php\" target=\"_blank\" rel=\"noopener\"  >http://www.iobit.com/en/eula.php</a></a>",
+  "legal_notice": "<a href=\"https://steamcommunity.com/linkfilter/?url=http://www.iobit.com/en/eula.php\" target=\"_blank\" rel=\"noopener\"  >http://www.iobit.com/en/eula.php</a>",
   "developers": [
     "IObit"
   ],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 2799,
     "final": 2799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "27,99\u20ac"
   },
   "packages": [
     82288
@@ -195,5 +197,9 @@
     "url": "http://www.iobit.com",
     "email": "http://www.iobit.com/en/onlinefeedback.php"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/412090/page_bg_generated_v6b.jpg?t=1477042536"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/412090/page_bg_generated_v6b.jpg?t=1477042536",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -8,7 +8,7 @@
   "about_the_game": "<strong>Find out how fast your processor is with Geekbench. </strong><br><br>Geekbench is a cross-platform processor benchmark that provides a set of tests designed to quickly and accurately measure processor performance. Geekbench makes benchmarks easy to run and easy to understand. <br><br><strong>Cross Platform</strong><br>Compare apples and oranges. Or Macs and PCs. Geekbench is available for Windows, OS X, and Linux enabling you to benchmark different computers running different operating systems. <br><br><strong>Multi-Core</strong> <br>Whether you're running Geekbench on a a dual-core laptop or a multi-core workstation, Geekbench is able to measure the performance of all the processor cores in your system. Every processor benchmark is multi-threaded and multi-core aware to show you the true potential of your computer. <br><br><strong>One-click Benchmark</strong> <br>Don't spend your time configuring options or changing settings while wondering how other folks ran Geekbench. With just one click you can start benchmarking your system with the same tests and parameters as every other Geekbench user. <br><br><strong>Online Database</strong> <br>Share your Geekbench results with others by uploading your results to the Geekbench Browser. You can also compare your results with other users' results; with over 390,000 Geekbench 3 results, the Geekbench Browser provides a rich and varied database for comparisons.",
   "short_description": "Geekbench is a cross-platform processor benchmark that provides a set of tests designed to quickly and accurately measure processor performance. Geekbench makes benchmarks easy to run and easy to understand.",
   "supported_languages": "English",
-  "reviews": "\u201cThere are very few benchmarking apps for the Linux platform out there, and even fewer that can even come close to the quality and features of the Geekbench 3 app.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://news.softpedia.com/news/Benchmarking-Software-Geekbench-3-Becomes-the-First-App-on-Steam-for-Linux-432051.shtml\" target=\"_blank\" rel=\"noopener\"  >Softpedia</a></a><br>",
+  "reviews": "\u201cThere are very few benchmarking apps for the Linux platform out there, and even fewer that can even come close to the quality and features of the Geekbench 3 app.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://news.softpedia.com/news/Benchmarking-Software-Geekbench-3-Becomes-the-First-App-on-Steam-for-Linux-432051.shtml\" target=\"_blank\" rel=\"noopener\"  >Softpedia</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/264020/header.jpg?t=1447359428",
   "website": "http://www.primatelabs.com/geekbench/",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     34242
@@ -220,5 +222,9 @@
     "url": "http://support.primatelabs.com/",
     "email": "support@primatelabs.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/264020/page_bg_generated_v6b.jpg?t=1447359428"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/264020/page_bg_generated_v6b.jpg?t=1447359428",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

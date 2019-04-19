@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     112248
@@ -49,11 +51,11 @@
           "packageid": 112248,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Haven Moon - 4,99\u20ac",
+          "option_text": "Haven Moon - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -152,7 +154,7 @@
     }
   ],
   "recommendations": {
-    "total": 166
+    "total": 201
   },
   "achievements": {
     "total": 10,
@@ -207,5 +209,9 @@
     "url": "https://haven-moon.com",
     "email": "contact@haven-moon.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/493720/page_bg_generated_v6b.jpg?t=1518299818"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/493720/page_bg_generated_v6b.jpg?t=1518299818",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

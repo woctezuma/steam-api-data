@@ -1,6 +1,6 @@
 {
   "type": "dlc",
-  "name": "Cefore (Oiginal Soundtrack)",
+  "name": "Cefore (Original Soundtrack)",
   "steam_appid": 840520,
   "required_age": 0,
   "is_free": false,
@@ -12,7 +12,7 @@
     "name": "Cefore"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/840520/header.jpg?t=1523035711",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/840520/header.jpg?t=1542227610",
   "website": "http://playcefore.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 7<br></li><li><strong>Processor:</strong> Quad Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GTX 770<br></li><li><strong>Storage:</strong> 50 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>",
@@ -28,10 +28,12 @@
     ""
   ],
   "price_overview": {
-    "currency": "EUR",
-    "initial": 329,
-    "final": 329,
-    "discount_percent": 0
+    "currency": "USD",
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "$3.99"
   },
   "packages": [
     262373
@@ -39,7 +41,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Cefore (Oiginal Soundtrack)",
+      "title": "Buy Cefore (Original Soundtrack)",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -50,11 +52,11 @@
           "packageid": 262373,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Cefore OST - 3,29\u20ac",
+          "option_text": "Cefore OST - $3.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 329
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -91,27 +93,31 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/840520/ss_08530f37630d28a34f15bf694088667667f21f1b.600x338.jpg?t=1523035711",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/840520/ss_08530f37630d28a34f15bf694088667667f21f1b.1920x1080.jpg?t=1523035711"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/840520/ss_08530f37630d28a34f15bf694088667667f21f1b.600x338.jpg?t=1542227610",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/840520/ss_08530f37630d28a34f15bf694088667667f21f1b.1920x1080.jpg?t=1542227610"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/840520/ss_2b32aab9229ff1625f9bf693ebd3e0a118d7b7f7.600x338.jpg?t=1523035711",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/840520/ss_2b32aab9229ff1625f9bf693ebd3e0a118d7b7f7.1920x1080.jpg?t=1523035711"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/840520/ss_2b32aab9229ff1625f9bf693ebd3e0a118d7b7f7.600x338.jpg?t=1542227610",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/840520/ss_2b32aab9229ff1625f9bf693ebd3e0a118d7b7f7.1920x1080.jpg?t=1542227610"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/840520/ss_11bdebcb1c5fec6efee01a61ed408520be00bf13.600x338.jpg?t=1523035711",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/840520/ss_11bdebcb1c5fec6efee01a61ed408520be00bf13.1920x1080.jpg?t=1523035711"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/840520/ss_11bdebcb1c5fec6efee01a61ed408520be00bf13.600x338.jpg?t=1542227610",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/840520/ss_11bdebcb1c5fec6efee01a61ed408520be00bf13.1920x1080.jpg?t=1542227610"
     }
   ],
   "release_date": {
     "coming_soon": false,
-    "date": "6 Apr, 2018"
+    "date": "Apr 6, 2018"
   },
   "support_info": {
     "url": "www.pixelzgames.com",
     "email": "fortin.raphael@pixelzgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/840520/page_bg_generated_v6b.jpg?t=1523035711"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/840520/page_bg_generated_v6b.jpg?t=1542227610",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,7 +11,7 @@
     "appid": "557600",
     "name": "Gorogoa"
   },
-  "supported_languages": "English, French, German, Spanish, Japanese, Polish, Portuguese-Brazil, Russian, Simplified Chinese, Italian, Korean",
+  "supported_languages": "English, French, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Italian, Korean",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/745160/header.jpg?t=1513270856",
   "website": "http://gorogoa.com",
   "pc_requirements": {
@@ -28,8 +28,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 399,
-    "final": 279,
-    "discount_percent": 30
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     218609
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 218609,
-          "percent_savings_text": "-30%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Gorogoa - Soundtrack - <span class=\"discount_original_price\">3,99\u20ac</span> 2,79\u20ac",
+          "option_text": "Gorogoa - Soundtrack - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 279
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -93,6 +95,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/745160/ss_f8ecdf74d4d2e9d2e8c345b0ba7191ec0fd2cd97.1920x1080.jpg?t=1513270856"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Dec, 2017"
@@ -101,5 +106,9 @@
     "url": "",
     "email": "help@annapurnainteractive.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/745160/page_bg_generated_v6b.jpg?t=1513270856"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/745160/page_bg_generated_v6b.jpg?t=1513270856",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

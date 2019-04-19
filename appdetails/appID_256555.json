@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<strong>*NOTE* This pack is available in the in-game store under the Marketplace tab.  You are strongly recommended to find the product there and make your purchase from within the game.<br><br>In order to be able to use this add-on livery product, you MUST first own the Thompson Class B1 Loco Add-on.  If you check in the in-game store it will verify if you own it before you purchase.</strong><br><br>Designed by Edward Thompson, chief mechanical engineer for the LNER, the prototype for the new 4-6-0 \u2018B Class\u2019 (later classified as \u2018B1 Class\u2019) was the first two-cylinder main line locomotive built by the LNER. The B1 was designed for medium mixed traffic use but also had the requirement of being cheap to produce due to wartime and post-war economies. The B1s operated across the LNER network and more than 400 were built between 1942 and 1952. However, with the change in British Railways policies the Class was withdrawn in the 1960s, long before the end of its expected economic working life. <br><br>This add-on livery pack presents the locomotive in its earlier LNER Apple Green livery.<br><br><strong>You must own the Thompson Class B1 Loco Add-on before you will be able to use this add-on</strong>",
   "about_the_game": "<strong>*NOTE* This pack is available in the in-game store under the Marketplace tab.  You are strongly recommended to find the product there and make your purchase from within the game.<br><br>In order to be able to use this add-on livery product, you MUST first own the Thompson Class B1 Loco Add-on.  If you check in the in-game store it will verify if you own it before you purchase.</strong><br><br>Designed by Edward Thompson, chief mechanical engineer for the LNER, the prototype for the new 4-6-0 \u2018B Class\u2019 (later classified as \u2018B1 Class\u2019) was the first two-cylinder main line locomotive built by the LNER. The B1 was designed for medium mixed traffic use but also had the requirement of being cheap to produce due to wartime and post-war economies. The B1s operated across the LNER network and more than 400 were built between 1942 and 1952. However, with the change in British Railways policies the Class was withdrawn in the 1960s, long before the end of its expected economic working life. <br><br>This add-on livery pack presents the locomotive in its earlier LNER Apple Green livery.<br><br><strong>You must own the Thompson Class B1 Loco Add-on before you will be able to use this add-on</strong>",
-  "short_description": "",
+  "short_description": "*NOTE* This pack is available in the in-game store under the Marketplace tab. You are strongly recommended to find the product there and make your purchase from within the game.In order to be able to use this add-on livery product, you MUST first own the Thompson Class B1 Loco Add-on.",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     41336
@@ -141,6 +143,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/256555/ss_acb45018fbece17b2640adcf95257c50048b5dee.1920x1080.jpg?t=1447359669"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Apr, 2014"
@@ -149,5 +154,9 @@
     "url": "http://www.railsimulator.com/support.php",
     "email": "support@railsimulator.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/256555/page_bg_generated_v6b.jpg?t=1447359669"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/256555/page_bg_generated_v6b.jpg?t=1447359669",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

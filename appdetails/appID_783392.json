@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 3699,
     "final": 3699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "36,99\u20ac"
   },
   "packages": [
     236245
@@ -126,13 +128,11 @@
       "id": 4,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/783392/ss_75f7a812f2d3503122bd15b9e37dbb7a1a05ad91.600x338.jpg?t=1520027865",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/783392/ss_75f7a812f2d3503122bd15b9e37dbb7a1a05ad91.1920x1080.jpg?t=1520027865"
-    },
-    {
-      "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/783392/?t=1520027865",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/783392/?t=1520027865"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Feb, 2018"
@@ -141,5 +141,11 @@
     "url": "http://www.eastsidegames.com",
     "email": "support@tpbgame.zendesk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/783392/page_bg_generated_v6b.jpg?t=1520027865"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/783392/page_bg_generated_v6b.jpg?t=1520027865",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

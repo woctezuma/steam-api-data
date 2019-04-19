@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<strong>Tomorrow's Hero Pack</strong><br>Contains:<br>Leonhardt's sword<br>Tenma Sword<br>Alfa Beld Spear<br>Destructor<br>Issei Fubi<br>Parochial Megasuit<br><br><strong>Schie's Bargain Pack</strong><br>Contains:<br>Wiether wurst<br>Ice cream<br>Deshimaru<br>Brother Stave<br>HIROKO's<br><br><strong>Extra TP Pack </strong><br>Contains 2500PP and 20000TP",
   "about_the_game": "<strong>Tomorrow's Hero Pack</strong><br>Contains:<br>Leonhardt's sword<br>Tenma Sword<br>Alfa Beld Spear<br>Destructor<br>Issei Fubi<br>Parochial Megasuit<br><br><strong>Schie's Bargain Pack</strong><br>Contains:<br>Wiether wurst<br>Ice cream<br>Deshimaru<br>Brother Stave<br>HIROKO's<br><br><strong>Extra TP Pack </strong><br>Contains 2500PP and 20000TP",
-  "short_description": "",
+  "short_description": "Tomorrow's Hero PackContains:Leonhardt's swordTenma SwordAlfa Beld SpearDestructorIssei FubiParochial MegasuitSchie's Bargain PackContains:Wiether wurstIce creamDeshimaruBrother StaveHIROKO'sExtra TP Pack Contains 2500PP and 20000TP",
   "fullgame": {
     "appid": "260130",
     "name": "Agarest: Generations of War Zero"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     38631
@@ -116,6 +118,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/281602/ss_c395edc200612b201ab5dfa4cdc3b10b8e473f37.1920x1080.jpg?t=1447360508"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 May, 2014"
@@ -124,5 +129,9 @@
     "url": "",
     "email": "support@ghostlight.uk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/281602/page_bg_generated_v6b.jpg?t=1447360508"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/281602/page_bg_generated_v6b.jpg?t=1447360508",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

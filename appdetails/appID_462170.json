@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     100978
@@ -165,6 +167,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Apr, 2016"
@@ -173,5 +178,9 @@
     "url": "http://www.petroglyphgames.com",
     "email": "support@petroglyphgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/462170/page_bg_generated_v6b.jpg?t=1493662720"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/462170/page_bg_generated_v6b.jpg?t=1493662720",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

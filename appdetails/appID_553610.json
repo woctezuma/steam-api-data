@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 100,
     "final": 100,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,--\u20ac"
   },
   "packages": [
     137662
@@ -131,7 +133,7 @@
     }
   ],
   "achievements": {
-    "total": 16,
+    "total": 13,
     "highlighted": [
       {
         "name": "We didn't start the fire",
@@ -183,5 +185,9 @@
     "url": "http://slavitica.net/arsonville",
     "email": "support@slavitica.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/553610/page_bg_generated_v6b.jpg?t=1480024398"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/553610/page_bg_generated_v6b.jpg?t=1480024398",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

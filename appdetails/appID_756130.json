@@ -11,7 +11,7 @@
     "appid": "742630",
     "name": "Wonky Ship"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Japanese, Korean, Portuguese-Brazil, Russian, Simplified Chinese, Traditional Chinese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/756130/header.jpg?t=1511197816",
   "website": "http://wonkyship.com",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     222942
@@ -160,5 +162,9 @@
     "url": "http://kizstudios.com",
     "email": "gamesupport@kizstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/756130/page_bg_generated_v6b.jpg?t=1511197816"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/756130/page_bg_generated_v6b.jpg?t=1511197816",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

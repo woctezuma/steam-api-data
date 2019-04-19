@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     166183
@@ -148,5 +150,9 @@
     "url": "http://www.indierevo.net",
     "email": "team@indierevo.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/619100/page_bg_generated_v6b.jpg?t=1493073774"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/619100/page_bg_generated_v6b.jpg?t=1493073774",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

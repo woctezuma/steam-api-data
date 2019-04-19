@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Please Note: once purchased, the bonus content will appear in the game's root installation directory. <br />\r\n<br />\r\n&quot;Shardlight - Bonus Content&quot; features the full game soundtrack (48 tracks - over an hour's worth of music!), concept art (character art and propaganda posters!), 5 different wallpapers, and voiceover session videos.",
   "about_the_game": "Please Note: once purchased, the bonus content will appear in the game's root installation directory. <br />\r\n<br />\r\n&quot;Shardlight - Bonus Content&quot; features the full game soundtrack (48 tracks - over an hour's worth of music!), concept art (character art and propaganda posters!), 5 different wallpapers, and voiceover session videos.",
-  "short_description": "Please Note: once purchased, the bonus content will appear in the game's root installation directory. <br />\r\n<br />\r\nShardlight - bonus content features the full game soundtrack, concept art (character art and propaganda posters!), 5 different wallpapers, and voiceover session videos.",
+  "short_description": "Please Note: once purchased, the bonus content will appear in the game's root installation directory. Shardlight - bonus content features the full game soundtrack, concept art (character art and propaganda posters!), 5 different wallpapers, and voiceover session videos.",
   "fullgame": {
     "appid": "336130",
     "name": "Shardlight"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     95801
@@ -122,6 +124,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/447870/ss_fa079ac5a427a33b44ef106e35c4b773ae85a331.1920x1080.jpg?t=1457461833"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Mar, 2016"
@@ -130,5 +135,9 @@
     "url": "http://www.wadjeteyegames.com",
     "email": "admin@wadjeteyegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447870/page_bg_generated_v6b.jpg?t=1457461833"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447870/page_bg_generated_v6b.jpg?t=1457461833",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

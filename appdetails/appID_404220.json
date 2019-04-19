@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 1249,
+    "final": 1249,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,49\u20ac"
   },
   "packages": [
     223433
@@ -53,11 +55,11 @@
           "packageid": 223433,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: SNCF BB 75000 - 14,99\u20ac",
+          "option_text": "TANE DLC: SNCF BB 75000 - 12,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 1249
         }
       ]
     }
@@ -108,6 +110,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404220/ss_f546d2ceba8e7770c69cd421c54f7b1e28157b9b.1920x1080.jpg?t=1479203235"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Jan, 2016"
@@ -116,5 +121,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404220/page_bg_generated_v6b.jpg?t=1479203235"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404220/page_bg_generated_v6b.jpg?t=1479203235",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

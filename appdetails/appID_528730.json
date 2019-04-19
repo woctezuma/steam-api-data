@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 99,
-    "discount_percent": 50
+    "final": 199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     127078
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 127078,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Crypt of the Serpent King - <span class=\"discount_original_price\">1,99\u20ac</span> 0,99\u20ac",
+          "option_text": "Crypt of the Serpent King - 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -203,5 +205,9 @@
     "url": "http://www.rendercodegames.com/about--contact.html",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/528730/page_bg_generated_v6b.jpg?t=1484954765"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/528730/page_bg_generated_v6b.jpg?t=1484954765",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

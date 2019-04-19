@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>This DLC contains no extra in game material</strong>. Instead you get an art book with over 60 pages of concepts and illustrations that we have created during the making of <i>Medusa's Labyrinth</i>. Buying this DLC is also a way of supporting us, which would be very much appreciated and also sends a signal to publishers that people are willing to pay for this kind of game. Who knows? Maybe your contribution will help tip the scales in our favor.",
   "about_the_game": "<strong>This DLC contains no extra in game material</strong>. Instead you get an art book with over 60 pages of concepts and illustrations that we have created during the making of <i>Medusa's Labyrinth</i>. Buying this DLC is also a way of supporting us, which would be very much appreciated and also sends a signal to publishers that people are willing to pay for this kind of game. Who knows? Maybe your contribution will help tip the scales in our favor.",
-  "short_description": "The Art book Edition. If you love the style of Medusa we have a treat for you: An art book with over 60 pages filled with everything from early illustrations to polished promotional art for the game. You also get an insight in how our journey with game has looked like. <strong>This DLC contains no extra in game material</strong> so it is more a way of supporting us and getting something extra out of it as a bonus.",
+  "short_description": "The Art book Edition. If you love the style of Medusa we have a treat for you: An art book with over 60 pages filled with everything from early illustrations to polished promotional art for the game. You also get an insight in how our journey with game has looked like.",
   "fullgame": {
     "appid": "436110",
     "name": "Medusa's Labyrinth"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     94110
@@ -120,5 +122,9 @@
     "url": "http://gurugames.se/contact/",
     "email": "contact@gurugames.se"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/443400/page_bg_generated_v6b.jpg?t=1455574310"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/443400/page_bg_generated_v6b.jpg?t=1455574310",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

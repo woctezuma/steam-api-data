@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Bric is an intense randomized level game with pleasing smoothness in gameplay. You're a ball trying to move forward avoiding death from various black objects and avoid getting crushed by the white bars that close in on you while you move forward through levels. Try to beat your last high score by jumping and maneuvering around the obstacles ahead, discovering new ways to get around these levels.",
   "about_the_game": "Bric is an intense randomized level game with pleasing smoothness in gameplay. You're a ball trying to move forward avoiding death from various black objects and avoid getting crushed by the white bars that close in on you while you move forward through levels. Try to beat your last high score by jumping and maneuvering around the obstacles ahead, discovering new ways to get around these levels.",
-  "short_description": "Bric is an intense randomized level game with pleasing smoothness in gameplay. You're a ball trying to move forward avoiding death from various black objects and avoid getting crushed by the white bars that close in on you while you move forward through levels. Try to beat your last high score by jumping and maneuvering around the obstacles ahead, discovering new ways to get around these levels.",
+  "short_description": "Bric is an intense randomized level game with pleasing smoothness in gameplay. You're a ball trying to move forward avoiding death from various black objects and avoid getting crushed by the white bars that close in on you while you move forward through levels.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/537050/header.jpg?t=1477189200",
   "website": null,
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     130982
@@ -140,6 +142,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Oct, 2016"
@@ -148,5 +153,9 @@
     "url": "https://theodorepalsergames.wordpress.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/537050/page_bg_generated_v6b.jpg?t=1477189200"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/537050/page_bg_generated_v6b.jpg?t=1477189200",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

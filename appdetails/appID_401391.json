@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "You've finished the game, listened to the soundtrack, read the artbook back to front. Yet, somehow, you still can't get enough of this game. We have one more thing for you to spend your time on, a Papercraft model of Grutte Pier, the hero of Cross of the Dutchman! Just promise us you'll be careful with the scissors, and not to eat the glue when you're building this awesome model.",
   "about_the_game": "You've finished the game, listened to the soundtrack, read the artbook back to front. Yet, somehow, you still can't get enough of this game. We have one more thing for you to spend your time on, a Papercraft model of Grutte Pier, the hero of Cross of the Dutchman! Just promise us you'll be careful with the scissors, and not to eat the glue when you're building this awesome model.",
-  "short_description": "You've finished the game, listened to the soundtrack, read the artbook back to front. Yet, somehow, you still can't get enough of this game. We have one more thing for you to spend your time on, a Papercraft model of Grutte Pier, the hero of Cross of the Dutchman! Just promise us you'll be careful with the scissors, and not to eat the glue when you're building this awesome model.",
+  "short_description": "You've finished the game, listened to the soundtrack, read the artbook back to front. Yet, somehow, you still can't get enough of this game. We have one more thing for you to spend your time on, a Papercraft model of Grutte Pier, the hero of Cross of the Dutchman!",
   "fullgame": {
     "appid": "384000",
     "name": "Cross of the Dutchman"
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     78249
@@ -125,5 +127,9 @@
     "url": "www.triangle-studios.com",
     "email": "community@triangle-studios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/401391/page_bg_generated_v6b.jpg?t=1447377950"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/401391/page_bg_generated_v6b.jpg?t=1447377950",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

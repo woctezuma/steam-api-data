@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     68957
@@ -130,5 +132,9 @@
     "url": "http://invertmouse.com",
     "email": "invertmousegames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/374100/page_bg_generated_v6b.jpg?t=1447375320"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/374100/page_bg_generated_v6b.jpg?t=1447375320",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

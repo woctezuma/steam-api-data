@@ -11,7 +11,7 @@
     "appid": "460920",
     "name": "Steep\u2122"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Simplified Chinese, Traditional Chinese, Japanese<strong>*</strong>, Dutch, Polish, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Simplified Chinese, Traditional Chinese, Japanese<strong>*</strong>, Dutch, Polish, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/556391/header.jpg?t=1497614813",
   "website": "http://steepgame.com/",
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     139079
@@ -128,6 +130,12 @@
       "highlight": true
     }
   ],
+  "recommendations": {
+    "total": 127
+  },
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 May, 2017"
@@ -136,5 +144,9 @@
     "url": "https://support.ubi.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/556391/page_bg_generated_v6b.jpg?t=1497614813"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/556391/page_bg_generated_v6b.jpg?t=1497614813",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

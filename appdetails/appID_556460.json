@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Original soundtrack of &quot;The Legend of Dark Witch Episode 2&quot;.<br />\r\nFrom 52 songs that are used in the game.<br />\r\nComposer : Mr. Raito ( familiar Melty Blood and UNDER NIGHT IN-BIRTH )",
   "about_the_game": "Original soundtrack of &quot;The Legend of Dark Witch Episode 2&quot;.<br />\r\nFrom 52 songs that are used in the game.<br />\r\nComposer : Mr. Raito ( familiar Melty Blood and UNDER NIGHT IN-BIRTH )",
-  "short_description": "",
+  "short_description": "Original soundtrack of &quot;The Legend of Dark Witch Episode 2&quot;. From 52 songs that are used in the game. Composer : Mr.",
   "fullgame": {
     "appid": "555580",
     "name": "The Legend of Dark Witch 2 \uff08\u9b54\u795e\u5c11\u5973\u30a8\u30d4\u30bd\u30fc\u30c9\uff12\uff09"
@@ -32,10 +32,13 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
-    139138
+    139138,
+    343797
   ],
   "package_groups": [
     {
@@ -52,6 +55,16 @@
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Dark Witch 2 Soundtracks - 9,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 999
+        },
+        {
+          "packageid": 343797,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Dark Witch 2 Soundtracks - Commercial License - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -175,5 +188,9 @@
     "url": "",
     "email": "http://insidesystem.heteml.jp/mail_form.html"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/556460/page_bg_generated_v6b.jpg?t=1484910158"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/556460/page_bg_generated_v6b.jpg?t=1484910158",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

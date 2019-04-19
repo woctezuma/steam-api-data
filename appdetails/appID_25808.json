@@ -26,12 +26,12 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
-    7172,
-    29116,
-    29112
+    7172
   ],
   "package_groups": [
     {
@@ -52,26 +52,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 999
-        },
-        {
-          "packageid": 29116,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Europa Universalis III DLC Collection - 29,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2999
-        },
-        {
-          "packageid": 29112,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Europa Universalis III Collection - 39,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 3999
         }
       ]
     }
@@ -83,7 +63,7 @@
   },
   "metacritic": {
     "score": 71,
-    "url": "http://www.metacritic.com/game/pc/europa-universalis-iii-divine-wind?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/europa-universalis-iii-divine-wind?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -153,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/25808/ss_1254f57b1dac64ad3e86fb945762ad2d62ec2d84.1920x1080.jpg?t=1447353866"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Jan, 2011"
@@ -161,5 +144,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25808/page_bg_generated_v6b.jpg?t=1447353866"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25808/page_bg_generated_v6b.jpg?t=1447353866",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

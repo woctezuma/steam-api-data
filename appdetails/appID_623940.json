@@ -33,9 +33,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "initial": 649,
+    "final": 649,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,49\u20ac"
   },
   "packages": [
     168291,
@@ -55,21 +57,21 @@
           "packageid": 168291,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "HIVESWAP: Act 1 - 7,99\u20ac",
+          "option_text": "HIVESWAP: Act 1 - 6,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 649
         },
         {
           "packageid": 195313,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "HIVESWAP: Act 1 Soundtrack Edition - 11,99\u20ac",
+          "option_text": "HIVESWAP: Act 1 Soundtrack Edition - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1199
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -207,7 +209,7 @@
     }
   ],
   "recommendations": {
-    "total": 2738
+    "total": 2447
   },
   "achievements": {
     "total": 44,
@@ -262,5 +264,9 @@
     "url": "",
     "email": "inquiries@whatpumpkin.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/623940/page_bg_generated_v6b.jpg?t=1508192572"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/623940/page_bg_generated_v6b.jpg?t=1508192572",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

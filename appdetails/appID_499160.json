@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Shipwrecked, separated, and still sort of...dumb. The Red and Blue soldiers of Project Freelancer are continuing their misadventures on Chorus in the twelfth season of the longest running sci-fi/comedy series in history - Red vs. Blue. With their leaders captured, Tucker, Grif, Simmons, and Caboose now find themselves caught in the middle of a planet-wide civil war, and if they want to save their friends, they'll have to lead a hopeless army of rebels to victory. Between alien artifacts, subpar subordinates, and mysterious mercenaries, the heroes of Blood Gulch have got their work cut out for them, and they really hate work.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Shipwrecked, separated, and still sort of...dumb. The Red and Blue soldiers of Project Freelancer are continuing their misadventures on Chorus in the twelfth season of the longest running sci-fi/comedy series in history - Red vs. Blue. With their leaders captured, Tucker, Grif, Simmons, and Caboose now find themselves caught in the middle of a planet-wide civil war, and if they want to save their friends, they'll have to lead a hopeless army of rebels to victory. Between alien artifacts, subpar subordinates, and mysterious mercenaries, the heroes of Blood Gulch have got their work cut out for them, and they really hate work.",
   "about_the_game": "Shipwrecked, separated, and still sort of...dumb. The Red and Blue soldiers of Project Freelancer are continuing their misadventures on Chorus in the twelfth season of the longest running sci-fi/comedy series in history - Red vs. Blue. With their leaders captured, Tucker, Grif, Simmons, and Caboose now find themselves caught in the middle of a planet-wide civil war, and if they want to save their friends, they'll have to lead a hopeless army of rebels to victory. Between alien artifacts, subpar subordinates, and mysterious mercenaries, the heroes of Blood Gulch have got their work cut out for them, and they really hate work.",
   "short_description": "Shipwrecked, separated, and still sort of...dumb. The Red and Blue soldiers of Project Freelancer are continuing their misadventures on Chorus in the twelfth season of the longest running sci-fi/comedy series in history - Red vs. Blue.",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     114217,
@@ -155,6 +157,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Aug, 2016"
@@ -163,5 +168,9 @@
     "url": "http://www.cinedigm.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499160/page_bg_generated_v6b.jpg?t=1472754897"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499160/page_bg_generated_v6b.jpg?t=1472754897",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

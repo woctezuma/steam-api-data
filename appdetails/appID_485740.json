@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     109256
@@ -196,9 +198,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 102
-  },
   "achievements": {
     "total": 12,
     "highlighted": [
@@ -252,5 +251,9 @@
     "url": "",
     "email": "thrillpillgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/485740/page_bg_generated_v6b.jpg?t=1473095017"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/485740/page_bg_generated_v6b.jpg?t=1473095017",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

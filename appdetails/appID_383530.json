@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 549,
     "final": 549,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,49\u20ac"
   },
   "packages": [
     72060
@@ -138,6 +140,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jul, 2015"
@@ -146,5 +151,9 @@
     "url": "http://displacemedia.com/category/vortex-patch-notes/",
     "email": "support@displacemedia.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/383530/page_bg_generated_v6b.jpg?t=1447376861"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/383530/page_bg_generated_v6b.jpg?t=1447376861",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

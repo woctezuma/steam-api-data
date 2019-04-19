@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     64570
@@ -152,7 +154,7 @@
     }
   ],
   "recommendations": {
-    "total": 222
+    "total": 238
   },
   "achievements": {
     "total": 65,
@@ -207,5 +209,9 @@
     "url": "",
     "email": "doomanddestiny@hotmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/361040/page_bg_generated_v6b.jpg?t=1522843218"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/361040/page_bg_generated_v6b.jpg?t=1522843218",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

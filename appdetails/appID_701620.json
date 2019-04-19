@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     202204,
@@ -137,6 +139,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Sep, 2017"
@@ -145,5 +150,9 @@
     "url": "",
     "email": "yangzhi40@hotmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/701620/page_bg_generated_v6b.jpg?t=1505988636"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/701620/page_bg_generated_v6b.jpg?t=1505988636",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The Snik Soundtrack consists of two tracks.<br />\r\n<br />\r\nTracklist:<br />\r\nTrack 1<br />\r\nTrack 2",
   "about_the_game": "The Snik Soundtrack consists of two tracks.<br />\r\n<br />\r\nTracklist:<br />\r\nTrack 1<br />\r\nTrack 2",
-  "short_description": "",
+  "short_description": "The Snik Soundtrack consists of two tracks.",
   "fullgame": {
     "appid": "388050",
     "name": "Snik"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     77316
@@ -113,5 +115,9 @@
     "url": "http://www.cleverweek.com",
     "email": "support@cleverweek.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/399460/page_bg_generated_v6b.jpg?t=1447377792"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/399460/page_bg_generated_v6b.jpg?t=1447377792",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

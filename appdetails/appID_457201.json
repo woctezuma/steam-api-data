@@ -12,7 +12,7 @@
     "name": "Ticket to Ride"
   },
   "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/457201/header.jpg?t=1490375075",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/457201/header.jpg?t=1531496649",
   "website": "http://www.daysofwonder.com/online/t2r/steam/",
   "pc_requirements": {
     "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, Windows 7<br>\t</li><li><strong>Processor:</strong> Dual Core 1.6 GHz or better<br>\t</li><li><strong>Memory:</strong> 1GB (XP), 2GB (Vista), 2GB (Windows 7)<br>\t</li><li><strong>Hard Disk Space:</strong> 140 MB Free Space\t<br>\t</li><li><strong>Video Card:</strong> OpenGL 1.4 or higher<br>\t</li><li><strong>Sound:</strong> Windows supported Sound Card</li></ul>"
@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     99228
@@ -50,11 +52,11 @@
           "packageid": 99228,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Ticket to Ride - Pennsylvania - 4,99\u20ac",
+          "option_text": "Ticket to Ride - Pennsylvania - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -119,15 +121,18 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/457201/ss_680b33c9a6d6c40bb7f5e69673c27d2a67dc48a9.600x338.jpg?t=1490375075",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/457201/ss_680b33c9a6d6c40bb7f5e69673c27d2a67dc48a9.1920x1080.jpg?t=1490375075"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/457201/ss_680b33c9a6d6c40bb7f5e69673c27d2a67dc48a9.600x338.jpg?t=1531496649",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/457201/ss_680b33c9a6d6c40bb7f5e69673c27d2a67dc48a9.1920x1080.jpg?t=1531496649"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/457201/ss_dd8aca159447723388d2dac177d5270acf8378a2.600x338.jpg?t=1490375075",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/457201/ss_dd8aca159447723388d2dac177d5270acf8378a2.1920x1080.jpg?t=1490375075"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/457201/ss_dd8aca159447723388d2dac177d5270acf8378a2.600x338.jpg?t=1531496649",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/457201/ss_dd8aca159447723388d2dac177d5270acf8378a2.1920x1080.jpg?t=1531496649"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Sep, 2016"
@@ -136,5 +141,9 @@
     "url": "http://www.daysofwonder.com/contact/digital-t2r/",
     "email": "support@daysofwonder.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/457201/page_bg_generated_v6b.jpg?t=1490375075"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/457201/page_bg_generated_v6b.jpg?t=1531496649",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

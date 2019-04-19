@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     173433
@@ -49,11 +51,11 @@
           "packageid": 173433,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Suncore Chronicles: The Tower - Level 1 - 2,99\u20ac",
+          "option_text": "Suncore Chronicles: The Tower - Level 1 - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -167,5 +169,9 @@
     "url": "https://www.suncorechronicles.com",
     "email": "info@innerworldgames.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/634420/page_bg_generated_v6b.jpg?t=1523350679"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/634420/page_bg_generated_v6b.jpg?t=1523350679",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     133249
@@ -176,6 +178,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Oct, 2016"
@@ -184,5 +189,9 @@
     "url": "",
     "email": "thefrontier_game@yahoo.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/541760/page_bg_generated_v6b.jpg?t=1489298357"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/541760/page_bg_generated_v6b.jpg?t=1489298357",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

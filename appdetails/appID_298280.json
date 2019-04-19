@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     43319,
@@ -46,21 +48,21 @@
           "packageid": 43319,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "XenoRaptor - 9,99\u20ac",
+          "option_text": "XenoRaptor - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 819
         },
         {
           "packageid": 47879,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "XenoRaptor 4-Pack - 27,99\u20ac",
+          "option_text": "XenoRaptor 4-Pack - 24,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2799
+          "price_in_cents_with_discount": 2499
         }
       ]
     }
@@ -200,11 +202,50 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 120
-  },
   "achievements": {
-    "total": 0
+    "total": 10,
+    "highlighted": [
+      {
+        "name": "First Blood",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/298280/b232c9cc966929b2c821556e9bfe502056b65f97.jpg"
+      },
+      {
+        "name": "Deadnought",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/298280/d6f7caed4ba462022cb323962782f9c198224f08.jpg"
+      },
+      {
+        "name": "Terror Fortress Omega",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/298280/bf68390328c5649c2e077640e2c4c7303c99ba3c.jpg"
+      },
+      {
+        "name": "Blaster Master",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/298280/18ead84f152c4b9ad72cf0a81c21e4c5cc29008c.jpg"
+      },
+      {
+        "name": "Charging My Laser",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/298280/3b764bf11457a2fb9a6d6e22d00484df0532e431.jpg"
+      },
+      {
+        "name": "LOOT!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/298280/afcb51254cd79647bf8bf7718f8fd15b8dfa5745.jpg"
+      },
+      {
+        "name": "Loadsa Dakka",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/298280/ad2983b7f340983782236418e1a6f0cdae9a180e.jpg"
+      },
+      {
+        "name": "Millionaire",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/298280/5f8dff7de46f0358b76f69f06a8381e086ab1ba1.jpg"
+      },
+      {
+        "name": "Missile Massacre",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/298280/c9b030429f030b9e351a8fb371ae5d7137cd615a.jpg"
+      },
+      {
+        "name": "Get the Point(s)",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/298280/01e0d74a1fe7d92e63ce6d10fab63d3ad78e8172.jpg"
+      }
+    ]
   },
   "release_date": {
     "coming_soon": false,
@@ -214,5 +255,9 @@
     "url": "http://xenoraptor.net",
     "email": "peter.cleary@xenoraptor.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/298280/page_bg_generated_v6b.jpg?t=1502849365"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/298280/page_bg_generated_v6b.jpg?t=1502849365",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

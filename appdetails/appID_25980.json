@@ -11,7 +11,7 @@
   ],
   "detailed_description": "In the world of Majesty, you are the ruler of the kingdom Ardania. At your service are your loyal and somewhat obnoxious subordinates, who have their own minds about how things should be done.<br>\t\t\t\t\tIn fact, Majesty is the only game where your heroes decide on their own what should be done and when, leaving you to try to control them through monetary incentives.<br>\t\t\t\t\tKey Features<br>\t\t\t\t\t<ul class=\"bb_ul\"><li>Real-time strategy game with indirect control - your heroes have a will of their own.<br>\t\t\t\t\t</li><li>Play through a campaign with 16 missions divided into 4 chapters, as well as a few quick missions and a variety of multiplayer maps.<br>\t\t\t\t\t</li><li>Build the fantasy city of your dreams and experience an engaging world, but beware: monsters are waiting to lay siege to your domain.<br>\t\t\t\t\t</li><li>Defend your realm with noble warriors, spell-wielding wizards or wild barbarians. Choose from more than 10 different classes to oversee the protection of your lands.<br>\t\t\t\t\t</li><li>Multiplayer for up to 4 players over LAN<br>\t\t\t\t\t</li><li>The official sequel to the best-selling game Majesty: The Fantasy Kingdom Sim of 2000.<br>\t\t\t\t\t</li></ul>",
   "about_the_game": "In the world of Majesty, you are the ruler of the kingdom Ardania. At your service are your loyal and somewhat obnoxious subordinates, who have their own minds about how things should be done.<br>\t\t\t\t\tIn fact, Majesty is the only game where your heroes decide on their own what should be done and when, leaving you to try to control them through monetary incentives.<br>\t\t\t\t\tKey Features<br>\t\t\t\t\t<ul class=\"bb_ul\"><li>Real-time strategy game with indirect control - your heroes have a will of their own.<br>\t\t\t\t\t</li><li>Play through a campaign with 16 missions divided into 4 chapters, as well as a few quick missions and a variety of multiplayer maps.<br>\t\t\t\t\t</li><li>Build the fantasy city of your dreams and experience an engaging world, but beware: monsters are waiting to lay siege to your domain.<br>\t\t\t\t\t</li><li>Defend your realm with noble warriors, spell-wielding wizards or wild barbarians. Choose from more than 10 different classes to oversee the protection of your lands.<br>\t\t\t\t\t</li><li>Multiplayer for up to 4 players over LAN<br>\t\t\t\t\t</li><li>The official sequel to the best-selling game Majesty: The Fantasy Kingdom Sim of 2000.<br>\t\t\t\t\t</li></ul>",
-  "short_description": "",
+  "short_description": "In the world of Majesty, you are the ruler of the kingdom Ardania. At your service are your loyal and somewhat obnoxious subordinates, who have their own minds about how things should be done. In fact, Majesty is the only game where your heroes decide on their own what should be done and when, leaving you to try to control them through...",
   "supported_languages": "English, French, German",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/25980/header.jpg?t=1447352468",
   "website": "http://www.majesty2.com",
@@ -31,12 +31,13 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 249,
+    "discount_percent": 75,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
-    2120,
-    7886
+    2120
   ],
   "package_groups": [
     {
@@ -50,23 +51,13 @@
       "subs": [
         {
           "packageid": 2120,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "Majesty 2 - 9,99\u20ac",
+          "option_text": "Majesty 2 - <span class=\"discount_original_price\">9,99\u20ac</span> 2,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
-        },
-        {
-          "packageid": 7886,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Majesty 2 Collection - 19,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 1999
+          "price_in_cents_with_discount": 249
         }
       ]
     }
@@ -78,7 +69,7 @@
   },
   "metacritic": {
     "score": 72,
-    "url": "http://www.metacritic.com/game/pc/majesty-2-the-fantasy-kingdom-sim?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/majesty-2-the-fantasy-kingdom-sim?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -124,7 +115,10 @@
     }
   ],
   "recommendations": {
-    "total": 406
+    "total": 361
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -134,5 +128,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25980/page_bg_generated_v6b.jpg?t=1447352468"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25980/page_bg_generated_v6b.jpg?t=1447352468",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

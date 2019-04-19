@@ -12,7 +12,7 @@
     "appid": "304530",
     "name": "Agents of Mayhem"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Korean, Polish, Portuguese-Brazil, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/629021/header.jpg?t=1512032669",
   "website": "",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     171003
@@ -124,23 +126,11 @@
       "id": 2,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/629021/ss_6081a454312202a973196e7150a66e1b61eecf45.600x338.jpg?t=1512032669",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/629021/ss_6081a454312202a973196e7150a66e1b61eecf45.1920x1080.jpg?t=1512032669"
-    },
-    {
-      "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/629021/?t=1512032669",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/629021/?t=1512032669"
-    },
-    {
-      "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/629021/?t=1512032669",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/629021/?t=1512032669"
-    },
-    {
-      "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/629021/?t=1512032669",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/629021/?t=1512032669"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Oct, 2017"
@@ -149,5 +139,9 @@
     "url": "helpcenter.deepsilver.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/629021/page_bg_generated_v6b.jpg?t=1512032669"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/629021/page_bg_generated_v6b.jpg?t=1512032669",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

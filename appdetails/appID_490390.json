@@ -5,18 +5,20 @@
   "required_age": 0,
   "is_free": false,
   "dlc": [
-    501890
+    501890,
+    501891,
+    984280
   ],
   "detailed_description": "an Visual Novel &amp; Puzzle Game",
   "about_the_game": "an Visual Novel &amp; Puzzle Game",
   "short_description": "an Visual Novel &amp; Puzzle Game",
   "supported_languages": "Simplified Chinese<strong>*</strong>, English<br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201c\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://acg.shunwang.com/2016/0616/188033.shtml\" target=\"_blank\" rel=\"noopener\"  >\u987a\u7f51\u52a8\u6f2b-\u6d45\u8272\u56de\u5fc6</a></a><br>",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/490390/header.jpg?t=1510426387",
-  "website": "http://item.taobao.com/item.htm?id=533053565576",
+  "reviews": "\u201c\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://acg.shunwang.com/2016/0616/188033.shtml\" target=\"_blank\" rel=\"noopener\"  >\u987a\u7f51\u52a8\u6f2b-\u6d45\u8272\u56de\u5fc6</a><br>",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/490390/header.jpg?t=1542605302",
+  "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> 1GHz<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> <br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> 2GHz<br></li><li><strong>Memory:</strong> 4096 MB RAM<br></li><li><strong>Graphics:</strong> <br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e\u914d\u7f6e:</strong><br><ul class=\"bb_ul\"><li><strong>\u64cd\u4f5c\u7cfb\u7edf:</strong> windows Vista, 7, 8, 10<br></li><li><strong>\u5904\u7406\u5668:</strong> 1GHz<br></li><li><strong>\u5185\u5b58:</strong> 1024 MB RAM<br></li><li><strong>\u56fe\u5f62:</strong> <br></li><li><strong>\u5b58\u50a8\u7a7a\u95f4:</strong> \u9700\u8981 2 GB \u53ef\u7528\u7a7a\u95f4</li></ul>",
+    "recommended": "<strong>\u63a8\u8350\u914d\u7f6e:</strong><br><ul class=\"bb_ul\"><li><strong>\u64cd\u4f5c\u7cfb\u7edf:</strong> windows Vista, 7, 8, 10<br></li><li><strong>\u5904\u7406\u5668:</strong> 2GHz<br></li><li><strong>\u5185\u5b58:</strong> 4096 MB RAM<br></li><li><strong>\u56fe\u5f62:</strong> <br></li><li><strong>\u5b58\u50a8\u7a7a\u95f4:</strong> \u9700\u8981 10 GB \u53ef\u7528\u7a7a\u95f4</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -29,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 499,
+    "discount_percent": 50,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     110956
@@ -47,13 +51,13 @@
       "subs": [
         {
           "packageid": 110956,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "God's One Day World - 9,99\u20ac",
+          "option_text": "God's One Day World - <span class=\"discount_original_price\">9,99\u20ac</span> 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -82,28 +86,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_a468ab12bff0f6b06173cab1235ae149a0f663fd.600x338.jpg?t=1510426387",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_a468ab12bff0f6b06173cab1235ae149a0f663fd.1920x1080.jpg?t=1510426387"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_a468ab12bff0f6b06173cab1235ae149a0f663fd.600x338.jpg?t=1542605302",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_a468ab12bff0f6b06173cab1235ae149a0f663fd.1920x1080.jpg?t=1542605302"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_ee43bb7c3f1317ee17f4b125f9a7932681b150cc.600x338.jpg?t=1510426387",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_ee43bb7c3f1317ee17f4b125f9a7932681b150cc.1920x1080.jpg?t=1510426387"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_ee43bb7c3f1317ee17f4b125f9a7932681b150cc.600x338.jpg?t=1542605302",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_ee43bb7c3f1317ee17f4b125f9a7932681b150cc.1920x1080.jpg?t=1542605302"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_5e94d9150888e8f10d3b52c13e630eadd8b4d229.600x338.jpg?t=1510426387",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_5e94d9150888e8f10d3b52c13e630eadd8b4d229.1920x1080.jpg?t=1510426387"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_5e94d9150888e8f10d3b52c13e630eadd8b4d229.600x338.jpg?t=1542605302",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_5e94d9150888e8f10d3b52c13e630eadd8b4d229.1920x1080.jpg?t=1542605302"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_a2b96ced51caf166bd26f58d38d8486b124e2c41.600x338.jpg?t=1510426387",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_a2b96ced51caf166bd26f58d38d8486b124e2c41.1920x1080.jpg?t=1510426387"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_a2b96ced51caf166bd26f58d38d8486b124e2c41.600x338.jpg?t=1542605302",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_a2b96ced51caf166bd26f58d38d8486b124e2c41.1920x1080.jpg?t=1542605302"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_209f7d58d01f92ebbec896d6d33c89eb057ba091.600x338.jpg?t=1510426387",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_209f7d58d01f92ebbec896d6d33c89eb057ba091.1920x1080.jpg?t=1510426387"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_209f7d58d01f92ebbec896d6d33c89eb057ba091.600x338.jpg?t=1542605302",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/490390/ss_209f7d58d01f92ebbec896d6d33c89eb057ba091.1920x1080.jpg?t=1542605302"
     }
   ],
   "movies": [
@@ -119,7 +123,7 @@
     }
   ],
   "recommendations": {
-    "total": 595
+    "total": 402
   },
   "achievements": {
     "total": 0
@@ -132,5 +136,9 @@
     "url": "http://weibo.com/1680903893/",
     "email": "terric@qq.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/490390/page_bg_generated_v6b.jpg?t=1510426387"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/490390/page_bg_generated_v6b.jpg?t=1542605302",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

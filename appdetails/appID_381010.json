@@ -33,9 +33,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1299,
-    "final": 1299,
-    "discount_percent": 0
+    "initial": 1099,
+    "final": 1099,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,99\u20ac"
   },
   "packages": [
     71311
@@ -54,11 +56,11 @@
           "packageid": 71311,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Orion: A Sci-Fi Visual Novel - 12,99\u20ac",
+          "option_text": "Orion: A Sci-Fi Visual Novel - 10,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1299
+          "price_in_cents_with_discount": 1099
         }
       ]
     }
@@ -132,6 +134,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Sep, 2015"
@@ -140,5 +145,9 @@
     "url": "",
     "email": "contact@cylightstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/381010/page_bg_generated_v6b.jpg?t=1496101799"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/381010/page_bg_generated_v6b.jpg?t=1496101799",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

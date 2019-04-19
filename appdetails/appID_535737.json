@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     130250
@@ -116,5 +118,9 @@
     "url": "www.fourchords.com",
     "email": "steam@fourchords.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/535737/page_bg_generated_v6b.jpg?t=1475134095"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/535737/page_bg_generated_v6b.jpg?t=1475134095",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

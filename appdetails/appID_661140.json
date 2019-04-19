@@ -36,8 +36,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1399,
-    "final": 1399,
-    "discount_percent": 0
+    "final": 937,
+    "discount_percent": 33,
+    "initial_formatted": "13,99\u20ac",
+    "final_formatted": "9,37\u20ac"
   },
   "packages": [
     187415
@@ -54,13 +56,13 @@
       "subs": [
         {
           "packageid": 187415,
-          "percent_savings_text": "",
+          "percent_savings_text": "-33%",
           "percent_savings": 0,
-          "option_text": "Cattails Original Soundtrack & Deluxe Content - 13,99\u20ac",
+          "option_text": "Cattails Original Soundtrack & Deluxe Content - <span class=\"discount_original_price\">13,99\u20ac</span> 9,37\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1399
+          "price_in_cents_with_discount": 937
         }
       ]
     }
@@ -131,5 +133,9 @@
     "url": "http://cattailsgame.com/",
     "email": "cattailsgame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/661140/page_bg_generated_v6b.jpg?t=1512140369"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/661140/page_bg_generated_v6b.jpg?t=1512140369",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

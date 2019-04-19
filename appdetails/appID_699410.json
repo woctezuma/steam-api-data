@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     201225
@@ -129,5 +131,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/699410/page_bg_generated_v6b.jpg?t=1517536523"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/699410/page_bg_generated_v6b.jpg?t=1517536523",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

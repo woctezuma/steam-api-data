@@ -33,8 +33,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 399,
-    "final": 339,
-    "discount_percent": 15
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     88569
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 88569,
-          "percent_savings_text": "-15%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Germination - <span class=\"discount_original_price\">3,99\u20ac</span> 3,39\u20ac",
+          "option_text": "Germination - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 339
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -154,7 +156,7 @@
     }
   ],
   "achievements": {
-    "total": 7,
+    "total": 9,
     "highlighted": [
       {
         "name": "Scaevola",
@@ -183,6 +185,14 @@
       {
         "name": "Going Postal",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/428490/c9865bfa42a653c1c4e3c5377a58ad061531fc44.jpg"
+      },
+      {
+        "name": "NEW_ACHIEVEMENT_NAME_2_7",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/428490/c25ea449eeae79b228fa7ae7cadd512e71840be7.jpg"
+      },
+      {
+        "name": "NEW_ACHIEVEMENT_NAME_2_8",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/428490/c25ea449eeae79b228fa7ae7cadd512e71840be7.jpg"
       }
     ]
   },
@@ -194,5 +204,9 @@
     "url": "",
     "email": "sullivan.h.boyd9@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/428490/page_bg_generated_v6b.jpg?t=1523597490"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/428490/page_bg_generated_v6b.jpg?t=1523597490",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

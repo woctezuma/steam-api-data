@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "The <strong>NORSE race</strong> comes with its own official players (Lineman, Berserker, Runner, Thrower, Ulfwerener, Yhetee) along with a <strong>couple of star players</strong>: Wilhelm Chaney and Icepelt Hammerblow!<br><br>Norsemen are homicidal maniacs who love battle and beer! This rolling roadblock may not be the fastest team on the pitch, but with most players benefiting from Block it\u2019s certainly one of the toughest. <br><br>The Yhetee is the Norse\u2019s very own walking mountain. It's a special kind of Troll from the northern lands, adapted to the cold, harsh environment in order to survive. Norse team coaches include Yhetees in their Blood Bowl teams thanks to their <strong>deadly combination</strong> of claws, fierceness, and <strong>natural talent for destruction</strong>.",
   "about_the_game": "The <strong>NORSE race</strong> comes with its own official players (Lineman, Berserker, Runner, Thrower, Ulfwerener, Yhetee) along with a <strong>couple of star players</strong>: Wilhelm Chaney and Icepelt Hammerblow!<br><br>Norsemen are homicidal maniacs who love battle and beer! This rolling roadblock may not be the fastest team on the pitch, but with most players benefiting from Block it\u2019s certainly one of the toughest. <br><br>The Yhetee is the Norse\u2019s very own walking mountain. It's a special kind of Troll from the northern lands, adapted to the cold, harsh environment in order to survive. Norse team coaches include Yhetees in their Blood Bowl teams thanks to their <strong>deadly combination</strong> of claws, fierceness, and <strong>natural talent for destruction</strong>.",
-  "short_description": "",
+  "short_description": "The NORSE race comes with its own official players (Lineman, Berserker, Runner, Thrower, Ulfwerener, Yhetee) along with a couple of star players: Wilhelm Chaney and Icepelt Hammerblow!Norsemen are homicidal maniacs who love battle and beer!",
   "fullgame": {
     "appid": "236690",
     "name": "Blood Bowl 2"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German, Spanish, Polish, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German, Spanish - Spain, Polish, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/401590/header.jpg?t=1473669717",
   "website": "http://bloodbowl-game.com/",
   "pc_requirements": {
@@ -33,12 +33,14 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     78314,
     194844,
-    "192166"
+    192166
   ],
   "package_groups": [
     {
@@ -71,7 +73,7 @@
           "price_in_cents_with_discount": 3999
         },
         {
-          "packageid": "192166",
+          "packageid": 192166,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Blood Bowl 2 - Legendary Edition - 44,99\u20ac",
@@ -151,6 +153,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/401590/ss_cf0ce688afee08e68a933c3f15af8e3c380dd8ac.1920x1080.jpg?t=1473669717"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 May, 2016"
@@ -159,5 +164,9 @@
     "url": "http://www.focus-home.com/index.php?rub=support",
     "email": "support@focus-home.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/401590/page_bg_generated_v6b.jpg?t=1473669717"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/401590/page_bg_generated_v6b.jpg?t=1473669717",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

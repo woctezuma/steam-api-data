@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "<p>Downloadable content that includes a weapon plus one custom part.\n</p>\n\n<p>It may look plain, but Jessica feels that her weapons shouldn't look better than she does. It has a tan frame with the FBC seal carved into the polymer slide.\n",
   "about_the_game": "<p>Downloadable content that includes a weapon plus one custom part.\n</p>\n\n<p>It may look plain, but Jessica feels that her weapons shouldn't look better than she does. It has a tan frame with the FBC seal carved into the polymer slide.\n",
-  "short_description": "",
+  "short_description": "Downloadable content that includes a weapon plus one custom part. It may look plain, but Jessica feels that her weapons shouldn't look better than she does. It has a tan frame with the FBC seal carved into the polymer slide.",
   "fullgame": {
     "appid": "222480",
     "name": "Resident Evil Revelations / Biohazard Revelations"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong>, Russian, Japanese<strong>*</strong>, Portuguese, Polish, Dutch, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Russian, Japanese<strong>*</strong>, Portuguese, Polish, Dutch, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/229629/header.jpg?t=1447357267",
   "website": "http://www.residentevil.com",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     28611,
@@ -143,6 +145,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/229629/ss_b8f67b55ebe1c6e071765c70cedb5d3ca788cc06.1920x1080.jpg?t=1447357267"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Jun, 2013"
@@ -151,5 +156,9 @@
     "url": "http://shop.capcom.com/store/capcomus/html/pbPage.capcom-support",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/229629/page_bg_generated_v6b.jpg?t=1447357267"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/229629/page_bg_generated_v6b.jpg?t=1447357267",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

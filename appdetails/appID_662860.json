@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1999,
-    "final": 1999,
-    "discount_percent": 0
+    "initial": 1499,
+    "final": 1499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     188083
@@ -51,11 +53,11 @@
           "packageid": 188083,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Trainz Route: Japan - Model Trainz - 19,99\u20ac",
+          "option_text": "TANE DLC Route: Japan - Model Trainz - 14,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1999
+          "price_in_cents_with_discount": 1499
         }
       ]
     }
@@ -171,6 +173,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/662860/ss_a69bac24b97f8d3e0844ddb226a28b6176e5e97c.1920x1080.jpg?t=1498104737"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Jun, 2017"
@@ -179,5 +184,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/662860/page_bg_generated_v6b.jpg?t=1498104737"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/662860/page_bg_generated_v6b.jpg?t=1498104737",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

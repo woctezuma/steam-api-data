@@ -27,10 +27,12 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
-    "143098"
+    143098
   ],
   "package_groups": [
     {
@@ -43,7 +45,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "143098",
+          "packageid": 143098,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Minions, Monsters, and Madness - 3,99\u20ac",
@@ -137,6 +139,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Jan, 2017"
@@ -145,5 +150,9 @@
     "url": "",
     "email": "neverluckygames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/566200/page_bg_generated_v6b.jpg?t=1484101818"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/566200/page_bg_generated_v6b.jpg?t=1484101818",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

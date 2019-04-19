@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     177785
@@ -99,6 +101,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/640910/ss_41b6eab9ce304102c20cdc42f9edd41d59e793e5.1920x1080.jpg?t=1495182966"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 May, 2017"
@@ -107,5 +112,9 @@
     "url": "http://www.sluggerfly.com/",
     "email": "contact@sluggerfly.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/640910/page_bg_generated_v6b.jpg?t=1495182966"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/640910/page_bg_generated_v6b.jpg?t=1495182966",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

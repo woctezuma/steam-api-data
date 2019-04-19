@@ -28,8 +28,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 69,
-    "discount_percent": 30
+    "final": 44,
+    "discount_percent": 56,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,44\u20ac"
   },
   "packages": [
     227087
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 227087,
-          "percent_savings_text": "-30%",
+          "percent_savings_text": "-56%",
           "percent_savings": 0,
-          "option_text": "PooSky - Beer donate - <span class=\"discount_original_price\">0,99\u20ac</span> 0,69\u20ac",
+          "option_text": "PooSky - Beer donate - <span class=\"discount_original_price\">0,99\u20ac</span> 0,44\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 69
+          "price_in_cents_with_discount": 44
         }
       ]
     }
@@ -101,5 +103,9 @@
     "url": "",
     "email": "excellente23@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/767530/page_bg_generated_v6b.jpg?t=1523381973"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/767530/page_bg_generated_v6b.jpg?t=1523381973",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

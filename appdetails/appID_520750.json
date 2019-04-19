@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     123446,
@@ -133,11 +135,6 @@
       "id": 5,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/520750/ss_ff72f3416760d795a4c7a9a964c1fb2683280407.600x338.jpg?t=1506455715",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/520750/ss_ff72f3416760d795a4c7a9a964c1fb2683280407.1920x1080.jpg?t=1506455715"
-    },
-    {
-      "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/520750/?t=1506455715",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/520750/?t=1506455715"
     }
   ],
   "movies": [
@@ -191,5 +188,9 @@
     "url": "",
     "email": "madtrianglesgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/520750/page_bg_generated_v6b.jpg?t=1506455715"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/520750/page_bg_generated_v6b.jpg?t=1506455715",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

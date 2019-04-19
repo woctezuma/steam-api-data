@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>The Interwar Engineer sprite pack adds unique uniforms for armies using engineer divisions in the interwar period between WWI and WWII.\n</p>\n\n<p>From 1919 and forward, twelve countries will receive new, unique and historically accurate uniforms. Besides enhancing the visual appeal of your armies, it will also help you identify which of your armies have the important engineer units very quickly.\n</p>\n\n<p>The set includes 12 engineer uniforms:\n</p>\n\n<ul>\n<li> Austrian\n<li> British\n<li> Chinese\n<li> French\n<li> German\n<li> Italian\n<li> Japanese\n<li> Russian\n<li> Spanish\n<li> Swedish\n<li> Turkish\n<li> US armies receive new engineer uniforms\n</ul>\n\n",
   "about_the_game": "<p>The Interwar Engineer sprite pack adds unique uniforms for armies using engineer divisions in the interwar period between WWI and WWII.\n</p>\n\n<p>From 1919 and forward, twelve countries will receive new, unique and historically accurate uniforms. Besides enhancing the visual appeal of your armies, it will also help you identify which of your armies have the important engineer units very quickly.\n</p>\n\n<p>The set includes 12 engineer uniforms:\n</p>\n\n<ul>\n<li> Austrian\n<li> British\n<li> Chinese\n<li> French\n<li> German\n<li> Italian\n<li> Japanese\n<li> Russian\n<li> Spanish\n<li> Swedish\n<li> Turkish\n<li> US armies receive new engineer uniforms\n</ul>\n\n",
-  "short_description": "",
+  "short_description": "The Interwar Engineer sprite pack adds unique uniforms for armies using engineer divisions in the interwar period between WWI and WWII. From 1919 and forward, twelve countries will receive new, unique and historically accurate uniforms.",
   "fullgame": {
     "appid": "42960",
     "name": "Victoria II"
@@ -31,11 +31,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    27089,
-    29111
+    27089
   ],
   "package_groups": [
     {
@@ -56,16 +57,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 199
-        },
-        {
-          "packageid": 29111,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Victoria II DLC Collection - 24,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2499
         }
       ]
     }
@@ -147,6 +138,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/215004/ss_450f64f9191d739c1d42d8348ce32708b7ff1024.1920x1080.jpg?t=1447357774"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Apr, 2013"
@@ -155,5 +149,9 @@
     "url": "www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/215004/page_bg_generated_v6b.jpg?t=1447357774"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/215004/page_bg_generated_v6b.jpg?t=1447357774",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

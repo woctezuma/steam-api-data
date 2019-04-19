@@ -11,8 +11,8 @@
     "appid": "351910",
     "name": "Valhalla Hills"
   },
-  "supported_languages": "English, German, Russian, French, Italian, Spanish, Japanese, Korean, Polish, Portuguese-Brazil, Simplified Chinese, Traditional Chinese",
-  "reviews": "\u201cEven just watching Valhalla Hills is really fun!\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.eurogamer.de/articles/2015-08-06-gamescom-angeschaut-valhalla-hills\" target=\"_blank\" rel=\"noopener\"  >Eurogamer</a></a><br><br>\u201cI was right at home when playing Valhalla Hills. It carries the spirit of strategy simulations like Settlers and Cultures really well.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.gamestar.de/spiele/valhalla-hills/artikel/valhalla_hills,52582,3234996.html\" target=\"_blank\" rel=\"noopener\"  >Gamestar</a></a><br><br>\u201cValhalla Hills isn\u2019t a Settlers clone but it does take some of the series\u2019 more interesting elements and blends them with some new ones.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.hookedgamers.com/pc/valhalla_hills/preview/article-1318.html\" target=\"_blank\" rel=\"noopener\"  >Hooked Gamers</a></a><br>",
+  "supported_languages": "English, German, Russian, French, Italian, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Simplified Chinese, Traditional Chinese",
+  "reviews": "\u201cEven just watching Valhalla Hills is really fun!\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.eurogamer.de/articles/2015-08-06-gamescom-angeschaut-valhalla-hills\" target=\"_blank\" rel=\"noopener\"  >Eurogamer</a><br><br>\u201cI was right at home when playing Valhalla Hills. It carries the spirit of strategy simulations like Settlers and Cultures really well.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.gamestar.de/spiele/valhalla-hills/artikel/valhalla_hills,52582,3234996.html\" target=\"_blank\" rel=\"noopener\"  >Gamestar</a><br><br>\u201cValhalla Hills isn\u2019t a Settlers clone but it does take some of the series\u2019 more interesting elements and blends them with some new ones.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.hookedgamers.com/pc/valhalla_hills/preview/article-1318.html\" target=\"_blank\" rel=\"noopener\"  >Hooked Gamers</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/394340/header.jpg?t=1480723272",
   "website": "http://www.valhalla-hills.com/",
   "pc_requirements": {
@@ -34,9 +34,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 2799,
-    "final": 2799,
-    "discount_percent": 0
+    "initial": 1999,
+    "final": 299,
+    "discount_percent": 85,
+    "initial_formatted": "19,99\u20ac",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     75645,
@@ -54,13 +56,13 @@
       "subs": [
         {
           "packageid": 75645,
-          "percent_savings_text": "",
+          "percent_savings_text": "-85%",
           "percent_savings": 0,
-          "option_text": "Valhalla Hills: Two-Horned Helmet Edition - 27,99\u20ac",
+          "option_text": "Valhalla Hills: Two-Horned Helmet Edition - <span class=\"discount_original_price\">19,99\u20ac</span> 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2799
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -194,6 +196,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Dec, 2015"
@@ -202,5 +207,9 @@
     "url": "http://forum.daedalic.de/",
     "email": "support@daedalic.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/394340/page_bg_generated_v6b.jpg?t=1480723272"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/394340/page_bg_generated_v6b.jpg?t=1480723272",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

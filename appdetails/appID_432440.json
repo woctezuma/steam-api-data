@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Rytmik Ultimate is a powerful music station allowing you not only to play with samples and musical instruments but also to mix them together, shape them and create music clips or whole songs for your Friday night set-list.<br><br>Thanks to new features, Rytmik Ultimate takes music creation to a whole new level. Rytmik allows you to share your songs with other users through the Rytmik Cloud and can also serve as a music player for songs uploaded on Rytmik Cloud with it. On top of that, users can exchange their songs and cooperate on their composing.<br><br>Once your work is complete, you can save it in WAV format to local storage.<br><br>And that\u2019s not all! <br><br>Every instrument is now a wavetable synthesizer. With the advanced effect module, you have more power to shape sounds with the ADSR envelope, vibrato, portamento, noise shaper, or digital delay. In addition to that, the drawable waveform synth module allows users to draw and modify their own wave and use it as a sample oscillator \u2013 with that you can use Rytmik Ultimate as a sonically unique chiptune synthesizer.<br><br>Rytmik Ultimate comes with a sound library of more than 750 instruments containing the libraries of the previous Rytmik series (Rytmik, Retrobits, Hiphop King and World Music) and adding a brand new set of samples ranging from deep dubstep kicks and basses to cutting synth leads and special effects. <br><br>Rytmik Ultimate with Rytmik Cloud will of course include more features and additions to the popular series to enrich your experience with playing with sounds and creating music on the go.<br><br><strong>Key Features</strong><br><ul class=\"bb_ul\"><li>Share your songs via Rytmik Cloud<br></li><li>Save and export your music in the WAV format<br></li><li>More than 750 musical instruments<br></li><li>A drawable waveform synth module<br></li><li>Advanced effects like the ADSR Envelope, Digital Delay, Noise Shaper, Sample Offset and Loop Definition and more<br></li><li>Almost every effect parameter can be modulated via the step sequencer<br></li><li>Simple and intuitive yet powerful interface<br></li><li>Rytmik Ultimate is a powerful music station.</li></ul>",
   "about_the_game": "Rytmik Ultimate is a powerful music station allowing you not only to play with samples and musical instruments but also to mix them together, shape them and create music clips or whole songs for your Friday night set-list.<br><br>Thanks to new features, Rytmik Ultimate takes music creation to a whole new level. Rytmik allows you to share your songs with other users through the Rytmik Cloud and can also serve as a music player for songs uploaded on Rytmik Cloud with it. On top of that, users can exchange their songs and cooperate on their composing.<br><br>Once your work is complete, you can save it in WAV format to local storage.<br><br>And that\u2019s not all! <br><br>Every instrument is now a wavetable synthesizer. With the advanced effect module, you have more power to shape sounds with the ADSR envelope, vibrato, portamento, noise shaper, or digital delay. In addition to that, the drawable waveform synth module allows users to draw and modify their own wave and use it as a sample oscillator \u2013 with that you can use Rytmik Ultimate as a sonically unique chiptune synthesizer.<br><br>Rytmik Ultimate comes with a sound library of more than 750 instruments containing the libraries of the previous Rytmik series (Rytmik, Retrobits, Hiphop King and World Music) and adding a brand new set of samples ranging from deep dubstep kicks and basses to cutting synth leads and special effects. <br><br>Rytmik Ultimate with Rytmik Cloud will of course include more features and additions to the popular series to enrich your experience with playing with sounds and creating music on the go.<br><br><strong>Key Features</strong><br><ul class=\"bb_ul\"><li>Share your songs via Rytmik Cloud<br></li><li>Save and export your music in the WAV format<br></li><li>More than 750 musical instruments<br></li><li>A drawable waveform synth module<br></li><li>Advanced effects like the ADSR Envelope, Digital Delay, Noise Shaper, Sample Offset and Loop Definition and more<br></li><li>Almost every effect parameter can be modulated via the step sequencer<br></li><li>Simple and intuitive yet powerful interface<br></li><li>Rytmik Ultimate is a powerful music station.</li></ul>",
-  "short_description": "<strong>This DLC update Rytmik Lite to Rytmik Ultimate. Rytmik Ultimate contains library of 750 musical instruments.</strong><br><br>Rytmik Ultimate is a powerful music station allowing you not only to play with samples and musical instruments but also to mix them together, shape them and create music clips or whole songs for your Friday night set-list.",
+  "short_description": "This DLC update Rytmik Lite to Rytmik Ultimate. Rytmik Ultimate contains library of 750 musical instruments.Rytmik Ultimate is a powerful music station allowing you not only to play with samples and musical instruments but also to mix them together, shape them and create music clips or whole songs for your Friday night set-list.",
   "fullgame": {
     "appid": "432330",
     "name": "Rytmik Lite Chiptune Synthesizer"
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1199,
-    "final": 479,
-    "discount_percent": 60
+    "final": 1199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     89916
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 89916,
-          "percent_savings_text": "-60%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Upgrade to Rytmik Ultimate - <span class=\"discount_original_price\">11,99\u20ac</span> 4,79\u20ac",
+          "option_text": "Upgrade to Rytmik Ultimate - 11,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 479
+          "price_in_cents_with_discount": 1199
         }
       ]
     }
@@ -153,5 +155,9 @@
     "url": "http://rytmikultimate.com/support/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/432440/page_bg_generated_v6b.jpg?t=1490886663"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/432440/page_bg_generated_v6b.jpg?t=1490886663",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

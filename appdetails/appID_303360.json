@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 1199,
+    "final": 1199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     44734
@@ -48,11 +50,11 @@
           "packageid": 44734,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Ether One: Deluxe Edition Upgrade - 14,99\u20ac",
+          "option_text": "Ether One: Deluxe Edition Upgrade - 11,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 1199
         }
       ]
     }
@@ -97,5 +99,9 @@
     "url": "http://ether-game.com/support.php",
     "email": "support@whitepapergames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/303360/page_bg_generated_v6b.jpg?t=1447361989"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/303360/page_bg_generated_v6b.jpg?t=1447361989",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

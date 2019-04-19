@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Endless version randomly choosed levels.<br />\r\n<br />\r\nStay on the platform as long as you can, on your way there will be many obstacles and rogue ninja's. Dodge these obstacles to increase your score. <br />\r\n<br />\r\nGame controls: <br />\r\n-Keyboard and Mouse- <br />\r\nleft mouse button: Jump <br />\r\nor <br />\r\nup arrow key: Jump <br />\r\nbackspace: Throw Kunai <br />\r\n<br />\r\n-Joystick- <br />\r\nA= Jump <br />\r\nY= Throw Kunai",
   "about_the_game": "Endless version randomly choosed levels.<br />\r\n<br />\r\nStay on the platform as long as you can, on your way there will be many obstacles and rogue ninja's. Dodge these obstacles to increase your score. <br />\r\n<br />\r\nGame controls: <br />\r\n-Keyboard and Mouse- <br />\r\nleft mouse button: Jump <br />\r\nor <br />\r\nup arrow key: Jump <br />\r\nbackspace: Throw Kunai <br />\r\n<br />\r\n-Joystick- <br />\r\nA= Jump <br />\r\nY= Throw Kunai",
-  "short_description": "Endless version randomly choosed levels.<br />\r\n<br />\r\nStay on the platform as long as you can, on your way there will be many obstacles and rogue ninja's. Dodge these obstacles to increase your score.",
+  "short_description": "Endless version randomly choosed levels. Stay on the platform as long as you can, on your way there will be many obstacles and rogue ninja's. Dodge these obstacles to increase your score.",
   "fullgame": {
     "appid": "389160",
     "name": "Shadow Ninja: Apocalypse"
@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     85385
@@ -48,11 +50,11 @@
           "packageid": 85385,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Shadow Ninja: Endless Runner - 0,99\u20ac",
+          "option_text": "Shadow Ninja: Endless Runner - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -183,5 +185,9 @@
     "url": "http://www.boogygames.com",
     "email": "boogygames@outlook.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/420050/page_bg_generated_v6b.jpg?t=1506692319"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/420050/page_bg_generated_v6b.jpg?t=1506692319",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

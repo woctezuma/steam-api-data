@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Onager! is a physics based game filled with challenging puzzles in fully destructible environment, the goal is to destroy all blue monsters and their lairs using as few shots as possible to gain maximum score, but monsters can be tricky too, do not let them to fool you.<br><br>Key features:<br><br><ul class=\"bb_ul\"><li>Destructible world</li></ul><br><ul class=\"bb_ul\"><li>2D physics simulation</li></ul><br><ul class=\"bb_ul\"><li>Many puzzles are waiting for you, while you're going through the game</li></ul><br><ul class=\"bb_ul\"><li>Steam leaderboard support</li></ul><br><ul class=\"bb_ul\"><li>27 levels</li></ul>",
   "about_the_game": "Onager! is a physics based game filled with challenging puzzles in fully destructible environment, the goal is to destroy all blue monsters and their lairs using as few shots as possible to gain maximum score, but monsters can be tricky too, do not let them to fool you.<br><br>Key features:<br><br><ul class=\"bb_ul\"><li>Destructible world</li></ul><br><ul class=\"bb_ul\"><li>2D physics simulation</li></ul><br><ul class=\"bb_ul\"><li>Many puzzles are waiting for you, while you're going through the game</li></ul><br><ul class=\"bb_ul\"><li>Steam leaderboard support</li></ul><br><ul class=\"bb_ul\"><li>27 levels</li></ul>",
-  "short_description": "Do you like to destroy huts and castles ? Do you like to solve puzzles too ? Then this game is for you!<br />\r\nOnager! is a physics based game filled with challenging puzzles in fully destructible environment, the goal is to destroy all blue monsters and their lairs using as few shots as possible to gain maximum score, but monsters can be tricky too, do not let them to fool you.",
+  "short_description": "Do you like to destroy huts and castles ? Do you like to solve puzzles too ? Then this game is for you! Onager! is a physics based game filled with challenging puzzles in fully destructible environment, the goal is to destroy all blue monsters and their lairs using as few shots as possible to gain maximum score, but monsters can be...",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/705440/header.jpg?t=1513653501",
   "website": "https://www.facebook.com/onager1/",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     203567
@@ -130,6 +132,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Sep, 2017"
@@ -138,5 +143,9 @@
     "url": "https://www.facebook.com/onager1/",
     "email": "rusti_games@yahoo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/705440/page_bg_generated_v6b.jpg?t=1513653501"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/705440/page_bg_generated_v6b.jpg?t=1513653501",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

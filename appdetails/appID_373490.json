@@ -4,8 +4,8 @@
   "steam_appid": 373490,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "If you already own <a href=\"http://store.steampowered.com/sub/59062\" target=\"_blank\" rel=\"noreferrer\"  >King\u2019s Quest(TM): The Complete Collection</a></a> or <a href=\"http://store.steampowered.com/app/385721/\" target=\"_blank\" rel=\"noreferrer\"  >Season Pass</a></a>, DO NOT repurchase this content here or you will be charged again. Please download new chapters from within the game.  <a href=\"http://store.steampowered.com/app/345390/\" target=\"_blank\" rel=\"noreferrer\"  >King\u2019s Quest - Chapter 1: A Knight to Remember</a></a> is required to play this content and is available to download and play for <strong><i>free</i></strong>.<br><br>In his latest adventure, King Graham recounts the time he had to rescue Prince Alexander from Queen Icebella's Frozen Castle.",
-  "about_the_game": "If you already own <a href=\"http://store.steampowered.com/sub/59062\" target=\"_blank\" rel=\"noreferrer\"  >King\u2019s Quest(TM): The Complete Collection</a></a> or <a href=\"http://store.steampowered.com/app/385721/\" target=\"_blank\" rel=\"noreferrer\"  >Season Pass</a></a>, DO NOT repurchase this content here or you will be charged again. Please download new chapters from within the game.  <a href=\"http://store.steampowered.com/app/345390/\" target=\"_blank\" rel=\"noreferrer\"  >King\u2019s Quest - Chapter 1: A Knight to Remember</a></a> is required to play this content and is available to download and play for <strong><i>free</i></strong>.<br><br>In his latest adventure, King Graham recounts the time he had to rescue Prince Alexander from Queen Icebella's Frozen Castle.",
+  "detailed_description": "If you already own <a href=\"http://store.steampowered.com/sub/59062\" target=\"_blank\" rel=\"noreferrer\"  >King\u2019s Quest(TM): The Complete Collection</a> or <a href=\"http://store.steampowered.com/app/385721/\" target=\"_blank\" rel=\"noreferrer\"  >Season Pass</a>, DO NOT repurchase this content here or you will be charged again. Please download new chapters from within the game.  <a href=\"http://store.steampowered.com/app/345390/\" target=\"_blank\" rel=\"noreferrer\"  >King\u2019s Quest - Chapter 1: A Knight to Remember</a> is required to play this content and is available to download and play for <strong><i>free</i></strong>.<br><br>In his latest adventure, King Graham recounts the time he had to rescue Prince Alexander from Queen Icebella's Frozen Castle.",
+  "about_the_game": "If you already own <a href=\"http://store.steampowered.com/sub/59062\" target=\"_blank\" rel=\"noreferrer\"  >King\u2019s Quest(TM): The Complete Collection</a> or <a href=\"http://store.steampowered.com/app/385721/\" target=\"_blank\" rel=\"noreferrer\"  >Season Pass</a>, DO NOT repurchase this content here or you will be charged again. Please download new chapters from within the game.  <a href=\"http://store.steampowered.com/app/345390/\" target=\"_blank\" rel=\"noreferrer\"  >King\u2019s Quest - Chapter 1: A Knight to Remember</a> is required to play this content and is available to download and play for <strong><i>free</i></strong>.<br><br>In his latest adventure, King Graham recounts the time he had to rescue Prince Alexander from Queen Icebella's Frozen Castle.",
   "short_description": "In his latest adventure, King Graham recounts the time he had to rescue Prince Alexander from Queen Icebella's Frozen Castle.",
   "fullgame": {
     "appid": "345390",
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     68767
@@ -157,6 +159,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Sep, 2016"
@@ -165,5 +170,9 @@
     "url": "http://support.activision.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/373490/page_bg_generated_v6b.jpg?t=1474995621"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/373490/page_bg_generated_v6b.jpg?t=1474995621",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

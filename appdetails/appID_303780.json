@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     44837,
@@ -126,6 +128,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/303780/ss_db5b54b143db7edea8ec5d502e56ad619d41851a.1920x1080.jpg?t=1447362012"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 May, 2014"
@@ -134,5 +139,9 @@
     "url": "",
     "email": "jake@vagabonddog.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/303780/page_bg_generated_v6b.jpg?t=1447362012"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/303780/page_bg_generated_v6b.jpg?t=1447362012",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

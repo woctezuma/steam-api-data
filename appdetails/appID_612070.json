@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h1>BUG FIX</h1><p>Currently we fix a bug while Kio is killed by laser during fight the final boss.</p><br><h1>Mac version testing</h1><p>We are sorry about the Mac version of this game is still under testing. It might be released soon.</p><br><h1>Bug fixed again</h1><p>We fixed a bug that some statements are incorrect, and a bug which cannot process the &quot;Dumb ways to die&quot; achievement.</p><br><h1>Mac version released</h1><p>I am glad to tell the Mac version can be downloaded now.</p><br><h1>About the Game</h1>&quot;Kio's Adventure&quot; tells the story about a high school girl named Kio suddenly goes to a different world which is surrounded by organs and monsters after a wired earthquake. Players need to help Kio escape this horrible world. \r\n\r\nThe game artwork uses 16bit pixel style. The contents of the game is full of horror decryption and other strange elements, and the game has a lot of bloody scenes which may cause the player uneasy. \r\n\r\nPlease be sure you are over 18 years old to play this game.",
   "about_the_game": "&quot;Kio's Adventure&quot; tells the story about a high school girl named Kio suddenly goes to a different world which is surrounded by organs and monsters after a wired earthquake. Players need to help Kio escape this horrible world. <br />\r\n<br />\r\nThe game artwork uses 16bit pixel style. The contents of the game is full of horror decryption and other strange elements, and the game has a lot of bloody scenes which may cause the player uneasy. <br />\r\n<br />\r\nPlease be sure you are over 18 years old to play this game.",
-  "short_description": "&quot;Kio's Adventure&quot; tells the story about a high school girl named Kio suddenly goes to a different world which is surrounded by organs and monsters after a wired earthquake. Players need to help Kio escape this horrible world. <br />\r\n<br />\r\nThe game artwork uses 16bit pixel style. The contents of the game is full of horror decryption and other strange elements, and the game has a lot of bloody scenes which may cause the player uneasy. <br />\r\n<br />\r\nPlease be sure you are over 18 years old to play this game.",
+  "short_description": "&quot;Kio's Adventure&quot; tells the story about a high school girl named Kio suddenly goes to a different world which is surrounded by organs and monsters after a wired earthquake. Players need to help Kio escape this horrible world. The game artwork uses 16bit pixel style.",
   "supported_languages": "English, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/612070/header.jpg?t=1520233657",
   "website": null,
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     163793
@@ -132,7 +134,7 @@
     }
   ],
   "recommendations": {
-    "total": 954
+    "total": 1087
   },
   "achievements": {
     "total": 32,
@@ -187,5 +189,13 @@
     "url": "",
     "email": "spacelight@foxmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/612070/page_bg_generated_v6b.jpg?t=1520233657"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/612070/page_bg_generated_v6b.jpg?t=1520233657",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

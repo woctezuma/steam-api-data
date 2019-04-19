@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     167863
@@ -138,11 +140,6 @@
       "id": 10,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623380/ss_d477e2797787d9cc833ca4e63c4460deca9bb285.600x338.jpg?t=1518238619",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623380/ss_d477e2797787d9cc833ca4e63c4460deca9bb285.1920x1080.jpg?t=1518238619"
-    },
-    {
-      "id": 11,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/623380/?t=1518238619",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/623380/?t=1518238619"
     }
   ],
   "movies": [
@@ -210,5 +207,9 @@
     "url": "",
     "email": "lukayson@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/623380/page_bg_generated_v6b.jpg?t=1518238619"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/623380/page_bg_generated_v6b.jpg?t=1518238619",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

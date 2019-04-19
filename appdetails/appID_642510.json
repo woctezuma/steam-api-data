@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Original Cold Waters soundtrack composed by Aleksi Aubry-Carlson</strong><br><br>Features nearly 45 minutes of music from 11 tracks of superior quality to those that ship with the Cold Waters game. Help support the ongoing development of naval simulations by Killerfish Games as proceeds go directly back into game development.<br><br>Tracks:<br>Cold Waters Theme (03:12)<br>Cold Waters Main Menu (01:40)<br>Cold Waters Strategy (01:45)<br>Cold Waters Campaign Loss (00:56)<br>Cold Waters Campaign Victory (01:24)<br>Cold Waters Combat 01 (10:06)<br>Cold Waters Combat 02 (08:36)<br>Cold Waters Combat 03 (07:17)<br>Cold Waters Combat 04 (08:16)<br>Cold Waters Loss Gulag (00:56)<br>Cold Waters Nuclear Winter (00:39)",
   "about_the_game": "<strong>Original Cold Waters soundtrack composed by Aleksi Aubry-Carlson</strong><br><br>Features nearly 45 minutes of music from 11 tracks of superior quality to those that ship with the Cold Waters game. Help support the ongoing development of naval simulations by Killerfish Games as proceeds go directly back into game development.<br><br>Tracks:<br>Cold Waters Theme (03:12)<br>Cold Waters Main Menu (01:40)<br>Cold Waters Strategy (01:45)<br>Cold Waters Campaign Loss (00:56)<br>Cold Waters Campaign Victory (01:24)<br>Cold Waters Combat 01 (10:06)<br>Cold Waters Combat 02 (08:36)<br>Cold Waters Combat 03 (07:17)<br>Cold Waters Combat 04 (08:16)<br>Cold Waters Loss Gulag (00:56)<br>Cold Waters Nuclear Winter (00:39)",
-  "short_description": "<strong>Original Cold Waters soundtrack composed by Aleksi Aubry-Carlson</strong><br>Features nearly 45 minutes of music from 11 tracks of superior quality to those that ship with the Cold Waters game.",
+  "short_description": "Original Cold Waters soundtrack composed by Aleksi Aubry-CarlsonFeatures nearly 45 minutes of music from 11 tracks of superior quality to those that ship with the Cold Waters game.",
   "fullgame": {
     "appid": "541210",
     "name": "Cold Waters"
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     179178
@@ -124,6 +126,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/642510/ss_6f4d1742267ab641b21cdf796afde3c96a2f6ce3.1920x1080.jpg?t=1496678234"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jun, 2017"
@@ -132,5 +137,9 @@
     "url": "http://killerfishgames.com/support",
     "email": "support@killerfishgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/642510/page_bg_generated_v6b.jpg?t=1496678234"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/642510/page_bg_generated_v6b.jpg?t=1496678234",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -12,7 +12,7 @@
     "appid": "314000",
     "name": "Pool Nation FX Lite"
   },
-  "supported_languages": "English, French, Italian, German, Spanish",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/404610/header.jpg?t=1449823021",
   "website": "www.poolnationgame.com",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     79369,
@@ -71,11 +73,11 @@
           "packageid": 88085,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Pool Nation FX Unlocked and Unlock ALL Assets Bundle - 16,99\u20ac",
+          "option_text": "Pool Nation FX Unlocked and Unlock ALL Assets Bundle - 10,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1699
+          "price_in_cents_with_discount": 1079
         }
       ]
     }
@@ -216,5 +218,9 @@
     "url": "www.cherrypopgames.com",
     "email": "gemma@cherrypopgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404610/page_bg_generated_v6b.jpg?t=1449823021"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404610/page_bg_generated_v6b.jpg?t=1449823021",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

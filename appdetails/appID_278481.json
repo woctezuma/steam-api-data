@@ -11,7 +11,7 @@
     "appid": "268890",
     "name": "Masters of the World - Geopolitical Simulator 3"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/278481/header.jpg?t=1447360366",
   "website": "http://www.masters-of-the-world.com",
   "pc_requirements": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     38021,
@@ -120,6 +122,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/278481/ss_04f15c82edb498d42c60a7d8d96f379ae3d67c60.1920x1080.jpg?t=1447360366"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Apr, 2014"
@@ -128,5 +133,9 @@
     "url": "http://www.masters-of-the-world.com/links.php",
     "email": "support@eversim.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/278481/page_bg_generated_v6b.jpg?t=1447360366"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/278481/page_bg_generated_v6b.jpg?t=1447360366",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

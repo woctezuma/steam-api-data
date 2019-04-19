@@ -11,7 +11,7 @@
     "appid": "339600",
     "name": "VEGA Conflict"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Traditional Chinese, Turkish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Traditional Chinese, Turkish<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/753004/header.jpg?t=1511288540",
   "website": "http://vegaconflict.com/",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 8999,
     "final": 8999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "89,99\u20ac"
   },
   "packages": [
     221435
@@ -137,6 +139,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753004/ss_370fe7be4e0bafb1cbcb9984a228245ff15e6c69.1920x1080.jpg?t=1511288540"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Nov, 2017"
@@ -145,5 +150,9 @@
     "url": "https://helpcenter.kixeye.com/hc/en-us/categories/200071946-VEGA-Conflict",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/753004/page_bg_generated_v6b.jpg?t=1511288540"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/753004/page_bg_generated_v6b.jpg?t=1511288540",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

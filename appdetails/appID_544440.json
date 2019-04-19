@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     134148
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Nov, 2016"
@@ -127,5 +132,9 @@
     "url": "http://www.ladiagroup.com/",
     "email": "developers@ladiagroup.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/544440/page_bg_generated_v6b.jpg?t=1478436770"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/544440/page_bg_generated_v6b.jpg?t=1478436770",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

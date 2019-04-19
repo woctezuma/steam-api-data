@@ -12,7 +12,7 @@
     "appid": null,
     "name": "Uninitialized"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Dutch, Portuguese-Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Dutch, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/230889/header.jpg?t=1493974615",
   "website": "http://www.awesomenauts.com/",
   "pc_requirements": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 249,
     "final": 249,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     41126
@@ -154,6 +156,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/230889/ss_19709f251d56478dbd8e2622fdcccf5c90581fcd.1920x1080.jpg?t=1493974615"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Apr, 2014"
@@ -162,5 +167,9 @@
     "url": "http://www.awesomenauts.com/forum/viewforum.php?f=13",
     "email": "support@ronimo-games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/230889/page_bg_generated_v6b.jpg?t=1493974615"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/230889/page_bg_generated_v6b.jpg?t=1493974615",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

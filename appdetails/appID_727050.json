@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "This DLC contains a very early playable prototype of Road Redemption.  It is very different from the version of Road Redemption available on Steam.  It uses a completely different physics engine and has very different bike handling.  You can also disarm enemies by deflecting their attacks.  This is a fun variant of how Road Redemption once was and it really shows how much Road Redemption has changed throughout development.<br />\r\n<br />\r\nThis build is PC only and while it does work on almost all of our test machines, it is not compatible with every PC, especially laptops.",
   "about_the_game": "This DLC contains a very early playable prototype of Road Redemption.  It is very different from the version of Road Redemption available on Steam.  It uses a completely different physics engine and has very different bike handling.  You can also disarm enemies by deflecting their attacks.  This is a fun variant of how Road Redemption once was and it really shows how much Road Redemption has changed throughout development.<br />\r\n<br />\r\nThis build is PC only and while it does work on almost all of our test machines, it is not compatible with every PC, especially laptops.",
-  "short_description": "This DLC contains a very early playable prototype of Road Redemption.  It is very different from the version of Road Redemption available on Steam.",
+  "short_description": "This DLC contains a very early playable prototype of Road Redemption. It is very different from the version of Road Redemption available on Steam.",
   "fullgame": {
     "appid": "300380",
     "name": "Road Redemption"
@@ -33,8 +33,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 349,
-    "discount_percent": 30
+    "final": 224,
+    "discount_percent": 55,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "2,24\u20ac"
   },
   "packages": [
     211834
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 211834,
-          "percent_savings_text": "-30%",
+          "percent_savings_text": "-55%",
           "percent_savings": 0,
-          "option_text": "Road Redemption - Early Prototype - <span class=\"discount_original_price\">4,99\u20ac</span> 3,49\u20ac",
+          "option_text": "Road Redemption - Early Prototype - <span class=\"discount_original_price\">4,99\u20ac</span> 2,24\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 349
+          "price_in_cents_with_discount": 224
         }
       ]
     }
@@ -159,13 +161,11 @@
       "id": 3,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/727050/ss_8678dabce5db6dd797ff96ecd81bcb8f48b0ed6e.600x338.jpg?t=1507064512",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/727050/ss_8678dabce5db6dd797ff96ecd81bcb8f48b0ed6e.1920x1080.jpg?t=1507064512"
-    },
-    {
-      "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/727050/?t=1507064512",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/727050/?t=1507064512"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Oct, 2017"
@@ -174,5 +174,9 @@
     "url": "http://steamcommunity.com/app/300380/discussions/0/",
     "email": "pr@darkseasinteractive.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/727050/page_bg_generated_v6b.jpg?t=1507064512"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/727050/page_bg_generated_v6b.jpg?t=1507064512",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

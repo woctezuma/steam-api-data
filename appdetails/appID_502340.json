@@ -8,7 +8,7 @@
   "about_the_game": "Unbound encourages playful creation using virtual reality gear with tracked controllers, while enabling two creators to collaborate in real time in the same space, on the same 3D objects.  <br><br>The initial Early Access launch includes:<h2 class=\"bb_tag\">Realtime collaboration</h2> Invite friends into the space and play or work together over the internet.<h2 class=\"bb_tag\">Sharp Features</h2>Our models can uniquely represent organic shapes as well as more mechanical, CAD-like objects.<h2 class=\"bb_tag\">Multiple Objects</h2>Unbound is built to go beyond the modelling of a single object. Like a game engine, Unbound can have thousands of objects in a scene. And every thing is always changeable.<h2 class=\"bb_tag\">Compact Models</h2>Unbound models are tiny when you save them. This makes sharing a model over the network and bringing them into a collaborative space pretty much instantaneous.<h2 class=\"bb_tag\">Physically Based Material System</h2>Mix materials as you craft, sculpt or spay paint on models. The volume and surface of creators edits are stored internally, for use during saves.<h2 class=\"bb_tag\">Export</h2>Creators have the ability to export mesh models from Unbound\u2019s volumetric format. Take your models with you and continue using your favorite tools, whether it\u2019s game development, rendering or 3D printing.<h2 class=\"bb_tag\"><strong>Important Note:</strong></h2><strong>Unbound will only run on NVIDIA GPUs for some time after launching in Early Access. Most of our algorithms are heavy on GPU compute and as a small team, development really benefited from building with CUDA. Once Unbound is ready to be optimized, we are planning to port this to AMD. We kindly ask for your patience and understanding.</strong>",
   "short_description": "Unbound enables players to make 3D things in a new and fun way: With Friends. Jam on new ideas in the same VR space then work on articulate sculpts together. With the ability to export to your favorite tools and to 3D print. This is the beginning of Unbound Early Access.",
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/502340/header.jpg?t=1515611771",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/502340/header.jpg?t=1536879117",
   "website": "http://unbound.io",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7, 8, 10 (64-Bit)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 980<br></li><li><strong>Additional Notes:</strong> NVIDIA ONLY (NO AMD GPU SUPPORT YET)</li></ul>",
@@ -22,7 +22,7 @@
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
   },
-  "legal_notice": "Copyright \u00a9 2017 - Unbound Technologies, Inc. All rights reserved.",
+  "legal_notice": "Copyright \u00a9 2018 - Unbound Technologies, Inc. All rights reserved.",
   "developers": [
     "Unbound Technologies, Inc."
   ],
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 2799,
     "final": 2799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "27,99\u20ac"
   },
   "packages": [
     115462
@@ -90,6 +92,10 @@
       "description": "Design & Illustration"
     },
     {
+      "id": "60",
+      "description": "Game Development"
+    },
+    {
       "id": "70",
       "description": "Early Access"
     }
@@ -97,41 +103,81 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_e840ae68ecf18748da233252772cc10ecbadc705.600x338.jpg?t=1515611771",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_e840ae68ecf18748da233252772cc10ecbadc705.1920x1080.jpg?t=1515611771"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_dd770c6e8b80f5a5ce967ae6913d575fec14f312.600x338.jpg?t=1536879117",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_dd770c6e8b80f5a5ce967ae6913d575fec14f312.1920x1080.jpg?t=1536879117"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_fca1df26c8a7ad070595d692fd4c35002b02cbfe.600x338.jpg?t=1515611771",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_fca1df26c8a7ad070595d692fd4c35002b02cbfe.1920x1080.jpg?t=1515611771"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_ae8501c453c3aa126f910fe1941c1b3ebdd7484d.600x338.jpg?t=1536879117",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_ae8501c453c3aa126f910fe1941c1b3ebdd7484d.1920x1080.jpg?t=1536879117"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_ce9aada147999ff628985d8353308299828c5cf7.600x338.jpg?t=1515611771",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_ce9aada147999ff628985d8353308299828c5cf7.1920x1080.jpg?t=1515611771"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_57c08b3766fd2413247154a9fdb1be40c54d0304.600x338.jpg?t=1536879117",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_57c08b3766fd2413247154a9fdb1be40c54d0304.1920x1080.jpg?t=1536879117"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_967fb437bd1588f76d330bc1fe8e6ce7c9834c5c.600x338.jpg?t=1515611771",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_967fb437bd1588f76d330bc1fe8e6ce7c9834c5c.1920x1080.jpg?t=1515611771"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_ce9aada147999ff628985d8353308299828c5cf7.600x338.jpg?t=1536879117",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_ce9aada147999ff628985d8353308299828c5cf7.1920x1080.jpg?t=1536879117"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_57c08b3766fd2413247154a9fdb1be40c54d0304.600x338.jpg?t=1515611771",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_57c08b3766fd2413247154a9fdb1be40c54d0304.1920x1080.jpg?t=1515611771"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_e840ae68ecf18748da233252772cc10ecbadc705.600x338.jpg?t=1536879117",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_e840ae68ecf18748da233252772cc10ecbadc705.1920x1080.jpg?t=1536879117"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_b9ddc388093c84f702f00358e1a5d7b5c6553552.600x338.jpg?t=1515611771",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_b9ddc388093c84f702f00358e1a5d7b5c6553552.1920x1080.jpg?t=1515611771"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_d8ef701699eb36308afc8a03eb02d423ebe1fb21.600x338.jpg?t=1536879117",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_d8ef701699eb36308afc8a03eb02d423ebe1fb21.1920x1080.jpg?t=1536879117"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_2cf229c0bfb9312781cd2d196b6386454f1c37c7.600x338.jpg?t=1515611771",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_2cf229c0bfb9312781cd2d196b6386454f1c37c7.1920x1080.jpg?t=1515611771"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_ccf78db471b348d877db495c7e2b0a30cea0115f.600x338.jpg?t=1536879117",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_ccf78db471b348d877db495c7e2b0a30cea0115f.1920x1080.jpg?t=1536879117"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_71810f26037476c5f21d9d13ec8a87eed3778222.600x338.jpg?t=1536879117",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_71810f26037476c5f21d9d13ec8a87eed3778222.1920x1080.jpg?t=1536879117"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_ac02b5cf5ab56504905b8473a3ee64b7936d54d1.600x338.jpg?t=1536879117",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_ac02b5cf5ab56504905b8473a3ee64b7936d54d1.1920x1080.jpg?t=1536879117"
+    },
+    {
+      "id": 9,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_cf4ac579823976a5ba822f0befa65368e72376fc.600x338.jpg?t=1536879117",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_cf4ac579823976a5ba822f0befa65368e72376fc.1920x1080.jpg?t=1536879117"
+    },
+    {
+      "id": 10,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_af8e5ecfb71b720170ffceb286f38bb5945dad28.600x338.jpg?t=1536879117",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_af8e5ecfb71b720170ffceb286f38bb5945dad28.1920x1080.jpg?t=1536879117"
+    },
+    {
+      "id": 11,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_85ddbc103bfe2b773e2a07ba378249bdaf72786e.600x338.jpg?t=1536879117",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_85ddbc103bfe2b773e2a07ba378249bdaf72786e.1920x1080.jpg?t=1536879117"
+    },
+    {
+      "id": 12,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_15713c82262fe0aa6e19ac6c4acb0f5fd84f8969.600x338.jpg?t=1536879117",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502340/ss_15713c82262fe0aa6e19ac6c4acb0f5fd84f8969.1920x1080.jpg?t=1536879117"
     }
   ],
   "movies": [
+    {
+      "id": 256727392,
+      "name": "update 0.3.0",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256727392/movie.293x165.jpg?t=1535699488",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256727392/movie480.webm?t=1535699488",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256727392/movie_max.webm?t=1535699488"
+      },
+      "highlight": true
+    },
     {
       "id": 256705586,
       "name": "SHOWCASE1",
@@ -164,5 +210,9 @@
     "url": "http://unbound.helprace.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502340/page_bg_generated_v6b.jpg?t=1515611771"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502340/page_bg_generated_v6b.jpg?t=1536879117",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

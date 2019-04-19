@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Cruel Arena is a classic arena survival zombie game. <br />\r\nFace endless hordes and survive as much as you can, <br />\r\nThrough The Doodles and The Frames!! <br />\r\n<br />\r\nWill you do the best record among your friends?<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\nA few tips:<br />\r\n-Press S to buy something.<br />\r\n-Always, Always, Always keep yourself in movement! Learn how to move and they will never catch you!<br />\r\n-WASD to move, left mouse to shoot, and right one to throw a granade!<br />\r\n-P to PAUSE.<br />\r\n-That's all, get ready!",
   "about_the_game": "Cruel Arena is a classic arena survival zombie game. <br />\r\nFace endless hordes and survive as much as you can, <br />\r\nThrough The Doodles and The Frames!! <br />\r\n<br />\r\nWill you do the best record among your friends?<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\nA few tips:<br />\r\n-Press S to buy something.<br />\r\n-Always, Always, Always keep yourself in movement! Learn how to move and they will never catch you!<br />\r\n-WASD to move, left mouse to shoot, and right one to throw a granade!<br />\r\n-P to PAUSE.<br />\r\n-That's all, get ready!",
-  "short_description": "Cruel Arena is a classic arena survival zombie game. <br />\r\nFace endless hordes and survive as much as you can, <br />\r\nThrough The Doodles and The Frames!! <br />\r\n<br />\r\nWill you do the best record among your friends?",
+  "short_description": "Cruel Arena is a classic arena survival zombie game. Face endless hordes and survive as much as you can, Through The Doodles and The Frames!! Will you do the best record among your friends?",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/381140/header.jpg?t=1522155038",
   "website": "https://pandaindiestudio.wordpress.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 40 MB available space</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 2 GB \u041e\u0417\u0423<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 40 MB</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     71345
@@ -120,9 +122,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 253
-  },
   "achievements": {
     "total": 9,
     "highlighted": [
@@ -172,5 +171,12 @@
     "url": "https://www.facebook.com/PandaIndieStudio",
     "email": "matteo.gonano@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/381140/page_bg_generated_v6b.jpg?t=1522155038"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/381140/page_bg_generated_v6b.jpg?t=1522155038",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": "In this game there are blood and zombies in a cartoony stile."
+  }
 }

@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     76948
@@ -180,5 +182,9 @@
     "url": "http://www.moonstridergame.com/",
     "email": "ian@triplelasers.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/398250/page_bg_generated_v6b.jpg?t=1448384325"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/398250/page_bg_generated_v6b.jpg?t=1448384325",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

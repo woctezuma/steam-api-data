@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     257393
@@ -114,6 +116,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/832350/ss_abc8c2fad4ae5c895635802c390fb4f04a263fd3.1920x1080.jpg?t=1522961241"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Apr, 2018"
@@ -122,5 +127,9 @@
     "url": "https://support.trionworlds.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/832350/page_bg_generated_v6b.jpg?t=1522961241"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/832350/page_bg_generated_v6b.jpg?t=1522961241",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

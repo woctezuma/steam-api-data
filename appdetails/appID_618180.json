@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     165876
@@ -128,5 +130,9 @@
     "url": "http://gpacgames.com/contact/",
     "email": "contact@gpacgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/618180/page_bg_generated_v6b.jpg?t=1491221723"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/618180/page_bg_generated_v6b.jpg?t=1491221723",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

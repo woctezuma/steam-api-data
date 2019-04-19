@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The game is made up of stages, with a puzzle on each stage and story cut-scenes in between. The game has auto-save feature in each stage so if you failed in a certain puzzle, you can try again by clicking continue. <br />\r\n<br />\r\nOn every stage there will be a trial phase and a battle phase. In the trial phase, the player will be given a puzzle that can be solved alone by thinking or calculating. In the next phase, which is the battle phase, the player will have a match against the AI. Battles require concentration and patience. <br />\r\n<br />\r\nCalcu-Late was developed by Blazing Fanfish and is being published by Back To Basics Gaming. <br />\r\nwww.BackToBasicsGaming.com",
   "about_the_game": "The game is made up of stages, with a puzzle on each stage and story cut-scenes in between. The game has auto-save feature in each stage so if you failed in a certain puzzle, you can try again by clicking continue. <br />\r\n<br />\r\nOn every stage there will be a trial phase and a battle phase. In the trial phase, the player will be given a puzzle that can be solved alone by thinking or calculating. In the next phase, which is the battle phase, the player will have a match against the AI. Battles require concentration and patience. <br />\r\n<br />\r\nCalcu-Late was developed by Blazing Fanfish and is being published by Back To Basics Gaming. <br />\r\nwww.BackToBasicsGaming.com",
-  "short_description": "Calcu-Late is a story about a boy named James that needs to participate in a godly Olympics tournament as a representative for the goddess of mathematics, Seshat. The tournament will grant the participant a wish that they stated before the tournament starts. James is going to take a final math exam in his school, but he forgot to study for it. His wish is just to pass the math exam.",
+  "short_description": "Calcu-Late is a story about a boy named James that needs to participate in a godly Olympics tournament as a representative for the goddess of mathematics, Seshat. The tournament will grant the participant a wish that they stated before the tournament starts.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/449200/header.jpg?t=1458333433",
   "website": "http://www.backtobasicsgaming.com/",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     96297
@@ -121,8 +123,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 255
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -132,5 +134,9 @@
     "url": "http://www.backtobasicsgaming.com/#!contact/c6th",
     "email": "Dan@BackToBasicsGaming.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449200/page_bg_generated_v6b.jpg?t=1458333433"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449200/page_bg_generated_v6b.jpg?t=1458333433",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

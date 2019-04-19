@@ -12,7 +12,7 @@
     "appid": "356570",
     "name": "Party Hard"
   },
-  "supported_languages": "English<strong>*</strong>, Russian, German, Spanish, Romanian, French, Ukrainian, Japanese, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, Russian, German, Spanish - Spain, Romanian, French, Ukrainian, Japanese, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/554791/header.jpg?t=1505748120",
   "website": "http://tinybuild.com/partyhard",
   "pc_requirements": {
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     138328
@@ -157,6 +159,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Nov, 2016"
@@ -165,5 +170,9 @@
     "url": "http://tinybuild.com",
     "email": "contact@tinybuildgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/554791/page_bg_generated_v6b.jpg?t=1505748120"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/554791/page_bg_generated_v6b.jpg?t=1505748120",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

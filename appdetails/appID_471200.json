@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Melody is a musical VR experience in which the user plays the African / Central American instrument: marimba, in different environments; merging creativity with the presence of VR simulation.  A low latency audio engine allows for players to experience very little lag and jitter in their audio experience.  We focused on creating a simulation instrument that is both expressive and realistic.  <br />\r\n<br />\r\nLike with the physical instrument, players can play with a combination of soft and hard mallets and currently the experiences supports play with up to 4 mallets (two per hand).   There are also other features common to a musical workstation including a metronome, 4 track recording / playback, velocity and resonance sensitivity in the keys.  <br />\r\n<br />\r\nThere are currently 3 levels to choose from.  The Enchanted Forest is a fanciful forest scene where musical play generates excitement in the wildlife and the trees.  The Practice Room is a true-to-life music room that serves a great sterile environment where one can focus and hone their skills.  Lastly, The Tron Room is a futuristic environment that makes for a dynamic performance arena.",
   "about_the_game": "Melody is a musical VR experience in which the user plays the African / Central American instrument: marimba, in different environments; merging creativity with the presence of VR simulation.  A low latency audio engine allows for players to experience very little lag and jitter in their audio experience.  We focused on creating a simulation instrument that is both expressive and realistic.  <br />\r\n<br />\r\nLike with the physical instrument, players can play with a combination of soft and hard mallets and currently the experiences supports play with up to 4 mallets (two per hand).   There are also other features common to a musical workstation including a metronome, 4 track recording / playback, velocity and resonance sensitivity in the keys.  <br />\r\n<br />\r\nThere are currently 3 levels to choose from.  The Enchanted Forest is a fanciful forest scene where musical play generates excitement in the wildlife and the trees.  The Practice Room is a true-to-life music room that serves a great sterile environment where one can focus and hone their skills.  Lastly, The Tron Room is a futuristic environment that makes for a dynamic performance arena.",
-  "short_description": "Melody currently features one of the most expressive instruments in VR.  From resonance sensitivity to 4 track audio recording, this experience pushes the boundaries on what we expect from performance / composition in VR.",
+  "short_description": "Melody currently features one of the most expressive instruments in VR. From resonance sensitivity to 4 track audio recording, this experience pushes the boundaries on what we expect from performance / composition in VR.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/471200/header.jpg?t=1521831400",
   "website": "http://www.vergeofbrilliance.com/melody",
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     104262
@@ -213,5 +215,9 @@
     "url": "http://www.vergeofbrilliance.com/melody/support",
     "email": "support@vergeofbrilliance.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/471200/page_bg_generated_v6b.jpg?t=1521831400"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/471200/page_bg_generated_v6b.jpg?t=1521831400",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

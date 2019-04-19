@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     200598
@@ -121,6 +123,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Sep, 2017"
@@ -129,5 +134,9 @@
     "url": "https://www.youtube.com/channel/UCqMHsplynD8zX7NqcvdV8CQ",
     "email": "freebeertomorrowonyxia@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/697800/page_bg_generated_v6b.jpg?t=1506019422"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/697800/page_bg_generated_v6b.jpg?t=1506019422",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,9 +6,9 @@
   "is_free": false,
   "detailed_description": "In the year <strong>200X</strong>, the totalitarian<strong> National Hell Party</strong> rose to power in Canada.  They declared martial law, formed an alliance with the mysterious <strong>Ninja Empire</strong> and kidnapped the President of the United States.  They then bombed all major American cities.  Afterwards, they sent an army of soldiers and robots over the border to clean up the scraps.<br><br>You play as <strong>Sgt. Jon Dagger</strong>, a lone soldier who must travel through the ruins of America into the Great White North on a rescue mission to save the President. He's joined by a former Soviet engineer who has uploaded himself into Sgt. Dagger's brain. <br><br>In your mission, you must run and gun your way through a variety of environments, fighting post-apocalyptic barbarians, Canadian soldiers, fiendish robots, and powerful ninjas.<br><br>Cold Vengeance is a <strong>3D run 'n' gun</strong> game that is a tribute to late 90s early 3D games, as well as to 80s and 90s action games and movies.",
   "about_the_game": "In the year <strong>200X</strong>, the totalitarian<strong> National Hell Party</strong> rose to power in Canada.  They declared martial law, formed an alliance with the mysterious <strong>Ninja Empire</strong> and kidnapped the President of the United States.  They then bombed all major American cities.  Afterwards, they sent an army of soldiers and robots over the border to clean up the scraps.<br><br>You play as <strong>Sgt. Jon Dagger</strong>, a lone soldier who must travel through the ruins of America into the Great White North on a rescue mission to save the President. He's joined by a former Soviet engineer who has uploaded himself into Sgt. Dagger's brain. <br><br>In your mission, you must run and gun your way through a variety of environments, fighting post-apocalyptic barbarians, Canadian soldiers, fiendish robots, and powerful ninjas.<br><br>Cold Vengeance is a <strong>3D run 'n' gun</strong> game that is a tribute to late 90s early 3D games, as well as to 80s and 90s action games and movies.",
-  "short_description": "When Canada invades the USA, <strong>Sgt. Jon Dagger</strong> must run and gun his way across the ruins of America to the Frozen North to deliver Cold Vengeance.",
+  "short_description": "When Canada invades the USA, Sgt. Jon Dagger must run and gun his way across the ruins of America to the Frozen North to deliver Cold Vengeance.",
   "supported_languages": "English",
-  "reviews": "\u201cA powerful tale of betrayal and war\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://thumbthrone.com/uncategorized/get-your-1980s-action-movie-fix-and-save-the-president-in-cold-vengeance/\" target=\"_blank\" rel=\"noopener\"  >Thumb Throne</a></a><br><br>\u201cIt\u2019s rad as hell... it reminds me of every absurd action movie I\u2019ve ever seen\u201d<br><a href=\"https://www.destructoid.com/cold-vengeance-is-a-clunky-pitch-perfect-action-game-411384.phtml\" target=\"_blank\" rel=\"noreferrer\"  >Destructoid</a></a><br><br>\u201cThere is some genuinely ingenious level design at work here, with a mastery over branching, multi-tiered levels being put on full display.\u201d<br>85/100 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://steamshovelers.cool/cold-vengeance-review/\" target=\"_blank\" rel=\"noopener\"  >Steam Shovelers</a></a><br>",
+  "reviews": "\u201cA powerful tale of betrayal and war\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://thumbthrone.com/uncategorized/get-your-1980s-action-movie-fix-and-save-the-president-in-cold-vengeance/\" target=\"_blank\" rel=\"noopener\"  >Thumb Throne</a><br><br>\u201cIt\u2019s rad as hell... it reminds me of every absurd action movie I\u2019ve ever seen\u201d<br><a href=\"https://www.destructoid.com/cold-vengeance-is-a-clunky-pitch-perfect-action-game-411384.phtml\" target=\"_blank\" rel=\"noreferrer\"  >Destructoid</a><br><br>\u201cThere is some genuinely ingenious level design at work here, with a mastery over branching, multi-tiered levels being put on full display.\u201d<br>85/100 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://steamshovelers.cool/cold-vengeance-review/\" target=\"_blank\" rel=\"noopener\"  >Steam Shovelers</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/502540/header.jpg?t=1484513441",
   "website": "http://renegadesector.com/",
   "pc_requirements": {
@@ -27,8 +27,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 199,
+    "discount_percent": 80,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     115522
@@ -45,13 +47,13 @@
       "subs": [
         {
           "packageid": 115522,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "Cold Vengeance - 9,99\u20ac",
+          "option_text": "Cold Vengeance - <span class=\"discount_original_price\">9,99\u20ac</span> 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -299,5 +301,9 @@
     "url": "http://renegadesector.com/contact/",
     "email": "malec2b@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502540/page_bg_generated_v6b.jpg?t=1484513441"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502540/page_bg_generated_v6b.jpg?t=1484513441",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

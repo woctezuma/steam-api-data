@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     124887
@@ -199,6 +201,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Sep, 2016"
@@ -207,5 +212,9 @@
     "url": "http://www.RLTYCHK.co",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/524060/page_bg_generated_v6b.jpg?t=1479666248"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/524060/page_bg_generated_v6b.jpg?t=1479666248",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     149055
@@ -214,5 +216,9 @@
     "url": "http://ent.zoo.jp/contact/c-steam/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/581210/page_bg_generated_v6b.jpg?t=1487838719"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/581210/page_bg_generated_v6b.jpg?t=1487838719",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

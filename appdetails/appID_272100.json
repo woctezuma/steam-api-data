@@ -12,7 +12,7 @@
     "name": "The Banner Saga"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/272100/header.jpg?t=1478028818",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/272100/header.jpg?t=1532396635",
   "website": "http://www.thebannersaga.com",
   "pc_requirements": [],
   "mac_requirements": [],
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     36581
@@ -91,10 +93,25 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/272100/ss_30323affda8aa062995c7fb8755bc97e07005c24.600x338.jpg?t=1478028818",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/272100/ss_30323affda8aa062995c7fb8755bc97e07005c24.1920x1080.jpg?t=1478028818"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/272100/ss_30323affda8aa062995c7fb8755bc97e07005c24.600x338.jpg?t=1532396635",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/272100/ss_30323affda8aa062995c7fb8755bc97e07005c24.1920x1080.jpg?t=1532396635"
     }
   ],
+  "movies": [
+    {
+      "id": 256723408,
+      "name": "Soundtrack Preview with Austin Wintory",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256723408/movie.293x165.jpg?t=1532396630",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256723408/movie480.webm?t=1532396630",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256723408/movie_max.webm?t=1532396630"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Jan, 2014"
@@ -103,5 +120,9 @@
     "url": "http://stoicstudio.com/forum",
     "email": "help@stoicstudio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/272100/page_bg_generated_v6b.jpg?t=1478028818"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/272100/page_bg_generated_v6b.jpg?t=1532396635",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

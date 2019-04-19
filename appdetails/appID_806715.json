@@ -12,7 +12,7 @@
     "name": "Moe Jigsaw"
   },
   "supported_languages": "English, Simplified Chinese, Japanese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/806715/header.jpg?t=1523862493",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/806715/header.jpg?t=1524801442",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10 (32bit/64bit)<br></li><li><strong>Processor:</strong> 1.8GHz Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 1920\u00d71080<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> PCM sound source that supports DirectSound</li></ul>"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     245913
@@ -75,6 +77,10 @@
     {
       "id": 22,
       "description": "Steam Achievements"
+    },
+    {
+      "id": 23,
+      "description": "Steam Cloud"
     }
   ],
   "genres": [
@@ -94,45 +100,58 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_78275d255ad4a12a6402537705b7fd4cb1bf6503.600x338.jpg?t=1523862493",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_78275d255ad4a12a6402537705b7fd4cb1bf6503.1920x1080.jpg?t=1523862493"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_552ec33124307a448c0e44e5d03f65afeef709d2.600x338.jpg?t=1524801442",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_552ec33124307a448c0e44e5d03f65afeef709d2.1920x1080.jpg?t=1524801442"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_95b1175dc968802b81182cc5a0eea03d953b1c12.600x338.jpg?t=1523862493",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_95b1175dc968802b81182cc5a0eea03d953b1c12.1920x1080.jpg?t=1523862493"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_d06c960b2462d8ff36d54a6b5f4418f6f959b1f9.600x338.jpg?t=1524801442",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_d06c960b2462d8ff36d54a6b5f4418f6f959b1f9.1920x1080.jpg?t=1524801442"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_3926dff0dc6c1c139b64fb9d95b8ed43ce5da741.600x338.jpg?t=1523862493",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_3926dff0dc6c1c139b64fb9d95b8ed43ce5da741.1920x1080.jpg?t=1523862493"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_084f4b6874aa10c240d793b7114beb1d96331be1.600x338.jpg?t=1524801442",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_084f4b6874aa10c240d793b7114beb1d96331be1.1920x1080.jpg?t=1524801442"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_4ead38ac5d9d1fce5103341f78e891d997c2edc7.600x338.jpg?t=1523862493",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_4ead38ac5d9d1fce5103341f78e891d997c2edc7.1920x1080.jpg?t=1523862493"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_4b6fb886783c18d7baf149f714670d05ed939f4a.600x338.jpg?t=1524801442",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_4b6fb886783c18d7baf149f714670d05ed939f4a.1920x1080.jpg?t=1524801442"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_d70e1d13b3bc5d88435dba99fec6fc31031c74c5.600x338.jpg?t=1523862493",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_d70e1d13b3bc5d88435dba99fec6fc31031c74c5.1920x1080.jpg?t=1523862493"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_4a4a61cb140e76c09b239b4684ca9e0f37a6b524.600x338.jpg?t=1524801442",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_4a4a61cb140e76c09b239b4684ca9e0f37a6b524.1920x1080.jpg?t=1524801442"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_6c2b9f48705635a2fdb050e29cb887ebfd885520.600x338.jpg?t=1523862493",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_6c2b9f48705635a2fdb050e29cb887ebfd885520.1920x1080.jpg?t=1523862493"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_f0aa3af706d6866a19214b15cb1b316281798632.600x338.jpg?t=1524801442",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_f0aa3af706d6866a19214b15cb1b316281798632.1920x1080.jpg?t=1524801442"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_614a4e64d13714909e005d48bd740a69f28fb1cb.600x338.jpg?t=1523862493",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_614a4e64d13714909e005d48bd740a69f28fb1cb.1920x1080.jpg?t=1523862493"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_2229f38b47eeab789d2e99d071451562919bb2a6.600x338.jpg?t=1524801442",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_2229f38b47eeab789d2e99d071451562919bb2a6.1920x1080.jpg?t=1524801442"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_7debf28a22fde43f3137d2377c3866b7f941b220.600x338.jpg?t=1523862493",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_7debf28a22fde43f3137d2377c3866b7f941b220.1920x1080.jpg?t=1523862493"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_2c4d9116fbb53de58de3491ce29bc60c39818620.600x338.jpg?t=1524801442",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_2c4d9116fbb53de58de3491ce29bc60c39818620.1920x1080.jpg?t=1524801442"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_c9a5f32c5813060aa2e720a84e15749300a4944e.600x338.jpg?t=1524801442",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_c9a5f32c5813060aa2e720a84e15749300a4944e.1920x1080.jpg?t=1524801442"
+    },
+    {
+      "id": 9,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_9b7069b79d791bd7d2b206dd7dc24eea331ac940.600x338.jpg?t=1524801442",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/806715/ss_9b7069b79d791bd7d2b206dd7dc24eea331ac940.1920x1080.jpg?t=1524801442"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Mar, 2018"
@@ -141,5 +160,12 @@
     "url": "",
     "email": "dev@suki.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/806715/page_bg_generated_v6b.jpg?t=1523862493"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/806715/page_bg_generated_v6b.jpg?t=1524801442",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

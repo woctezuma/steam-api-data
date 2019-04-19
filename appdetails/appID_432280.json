@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/432280/extras/Logo_transF_SteamStoreR2.png?t=1477626961\" ><br><br>Battlestorm is an arcade-style shoot-em-up game, inspired by the old 90s classics!<br>It will challenge you to multitask, engaging air &amp; ground targets while dodging enemies to collect powerups, and trying to keep your multiplier alive all at the same time. <br><br>You won't breeze through every level on your first try, especially not in the later worlds!<h2 class=\"bb_tag\">Features</h2><br><ul class=\"bb_ul\"><li><strong>Gameplay</strong><br>Battle air &amp; ground-based enemies in 25 levels across 5 unique environments!<br></li><li><strong>Powerups</strong><br>More than 15 unique powerups to collect during levels to transform your ship's systems!<br></li><li><strong>Bosses</strong><br>Progressively difficult boss fights throughout each world!<br></li><li><strong>Original Soundtrack</strong><br>10 engaging background tracks to immerse players!<br></li><li><strong>Controls</strong><br>Support for Keyboard, Mouse &amp; Keyboard, and Controller control schemes!<br></li><li><strong>Steam Leaderboards &amp; Achievements</strong><br>Compete globally and with friends for the highest score on each level, and challenge yourself to unlock every achievement!<br></li><li><strong>Steam Trading Cards</strong><br>Collect the trading cards and craft the badges!</li></ul>",
   "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/432280/extras/Logo_transF_SteamStoreR2.png?t=1477626961\" ><br><br>Battlestorm is an arcade-style shoot-em-up game, inspired by the old 90s classics!<br>It will challenge you to multitask, engaging air &amp; ground targets while dodging enemies to collect powerups, and trying to keep your multiplier alive all at the same time. <br><br>You won't breeze through every level on your first try, especially not in the later worlds!<h2 class=\"bb_tag\">Features</h2><br><ul class=\"bb_ul\"><li><strong>Gameplay</strong><br>Battle air &amp; ground-based enemies in 25 levels across 5 unique environments!<br></li><li><strong>Powerups</strong><br>More than 15 unique powerups to collect during levels to transform your ship's systems!<br></li><li><strong>Bosses</strong><br>Progressively difficult boss fights throughout each world!<br></li><li><strong>Original Soundtrack</strong><br>10 engaging background tracks to immerse players!<br></li><li><strong>Controls</strong><br>Support for Keyboard, Mouse &amp; Keyboard, and Controller control schemes!<br></li><li><strong>Steam Leaderboards &amp; Achievements</strong><br>Compete globally and with friends for the highest score on each level, and challenge yourself to unlock every achievement!<br></li><li><strong>Steam Trading Cards</strong><br>Collect the trading cards and craft the badges!</li></ul>",
-  "short_description": "Battlestorm is an arcade-style shoot-em-up game, inspired by the old 90s classics!<h2 class=\"bb_tag\"></h2>It will challenge you to multitask, engaging air &amp; ground targets while dodging enemies to collect powerups, and trying to keep your multiplier alive all at the same time.",
+  "short_description": "Battlestorm is an arcade-style shoot-em-up game, inspired by the old 90s classics!It will challenge you to multitask, engaging air &amp; ground targets while dodging enemies to collect powerups, and trying to keep your multiplier alive all at the same time.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/432280/header.jpg?t=1477626961",
   "website": "http://icystudios.com",
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 98,
-    "discount_percent": 67
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     89867
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 89867,
-          "percent_savings_text": "-67%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "BattleStorm - <span class=\"discount_original_price\">2,99\u20ac</span> 0,98\u20ac",
+          "option_text": "BattleStorm - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 98
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -216,5 +218,9 @@
     "url": "",
     "email": "support@icystudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/432280/page_bg_generated_v6b.jpg?t=1477626961"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/432280/page_bg_generated_v6b.jpg?t=1477626961",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

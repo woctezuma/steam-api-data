@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     168613
@@ -91,6 +93,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/624840/ss_15725155143f5b1ba1072ce075179071e462b35e.1920x1080.jpg?t=1492589626"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Apr, 2017"
@@ -99,5 +104,9 @@
     "url": "",
     "email": "support@quanticlab.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/624840/page_bg_generated_v6b.jpg?t=1492589626"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/624840/page_bg_generated_v6b.jpg?t=1492589626",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

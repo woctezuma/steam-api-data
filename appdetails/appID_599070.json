@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Umpire Simulator gives you the MLB umpire experience, making tough calls at 75-105 mph. You'll be watching fastballs, curve balls, and sliders trying to make the right call.<br />\r\n<br />\r\nThis game features true to life fastballs and breaking balls at 74-104 mph.<br />\r\n<br />\r\nThe first time you start it will walk you through a tutorial to learn about calling pitches.<br />\r\n<br />\r\nThis game is available for SteamVR and supports SteamVR Headsets (Vive and Future Headsets), Oculus Rift, and Windows Mixed Reality Headsets.<br />\r\n<br />\r\nThere also is a Non-VR option if you don't have VR or don't wish to use your headset sometimes.  If you launch if from the Steam app you'll be given the option of VR or Non-VR.",
   "about_the_game": "Umpire Simulator gives you the MLB umpire experience, making tough calls at 75-105 mph. You'll be watching fastballs, curve balls, and sliders trying to make the right call.<br />\r\n<br />\r\nThis game features true to life fastballs and breaking balls at 74-104 mph.<br />\r\n<br />\r\nThe first time you start it will walk you through a tutorial to learn about calling pitches.<br />\r\n<br />\r\nThis game is available for SteamVR and supports SteamVR Headsets (Vive and Future Headsets), Oculus Rift, and Windows Mixed Reality Headsets.<br />\r\n<br />\r\nThere also is a Non-VR option if you don't have VR or don't wish to use your headset sometimes.  If you launch if from the Steam app you'll be given the option of VR or Non-VR.",
-  "short_description": "Umpire Simulator gives you the MLB umpire experience, making tough calls at 75-105 mph.  Supports all VR headsets, and also Non-VR play.",
+  "short_description": "Umpire Simulator gives you the MLB umpire experience, making tough calls at 75-105 mph. Supports all VR headsets, and also Non-VR play.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/599070/header.jpg?t=1519150818",
   "website": "http://Beep2Bleep.com",
@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 199,
+    "final": 199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     157291,
@@ -45,21 +47,21 @@
           "packageid": 157291,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Umpire Simulator - 2,99\u20ac",
+          "option_text": "Umpire Simulator - 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 199
         },
         {
           "packageid": 248045,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Umpire Simulator - Commercial License - 5,99\u20ac",
+          "option_text": "Umpire Simulator - Commercial License - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -146,5 +148,9 @@
     "url": "http://Beep2Bleep.com",
     "email": "Web@Beep2Bleep.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/599070/page_bg_generated_v6b.jpg?t=1519150818"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/599070/page_bg_generated_v6b.jpg?t=1519150818",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     74923,
@@ -180,5 +182,9 @@
     "url": "http://timbreinteractive.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/303530/page_bg_generated_v6b.jpg?t=1483751503"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/303530/page_bg_generated_v6b.jpg?t=1483751503",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

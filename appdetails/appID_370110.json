@@ -11,7 +11,7 @@
     "appid": "360990",
     "name": "Ongaku"
   },
-  "supported_languages": "English, French, Italian, German, Spanish",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/370110/header.jpg?t=1447374395",
   "website": null,
   "pc_requirements": {
@@ -30,11 +30,13 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     67615,
-    "69065",
+    69065,
     69064
   ],
   "package_groups": [
@@ -58,7 +60,7 @@
           "price_in_cents_with_discount": 199
         },
         {
-          "packageid": "69065",
+          "packageid": 69065,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Ongaku Upgrade - 2,99\u20ac",
@@ -136,5 +138,9 @@
     "url": "http://www.smashmouthgames.com/Webpages/Forums/Forums.html",
     "email": "support@smashmouthgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/370110/page_bg_generated_v6b.jpg?t=1447374395"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/370110/page_bg_generated_v6b.jpg?t=1447374395",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

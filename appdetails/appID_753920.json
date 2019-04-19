@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     222205
@@ -215,5 +217,9 @@
     "url": "http://www.ppgun.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/753920/page_bg_generated_v6b.jpg?t=1515737317"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/753920/page_bg_generated_v6b.jpg?t=1515737317",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

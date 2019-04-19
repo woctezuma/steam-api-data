@@ -11,7 +11,7 @@
     "appid": "262410",
     "name": "World of Guns: Gun Disassembly"
   },
-  "supported_languages": "English, Russian, Italian, German, French, Spanish, Ukrainian, Polish, Traditional Chinese, Czech, Portuguese-Brazil, Dutch, Swedish, Japanese, Portuguese, Simplified Chinese",
+  "supported_languages": "English, Russian, Italian, German, French, Spanish - Spain, Ukrainian, Polish, Traditional Chinese, Czech, Portuguese - Brazil, Dutch, Swedish, Japanese, Portuguese, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/660060/header.jpg?t=1497964060",
   "website": "http://noble-empire.com/",
   "pc_requirements": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     186859
@@ -163,6 +165,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/660060/ss_d53eb129a680b75df4c92cc5d49858597b44cb4c.1920x1080.jpg?t=1497964060"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Jun, 2017"
@@ -171,5 +176,9 @@
     "url": "http://noble-empire.com/contacts.php",
     "email": "ler@noble-empire.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/660060/page_bg_generated_v6b.jpg?t=1497964060"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/660060/page_bg_generated_v6b.jpg?t=1497964060",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

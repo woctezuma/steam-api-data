@@ -9,7 +9,7 @@
   "about_the_game": "Crystal Towers 2 XL is an adventure platform game inspired by the shareware of the 90s. Join Bernard the monk as he makes his way through the hostile reaches of the kingdom on a quest to recover the sacred instruments that hold the world's music together.<br><br>This XL edition is a partially remade version of the original game from 2011, adapting the game for widescreen as well as improving a host of things that were missing the first time around.<br><br>Featuring!<br><ul class=\"bb_ul\"><li> Nearly 300 individual challenges, enough to last more than your lifetime (if you're a medium-sized insect)<br></li><li> Steam Achievements - some of which aren't patronizing and useless!<br></li><li> Absolutely no water or ice levels!<br></li><li> The Synthesizer, which lets you create magic artefacts to help you on your quest with mere hours of grinding for items!<br></li><li> Use the Music Castle's free wifi to post your scorecard online and laugh at your lesser friends!<br></li><li> The engine behind Five Nights at Freddy's doing something that isn't lastingly traumatic!<br></li><li> Programmer art galore!</li></ul>",
   "short_description": "Jump and blast your way through the hostile reaches of the kingdom on your quest to recover the Music Crystals!",
   "supported_languages": "English",
-  "reviews": "\u201cTotally endearing... excellently eager to please\u201d<br><a href=\"http://www.rockpapershotgun.com/2011/06/15/celestica-crystal-towers-2/#more-62258\" target=\"_blank\" rel=\"noreferrer\"  >Rock Paper Shotgun</a></a><br><br>\u201cIt's funny, it's charming, it's entertaining - it's an absolute blast, basically\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://indiegames.com/2011/06/crystal_towers_2_released.html\" target=\"_blank\" rel=\"noopener\"  >Indie Games Weblog</a></a><br>",
+  "reviews": "\u201cTotally endearing... excellently eager to please\u201d<br><a href=\"http://www.rockpapershotgun.com/2011/06/15/celestica-crystal-towers-2/#more-62258\" target=\"_blank\" rel=\"noreferrer\"  >Rock Paper Shotgun</a><br><br>\u201cIt's funny, it's charming, it's entertaining - it's an absolute blast, basically\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://indiegames.com/2011/06/crystal_towers_2_released.html\" target=\"_blank\" rel=\"noopener\"  >Indie Games Weblog</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/340250/header.jpg?t=1447367340",
   "website": "http://www.crystaltowers2.com",
   "pc_requirements": {
@@ -34,10 +34,12 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
-    "58500"
+    58500
   ],
   "package_groups": [
     {
@@ -50,7 +52,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "58500",
+          "packageid": 58500,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Crystal Towers 2 - 7,99\u20ac",
@@ -202,5 +204,9 @@
     "url": "http://www.crystaltowers2.com",
     "email": "davidknewton@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340250/page_bg_generated_v6b.jpg?t=1447367340"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340250/page_bg_generated_v6b.jpg?t=1447367340",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

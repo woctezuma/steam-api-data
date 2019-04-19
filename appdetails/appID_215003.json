@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>The Victoria II: German Unit Pack adds updated uniforms and units for German soldiers. This includes units and uniforms for the German Empire, North German Federation, South German Federation and Prussia.\n</p>\n\n<p>Pre-war Period units for Prussia/Germany:\n</p>\n<ul>\n<li> Artillery\n<li> Cavalry\n<li> Engineer\n<li> Guard\n<li> Infantry\n<li> Plane\n</ul>\n\n<p>The Great War Period units for Prussia/Germany:\n</p>\n<ul>\n<li> Artillery\n<li> Cavalry\n<li> Engineer\n<li> Guard\n<li> Infantry\n<li> Plane\n</ul>\n\n",
   "about_the_game": "<p>The Victoria II: German Unit Pack adds updated uniforms and units for German soldiers. This includes units and uniforms for the German Empire, North German Federation, South German Federation and Prussia.\n</p>\n\n<p>Pre-war Period units for Prussia/Germany:\n</p>\n<ul>\n<li> Artillery\n<li> Cavalry\n<li> Engineer\n<li> Guard\n<li> Infantry\n<li> Plane\n</ul>\n\n<p>The Great War Period units for Prussia/Germany:\n</p>\n<ul>\n<li> Artillery\n<li> Cavalry\n<li> Engineer\n<li> Guard\n<li> Infantry\n<li> Plane\n</ul>\n\n",
-  "short_description": "",
+  "short_description": "The Victoria II: German Unit Pack adds updated uniforms and units for German soldiers. This includes units and uniforms for the German Empire, North German Federation, South German Federation and Prussia.",
   "fullgame": {
     "appid": "42960",
     "name": "Victoria II"
@@ -31,11 +31,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    27088,
-    29111
+    27088
   ],
   "package_groups": [
     {
@@ -56,16 +57,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 199
-        },
-        {
-          "packageid": 29111,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Victoria II DLC Collection - 24,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2499
         }
       ]
     }
@@ -147,6 +138,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/215003/ss_450f64f9191d739c1d42d8348ce32708b7ff1024.1920x1080.jpg?t=1447357773"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Apr, 2013"
@@ -155,5 +149,9 @@
     "url": "www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/215003/page_bg_generated_v6b.jpg?t=1447357773"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/215003/page_bg_generated_v6b.jpg?t=1447357773",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

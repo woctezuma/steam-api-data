@@ -9,10 +9,10 @@
   "short_description": "Purchase the soundtrack for Sins of a Solar Empire: Rebellion containing over 2 hours of high-fidelity music across 55 individual tracks! This soundtrack DLC contains both FLAC and MP3 formats converted from the original production .wav files.",
   "fullgame": {
     "appid": "204880",
-    "name": "Sins of a Solar Empire\u00ae: Rebellion"
+    "name": "Sins of a Solar Empire: Rebellion\u00ae"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/228600/header.jpg?t=1498591166",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/228600/header.jpg?t=1532975065",
   "website": "http://www.sinsofasolarempire.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 / 8 / Windows 7 SP1 / Windows Vista SP2<br>\t</li><li><strong>Processor:</strong> 3 GHz Intel Pentium 4 Processor or Equivalent<br>\t</li><li><strong>Memory:</strong> 2 GB Available System Memory<br>\t</li><li><strong>Graphics:</strong> 256 MB Video Card w/Pixel Shader 3.0 Support (Radeon X1650 / GeForce<br>6800* or Better)<br>\t</li><li><strong>DirectX\u00ae:</strong> 9.0c<br>\t</li><li><strong>Hard Drive:</strong> 5 GB HD space<br>\t</li><li><strong>Sound:</strong> DirectX 9.0c Compatible Sound Card<br>\t</li><li><strong>Other Requirements:</strong> Keyboard and Mouse (w/scroll wheel), Broadband Internet connection for Multiplayer<br></li><li> * NVidia video chipsets must use driver version 296.10 or higher and mobile cards be set as the primary video chipset for the game.</li></ul>",
@@ -32,12 +32,14 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     18820,
-    "39352",
-    18821
+    18821,
+    39352
   ],
   "package_groups": [
     {
@@ -60,24 +62,24 @@
           "price_in_cents_with_discount": 999
         },
         {
-          "packageid": "39352",
-          "percent_savings_text": "-75%",
-          "percent_savings": 0,
-          "option_text": "Sins of a Solar Empire: Rebellion - Ultimate Edition - <span class=\"discount_original_price\">49,99\u20ac</span> 12,49\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 1249
-        },
-        {
           "packageid": 18821,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Sins of a Solar Empire: Rebellion Game and Soundtrack Bundle - 44,99\u20ac",
+          "option_text": "Sins of a Solar Empire: Rebellion\u00ae Game and Soundtrack Bundle - 44,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 4499
+        },
+        {
+          "packageid": 39352,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Sins of a Solar Empire: Rebellion\u00ae - Ultimate Edition - 49,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 4999
         }
       ]
     }
@@ -150,30 +152,33 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_d018361380a56bcc8b6fd4a6395df5c114c3e188.600x338.jpg?t=1498591166",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_d018361380a56bcc8b6fd4a6395df5c114c3e188.1920x1080.jpg?t=1498591166"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_d018361380a56bcc8b6fd4a6395df5c114c3e188.600x338.jpg?t=1532975065",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_d018361380a56bcc8b6fd4a6395df5c114c3e188.1920x1080.jpg?t=1532975065"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_d08926f7d7e44b57726fad3ef675ef9443e2d0c5.600x338.jpg?t=1498591166",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_d08926f7d7e44b57726fad3ef675ef9443e2d0c5.1920x1080.jpg?t=1498591166"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_d08926f7d7e44b57726fad3ef675ef9443e2d0c5.600x338.jpg?t=1532975065",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_d08926f7d7e44b57726fad3ef675ef9443e2d0c5.1920x1080.jpg?t=1532975065"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_8565e801bf9e4e7c43978f35bc98c15a61d8ed87.600x338.jpg?t=1498591166",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_8565e801bf9e4e7c43978f35bc98c15a61d8ed87.1920x1080.jpg?t=1498591166"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_8565e801bf9e4e7c43978f35bc98c15a61d8ed87.600x338.jpg?t=1532975065",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_8565e801bf9e4e7c43978f35bc98c15a61d8ed87.1920x1080.jpg?t=1532975065"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_048d92ab5633335cb91a0075fde471c25dc73c2c.600x338.jpg?t=1498591166",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_048d92ab5633335cb91a0075fde471c25dc73c2c.1920x1080.jpg?t=1498591166"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_048d92ab5633335cb91a0075fde471c25dc73c2c.600x338.jpg?t=1532975065",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_048d92ab5633335cb91a0075fde471c25dc73c2c.1920x1080.jpg?t=1532975065"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_a841cf82f2bd840aeeae0c1ba91bb8489d7c3698.600x338.jpg?t=1498591166",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_a841cf82f2bd840aeeae0c1ba91bb8489d7c3698.1920x1080.jpg?t=1498591166"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_a841cf82f2bd840aeeae0c1ba91bb8489d7c3698.600x338.jpg?t=1532975065",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/228600/ss_a841cf82f2bd840aeeae0c1ba91bb8489d7c3698.1920x1080.jpg?t=1532975065"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Jan, 2013"
@@ -182,5 +187,9 @@
     "url": "http://www.stardock.com/support/",
     "email": "support@stardock.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/228600/page_bg_generated_v6b.jpg?t=1498591166"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/228600/page_bg_generated_v6b.jpg?t=1532975065",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

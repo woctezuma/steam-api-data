@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Welcome to the &quot;Master of Magic Chess Deluxe Edition&quot;! Here you can experience 13 new heroes.<br />\r\n<br />\r\n* open 13 new heroes available",
   "about_the_game": "Welcome to the &quot;Master of Magic Chess Deluxe Edition&quot;! Here you can experience 13 new heroes.<br />\r\n<br />\r\n* open 13 new heroes available",
-  "short_description": "",
+  "short_description": "Welcome to the &quot;Master of Magic Chess Deluxe Edition&quot;! Here you can experience 13 new heroes.",
   "fullgame": {
     "appid": "598680",
     "name": "Master of Magic Chess"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     168994
@@ -138,5 +140,9 @@
     "url": "http://www.nichegame.cn/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/625920/page_bg_generated_v6b.jpg?t=1495782433"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/625920/page_bg_generated_v6b.jpg?t=1495782433",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

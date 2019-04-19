@@ -15,13 +15,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/531120/header.jpg?t=1476737455",
   "website": "http://www.braingoodgames.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or newer<br></li><li><strong>Processor:</strong> Support for SSE2 instruction set<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong> 20 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP or newer<br></li><li><strong>Processeur\u00a0:</strong> Support for SSE2 instruction set<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 512 MB de m\u00e9moire<br></li><li><strong>Espace disque\u00a0:</strong> 20 MB d'espace disque disponible</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.6 or newer<br></li><li><strong>Processor:</strong> Support for SSE2 instruction set<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong> 20 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OS X 10.6 or newer<br></li><li><strong>Processeur\u00a0:</strong> Support for SSE2 instruction set<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 512 MB de m\u00e9moire<br></li><li><strong>Espace disque\u00a0:</strong> 20 MB d'espace disque disponible</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 10.10 or newer<br></li><li><strong>Processor:</strong> Support for SSE2 instruction set<br></li><li><strong>Storage:</strong> 20 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Ubuntu 10.10 or newer<br></li><li><strong>Processeur\u00a0:</strong> Support for SSE2 instruction set<br></li><li><strong>Espace disque\u00a0:</strong> 20 MB d'espace disque disponible</li></ul>"
   },
   "developers": [
     "BrainGoodGames"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     128041
@@ -124,5 +126,9 @@
     "url": "http://www.braingoodgames.com",
     "email": "braingoodgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/531120/page_bg_generated_v6b.jpg?t=1476737455"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/531120/page_bg_generated_v6b.jpg?t=1476737455",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

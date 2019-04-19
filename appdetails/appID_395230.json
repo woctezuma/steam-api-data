@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Specially trained in scouting and assassination of high value targets, these Rangers are the first to drop into the unknown. Ranger training was standard procedure for all HELLDIVERS in the early days of SUPER EARTH, but has now become rarer.<h2 class=\"bb_tag\">The Ranger Pack contains:</h2>\u2022 The Ranger Uniform, a cosmetic helmet, armor, and cape.<br>\u2022 LHO-63 \u2018Camper\u2019: A designated marksman rifle with high power and accuracy traded for fire rate, few enemies take more than a few shots to kill. <br>\u2022 \u2018Humblebee\u2019 UAV: An Unmanned Aerial Vehicle, capable of revealing enemies and hidden objectives at greater distances.",
   "about_the_game": "Specially trained in scouting and assassination of high value targets, these Rangers are the first to drop into the unknown. Ranger training was standard procedure for all HELLDIVERS in the early days of SUPER EARTH, but has now become rarer.<h2 class=\"bb_tag\">The Ranger Pack contains:</h2>\u2022 The Ranger Uniform, a cosmetic helmet, armor, and cape.<br>\u2022 LHO-63 \u2018Camper\u2019: A designated marksman rifle with high power and accuracy traded for fire rate, few enemies take more than a few shots to kill. <br>\u2022 \u2018Humblebee\u2019 UAV: An Unmanned Aerial Vehicle, capable of revealing enemies and hidden objectives at greater distances.",
-  "short_description": "Specially trained in scouting and assassination of high value targets, these Rangers are the first to drop into the unknown. Ranger training was standard procedure for all HELLDIVERS in the early days of SUPER EARTH, but has now become rarer.<h2 class=\"bb_tag\">The Ranger Pack contains:</h2>\u2022 The Ranger Uniform, a cosmetic helmet, armor, and cape.<br>\u2022 LHO-63 \u2018Camper\u2019: A designated marksman rifle with high power and accuracy traded for fire rate, few enemies take more than a few shots to kill. <br>\u2022 \u2018Humblebee\u2019 UAV: An Unmanned Aerial Vehicle, capable of revealing enemies and hidden objectives at greater distances.",
+  "short_description": "Specially trained in scouting and assassination of high value targets, these Rangers are the first to drop into the unknown. Ranger training was standard procedure for all HELLDIVERS in the early days of SUPER EARTH, but has now become rarer.The Ranger Pack contains:\u2022 The Ranger Uniform, a cosmetic helmet, armor, and cape.",
   "fullgame": {
     "appid": "394510",
-    "name": "HELLDIVERS\u2122"
+    "name": "HELLDIVERS\u2122 A New Hell Edition"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Danish, Dutch, Finnish, Japanese<strong>*</strong>, Korean, Norwegian, Polish, Portuguese, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong>, Swedish, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Danish, Dutch, Finnish, Japanese<strong>*</strong>, Korean, Norwegian, Polish, Portuguese, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Swedish, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/395230/header.jpg?t=1449503411",
   "website": null,
   "pc_requirements": {
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 119,
-    "discount_percent": 60
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     75935,
@@ -51,33 +53,33 @@
       "subs": [
         {
           "packageid": 75935,
-          "percent_savings_text": "-60%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "HELLDIVERS\u2122 - Ranger Pack - <span class=\"discount_original_price\">2,99\u20ac</span> 1,19\u20ac",
+          "option_text": "HELLDIVERS\u2122 - Ranger Pack - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 119
+          "price_in_cents_with_discount": 299
         },
         {
           "packageid": 81596,
-          "percent_savings_text": "-60%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "HELLDIVERS\u2122 Reinforcements Mega Bundle - <span class=\"discount_original_price\">19,99\u20ac</span> 7,99\u20ac",
+          "option_text": "HELLDIVERS\u2122 Reinforcements Mega Bundle - 19,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 1999
         },
         {
           "packageid": 81591,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "HELLDIVERS\u2122 Digital Deluxe Edition - <span class=\"discount_original_price\">29,99\u20ac</span> 14,99\u20ac",
+          "option_text": "HELLDIVERS\u2122 Digital Deluxe Edition - 29,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 2999
         }
       ]
     }
@@ -161,6 +163,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Dec, 2015"
@@ -169,5 +174,9 @@
     "url": "http://steamcommunity.com/app/394510/discussions/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/395230/page_bg_generated_v6b.jpg?t=1449503411"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/395230/page_bg_generated_v6b.jpg?t=1449503411",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

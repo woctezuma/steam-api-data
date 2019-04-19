@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This DLC is to show that you're giving an extra hand to support the development of ClickRaid. To go with it, it also gives the following additions:<br />\r\n<br />\r\n-Your base Raid Boss Spawn Chance is doubled<br />\r\n<br />\r\n- Some of the cursors gain a special visual glow<br />\r\n<br />\r\n-50 raid souls/boss souls<br />\r\n<br />\r\n-Unlocks Name Color customization<br />\r\n<br />\r\n-Captchas appear every 30 minutes instead of 15",
   "about_the_game": "This DLC is to show that you're giving an extra hand to support the development of ClickRaid. To go with it, it also gives the following additions:<br />\r\n<br />\r\n-Your base Raid Boss Spawn Chance is doubled<br />\r\n<br />\r\n- Some of the cursors gain a special visual glow<br />\r\n<br />\r\n-50 raid souls/boss souls<br />\r\n<br />\r\n-Unlocks Name Color customization<br />\r\n<br />\r\n-Captchas appear every 30 minutes instead of 15",
-  "short_description": "-Adds a Glow that everyone can see to your cursor.<br />\r\n-Name color change<br />\r\n-Increases Raid Boss spawns.<br />\r\n-50 Boss Souls<br />\r\n-50 Raid Souls",
+  "short_description": "-Adds a Glow that everyone can see to your cursor. -Name color change -Increases Raid Boss spawns.",
   "fullgame": {
     "appid": "658160",
     "name": "ClickRaid"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     186371
@@ -124,5 +126,9 @@
     "url": "",
     "email": "clickraid@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/658910/page_bg_generated_v6b.jpg?t=1518830022"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/658910/page_bg_generated_v6b.jpg?t=1518830022",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

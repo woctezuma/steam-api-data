@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     92580
@@ -202,5 +204,9 @@
     "url": "http://www.aksysgames.com/contact/support/",
     "email": "support@aksysgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438940/page_bg_generated_v6b.jpg?t=1489125720"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438940/page_bg_generated_v6b.jpg?t=1489125720",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

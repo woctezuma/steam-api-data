@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     60153,
@@ -121,6 +123,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/348560/ss_65a32753df1ce3a164d547d15de8a0828991f58c.1920x1080.jpg?t=1461512621"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Feb, 2015"
@@ -129,5 +134,12 @@
     "url": "https://steamcommunity.com/app/339800/discussions/0/616199736993503308/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/348560/page_bg_generated_v6b.jpg?t=1461512621"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/348560/page_bg_generated_v6b.jpg?t=1461512621",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

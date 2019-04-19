@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     130142
@@ -159,6 +161,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Oct, 2016"
@@ -167,5 +172,9 @@
     "url": "http://fulby.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/535460/page_bg_generated_v6b.jpg?t=1479158594"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/535460/page_bg_generated_v6b.jpg?t=1479158594",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

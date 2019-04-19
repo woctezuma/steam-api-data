@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "S.C.S. - Dangerous Waters allows you total control over multiple air, surface, and submarine platforms in a modern-day naval environment. Take direct control of individual crew stations and also plan and execute combined arms naval strategies from a top-down 'Commanders Eye' perspective.",
   "about_the_game": "S.C.S. - Dangerous Waters allows you total control over multiple air, surface, and submarine platforms in a modern-day naval environment. Take direct control of individual crew stations and also plan and execute combined arms naval strategies from a top-down 'Commanders Eye' perspective.",
-  "short_description": "",
+  "short_description": "S.C.S. - Dangerous Waters allows you total control over multiple air, surface, and submarine platforms in a modern-day naval environment. Take direct control of individual crew stations and also plan and execute combined arms naval strategies from a top-down 'Commanders Eye' perspective.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1600/header.jpg?t=1447350835",
   "website": "http://www.scs-dangerouswaters.com/",
@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1499,
-    "final": 299,
-    "discount_percent": 80
+    "final": 1499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     58,
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 58,
-          "percent_savings_text": "-80%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Dangerous Waters - <span class=\"discount_original_price\">14,99\u20ac</span> 2,99\u20ac",
+          "option_text": "Dangerous Waters - 14,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 1499
         },
         {
           "packageid": 200,
@@ -71,7 +73,7 @@
   },
   "metacritic": {
     "score": 82,
-    "url": "http://www.metacritic.com/game/pc/dangerous-waters?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/dangerous-waters?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -132,7 +134,10 @@
     }
   ],
   "recommendations": {
-    "total": 163
+    "total": 162
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -142,5 +147,9 @@
     "url": "http://strategyfirst.com/products/support.html",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1600/page_bg_generated_v6b.jpg?t=1447350835"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1600/page_bg_generated_v6b.jpg?t=1447350835",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

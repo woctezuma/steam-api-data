@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<strong>Fairy Fencer F: Surpass Your Limits Set</strong> includes <strong>Surpass Your Limits Sets 1, 2, and 3.</strong><br><br><u>Surpass Your Limits Set 1</u><br>Increases the level cap by 300 and unlocks a new dungeon on the World Map: Kidanar Plains- East Area.<br><br><u>Surpass Your Limits Set 2</u><br>Increases the level cap by 300 and unlocks a new dungeon on the World Map: Bui's Hidden Valley.<br><br><u>Surpass Your Limits Set 3</u><br>Increases the level cap by 300 and unlocks a new dungeon on the World Map: Zawaza Plains (Unexplored Region).<br><br><br><i>Upon activation, this DLC cannot be disabled. Disabling may cause the program to be unstable and possibly result in a forced shutdown of the game. Before activating, please ensure that you wish to keep the content throughout the remainder of the game.</i>",
   "about_the_game": "<strong>Fairy Fencer F: Surpass Your Limits Set</strong> includes <strong>Surpass Your Limits Sets 1, 2, and 3.</strong><br><br><u>Surpass Your Limits Set 1</u><br>Increases the level cap by 300 and unlocks a new dungeon on the World Map: Kidanar Plains- East Area.<br><br><u>Surpass Your Limits Set 2</u><br>Increases the level cap by 300 and unlocks a new dungeon on the World Map: Bui's Hidden Valley.<br><br><u>Surpass Your Limits Set 3</u><br>Increases the level cap by 300 and unlocks a new dungeon on the World Map: Zawaza Plains (Unexplored Region).<br><br><br><i>Upon activation, this DLC cannot be disabled. Disabling may cause the program to be unstable and possibly result in a forced shutdown of the game. Before activating, please ensure that you wish to keep the content throughout the remainder of the game.</i>",
-  "short_description": "<strong>Fairy Fencer F: Surpass Your Limits Set</strong> includes <strong>Surpass Your Limits Sets 1, 2, and 3.</strong><br><br><i>Upon activation, this DLC cannot be disabled. Disabling may cause the program to be unstable and possibly result in a forced shutdown of the game. Before activating, please ensure that you wish to keep the content throughout the remainder of the game.</i>",
+  "short_description": "Fairy Fencer F: Surpass Your Limits Set includes Surpass Your Limits Sets 1, 2, and 3.Upon activation, this DLC cannot be disabled. Disabling may cause the program to be unstable and possibly result in a forced shutdown of the game. Before activating, please ensure that you wish to keep the content throughout the remainder of the game.",
   "fullgame": {
     "appid": "347830",
     "name": "Fairy Fencer F"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     66569
@@ -169,6 +171,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/367413/ss_172cdb72e7893ebabb1cb088bc38dfa5b099d867.1920x1080.jpg?t=1466717991"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Aug, 2015"
@@ -177,5 +182,9 @@
     "url": "http://www.ideafintl.com",
     "email": "support@ideafintl.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367413/page_bg_generated_v6b.jpg?t=1466717991"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367413/page_bg_generated_v6b.jpg?t=1466717991",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

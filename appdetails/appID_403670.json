@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     78973
@@ -135,6 +137,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Oct, 2015"
@@ -143,5 +148,9 @@
     "url": "http://deanforge.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403670/page_bg_generated_v6b.jpg?t=1462351327"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403670/page_bg_generated_v6b.jpg?t=1462351327",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

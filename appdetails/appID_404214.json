@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1299,
-    "final": 1299,
-    "discount_percent": 0
+    "initial": 1199,
+    "final": 1199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     223442
@@ -50,11 +52,11 @@
           "packageid": 223442,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: BNSF Railway EMD SD70MAC Executive Patch - 12,99\u20ac",
+          "option_text": "TANE DLC: BNSF Railway EMD SD70MAC Executive Patch - 11,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1299
+          "price_in_cents_with_discount": 1199
         }
       ]
     }
@@ -115,6 +117,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404214/ss_5d7f731d94ed9373e485a7d42c7c4499806af94b.1920x1080.jpg?t=1479201540"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Jan, 2016"
@@ -123,5 +128,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404214/page_bg_generated_v6b.jpg?t=1479201540"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404214/page_bg_generated_v6b.jpg?t=1479201540",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Burn Baby Burn!<br />\r\n<br />\r\n\u00a9 2016 Excalibur Games Limited. Out of Bounds Limited. Disco Inferno by The Trammps courtesy of<br />\r\nSan Juan Music. In game music courtesy of Matthew Walker of Red Panda Audio. All rights reserved.",
   "about_the_game": "Burn Baby Burn!<br />\r\n<br />\r\n\u00a9 2016 Excalibur Games Limited. Out of Bounds Limited. Disco Inferno by The Trammps courtesy of<br />\r\nSan Juan Music. In game music courtesy of Matthew Walker of Red Panda Audio. All rights reserved.",
-  "short_description": "",
+  "short_description": "Burn Baby Burn! \u00a9 2016 Excalibur Games Limited. Out of Bounds Limited. Disco Inferno by The Trammps courtesy of San Juan Music. In game music courtesy of Matthew Walker of Red Panda Audio. All rights reserved.",
   "fullgame": {
     "appid": "452920",
     "name": "Laser Disco Defenders"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     120841
@@ -99,6 +101,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/516710/ss_c008dd79372ea2c93f077d06a6308eb8fbbecfc5.1920x1080.jpg?t=1475779891"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Oct, 2016"
@@ -107,5 +112,9 @@
     "url": "www.excalibur-publishing.com",
     "email": "support@excalibur-publishing.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/516710/page_bg_generated_v6b.jpg?t=1475779891"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/516710/page_bg_generated_v6b.jpg?t=1475779891",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

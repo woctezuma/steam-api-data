@@ -12,7 +12,7 @@
     "appid": "470210",
     "name": "Rocketbirds 2 Evolution"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Dutch, Japanese<strong>*</strong>, Korean, Portuguese-Brazil, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Dutch, Japanese<strong>*</strong>, Korean, Portuguese - Brazil, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/628790/header.jpg?t=1496249550",
   "website": "http://www.rocketbirds.com",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     170926
@@ -173,6 +175,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 May, 2017"
@@ -181,5 +186,9 @@
     "url": "",
     "email": "support@rocketbirds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/628790/page_bg_generated_v6b.jpg?t=1496249550"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/628790/page_bg_generated_v6b.jpg?t=1496249550",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

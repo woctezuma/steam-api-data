@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 39,
+    "discount_percent": 88,
+    "initial_formatted": "3,29\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     100789
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 100789,
-          "percent_savings_text": "",
+          "percent_savings_text": "-88%",
           "percent_savings": 0,
-          "option_text": "Tank Blast - 4,99\u20ac",
+          "option_text": "Tank Blast - <span class=\"discount_original_price\">3,29\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -150,7 +152,7 @@
     }
   ],
   "recommendations": {
-    "total": 295
+    "total": 203
   },
   "achievements": {
     "total": 28,
@@ -205,5 +207,9 @@
     "url": "http://siberian.digital/",
     "email": "support@siberiandigital.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/461720/page_bg_generated_v6b.jpg?t=1497292530"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/461720/page_bg_generated_v6b.jpg?t=1497292530",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

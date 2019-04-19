@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     135496
@@ -129,6 +131,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 May, 2017"
@@ -137,5 +142,12 @@
     "url": "",
     "email": "chimruoigames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548260/page_bg_generated_v6b.jpg?t=1495087320"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548260/page_bg_generated_v6b.jpg?t=1495087320",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": "Depictions of gunfights and associated violence"
+  }
 }

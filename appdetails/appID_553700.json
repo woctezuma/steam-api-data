@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     137688
@@ -110,6 +112,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/553700/ss_4f4847aa59d4589fd556feca2c44886d6928f5d3.1920x1080.jpg?t=1478662196"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Nov, 2016"
@@ -118,5 +123,9 @@
     "url": "http://board.pathea.net/",
     "email": "admin@pathea.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/553700/page_bg_generated_v6b.jpg?t=1478662196"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/553700/page_bg_generated_v6b.jpg?t=1478662196",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

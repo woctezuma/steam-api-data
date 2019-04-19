@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Includes the costume items 'Voluminous Ponytail' and 'Golden Voluminous Ponytail.'",
   "about_the_game": "Includes the costume items 'Voluminous Ponytail' and 'Golden Voluminous Ponytail.'",
-  "short_description": "Includes the costume items 'Voluminous Ponytail' and 'Golden Voluminous Ponytail.'",
+  "short_description": "Includes the costume items 'Voluminous Ponytail' and 'Golden Voluminous Ponytail.",
   "fullgame": {
     "appid": "446390",
     "name": "Onechanbara Z2: Chaos"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     102747
@@ -109,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467040/ss_f1b3aa3dd538bcc89585cd560255ae639ce47ee2.1920x1080.jpg?t=1466043333"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jun, 2016"
@@ -117,5 +122,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467040/page_bg_generated_v6b.jpg?t=1466043333"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467040/page_bg_generated_v6b.jpg?t=1466043333",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

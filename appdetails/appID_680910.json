@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "initial": 649,
+    "final": 649,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,49\u20ac"
   },
   "packages": [
     194466
@@ -52,11 +54,11 @@
           "packageid": 194466,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "HIVESWAP: Act 1 Original Soundtrack - 7,99\u20ac",
+          "option_text": "HIVESWAP: Act 1 Original Soundtrack - 6,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 649
         }
       ]
     }
@@ -113,5 +115,9 @@
     "url": "",
     "email": "inquiries@whatpumpkin.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/680910/page_bg_generated_v6b.jpg?t=1505414757"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/680910/page_bg_generated_v6b.jpg?t=1505414757",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

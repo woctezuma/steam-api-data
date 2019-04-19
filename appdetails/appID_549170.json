@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 539,
     "final": 539,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,39\u20ac"
   },
   "packages": [
     135809
@@ -61,7 +63,7 @@
   },
   "metacritic": {
     "score": 67,
-    "url": "http://www.metacritic.com/game/pc/army-men-rts?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/army-men-rts?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -178,6 +180,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Dec, 2017"
@@ -186,5 +191,9 @@
     "url": "support.2k.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/549170/page_bg_generated_v6b.jpg?t=1513817549"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/549170/page_bg_generated_v6b.jpg?t=1513817549",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

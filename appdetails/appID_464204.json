@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Gold coated model of the BM03 Vegalta. Only a small number of these were ever manufactured. This model is coated in gold so that it reflects radar waves. However, this is not very effective. It is operated as a ceremonial unit or by commanders. It is armed with a Combat Burner (flamethrower) that is mounted on the arm. After jumping, pressing the jump button again will activate the jet thrusters. Flight is possible for short periods of time.",
   "about_the_game": "Gold coated model of the BM03 Vegalta. Only a small number of these were ever manufactured. This model is coated in gold so that it reflects radar waves. However, this is not very effective. It is operated as a ceremonial unit or by commanders. It is armed with a Combat Burner (flamethrower) that is mounted on the arm. After jumping, pressing the jump button again will activate the jet thrusters. Flight is possible for short periods of time.",
-  "short_description": "Gold coated model of the BM03 Vegalta. Only a small number of these were ever manufactured. This model is coated in gold so that it reflects radar waves. However, this is not very effective.  After jumping, pressing the jump button again will activate the jet thrusters.",
+  "short_description": "Gold coated model of the BM03 Vegalta. Only a small number of these were ever manufactured. This model is coated in gold so that it reflects radar waves. However, this is not very effective. After jumping, pressing the jump button again will activate the jet thrusters.",
   "fullgame": {
     "appid": "410320",
     "name": "EARTH DEFENSE FORCE 4.1 The Shadow of New Despair"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     101715
@@ -122,6 +124,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464204/ss_195fabcdfc9b9fc15efcd3dffae7b4691768f41e.1920x1080.jpg?t=1468896438"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Jul, 2016"
@@ -130,5 +135,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/464204/page_bg_generated_v6b.jpg?t=1468896438"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/464204/page_bg_generated_v6b.jpg?t=1468896438",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

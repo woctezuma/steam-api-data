@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     120853
@@ -128,6 +130,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Oct, 2016"
@@ -136,5 +141,9 @@
     "url": "http://magnussoft.biz/",
     "email": "support@magnussoft.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/516740/page_bg_generated_v6b.jpg?t=1477558174"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/516740/page_bg_generated_v6b.jpg?t=1477558174",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     240130
@@ -204,5 +206,9 @@
     "url": "https://www.facebook.com/NeverStopSneakin/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/792880/page_bg_generated_v6b.jpg?t=1519624836"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/792880/page_bg_generated_v6b.jpg?t=1519624836",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

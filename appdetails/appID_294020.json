@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     41590
@@ -183,7 +185,7 @@
     }
   ],
   "recommendations": {
-    "total": 393
+    "total": 192
   },
   "achievements": {
     "total": 22,
@@ -238,5 +240,9 @@
     "url": "",
     "email": "support@forever-entertainment.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/294020/page_bg_generated_v6b.jpg?t=1447361263"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/294020/page_bg_generated_v6b.jpg?t=1447361263",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Puzzle Tactics is a turn-based and grid-based tactics game played in various small levels.  You play as the blue team with the goal of defeating the red team's units before losing your own.  Later levels are more difficult and introduce more unit types in battle.  The game is controlled using the mouse.<br><br><strong><u>Units</u></strong><br><ul class=\"bb_ul\"><li>Warrior: a powerful melee unit who can also hit multiple targets<br></li><li>Archer: can shoot at targets 4-6 tiles away but only in 4 directions<br></li><li>Mage: can attack with a fireball that hits multiple targets and ignores walls<br></li><li>Defender: has the most health and can shield itself and allies to reduce damage<br></li><li>Necromancer: summons skeletons to deal and take extra damage<br></li><li>Skeleton: somewhat like a warrior, but weaker and with only a basic attack</li></ul>",
   "about_the_game": "Puzzle Tactics is a turn-based and grid-based tactics game played in various small levels.  You play as the blue team with the goal of defeating the red team's units before losing your own.  Later levels are more difficult and introduce more unit types in battle.  The game is controlled using the mouse.<br><br><strong><u>Units</u></strong><br><ul class=\"bb_ul\"><li>Warrior: a powerful melee unit who can also hit multiple targets<br></li><li>Archer: can shoot at targets 4-6 tiles away but only in 4 directions<br></li><li>Mage: can attack with a fireball that hits multiple targets and ignores walls<br></li><li>Defender: has the most health and can shield itself and allies to reduce damage<br></li><li>Necromancer: summons skeletons to deal and take extra damage<br></li><li>Skeleton: somewhat like a warrior, but weaker and with only a basic attack</li></ul>",
-  "short_description": "Puzzle Tactics is a turn-based and grid-based tactics game played in various small levels.  You play as the blue team with the goal of defeating the red team's units before losing your own.  Later levels are more difficult and introduce more unit types in battle.",
+  "short_description": "Puzzle Tactics is a turn-based and grid-based tactics game played in various small levels. You play as the blue team with the goal of defeating the red team's units before losing your own. Later levels are more difficult and introduce more unit types in battle.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/751200/header.jpg?t=1512156246",
   "website": null,
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 39,
-    "discount_percent": 61
+    "discount_percent": 61,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     220755
@@ -172,5 +174,9 @@
     "url": "http://rob1221.weebly.com/contact.html",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/751200/page_bg_generated_v6b.jpg?t=1512156246"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/751200/page_bg_generated_v6b.jpg?t=1512156246",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

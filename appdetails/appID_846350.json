@@ -12,7 +12,7 @@
     "name": "The Path of Motus"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/846350/header.jpg?t=1523650172",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/846350/header.jpg?t=1531831807",
   "website": "http://pathofmotus.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> Required</li></ul>"
@@ -25,7 +25,40 @@
   "publishers": [
     ""
   ],
-  "package_groups": [],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 659,
+    "final": 659,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,59\u20ac"
+  },
+  "packages": [
+    264765
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy The Path of Motus Soundtrack",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 264765,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "The Path of Motus Soundtrack - 6,59\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 659
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -58,17 +91,21 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/846350/ss_664fbaf1b84db0f314cda776adeb069ea749dca1.600x338.jpg?t=1523650172",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/846350/ss_664fbaf1b84db0f314cda776adeb069ea749dca1.1920x1080.jpg?t=1523650172"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/846350/ss_664fbaf1b84db0f314cda776adeb069ea749dca1.600x338.jpg?t=1531831807",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/846350/ss_664fbaf1b84db0f314cda776adeb069ea749dca1.1920x1080.jpg?t=1531831807"
     }
   ],
   "release_date": {
-    "coming_soon": true,
-    "date": "Coming in 2018"
+    "coming_soon": false,
+    "date": "17 Jul, 2018"
   },
   "support_info": {
     "url": "http://pathofmotus.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/846350/page_bg_generated_v6b.jpg?t=1523650172"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/846350/page_bg_generated_v6b.jpg?t=1531831807",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

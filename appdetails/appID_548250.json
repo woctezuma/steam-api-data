@@ -16,10 +16,10 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/548250/header.jpg?t=1482521250",
   "website": "http://www.skelefactor.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista or newer<br></li><li><strong>Processor:</strong> Intel Core i3 M380<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4000<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows Vista or newer<br></li><li><strong>Processeur\u00a0:</strong> Intel Core i3 M380<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> Intel HD 4000<br></li><li><strong>Espace disque\u00a0:</strong> 400 MB d'espace disque disponible</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Snow Leopard 10.6.8, 32/64-bit<br></li><li><strong>Processor:</strong> Intel Core i3 M380<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Snow Leopard 10.6.8, 32/64-bit<br></li><li><strong>Processeur\u00a0:</strong> Intel Core i3 M380<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>Espace disque\u00a0:</strong> 400 MB d'espace disque disponible</li></ul>"
   },
   "linux_requirements": [],
   "developers": [
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     135493
@@ -136,5 +138,9 @@
     "url": "http://skelefactor.com",
     "email": "tony@skelefactor.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548250/page_bg_generated_v6b.jpg?t=1482521250"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548250/page_bg_generated_v6b.jpg?t=1482521250",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

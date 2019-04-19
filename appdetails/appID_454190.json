@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     98113
@@ -127,7 +129,7 @@
     }
   ],
   "recommendations": {
-    "total": 116
+    "total": 110
   },
   "achievements": {
     "total": 3,
@@ -154,5 +156,9 @@
     "url": "",
     "email": "support@moltenplay.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/454190/page_bg_generated_v6b.jpg?t=1459795712"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/454190/page_bg_generated_v6b.jpg?t=1459795712",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     129603
@@ -129,6 +131,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Sep, 2016"
@@ -137,5 +142,9 @@
     "url": "",
     "email": "tomilanogames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/534480/page_bg_generated_v6b.jpg?t=1513686468"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/534480/page_bg_generated_v6b.jpg?t=1513686468",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

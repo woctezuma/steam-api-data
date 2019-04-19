@@ -15,7 +15,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/532240/header.jpg?t=1478180172",
   "website": "http://matrixgames.com/products/574/details/Scourge.of.War:.Waterloo",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS: Windows XP (SP2+), Vista/7/8/10 (Runs in Compatibility Mode Windows 7)<br></li><li><strong>Processor:</strong> CPU: Dual Core 1.5 GHz CPU or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Video: 256 MB Dedicated Video Card with DirectX 9.0c or higher. Video card should NOT be integrated on motherboard, but should be separate, no shared memory<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> OS: Windows XP (SP2+), Vista/7/8/10 (Runs in Compatibility Mode Windows 7)<br></li><li><strong>Processeur\u00a0:</strong> CPU: Dual Core 1.5 GHz CPU or higher<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> Video: 256 MB Dedicated Video Card with DirectX 9.0c or higher. Video card should NOT be integrated on motherboard, but should be separate, no shared memory<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0c<br></li><li><strong>Espace disque\u00a0:</strong> 2 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> DirectX Compatible Sound Card</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     128449
@@ -186,6 +188,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532240/ss_4392fcdabb7566538618858521b6c74cfc9b7110.1920x1080.jpg?t=1478180172"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Oct, 2016"
@@ -194,5 +199,9 @@
     "url": "www.slitherine.com",
     "email": "support@slitherine.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/532240/page_bg_generated_v6b.jpg?t=1478180172"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/532240/page_bg_generated_v6b.jpg?t=1478180172",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

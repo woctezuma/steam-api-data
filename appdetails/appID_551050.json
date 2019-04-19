@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     136685
@@ -231,5 +233,9 @@
     "url": "https://www.diewithglory.com",
     "email": "support@veslo.ooo"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/551050/page_bg_generated_v6b.jpg?t=1520328415"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/551050/page_bg_generated_v6b.jpg?t=1520328415",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

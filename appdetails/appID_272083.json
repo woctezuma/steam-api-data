@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "The Ramp pack - is simply a pack of ramps! Ramp it up baby! This pack contains <strong><u>5 trickshot objects</u></strong> each available in <strong><u>8 colours </u></strong>",
   "about_the_game": "The Ramp pack - is simply a pack of ramps! Ramp it up baby! This pack contains <strong><u>5 trickshot objects</u></strong> each available in <strong><u>8 colours </u></strong>",
-  "short_description": "The Ramp pack - is simply a pack of ramps! Ramp it up baby! This pack contains <strong><ul class=\"bb_ul\"><li>5 trickshot objects </li></ul></strong> each available in <strong><u>8 colours </u></strong>",
+  "short_description": "The Ramp pack - is simply a pack of ramps! Ramp it up baby! This pack contains 5 trickshot objects each available in 8...",
   "fullgame": {
     "appid": "254440",
     "name": "Pool Nation"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/272083/header.jpg?t=1447360035",
   "website": "http://www.cherrypopgames.com",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     36571,
@@ -207,5 +209,9 @@
     "url": "www.cherrypopgames.com",
     "email": "info@cherrypopgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/272083/page_bg_generated_v6b.jpg?t=1447360035"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/272083/page_bg_generated_v6b.jpg?t=1447360035",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

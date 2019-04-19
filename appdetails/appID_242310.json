@@ -12,7 +12,7 @@
     "appid": "241410",
     "name": "CastleStorm"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Hungarian, Japanese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Hungarian, Japanese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/242310/header.jpg?t=1447358070",
   "website": "http://www.castlestormgame.com/",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     28781,
@@ -182,6 +184,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Sep, 2013"
@@ -190,5 +195,9 @@
     "url": "http://blog.zenstudios.com/?page_id=499",
     "email": "support@zenstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/242310/page_bg_generated_v6b.jpg?t=1447358070"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/242310/page_bg_generated_v6b.jpg?t=1447358070",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

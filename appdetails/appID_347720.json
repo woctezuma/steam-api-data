@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     59901
@@ -187,7 +189,7 @@
     }
   ],
   "recommendations": {
-    "total": 208
+    "total": 228
   },
   "achievements": {
     "total": 33,
@@ -242,5 +244,9 @@
     "url": "http://sodadrinkerpro.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/347720/page_bg_generated_v6b.jpg?t=1466685428"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/347720/page_bg_generated_v6b.jpg?t=1466685428",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

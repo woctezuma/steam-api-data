@@ -7,7 +7,7 @@
   "detailed_description": "Take command of your games with your voice using VoiceBot! Sending commands to your games and applications is as easy as saying the command out loud. Use your voice to run keyboard shortcuts, click and move your mouse, and even execute complicated macros and scripts.<h2 class=\"bb_tag\">Advanced Voice Control</h2>Take control over your favourite games with VoiceBot's advanced voice recognition. Bind voice commands to in-game actions and perform simple or complex actions with a single word.<h2 class=\"bb_tag\">Full VR Compatibility</h2>Fully compatible with your favourite VR headsets, including the Oculus Rift. Take your VR gaming to the next level of immersion!<h2 class=\"bb_tag\">Ready-to-Use Game Profiles</h2>Packed with hundreds of premade game profiles ready for you to use. Old games, new games, indie games and big-budget games, VoiceBot has you covered!<h2 class=\"bb_tag\">Scriptable Game Macros</h2>Create custom game macros to bind to voice commands. Use our simple editor to create basic sequences, or code your own complex scripted macros using the built-in C# code editor. The only limit is your imagination!<h2 class=\"bb_tag\">Sync Between Computers</h2>Sign-in to your Binary Fortress account and sync your game profiles between your computers automatically.<h2 class=\"bb_tag\">Share with the Community</h2>Create and share your own custom game profiles with the VoiceBot community. Have a favourite game that doesn't have a profile? Set one up and we'll help you share it with the incredible VoiceBot community so everyone can enjoy it!<h2 class=\"bb_tag\">Global Macros</h2>Global Macros provide always-on commands, even when a profile is loaded. Commands like 'close window', 'volume up', 'mute', 'lock desktop' and many more. Use the built-in Global Macros or create your own for full control.",
   "about_the_game": "Take command of your games with your voice using VoiceBot! Sending commands to your games and applications is as easy as saying the command out loud. Use your voice to run keyboard shortcuts, click and move your mouse, and even execute complicated macros and scripts.<h2 class=\"bb_tag\">Advanced Voice Control</h2>Take control over your favourite games with VoiceBot's advanced voice recognition. Bind voice commands to in-game actions and perform simple or complex actions with a single word.<h2 class=\"bb_tag\">Full VR Compatibility</h2>Fully compatible with your favourite VR headsets, including the Oculus Rift. Take your VR gaming to the next level of immersion!<h2 class=\"bb_tag\">Ready-to-Use Game Profiles</h2>Packed with hundreds of premade game profiles ready for you to use. Old games, new games, indie games and big-budget games, VoiceBot has you covered!<h2 class=\"bb_tag\">Scriptable Game Macros</h2>Create custom game macros to bind to voice commands. Use our simple editor to create basic sequences, or code your own complex scripted macros using the built-in C# code editor. The only limit is your imagination!<h2 class=\"bb_tag\">Sync Between Computers</h2>Sign-in to your Binary Fortress account and sync your game profiles between your computers automatically.<h2 class=\"bb_tag\">Share with the Community</h2>Create and share your own custom game profiles with the VoiceBot community. Have a favourite game that doesn't have a profile? Set one up and we'll help you share it with the incredible VoiceBot community so everyone can enjoy it!<h2 class=\"bb_tag\">Global Macros</h2>Global Macros provide always-on commands, even when a profile is loaded. Commands like 'close window', 'volume up', 'mute', 'lock desktop' and many more. Use the built-in Global Macros or create your own for full control.",
   "short_description": "Take command of your games with your voice using VoiceBot! Sending commands to your games and applications is as easy as saying the command out loud. Use your voice to run keyboard shortcuts, click and move your mouse, and even execute complicated macros and scripts.",
-  "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish<strong>*</strong>, Danish, Dutch, Hungarian, Korean, Polish, Portuguese-Brazil, Russian, Swedish, Turkish, Japanese<strong>*</strong>, Portuguese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Danish, Dutch, Hungarian, Korean, Polish, Portuguese - Brazil, Russian, Swedish, Turkish, Japanese<strong>*</strong>, Portuguese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/374400/header.jpg?t=1506697152",
   "website": "https://www.voicebot.net",
   "pc_requirements": {
@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1299,
-    "final": 1299,
-    "discount_percent": 0
+    "initial": 1079,
+    "final": 1079,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,79\u20ac"
   },
   "packages": [
     69075
@@ -44,11 +46,11 @@
           "packageid": 69075,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "VoiceBot - 12,99\u20ac",
+          "option_text": "VoiceBot - 10,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1299
+          "price_in_cents_with_discount": 1079
         }
       ]
     }
@@ -119,7 +121,7 @@
     }
   ],
   "recommendations": {
-    "total": 143
+    "total": 145
   },
   "achievements": {
     "total": 0
@@ -132,5 +134,9 @@
     "url": "https://www.voicebot.net/Support/",
     "email": "support@voicebot.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/374400/page_bg_generated_v6b.jpg?t=1506697152"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/374400/page_bg_generated_v6b.jpg?t=1506697152",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

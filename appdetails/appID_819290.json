@@ -11,8 +11,8 @@
     "appid": "538840",
     "name": "City Climber"
   },
-  "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/819290/header.jpg?t=1520622642",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Russian, Simplified Chinese, Turkish, Czech",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/819290/header.jpg?t=1532897678",
   "website": "https://ondrejangelovic.wordpress.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista or Later</li></ul>"
@@ -21,19 +21,21 @@
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.0 or Later</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> Tested on Ubuntu</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> <br></li><li><strong>Additional Notes:</strong> Tested on Ubuntu</li></ul>"
   },
   "developers": [
-    "SimpleGhost"
+    "Simple Ghost"
   ],
   "publishers": [
-    ""
+    "Simple Ghost"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     251072
@@ -129,8 +131,8 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/819290/ss_2886d9f695ed101ba82a728d0a0816430b0205a0.600x338.jpg?t=1520622642",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/819290/ss_2886d9f695ed101ba82a728d0a0816430b0205a0.1920x1080.jpg?t=1520622642"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/819290/ss_2886d9f695ed101ba82a728d0a0816430b0205a0.600x338.jpg?t=1532897678",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/819290/ss_2886d9f695ed101ba82a728d0a0816430b0205a0.1920x1080.jpg?t=1532897678"
     }
   ],
   "release_date": {
@@ -141,5 +143,9 @@
     "url": "https://ondrejangelovic.wordpress.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/819290/page_bg_generated_v6b.jpg?t=1520622642"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/819290/page_bg_generated_v6b.jpg?t=1532897678",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

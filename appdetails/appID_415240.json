@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Feesh is a minimalist arcade game where you play as a tiny microorganism that resembles a fish. The mechanic is simple; eat smaller feesh to get bigger, and avoid being eaten by bigger feesh. Certain feesh have special abilities; Red ones make you smaller, and the jellyfeesh can sting you. Survive long enough, and you'll evolve! But try not to get naturally selected. And watch out for sharks.<br><br><ul class=\"bb_ul\"> <li> Some feesh are more rude than others. Observe the behaviors of the different types of feesh to find out what they do! Or just find out the hard way. </li><li>Uses Steam Leaderboards! See how you rank against other players in the food chain </li><li> Controller support! Or the game can be played using just the mouse! </li><li> 2-4 player competitive mode! </li><li> Chillout mode! Just chill and watch the game play itself in this ambient mode. </li><li>sharks </li><li> Originally made for the Ludum Dare 48 hour game jam!</li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/415240/extras/feeshPrintSteamSized.png?t=1454485865\" >",
   "about_the_game": "Feesh is a minimalist arcade game where you play as a tiny microorganism that resembles a fish. The mechanic is simple; eat smaller feesh to get bigger, and avoid being eaten by bigger feesh. Certain feesh have special abilities; Red ones make you smaller, and the jellyfeesh can sting you. Survive long enough, and you'll evolve! But try not to get naturally selected. And watch out for sharks.<br><br><ul class=\"bb_ul\"> <li> Some feesh are more rude than others. Observe the behaviors of the different types of feesh to find out what they do! Or just find out the hard way. </li><li>Uses Steam Leaderboards! See how you rank against other players in the food chain </li><li> Controller support! Or the game can be played using just the mouse! </li><li> 2-4 player competitive mode! </li><li> Chillout mode! Just chill and watch the game play itself in this ambient mode. </li><li>sharks </li><li> Originally made for the Ludum Dare 48 hour game jam!</li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/415240/extras/feeshPrintSteamSized.png?t=1454485865\" >",
-  "short_description": "Feesh: An arcade game of microscopic survival, and pesky sharks.<br />\r\nThe mechanic is simple; eat smaller feesh to get bigger, and avoid being eaten by bigger Feesh. Survive long enough, and you'll evolve! But try not to get naturally selected. A game by Tj H, with music by RDTR Productions",
+  "short_description": "Feesh: An arcade game of microscopic survival, and pesky sharks. The mechanic is simple; eat smaller feesh to get bigger, and avoid being eaten by bigger Feesh. Survive long enough, and you'll evolve! But try not to get naturally selected.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/415240/header.jpg?t=1454485865",
   "website": null,
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     83543
@@ -141,9 +143,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 119
-  },
   "achievements": {
     "total": 13,
     "highlighted": [
@@ -197,5 +196,9 @@
     "url": "",
     "email": "tj@terrifyingjellyfish.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/415240/page_bg_generated_v6b.jpg?t=1454485865"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/415240/page_bg_generated_v6b.jpg?t=1454485865",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

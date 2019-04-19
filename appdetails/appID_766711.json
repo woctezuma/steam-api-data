@@ -4,7 +4,7 @@
   "steam_appid": 766711,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "Daily Alpha Injectors are a great way to unlock your potential as an Alpha pilot. Each Injector delivers 50,000 Skillpoints to help unlock the skills necessary for accessing high-powered ships and weapons.<br />\r\n<br />\r\nTheir use is limited to one per day, per character, but there are over 20 million Skillpoints available for Alphas so stock up now!",
+  "detailed_description": "<h1>Steam Created Accounts Only</h1><p><h2 class=\"bb_tag\">This content can only be accessed with EVE Online accounts created through Steam. Existing EVE Online accounts not created through Steam cannot benefit from it.</h2></p><br><h1>About the Game</h1>Daily Alpha Injectors are a great way to unlock your potential as an Alpha pilot. Each Injector delivers 50,000 Skillpoints to help unlock the skills necessary for accessing high-powered ships and weapons.<br><br>Their use is limited to one per day, per character, but there are over 20 million Skillpoints available for Alphas so stock up now!",
   "about_the_game": "Daily Alpha Injectors are a great way to unlock your potential as an Alpha pilot. Each Injector delivers 50,000 Skillpoints to help unlock the skills necessary for accessing high-powered ships and weapons.<br />\r\n<br />\r\nTheir use is limited to one per day, per character, but there are over 20 million Skillpoints available for Alphas so stock up now!",
   "short_description": "Daily Alpha Injectors are a great way to unlock your potential as an Alpha pilot. Each Injector delivers 50,000 Skillpoints to help unlock the skills necessary for accessing high-powered ships and weapons.",
   "fullgame": {
@@ -12,7 +12,7 @@
     "name": "EVE Online"
   },
   "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, Russian<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/766711/header.jpg?t=1513263465",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/766711/header.jpg?t=1533724495",
   "website": "http://www.eveonline.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum: </strong><br>\t\t\t\t\t<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8.1 / 10<br>\t\t\t\t\t</li><li><strong>Processor:</strong> Intel Dual Core @ 2.0 GHz, AMD Dual Core @ 2.0 GHz)<br>\t\t\t\t\t</li><li><strong>Memory:</strong> 2 GB<br>\t\t\t\t\t</li><li><strong>Hard Drive:</strong> 20 GB Free Space  <br>\t\t\t\t\t</li><li><strong>Video:</strong> GPU with 256 MB VRAM or more that supports Shader Model 3 and DirectX 9.0c<br>\t\t\t\t\t</li><li><strong>Audio:</strong> Supports SSE, Direct Sound compatible<br>\t\t\t\t\t</li><li><strong>Drivers:</strong> DirectX\u00ae 9.0c (included)<br>\t\t\t\t\t</li><li><strong>Network:</strong> ADSL connection (or faster)</li></ul>",
@@ -30,10 +30,12 @@
     "currency": "EUR",
     "initial": 339,
     "final": 339,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,39\u20ac"
   },
   "packages": [
-    226786
+    277889
   ],
   "package_groups": [
     {
@@ -46,7 +48,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": 226786,
+          "packageid": 277889,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "EVE Online: 5 Daily Alpha Injectors - 3,39\u20ac",
@@ -118,10 +120,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/766711/ss_b28c356ead931752db51446da60004d313019178.600x338.jpg?t=1513263465",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/766711/ss_b28c356ead931752db51446da60004d313019178.1920x1080.jpg?t=1513263465"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/766711/ss_b28c356ead931752db51446da60004d313019178.600x338.jpg?t=1533724495",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/766711/ss_b28c356ead931752db51446da60004d313019178.1920x1080.jpg?t=1533724495"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Dec, 2017"
@@ -130,5 +135,9 @@
     "url": "http://support.eveonline.com",
     "email": "support@eveonline.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/766711/page_bg_generated_v6b.jpg?t=1513263465"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/766711/page_bg_generated_v6b.jpg?t=1533724495",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

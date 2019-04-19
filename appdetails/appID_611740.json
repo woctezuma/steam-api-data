@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     163673
@@ -119,6 +121,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/611740/ss_924cd30d76f368bd78cd68b81b85b8ad6d549cc7.1920x1080.jpg?t=1490295813"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Mar, 2017"
@@ -127,5 +132,9 @@
     "url": "http://www.nocodestudio.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/611740/page_bg_generated_v6b.jpg?t=1490295813"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/611740/page_bg_generated_v6b.jpg?t=1490295813",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

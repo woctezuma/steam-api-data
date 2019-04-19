@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     219801
@@ -137,6 +139,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Dec, 2017"
@@ -145,5 +150,9 @@
     "url": "",
     "email": "skynitemedia@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/748600/page_bg_generated_v6b.jpg?t=1513100986"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/748600/page_bg_generated_v6b.jpg?t=1513100986",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

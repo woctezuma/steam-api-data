@@ -11,10 +11,10 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/501500/header.jpg?t=1478597011",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 95/98/XP/Me/Vista/7/8<br></li><li><strong>Processor:</strong> 200 MHz<br></li><li><strong>Memory:</strong> 32 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 8.1-compatible graphics card with 2 MB<br></li><li><strong>DirectX:</strong> Version 8.1<br></li><li><strong>Storage:</strong> 540 MB available space<br></li><li><strong>Sound Card:</strong> All DirectX-compatible cards</li></ul>"
+    "minimum": "<strong>\u041c\u0456\u043d\u0456\u043c\u0430\u043b\u044c\u043d\u0456:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Windows 95/98/XP/Me/Vista/7/8<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:</strong> 200 MHz<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u043f\u0430\u043c\u2019\u044f\u0442\u044c:</strong> 32 MB \u041e\u041f<br></li><li><strong>\u0412\u0456\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> DirectX 8.1-compatible graphics card with 2 MB<br></li><li><strong>DirectX:</strong> \u0432\u0435\u0440\u0441\u0456\u0457 8.1<br></li><li><strong>\u041c\u0456\u0441\u0446\u0435 \u043d\u0430 \u0434\u0438\u0441\u043a\u0443:</strong> 540 MB \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0433\u043e \u043c\u0456\u0441\u0446\u044f<br></li><li><strong>\u0417\u0432\u0443\u043a\u043e\u0432\u0430 \u043a\u0430\u0440\u0442\u0430:</strong> All DirectX-compatible cards</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> System 7.5/Mac OS 8/9/10<br></li><li><strong>Processor:</strong> 200 MHz<br></li><li><strong>Memory:</strong> 32 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 1.0 onwards<br></li><li><strong>Storage:</strong> 540 MB available space</li></ul>"
+    "minimum": "<strong>\u041c\u0456\u043d\u0456\u043c\u0430\u043b\u044c\u043d\u0456:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> System 7.5/Mac OS 8/9/10<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u043e\u0440:</strong> 200 MHz<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u043f\u0430\u043c\u2019\u044f\u0442\u044c:</strong> 32 MB \u041e\u041f<br></li><li><strong>\u0412\u0456\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> OpenGL 1.0 onwards<br></li><li><strong>\u041c\u0456\u0441\u0446\u0435 \u043d\u0430 \u0434\u0438\u0441\u043a\u0443:</strong> 540 MB \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0433\u043e \u043c\u0456\u0441\u0446\u044f</li></ul>"
   },
   "linux_requirements": [],
   "legal_notice": "2016 \u00a9 Microids. All rights reserved. Syberia is a trademark of Anuman and Microids. All rights reserved. All other trademarks and copyrights are the properties of their respective owners.<br />\r\nCopyright \u00a9 1999 Cryo Interactive Entertainment. All rights reserved.",
@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     115162
@@ -117,6 +119,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Aug, 2016"
@@ -125,5 +130,9 @@
     "url": "",
     "email": "support@anuman.fr"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501500/page_bg_generated_v6b.jpg?t=1478597011"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501500/page_bg_generated_v6b.jpg?t=1478597011",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,7 +11,7 @@
     "appid": "214870",
     "name": "Painkiller Hell & Damnation"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong>, Czech, Hungarian, Japanese<strong>*</strong>, Polish<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech, Hungarian, Japanese<strong>*</strong>, Polish<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/219136/header.jpg?t=1471942946",
   "website": "http://www.painkillergame.com",
   "pc_requirements": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 6999,
     "final": 6999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "Free"
   },
   "packages": [
     18996,
@@ -229,6 +231,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/219136/ss_a89ada5261cb846e5b88175309b867347ffebf4d.1920x1080.jpg?t=1471942946"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jan, 2013"
@@ -237,5 +242,9 @@
     "url": "http://forums.steampowered.com/forums/forumdisplay.php?f=146",
     "email": "support@quanticlab.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/219136/page_bg_generated_v6b.jpg?t=1471942946"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/219136/page_bg_generated_v6b.jpg?t=1471942946",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

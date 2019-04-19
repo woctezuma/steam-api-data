@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     67750
@@ -103,6 +105,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/370500/ss_d4ea8dafde5d46934e25391bd1665a488d6037c5.1920x1080.jpg?t=1447374476"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 May, 2015"
@@ -111,5 +116,9 @@
     "url": "http://mightanddelight.com/",
     "email": "contact@mightanddelight.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/370500/page_bg_generated_v6b.jpg?t=1447374476"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/370500/page_bg_generated_v6b.jpg?t=1447374476",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

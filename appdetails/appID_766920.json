@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 80,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     226852
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 226852,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "Papich - The Game Ep.1 - 1,99\u20ac",
+          "option_text": "Papich - The Game Ep.1 - <span class=\"discount_original_price\">1,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -139,7 +141,7 @@
     }
   ],
   "recommendations": {
-    "total": 127
+    "total": 254
   },
   "achievements": {
     "total": 19,
@@ -194,5 +196,9 @@
     "url": "https://vk.com/papichthegame",
     "email": "PetrushkinLeet@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/766920/page_bg_generated_v6b.jpg?t=1517421678"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/766920/page_bg_generated_v6b.jpg?t=1517421678",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

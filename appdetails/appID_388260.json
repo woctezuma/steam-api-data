@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Super Slam Dunk Touchdown is a retro styled, local multiplayer, couch-competitive, all-sports mashup driven by a 3D physics engine. Assemble a crack squad of sports athletes and use their unique shot styles and abilities to score goal units and demolish the opposing team. American football players tackle, soccer players steal, roller derby players skate and everybody dunks! Battle for control of baseballs, basketballs, bowling balls, tennis balls, and more. Configure your matches your way, and play with up to six players locally, 3-on-3. Watch out for banana peels, streaking fans and ice resurfacing trucks, not to mention the opposing team!",
   "about_the_game": "Super Slam Dunk Touchdown is a retro styled, local multiplayer, couch-competitive, all-sports mashup driven by a 3D physics engine. Assemble a crack squad of sports athletes and use their unique shot styles and abilities to score goal units and demolish the opposing team. American football players tackle, soccer players steal, roller derby players skate and everybody dunks! Battle for control of baseballs, basketballs, bowling balls, tennis balls, and more. Configure your matches your way, and play with up to six players locally, 3-on-3. Watch out for banana peels, streaking fans and ice resurfacing trucks, not to mention the opposing team!",
-  "short_description": "Super Slam Dunk Touchdown is a retro styled, local multiplayer, couch-competitive, all-sports mashup driven by a 3D physics engine. Assemble a crack squad of sports athletes and use their unique shot styles and abilities to score goal units and demolish the opposing team. American football players tackle, soccer players steal, roller derby players skate and everybody dunks! Battle for control of baseballs, basketballs, bowling balls, tennis balls, and more. Configure your matches your way and play with up to six players, 3-on-3. Watch out for banana peels, streaking fans and ice resurfacing trucks, not to mention the opposing team!",
+  "short_description": "Super Slam Dunk Touchdown is a retro styled, local multiplayer, couch-competitive, all-sports mashup driven by a 3D physics engine. Assemble a crack squad of sports athletes and use their unique shot styles and abilities to score goal units and demolish the opposing team.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/388260/header.jpg?t=1506559712",
   "website": "http://TippingGoat.com/ssdt",
@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1300,
-    "final": 1300,
-    "discount_percent": 0
+    "initial": 1200,
+    "final": 1200,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,--\u20ac"
   },
   "packages": [
     75257
@@ -46,11 +48,11 @@
           "packageid": 75257,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Super Slam Dunk Touchdown - 13,--\u20ac",
+          "option_text": "Super Slam Dunk Touchdown - 12,--\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1300
+          "price_in_cents_with_discount": 1200
         }
       ]
     }
@@ -140,16 +142,6 @@
       "id": 7,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/388260/ss_59c8262dceea41e655bea3246b7393cd72dbe3fb.600x338.jpg?t=1506559712",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/388260/ss_59c8262dceea41e655bea3246b7393cd72dbe3fb.1920x1080.jpg?t=1506559712"
-    },
-    {
-      "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/388260/?t=1506559712",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/388260/?t=1506559712"
-    },
-    {
-      "id": 9,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/388260/?t=1506559712",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/388260/?t=1506559712"
     }
   ],
   "movies": [
@@ -227,5 +219,9 @@
     "url": "",
     "email": "ssdt-support@tippinggoat.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/388260/page_bg_generated_v6b.jpg?t=1506559712"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/388260/page_bg_generated_v6b.jpg?t=1506559712",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     167564
@@ -160,6 +162,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Sep, 2017"
@@ -168,5 +173,13 @@
     "url": "",
     "email": "nkazakovofficial@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/622610/page_bg_generated_v6b.jpg?t=1506655915"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/622610/page_bg_generated_v6b.jpg?t=1506655915",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

@@ -16,10 +16,10 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/528630/header.jpg?t=1473956342",
   "website": "https://www.ablindlegend.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> All OS</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> All OS</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> All OS</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> All OS</li></ul>"
   },
   "linux_requirements": [],
   "developers": [
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     127044
@@ -112,6 +114,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528630/ss_b974972914a786ad707dda2518b72a137cfd8743.1920x1080.jpg?t=1473956342"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Sep, 2016"
@@ -120,5 +125,9 @@
     "url": "https://www.ablindlegend.com/",
     "email": "support@dowino.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/528630/page_bg_generated_v6b.jpg?t=1473956342"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/528630/page_bg_generated_v6b.jpg?t=1473956342",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\"><strong>The Game</strong></h2><br>Boomer Rampage is a puzzle game in which we control the boomers rocket hand.<br>Our task is to destroy the target, avoiding enemies, traps and walls in all the 90 levels.<h2 class=\"bb_tag\"><strong>Features</strong></h2><br>- 2 Difficulties (normal, hard).<br>- 90 Levels.<br>- Steam Achievements.<br>- Steam Leaderboards.<h2 class=\"bb_tag\"><strong>Controls</strong></h2><br>Space bar = Shoot rocket hand.<br>WASD or Arrow Keys = Change direction of the rocket hand.<br>H, J, K  = Use skills.",
   "about_the_game": "<h2 class=\"bb_tag\"><strong>The Game</strong></h2><br>Boomer Rampage is a puzzle game in which we control the boomers rocket hand.<br>Our task is to destroy the target, avoiding enemies, traps and walls in all the 90 levels.<h2 class=\"bb_tag\"><strong>Features</strong></h2><br>- 2 Difficulties (normal, hard).<br>- 90 Levels.<br>- Steam Achievements.<br>- Steam Leaderboards.<h2 class=\"bb_tag\"><strong>Controls</strong></h2><br>Space bar = Shoot rocket hand.<br>WASD or Arrow Keys = Change direction of the rocket hand.<br>H, J, K  = Use skills.",
-  "short_description": "Boomer Rampage is a puzzle game in which we control the boomers  rocket hand.<br />\r\nOur task is to destroy the target, avoiding enemies, traps and walls in all the 90 levels.",
+  "short_description": "Boomer Rampage is a puzzle game in which we control the boomers rocket hand. Our task is to destroy the target, avoiding enemies, traps and walls in all the 90 levels.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/770520/header.jpg?t=1521105628",
   "website": "http://lunarhellgames.com/boomer-rampage.html",
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     229893
@@ -209,5 +211,9 @@
     "url": "http://lunarhellgames.com/contact.html",
     "email": "info@lunarhellgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/770520/page_bg_generated_v6b.jpg?t=1521105628"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/770520/page_bg_generated_v6b.jpg?t=1521105628",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

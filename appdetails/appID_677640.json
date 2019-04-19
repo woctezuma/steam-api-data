@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     193229
@@ -116,6 +118,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/677640/ss_e46f6b07df9f34445e61bf188d8c5c4a0273e020.1920x1080.jpg?t=1502861962"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Aug, 2017"
@@ -124,5 +129,9 @@
     "url": "http://forums.pleasestaycalm.com",
     "email": "support@massdmg.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/677640/page_bg_generated_v6b.jpg?t=1502861962"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/677640/page_bg_generated_v6b.jpg?t=1502861962",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

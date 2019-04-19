@@ -12,7 +12,7 @@
     "appid": "296830",
     "name": "Lucius II"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Russian, Spanish, Turkish, Hungarian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Russian, Spanish - Spain, Turkish, Hungarian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/821030/header.jpg?t=1521021494",
   "website": "http://lucius2.com",
   "pc_requirements": {
@@ -32,8 +32,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "final": 135,
+    "discount_percent": 66,
+    "initial_formatted": "3,99\u20ac",
+    "final_formatted": "1,35\u20ac"
   },
   "packages": [
     251757
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 251757,
-          "percent_savings_text": "",
+          "percent_savings_text": "-66%",
           "percent_savings": 0,
-          "option_text": "Lucius II - Soundtrack - 3,99\u20ac",
+          "option_text": "Lucius II - Soundtrack - <span class=\"discount_original_price\">3,99\u20ac</span> 1,35\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 135
         }
       ]
     }
@@ -105,6 +107,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821030/ss_5f75540351005df4579484ee6edd5647d98ee108.1920x1080.jpg?t=1521021494"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Mar, 2018"
@@ -113,5 +118,13 @@
     "url": "http://lucius2.com/support",
     "email": "support@shivergames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/821030/page_bg_generated_v6b.jpg?t=1521021494"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/821030/page_bg_generated_v6b.jpg?t=1521021494",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

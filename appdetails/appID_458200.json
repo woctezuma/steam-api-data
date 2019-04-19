@@ -4,8 +4,8 @@
   "steam_appid": 458200,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "Rumpus is a live-coding playground for room-scale VR.<br><br>Please note that Rumpus is highly experimental! There will be bugs, crashes, performance issues, and possibly even ghosts. It's easy to wedge it in its current state. If this happens, you can always just delete or move your Documents/Rumpus folder aside to get a fresh start.<br><br>Follow along with development at <a href=\"http://twitter.com/rumpusland\" target=\"_blank\" rel=\"noreferrer\"  >http://twitter.com/rumpusland</a></a> or find me at <a href=\"http://twitter.com/lukexi\" target=\"_blank\" rel=\"noreferrer\"  >http://twitter.com/lukexi</a></a>.",
-  "about_the_game": "Rumpus is a live-coding playground for room-scale VR.<br><br>Please note that Rumpus is highly experimental! There will be bugs, crashes, performance issues, and possibly even ghosts. It's easy to wedge it in its current state. If this happens, you can always just delete or move your Documents/Rumpus folder aside to get a fresh start.<br><br>Follow along with development at <a href=\"http://twitter.com/rumpusland\" target=\"_blank\" rel=\"noreferrer\"  >http://twitter.com/rumpusland</a></a> or find me at <a href=\"http://twitter.com/lukexi\" target=\"_blank\" rel=\"noreferrer\"  >http://twitter.com/lukexi</a></a>.",
+  "detailed_description": "Rumpus is a live-coding playground for room-scale VR.<br><br>Please note that Rumpus is highly experimental! There will be bugs, crashes, performance issues, and possibly even ghosts. It's easy to wedge it in its current state. If this happens, you can always just delete or move your Documents/Rumpus folder aside to get a fresh start.<br><br>Follow along with development at <a href=\"http://twitter.com/rumpusland\" target=\"_blank\" rel=\"noreferrer\"  >http://twitter.com/rumpusland</a> or find me at <a href=\"http://twitter.com/lukexi\" target=\"_blank\" rel=\"noreferrer\"  >http://twitter.com/lukexi</a>.",
+  "about_the_game": "Rumpus is a live-coding playground for room-scale VR.<br><br>Please note that Rumpus is highly experimental! There will be bugs, crashes, performance issues, and possibly even ghosts. It's easy to wedge it in its current state. If this happens, you can always just delete or move your Documents/Rumpus folder aside to get a fresh start.<br><br>Follow along with development at <a href=\"http://twitter.com/rumpusland\" target=\"_blank\" rel=\"noreferrer\"  >http://twitter.com/rumpusland</a> or find me at <a href=\"http://twitter.com/lukexi\" target=\"_blank\" rel=\"noreferrer\"  >http://twitter.com/lukexi</a>.",
   "short_description": "Rumpus is a live-coding playground for room-scale VR.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/458200/header.jpg?t=1470098745",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     99547
@@ -170,6 +172,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Jul, 2016"
@@ -178,5 +183,9 @@
     "url": "http://rumpus.land",
     "email": "luke@rumpus.land"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/458200/page_bg_generated_v6b.jpg?t=1470098745"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/458200/page_bg_generated_v6b.jpg?t=1470098745",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

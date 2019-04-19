@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "",
   "about_the_game": "",
-  "short_description": "Roger was chosen for a special 3-on-3 match. Instead of picking the two front runners of the tournament, Ken and Ace, Roger selects Dolly and Scott as partners. Their opponents are triplets with a special power that breaks the spirits of our heroes. Can the power of dreams carry Roger, Dolly and Sco",
+  "short_description": "Roger was chosen for a special 3-on-3 match. Instead of picking the two front runners of the tournament, Ken and Ace, Roger selects Dolly and Scott as partners. Their opponents are triplets with a special power that breaks the spirits of our heroes.",
   "fullgame": {
     "appid": "530400",
     "name": "Battle Disc"
@@ -24,7 +24,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     127717
@@ -71,6 +73,9 @@
       "description": "Captions available"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Oct, 2016"
@@ -79,5 +84,9 @@
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

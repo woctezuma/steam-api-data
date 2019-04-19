@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     111839
@@ -139,6 +141,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jun, 2016"
@@ -147,5 +152,9 @@
     "url": "www.chronosvr.com",
     "email": "info@chronosvr.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492850/page_bg_generated_v6b.jpg?t=1509753243"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492850/page_bg_generated_v6b.jpg?t=1509753243",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

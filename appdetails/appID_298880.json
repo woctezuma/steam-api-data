@@ -11,7 +11,7 @@
     "appid": "296570",
     "name": "Lords of Xulima"
   },
-  "supported_languages": "English<strong>*</strong>, Spanish, French, German, Polish, Italian, Simplified Chinese, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, Spanish - Spain, French, German, Polish, Italian, Simplified Chinese, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/298880/header.jpg?t=1478104509",
   "website": "http://www.lordsofxulima.com",
   "pc_requirements": {
@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     43486
@@ -140,6 +142,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/298880/ss_39cc9a37c294b19aac0427bcdd6be3b5e823b744.1920x1080.jpg?t=1478104509"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Nov, 2014"
@@ -148,5 +153,9 @@
     "url": "http://www.numantiangames.com",
     "email": "info@numantiangames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/298880/page_bg_generated_v6b.jpg?t=1478104509"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/298880/page_bg_generated_v6b.jpg?t=1478104509",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

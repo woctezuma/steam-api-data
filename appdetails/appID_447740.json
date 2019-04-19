@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1099,
     "final": 1099,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,99\u20ac"
   },
   "packages": [
     95770
@@ -123,5 +125,9 @@
     "url": "http://moacube.com/forum/",
     "email": "tom@moacube.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447740/page_bg_generated_v6b.jpg?t=1478162445"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447740/page_bg_generated_v6b.jpg?t=1478162445",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

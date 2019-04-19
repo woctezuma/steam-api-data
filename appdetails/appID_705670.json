@@ -6,8 +6,8 @@
   "is_free": false,
   "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/705670/extras/123.png?t=1516754543\" ><br><i>The player controls the paddle which prevents a ball from falling from the playing field, <br>attempting to bounce it against a number of objects. The ball striking a object causes it <br>to disappear. When all objects are gone, the player goes to the next level. It's easy! </i><h2 class=\"bb_tag\">Features</h2>\u273f <i>objects that have to be hit multiple times;</i><br>\u273f <i>moving objects;</i><br>\u273f <i>power-ups (expand and constrict the paddle, multiply the number <br>\u00a0\u00a0\u00a0\u00a0of balls, extra life, inversion of control, etc.);</i><br>\u273f <i>minimalism style and fun farm music;</i><br>\u273f <i>trading cards and emoticons (coming soon).</i>",
   "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/705670/extras/123.png?t=1516754543\" ><br><i>The player controls the paddle which prevents a ball from falling from the playing field, <br>attempting to bounce it against a number of objects. The ball striking a object causes it <br>to disappear. When all objects are gone, the player goes to the next level. It's easy! </i><h2 class=\"bb_tag\">Features</h2>\u273f <i>objects that have to be hit multiple times;</i><br>\u273f <i>moving objects;</i><br>\u273f <i>power-ups (expand and constrict the paddle, multiply the number <br>\u00a0\u00a0\u00a0\u00a0of balls, extra life, inversion of control, etc.);</i><br>\u273f <i>minimalism style and fun farm music;</i><br>\u273f <i>trading cards and emoticons (coming soon).</i>",
-  "short_description": "<i>Arkanoid game with farm style!</i>",
-  "supported_languages": "English, French, Italian, German, Spanish, Bulgarian, Portuguese-Brazil, Hungarian, Greek, Danish, Traditional Chinese, Simplified Chinese, Korean, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Thai, Turkish, Ukrainian, Finnish, Czech, Swedish, Japanese, Arabic",
+  "short_description": "Arkanoid game with farm style!",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Portuguese - Brazil, Hungarian, Greek, Danish, Traditional Chinese, Simplified Chinese, Korean, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Thai, Turkish, Ukrainian, Finnish, Czech, Swedish, Japanese, Arabic",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/705670/header.jpg?t=1516754543",
   "website": null,
   "pc_requirements": {
@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 79,
-    "final": 79,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 51,
+    "initial_formatted": "0,79\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     203637
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 203637,
-          "percent_savings_text": "",
+          "percent_savings_text": "-51%",
           "percent_savings": 0,
-          "option_text": "Ballz: Farm - 0,79\u20ac",
+          "option_text": "Ballz: Farm - <span class=\"discount_original_price\">0,79\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 79
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -156,11 +158,6 @@
       "id": 13,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/705670/ss_b1949fe1475d659c7a18fb78097c7ea519c93d24.600x338.jpg?t=1516754543",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/705670/ss_b1949fe1475d659c7a18fb78097c7ea519c93d24.1920x1080.jpg?t=1516754543"
-    },
-    {
-      "id": 14,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/705670/?t=1516754543",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/705670/?t=1516754543"
     }
   ],
   "movies": [
@@ -228,5 +225,9 @@
     "url": "",
     "email": "uniocs.go@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/705670/page_bg_generated_v6b.jpg?t=1516754543"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/705670/page_bg_generated_v6b.jpg?t=1516754543",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

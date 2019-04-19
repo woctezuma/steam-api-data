@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1799,
-    "final": 1799,
-    "discount_percent": 0
+    "initial": 1399,
+    "final": 1399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "13,99\u20ac"
   },
   "packages": [
     163226
@@ -51,11 +53,11 @@
           "packageid": 163226,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: US ATC Class S 160 Steam - 17,99\u20ac",
+          "option_text": "TANE DLC: US ATC Class S 160 Steam - 13,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1799
+          "price_in_cents_with_discount": 1399
         }
       ]
     }
@@ -171,6 +173,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/610970/ss_d439932851ba0869de00ecbf659c45e41edecc49.1920x1080.jpg?t=1490244400"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Mar, 2017"
@@ -179,5 +184,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/610970/page_bg_generated_v6b.jpg?t=1490244400"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/610970/page_bg_generated_v6b.jpg?t=1490244400",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

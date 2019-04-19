@@ -11,8 +11,8 @@
     "appid": "656590",
     "name": "Eight-Minute Empire"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Traditional Chinese, Simplified Chinese, Dutch, Japanese, Korean, Polish, Russian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/702413/header.jpg?t=1504343795",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Traditional Chinese, Simplified Chinese, Dutch, Japanese, Korean, Polish, Russian",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/702413/header.jpg?t=1539622431",
   "website": "http://eight.acram.eu",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2+</li></ul>"
@@ -28,13 +28,15 @@
     "Mobo Studio"
   ],
   "publishers": [
-    "Acram Digital"
+    "Mobo Studio"
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 287,
-    "final": 287,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 127,
+    "discount_percent": 20,
+    "initial_formatted": "1,59\u20ac",
+    "final_formatted": "1,27\u20ac"
   },
   "packages": [
     202455
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 202455,
-          "percent_savings_text": "",
+          "percent_savings_text": "-20%",
           "percent_savings": 0,
-          "option_text": "Eight-Minute Empire: Southern Plains Map - 2,87\u20ac",
+          "option_text": "Eight-Minute Empire: Southern Plains Map - <span class=\"discount_original_price\">1,59\u20ac</span> 1,27\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 287
+          "price_in_cents_with_discount": 127
         }
       ]
     }
@@ -114,13 +116,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/702413/ss_dc773742b8534f62185253abdd3801b81a953267.600x338.jpg?t=1504343795",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/702413/ss_dc773742b8534f62185253abdd3801b81a953267.1920x1080.jpg?t=1504343795"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/702413/ss_dc773742b8534f62185253abdd3801b81a953267.600x338.jpg?t=1539622431",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/702413/ss_dc773742b8534f62185253abdd3801b81a953267.1920x1080.jpg?t=1539622431"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/702413/ss_41c4cd0e18f965cc1b81e019802c9caa1f6a2277.600x338.jpg?t=1504343795",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/702413/ss_41c4cd0e18f965cc1b81e019802c9caa1f6a2277.1920x1080.jpg?t=1504343795"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/702413/ss_41c4cd0e18f965cc1b81e019802c9caa1f6a2277.600x338.jpg?t=1539622431",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/702413/ss_41c4cd0e18f965cc1b81e019802c9caa1f6a2277.1920x1080.jpg?t=1539622431"
     }
   ],
   "release_date": {
@@ -131,5 +133,9 @@
     "url": "http://eight.acram.eu",
     "email": "support@acram.eu"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/702413/page_bg_generated_v6b.jpg?t=1504343795"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/702413/page_bg_generated_v6b.jpg?t=1539622431",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

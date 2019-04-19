@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Includes 4 unique ability and wargear items to equip your squad with.<ul class=\"bb_ul\"><li><strong>SPEAR OF THE YNNEAD:</strong> Attacks upon the enemy can now confuse them and cause them to attack each other.<br>\t\t\t\t\t\t</li><li><strong>GUILE OF CEGORACH:</strong> The death of allied units now increases the chance of you entering an enraged state that increases your speed and damage.<br>\t\t\t\t\t\t</li><li><strong>RUNES OF WISDOM:</strong> Lowers the energy cost of using abilities.<br>\t\t\t\t\t\t</li><li><strong>HELM OF THE WAR HOST:</strong> Your hero gains immunity to knock back and suppression.</li></ul>",
   "about_the_game": "Includes 4 unique ability and wargear items to equip your squad with.<ul class=\"bb_ul\"><li><strong>SPEAR OF THE YNNEAD:</strong> Attacks upon the enemy can now confuse them and cause them to attack each other.<br>\t\t\t\t\t\t</li><li><strong>GUILE OF CEGORACH:</strong> The death of allied units now increases the chance of you entering an enraged state that increases your speed and damage.<br>\t\t\t\t\t\t</li><li><strong>RUNES OF WISDOM:</strong> Lowers the energy cost of using abilities.<br>\t\t\t\t\t\t</li><li><strong>HELM OF THE WAR HOST:</strong> Your hero gains immunity to knock back and suppression.</li></ul>",
-  "short_description": "",
+  "short_description": "Includes 4 unique ability and wargear items to equip your squad with.SPEAR OF THE YNNEAD: Attacks upon the enemy can now confuse them and cause them to attack each other. GUILE OF CEGORACH: The death of allied units now increases the chance of you entering an enraged state that increases your speed and damage.",
   "fullgame": {
     "appid": "56437",
     "name": "Warhammer 40,000: Dawn of War II: Retribution"
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     7434,
@@ -178,6 +180,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/56432/ss_1d4ff59e17eee5a1939ce95aa5571a66178cad9f.1920x1080.jpg?t=1522071177"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Feb, 2011"
@@ -186,5 +191,9 @@
     "url": "https://support.sega.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/56432/page_bg_generated_v6b.jpg?t=1522071177"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/56432/page_bg_generated_v6b.jpg?t=1522071177",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

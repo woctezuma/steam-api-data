@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 2299,
     "final": 2299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "22,99\u20ac"
   },
   "packages": [
     54816
@@ -138,5 +140,9 @@
     "url": "",
     "email": "support@brashmonkey.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/333771/page_bg_generated_v6b.jpg?t=1496318632"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/333771/page_bg_generated_v6b.jpg?t=1496318632",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

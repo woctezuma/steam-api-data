@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Skins change the look and feel of a ruleset to match a specific theme.<br><br>This skin uses a theme appropriate for a modern setting.<br><br>Skin created by Kevin Doswell<br><br>Released on December 04, 2010. Designed for Fantasy Grounds version 2.9.9 and higher.<br><br><strong>Requires:</strong> An active subscription or a one time purchase of a Fantasy Grounds Full or Ultimate license and a one time purchase of the Savage Worlds ruleset.",
   "about_the_game": "Skins change the look and feel of a ruleset to match a specific theme.<br><br>This skin uses a theme appropriate for a modern setting.<br><br>Skin created by Kevin Doswell<br><br>Released on December 04, 2010. Designed for Fantasy Grounds version 2.9.9 and higher.<br><br><strong>Requires:</strong> An active subscription or a one time purchase of a Fantasy Grounds Full or Ultimate license and a one time purchase of the Savage Worlds ruleset.",
-  "short_description": "Skins change the look and feel of a ruleset to match a specific theme.<br />\r\n<br />\r\nThis skin uses a theme appropriate for a modern setting.<br />\r\n<br />\r\nSkin created by Kevin Doswell<br />\r\n<br />\r\nReleased on December 04, 2010. Designed for Fantasy Grounds version 2.9.9 and higher.",
+  "short_description": "Skins change the look and feel of a ruleset to match a specific theme. This skin uses a theme appropriate for a modern setting. Skin created by Kevin Doswell Released on December 04, 2010. Designed for Fantasy Grounds version 2.9.9 and higher.",
   "fullgame": {
     "appid": "252690",
     "name": "Fantasy Grounds"
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     194056
@@ -121,6 +123,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/679790/ss_659c9d3abf5911b0361910105e425c3c08ce5c1f.1920x1080.jpg?t=1500059839"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Jul, 2017"
@@ -129,5 +134,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/679790/page_bg_generated_v6b.jpg?t=1500059839"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/679790/page_bg_generated_v6b.jpg?t=1500059839",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

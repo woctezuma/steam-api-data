@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     87265
@@ -139,5 +141,9 @@
     "url": "http://johnwizard.com",
     "email": "dan@johnwizard.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/425130/page_bg_generated_v6b.jpg?t=1449265057"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/425130/page_bg_generated_v6b.jpg?t=1449265057",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

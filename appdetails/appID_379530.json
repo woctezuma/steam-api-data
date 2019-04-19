@@ -31,11 +31,14 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 999,
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
+    250455,
     70790
   ],
   "package_groups": [
@@ -49,14 +52,24 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": 70790,
+          "packageid": 250455,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Fate Tectonics - 0,99\u20ac",
+          "option_text": "Fate Tectonics - Commercial License - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 99
+        },
+        {
+          "packageid": 70790,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Fate Tectonics - 9,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -141,9 +154,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 106
-  },
   "achievements": {
     "total": 54,
     "highlighted": [
@@ -197,5 +207,9 @@
     "url": "",
     "email": "ian@ip-builders.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/379530/page_bg_generated_v6b.jpg?t=1492972981"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/379530/page_bg_generated_v6b.jpg?t=1492972981",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

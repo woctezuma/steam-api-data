@@ -12,26 +12,32 @@
     "appid": "311210",
     "name": "Call of Duty\u00ae: Black Ops III"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Simplified Chinese, Traditional Chinese, Japanese, Polish, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/581450/header.jpg?t=1497560367",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Simplified Chinese, Traditional Chinese, Japanese, Polish, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/581450/header.jpg?t=1554429127",
   "website": "https://www.callofduty.com/blackops3",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-Bit / Windows 8 64-Bit / Windows 8.1 64-Bit<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i3-530 @ 2.93 GHz / AMD Phenom\u2122 II X4 810 @ 2.60 GHz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u00ae GTX 470 @ 1GB / ATI\u00ae Radeon\u2122 HD 6970 @ 1GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 60 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>"
   },
-  "mac_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.13.6 (High Sierra) or later<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5 (4 Cores) @ 2.3 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> ATI\u00ae Radeon\u2122 M295X @ 2GB<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 150 GB available space<br></li><li><strong>Additional Notes:</strong> NVIDIA and Intel GPUs are not officially supported hardware.</li></ul>"
+  },
   "linux_requirements": [],
   "legal_notice": "\u00a9 2008-2012, 2015, 2017 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, and stylized roman numerals II and III are trademarks of Activision Publishing, Inc. <br />\r\n<br />\r\nPricing and release dates may vary by platform. Call of Duty: Black Ops III game required to use this content, sold separately. Cancellations and refunds are unavailable except where required by law.",
   "developers": [
-    "Treyarch"
+    "Treyarch",
+    "Aspyr (Mac)"
   ],
   "publishers": [
-    "Activision"
+    "Activision",
+    "Aspyr (Mac)"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 2999,
     "final": 2999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "29,99\u20ac"
   },
   "packages": [
     149123
@@ -61,7 +67,7 @@
   ],
   "platforms": {
     "windows": true,
-    "mac": false,
+    "mac": true,
     "linux": false
   },
   "categories": [
@@ -108,10 +114,6 @@
   ],
   "genres": [
     {
-      "id": "73",
-      "description": "Violent"
-    },
-    {
       "id": "1",
       "description": "Action"
     },
@@ -123,48 +125,48 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_af61a6e072a04db20b53a89a1e726d51c5b85ef8.600x338.jpg?t=1497560367",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_af61a6e072a04db20b53a89a1e726d51c5b85ef8.1920x1080.jpg?t=1497560367"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_af61a6e072a04db20b53a89a1e726d51c5b85ef8.600x338.jpg?t=1554429127",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_af61a6e072a04db20b53a89a1e726d51c5b85ef8.1920x1080.jpg?t=1554429127"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_5550daa59daff156b2971bbf3ce61afe41f000cf.600x338.jpg?t=1497560367",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_5550daa59daff156b2971bbf3ce61afe41f000cf.1920x1080.jpg?t=1497560367"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_5550daa59daff156b2971bbf3ce61afe41f000cf.600x338.jpg?t=1554429127",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_5550daa59daff156b2971bbf3ce61afe41f000cf.1920x1080.jpg?t=1554429127"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_74b88a7388687336a0a3746009d7536277c8a9fc.600x338.jpg?t=1497560367",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_74b88a7388687336a0a3746009d7536277c8a9fc.1920x1080.jpg?t=1497560367"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_74b88a7388687336a0a3746009d7536277c8a9fc.600x338.jpg?t=1554429127",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_74b88a7388687336a0a3746009d7536277c8a9fc.1920x1080.jpg?t=1554429127"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_8857a9e4d476e725d7de18253c99193aa0a89bc4.600x338.jpg?t=1497560367",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_8857a9e4d476e725d7de18253c99193aa0a89bc4.1920x1080.jpg?t=1497560367"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_8857a9e4d476e725d7de18253c99193aa0a89bc4.600x338.jpg?t=1554429127",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_8857a9e4d476e725d7de18253c99193aa0a89bc4.1920x1080.jpg?t=1554429127"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_970fb21a697df044e5faeee4ca1292dce830f167.600x338.jpg?t=1497560367",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_970fb21a697df044e5faeee4ca1292dce830f167.1920x1080.jpg?t=1497560367"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_970fb21a697df044e5faeee4ca1292dce830f167.600x338.jpg?t=1554429127",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_970fb21a697df044e5faeee4ca1292dce830f167.1920x1080.jpg?t=1554429127"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_2dc8235d2853bbec598d199ee89308a43a1809e2.600x338.jpg?t=1497560367",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_2dc8235d2853bbec598d199ee89308a43a1809e2.1920x1080.jpg?t=1497560367"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_2dc8235d2853bbec598d199ee89308a43a1809e2.600x338.jpg?t=1554429127",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_2dc8235d2853bbec598d199ee89308a43a1809e2.1920x1080.jpg?t=1554429127"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_f2867b143b12ebda5d74c24b5e8b0744e449fb32.600x338.jpg?t=1497560367",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_f2867b143b12ebda5d74c24b5e8b0744e449fb32.1920x1080.jpg?t=1497560367"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_f2867b143b12ebda5d74c24b5e8b0744e449fb32.600x338.jpg?t=1554429127",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_f2867b143b12ebda5d74c24b5e8b0744e449fb32.1920x1080.jpg?t=1554429127"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_27c75f42cd19684b754681049a281dfa43457041.600x338.jpg?t=1497560367",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_27c75f42cd19684b754681049a281dfa43457041.1920x1080.jpg?t=1497560367"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_27c75f42cd19684b754681049a281dfa43457041.600x338.jpg?t=1554429127",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_27c75f42cd19684b754681049a281dfa43457041.1920x1080.jpg?t=1554429127"
     },
     {
       "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_3fa5a24330b5090dacdd834f92fbb9a99c25abbb.600x338.jpg?t=1497560367",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_3fa5a24330b5090dacdd834f92fbb9a99c25abbb.1920x1080.jpg?t=1497560367"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_3fa5a24330b5090dacdd834f92fbb9a99c25abbb.600x338.jpg?t=1554429127",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/581450/ss_3fa5a24330b5090dacdd834f92fbb9a99c25abbb.1920x1080.jpg?t=1554429127"
     }
   ],
   "movies": [
@@ -180,7 +182,10 @@
     }
   ],
   "recommendations": {
-    "total": 951
+    "total": 939
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -190,5 +195,9 @@
     "url": "https://support.activision.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/581450/page_bg_generated_v6b.jpg?t=1497560367"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/581450/page_bg_generated_v6b.jpg?t=1554429127",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     60487
@@ -147,7 +149,10 @@
     }
   ],
   "recommendations": {
-    "total": 573
+    "total": 498
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -157,5 +162,9 @@
     "url": "http://z13.invisionfree.com/Ian_Isaro/index.php?",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/349500/page_bg_generated_v6b.jpg?t=1488235490"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/349500/page_bg_generated_v6b.jpg?t=1488235490",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

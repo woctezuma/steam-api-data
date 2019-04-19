@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Welcome to the Hacker Bootcamp.<br />\n<br />\nThis learning mission will be an opportunity for you to prove yourself as a competent tech hacker and learn the features and gameplay of Hacker Evolution Duality.<br />\n<br />\nYou will find various files in this level that give excerpts from the Hacker Evolution Duality game manual. Aside from that, you will pretty much have to develop your own devices and figure out how to complete the mission objectives.",
   "about_the_game": "Welcome to the Hacker Bootcamp.<br />\n<br />\nThis learning mission will be an opportunity for you to prove yourself as a competent tech hacker and learn the features and gameplay of Hacker Evolution Duality.<br />\n<br />\nYou will find various files in this level that give excerpts from the Hacker Evolution Duality game manual. Aside from that, you will pretty much have to develop your own devices and figure out how to complete the mission objectives.",
-  "short_description": "",
+  "short_description": "Welcome to the Hacker Bootcamp. This learning mission will be an opportunity for you to prove yourself as a competent tech hacker and learn the features and gameplay of Hacker Evolution Duality. You will find various files in this level that give excerpts from the Hacker Evolution Duality game manual.",
   "fullgame": {
     "appid": "70120",
     "name": "Hacker Evolution Duality"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     33551
@@ -121,6 +123,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/261070/ss_111f4a0843840e036a09846d378c9c899298a664.1920x1080.jpg?t=1447359268"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Oct, 2013"
@@ -129,5 +134,9 @@
     "url": "http://www.hackerevolutionduality.com/page_contact.html",
     "email": "support@exosyphen.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261070/page_bg_generated_v6b.jpg?t=1447359268"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261070/page_bg_generated_v6b.jpg?t=1447359268",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

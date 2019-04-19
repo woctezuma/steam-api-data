@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     94685
@@ -134,6 +136,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Feb, 2016"
@@ -142,5 +147,9 @@
     "url": "http://ent.zoo.jp/contact/c-steam/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/444950/page_bg_generated_v6b.jpg?t=1474867096"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/444950/page_bg_generated_v6b.jpg?t=1474867096",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

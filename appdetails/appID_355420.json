@@ -4,11 +4,11 @@
   "steam_appid": 355420,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<h1>How much content is there?</h1><p>About <strong>2-3 hours</strong>. 2 out of 5 chapters are done, and multiplayer will come later.<br>Now features a <strong>challenge editor</strong> to edit scenarios for some replay value.</p><br><h1>Want to follow the development?</h1><p><strong>Follow me on Twitter - <a href=\"https://twitter.com/hydezeke\" target=\"_blank\" rel=\"noreferrer\"  >https://twitter.com/hydezeke</a></a></strong>. I post a lot there.</p><br><h1>Disclaimer from the Developer (Long Development Cycle)</h1><p>Because we are a very small development team (1 coder, 1 musician), there will be long periods of stagnation for development due to school and work.<br><br>However, I can promise this: 2017 will see far more development than 2016. With the most difficult coding challenges out of the way (party menus, item systems, cutscene engine), we can finally focus 90% of our efforts on pure content, which is really encouraging!<br><br>Steam provides us a method of updating our backers and those interested in seeing the game progress. Please purchase the game only if you are okay with the long waits between updates. <br><br>Please also give us your thoughts about the game! What do you like? What do you want to see? Some of the great ideas implemented in the game came from suggestions from folks we've met online. Shoot us a message! Make the game better!<br><br>Thanks much, and feel free to contact us personally if you have any questions!<br><a href=\"mailto:contact@hydezeke.com\">contact@hydezeke.com</a><br><a href=\"http://www.twitter.com/hydezeke\" target=\"_blank\" rel=\"noreferrer\"  >http://www.twitter.com/hydezeke</a></p><br><h1>About the Game</h1>FLAMBERGE is a &quot;simultaneous turn-based tactics RPG&quot;. Players plan out multiple movements and attacks at once, and the turn is resolved at the same time as the enemy. The player must anticipate enemy actions in order to win. <br><br>At heart, though, Flamberge is mostly an RPG. Players will control many different characters with different abilities and strengths, and level those characters to add new traits and abilities.",
-  "about_the_game": "FLAMBERGE is a &quot;simultaneous turn-based tactics RPG&quot;. Players plan out multiple movements and attacks at once, and the turn is resolved at the same time as the enemy. The player must anticipate enemy actions in order to win. <br />\r\n<br />\r\nAt heart, though, Flamberge is mostly an RPG. Players will control many different characters with different abilities and strengths, and level those characters to add new traits and abilities.",
+  "detailed_description": "<h1>How much content is there?</h1><p>About <strong>3-4 hours</strong>. 3 out of 6 chapters are done, and multiplayer will come later.</p><br><h1>Want to follow the development?</h1><p><strong>Follow me on Twitter - <a href=\"https://twitter.com/hydezeke\" target=\"_blank\" rel=\"noreferrer\"  >https://twitter.com/hydezeke</a></strong>. I post a lot there.</p><br><h1>About the Game</h1>FLAMBERGE is a tactics role-playing game featuring <i>simultaneous turns</i>. The player must plan out movements and attacks for each of their heroes, and then execute the turn. When the turn is executed, both heroes and enemies will move and attack at once. The player must anticipate enemy actions in order to win.<br><br>Join a diverse array of heroes seeking to save their homeland from an invading force. Command your allies, instructing them to carry out various class abilities and utilize interesting items. Always think one step ahead.",
+  "about_the_game": "FLAMBERGE is a tactics role-playing game featuring <i>simultaneous turns</i>. The player must plan out movements and attacks for each of their heroes, and then execute the turn. When the turn is executed, both heroes and enemies will move and attack at once. The player must anticipate enemy actions in order to win.<br><br>Join a diverse array of heroes seeking to save their homeland from an invading force. Command your allies, instructing them to carry out various class abilities and utilize interesting items. Always think one step ahead.",
   "short_description": "Flamberge is a tactics RPG featuring free movement and simultaneous turns. Players plan out their moves ahead of time, then during execution, both allies and enemies will act at the same time.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/355420/header.jpg?t=1487445576",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/355420/header.jpg?t=1548703884",
   "website": "http://www.hydezeke.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or higher<br></li><li><strong>Processor:</strong> Intel Pentium IV @ 2 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB graphics or higher<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
@@ -23,16 +23,18 @@
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 10.10<br></li><li><strong>Processor:</strong> Intel Core i5 @ 2.5 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel 4600 HD+ or higher<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
   },
   "developers": [
-    "Hydezeke"
+    "HYDEZEKE"
   ],
   "publishers": [
-    "Hydezeke"
+    "HYDEZEKE"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     62602
@@ -69,6 +71,10 @@
     {
       "id": 2,
       "description": "Single-player"
+    },
+    {
+      "id": 18,
+      "description": "Partial Controller Support"
     }
   ],
   "genres": [
@@ -92,52 +98,65 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_aa5307ec7a654cb4428cbfe1bf60e790cdcedd86.600x338.jpg?t=1487445576",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_aa5307ec7a654cb4428cbfe1bf60e790cdcedd86.1920x1080.jpg?t=1487445576"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_96aac623020184b333af6852cd5977ddc6f1ce96.600x338.jpg?t=1548703884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_96aac623020184b333af6852cd5977ddc6f1ce96.1920x1080.jpg?t=1548703884"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_7fb614d994e13ee4d02d98118232c4b941198c1d.600x338.jpg?t=1487445576",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_7fb614d994e13ee4d02d98118232c4b941198c1d.1920x1080.jpg?t=1487445576"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_11a236a63c6969f9e82a28932c0b1c86aeed1a05.600x338.jpg?t=1548703884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_11a236a63c6969f9e82a28932c0b1c86aeed1a05.1920x1080.jpg?t=1548703884"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_1b046502f6250699bde242e5b11140914ae1232c.600x338.jpg?t=1487445576",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_1b046502f6250699bde242e5b11140914ae1232c.1920x1080.jpg?t=1487445576"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_c7edea2cab71c7479d44d7670e74394f9cf908ac.600x338.jpg?t=1548703884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_c7edea2cab71c7479d44d7670e74394f9cf908ac.1920x1080.jpg?t=1548703884"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_fe9c82502ac24567b310b785a80215cbc99d33fc.600x338.jpg?t=1487445576",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_fe9c82502ac24567b310b785a80215cbc99d33fc.1920x1080.jpg?t=1487445576"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_69349ad26c131b021ef663316c55da362dc35583.600x338.jpg?t=1548703884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_69349ad26c131b021ef663316c55da362dc35583.1920x1080.jpg?t=1548703884"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_bc71848493447db2d820eee9995716d4e053af0b.600x338.jpg?t=1487445576",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_bc71848493447db2d820eee9995716d4e053af0b.1920x1080.jpg?t=1487445576"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_ab07d69eecc3b12c52b3d4dbda930c9bed2f47c2.600x338.jpg?t=1548703884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_ab07d69eecc3b12c52b3d4dbda930c9bed2f47c2.1920x1080.jpg?t=1548703884"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_c6d3bd4287fb8d48ce408bb7ac4f20c2462b0674.600x338.jpg?t=1487445576",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_c6d3bd4287fb8d48ce408bb7ac4f20c2462b0674.1920x1080.jpg?t=1487445576"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_fcbea06ab909892f844a1b323978a85798b0a3a7.600x338.jpg?t=1548703884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_fcbea06ab909892f844a1b323978a85798b0a3a7.1920x1080.jpg?t=1548703884"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_5a24078aea91828f5e205adbad8a8590032c59c7.600x338.jpg?t=1487445576",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_5a24078aea91828f5e205adbad8a8590032c59c7.1920x1080.jpg?t=1487445576"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_7e24fbe506c8e53a3aa7b6ff749c889636778b64.600x338.jpg?t=1548703884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_7e24fbe506c8e53a3aa7b6ff749c889636778b64.1920x1080.jpg?t=1548703884"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_a89a56cbb5b6d55ab0e40d52465facc265679a33.600x338.jpg?t=1548703884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_a89a56cbb5b6d55ab0e40d52465facc265679a33.1920x1080.jpg?t=1548703884"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_f17f40ae15dd6f943934950b8b009b66d0433d1d.600x338.jpg?t=1548703884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355420/ss_f17f40ae15dd6f943934950b8b009b66d0433d1d.1920x1080.jpg?t=1548703884"
     }
   ],
   "movies": [
     {
-      "id": 256677673,
-      "name": "Flamberge Trailer - January 2017",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256677673/movie.293x165.jpg?t=1484024384",
+      "id": 256725576,
+      "name": "Flamberge - August 2018",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256725576/movie.293x165.jpg?t=1534278169",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256677673/movie480.webm?t=1484024384",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256677673/movie_max.webm?t=1484024384"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256725576/movie480.webm?t=1534278169",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256725576/movie_max.webm?t=1534278169"
       },
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Mar, 2015"
@@ -146,5 +165,9 @@
     "url": "",
     "email": "msb@hydezeke.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/355420/page_bg_generated_v6b.jpg?t=1487445576"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/355420/page_bg_generated_v6b.jpg?t=1548703884",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

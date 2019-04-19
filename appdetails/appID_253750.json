@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     31069
@@ -69,7 +71,7 @@
   },
   "metacritic": {
     "score": 84,
-    "url": "http://www.metacritic.com/game/pc/ikaruga?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/ikaruga?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -166,7 +168,7 @@
     }
   ],
   "recommendations": {
-    "total": 1349
+    "total": 1337
   },
   "achievements": {
     "total": 25,
@@ -221,5 +223,9 @@
     "url": "http://ikaruga-steam.treasure-inc.co.jp/support.html",
     "email": "ikaruga-steam@treasure-inc.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/253750/page_bg_generated_v6b.jpg?t=1447358720"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/253750/page_bg_generated_v6b.jpg?t=1447358720",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

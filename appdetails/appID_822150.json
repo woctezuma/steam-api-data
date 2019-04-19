@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "You are lost in the forest. It seems that everything is bad and you are doomed to die from hunger and wild animals, but suddenly you have gone to the old road,<br />\r\nwhich le\u0430ds to the bridge over the river. What awaits you on the other side of the river? There is one way to find out - it's to cross the bridge ....<br />\r\nYou will need to hunt, fish, grow your own food and other useful plants, plan your actions sparingly<br />\r\nspending time in this game, and of course fight with the evil which will prevent you from surviving ....",
   "about_the_game": "You are lost in the forest. It seems that everything is bad and you are doomed to die from hunger and wild animals, but suddenly you have gone to the old road,<br />\r\nwhich le\u0430ds to the bridge over the river. What awaits you on the other side of the river? There is one way to find out - it's to cross the bridge ....<br />\r\nYou will need to hunt, fish, grow your own food and other useful plants, plan your actions sparingly<br />\r\nspending time in this game, and of course fight with the evil which will prevent you from surviving ....",
-  "short_description": "You are lost in the forest. It seems that everything is bad and you are doomed to die from hunger and wild animals, but suddenly you have gone to the old road,<br />\r\nwhich le\u0430ds to the bridge over the river. What awaits you on the other side of the river? There is one way to find out - it's to cross the bridge ....",
+  "short_description": "You are lost in the forest. It seems that everything is bad and you are doomed to die from hunger and wild animals, but suddenly you have gone to the old road, which le\u0430ds to the bridge over the river. What awaits you on the other side of the river? There is one way to find out - it's to cross the bridge ....",
   "supported_languages": "English, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/822150/header.jpg?t=1523636790",
   "website": null,
@@ -23,11 +23,14 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
+    306880,
     252203
   ],
   "package_groups": [
@@ -41,14 +44,24 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": 252203,
+          "packageid": 306880,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "WAY HOME - 7,99\u20ac",
+          "option_text": "WAY HOME - Commercial License - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 79
+        },
+        {
+          "packageid": 252203,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "WAY HOME - 1,59\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -195,6 +208,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Apr, 2018"
@@ -203,5 +219,9 @@
     "url": "https://vk.com/sektorgames",
     "email": "sektor_games@inbox.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/822150/page_bg_generated_v6b.jpg?t=1523636790"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/822150/page_bg_generated_v6b.jpg?t=1523636790",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

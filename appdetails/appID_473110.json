@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\">EXZEAL Original Soundtrack</h2><strong>Composer: naoto</strong><br><br><strong>Track List</strong><br>01. Insert coin SE<br>02. Unit select<br>03. Typhoon #12 (Stage 1)<br>04. Attack it (Boss)<br>05. Wonderful winner (Stage Clear)<br>06. Fly High! (Stage 2)<br>07. Fortress vacuumer (Stage 3)<br>08. Escape! (Stage 4)<br>09. Eternal Traveler (Stage 5)<br>10. Ruins (Stage 6)<br>11. All your powers (Last Boss)<br>12. Ending for the blue sky (Ending)<br>13. Danceable beat (Name)<br>14. See you again! (Game Over)<br><br><strong>Formats</strong><br><ul class=\"bb_ul\"><li>MP3 (320kbps CBR)<br></li><li>FLAC</li></ul>",
   "about_the_game": "<h2 class=\"bb_tag\">EXZEAL Original Soundtrack</h2><strong>Composer: naoto</strong><br><br><strong>Track List</strong><br>01. Insert coin SE<br>02. Unit select<br>03. Typhoon #12 (Stage 1)<br>04. Attack it (Boss)<br>05. Wonderful winner (Stage Clear)<br>06. Fly High! (Stage 2)<br>07. Fortress vacuumer (Stage 3)<br>08. Escape! (Stage 4)<br>09. Eternal Traveler (Stage 5)<br>10. Ruins (Stage 6)<br>11. All your powers (Last Boss)<br>12. Ending for the blue sky (Ending)<br>13. Danceable beat (Name)<br>14. See you again! (Game Over)<br><br><strong>Formats</strong><br><ul class=\"bb_ul\"><li>MP3 (320kbps CBR)<br></li><li>FLAC</li></ul>",
-  "short_description": "",
+  "short_description": "EXZEAL Original SoundtrackComposer: naotoTrack List01. Insert coin SE02. Unit select03. Typhoon #12 (Stage 1)04. Attack it (Boss)05. Wonderful winner (Stage Clear)06. Fly High! (Stage 2)07. Fortress vacuumer (Stage 3)08. Escape! (Stage 4)09. Eternal Traveler (Stage 5)10. Ruins (Stage 6)11. All your powers (Last Boss)12.",
   "fullgame": {
     "appid": "465060",
     "name": "EXZEAL"
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 324,
-    "discount_percent": 35
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     104924
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 104924,
-          "percent_savings_text": "-35%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "EXZEAL Original Soundtrack - <span class=\"discount_original_price\">4,99\u20ac</span> 3,24\u20ac",
+          "option_text": "EXZEAL Original Soundtrack - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 324
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -89,6 +91,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Jul, 2016"
@@ -97,5 +102,9 @@
     "url": "",
     "email": "games@degica.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/473110/page_bg_generated_v6b.jpg?t=1491381532"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/473110/page_bg_generated_v6b.jpg?t=1491381532",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

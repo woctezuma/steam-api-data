@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     97179
@@ -149,7 +151,10 @@
     }
   ],
   "recommendations": {
-    "total": 834
+    "total": 969
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -159,5 +164,9 @@
     "url": "https://wevrtransport.zendesk.com",
     "email": "support@wevr.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/451520/page_bg_generated_v6b.jpg?t=1517617172"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/451520/page_bg_generated_v6b.jpg?t=1517617172",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

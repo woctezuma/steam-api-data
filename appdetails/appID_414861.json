@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In this 30 minute video tutorial I'll be covering 3 basic things to help you maintain good habits with.\r\n\r\nPainting Small\r\nControlling your Values\r\nMaterial Indication\r\n\r\nThe package includes the PHOTOSHOP File, and my photoshop CC Tool presets!",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In this 30 minute video tutorial I'll be covering 3 basic things to help you maintain good habits with.\r\n\r\nPainting Small\r\nControlling your Values\r\nMaterial Indication\r\n\r\nThe package includes the PHOTOSHOP File, and my photoshop CC Tool presets!",
   "about_the_game": "In this 30 minute video tutorial I'll be covering 3 basic things to help you maintain good habits with.<br />\r\n<br />\r\nPainting Small<br />\r\nControlling your Values<br />\r\nMaterial Indication<br />\r\n<br />\r\nThe package includes the PHOTOSHOP File, and my photoshop CC Tool presets!",
   "short_description": "A 30 minute video tutorial that covers the 3 basic things to help maintain good habits.",
   "fullgame": {
@@ -35,9 +35,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     83400
@@ -56,11 +58,11 @@
           "packageid": 83400,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Robotpencil Presents: Painting with Confidence - Part 2 - 2,99\u20ac",
+          "option_text": "Robotpencil Presents: Painting with Confidence - Part 2 - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Jun, 2016"
@@ -127,5 +132,9 @@
     "url": "www.robotpencil.net",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/414861/page_bg_generated_v6b.jpg?t=1464904805"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/414861/page_bg_generated_v6b.jpg?t=1464904805",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

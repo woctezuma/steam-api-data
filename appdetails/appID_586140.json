@@ -12,7 +12,7 @@
   "about_the_game": "Combining 2D fighting game and visual novel, the BlazBlue series has been supported by many fighting game fans. The latest installation, BlazBlue: Centralfiction, serves as the ending to the Azure Saga and reveals the truth that has ever been in mystery. <br><br>First time in this series, \u300cNaoto = Kurogane\u300d \u300cHibiki = Kohaku\u300d \u300cNine = the = Phantom\u300d and \u300cIzanami\u300d appear as playable characters and three DLC characters from the console version --\u300cEs\u300d from XBlaze series that shares the same worldview as Blazblue, \u300cMai Natsume\u300d from the BlazeBlue spinoff manga, Remix Heart, and \u300cSusano'o\u300d, the true form of \u300cYuki Terumi\u300d-- newly join to bring to a total of 35 playable characters!<h2 class=\"bb_tag\">Introduction of New Systems</h2><strong>[Overdrive]</strong><br><ul class=\"bb_ul\"><li>Each character can strengthen his/her unique ability for a specific period of time.</li></ul><ul class=\"bb_ul\"><li>When [Overdrive] is triggered, the Overdrive icon changes into a purple gauge.</li></ul><ul class=\"bb_ul\"><li>This gauge will decrease over time, and [Overdrive] will end when the gauge depletes.</li></ul><ul class=\"bb_ul\"><li>[Overdrive] lasts longer if your character\u2019s health is low. During activation, the round timer also stops.</li></ul><ul class=\"bb_ul\"><li>After [Overdrive] has ended, the Overdrive icon will show a number counter. Overdrive can be used again when the number reaches 10.</li></ul><ul class=\"bb_ul\"><li>The number increases over time or damage taken, but during [Active Flow], it charges much faster.</li></ul><br><strong>[Exceed Accel]</strong><br><ul class=\"bb_ul\"><li>A powerful attack that can be used during [Overdrive] state.</li></ul><ul class=\"bb_ul\"><li>[Overdrive] state immediately ends upon usage.</li></ul><ul class=\"bb_ul\"><li>When activated during [Active Flow], the damage and effects are significantly boosted.</li></ul><br><strong>[Active Flow]</strong><br><ul class=\"bb_ul\"><li>Fighting aggressively and landing attacks, or using heat gauge etc. will trigger the [Active Flow] state.</li></ul><ul class=\"bb_ul\"><li>Enhances the attack power and shortens the [Overdrive] cool time etc. to make fighting conditions more favorable.</li></ul>",
   "short_description": "Combining 2D fighting game and visual novel, the BlazBlue series has been supported by many fighting game fans. The latest installation, BlazBlue: Centralfiction, serves as the ending to the Azure Saga and reveals the truth that has ever been in mystery.",
   "supported_languages": "English, Japanese<strong>*</strong>, Korean, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201cWhat is really nice about BlazBlue is that each character has a very distinct combat style.\u201d<br>9.0/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.digitallydownloaded.net/2016/11/review-blazblue-centralfiction-sony.html\" target=\"_blank\" rel=\"noopener\"  >Digitally Downloaded</a></a><br><br>\u201cCentral Fiction adds enough characters, mechanics and fine tunes its already nearly flawless gameplay into something that feels as amazing to play as it looks.\u201d<br>9.0/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.ztgd.com/blazblue-central-fiction/review/\" target=\"_blank\" rel=\"noopener\"  >ZTGD</a></a><br><br>\u201cIf BlazBlue: Central Fiction is the end (and I don't think it will be), it's a fitting one.\u201d<br>8.5/10 \u2013 <a href=\"https://www.destructoid.com/review-blazblue-central-fiction-396219.phtml\" target=\"_blank\" rel=\"noreferrer\"  >Destructoid</a></a><br>",
+  "reviews": "\u201cWhat is really nice about BlazBlue is that each character has a very distinct combat style.\u201d<br>9.0/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.digitallydownloaded.net/2016/11/review-blazblue-centralfiction-sony.html\" target=\"_blank\" rel=\"noopener\"  >Digitally Downloaded</a><br><br>\u201cCentral Fiction adds enough characters, mechanics and fine tunes its already nearly flawless gameplay into something that feels as amazing to play as it looks.\u201d<br>9.0/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.ztgd.com/blazblue-central-fiction/review/\" target=\"_blank\" rel=\"noopener\"  >ZTGD</a><br><br>\u201cIf BlazBlue: Central Fiction is the end (and I don't think it will be), it's a fitting one.\u201d<br>8.5/10 \u2013 <a href=\"https://www.destructoid.com/review-blazblue-central-fiction-396219.phtml\" target=\"_blank\" rel=\"noreferrer\"  >Destructoid</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/586140/header.jpg?t=1505406167",
   "website": "http://www.h2interactive.co.kr/games/bbcf/pc/en/",
   "pc_requirements": {
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 3699,
-    "final": 3699,
-    "discount_percent": 0
+    "final": 924,
+    "discount_percent": 75,
+    "initial_formatted": "36,99\u20ac",
+    "final_formatted": "9,24\u20ac"
   },
   "packages": [
     151450
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 151450,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "BlazBlue Centralfiction - 36,99\u20ac",
+          "option_text": "BlazBlue Centralfiction - <span class=\"discount_original_price\">36,99\u20ac</span> 9,24\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 3699
+          "price_in_cents_with_discount": 924
         }
       ]
     }
@@ -193,7 +195,7 @@
     }
   ],
   "recommendations": {
-    "total": 1595
+    "total": 2002
   },
   "achievements": {
     "total": 48,
@@ -248,5 +250,9 @@
     "url": "http://www.h2interactive.co.kr/en/",
     "email": "support@h2interactive.co.kr"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/586140/page_bg_generated_v6b.jpg?t=1505406167"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/586140/page_bg_generated_v6b.jpg?t=1505406167",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

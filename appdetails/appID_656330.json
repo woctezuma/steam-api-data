@@ -4,11 +4,11 @@
   "steam_appid": 656330,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<h1>Release Discount</h1><p>For a limited time, get L5 for 10% off during our Release Sale</p><br><h1>About the Game</h1><strong>Outpost L5</strong> is a planet defense game in virtual reality. Control a base at the Lagrange point L5, near Earth. It's the last surviving battle station and you are in control of its remaining ships that stand between Earth and the Armada of Invading Aliens.<br><br>Tackle wave upon wave of the ever advancing enemy as they get closer and closer to the station. If they capture it, Earth is next. Hold out as long as you can.<br><br>Find Power Ups, Enhanced Weapons, Shields and even Extra Ships, but they won't last long, so use them wisely.<br><br>This classic arcade space shooter set in VR for the HTC Vive and will remind you of early 8 bit shooters. In first person virtual reality, it brings a refreshing change to the old school arcade game.<br><br>Climb to the top of the Steam High Score Leader Board and Defend Earth. <br><br>Or it will be....<br><br>Game Over",
-  "about_the_game": "<strong>Outpost L5</strong> is a planet defense game in virtual reality. Control a base at the Lagrange point L5, near Earth. It's the last surviving battle station and you are in control of its remaining ships that stand between Earth and the Armada of Invading Aliens.<br><br>Tackle wave upon wave of the ever advancing enemy as they get closer and closer to the station. If they capture it, Earth is next. Hold out as long as you can.<br><br>Find Power Ups, Enhanced Weapons, Shields and even Extra Ships, but they won't last long, so use them wisely.<br><br>This classic arcade space shooter set in VR for the HTC Vive and will remind you of early 8 bit shooters. In first person virtual reality, it brings a refreshing change to the old school arcade game.<br><br>Climb to the top of the Steam High Score Leader Board and Defend Earth. <br><br>Or it will be....<br><br>Game Over",
-  "short_description": "Battle wave after wave of invading aliens in the last Space Outpost protecting Earth. Outpost L5 is a Virtual Reality game that will take you back to Classic 8-Bit Arcades, but now in an immersive first person shooter. Alien Identity &quot;It's Space Invaders in VR!&quot;",
+  "detailed_description": "<h2 class=\"bb_tag\">Space Invaders in VR</h2><br><strong>Outpost L5</strong> is a planet defense game in virtual reality. Control a base at the Lagrange point L5, near Earth. It's the last surviving battle station and you are in control of its remaining ships that stand between Earth and the Armada of Invading Aliens.<br><br>Tackle wave upon wave of the ever advancing enemy as they get closer and closer to the station. If they capture it, Earth is next. Hold out as long as you can.<br><br>Find Power Ups, Enhanced Weapons, Shields and even Extra Ships, but they won't last long, so use them wisely.<br><br>This classic arcade space shooter set in VR for the HTC Vive and Oculus Rift and will remind you of early 8 bit shooters. In first person virtual reality, it brings a refreshing change to the old school arcade game.<br><br>Climb to the top of the Steam High Score Leader Board and Defend Earth. <br><br>Or it will be....<br><br>Game Over",
+  "about_the_game": "<h2 class=\"bb_tag\">Space Invaders in VR</h2><br><strong>Outpost L5</strong> is a planet defense game in virtual reality. Control a base at the Lagrange point L5, near Earth. It's the last surviving battle station and you are in control of its remaining ships that stand between Earth and the Armada of Invading Aliens.<br><br>Tackle wave upon wave of the ever advancing enemy as they get closer and closer to the station. If they capture it, Earth is next. Hold out as long as you can.<br><br>Find Power Ups, Enhanced Weapons, Shields and even Extra Ships, but they won't last long, so use them wisely.<br><br>This classic arcade space shooter set in VR for the HTC Vive and Oculus Rift and will remind you of early 8 bit shooters. In first person virtual reality, it brings a refreshing change to the old school arcade game.<br><br>Climb to the top of the Steam High Score Leader Board and Defend Earth. <br><br>Or it will be....<br><br>Game Over",
+  "short_description": "Battle wave after wave of invading aliens in the last Space Outpost protecting Earth. Outpost L5 is a Virtual Reality game that will take you back to Classic 8-Bit Arcades, but now in an immersive first person shooter. Alien Identity &quot;It's Space Invaders in VR!",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/656330/header.jpg?t=1501274557",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/656330/header.jpg?t=1533594515",
   "website": "http://www.vhornet.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i5-4590  or AMD FX\u2122 8350<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVidia GeForce GTX 1060 or AMD Radeon\u2122 RX 480<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
@@ -27,10 +27,13 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
-    185293
+    185293,
+    253020
   ],
   "package_groups": [
     {
@@ -47,6 +50,16 @@
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Outpost L5 - 9,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 999
+        },
+        {
+          "packageid": 253020,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Outpost L5 - Space Invaders VR  Commercial License - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -91,93 +104,93 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_f58d428845749841cc6f22c626baa03ad854c5eb.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_f58d428845749841cc6f22c626baa03ad854c5eb.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_f58d428845749841cc6f22c626baa03ad854c5eb.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_f58d428845749841cc6f22c626baa03ad854c5eb.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_ab34015cd8cf73079215bc48cdd0b71f893878bc.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_ab34015cd8cf73079215bc48cdd0b71f893878bc.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_ab34015cd8cf73079215bc48cdd0b71f893878bc.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_ab34015cd8cf73079215bc48cdd0b71f893878bc.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_5a9ef2a3d1b37239a60e1d967eda07a833781460.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_5a9ef2a3d1b37239a60e1d967eda07a833781460.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_5a9ef2a3d1b37239a60e1d967eda07a833781460.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_5a9ef2a3d1b37239a60e1d967eda07a833781460.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_d1f0b5b907723236321c616a1721539f6426b79d.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_d1f0b5b907723236321c616a1721539f6426b79d.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_d1f0b5b907723236321c616a1721539f6426b79d.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_d1f0b5b907723236321c616a1721539f6426b79d.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_6b93139acc2d4b7e2f9e4c75cf131b6e8bd4ce49.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_6b93139acc2d4b7e2f9e4c75cf131b6e8bd4ce49.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_6b93139acc2d4b7e2f9e4c75cf131b6e8bd4ce49.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_6b93139acc2d4b7e2f9e4c75cf131b6e8bd4ce49.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_22bcfccb4ee767382ee2866b819038d9d246149f.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_22bcfccb4ee767382ee2866b819038d9d246149f.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_22bcfccb4ee767382ee2866b819038d9d246149f.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_22bcfccb4ee767382ee2866b819038d9d246149f.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_aaded6ab1d651270e1d10a779953e3177a9ea768.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_aaded6ab1d651270e1d10a779953e3177a9ea768.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_aaded6ab1d651270e1d10a779953e3177a9ea768.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_aaded6ab1d651270e1d10a779953e3177a9ea768.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_aaf771b3aeb7426c142c0a58afe712f4613dd94a.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_aaf771b3aeb7426c142c0a58afe712f4613dd94a.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_aaf771b3aeb7426c142c0a58afe712f4613dd94a.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_aaf771b3aeb7426c142c0a58afe712f4613dd94a.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_5260e75e5faacbf75857a87e85df0e25145e1c92.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_5260e75e5faacbf75857a87e85df0e25145e1c92.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_5260e75e5faacbf75857a87e85df0e25145e1c92.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_5260e75e5faacbf75857a87e85df0e25145e1c92.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 9,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_4906fc3eebc230a00eef98e9bdd1ffeb8808fe31.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_4906fc3eebc230a00eef98e9bdd1ffeb8808fe31.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_4906fc3eebc230a00eef98e9bdd1ffeb8808fe31.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_4906fc3eebc230a00eef98e9bdd1ffeb8808fe31.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 10,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_ba05235c7dcf66c6c45e6e0a12c1fae6f8752604.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_ba05235c7dcf66c6c45e6e0a12c1fae6f8752604.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_ba05235c7dcf66c6c45e6e0a12c1fae6f8752604.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_ba05235c7dcf66c6c45e6e0a12c1fae6f8752604.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 11,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_f0fb1eca5bb5e9810c07410a62574e487d53a290.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_f0fb1eca5bb5e9810c07410a62574e487d53a290.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_f0fb1eca5bb5e9810c07410a62574e487d53a290.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_f0fb1eca5bb5e9810c07410a62574e487d53a290.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 12,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_f0fb1eca5bb5e9810c07410a62574e487d53a290.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_f0fb1eca5bb5e9810c07410a62574e487d53a290.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_f0fb1eca5bb5e9810c07410a62574e487d53a290.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_f0fb1eca5bb5e9810c07410a62574e487d53a290.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 13,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_d163696cf587100dbf2e4ed9da98caba8747526a.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_d163696cf587100dbf2e4ed9da98caba8747526a.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_d163696cf587100dbf2e4ed9da98caba8747526a.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_d163696cf587100dbf2e4ed9da98caba8747526a.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 14,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_b73a548bfa0f494896bd4bd258e33d98d71cbc5f.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_b73a548bfa0f494896bd4bd258e33d98d71cbc5f.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_b73a548bfa0f494896bd4bd258e33d98d71cbc5f.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_b73a548bfa0f494896bd4bd258e33d98d71cbc5f.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 15,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_e7d5b90e77f48f51be357dc24a59a6cf3c62c521.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_e7d5b90e77f48f51be357dc24a59a6cf3c62c521.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_e7d5b90e77f48f51be357dc24a59a6cf3c62c521.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_e7d5b90e77f48f51be357dc24a59a6cf3c62c521.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 16,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_d46245b9618ed35b462a913bec866a30ee9aaa10.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_d46245b9618ed35b462a913bec866a30ee9aaa10.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_d46245b9618ed35b462a913bec866a30ee9aaa10.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_d46245b9618ed35b462a913bec866a30ee9aaa10.1920x1080.jpg?t=1533594515"
     },
     {
       "id": 17,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_ac3329535ff75a067ed3637bb22ed33b2b4fc101.600x338.jpg?t=1501274557",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_ac3329535ff75a067ed3637bb22ed33b2b4fc101.1920x1080.jpg?t=1501274557"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_ac3329535ff75a067ed3637bb22ed33b2b4fc101.600x338.jpg?t=1533594515",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/656330/ss_ac3329535ff75a067ed3637bb22ed33b2b4fc101.1920x1080.jpg?t=1533594515"
     }
   ],
   "movies": [
@@ -209,5 +222,9 @@
     "url": "http://www.vhornet.com",
     "email": "info@vhornet.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/656330/page_bg_generated_v6b.jpg?t=1501274557"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/656330/page_bg_generated_v6b.jpg?t=1533594515",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

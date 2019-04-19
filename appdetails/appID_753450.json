@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     221603
@@ -133,11 +135,6 @@
       "id": 5,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753450/ss_e4eeb52b0051491c6d32a9c661bdabbd2ee5d412.600x338.jpg?t=1512146405",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753450/ss_e4eeb52b0051491c6d32a9c661bdabbd2ee5d412.1920x1080.jpg?t=1512146405"
-    },
-    {
-      "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753450/?t=1512146405",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753450/?t=1512146405"
     }
   ],
   "movies": [
@@ -160,5 +157,9 @@
     "url": "http://www.planet-nomads.com/",
     "email": "daniel@planet-nomads.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/753450/page_bg_generated_v6b.jpg?t=1512146405"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/753450/page_bg_generated_v6b.jpg?t=1512146405",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

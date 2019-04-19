@@ -28,10 +28,12 @@
     "Marvelous USA, Inc."
   ],
   "price_overview": {
-    "currency": "USD",
+    "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     240457
@@ -50,7 +52,7 @@
           "packageid": 240457,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "SENRAN KAGURA Peach Beach Splash - Ikki T\u014dsen EE Collaboration Pack - $19.99",
+          "option_text": "SENRAN KAGURA Peach Beach Splash - Ikki T\u014dsen EE Collaboration Pack - 19,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -132,13 +134,23 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793547/ss_f3ef5262e82f3a6df1e6912dec482a5b2091afc0.1920x1080.jpg?t=1520446545"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
-    "date": "Mar 7, 2018"
+    "date": "7 Mar, 2018"
   },
   "support_info": {
     "url": "",
     "email": "support@xseedgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793547/page_bg_generated_v6b.jpg?t=1520446545"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793547/page_bg_generated_v6b.jpg?t=1520446545",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

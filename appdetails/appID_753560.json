@@ -4,19 +4,19 @@
   "steam_appid": 753560,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "Twinstack is a puzzle game that challenges your multitasking skills. The goal of the game is to clear columns and balance the stack of blocks. Play the easier single mode, where the spawn location alternates between left and right. If you prefer a challenge, the dual mode allows you to play with pieces spawning left and right at the same time.<br />\n<br />\nFeatures:<br />\nTwo game modes, single and dual mode.<br />\nBonus time when clearing enough columns within a specific time.<br />\nTen achievements.<br />\nRelaxing soundtrack. <br />\nBackground with day and night cycle.",
-  "about_the_game": "Twinstack is a puzzle game that challenges your multitasking skills. The goal of the game is to clear columns and balance the stack of blocks. Play the easier single mode, where the spawn location alternates between left and right. If you prefer a challenge, the dual mode allows you to play with pieces spawning left and right at the same time.<br />\n<br />\nFeatures:<br />\nTwo game modes, single and dual mode.<br />\nBonus time when clearing enough columns within a specific time.<br />\nTen achievements.<br />\nRelaxing soundtrack. <br />\nBackground with day and night cycle.",
+  "detailed_description": "Twinstack is a puzzle game that challenges your multitasking skills. The goal of the game is to clear columns and balance the stack of blocks. Play the easier single mode, where the spawn location alternates between left and right. If you prefer a challenge, the dual mode allows you to play with pieces spawning left and right at the same time.<br />\r\n<br />\r\nFeatures:<br />\r\nTwo game modes, single and dual mode.<br />\r\nBonus time when clearing enough columns within a specific time.<br />\r\nTen achievements.<br />\r\nRelaxing soundtrack. <br />\r\nBackground with day and night cycle.",
+  "about_the_game": "Twinstack is a puzzle game that challenges your multitasking skills. The goal of the game is to clear columns and balance the stack of blocks. Play the easier single mode, where the spawn location alternates between left and right. If you prefer a challenge, the dual mode allows you to play with pieces spawning left and right at the same time.<br />\r\n<br />\r\nFeatures:<br />\r\nTwo game modes, single and dual mode.<br />\r\nBonus time when clearing enough columns within a specific time.<br />\r\nTen achievements.<br />\r\nRelaxing soundtrack. <br />\r\nBackground with day and night cycle.",
   "short_description": "Twinstack is a puzzle game that challenges your multitasking skills. The goal of the game is to clear columns and balance the stack of blocks.",
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/753560/header.jpg?t=1519057864",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/753560/header.jpg?t=1546195100",
   "website": "http://www.correcturegames.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 2Ghz +<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 2Ghz +<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2Ghz +<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2Ghz +<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
   },
   "linux_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     221641
@@ -51,11 +53,11 @@
           "packageid": 221641,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Twinstack - 1,99\u20ac",
+          "option_text": "Twinstack - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -87,33 +89,41 @@
     {
       "id": "4",
       "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "2",
+      "description": "Strategy"
     }
   ],
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_6f97cecfe15ed4d5142cf60ec50129fa76d921f7.600x338.jpg?t=1519057864",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_6f97cecfe15ed4d5142cf60ec50129fa76d921f7.1920x1080.jpg?t=1519057864"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_578baec84a0a69dfe5ff9ce7219108107292bd3a.600x338.jpg?t=1546195100",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_578baec84a0a69dfe5ff9ce7219108107292bd3a.1920x1080.jpg?t=1546195100"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_72f6fa16224360d280948b40e984860b00344eec.600x338.jpg?t=1519057864",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_72f6fa16224360d280948b40e984860b00344eec.1920x1080.jpg?t=1519057864"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_ff3b651a593f48e593171aed962f25a4d51a8b67.600x338.jpg?t=1546195100",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_ff3b651a593f48e593171aed962f25a4d51a8b67.1920x1080.jpg?t=1546195100"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_232b469d2376d3201907ca66f69b667b7a33e2f7.600x338.jpg?t=1519057864",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_232b469d2376d3201907ca66f69b667b7a33e2f7.1920x1080.jpg?t=1519057864"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_04f7e2eb7822a39665e8435caf37dfd0fb196514.600x338.jpg?t=1546195100",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_04f7e2eb7822a39665e8435caf37dfd0fb196514.1920x1080.jpg?t=1546195100"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_2c09fe9b73888ca66fd82de70680eabee1b1ea83.600x338.jpg?t=1519057864",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_2c09fe9b73888ca66fd82de70680eabee1b1ea83.1920x1080.jpg?t=1519057864"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_9a2cfaae67b111cf265f0dff71a15e2aa4cc820e.600x338.jpg?t=1546195100",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_9a2cfaae67b111cf265f0dff71a15e2aa4cc820e.1920x1080.jpg?t=1546195100"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_76ce65a677eefeaf705ac87510ca96bdb7b30312.600x338.jpg?t=1519057864",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_76ce65a677eefeaf705ac87510ca96bdb7b30312.1920x1080.jpg?t=1519057864"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_5dffbb1256db8070875a78e3da60fcfa9ea09b27.600x338.jpg?t=1546195100",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753560/ss_5dffbb1256db8070875a78e3da60fcfa9ea09b27.1920x1080.jpg?t=1546195100"
     }
   ],
   "movies": [
@@ -181,5 +191,9 @@
     "url": "http://www.correcturegames.com",
     "email": "support@correcturegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/753560/page_bg_generated_v6b.jpg?t=1519057864"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/753560/page_bg_generated_v6b.jpg?t=1546195100",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

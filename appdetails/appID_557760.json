@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     139524
@@ -160,6 +162,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Feb, 2017"
@@ -168,5 +173,9 @@
     "url": "http://interplay.com/support/customer_service.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/557760/page_bg_generated_v6b.jpg?t=1487836269"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/557760/page_bg_generated_v6b.jpg?t=1487836269",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

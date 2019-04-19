@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1399,
-    "final": 1399,
-    "discount_percent": 0
+    "initial": 739,
+    "final": 739,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,39\u20ac"
   },
   "packages": [
     216963
@@ -51,11 +53,11 @@
           "packageid": 216963,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "OnsenVR - 13,99\u20ac",
+          "option_text": "OnsenVR - 7,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1399
+          "price_in_cents_with_discount": 739
         }
       ]
     }
@@ -167,6 +169,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Nov, 2017"
@@ -175,5 +180,13 @@
     "url": "",
     "email": "onsenvr@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740780/page_bg_generated_v6b.jpg?t=1512086599"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740780/page_bg_generated_v6b.jpg?t=1512086599",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

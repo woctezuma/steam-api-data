@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     57269
@@ -198,5 +200,9 @@
     "url": "",
     "email": "info@snipefish.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340880/page_bg_generated_v6b.jpg?t=1447366666"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340880/page_bg_generated_v6b.jpg?t=1447366666",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

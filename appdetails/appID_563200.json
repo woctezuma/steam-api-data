@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Slay is a turn based strategy game where your goal is to conquer the island by buying men and using them to capture your enemies' hexagons. By combining two men you can create a single more powerful man who is able to kill weaker men. The twist to the game is that the more powerful a man that you create is, the more expensive he is to maintain. Men cannot be un-bought so you must tread a fine line between building up your forces, and not being rashly ambitious. Sneakily cutting an enemy territory in half to bankrupt one side of it is an essential skill to learn!",
   "about_the_game": "Slay is a turn based strategy game where your goal is to conquer the island by buying men and using them to capture your enemies' hexagons. By combining two men you can create a single more powerful man who is able to kill weaker men. The twist to the game is that the more powerful a man that you create is, the more expensive he is to maintain. Men cannot be un-bought so you must tread a fine line between building up your forces, and not being rashly ambitious. Sneakily cutting an enemy territory in half to bankrupt one side of it is an essential skill to learn!",
-  "short_description": "Slay is a turn based strategy game where your goal is to conquer the island by buying men and using them to capture your enemies' hexagons. By combining two men you can create a single more powerful man who is able to kill weaker men. The twist to the game is that the more powerful a man that you create is, the more expensive he is to maintain. Men cannot be un-bought so you must tread a fine line between building up your forces, and not being rashly ambitious. Sneakily cutting an enemy territory in half to bankrupt one side of it is an essential skill to learn!",
+  "short_description": "Slay is a turn based strategy game where your goal is to conquer the island by buying men and using them to capture your enemies' hexagons. By combining two men you can create a single more powerful man who is able to kill weaker men.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/563200/header.jpg?t=1480526850",
   "website": "http://www.windowsgames.co.uk/slay.html",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     141638
@@ -109,6 +111,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Nov, 2016"
@@ -117,5 +122,9 @@
     "url": "http://www.windowsgames.co.uk/",
     "email": "sean@windowsgames.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/563200/page_bg_generated_v6b.jpg?t=1480526850"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/563200/page_bg_generated_v6b.jpg?t=1480526850",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

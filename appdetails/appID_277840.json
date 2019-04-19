@@ -1,18 +1,19 @@
 {
   "type": "dlc",
-  "name": "RPG Maker VX Ace - The Adventurer's Journey 2",
+  "name": "RPG Maker VX Ace - The Adventurer's Journey II",
   "steam_appid": 277840,
   "required_age": 0,
   "is_free": false,
+  "controller_support": "full",
   "detailed_description": "Your exciting adventure continues!<br><br>The Adventurer's Journey II Music Pack features 20 orchestrated tracks from D. C. Kairi Sawler that will surely give your games some new ambiance! Everything from Egypt to Japan and back again!<br><br>This pack contains:<br><ul class=\"bb_ul\"><li>20 Orchestrated Tracks<br></li><li>Looped OGG Vorbis files for RPG Maker VX/Ace and WAVs for IG Maker<br></li><li>The MP3 version of the tracks are also included<br></li><li>Royalty free music to use in your commercial and non-commercial RPG/IG Maker projects</li></ul>",
   "about_the_game": "Your exciting adventure continues!<br><br>The Adventurer's Journey II Music Pack features 20 orchestrated tracks from D. C. Kairi Sawler that will surely give your games some new ambiance! Everything from Egypt to Japan and back again!<br><br>This pack contains:<br><ul class=\"bb_ul\"><li>20 Orchestrated Tracks<br></li><li>Looped OGG Vorbis files for RPG Maker VX/Ace and WAVs for IG Maker<br></li><li>The MP3 version of the tracks are also included<br></li><li>Royalty free music to use in your commercial and non-commercial RPG/IG Maker projects</li></ul>",
-  "short_description": "",
+  "short_description": "Your exciting adventure continues!The Adventurer's Journey II Music Pack features 20 orchestrated tracks from D. C. Kairi Sawler that will surely give your games some new ambiance! Everything from Egypt to Japan and back again!",
   "fullgame": {
     "appid": "220700",
     "name": "RPG Maker VX Ace"
   },
-  "supported_languages": "English, French, German, Spanish, Italian, Portuguese-Brazil",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/277840/header.jpg?t=1464251742",
+  "supported_languages": "English, French, German, Spanish - Spain, Italian, Portuguese - Brazil",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/277840/header.jpg?t=1526892768",
   "website": "http://www.rpgmakerweb.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Microsoft\u00ae Windows\u00ae XP / Vista / 7 (32-bit/64-bit)<br>\t</li><li><strong>Processor:</strong>Intel\u00ae Pentium\u00ae 4 2.0 GHz equivalent or faster processor<br>\t</li><li><strong>Memory:</strong>512 MB RAM<br>\t</li><li><strong>Graphics:</strong>1024 x 768 pixels or higher desktop resolution<br>\t</li><li><strong>Hard Drive:</strong>400 MB HD space</li></ul>",
@@ -21,7 +22,6 @@
   "mac_requirements": [],
   "linux_requirements": [],
   "developers": [
-    "Degica",
     "Kairi Sawler"
   ],
   "publishers": [
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     37863
@@ -39,7 +41,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy RPG Maker VX Ace - The Adventurer's Journey 2",
+      "title": "Buy RPG Maker VX Ace - The Adventurer's Journey II",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -74,6 +76,10 @@
       "description": "Downloadable Content"
     },
     {
+      "id": 28,
+      "description": "Full controller support"
+    },
+    {
       "id": 29,
       "description": "Steam Trading Cards"
     }
@@ -91,10 +97,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/277840/ss_e536c17dfb854546d1c3ab89a57c18aeb57c270a.600x338.jpg?t=1464251742",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/277840/ss_e536c17dfb854546d1c3ab89a57c18aeb57c270a.1920x1080.jpg?t=1464251742"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/277840/ss_e536c17dfb854546d1c3ab89a57c18aeb57c270a.600x338.jpg?t=1526892768",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/277840/ss_e536c17dfb854546d1c3ab89a57c18aeb57c270a.1920x1080.jpg?t=1526892768"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Feb, 2014"
@@ -103,5 +112,9 @@
     "url": "http://www.rpgmakerweb.com/support",
     "email": "support@rpgmakerweb.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/277840/page_bg_generated_v6b.jpg?t=1464251742"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/277840/page_bg_generated_v6b.jpg?t=1526892768",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

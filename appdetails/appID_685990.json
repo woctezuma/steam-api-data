@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     196348
@@ -195,5 +197,9 @@
     "url": "",
     "email": "starmops.publish@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/685990/page_bg_generated_v6b.jpg?t=1507536677"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/685990/page_bg_generated_v6b.jpg?t=1507536677",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

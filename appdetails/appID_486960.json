@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     109689
@@ -104,6 +106,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/486960/ss_dddc7bc523f64dfe7ba7f7e7d9c07233380f21d9.1920x1080.jpg?t=1464875479"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Jun, 2016"
@@ -112,5 +117,9 @@
     "url": "http://www.mergegames.com",
     "email": "support@mergegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/486960/page_bg_generated_v6b.jpg?t=1464875479"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/486960/page_bg_generated_v6b.jpg?t=1464875479",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

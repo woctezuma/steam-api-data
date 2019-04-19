@@ -33,10 +33,12 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    "230052"
+    230052
   ],
   "package_groups": [
     {
@@ -49,7 +51,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "230052",
+          "packageid": 230052,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Finding Paradise Soundtrack - 4,99\u20ac",
@@ -97,6 +99,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770780/ss_540de403a86da0f05f73463d947ccddca6b922f4.1920x1080.jpg?t=1513706109"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Dec, 2017"
@@ -105,5 +110,9 @@
     "url": "http://freebirdgames.com/",
     "email": "kan@freebirdgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/770780/page_bg_generated_v6b.jpg?t=1513706109"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/770780/page_bg_generated_v6b.jpg?t=1513706109",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

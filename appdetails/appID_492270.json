@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     111610
@@ -44,11 +46,11 @@
           "packageid": 111610,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "The Cat! Porfirio's Adventure - 3,99\u20ac",
+          "option_text": "The Cat! Porfirio's Adventure - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -165,7 +167,7 @@
     }
   ],
   "recommendations": {
-    "total": 194
+    "total": 206
   },
   "achievements": {
     "total": 13,
@@ -220,5 +222,9 @@
     "url": "http://catswhoplay.com/",
     "email": "support@catswhoplay.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492270/page_bg_generated_v6b.jpg?t=1497347889"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492270/page_bg_generated_v6b.jpg?t=1497347889",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

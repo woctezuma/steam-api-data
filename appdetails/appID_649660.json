@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "initial": 610,
+    "final": 610,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,10\u20ac"
   },
   "packages": [
     182831
@@ -46,11 +48,11 @@
           "packageid": 182831,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "LIBERTY VR - 7,99\u20ac",
+          "option_text": "LIBERTY VR - 6,10\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 610
         }
       ]
     }
@@ -166,6 +168,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Jul, 2017"
@@ -174,5 +179,9 @@
     "url": "https://www.facebook.com/JumpOrFall/",
     "email": "jumporfall@Gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/649660/page_bg_generated_v6b.jpg?t=1499285406"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/649660/page_bg_generated_v6b.jpg?t=1499285406",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

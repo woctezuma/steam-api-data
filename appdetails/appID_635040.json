@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Freeze climbing puts you into a surreal frozen dreamscape, where there's only one way to go: up.<br />\r\n<br />\r\nYou're just a head and some hands, so to get around you'll need to climb. Freeze Climbing uses a novel locomotion system inspired by rock climbing. You must use your hands to pull yourself up, and throw yourself across gaps. WARNING: This method of movement can cause severe discomfort in some users, some anti-sickness settings are implemented, however user discretion is advised.",
   "about_the_game": "Freeze climbing puts you into a surreal frozen dreamscape, where there's only one way to go: up.<br />\r\n<br />\r\nYou're just a head and some hands, so to get around you'll need to climb. Freeze Climbing uses a novel locomotion system inspired by rock climbing. You must use your hands to pull yourself up, and throw yourself across gaps. WARNING: This method of movement can cause severe discomfort in some users, some anti-sickness settings are implemented, however user discretion is advised.",
-  "short_description": "Freeze Climbing is a game about climbing an icy dreamscape to reach the top. Clamber, grab, and scramble your way up. Just don't fall.<br />\r\n<br />\r\nOh, and it's got finger guns.",
+  "short_description": "Freeze Climbing is a game about climbing an icy dreamscape to reach the top. Clamber, grab, and scramble your way up. Just don't fall. Oh, and it's got finger guns.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/635040/header.jpg?t=1494572426",
   "website": "http://www.bottino.games/freezeclimbing",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     174382
@@ -122,6 +124,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 May, 2017"
@@ -130,5 +135,9 @@
     "url": "http://www.bottino.games/contact",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/635040/page_bg_generated_v6b.jpg?t=1494572426"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/635040/page_bg_generated_v6b.jpg?t=1494572426",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     146122
@@ -45,11 +47,11 @@
           "packageid": 146122,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Christmas Massacre VR - 2,99\u20ac",
+          "option_text": "Christmas Massacre VR - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -123,6 +125,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Dec, 2016"
@@ -131,5 +136,9 @@
     "url": "",
     "email": "andall@ajsmith.us"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/574040/page_bg_generated_v6b.jpg?t=1482872446"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/574040/page_bg_generated_v6b.jpg?t=1482872446",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

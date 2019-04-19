@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "The Necromantic come with Werewolves, Flesh Golems, Ghouls, Zombies and Wights.<br />\r\n<br />\r\nThe dead do not rest easy in the graveyards of the Old World. So it was only a matter of time before a Necromancer would decide to shackle these unstoppable killing machines with arcane and powerful magics, and soothe their tortured souls with a nice game of Blood Bowl!<br />\r\n<br />\r\nThe Necromantic are a very versatile race, but their best players are their Werewolves. These lethal killing machines are their main attacking force, providing pure psychopathic fury and claws that can render armour utterly useless.<br />\r\n<br />\r\nThe main dilemma for a Necromantic Coach is how to replace his more specialized players when they get pounded into the ground, never to rise again. Zombies are easy to find, shambling around any old graveyard in the dead of night, but the more useful players, such as the Flesh Golems and Werewolves, can cost a hefty sum to replace.",
   "about_the_game": "The Necromantic come with Werewolves, Flesh Golems, Ghouls, Zombies and Wights.<br />\r\n<br />\r\nThe dead do not rest easy in the graveyards of the Old World. So it was only a matter of time before a Necromancer would decide to shackle these unstoppable killing machines with arcane and powerful magics, and soothe their tortured souls with a nice game of Blood Bowl!<br />\r\n<br />\r\nThe Necromantic are a very versatile race, but their best players are their Werewolves. These lethal killing machines are their main attacking force, providing pure psychopathic fury and claws that can render armour utterly useless.<br />\r\n<br />\r\nThe main dilemma for a Necromantic Coach is how to replace his more specialized players when they get pounded into the ground, never to rise again. Zombies are easy to find, shambling around any old graveyard in the dead of night, but the more useful players, such as the Flesh Golems and Werewolves, can cost a hefty sum to replace.",
-  "short_description": "",
+  "short_description": "The Necromantic come with Werewolves, Flesh Golems, Ghouls, Zombies and Wights. The dead do not rest easy in the graveyards of the Old World. So it was only a matter of time before a Necromancer would decide to shackle these unstoppable killing machines with arcane and powerful magics, and soothe their tortured souls with a nice game of...",
   "fullgame": {
     "appid": "236690",
     "name": "Blood Bowl 2"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German, Spanish, Polish, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German, Spanish - Spain, Polish, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/523980/header.jpg?t=1474904716",
   "website": "http://bloodbowl-game.com/",
   "pc_requirements": {
@@ -33,12 +33,14 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     124836,
     194844,
-    "192166"
+    192166
   ],
   "package_groups": [
     {
@@ -71,7 +73,7 @@
           "price_in_cents_with_discount": 3999
         },
         {
-          "packageid": "192166",
+          "packageid": 192166,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Blood Bowl 2 - Legendary Edition - 44,99\u20ac",
@@ -150,6 +152,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/523980/ss_5a067d691b46f47b4f920508d370605cf38901bb.1920x1080.jpg?t=1474904716"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Sep, 2016"
@@ -158,5 +163,9 @@
     "url": "http://www.focus-home.com/index.php?rub=support",
     "email": "support@focus-home.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/523980/page_bg_generated_v6b.jpg?t=1474904716"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/523980/page_bg_generated_v6b.jpg?t=1474904716",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

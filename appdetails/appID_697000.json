@@ -11,7 +11,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/697000/header.jpg?t=1505804508",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> win7<br></li><li><strong>Processor:</strong> pentium(R) Dual_Core CPU E5700 @ 3.00GHZ 2.99GHZ<br></li><li><strong>Memory:</strong> 4 GB RAM MB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GT 520 (1Gb)<br></li><li><strong>Storage:</strong> 60 MB available space<br></li><li><strong>Sound Card:</strong> Intel 82801G</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Besturingssysteem:</strong> win7<br></li><li><strong>Processor:</strong> pentium(R) Dual_Core CPU E5700 @ 3.00GHZ 2.99GHZ<br></li><li><strong>Geheugen:</strong> 4 GB RAM MB RAM<br></li><li><strong>Grafische kaart:</strong> Nvidia GeForce GT 520 (1Gb)<br></li><li><strong>Opslagruimte:</strong> 60 MB beschikbare ruimte<br></li><li><strong>Geluidskaart:</strong> Intel 82801G</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1899,
     "final": 1899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "18,99\u20ac"
   },
   "packages": [
     200326
@@ -129,6 +131,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Sep, 2017"
@@ -137,5 +142,9 @@
     "url": "",
     "email": "3288481289@qq.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/697000/page_bg_generated_v6b.jpg?t=1505804508"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/697000/page_bg_generated_v6b.jpg?t=1505804508",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>The Magicka: Nippon DLC includes:</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>1 Kimono robe\n\t\t\t\t\t\t<li>1 Katana - \"Yawarakai-Te\" (cuts through armor)\n\t\t\t\t\t\t<li>1 Bamboo Staff - \"Staff of Endurance\" (resistance to all elements)\n\t\t\t\t\t\t</ul>",
   "about_the_game": "<p>The Magicka: Nippon DLC includes:</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>1 Kimono robe\n\t\t\t\t\t\t<li>1 Katana - \"Yawarakai-Te\" (cuts through armor)\n\t\t\t\t\t\t<li>1 Bamboo Staff - \"Staff of Endurance\" (resistance to all elements)\n\t\t\t\t\t\t</ul>",
-  "short_description": "",
+  "short_description": "The Magicka: Nippon DLC includes: 1 Kimono robe 1 Katana - \"Yawarakai-Te\" (cuts through armor) 1 Bamboo Staff - \"Staff of Endurance\" (resistance to all elements)",
   "fullgame": {
     "appid": "42910",
     "name": "Magicka"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     8389
@@ -146,6 +148,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/73031/ss_d5bb86c7c793f0960c7aa9d3ef1dc7a3fbe39e9f.1920x1080.jpg?t=1447354279"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 May, 2011"
@@ -154,5 +159,9 @@
     "url": "http://www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/73031/page_bg_generated_v6b.jpg?t=1447354279"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/73031/page_bg_generated_v6b.jpg?t=1447354279",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

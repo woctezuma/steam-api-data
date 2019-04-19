@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     147805
@@ -68,7 +70,7 @@
   },
   "metacritic": {
     "score": 80,
-    "url": "http://www.metacritic.com/game/pc/conquest-frontier-wars?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/conquest-frontier-wars?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -129,6 +131,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jan, 2017"
@@ -137,5 +142,9 @@
     "url": "https://descendentstudios.com/community/forum/61-conquest-frontier-wars/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/578670/page_bg_generated_v6b.jpg?t=1484669872"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/578670/page_bg_generated_v6b.jpg?t=1484669872",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

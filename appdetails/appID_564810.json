@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     142555
@@ -46,11 +48,11 @@
           "packageid": 142555,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Ticket - 5,99\u20ac",
+          "option_text": "Ticket - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -206,5 +208,9 @@
     "url": "",
     "email": "dweedoos@hotmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/564810/page_bg_generated_v6b.jpg?t=1489186648"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/564810/page_bg_generated_v6b.jpg?t=1489186648",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

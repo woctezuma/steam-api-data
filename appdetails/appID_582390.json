@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     149490
@@ -117,6 +119,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Jan, 2017"
@@ -125,5 +130,9 @@
     "url": "",
     "email": "info@ramotion.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/582390/page_bg_generated_v6b.jpg?t=1510350410"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/582390/page_bg_generated_v6b.jpg?t=1510350410",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

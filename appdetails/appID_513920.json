@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     119837
@@ -168,5 +170,9 @@
     "url": "http://steamcommunity.com/app/513920",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/513920/page_bg_generated_v6b.jpg?t=1475267055"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/513920/page_bg_generated_v6b.jpg?t=1475267055",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

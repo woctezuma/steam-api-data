@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     140062
@@ -194,5 +196,9 @@
     "url": "",
     "email": "support@midnightstudios.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/559140/page_bg_generated_v6b.jpg?t=1484949121"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/559140/page_bg_generated_v6b.jpg?t=1484949121",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

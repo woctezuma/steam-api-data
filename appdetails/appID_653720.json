@@ -11,8 +11,8 @@
     "appid": "363890",
     "name": "RPG Maker MV"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Portuguese-Brazil, Russian, Japanese, Korean, Traditional Chinese, Arabic, Simplified Chinese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/653720/header.jpg?t=1498010738",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Japanese, Korean, Traditional Chinese, Arabic, Simplified Chinese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/653720/header.jpg?t=1526893210",
   "website": "http://www.rpgmakerweb.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processor:</strong> PC with 1.0GHz Intel\u00ae Pentium\u00ae III equivalent or higher processor<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9/OpenGL 4.1 capable GPU<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound-compatible sound card<br></li><li><strong>Additional Notes:</strong> 1024x768 or better video resolution</li></ul>"
@@ -25,8 +25,6 @@
   },
   "legal_notice": "\u00a92015 KADOKAWA CORPORATION./YOJI OJIMA",
   "developers": [
-    "KADOKAWA",
-    "Yoji Ojima",
     "Sherman3D"
   ],
   "publishers": [
@@ -36,7 +34,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     184178
@@ -96,25 +96,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_aa1fde5378b26b8f9510bea352cc4dd9898e07fa.600x338.jpg?t=1498010738",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_aa1fde5378b26b8f9510bea352cc4dd9898e07fa.1920x1080.jpg?t=1498010738"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_aa1fde5378b26b8f9510bea352cc4dd9898e07fa.600x338.jpg?t=1526893210",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_aa1fde5378b26b8f9510bea352cc4dd9898e07fa.1920x1080.jpg?t=1526893210"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_8d2e7dc9f0050b58dba2dfd906e260f0c8d72b7e.600x338.jpg?t=1498010738",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_8d2e7dc9f0050b58dba2dfd906e260f0c8d72b7e.1920x1080.jpg?t=1498010738"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_8d2e7dc9f0050b58dba2dfd906e260f0c8d72b7e.600x338.jpg?t=1526893210",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_8d2e7dc9f0050b58dba2dfd906e260f0c8d72b7e.1920x1080.jpg?t=1526893210"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_6894c530a152c1c7bbb121e1d9b32e559731de22.600x338.jpg?t=1498010738",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_6894c530a152c1c7bbb121e1d9b32e559731de22.1920x1080.jpg?t=1498010738"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_6894c530a152c1c7bbb121e1d9b32e559731de22.600x338.jpg?t=1526893210",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_6894c530a152c1c7bbb121e1d9b32e559731de22.1920x1080.jpg?t=1526893210"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_2a438a7dbb51616e19f5f45dbc4cc1084d810bb5.600x338.jpg?t=1498010738",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_2a438a7dbb51616e19f5f45dbc4cc1084d810bb5.1920x1080.jpg?t=1498010738"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_2a438a7dbb51616e19f5f45dbc4cc1084d810bb5.600x338.jpg?t=1526893210",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/653720/ss_2a438a7dbb51616e19f5f45dbc4cc1084d810bb5.1920x1080.jpg?t=1526893210"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Jun, 2017"
@@ -123,5 +126,9 @@
     "url": "http://www.rpgmakerweb.com/support",
     "email": "support@rpgmakerweb.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/653720/page_bg_generated_v6b.jpg?t=1498010738"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/653720/page_bg_generated_v6b.jpg?t=1526893210",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     203351
@@ -49,11 +51,11 @@
           "packageid": 203351,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Neofeud - Soundtrack - 4,99\u20ac",
+          "option_text": "Neofeud - Soundtrack - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -119,5 +121,9 @@
     "url": "http://silverspookgames.com",
     "email": "silverspookgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/704730/page_bg_generated_v6b.jpg?t=1506374934"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/704730/page_bg_generated_v6b.jpg?t=1506374934",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

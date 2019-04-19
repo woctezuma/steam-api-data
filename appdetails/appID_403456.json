@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Ultimate Unlock Bundle</strong> contains the following items:<br><br><strong>Unlock All Voices</strong><br>All voices for avatars are unlocked. (JP audio only)<br><br><strong>Unlock All Physical Parts</strong><br>All physical parts for avatars are unlocked.<br><br><strong>Unlock All Clothing</strong><br>All clothing can be worn regardless of job conditions.<br><br><strong>Full Gallery Unlock</strong><br>All scenes in the gallery are unlocked.",
   "about_the_game": "<strong>Ultimate Unlock Bundle</strong> contains the following items:<br><br><strong>Unlock All Voices</strong><br>All voices for avatars are unlocked. (JP audio only)<br><br><strong>Unlock All Physical Parts</strong><br>All physical parts for avatars are unlocked.<br><br><strong>Unlock All Clothing</strong><br>All clothing can be worn regardless of job conditions.<br><br><strong>Full Gallery Unlock</strong><br>All scenes in the gallery are unlocked.",
-  "short_description": "<strong>Ultimate Unlock Bundle</strong> contains the following items: Unlock All Voices, Unlock All Physical Parts, Unlock All Clothing, Full Gallery Unlock",
+  "short_description": "Ultimate Unlock Bundle contains the following items: Unlock All Voices, Unlock All Physical Parts, Unlock All Clothing, Full Gallery Unlock",
   "fullgame": {
     "appid": "389870",
     "name": "Mugen Souls"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     78914
@@ -123,6 +125,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Oct, 2015"
@@ -131,5 +136,9 @@
     "url": "https://www.ghostlight.uk.com/",
     "email": "support@ghostlight.uk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403456/page_bg_generated_v6b.jpg?t=1447378084"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403456/page_bg_generated_v6b.jpg?t=1447378084",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

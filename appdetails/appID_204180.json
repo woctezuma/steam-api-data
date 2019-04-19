@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     14795,
@@ -80,7 +82,7 @@
   },
   "metacritic": {
     "score": 81,
-    "url": "http://www.metacritic.com/game/pc/waveform?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/waveform?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -185,7 +187,7 @@
     }
   ],
   "recommendations": {
-    "total": 2110
+    "total": 1874
   },
   "achievements": {
     "total": 65,
@@ -240,5 +242,9 @@
     "url": "",
     "email": "ian@ip-builders.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/204180/page_bg_generated_v6b.jpg?t=1492979313"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/204180/page_bg_generated_v6b.jpg?t=1492979313",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 124,
-    "discount_percent": 75
+    "final": 99,
+    "discount_percent": 80,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     40963
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 40963,
-          "percent_savings_text": "-75%",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "Mirror Mysteries 2 - <span class=\"discount_original_price\">4,99\u20ac</span> 1,24\u20ac",
+          "option_text": "Mirror Mysteries 2 - <span class=\"discount_original_price\">4,99\u20ac</span> 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 124
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -127,6 +129,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/291640/ss_4dee62c003999efc3a48ad65d0b7ee05dc5dd630.1920x1080.jpg?t=1447361095"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Apr, 2014"
@@ -135,5 +140,9 @@
     "url": "",
     "email": "support@strategyfirst.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/291640/page_bg_generated_v6b.jpg?t=1447361095"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/291640/page_bg_generated_v6b.jpg?t=1447361095",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

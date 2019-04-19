@@ -1,1 +1,167 @@
-{"type": "game", "name": "SubnetPing", "steam_appid": 1008160, "required_age": 0, "is_free": false, "detailed_description": "<strong>SubnetPing </strong> is a handy tool to get information about used IP-addresses in an IPv4 network.<br><br>You can scan entire /24 Subnets for used IPv4 Addresses in the Network.<br>Simply Scan from your local Interface Address of even scan a custom remote subnet.<br><br><strong>Features:</strong><br>collect information about an IPv4 Subnet...<br>- IPv4 Addresses in use<br>- MAC Addresses of online hosts<br>- Hostnames of online hosts<br>- SNMP device strings of SNMP devices<br>- Ping Times (in ms)<br>- Number of Hops (Router) on path to target IPv4 Address<br><br><strong>Restrictions:</strong><br>- IPv4-Address resolution only works if the host responds to Ping requests<br>- MAC-Address resolution only works in local Subnets<br>- Hostname resolution only works if your systems default DNS can resolve the host.<br>- SNMP resolution only works in local Subnets on SNMP devices<br>- Hop count only works if number of hops smaller than TTL", "about_the_game": "<strong>SubnetPing </strong> is a handy tool to get information about used IP-addresses in an IPv4 network.<br><br>You can scan entire /24 Subnets for used IPv4 Addresses in the Network.<br>Simply Scan from your local Interface Address of even scan a custom remote subnet.<br><br><strong>Features:</strong><br>collect information about an IPv4 Subnet...<br>- IPv4 Addresses in use<br>- MAC Addresses of online hosts<br>- Hostnames of online hosts<br>- SNMP device strings of SNMP devices<br>- Ping Times (in ms)<br>- Number of Hops (Router) on path to target IPv4 Address<br><br><strong>Restrictions:</strong><br>- IPv4-Address resolution only works if the host responds to Ping requests<br>- MAC-Address resolution only works in local Subnets<br>- Hostname resolution only works if your systems default DNS can resolve the host.<br>- SNMP resolution only works in local Subnets on SNMP devices<br>- Hop count only works if number of hops smaller than TTL", "short_description": "SubnetPing is a handy tool to get information about used IP-addresses in an IPv4 network.", "supported_languages": "English", "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/header.jpg?t=1546934390", "website": "https://subnetping.purepix.net", "pc_requirements": {"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>", "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"}, "mac_requirements": [], "linux_requirements": [], "developers": ["Dennis Sven Mittmann"], "publishers": ["Dennis Sven Mittmann"], "package_groups": [], "platforms": {"windows": true, "mac": false, "linux": false}, "genres": [{"id": "57", "description": "Utilities"}], "screenshots": [{"id": 0, "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_663dd00dacf1b6ec7160e67d28202ebad037a4e3.600x338.jpg?t=1546934390", "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_663dd00dacf1b6ec7160e67d28202ebad037a4e3.1920x1080.jpg?t=1546934390"}, {"id": 1, "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_9ef355be414bd2d57fd35db97f030050960f3b8d.600x338.jpg?t=1546934390", "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_9ef355be414bd2d57fd35db97f030050960f3b8d.1920x1080.jpg?t=1546934390"}, {"id": 2, "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_30a662817388a9abf41a0cd524f01489d598644b.600x338.jpg?t=1546934390", "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_30a662817388a9abf41a0cd524f01489d598644b.1920x1080.jpg?t=1546934390"}, {"id": 3, "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_ec5bd0d1fcdf8078b252b67879730e1fa0c34b94.600x338.jpg?t=1546934390", "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_ec5bd0d1fcdf8078b252b67879730e1fa0c34b94.1920x1080.jpg?t=1546934390"}, {"id": 4, "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_b5ca6133866420d45026ef6039a07f4b36473b07.600x338.jpg?t=1546934390", "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_b5ca6133866420d45026ef6039a07f4b36473b07.1920x1080.jpg?t=1546934390"}], "movies": [{"id": 256739483, "name": "SubnetPing", "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256739483/movie.293x165.jpg?t=1546899877", "webm": {"480": "http://steamcdn-a.akamaihd.net/steam/apps/256739483/movie480.webm?t=1546899877", "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739483/movie_max.webm?t=1546899877"}, "highlight": true}], "release_date": {"coming_soon": true, "date": "21 Jan, 2019"}, "support_info": {"url": "https://subnetping.purepix.net", "email": "subnetping@purepix.net"}, "background": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/page_bg_generated_v6b.jpg?t=1546934390", "content_descriptors": {"ids": [], "notes": null}}
+{
+  "type": "game",
+  "name": "SubnetPing",
+  "steam_appid": 1008160,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<strong>SubnetPing </strong> is a small but useful tool to determine information about used IPv4-addresses in an IPv4 network.<br><br><strong>Detect IP-Addresses</strong> (IPv4)<br>Scan an entire IPv4/24 (Class C) subnet by sending IMCP echo requests to all possible hosts in the selected subnet.<br>SubnetPing uses the default network interface the operating system and local routing table offers for this task.<br>It should be possible detect available hosts in remote subnets, behind routers, remote networks thru an VPN, or even public networks as long as the hosts respond to IMCP echo requests and the TTL is high enough so that the packet will no be dropped by any router in the path.<br><br><strong>Determine Ping</strong> (time in ms)<br>The Ping time is determined by sending an IMCP echo request to the target IPv4 and waiting for the IMCP echo reply. The Ping time is the locally measured time from sending the IMCP echo request to the target until the IMCP echo reply received. The IMCP echo reply has to be received within a give time-frame (timeout), or the Ping attempted will be considered as a timeout and the IMCP echo reply will be dropped.<br>\t<br><strong>Determine Hops</strong> (number of routers in the path)<br>There is no 100% accurate way to get this information. SubnetPing uses an approximation technique to guess the hop count based on some assumptions. This is because the router has do decrease the TTL by at least one, and most of routers do exactly that. The reply packets might have another base TTL than your request packet had. <br>The base TTL has starts at 256,128,64 or 32. Therefore it should be correct if the packet has less than 32 hops in total and every router in the path decreased it by only one.<br>\t<br><strong>Measure Packetloss</strong><br>Packetloss is calculated based on the attempts to ping an host with an IMCP echo request and the number of received echo reply responses within a given time-frame (timeout).<br>\t<br><strong>Resolve MAC-Addresses</strong><br>Determine the MAC-Addresses by sending ARP requests to all available hosts.<br>This works only on the local subnet of the Computer your scanning from. <br>It is not possible to resolve the MAC-Address of any device behind a router using ARP requests. <br><br><strong>Resolve Hostnames</strong><br>Determine the Hostnames by using the operating system's default DNS server of the default network interface that is selected thru the routing table for accessing hosts in subnet be be scanned. This works only on the local subnet of the Computer your scanning from, due to the lack of revers lookup DNS entries in an public DNS Server.<br><br><strong>Detect open Ports</strong><br>Scan available Hosts for common open TCP ports.<br><br><strong>*Early Access and BETA functionality.</strong><br>This functionalities are classified as BETA status due to issues in certain network environments. Unfortunately, it can not be guaranteed that this functionality works as intended. It is possible that this functionality does not yield any results.<br><br><strong>Detect SNMP devices (BETA)*</strong><br>Determine the device description using SNMPv1 and SNMPv2 requests via UDP port 161.<br>There are still some problems detecting SNMP devices.<br>Some devices respond only to SNMPv1 community = \u201cpublic\u201c, OID = \u201c1.3.6.1.2.1.1.1.0\u201c <br>As others only respond to SNMPv2 community = \u201cpublic\u201c, OID = \u201c1.3.6.1.2.1.1.1.0\u201c <br>In some devices SNMP is just disabled by default and unfortunately there are still some devices that will not respond to SNMPv1 or SNMPv2 community = \u201cpublic\u201c requests due to administration settings. <br>These devices will only respond to authenticated SNMPv3 requests.<br><br><strong>Detect IPv6-Addresses (Ipv6) (Early Access)*</strong><br>This is the same as Ipv4 detection but due to the gigantic address space of Ipv6 its not possible detect them using IMCP or to resolve the MAC address using ARP requests.<br>Fortunately it is possible to detect Ipv6 local link addresses and MAC-Addresses using the Neighbor Discovery Protocol (NDP).<br>This is an very early stage functionality and has some restrictions:<br>  - Ping should work fine.<br>  - Hops will always be  \u201c0\u201d due to detection method restrictions.<br>  - Packetloss should work fine.<br>  - MAC-Addresses should work fine.<br>  - Hostnames should work fine.<br>  - Ports should work fine.",
+  "about_the_game": "<strong>SubnetPing </strong> is a small but useful tool to determine information about used IPv4-addresses in an IPv4 network.<br><br><strong>Detect IP-Addresses</strong> (IPv4)<br>Scan an entire IPv4/24 (Class C) subnet by sending IMCP echo requests to all possible hosts in the selected subnet.<br>SubnetPing uses the default network interface the operating system and local routing table offers for this task.<br>It should be possible detect available hosts in remote subnets, behind routers, remote networks thru an VPN, or even public networks as long as the hosts respond to IMCP echo requests and the TTL is high enough so that the packet will no be dropped by any router in the path.<br><br><strong>Determine Ping</strong> (time in ms)<br>The Ping time is determined by sending an IMCP echo request to the target IPv4 and waiting for the IMCP echo reply. The Ping time is the locally measured time from sending the IMCP echo request to the target until the IMCP echo reply received. The IMCP echo reply has to be received within a give time-frame (timeout), or the Ping attempted will be considered as a timeout and the IMCP echo reply will be dropped.<br>\t<br><strong>Determine Hops</strong> (number of routers in the path)<br>There is no 100% accurate way to get this information. SubnetPing uses an approximation technique to guess the hop count based on some assumptions. This is because the router has do decrease the TTL by at least one, and most of routers do exactly that. The reply packets might have another base TTL than your request packet had. <br>The base TTL has starts at 256,128,64 or 32. Therefore it should be correct if the packet has less than 32 hops in total and every router in the path decreased it by only one.<br>\t<br><strong>Measure Packetloss</strong><br>Packetloss is calculated based on the attempts to ping an host with an IMCP echo request and the number of received echo reply responses within a given time-frame (timeout).<br>\t<br><strong>Resolve MAC-Addresses</strong><br>Determine the MAC-Addresses by sending ARP requests to all available hosts.<br>This works only on the local subnet of the Computer your scanning from. <br>It is not possible to resolve the MAC-Address of any device behind a router using ARP requests. <br><br><strong>Resolve Hostnames</strong><br>Determine the Hostnames by using the operating system's default DNS server of the default network interface that is selected thru the routing table for accessing hosts in subnet be be scanned. This works only on the local subnet of the Computer your scanning from, due to the lack of revers lookup DNS entries in an public DNS Server.<br><br><strong>Detect open Ports</strong><br>Scan available Hosts for common open TCP ports.<br><br><strong>*Early Access and BETA functionality.</strong><br>This functionalities are classified as BETA status due to issues in certain network environments. Unfortunately, it can not be guaranteed that this functionality works as intended. It is possible that this functionality does not yield any results.<br><br><strong>Detect SNMP devices (BETA)*</strong><br>Determine the device description using SNMPv1 and SNMPv2 requests via UDP port 161.<br>There are still some problems detecting SNMP devices.<br>Some devices respond only to SNMPv1 community = \u201cpublic\u201c, OID = \u201c1.3.6.1.2.1.1.1.0\u201c <br>As others only respond to SNMPv2 community = \u201cpublic\u201c, OID = \u201c1.3.6.1.2.1.1.1.0\u201c <br>In some devices SNMP is just disabled by default and unfortunately there are still some devices that will not respond to SNMPv1 or SNMPv2 community = \u201cpublic\u201c requests due to administration settings. <br>These devices will only respond to authenticated SNMPv3 requests.<br><br><strong>Detect IPv6-Addresses (Ipv6) (Early Access)*</strong><br>This is the same as Ipv4 detection but due to the gigantic address space of Ipv6 its not possible detect them using IMCP or to resolve the MAC address using ARP requests.<br>Fortunately it is possible to detect Ipv6 local link addresses and MAC-Addresses using the Neighbor Discovery Protocol (NDP).<br>This is an very early stage functionality and has some restrictions:<br>  - Ping should work fine.<br>  - Hops will always be  \u201c0\u201d due to detection method restrictions.<br>  - Packetloss should work fine.<br>  - MAC-Addresses should work fine.<br>  - Hostnames should work fine.<br>  - Ports should work fine.",
+  "short_description": "SubnetPing is a handy tool to get information about used IP-addresses in an IPv4 network.",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/header.jpg?t=1550234129",
+  "website": "https://subnetping.purepix.net",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "Dennis Sven Mittmann"
+  ],
+  "publishers": [
+    "Dennis Sven Mittmann"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
+  },
+  "packages": [
+    333525,
+    354585
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy SubnetPing",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 333525,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "SubnetPing - 3,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 399
+        }
+      ]
+    },
+    {
+      "name": "subscriptions",
+      "title": "Buy SubnetPing Subscription Plan",
+      "description": "To be billed on a recurring basis.",
+      "selection_text": "Select a subscription plan",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "true",
+      "subs": [
+        {
+          "packageid": 354585,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "1 Month(s) @ 0,79\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">11,59\u20ac at checkout, auto-renewed every 1 month(s) at 0,79\u20ac.</p>",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 1159
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "genres": [
+    {
+      "id": "57",
+      "description": "Utilities"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_f595088162cbad546eb1c3c27a250e0976ee0c43.600x338.jpg?t=1550234129",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_f595088162cbad546eb1c3c27a250e0976ee0c43.1920x1080.jpg?t=1550234129"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_20e2d8461d5e4548fda0f1df64cb83f78e6834db.600x338.jpg?t=1550234129",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_20e2d8461d5e4548fda0f1df64cb83f78e6834db.1920x1080.jpg?t=1550234129"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_2334974b36d9a2ff5fb7d462c7bcb0f4f0ef7e68.600x338.jpg?t=1550234129",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_2334974b36d9a2ff5fb7d462c7bcb0f4f0ef7e68.1920x1080.jpg?t=1550234129"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_09bc979d127ee008c31731b1bf3062f7314ac996.600x338.jpg?t=1550234129",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_09bc979d127ee008c31731b1bf3062f7314ac996.1920x1080.jpg?t=1550234129"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_5192a60f34b92cc70ba6c0b16ab4fa741a6a87ea.600x338.jpg?t=1550234129",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_5192a60f34b92cc70ba6c0b16ab4fa741a6a87ea.1920x1080.jpg?t=1550234129"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_0e520fa8c779f2396c666651b451b01590f9d8d1.600x338.jpg?t=1550234129",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_0e520fa8c779f2396c666651b451b01590f9d8d1.1920x1080.jpg?t=1550234129"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_16ab430496a8a7a81edbf96eac52a5811828498f.600x338.jpg?t=1550234129",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_16ab430496a8a7a81edbf96eac52a5811828498f.1920x1080.jpg?t=1550234129"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_f56f24360fa04e7b261f1f6177fdb061e2a740b4.600x338.jpg?t=1550234129",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_f56f24360fa04e7b261f1f6177fdb061e2a740b4.1920x1080.jpg?t=1550234129"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_fef6d9d1725d63cfad6253e89b03230bfd430b73.600x338.jpg?t=1550234129",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/ss_fef6d9d1725d63cfad6253e89b03230bfd430b73.1920x1080.jpg?t=1550234129"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256739483,
+      "name": "SubnetPing",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256739483/movie.293x165.jpg?t=1546899877",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256739483/movie480.webm?t=1546899877",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256739483/movie_max.webm?t=1546899877"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "13 Feb, 2019"
+  },
+  "support_info": {
+    "url": "https://subnetping.purepix.net",
+    "email": "subnetping@purepix.net"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1008160/page_bg_generated_v6b.jpg?t=1550234129",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

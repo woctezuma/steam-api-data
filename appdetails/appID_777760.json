@@ -7,7 +7,7 @@
   "detailed_description": "Charlie II is an old school 2D side-scrolling platform game. Run through levels, collect coins, diamonds and other power ups. Jump on top of enemies to defeat them. Dive into the water to find hidden areas!<br><br>This is an updated version of the original game from 2001 to make it work on modern computers.<br><br>In this game, you must collect enough coins and diamonds before you may exit a level. Depending on the chosen difficulty, the required percentage is 45%, 60% or 75% (easy, normal, hard). Once you have collected the required amount, you will see the message &quot;Find the exit!&quot;. <br><br>There are also 7 letters (C, H, A, R, L, I, E) that you can collect in each level. Collecting them is not required for 100%, but they may help you find areas you haven't explored yet, since the letters are generally layed out from left to right.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/777760/extras/select_small.png?t=1519062048\" ><br><br>At first, you can only play through the entire game without going back to a previous level. Some levels (indicated with a '?') are hidden, to play them, you must find the secret exit in the previous level. After you have completed the game, you will be able to select any level to play so you can find all the hidden items and secret areas to increase your score for each level until you get 100% everywhere.<br><br>The game can run using either OpenGL or DirectX (Options, Video, Graphics). If the game doesn't run smoothly, try adjusting this. Note that the Steam overlay may not work for DirectX, if you need that, choose OpenGL.<br><br>The default keys are:<br><br>[Left] and [Right]: walk<br>[Ctrl]: walk faster<br>[Space]: jump<br>[Down]: in some places Charlie can dive into the water<br><br>[Ctrl+P]: pause game<br>[Alt+Enter]: swich between full screen and windowed mode",
   "about_the_game": "Charlie II is an old school 2D side-scrolling platform game. Run through levels, collect coins, diamonds and other power ups. Jump on top of enemies to defeat them. Dive into the water to find hidden areas!<br><br>This is an updated version of the original game from 2001 to make it work on modern computers.<br><br>In this game, you must collect enough coins and diamonds before you may exit a level. Depending on the chosen difficulty, the required percentage is 45%, 60% or 75% (easy, normal, hard). Once you have collected the required amount, you will see the message &quot;Find the exit!&quot;. <br><br>There are also 7 letters (C, H, A, R, L, I, E) that you can collect in each level. Collecting them is not required for 100%, but they may help you find areas you haven't explored yet, since the letters are generally layed out from left to right.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/777760/extras/select_small.png?t=1519062048\" ><br><br>At first, you can only play through the entire game without going back to a previous level. Some levels (indicated with a '?') are hidden, to play them, you must find the secret exit in the previous level. After you have completed the game, you will be able to select any level to play so you can find all the hidden items and secret areas to increase your score for each level until you get 100% everywhere.<br><br>The game can run using either OpenGL or DirectX (Options, Video, Graphics). If the game doesn't run smoothly, try adjusting this. Note that the Steam overlay may not work for DirectX, if you need that, choose OpenGL.<br><br>The default keys are:<br><br>[Left] and [Right]: walk<br>[Ctrl]: walk faster<br>[Space]: jump<br>[Down]: in some places Charlie can dive into the water<br><br>[Ctrl+P]: pause game<br>[Alt+Enter]: swich between full screen and windowed mode",
   "short_description": "Charlie II is a classic side-scrolling platform game. Run through levels, collect coins, diamonds and other power ups. Jump on top of enemies to defeat them. Dive into the water to find hidden areas!",
-  "supported_languages": "English, French, Italian, German, Spanish, Dutch",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/777760/header.jpg?t=1519062048",
   "website": null,
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     233855
@@ -196,7 +198,7 @@
     }
   ],
   "achievements": {
-    "total": 32,
+    "total": 62,
     "highlighted": [
       {
         "name": "Level 0-1 100%",
@@ -248,5 +250,9 @@
     "url": "",
     "email": "info@wieringsoftware.nl"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/777760/page_bg_generated_v6b.jpg?t=1519062048"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/777760/page_bg_generated_v6b.jpg?t=1519062048",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

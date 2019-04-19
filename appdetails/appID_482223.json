@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Includes the costume items 'Pale Pink Gullwings' and 'Pale Pink Visor.'",
   "about_the_game": "Includes the costume items 'Pale Pink Gullwings' and 'Pale Pink Visor.'",
-  "short_description": "Includes the costume items 'Pale Pink Gullwings' and 'Pale Pink Visor.'",
+  "short_description": "Includes the costume items 'Pale Pink Gullwings' and 'Pale Pink Visor.",
   "fullgame": {
     "appid": "446390",
     "name": "Onechanbara Z2: Chaos"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     108102
@@ -114,6 +116,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/482223/ss_b7ab2919d485c6e6aa12c6635b01f08decc4f7ec.1920x1080.jpg?t=1467769590"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jul, 2016"
@@ -122,5 +127,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/482223/page_bg_generated_v6b.jpg?t=1467769590"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/482223/page_bg_generated_v6b.jpg?t=1467769590",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

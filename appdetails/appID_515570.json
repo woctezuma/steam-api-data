@@ -12,13 +12,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/515570/header.jpg?t=1496615955",
   "website": "http://www.ubermosh.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 2.6Ghz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB<br></li><li><strong>Storage:</strong> 450 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 3.0Ghz</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Windows XP<br></li><li><strong>Prozessor:</strong> 2.6Ghz+<br></li><li><strong>Arbeitsspeicher:</strong> 4 GB RAM<br></li><li><strong>Grafik:</strong> 1GB<br></li><li><strong>Speicherplatz:</strong> 450 MB verf\u00fcgbarer Speicherplatz</li></ul>",
+    "recommended": "<strong>Empfohlen:</strong><br><ul class=\"bb_ul\"><li><strong>Prozessor:</strong> 3.0Ghz</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 LTS or compatible<br></li><li><strong>Processor:</strong> 2.6Ghz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB<br></li><li><strong>Storage:</strong> 450 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Graphics:</strong> 3.0Ghz</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Ubuntu 14.04 LTS or compatible<br></li><li><strong>Prozessor:</strong> 2.6Ghz+<br></li><li><strong>Arbeitsspeicher:</strong> 4 GB RAM<br></li><li><strong>Grafik:</strong> 1GB<br></li><li><strong>Speicherplatz:</strong> 450 MB verf\u00fcgbarer Speicherplatz</li></ul>",
+    "recommended": "<strong>Empfohlen:</strong><br><ul class=\"bb_ul\"><li><strong>Grafik:</strong> 3.0Ghz</li></ul>"
   },
   "developers": [
     "Walter Machado"
@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 79,
-    "discount_percent": 90
+    "initial": 99,
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     120408,
@@ -69,13 +71,13 @@
         },
         {
           "packageid": 95016,
-          "percent_savings_text": "-90%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "UBERMOSH Collection - <span class=\"discount_original_price\">7,99\u20ac</span> 0,79\u20ac",
+          "option_text": "UBERMOSH Collection - 14,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 79
+          "price_in_cents_with_discount": 1499
         }
       ]
     }
@@ -149,7 +151,7 @@
     }
   ],
   "recommendations": {
-    "total": 150
+    "total": 160
   },
   "achievements": {
     "total": 13,
@@ -204,5 +206,9 @@
     "url": "https://www.facebook.com/ubermosh",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/515570/page_bg_generated_v6b.jpg?t=1496615955"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/515570/page_bg_generated_v6b.jpg?t=1496615955",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     12587,
@@ -135,6 +137,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/57695/ss_5368c977317a8577f1fecf911ccd3db7efc461ae.1920x1080.jpg?t=1447355137"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Dec, 2011"
@@ -143,5 +148,9 @@
     "url": "",
     "email": "support@kalypsomedia.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/57695/page_bg_generated_v6b.jpg?t=1447355137"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/57695/page_bg_generated_v6b.jpg?t=1447355137",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

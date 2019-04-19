@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "",
   "about_the_game": "",
-  "short_description": "Summoned to Jury Duty for the first time in his life, Dan's initial instinct is to sabotage the system and get out of serving as quickly as possible.  But when he learns the details of the trial and sympathizes with the defendant's actions, he quickly changes his tune.",
+  "short_description": "Summoned to Jury Duty for the first time in his life, Dan's initial instinct is to sabotage the system and get out of serving as quickly as possible. But when he learns the details of the trial and sympathizes with the defendant's actions, he quickly changes his tune.",
   "fullgame": {
     "appid": "621580",
     "name": "Dan Vs."
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 249,
     "final": 249,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     169875
@@ -72,6 +74,9 @@
       "description": "Captions available"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Dec, 2017"
@@ -80,5 +85,9 @@
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

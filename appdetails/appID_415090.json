@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     83458
@@ -222,5 +224,9 @@
     "url": "",
     "email": "boxelgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/415090/page_bg_generated_v6b.jpg?t=1520359620"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/415090/page_bg_generated_v6b.jpg?t=1520359620",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

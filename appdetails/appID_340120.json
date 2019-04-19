@@ -7,7 +7,7 @@
   "detailed_description": "In this hunting game, not everything is about shooting. Crazy Chickens are tricky! Try to find all the secret puzzles to maximize your score! <br><br>Features: <br><br><ul class=\"bb_ul\"><li>  A lot of game to shoot!<br></li><li>  Easy to pick up, difficult to master! <br></li><li>  Find the second level! <br></li><li>  Unlock the mighty Skycleaner weapon. Then use the mailbox to send some chicken!<br></li><li>  Easy Mouse or Touchpad Control </li></ul>",
   "about_the_game": "In this hunting game, not everything is about shooting. Crazy Chickens are tricky! Try to find all the secret puzzles to maximize your score! <br><br>Features: <br><br><ul class=\"bb_ul\"><li>  A lot of game to shoot!<br></li><li>  Easy to pick up, difficult to master! <br></li><li>  Find the second level! <br></li><li>  Unlock the mighty Skycleaner weapon. Then use the mailbox to send some chicken!<br></li><li>  Easy Mouse or Touchpad Control </li></ul>",
   "short_description": "In this hunting game, not everything is about shooting. Crazy Chickens are tricky! Try to find all the secret puzzles to maximize your score!",
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/340120/header.jpg?t=1447366516",
   "website": "http://www.retroism.com",
   "pc_requirements": {
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "final": 99,
+    "discount_percent": 50,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     57037
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 57037,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Crazy Chicken - 1,99\u20ac",
+          "option_text": "Crazy Chicken - <span class=\"discount_original_price\">1,99\u20ac</span> 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -124,7 +126,10 @@
     }
   ],
   "recommendations": {
-    "total": 222
+    "total": 170
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -134,5 +139,9 @@
     "url": "",
     "email": "info@doyodo.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340120/page_bg_generated_v6b.jpg?t=1447366516"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340120/page_bg_generated_v6b.jpg?t=1447366516",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

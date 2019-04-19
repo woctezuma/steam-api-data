@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 899,
-    "final": 899,
-    "discount_percent": 0
+    "initial": 659,
+    "final": 659,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,59\u20ac"
   },
   "packages": [
     223426
@@ -53,11 +55,11 @@
           "packageid": 223426,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: Laaers Car Transporter - 8,99\u20ac",
+          "option_text": "TANE DLC: Laaers Car Transporter - 6,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 899
+          "price_in_cents_with_discount": 659
         }
       ]
     }
@@ -190,6 +192,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Feb, 2016"
@@ -198,5 +203,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438390/page_bg_generated_v6b.jpg?t=1455685678"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438390/page_bg_generated_v6b.jpg?t=1455685678",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

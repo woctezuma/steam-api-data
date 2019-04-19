@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>For a select group of young men, video gaming isn\u2019t just a hobby - it\u2019s a job.  To be a professional gamer, you need a competitive drive, tactical skill, and creativity.  With increasingly larger prizes and six figure player salaries, esports is on the rise as a career.  Good Game follows a new kind of athlete, the Starcraft 2 division of team Evil Geniuses, as they compete around the world to take the top prizes in the biggest tournaments.  But between injuries, exhaustion, and egos, those who start at the top might not stay there for long.  New superstars are waiting to take the spotlight, and wanting to succeed sometimes just isn\u2019t enough.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>For a select group of young men, video gaming isn\u2019t just a hobby - it\u2019s a job.  To be a professional gamer, you need a competitive drive, tactical skill, and creativity.  With increasingly larger prizes and six figure player salaries, esports is on the rise as a career.  Good Game follows a new kind of athlete, the Starcraft 2 division of team Evil Geniuses, as they compete around the world to take the top prizes in the biggest tournaments.  But between injuries, exhaustion, and egos, those who start at the top might not stay there for long.  New superstars are waiting to take the spotlight, and wanting to succeed sometimes just isn\u2019t enough.",
   "about_the_game": "For a select group of young men, video gaming isn\u2019t just a hobby - it\u2019s a job.  To be a professional gamer, you need a competitive drive, tactical skill, and creativity.  With increasingly larger prizes and six figure player salaries, esports is on the rise as a career.  Good Game follows a new kind of athlete, the Starcraft 2 division of team Evil Geniuses, as they compete around the world to take the top prizes in the biggest tournaments.  But between injuries, exhaustion, and egos, those who start at the top might not stay there for long.  New superstars are waiting to take the spotlight, and wanting to succeed sometimes just isn\u2019t enough.",
   "short_description": "Good Game follows the members of the Evil Geniuses Starcraft 2 team as they discover that one wrong move could end their dreams.",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     82650,
@@ -145,6 +147,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Jul, 2015"
@@ -153,5 +158,9 @@
     "url": "",
     "email": "films@devolverdigital.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/382620/page_bg_generated_v6b.jpg?t=1478200321"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/382620/page_bg_generated_v6b.jpg?t=1478200321",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

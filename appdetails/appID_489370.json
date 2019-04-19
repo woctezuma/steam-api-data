@@ -4,11 +4,11 @@
   "steam_appid": 489370,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/489370/extras/STEAM_GRAPHIC_EN.jpg?t=1495657358\" >",
-  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/489370/extras/STEAM_GRAPHIC_EN.jpg?t=1495657358\" >",
-  "short_description": "Now out of Early Access! Quarantine is an intense turn-based strategy game about waging war on pandemic disease. Recruit a team of specialized operatives to deploy on worldwide missions. Research the contagion, upgrade your tech, and quarantine the outbreak before it kills us all.",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Korean, Portuguese-Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/489370/header.jpg?t=1495657358",
+  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/489370/extras/STEAM_GRAPHIC_EN.jpg?t=1541711098\" >",
+  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/489370/extras/STEAM_GRAPHIC_EN.jpg?t=1541711098\" >",
+  "short_description": "Quarantine is an intense turn-based strategy game about waging war on pandemic disease. Recruit a team of specialized operatives to deploy on worldwide missions. Research the contagion, upgrade your tech, and quarantine the outbreak before it kills us all.",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Korean, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/489370/header.jpg?t=1541711098",
   "website": "http://www.505games.com/games/quarantine",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or newer, 32-bit<br></li><li><strong>Processor:</strong> i3-2125<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 2 GB VRAM<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 499,
+    "discount_percent": 50,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     179319
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 179319,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Quarantine - 9,99\u20ac",
+          "option_text": "Quarantine - <span class=\"discount_original_price\">9,99\u20ac</span> 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -91,108 +93,108 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_296e0e89d600a2722db1cc611d8b3ee7c14998f8.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_296e0e89d600a2722db1cc611d8b3ee7c14998f8.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_296e0e89d600a2722db1cc611d8b3ee7c14998f8.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_296e0e89d600a2722db1cc611d8b3ee7c14998f8.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_32872e1b8e89cf3d7cfe894eb4505e0d2ce8c927.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_32872e1b8e89cf3d7cfe894eb4505e0d2ce8c927.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_32872e1b8e89cf3d7cfe894eb4505e0d2ce8c927.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_32872e1b8e89cf3d7cfe894eb4505e0d2ce8c927.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_aa029bbc6be62b2c34c647f3bdbd73fae620fe05.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_aa029bbc6be62b2c34c647f3bdbd73fae620fe05.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_aa029bbc6be62b2c34c647f3bdbd73fae620fe05.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_aa029bbc6be62b2c34c647f3bdbd73fae620fe05.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_9d12a1ba65624516c995d481f98f829711ee241b.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_9d12a1ba65624516c995d481f98f829711ee241b.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_9d12a1ba65624516c995d481f98f829711ee241b.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_9d12a1ba65624516c995d481f98f829711ee241b.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_32c1972d179b908e94f48c322bb580a18a2607e5.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_32c1972d179b908e94f48c322bb580a18a2607e5.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_32c1972d179b908e94f48c322bb580a18a2607e5.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_32c1972d179b908e94f48c322bb580a18a2607e5.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_b4172e7f0958f24a0d219f053defd1a873e9f279.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_b4172e7f0958f24a0d219f053defd1a873e9f279.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_b4172e7f0958f24a0d219f053defd1a873e9f279.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_b4172e7f0958f24a0d219f053defd1a873e9f279.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_22dd0fc0841dfc6f5c2489a59750ff762934a952.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_22dd0fc0841dfc6f5c2489a59750ff762934a952.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_22dd0fc0841dfc6f5c2489a59750ff762934a952.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_22dd0fc0841dfc6f5c2489a59750ff762934a952.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_e67b7a55267b10bf1a4664a0b62deda3fddacc06.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_e67b7a55267b10bf1a4664a0b62deda3fddacc06.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_e67b7a55267b10bf1a4664a0b62deda3fddacc06.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_e67b7a55267b10bf1a4664a0b62deda3fddacc06.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_4840d2cf05cc66c500fa7c4b9011893ed450d581.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_4840d2cf05cc66c500fa7c4b9011893ed450d581.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_4840d2cf05cc66c500fa7c4b9011893ed450d581.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_4840d2cf05cc66c500fa7c4b9011893ed450d581.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 9,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_10486e43fa24feeee69a972677c15e11fba01a9d.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_10486e43fa24feeee69a972677c15e11fba01a9d.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_10486e43fa24feeee69a972677c15e11fba01a9d.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_10486e43fa24feeee69a972677c15e11fba01a9d.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 10,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_0d66ebe7dcc189498a6d47218f97f83d895e5558.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_0d66ebe7dcc189498a6d47218f97f83d895e5558.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_0d66ebe7dcc189498a6d47218f97f83d895e5558.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_0d66ebe7dcc189498a6d47218f97f83d895e5558.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 11,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_167bfb6c6bb9df31b064923ebc8baad5bda26d94.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_167bfb6c6bb9df31b064923ebc8baad5bda26d94.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_167bfb6c6bb9df31b064923ebc8baad5bda26d94.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_167bfb6c6bb9df31b064923ebc8baad5bda26d94.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 12,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_3c4bad37ea6e544dcd332ca27c68c99c0991a157.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_3c4bad37ea6e544dcd332ca27c68c99c0991a157.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_3c4bad37ea6e544dcd332ca27c68c99c0991a157.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_3c4bad37ea6e544dcd332ca27c68c99c0991a157.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 13,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_5fdd2d1d636a7c19b7daa13a10b00a6dec612f45.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_5fdd2d1d636a7c19b7daa13a10b00a6dec612f45.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_5fdd2d1d636a7c19b7daa13a10b00a6dec612f45.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_5fdd2d1d636a7c19b7daa13a10b00a6dec612f45.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 14,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_a27183e6b827b45c272279c6a6b71ba8420d7235.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_a27183e6b827b45c272279c6a6b71ba8420d7235.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_a27183e6b827b45c272279c6a6b71ba8420d7235.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_a27183e6b827b45c272279c6a6b71ba8420d7235.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 15,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_38579c91f14699e300e55b94c1a924101f3a496d.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_38579c91f14699e300e55b94c1a924101f3a496d.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_38579c91f14699e300e55b94c1a924101f3a496d.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_38579c91f14699e300e55b94c1a924101f3a496d.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 16,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_93010745d647b50c7c19a23309e9b2bb391b9d8f.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_93010745d647b50c7c19a23309e9b2bb391b9d8f.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_93010745d647b50c7c19a23309e9b2bb391b9d8f.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_93010745d647b50c7c19a23309e9b2bb391b9d8f.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 17,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_70a000d11b022f726df01af2c2e17c5e480bd61d.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_70a000d11b022f726df01af2c2e17c5e480bd61d.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_70a000d11b022f726df01af2c2e17c5e480bd61d.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_70a000d11b022f726df01af2c2e17c5e480bd61d.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 18,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_798e2c12ab2bdccdf2c59da2d67062f39b322b70.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_798e2c12ab2bdccdf2c59da2d67062f39b322b70.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_798e2c12ab2bdccdf2c59da2d67062f39b322b70.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_798e2c12ab2bdccdf2c59da2d67062f39b322b70.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 19,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_a93bb717b1020fe641ae0221cb9358bdca2f117a.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_a93bb717b1020fe641ae0221cb9358bdca2f117a.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_a93bb717b1020fe641ae0221cb9358bdca2f117a.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_a93bb717b1020fe641ae0221cb9358bdca2f117a.1920x1080.jpg?t=1541711098"
     },
     {
       "id": 20,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_f50061307245cc4c598f8a768527181483823d40.600x338.jpg?t=1495657358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_f50061307245cc4c598f8a768527181483823d40.1920x1080.jpg?t=1495657358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_f50061307245cc4c598f8a768527181483823d40.600x338.jpg?t=1541711098",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489370/ss_f50061307245cc4c598f8a768527181483823d40.1920x1080.jpg?t=1541711098"
     }
   ],
   "movies": [
@@ -228,7 +230,7 @@
     }
   ],
   "recommendations": {
-    "total": 251
+    "total": 245
   },
   "achievements": {
     "total": 22,
@@ -283,5 +285,9 @@
     "url": "",
     "email": "support@505games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/489370/page_bg_generated_v6b.jpg?t=1495657358"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/489370/page_bg_generated_v6b.jpg?t=1541711098",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

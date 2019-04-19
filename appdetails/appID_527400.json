@@ -16,8 +16,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/527400/header.jpg?t=1478020377",
   "website": "http://pehesse.fr/honey/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 64 bit<br></li><li><strong>Memory:</strong> 4 GB RAM</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 64 bit<br></li><li><strong>Memory:</strong> 8 GB RAM</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 64 bit<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 4 GB de m\u00e9moire</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 64 bit<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 8 GB de m\u00e9moire</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     126402
@@ -139,5 +141,9 @@
     "url": "",
     "email": "honeyUFE@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/527400/page_bg_generated_v6b.jpg?t=1478020377"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/527400/page_bg_generated_v6b.jpg?t=1478020377",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

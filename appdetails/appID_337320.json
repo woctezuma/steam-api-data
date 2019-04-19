@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 1249,
+    "final": 1249,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,49\u20ac"
   },
   "packages": [
     56033
@@ -50,11 +52,11 @@
           "packageid": 56033,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Paint the Town Red - 14,99\u20ac",
+          "option_text": "Paint the Town Red - 12,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 1249
         }
       ]
     }
@@ -260,7 +262,7 @@
     }
   ],
   "recommendations": {
-    "total": 4631
+    "total": 4852
   },
   "achievements": {
     "total": 0
@@ -273,5 +275,9 @@
     "url": "http://southeastgames.com/support",
     "email": "support@southeastgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/337320/page_bg_generated_v6b.jpg?t=1485832592"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/337320/page_bg_generated_v6b.jpg?t=1485832592",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

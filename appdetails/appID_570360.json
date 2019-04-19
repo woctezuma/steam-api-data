@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "<h2 class=\"bb_tag\">Galaxy Bricks</h2><br>Have you heard about this trick?<br>It's time to decorate your brick.<br><br>This adds the following bricks:<br><ul class=\"bb_ul\"><li>Galaxy Bricks</li></ul>",
   "about_the_game": "<h2 class=\"bb_tag\">Galaxy Bricks</h2><br>Have you heard about this trick?<br>It's time to decorate your brick.<br><br>This adds the following bricks:<br><ul class=\"bb_ul\"><li>Galaxy Bricks</li></ul>",
-  "short_description": "Have you heard about this trick?<br />\r\nIt's time to decorate your brick.",
+  "short_description": "Have you heard about this trick? It's time to decorate your brick.",
   "fullgame": {
     "appid": "437920",
     "name": "Tricky Towers"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Japanese, Russian, Portuguese, Dutch, Simplified Chinese, Arabic, Finnish, Korean, Norwegian, Polish, Portuguese-Brazil, Swedish, Turkish",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Russian, Portuguese, Dutch, Simplified Chinese, Arabic, Finnish, Korean, Norwegian, Polish, Portuguese - Brazil, Swedish, Turkish",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/570360/header.jpg?t=1486637840",
   "website": "http://www.trickytowers.com",
   "pc_requirements": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     144577
@@ -126,6 +128,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/570360/ss_1d99f175b7523a9cc7547eaa50d8acb0fedc17e4.1920x1080.jpg?t=1486637840"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Jan, 2017"
@@ -134,5 +139,9 @@
     "url": "http://www.trickytowers.com",
     "email": "info@trickytowers.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/570360/page_bg_generated_v6b.jpg?t=1486637840"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/570360/page_bg_generated_v6b.jpg?t=1486637840",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

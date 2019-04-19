@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     46882,
@@ -174,7 +176,7 @@
     }
   ],
   "recommendations": {
-    "total": 400
+    "total": 228
   },
   "achievements": {
     "total": 19,
@@ -229,5 +231,9 @@
     "url": "http://www.freeholdgames.com",
     "email": "support@freeholgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/311720/page_bg_generated_v6b.jpg?t=1488658574"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/311720/page_bg_generated_v6b.jpg?t=1488658574",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

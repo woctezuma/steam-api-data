@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Add some lofty architecture to spice up your town with this DLC. Lofty Landmarks offers four new buildings: the formidable Cologne Cathedral, the famous Westminster Palace featuring the Elizabeth Tower and it's Big Ben bell, the renowned German Brandenburg Gate, and the 30 St. Mary Axe, commonly known as the Gherkin of London.<br><br><ul class=\"bb_ul\"><li>Big Ben / Westminster palace: Elizabeth Tower houses the huge bell nicknamed the Big Ben. It's a part of the Westminster palace, and a sure place to attract lots of citizens on sunny days.<br></li><li>30 St. Mary Axe: Sleek, modern and gherkin-like, this landmark will be one of the busiest places in any town. Building a line to it will always bring you profit!<br></li><li>Cologne Cathedral: The gothic elegance of the Cologne Cathedral is unsurpassed. Place this landmark in your city to make sure the masses flock to it.<br></li><li>Branderburg Gate: One of the most famous landmarks in Germany, the Brandenburg gate, is a very popular destination in any city. Place it to have lots of people moving around!</li></ul>",
   "about_the_game": "Add some lofty architecture to spice up your town with this DLC. Lofty Landmarks offers four new buildings: the formidable Cologne Cathedral, the famous Westminster Palace featuring the Elizabeth Tower and it's Big Ben bell, the renowned German Brandenburg Gate, and the 30 St. Mary Axe, commonly known as the Gherkin of London.<br><br><ul class=\"bb_ul\"><li>Big Ben / Westminster palace: Elizabeth Tower houses the huge bell nicknamed the Big Ben. It's a part of the Westminster palace, and a sure place to attract lots of citizens on sunny days.<br></li><li>30 St. Mary Axe: Sleek, modern and gherkin-like, this landmark will be one of the busiest places in any town. Building a line to it will always bring you profit!<br></li><li>Cologne Cathedral: The gothic elegance of the Cologne Cathedral is unsurpassed. Place this landmark in your city to make sure the masses flock to it.<br></li><li>Branderburg Gate: One of the most famous landmarks in Germany, the Brandenburg gate, is a very popular destination in any city. Place it to have lots of people moving around!</li></ul>",
-  "short_description": "",
+  "short_description": "Add some lofty architecture to spice up your town with this DLC. Lofty Landmarks offers four new buildings: the formidable Cologne Cathedral, the famous Westminster Palace featuring the Elizabeth Tower and it's Big Ben bell, the renowned German Brandenburg Gate, and the 30 St. Mary Axe, commonly known as the Gherkin of London.",
   "fullgame": {
     "appid": "225420",
     "name": "Cities in Motion 2"
@@ -37,12 +37,12 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
-    30305,
-    35268,
-    35269
+    30305
   ],
   "package_groups": [
     {
@@ -63,26 +63,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 299
-        },
-        {
-          "packageid": 35268,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Cities in Motion 2 Collection - 36,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 3699
-        },
-        {
-          "packageid": 35269,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Cities in Motion 1 and 2 Collection - 84,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 8499
         }
       ]
     }
@@ -189,6 +169,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/225430/ss_90038cffb2bdb3449c05f93b999d4f34c8ba5b85.1920x1080.jpg?t=1447358413"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Aug, 2013"
@@ -197,5 +180,9 @@
     "url": "www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/225430/page_bg_generated_v6b.jpg?t=1447358413"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/225430/page_bg_generated_v6b.jpg?t=1447358413",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

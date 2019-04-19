@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Character Skins</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/562790/extras/BR_image.jpg?t=1495847511\" ><br>Tired of the same old box face?<br>Then it's time for a makeover.<br>This DLC contains the following 6 Box Maze player skins used to change the appearance of your character in game.<br><br>1. Caitlyn<br>2. Sandy<br>3. Alex<br>4. Jessica<br>5. Tom<br>6. Daryl",
   "about_the_game": "<strong>Character Skins</strong><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/562790/extras/BR_image.jpg?t=1495847511\" ><br>Tired of the same old box face?<br>Then it's time for a makeover.<br>This DLC contains the following 6 Box Maze player skins used to change the appearance of your character in game.<br><br>1. Caitlyn<br>2. Sandy<br>3. Alex<br>4. Jessica<br>5. Tom<br>6. Daryl",
-  "short_description": "Tired of the same old box face?<br />\r\nThen it's time for a makeover.<br />\r\nThis DLC contains Box Maze player skins used to change the appearance of your character in game.",
+  "short_description": "Tired of the same old box face? Then it's time for a makeover. This DLC contains Box Maze player skins used to change the appearance of your character in game.",
   "fullgame": {
     "appid": "512020",
     "name": "Box Maze"
@@ -15,8 +15,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/562790/header.jpg?t=1495847511",
   "website": "http://steamcommunity.com/groups/gamershype",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows<br></li><li><strong>Processor:</strong> 1.8Ghz<br></li><li><strong>Graphics:</strong> Nvidia GTX 9500 or equivalent<br></li><li><strong>Sound Card:</strong> Any sound card<br></li><li><strong>Additional Notes:</strong> Box Maze hardly uses any computing power and is very likely to run smooth on most computers. If your pc has lower specs than this and runs the game without issues please let us know so we can look into it and update this information.</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 and above.<br></li><li><strong>Processor:</strong> 1.8Ghz<br></li><li><strong>Graphics:</strong> Nvidia GTX 9800 or equivalent<br></li><li><strong>Sound Card:</strong> Any sound card</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows<br></li><li><strong>Processeur\u00a0:</strong> 1.8Ghz<br></li><li><strong>Graphiques\u00a0:</strong> Nvidia GTX 9500 or equivalent<br></li><li><strong>Carte son\u00a0:</strong> Any sound card<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Box Maze hardly uses any computing power and is very likely to run smooth on most computers. If your pc has lower specs than this and runs the game without issues please let us know so we can look into it and update this information.</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7 and above.<br></li><li><strong>Processeur\u00a0:</strong> 1.8Ghz<br></li><li><strong>Graphiques\u00a0:</strong> Nvidia GTX 9800 or equivalent<br></li><li><strong>Carte son\u00a0:</strong> Any sound card</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 49,
-    "discount_percent": 51
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     141521
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 141521,
-          "percent_savings_text": "-51%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Box Maze - Everyday People Pack - <span class=\"discount_original_price\">0,99\u20ac</span> 0,49\u20ac",
+          "option_text": "Box Maze - Everyday People Pack - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 49
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -163,5 +165,9 @@
     "url": "http://steamcommunity.com/groups/gamershype",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562790/page_bg_generated_v6b.jpg?t=1495847511"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562790/page_bg_generated_v6b.jpg?t=1495847511",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     98534
@@ -157,6 +159,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Nov, 2016"
@@ -165,5 +170,9 @@
     "url": "",
     "email": "afterlife9ames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/455480/page_bg_generated_v6b.jpg?t=1477992465"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/455480/page_bg_generated_v6b.jpg?t=1477992465",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

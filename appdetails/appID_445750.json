@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Settled is a 2D pixel horror/adventure game that takes the player through the mind of a man whose sanity dwindles, through the loss of a loved one.<br />\r\n<br />\r\nA simple toy or a mundane item triggers memories and nightmares that plague the player, as sadness, fear, loneliness and guilt takes over the individual's life.<br />\r\n<br />\r\nAs the player continues to witness events unfold, the truth to a darker conclusion reveals what being in another person's shoes, may cost one's sanity.",
   "about_the_game": "Settled is a 2D pixel horror/adventure game that takes the player through the mind of a man whose sanity dwindles, through the loss of a loved one.<br />\r\n<br />\r\nA simple toy or a mundane item triggers memories and nightmares that plague the player, as sadness, fear, loneliness and guilt takes over the individual's life.<br />\r\n<br />\r\nAs the player continues to witness events unfold, the truth to a darker conclusion reveals what being in another person's shoes, may cost one's sanity.",
-  "short_description": "Made in Construct2, Settled is a story driven game with hints of exploration. As you progress, subtle changes appear. Memories and nightmares act as new areas, although still remaining in the confines of the house.  When  you reach the end, the conclusion may not be what you expected.",
+  "short_description": "Made in Construct2, Settled is a story driven game with hints of exploration. As you progress, subtle changes appear. Memories and nightmares act as new areas, although still remaining in the confines of the house. When you reach the end, the conclusion may not be what you expected.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/445750/header.jpg?t=1456907119",
   "website": "http://mracey8.wix.com/settledgame",
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     95042
@@ -180,6 +182,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Feb, 2016"
@@ -188,5 +193,12 @@
     "url": "http://mracey8.wix.com/settledgame",
     "email": "allen.dayan@yahoo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/445750/page_bg_generated_v6b.jpg?t=1456907119"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/445750/page_bg_generated_v6b.jpg?t=1456907119",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": "Settled contains graphic images of gore, disturbing imagery and themes of violence."
+  }
 }

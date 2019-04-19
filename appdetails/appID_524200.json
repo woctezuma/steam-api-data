@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 2299,
     "final": 2299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "22,99\u20ac"
   },
   "packages": [
     124953
@@ -268,5 +270,9 @@
     "url": "http://www.winterwolves.com/info.php",
     "email": "info@winterwolves.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/524200/page_bg_generated_v6b.jpg?t=1484919656"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/524200/page_bg_generated_v6b.jpg?t=1484919656",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

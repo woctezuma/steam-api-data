@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     213564
@@ -138,7 +140,7 @@
     }
   ],
   "recommendations": {
-    "total": 105
+    "total": 130
   },
   "achievements": {
     "total": 20,
@@ -193,5 +195,9 @@
     "url": "http://www.government-simulator.com/contact.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/731920/page_bg_generated_v6b.jpg?t=1517554197"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/731920/page_bg_generated_v6b.jpg?t=1517554197",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

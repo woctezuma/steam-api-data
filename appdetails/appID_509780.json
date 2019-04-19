@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     118341
@@ -145,6 +147,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Feb, 2017"
@@ -153,5 +158,9 @@
     "url": "https://twitter.com/TeamGBSRFox",
     "email": "zimnypr@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/509780/page_bg_generated_v6b.jpg?t=1485957678"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/509780/page_bg_generated_v6b.jpg?t=1485957678",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

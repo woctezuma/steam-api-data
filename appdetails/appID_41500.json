@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     2288,
@@ -80,7 +82,7 @@
   },
   "metacritic": {
     "score": 83,
-    "url": "http://www.metacritic.com/game/pc/torchlight?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/torchlight?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -169,7 +171,7 @@
     }
   ],
   "recommendations": {
-    "total": 3813
+    "total": 2975
   },
   "achievements": {
     "total": 66,
@@ -224,5 +226,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/41500/page_bg_generated_v6b.jpg?t=1501607845"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/41500/page_bg_generated_v6b.jpg?t=1501607845",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

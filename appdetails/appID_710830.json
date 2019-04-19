@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 2299,
     "final": 2299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "22,99\u20ac"
   },
   "packages": [
     205512
@@ -210,6 +212,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Nov, 2017"
@@ -218,5 +223,9 @@
     "url": "http://www.thegamecreators.com/?m=contact_support",
     "email": "support@thegamecreators.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/710830/page_bg_generated_v6b.jpg?t=1521727968"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/710830/page_bg_generated_v6b.jpg?t=1521727968",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

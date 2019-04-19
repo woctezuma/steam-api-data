@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 2799,
-    "final": 2799,
-    "discount_percent": 0
+    "initial": 2099,
+    "final": 2099,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "20,99\u20ac"
   },
   "packages": [
     223456
@@ -51,11 +53,11 @@
           "packageid": 223456,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: Settle and Carlisle - 27,99\u20ac",
+          "option_text": "TANE DLC: Settle and Carlisle - 20,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2799
+          "price_in_cents_with_discount": 2099
         }
       ]
     }
@@ -175,6 +177,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/462140/ss_d7b7e113f8426c34c4c8e3fa45519909da9e7ceb.1920x1080.jpg?t=1474948435"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Jul, 2016"
@@ -183,5 +188,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/462140/page_bg_generated_v6b.jpg?t=1474948435"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/462140/page_bg_generated_v6b.jpg?t=1474948435",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

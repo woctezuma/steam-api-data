@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\">Export Your Game!</h2><br>Get this DLC to enabled exporting in <strong>Visual Novel Engine</strong>.<h2 class=\"bb_tag\">Here's what you get</h2><ul class=\"bb_ul\"><li> Support the development of Visual Novel Engine!<br></li><li> Export your visual novel straight to Windows / Mac / Linux in just one click!<br></li><li> Cloud Saving / Loading for your standalone visual novel<br></li><li> Engine Updates on-the-fly<br></li><li> Absolutely <strong>NO</strong> reference to Visual Novel Engine in your exported game needed!<br></li><li> High-Priority feature additions!<br></li><li> Custom feature request for your game!</li></ul>",
   "about_the_game": "<h2 class=\"bb_tag\">Export Your Game!</h2><br>Get this DLC to enabled exporting in <strong>Visual Novel Engine</strong>.<h2 class=\"bb_tag\">Here's what you get</h2><ul class=\"bb_ul\"><li> Support the development of Visual Novel Engine!<br></li><li> Export your visual novel straight to Windows / Mac / Linux in just one click!<br></li><li> Cloud Saving / Loading for your standalone visual novel<br></li><li> Engine Updates on-the-fly<br></li><li> Absolutely <strong>NO</strong> reference to Visual Novel Engine in your exported game needed!<br></li><li> High-Priority feature additions!<br></li><li> Custom feature request for your game!</li></ul>",
-  "short_description": "Export the visual novels you created with <strong>Visual Novel Engine</strong> to Windows, Mac, and Linux!",
+  "short_description": "Export the visual novels you created with Visual Novel Engine to Windows, Mac, and Linux!",
   "fullgame": {
     "appid": "665040",
     "name": "Visual Novel Engine"
@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     188862
@@ -53,11 +55,11 @@
           "packageid": 188862,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Visual Novel Engine - Export Pack - 2,99\u20ac",
+          "option_text": "Visual Novel Engine - Export Pack - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -114,5 +116,9 @@
     "url": "http://vnengine.com",
     "email": "qberty1337@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/665070/page_bg_generated_v6b.jpg?t=1499457167"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/665070/page_bg_generated_v6b.jpg?t=1499457167",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

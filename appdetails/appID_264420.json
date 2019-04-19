@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Comicado is an easy and lightweight graphic application for creating comics and other illustration works. It combines many standard elements of digital illustration (layers, editable brushes...) with some new concepts like panels based artwork composition, which allows creation of editable comic layouts. Comicado provides tools and artwork elements for various phases of comic creation, from sketching to inking and coloring. Its flexible brush engine is well suited for drawing and painting.<h2 class=\"bb_tag\">Main Features</h2><ul class=\"bb_ul\"><li><strong>Panels </strong>- base artwork containers, which can be moved and transformed independently of each other.<br></li><li><strong>Layers </strong>- drawing and painting surfaces with standard  features such as  opacity, blending, masking and clipping.<br></li><li><strong>Perspectives </strong>and <strong>Poses </strong>- special elements, which help in the artwork creation process.<br></li><li><strong>Rulers </strong>- flexible rulers for drawing straight lines, curves and ellipses.<br></li><li><strong>Straight line modes</strong>- quick drawing of constrained straight lines including the perspective constrained lines.<br></li><li><strong>Brushes </strong>- customizable brushes for drawing and painting.<br></li><li><strong>Color fill tools</strong> - fill tool, bucket tool and gradient tool.<br></li><li><strong>Selections</strong> - layer selections with standard tools like lasso and magic wand.<br></li><li><strong>Splines </strong>- vector lines for precise line art, suitable for creation of comic balloons.<br></li><li><strong>Transformations</strong> - moving, scaling, rotation and other operations for panels, helper elements, bitmap layers and splines.<br></li><li><strong>Text </strong>- bitmap text.<br></li><li><strong>Board texture </strong>- texture of the board surface as an adjustable property of the layer<br></li><li><strong>PSD support </strong> </li></ul>",
   "about_the_game": "Comicado is an easy and lightweight graphic application for creating comics and other illustration works. It combines many standard elements of digital illustration (layers, editable brushes...) with some new concepts like panels based artwork composition, which allows creation of editable comic layouts. Comicado provides tools and artwork elements for various phases of comic creation, from sketching to inking and coloring. Its flexible brush engine is well suited for drawing and painting.<h2 class=\"bb_tag\">Main Features</h2><ul class=\"bb_ul\"><li><strong>Panels </strong>- base artwork containers, which can be moved and transformed independently of each other.<br></li><li><strong>Layers </strong>- drawing and painting surfaces with standard  features such as  opacity, blending, masking and clipping.<br></li><li><strong>Perspectives </strong>and <strong>Poses </strong>- special elements, which help in the artwork creation process.<br></li><li><strong>Rulers </strong>- flexible rulers for drawing straight lines, curves and ellipses.<br></li><li><strong>Straight line modes</strong>- quick drawing of constrained straight lines including the perspective constrained lines.<br></li><li><strong>Brushes </strong>- customizable brushes for drawing and painting.<br></li><li><strong>Color fill tools</strong> - fill tool, bucket tool and gradient tool.<br></li><li><strong>Selections</strong> - layer selections with standard tools like lasso and magic wand.<br></li><li><strong>Splines </strong>- vector lines for precise line art, suitable for creation of comic balloons.<br></li><li><strong>Transformations</strong> - moving, scaling, rotation and other operations for panels, helper elements, bitmap layers and splines.<br></li><li><strong>Text </strong>- bitmap text.<br></li><li><strong>Board texture </strong>- texture of the board surface as an adjustable property of the layer<br></li><li><strong>PSD support </strong> </li></ul>",
-  "short_description": "",
+  "short_description": "Comicado is an easy and lightweight graphic application for creating comics and other illustration works. It combines many standard elements of digital illustration (layers, editable brushes...) with some new concepts like panels based artwork composition, which allows creation of editable comic layouts.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/264420/header.jpg?t=1447359443",
   "website": "http://jugilus.com/comicado/comicado_main.php",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     34304
@@ -134,5 +136,9 @@
     "url": "",
     "email": "jugiweb@jugilus.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/264420/page_bg_generated_v6b.jpg?t=1447359443"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/264420/page_bg_generated_v6b.jpg?t=1447359443",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "",
   "about_the_game": "",
-  "short_description": "When a parking mishap results in Dan's car accidentally being donated to charity organization The Salvation Armed Forces, Dan attempts to clear up the mistake with reasoning and communication.  Sadly, Dan is not very good at reasoning and communication, and he walks away car-less, bent on revenge.",
+  "short_description": "When a parking mishap results in Dan's car accidentally being donated to charity organization The Salvation Armed Forces, Dan attempts to clear up the mistake with reasoning and communication. Sadly, Dan is not very good at reasoning and communication, and he walks away car-less, bent on revenge.",
   "fullgame": {
     "appid": "621580",
     "name": "Dan Vs."
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 249,
     "final": 249,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     169752
@@ -72,6 +74,9 @@
       "description": "Captions available"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Dec, 2017"
@@ -80,5 +85,9 @@
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

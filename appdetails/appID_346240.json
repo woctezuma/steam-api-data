@@ -4,8 +4,8 @@
   "steam_appid": 346240,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<h2 class=\"bb_tag\">Gameplay mechanics</h2><br>The core gameplay mechanics of Ski Park Tycoon lie in ski lift and slope construction. Before building a park, the player needs to study the mountain topography and terrain. Therefore, it was imperative to allow the player complete freedom of camera movement. Building lifts and slopes is as easy as drawing lines on the ground. Skiers coming to the resort want to enjoy their stay so - apart from lifts and slopes - the player also needs to provide other infrastructure such as restaurants, ski patrols, snow cannons etc. This is where the economic simulation aspect of the game comes into play. <br>You can learn more about the game in the online tutorial (<a href=\"https://steamcommunity.com/linkfilter/?url=http://www.skiparktycoon.com/manual/Contents.htm\" target=\"_blank\" rel=\"noopener\"  >http://www.skiparktycoon.com/manual/Contents.htm</a></a>).<h2 class=\"bb_tag\">Game features</h2><br><ul class=\"bb_ul\"><li>classic tycoon gameplay<br></li><li>full 3D environment<br></li><li>explore your park in third person view<br></li><li>hundreds of skiers in one resort<br></li><li>7 types of lifts<br></li><li>12 types of buildings<br></li><li>campaign with 29 missions of various objectives<br></li><li>sandbox and unlimited game modes<br></li><li>real world ski resorts</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\">Gameplay mechanics</h2><br>The core gameplay mechanics of Ski Park Tycoon lie in ski lift and slope construction. Before building a park, the player needs to study the mountain topography and terrain. Therefore, it was imperative to allow the player complete freedom of camera movement. Building lifts and slopes is as easy as drawing lines on the ground. Skiers coming to the resort want to enjoy their stay so - apart from lifts and slopes - the player also needs to provide other infrastructure such as restaurants, ski patrols, snow cannons etc. This is where the economic simulation aspect of the game comes into play. <br>You can learn more about the game in the online tutorial (<a href=\"https://steamcommunity.com/linkfilter/?url=http://www.skiparktycoon.com/manual/Contents.htm\" target=\"_blank\" rel=\"noopener\"  >http://www.skiparktycoon.com/manual/Contents.htm</a></a>).<h2 class=\"bb_tag\">Game features</h2><br><ul class=\"bb_ul\"><li>classic tycoon gameplay<br></li><li>full 3D environment<br></li><li>explore your park in third person view<br></li><li>hundreds of skiers in one resort<br></li><li>7 types of lifts<br></li><li>12 types of buildings<br></li><li>campaign with 29 missions of various objectives<br></li><li>sandbox and unlimited game modes<br></li><li>real world ski resorts</li></ul>",
+  "detailed_description": "<h2 class=\"bb_tag\">Gameplay mechanics</h2><br>The core gameplay mechanics of Ski Park Tycoon lie in ski lift and slope construction. Before building a park, the player needs to study the mountain topography and terrain. Therefore, it was imperative to allow the player complete freedom of camera movement. Building lifts and slopes is as easy as drawing lines on the ground. Skiers coming to the resort want to enjoy their stay so - apart from lifts and slopes - the player also needs to provide other infrastructure such as restaurants, ski patrols, snow cannons etc. This is where the economic simulation aspect of the game comes into play. <br>You can learn more about the game in the online tutorial (<a href=\"https://steamcommunity.com/linkfilter/?url=http://www.skiparktycoon.com/manual/Contents.htm\" target=\"_blank\" rel=\"noopener\"  >http://www.skiparktycoon.com/manual/Contents.htm</a>).<h2 class=\"bb_tag\">Game features</h2><br><ul class=\"bb_ul\"><li>classic tycoon gameplay<br></li><li>full 3D environment<br></li><li>explore your park in third person view<br></li><li>hundreds of skiers in one resort<br></li><li>7 types of lifts<br></li><li>12 types of buildings<br></li><li>campaign with 29 missions of various objectives<br></li><li>sandbox and unlimited game modes<br></li><li>real world ski resorts</li></ul>",
+  "about_the_game": "<h2 class=\"bb_tag\">Gameplay mechanics</h2><br>The core gameplay mechanics of Ski Park Tycoon lie in ski lift and slope construction. Before building a park, the player needs to study the mountain topography and terrain. Therefore, it was imperative to allow the player complete freedom of camera movement. Building lifts and slopes is as easy as drawing lines on the ground. Skiers coming to the resort want to enjoy their stay so - apart from lifts and slopes - the player also needs to provide other infrastructure such as restaurants, ski patrols, snow cannons etc. This is where the economic simulation aspect of the game comes into play. <br>You can learn more about the game in the online tutorial (<a href=\"https://steamcommunity.com/linkfilter/?url=http://www.skiparktycoon.com/manual/Contents.htm\" target=\"_blank\" rel=\"noopener\"  >http://www.skiparktycoon.com/manual/Contents.htm</a>).<h2 class=\"bb_tag\">Game features</h2><br><ul class=\"bb_ul\"><li>classic tycoon gameplay<br></li><li>full 3D environment<br></li><li>explore your park in third person view<br></li><li>hundreds of skiers in one resort<br></li><li>7 types of lifts<br></li><li>12 types of buildings<br></li><li>campaign with 29 missions of various objectives<br></li><li>sandbox and unlimited game modes<br></li><li>real world ski resorts</li></ul>",
   "short_description": "Designed as a classic tycoon game, Ski Park Tycoon is a ski resort simulation PC game that will put your strategic thinking skills and creativity to the test.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/346240/header.jpg?t=1447368093",
@@ -26,10 +26,12 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
-    "59358"
+    59358
   ],
   "package_groups": [
     {
@@ -42,7 +44,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "59358",
+          "packageid": 59358,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Ski Park Tycoon - 9,99\u20ac",
@@ -159,6 +161,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Feb, 2015"
@@ -167,5 +172,9 @@
     "url": "www.skiparktycoon.com",
     "email": "info@skiparktycoon.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/346240/page_bg_generated_v6b.jpg?t=1447368093"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/346240/page_bg_generated_v6b.jpg?t=1447368093",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

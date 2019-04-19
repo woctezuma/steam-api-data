@@ -11,7 +11,7 @@
     "appid": "488790",
     "name": "South Park\u2122: The Fractured But Whole\u2122"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Polish, Portuguese, Portuguese-Brazil<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish, Portuguese, Portuguese - Brazil<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/564790/header.jpg?t=1523026534",
   "website": "http://southpark.ubisoft.com/",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     142537
@@ -153,6 +155,12 @@
       "highlight": true
     }
   ],
+  "recommendations": {
+    "total": 110
+  },
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Mar, 2018"
@@ -161,5 +169,13 @@
     "url": "https://support.ubi.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/564790/page_bg_generated_v6b.jpg?t=1523026534"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/564790/page_bg_generated_v6b.jpg?t=1523026534",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

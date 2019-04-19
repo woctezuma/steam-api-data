@@ -11,8 +11,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/416200/header.jpg?t=1479929871",
   "website": "https://sites.google.com/site/novelistcdjones/door-to-door-game",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows 7<br></li><li><strong>Processor:</strong> Dual Core Processor 2.4GHz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> DirectX9 Compatible; AMD Radeon HD 6770/NVIDIA 550ti<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows 7 and above<br></li><li><strong>Processor:</strong> Intel Quad Core Processor/AMD Hexacore<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX9 Compatible; AMD Radeon HD 7870, R9 270/ NVIDIA 670, 760<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Besturingssysteem:</strong> Microsoft Windows 7<br></li><li><strong>Processor:</strong> Dual Core Processor 2.4GHz<br></li><li><strong>Geheugen:</strong> 3 GB RAM<br></li><li><strong>Grafische kaart:</strong> DirectX9 Compatible; AMD Radeon HD 6770/NVIDIA 550ti<br></li><li><strong>DirectX:</strong> Versie 9.0<br></li><li><strong>Opslagruimte:</strong> 3 GB beschikbare ruimte</li></ul>",
+    "recommended": "<strong>Aanbevolen:</strong><br><ul class=\"bb_ul\"><li><strong>Besturingssysteem:</strong> Microsoft Windows 7 and above<br></li><li><strong>Processor:</strong> Intel Quad Core Processor/AMD Hexacore<br></li><li><strong>Geheugen:</strong> 4 GB RAM<br></li><li><strong>Grafische kaart:</strong> DirectX9 Compatible; AMD Radeon HD 7870, R9 270/ NVIDIA 670, 760<br></li><li><strong>DirectX:</strong> Versie 9.0<br></li><li><strong>Opslagruimte:</strong> 3 GB beschikbare ruimte</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     83865
@@ -157,6 +159,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Aug, 2016"
@@ -165,5 +170,9 @@
     "url": "",
     "email": "bestmilkshake@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416200/page_bg_generated_v6b.jpg?t=1479929871"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416200/page_bg_generated_v6b.jpg?t=1479929871",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

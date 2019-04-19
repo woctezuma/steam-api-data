@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1299,
-    "final": 1299,
-    "discount_percent": 0
+    "initial": 1199,
+    "final": 1199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     223432
@@ -53,11 +55,11 @@
           "packageid": 223432,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: Chicago North Western GE Dash 9 44CW - 12,99\u20ac",
+          "option_text": "TANE DLC: Chicago North Western GE Dash 9 44CW - 11,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1299
+          "price_in_cents_with_discount": 1199
         }
       ]
     }
@@ -108,6 +110,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404980/ss_922c750ebd39d7fa7c6937fe6baeb6431817e13e.1920x1080.jpg?t=1455679041"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Feb, 2016"
@@ -116,5 +121,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404980/page_bg_generated_v6b.jpg?t=1455679041"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404980/page_bg_generated_v6b.jpg?t=1455679041",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

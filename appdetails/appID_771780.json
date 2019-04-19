@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Theresa Doyle is pretty excited about going to school today, because Prince Philip Farnham will be coming to the Brown Forest Elementary School to give a presentation about some rare and fascinating animals. Unfortunately, a brief lapse in supervision has allowed them to get loose in the school. Hopefully Philip can round them all up and still have time to give his presentation!<br />\r\n<br />\r\nThis is the third Episode in the eventually-long-running Farnham Fables series. Buying this will unlock the entire third Episode in the Episode list on Tape 1 (Episode 2 is not required). It plays exactly the same as the first two Episodes, only with new characters, new locations, new story, new music, new everything! If you liked the first Episode, try out the second one, and if you liked that one as well, get the third one! It has FAR more content than the previous two if you look hard enough!",
   "about_the_game": "Theresa Doyle is pretty excited about going to school today, because Prince Philip Farnham will be coming to the Brown Forest Elementary School to give a presentation about some rare and fascinating animals. Unfortunately, a brief lapse in supervision has allowed them to get loose in the school. Hopefully Philip can round them all up and still have time to give his presentation!<br />\r\n<br />\r\nThis is the third Episode in the eventually-long-running Farnham Fables series. Buying this will unlock the entire third Episode in the Episode list on Tape 1 (Episode 2 is not required). It plays exactly the same as the first two Episodes, only with new characters, new locations, new story, new music, new everything! If you liked the first Episode, try out the second one, and if you liked that one as well, get the third one! It has FAR more content than the previous two if you look hard enough!",
-  "short_description": "Theresa Doyle is pretty excited about going to school today, because Prince Philip Farnham will be coming to the Brown Forest Elementary School to give a presentation about some rare and fascinating animals. Unfortunately, a brief lapse in supervision has allowed them to get loose in the school. Hopefully Philip can round them all up and still have time to give his presentation!",
+  "short_description": "Theresa Doyle is pretty excited about going to school today, because Prince Philip Farnham will be coming to the Brown Forest Elementary School to give a presentation about some rare and fascinating animals. Unfortunately, a brief lapse in supervision has allowed them to get loose in the school.",
   "fullgame": {
     "appid": "463110",
     "name": "Farnham Fables"
@@ -27,12 +27,14 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
-    "230786"
+    230786
   ],
   "package_groups": [
     {
@@ -45,14 +47,14 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "230786",
+          "packageid": 230786,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Farnham Fables Tape 1 Episode 3 - 0,99\u20ac",
+          "option_text": "Farnham Fables Tape 1 Episode 3 - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -135,5 +137,9 @@
     "url": "http://www.ethreadreams.com/",
     "email": "AWT2@aol.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771780/page_bg_generated_v6b.jpg?t=1513691616"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771780/page_bg_generated_v6b.jpg?t=1513691616",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

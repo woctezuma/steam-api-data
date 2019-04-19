@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     189860
@@ -134,6 +136,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Aug, 2017"
@@ -142,5 +147,9 @@
     "url": "",
     "email": "StickDodgeVR@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/667930/page_bg_generated_v6b.jpg?t=1515290858"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/667930/page_bg_generated_v6b.jpg?t=1515290858",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

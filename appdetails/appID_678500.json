@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     193613
@@ -146,6 +148,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Jul, 2017"
@@ -154,5 +159,9 @@
     "url": "",
     "email": "nibgames@outlook.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/678500/page_bg_generated_v6b.jpg?t=1500991010"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/678500/page_bg_generated_v6b.jpg?t=1500991010",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

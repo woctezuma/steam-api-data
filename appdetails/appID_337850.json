@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     56182
@@ -63,7 +65,7 @@
   },
   "metacritic": {
     "score": 78,
-    "url": "http://www.metacritic.com/game/pc/avernum-2-crystal-souls?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/avernum-2-crystal-souls?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -155,9 +157,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 133
-  },
   "achievements": {
     "total": 35,
     "highlighted": [
@@ -211,5 +210,9 @@
     "url": "http://www.avernum.com/avernum2/index.html",
     "email": "support@spiderwebsoftware.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/337850/page_bg_generated_v6b.jpg?t=1447365887"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/337850/page_bg_generated_v6b.jpg?t=1447365887",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

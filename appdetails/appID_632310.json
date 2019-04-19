@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Frankfurt International Airport [EDDF] for Tower!2011:SE<br><br>Frankfurt Airport is one of the most important air transportation hub in Europe and serves as the main European hub in the dense global network of the Star Alliance airlines.<br>The busiest by cargo traffic in Europe with 2.02 million metric tons in 2012. Frankfurt Airport is the busiest airport by passenger traffic in Germany, and the 12th busiest worldwide in 2013.<br>The third busiest after Heathrow and Paris-Charles de Gaulle in Europe. 58 million passengers was handled in 2013.<br>By 2010 it had 71500 people employes at 500 airport companies. This means this is the single largest workplace in Europe.",
   "about_the_game": "Frankfurt International Airport [EDDF] for Tower!2011:SE<br><br>Frankfurt Airport is one of the most important air transportation hub in Europe and serves as the main European hub in the dense global network of the Star Alliance airlines.<br>The busiest by cargo traffic in Europe with 2.02 million metric tons in 2012. Frankfurt Airport is the busiest airport by passenger traffic in Germany, and the 12th busiest worldwide in 2013.<br>The third busiest after Heathrow and Paris-Charles de Gaulle in Europe. 58 million passengers was handled in 2013.<br>By 2010 it had 71500 people employes at 500 airport companies. This means this is the single largest workplace in Europe.",
-  "short_description": "Frankfurt International Airport is and airport DLC for Tower!2011:SE",
+  "short_description": "Frankfurt International Airport is and airport DLC for Tower!",
   "fullgame": {
     "appid": "620570",
     "name": "Tower!2011:SE"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     172252
@@ -133,5 +135,9 @@
     "url": "http://forum.simflight.com/forum/170-atc-simulators/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/632310/page_bg_generated_v6b.jpg?t=1493840757"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/632310/page_bg_generated_v6b.jpg?t=1493840757",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

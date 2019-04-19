@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>The Soviet Infantry Sprite Pack includes 33 new uniforms for various models of infantry for the Soviet Player.</p><ul>\n\t\t\t\t\t<li>Cavalry 1936, 1942, 1944\n\t\t\t\t\t<li>Infantry / Anti-Tank 1936, 1942, 1944\n\t\t\t\t\t<li>Military Police 1936, 1942\n\t\t\t\t\t<li>Artillery / Rocket Artillery 1936, 1942, 1944 \n\t\t\t\t\t<li>Militia 1936, 1942, 1944\n\t\t\t\t\t<li>Anti-Air 1936, 1942, 1944\n\t\t\t\t\t<li>Engineer 1936, 1942, 1944 \n\t\t\t\t\t<li>Marine-Infantry 1936, 1942, 1944\n\t\t\t\t\t<li>Paratrooper 1942, 1944\n\t\t\t\t\t<li>Armored Car 1936, 1942\n\t\t\t\t\t<li>HQ 1936\n\t\t\t\t\t<li>Mountain Infantry 1936\t\n\t\t\t\t\t<li>Garrison 1936, 1942\n\t\t\t\t\t<li>Partisan 1936\t\n\t\t\t\t\t<li>SP-Artillery /SP Rocket Artillery 1942\n\t\t\t\t\t</ul>\n\t\t\t\t\t",
   "about_the_game": "<p>The Soviet Infantry Sprite Pack includes 33 new uniforms for various models of infantry for the Soviet Player.</p><ul>\n\t\t\t\t\t<li>Cavalry 1936, 1942, 1944\n\t\t\t\t\t<li>Infantry / Anti-Tank 1936, 1942, 1944\n\t\t\t\t\t<li>Military Police 1936, 1942\n\t\t\t\t\t<li>Artillery / Rocket Artillery 1936, 1942, 1944 \n\t\t\t\t\t<li>Militia 1936, 1942, 1944\n\t\t\t\t\t<li>Anti-Air 1936, 1942, 1944\n\t\t\t\t\t<li>Engineer 1936, 1942, 1944 \n\t\t\t\t\t<li>Marine-Infantry 1936, 1942, 1944\n\t\t\t\t\t<li>Paratrooper 1942, 1944\n\t\t\t\t\t<li>Armored Car 1936, 1942\n\t\t\t\t\t<li>HQ 1936\n\t\t\t\t\t<li>Mountain Infantry 1936\t\n\t\t\t\t\t<li>Garrison 1936, 1942\n\t\t\t\t\t<li>Partisan 1936\t\n\t\t\t\t\t<li>SP-Artillery /SP Rocket Artillery 1942\n\t\t\t\t\t</ul>\n\t\t\t\t\t",
-  "short_description": "",
+  "short_description": "The Soviet Infantry Sprite Pack includes 33 new uniforms for various models of infantry for the Soviet Player. Cavalry 1936, 1942, 1944 Infantry / Anti-Tank 1936, 1942, 1944 Military Police 1936, 1942 Artillery / Rocket Artillery 1936, 1942, 1944 Militia 1936, 1942, 1944 Anti-Air 1936, 1942, 1944 Engineer 1936, 1942, 1944 Marine-Infantry...",
   "fullgame": {
     "appid": "25890",
     "name": "Hearts of Iron III"
@@ -29,12 +29,12 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    2982,
-    29531,
-    37223
+    2982
   ],
   "package_groups": [
     {
@@ -55,26 +55,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 99
-        },
-        {
-          "packageid": 29531,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron 3 DLC Collection - 29,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2999
-        },
-        {
-          "packageid": 37223,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron Collection III (Jan 2014) - 41,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4199
         }
       ]
     }
@@ -171,6 +151,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/25960/ss_1d94227a8af98013ef261c26a15b7417c4d8439d.1920x1080.jpg?t=1447352377"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Feb, 2010"
@@ -179,5 +162,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25960/page_bg_generated_v6b.jpg?t=1447352377"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25960/page_bg_generated_v6b.jpg?t=1447352377",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

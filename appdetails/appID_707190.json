@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 149,
     "final": 149,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,49\u20ac"
   },
   "packages": [
     204211
@@ -107,6 +109,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/707190/ss_9c7ea910f18ef0d69289ea3aa452da1ced39ef9b.1920x1080.jpg?t=1523897656"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Apr, 2018"
@@ -115,5 +120,9 @@
     "url": "http://store.nisamerica.com/contact-us",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/707190/page_bg_generated_v6b.jpg?t=1523897656"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/707190/page_bg_generated_v6b.jpg?t=1523897656",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

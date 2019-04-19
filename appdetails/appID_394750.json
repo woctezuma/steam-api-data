@@ -12,7 +12,7 @@
     "appid": "345180",
     "name": "Victor Vran ARPG"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French, Italian, Spanish, Polish, Portuguese-Brazil, Russian, Bulgarian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French, Italian, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Bulgarian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/394750/header.jpg?t=1447377555",
   "website": "http://victorvran.com",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     75791
@@ -162,6 +164,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/394750/ss_fd6c77b84589d2181f94b1112bc7e739b0c4b22b.1920x1080.jpg?t=1447377555"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Aug, 2015"
@@ -170,5 +175,9 @@
     "url": "http://www.haemimontgames.com/support/",
     "email": "support@haemimontgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/394750/page_bg_generated_v6b.jpg?t=1447377555"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/394750/page_bg_generated_v6b.jpg?t=1447377555",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

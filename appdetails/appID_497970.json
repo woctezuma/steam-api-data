@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Go deeper into the critically-acclaimed interactive movie <i>Press X to Not Die</i> with the <i>Press X to Not Die: Special Edition</i>!<br><br>Bonus Features include:<br><ul class=\"bb_ul\"><li>The <i>Press X to Not Die</i> prototype, featuring 15 minutes of footage!  If you thought <i>Press X to Not Die</i> was ridiculous with live actors, wait till you see it played out by stuffed animals.<br></li><li>The full <i>Press X to Not Die</i> shooting script in PDF format!<br></li><li>The 16 Behind the Scenes photos in high resolution!<br></li><li>A cover gallery showing the many iterations of the <i>Press X to Not Die</i> cover art!<br></li><li>Wallpapers!<br><br><a href=\"http://store.steampowered.com/app/402330\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/402330</a></li></ul>",
   "about_the_game": "Go deeper into the critically-acclaimed interactive movie <i>Press X to Not Die</i> with the <i>Press X to Not Die: Special Edition</i>!<br><br>Bonus Features include:<br><ul class=\"bb_ul\"><li>The <i>Press X to Not Die</i> prototype, featuring 15 minutes of footage!  If you thought <i>Press X to Not Die</i> was ridiculous with live actors, wait till you see it played out by stuffed animals.<br></li><li>The full <i>Press X to Not Die</i> shooting script in PDF format!<br></li><li>The 16 Behind the Scenes photos in high resolution!<br></li><li>A cover gallery showing the many iterations of the <i>Press X to Not Die</i> cover art!<br></li><li>Wallpapers!<br><br><a href=\"http://store.steampowered.com/app/402330\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >http://store.steampowered.com/app/402330</a></li></ul>",
-  "short_description": "",
+  "short_description": "Go deeper into the critically-acclaimed interactive movie Press X to Not Die with the Press X to Not Die: Special Edition!Bonus Features include:The Press X to Not Die prototype, featuring 15 minutes of footage! If you thought Press X to Not Die was ridiculous with live actors, wait till you see it played out by stuffed animals.",
   "fullgame": {
     "appid": "402330",
     "name": "Press X to Not Die"
   },
-  "supported_languages": "English<strong>*</strong>, Italian, German, Russian, Simplified Chinese, Spanish, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, Italian, German, Russian, Simplified Chinese, Spanish - Spain, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/497970/header.jpg?t=1511430182",
   "website": "http://pressxtonotdie.com",
   "pc_requirements": {
@@ -33,8 +33,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 49,
+    "discount_percent": 51,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,49\u20ac"
   },
   "packages": [
     113812
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 113812,
-          "percent_savings_text": "",
+          "percent_savings_text": "-51%",
           "percent_savings": 0,
-          "option_text": "Press X to Not Die - Special Edition Content - 0,99\u20ac",
+          "option_text": "Press X to Not Die - Special Edition Content - <span class=\"discount_original_price\">0,99\u20ac</span> 0,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 49
         }
       ]
     }
@@ -152,5 +154,9 @@
     "url": "",
     "email": "contact@pressxtonotdie.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/497970/page_bg_generated_v6b.jpg?t=1511430182"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/497970/page_bg_generated_v6b.jpg?t=1511430182",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

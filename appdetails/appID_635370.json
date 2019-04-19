@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Washington Dulles International Airport [KIAD] for Tower!2011:SE<br><br>Washington Dulles is the one of the three major airports in the larger Baltimore\u2013Washington metropolitan area. On a typical day, more than 60,000 passengers pass through Washington Dulles to and from more than 125 destinations around the world Along with Newark Liberty International Airport, Dulles is one of United's two transatlantic gateways with many nonstop flights to Europe, Asia, South America and the Middle East.",
   "about_the_game": "Washington Dulles International Airport [KIAD] for Tower!2011:SE<br><br>Washington Dulles is the one of the three major airports in the larger Baltimore\u2013Washington metropolitan area. On a typical day, more than 60,000 passengers pass through Washington Dulles to and from more than 125 destinations around the world Along with Newark Liberty International Airport, Dulles is one of United's two transatlantic gateways with many nonstop flights to Europe, Asia, South America and the Middle East.",
-  "short_description": "Washington Dulles International Airport is and airport DLC for Tower!2011:SE",
+  "short_description": "Washington Dulles International Airport is and airport DLC for Tower!",
   "fullgame": {
     "appid": "620570",
     "name": "Tower!2011:SE"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     174496
@@ -128,5 +130,9 @@
     "url": "http://forum.simflight.com/forum/170-atc-simulators/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/635370/page_bg_generated_v6b.jpg?t=1495441565"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/635370/page_bg_generated_v6b.jpg?t=1495441565",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

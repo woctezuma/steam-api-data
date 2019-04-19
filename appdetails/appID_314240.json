@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     47696,
@@ -185,7 +187,7 @@
     }
   ],
   "recommendations": {
-    "total": 447
+    "total": 404
   },
   "achievements": {
     "total": 73,
@@ -240,5 +242,9 @@
     "url": "",
     "email": "support@skatanicstudios.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/314240/page_bg_generated_v6b.jpg?t=1482145138"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/314240/page_bg_generated_v6b.jpg?t=1482145138",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

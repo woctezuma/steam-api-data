@@ -11,7 +11,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/444280/header.jpg?t=1470991543",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or higher<br></li><li><strong>Processor:</strong> Intel Atom N455 (1660 MHz) or high<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> Intel GMA 3150<br></li><li><strong>DirectX:</strong> Version 9.0c</li></ul>"
+    "minimum": "<strong>Minimi:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema operativo:</strong> Windows XP or higher<br></li><li><strong>Processore:</strong> Intel Atom N455 (1660 MHz) or high<br></li><li><strong>Memoria:</strong> 1024 MB di RAM<br></li><li><strong>Scheda video:</strong> Intel GMA 3150<br></li><li><strong>DirectX:</strong> Versione 9.0c</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 49,
-    "discount_percent": 90
+    "discount_percent": 90,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "0,49\u20ac"
   },
   "packages": [
     94456
@@ -189,5 +191,9 @@
     "url": "https://www.facebook.com/8FloorGames",
     "email": "mikhail.zverev@8floor.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/444280/page_bg_generated_v6b.jpg?t=1470991543"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/444280/page_bg_generated_v6b.jpg?t=1470991543",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

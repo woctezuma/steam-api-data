@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1799,
     "final": 1799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "17,99\u20ac"
   },
   "packages": [
     152633
@@ -204,5 +206,9 @@
     "url": "http://www.yomune.co/",
     "email": "info@yomune.co"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589080/page_bg_generated_v6b.jpg?t=1490936625"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589080/page_bg_generated_v6b.jpg?t=1490936625",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

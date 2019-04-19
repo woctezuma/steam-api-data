@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     231799
@@ -128,6 +130,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/773761/ss_e978f5edeabf58a12b37dc14381e1c4974719b04.1920x1080.jpg?t=1518630259"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Feb, 2018"
@@ -136,5 +141,9 @@
     "url": "",
     "email": "support@xseedgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/773761/page_bg_generated_v6b.jpg?t=1518630259"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/773761/page_bg_generated_v6b.jpg?t=1518630259",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

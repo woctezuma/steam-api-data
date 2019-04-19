@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     152516
@@ -128,6 +130,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Feb, 2017"
@@ -136,5 +141,9 @@
     "url": "",
     "email": "RoyalTeaTimeStudio@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589410/page_bg_generated_v6b.jpg?t=1487649893"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589410/page_bg_generated_v6b.jpg?t=1487649893",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     159081
@@ -101,5 +103,9 @@
     "url": "http://darkshotstudios.com/about-us",
     "email": "info@darkshotstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/604480/page_bg_generated_v6b.jpg?t=1511821634"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/604480/page_bg_generated_v6b.jpg?t=1511821634",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

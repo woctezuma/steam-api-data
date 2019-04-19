@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1099,
-    "final": 1099,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     176424
@@ -45,11 +47,11 @@
           "packageid": 176424,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "\u65a9\u6bd2\uff1a\u9ed1\u4e0e\u767d\uff08Narcotics Police:Black and White\uff09 - 10,99\u20ac",
+          "option_text": "\u65a9\u6bd2\uff1a\u9ed1\u4e0e\u767d\uff08Narcotics Police:Black and White\uff09 - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1099
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -124,7 +126,10 @@
     }
   ],
   "recommendations": {
-    "total": 122
+    "total": 124
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -134,5 +139,12 @@
     "url": "\u65e0",
     "email": "809347727@qq.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/637860/page_bg_generated_v6b.jpg?t=1505351635"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/637860/page_bg_generated_v6b.jpg?t=1505351635",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

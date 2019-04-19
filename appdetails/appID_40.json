@@ -6,9 +6,9 @@
   "is_free": false,
   "detailed_description": "Enjoy fast-paced multiplayer gaming with Deathmatch Classic (a.k.a. DMC). Valve's tribute to the work of id software, DMC invites players to grab their rocket launchers and put their reflexes to the test in a collection of futuristic settings.",
   "about_the_game": "Enjoy fast-paced multiplayer gaming with Deathmatch Classic (a.k.a. DMC). Valve's tribute to the work of id software, DMC invites players to grab their rocket launchers and put their reflexes to the test in a collection of futuristic settings.",
-  "short_description": "",
-  "supported_languages": "English, French, German, Italian, Spanish",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/40/header.jpg?t=1447350812",
+  "short_description": "Enjoy fast-paced multiplayer gaming with Deathmatch Classic (a.k.a. DMC). Valve's tribute to the work of id software, DMC invites players to grab their rocket launchers and put their reflexes to the test in a collection of futuristic settings.",
+  "supported_languages": "English, French, German, Italian, Spanish - Spain, Korean, Russian, Simplified Chinese, Traditional Chinese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/40/header.jpg?t=1528733362",
   "website": null,
   "pc_requirements": {
     "minimum": "\r\n\t\t\t<p><strong>Minimum:</strong> 500 mhz processor, 96mb ram, 16mb video card, Windows XP, Mouse, Keyboard, Internet Connection<br /></p>\r\n\t\t\t<p><strong>Recommended:</strong> 800 mhz processor, 128mb ram, 32mb+ video card, Windows XP, Mouse, Keyboard, Internet Connection<br /></p>\r\n\t\t\t"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     31
@@ -68,6 +70,14 @@
       "description": "Multi-player"
     },
     {
+      "id": 36,
+      "description": "Online Multi-Player"
+    },
+    {
+      "id": 37,
+      "description": "Local Multi-Player"
+    },
+    {
       "id": 8,
       "description": "Valve Anti-Cheat enabled"
     }
@@ -81,27 +91,30 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000142.600x338.jpg?t=1447350812",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000142.1920x1080.jpg?t=1447350812"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000142.600x338.jpg?t=1528733362",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000142.1920x1080.jpg?t=1528733362"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000143.600x338.jpg?t=1447350812",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000143.1920x1080.jpg?t=1447350812"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000143.600x338.jpg?t=1528733362",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000143.1920x1080.jpg?t=1528733362"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000144.600x338.jpg?t=1447350812",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000144.1920x1080.jpg?t=1447350812"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000144.600x338.jpg?t=1528733362",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000144.1920x1080.jpg?t=1528733362"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000145.600x338.jpg?t=1447350812",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000145.1920x1080.jpg?t=1447350812"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000145.600x338.jpg?t=1528733362",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/40/0000000145.1920x1080.jpg?t=1528733362"
     }
   ],
   "recommendations": {
-    "total": 1346
+    "total": 924
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -111,5 +124,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/40/page_bg_generated_v6b.jpg?t=1447350812"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/40/page_bg_generated_v6b.jpg?t=1528733362",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

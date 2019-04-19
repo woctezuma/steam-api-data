@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     135709
@@ -172,7 +174,7 @@
     }
   ],
   "recommendations": {
-    "total": 111
+    "total": 147
   },
   "achievements": {
     "total": 28,
@@ -227,5 +229,9 @@
     "url": "http://nisamerica.com/index.php?nav=s",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548840/page_bg_generated_v6b.jpg?t=1510274626"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548840/page_bg_generated_v6b.jpg?t=1510274626",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

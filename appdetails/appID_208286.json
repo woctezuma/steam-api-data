@@ -9,9 +9,9 @@
   "short_description": "Sherman Hill is a fantastic North American freight route, and now you can be the engineer on your own trains on this great railroad line in Train Simulator.",
   "fullgame": {
     "appid": "24010",
-    "name": "Train Simulator"
+    "name": "Train Simulator 2019"
   },
-  "supported_languages": "English, French, German, Polish, Russian, Spanish",
+  "supported_languages": "English, French, German, Polish, Russian, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/208286/header.jpg?t=1521213869",
   "website": "http://www.train-simulator.com",
   "pc_requirements": {
@@ -31,10 +31,12 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
-    "18024",
+    18024,
     29045
   ],
   "package_groups": [
@@ -48,7 +50,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "18024",
+          "packageid": 18024,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Train Simulator: Sherman Hill - 19,99\u20ac",
@@ -189,6 +191,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/208286/ss_0f36289538902f76a1050d29e866507ab357d4c6.1920x1080.jpg?t=1521213869"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Sep, 2012"
@@ -197,5 +202,9 @@
     "url": "http://www.railsimulator.com/support.php",
     "email": "support@railsimulator.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/208286/page_bg_generated_v6b.jpg?t=1521213869"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/208286/page_bg_generated_v6b.jpg?t=1521213869",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

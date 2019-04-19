@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>30 minute video\r\nHiRes JPEG and PSD\r\nMy Photoshop CC tool presets\r\nDust JPEG\r\n\r\nBasic color overlaying on a black and white portrait painting. Skin tones, colorbalance, mother color. \r\n\r\nThis is for average to intermediate artists.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>30 minute video\r\nHiRes JPEG and PSD\r\nMy Photoshop CC tool presets\r\nDust JPEG\r\n\r\nBasic color overlaying on a black and white portrait painting. Skin tones, colorbalance, mother color. \r\n\r\nThis is for average to intermediate artists.",
   "about_the_game": "30 minute video<br />\r\nHiRes JPEG and PSD<br />\r\nMy Photoshop CC tool presets<br />\r\nDust JPEG<br />\r\n<br />\r\nBasic color overlaying on a black and white portrait painting. Skin tones, colorbalance, mother color. <br />\r\n<br />\r\nThis is for average to intermediate artists.",
   "short_description": "30 minute video on basic color overlaying on a black and white painting.",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     83382
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Jun, 2016"
@@ -127,5 +132,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/414880/page_bg_generated_v6b.jpg?t=1465502260"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/414880/page_bg_generated_v6b.jpg?t=1465502260",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

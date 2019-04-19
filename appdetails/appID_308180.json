@@ -4,7 +4,7 @@
   "steam_appid": 308180,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<h1>Check Out Jacob Jones : Episode 1!</h1><p>While you're taking a look at Episode 2, it would be a good time to remind you that you can pick up Episode 1 on Steam here <br><br><a href=\"http://store.steampowered.com/app/264400\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/264400</a></a></p><br><h1>About the Game</h1>Jacob Jones is back in Episode 2 of his Bigfoot Mystery.<br><br>Following the events of Episode 1, Jacob and Biggie set off to the spooky Crackskull Mountain to try uncover the secret of Biggies childhood. <br><br>Join the new best buddies on a brand new adventure and unravel more of the mystery in a series of brain twisting puzzles. <br><br>More crazy characters to meet, from statically charged beavers to the charming Miller and his not so charming wife.<br><br>Check out the store page for Episode 1 here<br><br><a href=\"http://steamcommunity.com/app/264400\" target=\"_blank\" rel=\"noreferrer\"  >http://steamcommunity.com/app/264400</a>",
+  "detailed_description": "<h1>Check Out Jacob Jones : Episode 1!</h1><p>While you're taking a look at Episode 2, it would be a good time to remind you that you can pick up Episode 1 on Steam here <br><br><a href=\"http://store.steampowered.com/app/264400\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/264400</a></p><br><h1>About the Game</h1>Jacob Jones is back in Episode 2 of his Bigfoot Mystery.<br><br>Following the events of Episode 1, Jacob and Biggie set off to the spooky Crackskull Mountain to try uncover the secret of Biggies childhood. <br><br>Join the new best buddies on a brand new adventure and unravel more of the mystery in a series of brain twisting puzzles. <br><br>More crazy characters to meet, from statically charged beavers to the charming Miller and his not so charming wife.<br><br>Check out the store page for Episode 1 here<br><br><a href=\"http://steamcommunity.com/app/264400\" target=\"_blank\" rel=\"noreferrer\"  >http://steamcommunity.com/app/264400</a>",
   "about_the_game": "Jacob Jones is back in Episode 2 of his Bigfoot Mystery.<br />\n<br />\nFollowing the events of Episode 1, Jacob and Biggie set off to the spooky Crackskull Mountain to try uncover the secret of Biggies childhood. <br />\n<br />\nJoin the new best buddies on a brand new adventure and unravel more of the mystery in a series of brain twisting puzzles. <br />\n<br />\nMore crazy characters to meet, from statically charged beavers to the charming Miller and his not so charming wife.<br />\n<br />\nCheck out the store page for Episode 1 here<br />\n<br />\nhttp://steamcommunity.com/app/264400",
   "short_description": "Jacob Jones is back in Episode 2 of Jacob Jones and the Bigfoot Mystery.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
@@ -26,11 +26,13 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     46071,
-    "50334"
+    50334
   ],
   "package_groups": [
     {
@@ -53,7 +55,7 @@
           "price_in_cents_with_discount": 399
         },
         {
-          "packageid": "50334",
+          "packageid": 50334,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Jacob Jones and the Bigfoot Mystery Bundle - 6,99\u20ac",
@@ -192,5 +194,9 @@
     "url": "",
     "email": "support@lucidgames.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/308180/page_bg_generated_v6b.jpg?t=1447362358"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/308180/page_bg_generated_v6b.jpg?t=1447362358",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

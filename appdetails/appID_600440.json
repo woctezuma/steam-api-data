@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Welcome to the Cyber Complex!<br />\r\n<br />\r\nIn the year 2041 global corporations replaced countries and the neuro interface implant became a requirement to work - a requirement to survive...<br />\r\nEverything, and everyone, is connected. Every move is tracked and there is no more space for individuality. We learned to live with it - we had to. The Eurasian V-Eye Corporation, owning 55 percent of the global resources, started to implant a new compulsory brain mod that was meant to improve the population's productivity.<br />\r\nIt worked - but not the way people expected it to. The new implant robbed us of the last scrap of our free will and people lost their last bit of individuality.<br />\r\nBut in this environment of total control, slowly, over many years some began to wake up, to regain their humanity. Some of us came together and formed a resistance. Join us today to stop V-Eye's plans to enslave humanity.<br />\r\n<br />\r\nAs a resistance recruit you will receive a modified H4C-Kit and access our mod database. You will get access to the Cyber Complex Simulator to create and test new environments. Learn how to control your H4C-Kit and capture clusters to spawn nodes, evade scanners, and dig deeper into the Cyber Complex!<br />\r\n<br />\r\nJoin the resistance now!<br />\r\n<br />\r\n<br />\r\nAbout the Game<br />\r\n<br />\r\n- Cyber Complex is a unique mix of Action, Strategy and classic Arcade elements in a 60s-style Sci-Fi setting. Let's call it a #PACTICS Game!<br />\r\n- Log yourself into the cyberspace grid and learn how to capture Clusters, produce helping Nodes and avoid enemy Scanners!<br />\r\n- Select between Campaign, Survival, Local 2P Coop / Versus modes and evolve your PACTICS!<br />\r\n- Hack through infinite different stages and bossfights. Unlock Mods and upgrade your H4C-Kit to match your playstyle.<br />\r\n- Create unlimited new stages with the integrated Stage Editor and play your own creations!<br />\r\n- Show your skills and fight for worldwide time-attack leaderboard positions alone or with a friend.<br />\r\n- Full Gamepad support<br />\r\n- Enjoy a unique, polarity mechanic based PACTICS game with endless replayability.<br />\r\n<br />\r\nBe part of the resistance and unveil V-Eyes conspiracy plans!<br />\r\n<br />\r\nCan you master the Cyber Complex?",
   "about_the_game": "Welcome to the Cyber Complex!<br />\r\n<br />\r\nIn the year 2041 global corporations replaced countries and the neuro interface implant became a requirement to work - a requirement to survive...<br />\r\nEverything, and everyone, is connected. Every move is tracked and there is no more space for individuality. We learned to live with it - we had to. The Eurasian V-Eye Corporation, owning 55 percent of the global resources, started to implant a new compulsory brain mod that was meant to improve the population's productivity.<br />\r\nIt worked - but not the way people expected it to. The new implant robbed us of the last scrap of our free will and people lost their last bit of individuality.<br />\r\nBut in this environment of total control, slowly, over many years some began to wake up, to regain their humanity. Some of us came together and formed a resistance. Join us today to stop V-Eye's plans to enslave humanity.<br />\r\n<br />\r\nAs a resistance recruit you will receive a modified H4C-Kit and access our mod database. You will get access to the Cyber Complex Simulator to create and test new environments. Learn how to control your H4C-Kit and capture clusters to spawn nodes, evade scanners, and dig deeper into the Cyber Complex!<br />\r\n<br />\r\nJoin the resistance now!<br />\r\n<br />\r\n<br />\r\nAbout the Game<br />\r\n<br />\r\n- Cyber Complex is a unique mix of Action, Strategy and classic Arcade elements in a 60s-style Sci-Fi setting. Let's call it a #PACTICS Game!<br />\r\n- Log yourself into the cyberspace grid and learn how to capture Clusters, produce helping Nodes and avoid enemy Scanners!<br />\r\n- Select between Campaign, Survival, Local 2P Coop / Versus modes and evolve your PACTICS!<br />\r\n- Hack through infinite different stages and bossfights. Unlock Mods and upgrade your H4C-Kit to match your playstyle.<br />\r\n- Create unlimited new stages with the integrated Stage Editor and play your own creations!<br />\r\n- Show your skills and fight for worldwide time-attack leaderboard positions alone or with a friend.<br />\r\n- Full Gamepad support<br />\r\n- Enjoy a unique, polarity mechanic based PACTICS game with endless replayability.<br />\r\n<br />\r\nBe part of the resistance and unveil V-Eyes conspiracy plans!<br />\r\n<br />\r\nCan you master the Cyber Complex?",
-  "short_description": "Cyber Complex is a unique mix of Action, Strategy and Arcade elements in a 60s-style Sci-Fi setting. Let's call it a #PACTICS Game!<br />\r\nBe part of the resistance and unveil V-Eyes conspiracy plans. Choose between Campaign, Survival, Editor, 2P Coop or Versus Modes and evolve your PacTics!",
+  "short_description": "Cyber Complex is a unique mix of Action, Strategy and Arcade elements in a 60s-style Sci-Fi setting. Let's call it a #PACTICS Game! Be part of the resistance and unveil V-Eyes conspiracy plans. Choose between Campaign, Survival, Editor, 2P Coop or Versus Modes and evolve your PacTics!",
   "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, Portuguese<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/600440/header.jpg?t=1501847848",
   "website": "http://www.polarityflow.com/cybercomplex",
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 629,
+    "discount_percent": 37,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "6,29\u20ac"
   },
   "packages": [
     157703
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 157703,
-          "percent_savings_text": "",
+          "percent_savings_text": "-37%",
           "percent_savings": 0,
-          "option_text": "Cyber Complex - 9,99\u20ac",
+          "option_text": "Cyber Complex - <span class=\"discount_original_price\">9,99\u20ac</span> 6,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 629
         }
       ]
     }
@@ -279,5 +281,9 @@
     "url": "http://www.polarityflow.com/support",
     "email": "support@polarityflow.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/600440/page_bg_generated_v6b.jpg?t=1501847848"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/600440/page_bg_generated_v6b.jpg?t=1501847848",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

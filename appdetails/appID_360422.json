@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<i>*This product is included in the D&amp;D Complete Core Monster Pack</i><br><br>The entire collection of construct &amp; elemental monsters from the D&amp;D Monster Manual is now at your fingertips.<br><br>Dungeon Masters purchasing this module can use it to create encounters and combats within their campaigns. NPC records have been lovingly entered and organized for ease of use and reference during play.<br><br>This Module Includes<br><ul class=\"bb_ul\"><li>39 construct &amp; elemental creatures<br></li><li>39 monster images to share with your players as hand-outs during play<br></li><li>39 monster tokens to represent your monsters on tactical combat maps and in the combat tracker<br></li><li>Full descriptions for all construct &amp; elemental monsters in the D&amp;D Monster Manual<br></li><li>Full stats for all construct &amp; elemental monsters in the D&amp;D Monster Manual, created as NPC records within Fantasy Grounds for use in building encounters and to help automate attacks and abilities in combat<br></li><li>The complete reference material from the D&amp;D Monster Manual for ease of reference during play<br></li><li>Searchable monster indexes by CR, type and in alphabetical order</li></ul><br><strong>Requirements</strong>: The 5E Ruleset",
   "about_the_game": "<i>*This product is included in the D&amp;D Complete Core Monster Pack</i><br><br>The entire collection of construct &amp; elemental monsters from the D&amp;D Monster Manual is now at your fingertips.<br><br>Dungeon Masters purchasing this module can use it to create encounters and combats within their campaigns. NPC records have been lovingly entered and organized for ease of use and reference during play.<br><br>This Module Includes<br><ul class=\"bb_ul\"><li>39 construct &amp; elemental creatures<br></li><li>39 monster images to share with your players as hand-outs during play<br></li><li>39 monster tokens to represent your monsters on tactical combat maps and in the combat tracker<br></li><li>Full descriptions for all construct &amp; elemental monsters in the D&amp;D Monster Manual<br></li><li>Full stats for all construct &amp; elemental monsters in the D&amp;D Monster Manual, created as NPC records within Fantasy Grounds for use in building encounters and to help automate attacks and abilities in combat<br></li><li>The complete reference material from the D&amp;D Monster Manual for ease of reference during play<br></li><li>Searchable monster indexes by CR, type and in alphabetical order</li></ul><br><strong>Requirements</strong>: The 5E Ruleset",
-  "short_description": "<i>*This product is included in the D&amp;D Complete Core Monster Pack</i><br><br>The entire collection of construct &amp; elemental monsters from the D&amp;D Monster Manual is now at your fingertips.<br><br>Dungeon Masters purchasing this module can use it to create encounters and combats within their campaigns. NPC records have been lovingly entered and organized for ease of use and reference during play.",
+  "short_description": "*This product is included in the D&amp;D Complete Core Monster PackThe entire collection of construct &amp; elemental monsters from the D&amp;D Monster Manual is now at your fingertips.Dungeon Masters purchasing this module can use it to create encounters and combats within their campaigns.",
   "fullgame": {
     "appid": "252690",
     "name": "Fantasy Grounds"
@@ -20,7 +20,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2015 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a></a> for more product information.<br><br>Dungeons & Dragons and its respective logo are registered trademarks of Wizards of the Coast LLC.<br>\u00a92014 Wizards of the Coast. All Rights Reserved.",
+  "legal_notice": "Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2015 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a> for more product information.<br><br>Dungeons & Dragons and its respective logo are registered trademarks of Wizards of the Coast LLC.<br>\u00a92014 Wizards of the Coast. All Rights Reserved.",
   "developers": [
     "SmiteWorks USA, LLC"
   ],
@@ -31,10 +31,12 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    "64371"
+    64371
   ],
   "package_groups": [
     {
@@ -47,7 +49,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "64371",
+          "packageid": 64371,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Fantasy Grounds - D&D Monster Pack - Constructs & Elementals - 4,99\u20ac",
@@ -118,6 +120,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/360422/ss_537bb99c370d3f594d42c6cb70317e69f6f0bed3.1920x1080.jpg?t=1447371856"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Apr, 2015"
@@ -126,5 +131,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/360422/page_bg_generated_v6b.jpg?t=1447371856"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/360422/page_bg_generated_v6b.jpg?t=1447371856",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

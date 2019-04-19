@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     55827
@@ -143,6 +145,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Jul, 2015"
@@ -151,5 +156,9 @@
     "url": "http://www.iconicalcreative.com",
     "email": "mail@iconicalcreative.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/336680/page_bg_generated_v6b.jpg?t=1457223596"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/336680/page_bg_generated_v6b.jpg?t=1457223596",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

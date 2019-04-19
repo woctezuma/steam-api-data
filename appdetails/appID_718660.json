@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     208414
@@ -171,5 +173,9 @@
     "url": "http://steamcommunity.com/groups/Squad_Anime",
     "email": "anime_squad_help@inbox.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/718660/page_bg_generated_v6b.jpg?t=1510672057"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/718660/page_bg_generated_v6b.jpg?t=1510672057",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

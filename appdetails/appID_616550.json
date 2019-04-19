@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The All Characters Pack gives you access to all of the characters not currently playable in the free version of Microgons.  Unlock the full game experience with 12 new characters.",
   "about_the_game": "The All Characters Pack gives you access to all of the characters not currently playable in the free version of Microgons.  Unlock the full game experience with 12 new characters.",
-  "short_description": "The All Characters Pack gives you access to all of the characters not currently playable in the free version of Microgons.  Unlock the full game experience with 12 new characters.",
+  "short_description": "The All Characters Pack gives you access to all of the characters not currently playable in the free version of Microgons. Unlock the full game experience with 12 new characters.",
   "fullgame": {
     "appid": "529870",
     "name": "Microgons"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     165328
@@ -129,5 +131,9 @@
     "url": "",
     "email": "doghoggler.help@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/616550/page_bg_generated_v6b.jpg?t=1490807578"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/616550/page_bg_generated_v6b.jpg?t=1490807578",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

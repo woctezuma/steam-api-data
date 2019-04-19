@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Players will experience an exciting adventure as Dr. Watson at fantastic locations. The first part of this new 3D hidden object series takes players to the famous Treasure Island. In this adventure, players solve exciting puzzles and interact with a varied landscape and many locations. As a special bonus, the adventure can be played with 3-D glasses in real 3D. But even without 3D glasses an addictive Hidden Object game awaits the player.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Atmospheric Locations (Exotic islands, ruins and volcanic island) <br></li><li>Complete 3D gaming world <br></li><li>Real 3D effects with 3D glasses <br></li><li>Living game world <br></li><li>Interactive 3D picture puzzles<br></li><li>A wide variety of puzzles </li></ul>",
   "about_the_game": "Players will experience an exciting adventure as Dr. Watson at fantastic locations. The first part of this new 3D hidden object series takes players to the famous Treasure Island. In this adventure, players solve exciting puzzles and interact with a varied landscape and many locations. As a special bonus, the adventure can be played with 3-D glasses in real 3D. But even without 3D glasses an addictive Hidden Object game awaits the player.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Atmospheric Locations (Exotic islands, ruins and volcanic island) <br></li><li>Complete 3D gaming world <br></li><li>Real 3D effects with 3D glasses <br></li><li>Living game world <br></li><li>Interactive 3D picture puzzles<br></li><li>A wide variety of puzzles </li></ul>",
-  "short_description": "Players will experience an exciting adventure as Dr. Watson at fantastic locations. The first part of this new 3D hidden object series takes players to the famous Treasure Island. In this adventure, players solve exciting puzzles and interact with a varied landscape and many locations. As a special bonus, the adventure can be played with 3-D glasses in real 3D. But even without 3D glasses an addictive Hidden Object game awaits the player.",
+  "short_description": "Players will experience an exciting adventure as Dr. Watson at fantastic locations. The first part of this new 3D hidden object series takes players to the famous Treasure Island. In this adventure, players solve exciting puzzles and interact with a varied landscape and many locations.",
   "supported_languages": "English, French, German",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/446430/header.jpg?t=1457695168",
   "website": null,
@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "final": 239,
+    "discount_percent": 70,
+    "initial_formatted": "7,99\u20ac",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     95326,
@@ -44,23 +46,23 @@
       "subs": [
         {
           "packageid": 95326,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Doctor Watson - Treasure Island - 7,99\u20ac",
+          "option_text": "Doctor Watson - Treasure Island - <span class=\"discount_original_price\">7,99\u20ac</span> 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 239
         },
         {
           "packageid": 96876,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Dr. Watson Complete - 11,99\u20ac",
+          "option_text": "Dr. Watson Complete - <span class=\"discount_original_price\">11,99\u20ac</span> 3,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1199
+          "price_in_cents_with_discount": 359
         }
       ]
     }
@@ -196,6 +198,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Mar, 2016"
@@ -204,5 +209,9 @@
     "url": "",
     "email": "support@uieg.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/446430/page_bg_generated_v6b.jpg?t=1457695168"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/446430/page_bg_generated_v6b.jpg?t=1457695168",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

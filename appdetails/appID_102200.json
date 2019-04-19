@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     8905
@@ -68,7 +70,7 @@
   },
   "metacritic": {
     "score": 69,
-    "url": "http://www.metacritic.com/game/pc/runespell-overture?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/runespell-overture?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -154,7 +156,7 @@
     }
   ],
   "recommendations": {
-    "total": 324
+    "total": 181
   },
   "achievements": {
     "total": 35,
@@ -209,5 +211,9 @@
     "url": "https://runespell.zendesk.com/hc/en-us",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/102200/page_bg_generated_v6b.jpg?t=1447353993"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/102200/page_bg_generated_v6b.jpg?t=1447353993",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

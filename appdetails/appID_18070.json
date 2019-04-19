@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     11115
@@ -67,7 +69,7 @@
   },
   "metacritic": {
     "score": 63,
-    "url": "http://www.metacritic.com/game/pc/the-baconing?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/the-baconing?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -221,9 +223,6 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/18070/ss_cf720a0ea018c2b6b5c66bffbe2415fd27faf892.1920x1080.jpg?t=1447354527"
     }
   ],
-  "recommendations": {
-    "total": 182
-  },
   "achievements": {
     "total": 12,
     "highlighted": [
@@ -277,5 +276,9 @@
     "url": "",
     "email": "support@hotheadgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/18070/page_bg_generated_v6b.jpg?t=1447354527"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/18070/page_bg_generated_v6b.jpg?t=1447354527",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

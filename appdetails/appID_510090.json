@@ -11,7 +11,7 @@
     "appid": "411540",
     "name": "Hybrid Wars"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Spanish, Polish, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Polish, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/510090/header.jpg?t=1475229172",
   "website": "http://hybridwars.net",
   "pc_requirements": {
@@ -35,13 +35,13 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 549,
-    "final": 549,
-    "discount_percent": 0
+    "initial": 569,
+    "final": 569,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,69\u20ac"
   },
   "packages": [
-    118432,
-    118658,
     127007
   ],
   "package_groups": [
@@ -55,34 +55,14 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": 118432,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hybrid Wars Upgrade Pack - 5,49\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 549
-        },
-        {
-          "packageid": 118658,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hybrid Wars Deluxe Edition - 17,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 1799
-        },
-        {
           "packageid": 127007,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Hybrid Wars Deluxe Edition + Season Pass - 22,99\u20ac",
+          "option_text": "Hybrid Wars - Full Package - 5,69\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2299
+          "price_in_cents_with_discount": 569
         }
       ]
     }
@@ -183,6 +163,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/510090/ss_38bdf1dc788aa476b68b37f4d8e1b5e040231a64.1920x1080.jpg?t=1475229172"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Sep, 2016"
@@ -191,5 +174,9 @@
     "url": "http://support.wargaming.net/",
     "email": "support@wargaming.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/510090/page_bg_generated_v6b.jpg?t=1475229172"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/510090/page_bg_generated_v6b.jpg?t=1475229172",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,7 +11,7 @@
     "appid": "614900",
     "name": "Devade"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Bulgarian, Portuguese-Brazil, Danish, Simplified Chinese, Russian, Ukrainian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Portuguese - Brazil, Danish, Simplified Chinese, Russian, Ukrainian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/620000/header.jpg?t=1491648067",
   "website": "http://palenogames.ru",
   "pc_requirements": {
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 62,
+    "discount_percent": 37,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,62\u20ac"
   },
   "packages": [
     166470
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 166470,
-          "percent_savings_text": "",
+          "percent_savings_text": "-37%",
           "percent_savings": 0,
-          "option_text": "Devade OST - 0,99\u20ac",
+          "option_text": "Devade OST - <span class=\"discount_original_price\">0,99\u20ac</span> 0,62\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 62
         }
       ]
     }
@@ -115,5 +117,9 @@
     "url": "http://palenogames.ru",
     "email": "contact@palenogames.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620000/page_bg_generated_v6b.jpg?t=1491648067"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620000/page_bg_generated_v6b.jpg?t=1491648067",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

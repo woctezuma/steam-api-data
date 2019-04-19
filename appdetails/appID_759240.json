@@ -5,9 +5,9 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>Artbook and Poster PDF Files</h1><p>If you have purchased this documentary, the associated PDFs can be downloaded from the Software section of your Steam Library. If you have received this documentary as a gift, please <a href=\"steam://install/759820\"  >click here</a></a> to add them to your Steam Software Library.</p><br><h1>#label_about_the_series</h1>Over five hours of behind the scenes content with the developer of Axiom Verge, Tom Happ, and his business/marketing mastermind, Dan Adelman.  Videos include a documentary, an extended interview with Tom Happ, a &quot;let's play&quot; by Tom and Dan, and a speedrun by GVirus with commentary by Tom and Dan.<br><br>As a special bonus, this also nets you PDF versions of the world map, poster, and &quot;The Art of Axiom Verge&quot; that were included with the physical console releases.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>Artbook and Poster PDF Files</h1><p>If you have purchased this documentary, the associated PDFs can be downloaded from the Software section of your Steam Library. If you have received this documentary as a gift, please <a href=\"steam:/install/759820\"  >click here</a> to add them to your Steam Software Library.</p><br><h1>#label_about_the_series</h1>Over five hours of behind the scenes content with the developer of Axiom Verge, Tom Happ, and his business/marketing mastermind, Dan Adelman.  Videos include a documentary, an extended interview with Tom Happ, a &quot;let's play&quot; by Tom and Dan, and a speedrun by GVirus with commentary by Tom and Dan.<br><br>As a special bonus, this also nets you PDF versions of the world map, poster, and &quot;The Art of Axiom Verge&quot; that were included with the physical console releases.",
   "about_the_game": "Over five hours of behind the scenes content with the developer of Axiom Verge, Tom Happ, and his business/marketing mastermind, Dan Adelman.  Videos include a documentary, an extended interview with Tom Happ, a &quot;let's play&quot; by Tom and Dan, and a speedrun by GVirus with commentary by Tom and Dan.<br />\r\n<br />\r\nAs a special bonus, this also nets you PDF versions of the world map, poster, and &quot;The Art of Axiom Verge&quot; that were included with the physical console releases.",
-  "short_description": "Over five hours of behind the scenes content with the developer of Axiom Verge, Tom Happ, and his business/marketing mastermind, Dan Adelman.  <br />\r\nIncludes map, poster, and art book PDFs as well.",
+  "short_description": "Over five hours of behind the scenes content with the developer of Axiom Verge, Tom Happ, and his business/marketing mastermind, Dan Adelman. Includes map, poster, and art book PDFs as well.",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     224113
@@ -124,6 +126,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/759240/ss_141997112f61f26200be75ff5c584f853f427732.1920x1080.jpg?t=1513883800"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Dec, 2017"
@@ -132,5 +137,9 @@
     "url": "",
     "email": "support@axiomverge.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/759240/page_bg_generated_v6b.jpg?t=1513883800"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/759240/page_bg_generated_v6b.jpg?t=1513883800",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

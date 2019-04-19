@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "<strong>Soviet Commander: Tank Hunter Tactics</strong><br>Disable enemy tanks and armored vehicles more easily with a variety of upgrades and abilities to support existing AT options. Conscripts gain increased versatility against tanks, when that fails IL-2 planes can deliver a devastating anti-tank bombing run. With enemy vehicles defeated, engineers can scavenge the remains for parts for the soviet industry.<br><br><ul class=\"bb_ul\"><li><strong>IL-2 PTAB Anti-Tank Bombing Run</strong><br>Drops a multitude of smaller anti-tank bombs over a wide area.<br></li><li><strong>Engineer Salvage Kits</strong><br>Combat Engineers can be upgraded with Salvage Kits, allowing them to gather resources from vehicle wrecks.<br></li><li><strong>RPG-40 Anti-Tank Grenade Assault</strong><br>Conscript squads can assault a target vehicle with multiple smaller RPG-40 anti-tank grenades.<br></li><li><strong>Conscript PTRS Package</strong><br>Allow conscripts to upgrade to the PRTS anti-tank rifle.<br></li><li><strong>PMD-6M Light Anti-Vehicle Mines</strong><br>Allows Combat Engineers and Conscripts to build cheap and quick to place anti-vehicle mines that will temporarily stop vehicles.</li></ul>",
   "about_the_game": "<strong>Soviet Commander: Tank Hunter Tactics</strong><br>Disable enemy tanks and armored vehicles more easily with a variety of upgrades and abilities to support existing AT options. Conscripts gain increased versatility against tanks, when that fails IL-2 planes can deliver a devastating anti-tank bombing run. With enemy vehicles defeated, engineers can scavenge the remains for parts for the soviet industry.<br><br><ul class=\"bb_ul\"><li><strong>IL-2 PTAB Anti-Tank Bombing Run</strong><br>Drops a multitude of smaller anti-tank bombs over a wide area.<br></li><li><strong>Engineer Salvage Kits</strong><br>Combat Engineers can be upgraded with Salvage Kits, allowing them to gather resources from vehicle wrecks.<br></li><li><strong>RPG-40 Anti-Tank Grenade Assault</strong><br>Conscript squads can assault a target vehicle with multiple smaller RPG-40 anti-tank grenades.<br></li><li><strong>Conscript PTRS Package</strong><br>Allow conscripts to upgrade to the PRTS anti-tank rifle.<br></li><li><strong>PMD-6M Light Anti-Vehicle Mines</strong><br>Allows Combat Engineers and Conscripts to build cheap and quick to place anti-vehicle mines that will temporarily stop vehicles.</li></ul>",
-  "short_description": "",
+  "short_description": "Soviet Commander: Tank Hunter TacticsDisable enemy tanks and armored vehicles more easily with a variety of upgrades and abilities to support existing AT options. Conscripts gain increased versatility against tanks, when that fails IL-2 planes can deliver a devastating anti-tank bombing run.",
   "fullgame": {
     "appid": "231430",
     "name": "Company of Heroes 2"
   },
-  "supported_languages": "Czech, English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian, Polish<strong>*</strong>, Russian<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "Czech, English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian, Polish<strong>*</strong>, Russian<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/249092/header.jpg?t=1521816375",
   "website": "http://www.companyofheroes.com/",
   "pc_requirements": {
@@ -41,10 +41,12 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
-    "30076"
+    30076
   ],
   "package_groups": [
     {
@@ -57,7 +59,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "30076",
+          "packageid": 30076,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Company of Heroes 2 - Soviet Commander: Tank Hunter Tactics - 3,99\u20ac",
@@ -117,6 +119,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Sep, 2014"
@@ -125,5 +130,9 @@
     "url": "https://support.sega.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/249092/page_bg_generated_v6b.jpg?t=1521816375"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/249092/page_bg_generated_v6b.jpg?t=1521816375",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

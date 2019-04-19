@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     42792,
@@ -184,7 +186,7 @@
     }
   ],
   "recommendations": {
-    "total": 6372
+    "total": 4466
   },
   "achievements": {
     "total": 8,
@@ -231,5 +233,11 @@
     "url": "",
     "email": "support@mountyourfriends.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/296470/page_bg_generated_v6b.jpg?t=1478038949"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/296470/page_bg_generated_v6b.jpg?t=1478038949",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

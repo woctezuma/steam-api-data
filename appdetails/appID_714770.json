@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>&quot;CODumentary is an independent documentary which tells an incredible story of how the video game Call Of Duty grew into becoming one of the biggest global entertainment blockbuster franchises of all time.\r\n\r\nThe film travels back through time and looks at how a single video game gained millions of fans around the world, broke numerous records and battled through the years to establish itself as one of the greatest video games of all time.\r\n\r\nCall Of Duty arrived in 2003 and was produced by Infinity Ward, the games development studio founded by members of the team behind the award-winning WWII action title Medal Of Honor.\r\n\r\nFeaturing highly acclaimed cinematic graphics and storylines, Call Of Duty faced strong competition in its early days from a host of similar high quality WWII games released between 2001 and 2006. In 2007 Infinity Ward made a giant stride forward with the launch of Call Of Duty 4:Modern Warfare, bringing the franchise into a present day setting. The game was critically acclaimed by both fans and media as the title took the multi-player competitive element to a whole new level through a fast action innovative game-play design structure.\r\n\r\nCall Of Duty endured many challenges over the years and has been no stranger to controversy. The film looks at how government officials raised their concern over in-game content and what happened when two studio bosses were sensationally fired by their parent company following a long spell of success. The documentary drills down into all areas of Call Of Duty esports \u2013 the teams, coaches, professional players, and broadcasters, and looks at what it takes to be become the best in the world.\r\n\r\nCODumentary is told by developers, fans, professional players and numerous experts who describe in rich detail what makes the game so special and why it's been so successful from launch to the present day.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>&quot;CODumentary is an independent documentary which tells an incredible story of how the video game Call Of Duty grew into becoming one of the biggest global entertainment blockbuster franchises of all time.\r\n\r\nThe film travels back through time and looks at how a single video game gained millions of fans around the world, broke numerous records and battled through the years to establish itself as one of the greatest video games of all time.\r\n\r\nCall Of Duty arrived in 2003 and was produced by Infinity Ward, the games development studio founded by members of the team behind the award-winning WWII action title Medal Of Honor.\r\n\r\nFeaturing highly acclaimed cinematic graphics and storylines, Call Of Duty faced strong competition in its early days from a host of similar high quality WWII games released between 2001 and 2006. In 2007 Infinity Ward made a giant stride forward with the launch of Call Of Duty 4:Modern Warfare, bringing the franchise into a present day setting. The game was critically acclaimed by both fans and media as the title took the multi-player competitive element to a whole new level through a fast action innovative game-play design structure.\r\n\r\nCall Of Duty endured many challenges over the years and has been no stranger to controversy. The film looks at how government officials raised their concern over in-game content and what happened when two studio bosses were sensationally fired by their parent company following a long spell of success. The documentary drills down into all areas of Call Of Duty esports \u2013 the teams, coaches, professional players, and broadcasters, and looks at what it takes to be become the best in the world.\r\n\r\nCODumentary is told by developers, fans, professional players and numerous experts who describe in rich detail what makes the game so special and why it's been so successful from launch to the present day.",
   "about_the_game": "&quot;CODumentary is an independent documentary which tells an incredible story of how the video game Call Of Duty grew into becoming one of the biggest global entertainment blockbuster franchises of all time.<br />\r\n<br />\r\nThe film travels back through time and looks at how a single video game gained millions of fans around the world, broke numerous records and battled through the years to establish itself as one of the greatest video games of all time.<br />\r\n<br />\r\nCall Of Duty arrived in 2003 and was produced by Infinity Ward, the games development studio founded by members of the team behind the award-winning WWII action title Medal Of Honor.<br />\r\n<br />\r\nFeaturing highly acclaimed cinematic graphics and storylines, Call Of Duty faced strong competition in its early days from a host of similar high quality WWII games released between 2001 and 2006. In 2007 Infinity Ward made a giant stride forward with the launch of Call Of Duty 4:Modern Warfare, bringing the franchise into a present day setting. The game was critically acclaimed by both fans and media as the title took the multi-player competitive element to a whole new level through a fast action innovative game-play design structure.<br />\r\n<br />\r\nCall Of Duty endured many challenges over the years and has been no stranger to controversy. The film looks at how government officials raised their concern over in-game content and what happened when two studio bosses were sensationally fired by their parent company following a long spell of success. The documentary drills down into all areas of Call Of Duty esports \u2013 the teams, coaches, professional players, and broadcasters, and looks at what it takes to be become the best in the world.<br />\r\n<br />\r\nCODumentary is told by developers, fans, professional players and numerous experts who describe in rich detail what makes the game so special and why it's been so successful from launch to the present day.",
   "short_description": "An independent documentary charting the meteoric rise of Call of Duty and how it grew into one of the biggest global entertainment franchises of all time. From launch in 2003 through to the present day, the film tells a fascinating story covering the game's epic rich history.",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     206910,
@@ -160,6 +162,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Sep, 2017"
@@ -168,5 +173,9 @@
     "url": "http://devolverdigitalfilms.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/714770/page_bg_generated_v6b.jpg?t=1505840665"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/714770/page_bg_generated_v6b.jpg?t=1505840665",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

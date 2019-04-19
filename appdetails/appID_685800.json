@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     196288
@@ -141,6 +143,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Sep, 2017"
@@ -149,5 +154,9 @@
     "url": "",
     "email": "outlawg4m3s@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/685800/page_bg_generated_v6b.jpg?t=1515534975"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/685800/page_bg_generated_v6b.jpg?t=1515534975",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

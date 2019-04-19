@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     160669
@@ -108,5 +110,9 @@
     "url": "",
     "email": "team@screwylightbulb.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/607100/page_bg_generated_v6b.jpg?t=1491581320"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/607100/page_bg_generated_v6b.jpg?t=1491581320",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

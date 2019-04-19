@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     102370
@@ -113,6 +115,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 May, 2016"
@@ -121,5 +126,9 @@
     "url": "https://bigfishgames.custhelp.com/app/ask",
     "email": "info@bigfishgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466040/page_bg_generated_v6b.jpg?t=1463517060"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466040/page_bg_generated_v6b.jpg?t=1463517060",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

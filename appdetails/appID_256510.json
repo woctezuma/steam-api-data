@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Tired of the same old Awesomenauts announcer? Then it's time for some corporate restructuring! Enter the Specialized Universal Secretary Interface, SUSI. This corporate interface will boost your success and profitability rate on the battlefield by a 15.6% margin! SUSI will provide you with excellent battlefield market analysis technology, to make sure that every fight will have a worthwhile return on investment. Just make sure you have a solid exit strategy!<br />\r\n<br />\r\nThe SUSI Announcer can be activated from the character select menu or the in-game menu. Activating this Announcer will replace the default announcements made during regular gameplay with a whole new set.",
   "about_the_game": "Tired of the same old Awesomenauts announcer? Then it's time for some corporate restructuring! Enter the Specialized Universal Secretary Interface, SUSI. This corporate interface will boost your success and profitability rate on the battlefield by a 15.6% margin! SUSI will provide you with excellent battlefield market analysis technology, to make sure that every fight will have a worthwhile return on investment. Just make sure you have a solid exit strategy!<br />\r\n<br />\r\nThe SUSI Announcer can be activated from the character select menu or the in-game menu. Activating this Announcer will replace the default announcements made during regular gameplay with a whole new set.",
-  "short_description": "",
+  "short_description": "Tired of the same old Awesomenauts announcer? Then it's time for some corporate restructuring! Enter the Specialized Universal Secretary Interface, SUSI. This corporate interface will boost your success and profitability rate on the battlefield by a 15.6% margin!",
   "fullgame": {
     "appid": "204300",
     "name": "Awesomenauts - the 2D moba"
   },
-  "supported_languages": "English<strong>*</strong>, German, French, Italian, Spanish, Dutch, Portuguese-Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German, French, Italian, Spanish - Spain, Dutch, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/256510/header.jpg?t=1506686945",
   "website": "http://www.awesomenauts.com/",
   "pc_requirements": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     32002
@@ -150,6 +152,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Jan, 2014"
@@ -158,5 +163,9 @@
     "url": "http://www.awesomenauts.com/forum/viewforum.php?f=10",
     "email": "support@ronimo-games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/256510/page_bg_generated_v6b.jpg?t=1506686945"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/256510/page_bg_generated_v6b.jpg?t=1506686945",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

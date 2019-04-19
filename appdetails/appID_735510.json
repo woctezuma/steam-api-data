@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     214824
@@ -154,6 +156,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Oct, 2017"
@@ -162,5 +167,9 @@
     "url": "",
     "email": "support@nextdaymmo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/735510/page_bg_generated_v6b.jpg?t=1508863255"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/735510/page_bg_generated_v6b.jpg?t=1508863255",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

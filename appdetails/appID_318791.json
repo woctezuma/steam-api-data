@@ -12,7 +12,7 @@
     "appid": "209660",
     "name": "Call of Duty: Advanced Warfare - Multiplayer"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/318791/header.jpg?t=1450406446",
   "website": "http://www.callofduty.com/advancedwarfare",
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 1449,
     "final": 1449,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,49\u20ac"
   },
   "packages": [
     49322
@@ -197,7 +199,10 @@
     }
   ],
   "recommendations": {
-    "total": 295
+    "total": 254
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -207,5 +212,9 @@
     "url": "http://support.activision.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/318791/page_bg_generated_v6b.jpg?t=1450406446"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/318791/page_bg_generated_v6b.jpg?t=1450406446",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

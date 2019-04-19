@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "initial": 659,
+    "final": 659,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,59\u20ac"
   },
   "packages": [
     223417
@@ -51,11 +53,11 @@
           "packageid": 223417,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: Newcastle Shunter - 7,99\u20ac",
+          "option_text": "TANE DLC: Newcastle Shunter - 6,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 659
         }
       ]
     }
@@ -138,6 +140,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/457610/ss_000c4b0a2b1c184446bee22e6c00ee86a9bd1380.1920x1080.jpg?t=1460684197"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Apr, 2016"
@@ -146,5 +151,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/457610/page_bg_generated_v6b.jpg?t=1460684197"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/457610/page_bg_generated_v6b.jpg?t=1460684197",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     240135
@@ -45,11 +47,11 @@
           "packageid": 240135,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "OutBreak Zombie - 0,99\u20ac",
+          "option_text": "OutBreak Zombie - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -105,11 +107,6 @@
       "id": 5,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/792900/ss_e25a4599be4693179b48f0b3b55b58ff8b0c038f.600x338.jpg?t=1518024419",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/792900/ss_e25a4599be4693179b48f0b3b55b58ff8b0c038f.1920x1080.jpg?t=1518024419"
-    },
-    {
-      "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/792900/?t=1518024419",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/792900/?t=1518024419"
     }
   ],
   "movies": [
@@ -124,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Feb, 2018"
@@ -132,5 +132,9 @@
     "url": "",
     "email": "outbreakzombie.co"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/792900/page_bg_generated_v6b.jpg?t=1518024419"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/792900/page_bg_generated_v6b.jpg?t=1518024419",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

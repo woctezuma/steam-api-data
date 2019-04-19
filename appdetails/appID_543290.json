@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     133773
@@ -136,6 +138,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Dec, 2016"
@@ -144,5 +149,12 @@
     "url": "http://www.vysoko.com/",
     "email": "info@vysoko.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/543290/page_bg_generated_v6b.jpg?t=1481749090"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/543290/page_bg_generated_v6b.jpg?t=1481749090",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

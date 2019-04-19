@@ -8,7 +8,7 @@
   "about_the_game": "<strong><i>A Video Game About a Woman Talking to the Police </i></strong><br><br><strong>Her Story</strong> is the award winning video game from Sam Barlow, creator of Silent Hill: Shattered Memories and Aisle. A crime fiction game with non-linear storytelling, Her Story revolves around a police database full of live action video footage. It stars Viva Seifert, actress and one half of the band Joe Gideon and the Shark.<h2 class=\"bb_tag\">How does it work?</h2><br><strong>Her Story</strong> sits you in front of a mothballed desktop computer that\u2019s logged into a police database of video footage. The footage covers seven interviews from 1994 in which a British woman is interviewed about her missing husband. Explore the database by typing search terms, watch the clips where she speaks those words and piece together her story.<br><br>Unlike anything you've played before, <strong>Her Story</strong> is an involving and moving experience. A game that asks you to listen.",
   "short_description": "A woman is interviewed seven times by the police. Search the video database and explore hundreds of authentic clips to discover her story in this groundbreaking and award winning narrative game.",
   "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201cAs well as being a superb detective game, Her Story might be the best FMV game ever made.\u201d<br>RPS Recommended \u2013 <a href=\"http://www.rockpapershotgun.com/2015/06/22/review-her-story/\" target=\"_blank\" rel=\"noreferrer\"  >Rock Paper Shotgun</a></a><br><br>\u201cHer Story has all the drama and intrigue of the best TV crime shows, but plays to the interactive strengths of the medium in a daring, imaginative way, trusting you to make sense of the scattered jigsaw pieces at your own pace. It\u2019s her story, but it\u2019s also your story. The murder mystery is as old as popular fiction itself, and territory video games have covered before, but I\u2019ve never experienced one quite like this.\u201d<br>90, Editor's Choice \u2013 <a href=\"http://www.pcgamer.com/her-story-review/\" target=\"_blank\" rel=\"noreferrer\"  >PC Gamer</a></a><br><br>\u201cMovies can\u2019t dream of offering audiences a narrative structure as intimate and involving as this: they\u2019re just moving pictures. Her Story points to the future.\u201d<br>5/5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.theguardian.com/technology/2015/jun/25/her-story-review-narrative-video-game\" target=\"_blank\" rel=\"noopener\"  >The Guardian</a></a><br>",
+  "reviews": "\u201cAs well as being a superb detective game, Her Story might be the best FMV game ever made.\u201d<br>RPS Recommended \u2013 <a href=\"http://www.rockpapershotgun.com/2015/06/22/review-her-story/\" target=\"_blank\" rel=\"noreferrer\"  >Rock Paper Shotgun</a><br><br>\u201cHer Story has all the drama and intrigue of the best TV crime shows, but plays to the interactive strengths of the medium in a daring, imaginative way, trusting you to make sense of the scattered jigsaw pieces at your own pace. It\u2019s her story, but it\u2019s also your story. The murder mystery is as old as popular fiction itself, and territory video games have covered before, but I\u2019ve never experienced one quite like this.\u201d<br>90, Editor's Choice \u2013 <a href=\"http://www.pcgamer.com/her-story-review/\" target=\"_blank\" rel=\"noreferrer\"  >PC Gamer</a><br><br>\u201cMovies can\u2019t dream of offering audiences a narrative structure as intimate and involving as this: they\u2019re just moving pictures. Her Story points to the future.\u201d<br>5/5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.theguardian.com/technology/2015/jun/25/her-story-review-narrative-video-game\" target=\"_blank\" rel=\"noopener\"  >The Guardian</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/368370/header.jpg?t=1479954872",
   "website": "http://www.herstorygame.com",
   "pc_requirements": {
@@ -31,10 +31,13 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
-    66920
+    66920,
+    300351
   ],
   "package_groups": [
     {
@@ -55,6 +58,16 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 599
+        },
+        {
+          "packageid": 300351,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Her Story - Commercial License - 5,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 599
         }
       ]
     }
@@ -66,7 +79,7 @@
   },
   "metacritic": {
     "score": 86,
-    "url": "http://www.metacritic.com/game/pc/her-story?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/her-story?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -136,7 +149,7 @@
     }
   ],
   "recommendations": {
-    "total": 4960
+    "total": 3879
   },
   "achievements": {
     "total": 13,
@@ -191,5 +204,9 @@
     "url": "http://www.herstorygame.com/support",
     "email": "developer@herstorygame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/368370/page_bg_generated_v6b.jpg?t=1479954872"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/368370/page_bg_generated_v6b.jpg?t=1479954872",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

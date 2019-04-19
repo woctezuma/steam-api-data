@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Download this exciting new storyline featuring the bodacious buccaneer, Risky Boots! Play the role of the villainous pirate queen as she travels Sequin Land in search of the components she needs to crush Sequin Land once and for all! Collect Pirate Gear, solve brand new puzzles, and battle your rival, Half-Genie Shantae in a final showdown like no other! Don\u2019t miss out on this epic new installment of Shantae: Half-Genie Hero!",
   "about_the_game": "Download this exciting new storyline featuring the bodacious buccaneer, Risky Boots! Play the role of the villainous pirate queen as she travels Sequin Land in search of the components she needs to crush Sequin Land once and for all! Collect Pirate Gear, solve brand new puzzles, and battle your rival, Half-Genie Shantae in a final showdown like no other! Don\u2019t miss out on this epic new installment of Shantae: Half-Genie Hero!",
-  "short_description": "Download this exciting new storyline featuring the bodacious buccaneer, Risky Boots! Play the role of the villainous pirate queen as she travels Sequin Land in search of the components she needs to crush Sequin Land once and for all! Collect Pirate Gear, solve brand new puzzles, and battle your rival, Half-Genie Shantae in a final showdown like no other! Don\u2019t miss out on this epic new installment of Shantae: Half-Genie Hero!",
+  "short_description": "Download this exciting new storyline featuring the bodacious buccaneer, Risky Boots! Play the role of the villainous pirate queen as she travels Sequin Land in search of the components she needs to crush Sequin Land once and for all!",
   "fullgame": {
     "appid": "253840",
     "name": "Shantae: Half-Genie Hero"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Japanese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/639310/header.jpg?t=1504026504",
   "website": "https://wayforward.com/games/shantae-half-genie-hero/",
   "pc_requirements": {
@@ -32,10 +32,12 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
-    "177003"
+    177003
   ],
   "package_groups": [
     {
@@ -48,7 +50,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "177003",
+          "packageid": 177003,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Shantae: Pirate Queen's Quest - 9,99\u20ac",
@@ -137,8 +139,8 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/639310/ss_e6f80e449461ff1bd3ae2df021d58e204a225870.1920x1080.jpg?t=1504026504"
     }
   ],
-  "recommendations": {
-    "total": 102
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -148,5 +150,9 @@
     "url": "https://wayforward.com/support/",
     "email": "support@wayforward.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/639310/page_bg_generated_v6b.jpg?t=1504026504"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/639310/page_bg_generated_v6b.jpg?t=1504026504",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

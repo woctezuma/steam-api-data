@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     151139
@@ -133,7 +135,7 @@
     }
   ],
   "recommendations": {
-    "total": 101
+    "total": 107
   },
   "achievements": {
     "total": 15,
@@ -188,5 +190,9 @@
     "url": "http://www.bigfishgames.com/daily/3mingames/lifeline/support",
     "email": "www.bigfishgames.com/help/?rn=ask"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/585290/page_bg_generated_v6b.jpg?t=1489733985"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/585290/page_bg_generated_v6b.jpg?t=1489733985",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

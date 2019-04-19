@@ -29,10 +29,13 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 249,
-    "discount_percent": 50
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
+    322087,
     93265
   ],
   "package_groups": [
@@ -46,14 +49,24 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": 93265,
-          "percent_savings_text": "-50%",
+          "packageid": 322087,
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Story Of the Survivor - <span class=\"discount_original_price\">4,99\u20ac</span> 2,49\u20ac",
+          "option_text": "Story Of the Survivor - Commercial License - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 249
+          "price_in_cents_with_discount": 399
+        },
+        {
+          "packageid": 93265,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Story Of the Survivor - 4,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -256,5 +269,9 @@
     "url": "http://animakemugames.com",
     "email": "contact@animakemugames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/440950/page_bg_generated_v6b.jpg?t=1505035103"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/440950/page_bg_generated_v6b.jpg?t=1505035103",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

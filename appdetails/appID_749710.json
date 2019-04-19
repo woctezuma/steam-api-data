@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     220143
@@ -180,5 +182,9 @@
     "url": "",
     "email": "support@morseph.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/749710/page_bg_generated_v6b.jpg?t=1517821026"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/749710/page_bg_generated_v6b.jpg?t=1517821026",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     250702
@@ -118,6 +120,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Mar, 2018"
@@ -126,5 +131,9 @@
     "url": "https://weibo.com/3017330762",
     "email": "1824288711@qq.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/818370/page_bg_generated_v6b.jpg?t=1522224439"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/818370/page_bg_generated_v6b.jpg?t=1522224439",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

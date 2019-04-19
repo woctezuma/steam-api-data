@@ -27,38 +27,7 @@
   "publishers": [
     ""
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 2499,
-    "final": 2499,
-    "discount_percent": 0
-  },
-  "packages": [
-    76481
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy Evoland 2 - Artbook",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 76481,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Evoland 2 Deluxe Edition - 24,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2499
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": true,
@@ -111,6 +80,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/396470/ss_425612c80315368c666e6c67243358a23d0b04ce.1920x1080.jpg?t=1450365254"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Dec, 2015"
@@ -119,5 +91,9 @@
     "url": "",
     "email": "support@shirogames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396470/page_bg_generated_v6b.jpg?t=1450365254"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396470/page_bg_generated_v6b.jpg?t=1450365254",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

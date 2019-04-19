@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     77364
@@ -269,6 +271,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Sep, 2015"
@@ -277,5 +282,9 @@
     "url": "http://www.dimecoingames.com/wiki/index.php?title=Help_And_Support",
     "email": "dimecoin@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/398900/page_bg_generated_v6b.jpg?t=1449621332"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/398900/page_bg_generated_v6b.jpg?t=1449621332",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>A new enemy, A new Hero, The same bunch of rejects. When a secret government project goes wrong, the Reds and Blues must reconstruct their units to form an unlikely new alliance. It doesn't take long to find out they've taken on more than they ever bargained for, but there's no turning back. And no going home. Blood Gulch was only the beginning.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>A new enemy, A new Hero, The same bunch of rejects. When a secret government project goes wrong, the Reds and Blues must reconstruct their units to form an unlikely new alliance. It doesn't take long to find out they've taken on more than they ever bargained for, but there's no turning back. And no going home. Blood Gulch was only the beginning.",
   "about_the_game": "A new enemy, A new Hero, The same bunch of rejects. When a secret government project goes wrong, the Reds and Blues must reconstruct their units to form an unlikely new alliance. It doesn't take long to find out they've taken on more than they ever bargained for, but there's no turning back. And no going home. Blood Gulch was only the beginning.",
   "short_description": "Buried beneath the sand is the answer to a mystery more dangerous than anyone could possibly understand. It's the perfect mission for a bunch of ragtag soldiers who don't know what they're doing anyway.",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     113865,
@@ -170,6 +172,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Aug, 2016"
@@ -178,5 +183,9 @@
     "url": "http://www.cinedigm.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498110/page_bg_generated_v6b.jpg?t=1472753971"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498110/page_bg_generated_v6b.jpg?t=1472753971",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

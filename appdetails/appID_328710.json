@@ -10,7 +10,7 @@
   "detailed_description": "When everything is over, when there is no society, law or even world and you need to fight every day for a last breath, your only goal is to survive one last day.<br><br>Explore, hunt, be hunted, kill, destroy, build... Just do whatever you need to survive in a colorful, devastated world which the nature has taken back.<h2 class=\"bb_tag\">Current features (alpha stage)</h2><ul class=\"bb_ul\"><li> Explore procedural generated world alone or with friends.<br></li><li> Build and destroy. This is voxel and you can destroy every single piece of map.<br></li><li> Survive at any cost. You can survive by gathering resources just from the nature.<br></li><li> Be a scavenger, search stuff in abandoned buildings, or rob other players.<br></li><li> Living world. Day / night cycles with consecuences and dynamic weather system.<br></li><li> Dangerous world. Avoid the acid radioactive rain and try not to be struck by lightning.<br></li><li> Cooking. Hunt, gather and scavenge food and then cook it.<br></li><li> Arm yourself, you can craft basic weapons and search for the most advanced weaponry.<br></li><li> Create and customize your character, you can find clothes and wear them.<br></li><li> In-game shop (with in-game currency).<br></li><li> Great crafting system that keeps growing and improving every update.<br></li><li> Continuous development with personal support from the developer (if he's awake!)<br></li><li> Offline mode. You don't need internet connection in order to play.<br></li><li> Windows and OSX support.</li></ul><h2 class=\"bb_tag\">Features coming in very next updates (already done, but being tested)</h2><ul class=\"bb_ul\"><li> Infinite map / large scale map support.<br></li><li> Weapon customization (silencers, sights...).<br></li><li> Huge performance optimization.</li></ul><h2 class=\"bb_tag\">Features currently being developed / implemented</h2><ul class=\"bb_ul\"><li> Campaign / story mode.<br></li><li> New character system allowing new actions and new weapons types.<br></li><li> More weapons.<br></li><li> Vehicles (bikes, helicopters, quads and cars).<br></li><li> Skills and character progression.<br></li><li> More enemies and wildlife.<br></li><li> Map events.<br></li><li> Xbox 360 controller support.</li></ul><h2 class=\"bb_tag\">Future features / roadmap</h2><ul class=\"bb_ul\"><li> Character accesories (for example, a parachute).<br></li><li> Further languages.<br></li><li> Enhaced multiplayer experience.<br></li><li> Linux support.<br></li><li> Whatever the community wants!</li></ul><br><strong>Note</strong><br>As for alpha 0.25a, multiplayer mode is currently disabled for a new multiplayer system addition working with Steam.<br><br><strong>Internet connection is recommended in order to play</strong>",
   "about_the_game": "When everything is over, when there is no society, law or even world and you need to fight every day for a last breath, your only goal is to survive one last day.<br><br>Explore, hunt, be hunted, kill, destroy, build... Just do whatever you need to survive in a colorful, devastated world which the nature has taken back.<h2 class=\"bb_tag\">Current features (alpha stage)</h2><ul class=\"bb_ul\"><li> Explore procedural generated world alone or with friends.<br></li><li> Build and destroy. This is voxel and you can destroy every single piece of map.<br></li><li> Survive at any cost. You can survive by gathering resources just from the nature.<br></li><li> Be a scavenger, search stuff in abandoned buildings, or rob other players.<br></li><li> Living world. Day / night cycles with consecuences and dynamic weather system.<br></li><li> Dangerous world. Avoid the acid radioactive rain and try not to be struck by lightning.<br></li><li> Cooking. Hunt, gather and scavenge food and then cook it.<br></li><li> Arm yourself, you can craft basic weapons and search for the most advanced weaponry.<br></li><li> Create and customize your character, you can find clothes and wear them.<br></li><li> In-game shop (with in-game currency).<br></li><li> Great crafting system that keeps growing and improving every update.<br></li><li> Continuous development with personal support from the developer (if he's awake!)<br></li><li> Offline mode. You don't need internet connection in order to play.<br></li><li> Windows and OSX support.</li></ul><h2 class=\"bb_tag\">Features coming in very next updates (already done, but being tested)</h2><ul class=\"bb_ul\"><li> Infinite map / large scale map support.<br></li><li> Weapon customization (silencers, sights...).<br></li><li> Huge performance optimization.</li></ul><h2 class=\"bb_tag\">Features currently being developed / implemented</h2><ul class=\"bb_ul\"><li> Campaign / story mode.<br></li><li> New character system allowing new actions and new weapons types.<br></li><li> More weapons.<br></li><li> Vehicles (bikes, helicopters, quads and cars).<br></li><li> Skills and character progression.<br></li><li> More enemies and wildlife.<br></li><li> Map events.<br></li><li> Xbox 360 controller support.</li></ul><h2 class=\"bb_tag\">Future features / roadmap</h2><ul class=\"bb_ul\"><li> Character accesories (for example, a parachute).<br></li><li> Further languages.<br></li><li> Enhaced multiplayer experience.<br></li><li> Linux support.<br></li><li> Whatever the community wants!</li></ul><br><strong>Note</strong><br>As for alpha 0.25a, multiplayer mode is currently disabled for a new multiplayer system addition working with Steam.<br><br><strong>Internet connection is recommended in order to play</strong>",
   "short_description": "[Alpha] Explore, hunt, be hunted, kill, destroy, build... Fight in a colorful, devastated world that everyone is trying to take for themselves. Do it yours, but remember your main goal at the start of the day; try to survive one last day.",
-  "supported_languages": "English, Spanish, French",
+  "supported_languages": "English, Spanish - Spain, French",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/328710/header.jpg?t=1478115174",
   "website": "http://bloodwolfstudio.com/OLD",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     52932
@@ -197,9 +199,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 107
-  },
   "achievements": {
     "total": 12,
     "highlighted": [
@@ -253,5 +252,9 @@
     "url": "http://bloodwolfstudio.com/OLD/",
     "email": "motbest@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/328710/page_bg_generated_v6b.jpg?t=1478115174"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/328710/page_bg_generated_v6b.jpg?t=1478115174",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

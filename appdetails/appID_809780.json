@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     247119
@@ -44,11 +46,11 @@
           "packageid": 247119,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TheGunRunner - 0,99\u20ac",
+          "option_text": "TheGunRunner - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -122,6 +124,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Mar, 2018"
@@ -130,5 +135,9 @@
     "url": "",
     "email": "gunrunner.co"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/809780/page_bg_generated_v6b.jpg?t=1521194278"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/809780/page_bg_generated_v6b.jpg?t=1521194278",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

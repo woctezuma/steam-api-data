@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>About This Game</strong><br>Streamer Simulator is a simulation being streamer.<br>Change your old life for the better. You can become the world\u2019s greatest streamer in history. <br><br><strong>Build your stream world </strong><br>Start from nothing, buy your first game and start streaming. Collect fans and money and buy better computer. Get up every morning and start new day with streaming. But don't forget about the weekly rent. <br><br><strong>Go to the top and be the best </strong><br>The more viewers you reach the more popular you\u2019ll be. If you upgrade your skills you will earn more money and get more fans. As you recognizable enough, big companes will be interesed to work with you.",
   "about_the_game": "<strong>About This Game</strong><br>Streamer Simulator is a simulation being streamer.<br>Change your old life for the better. You can become the world\u2019s greatest streamer in history. <br><br><strong>Build your stream world </strong><br>Start from nothing, buy your first game and start streaming. Collect fans and money and buy better computer. Get up every morning and start new day with streaming. But don't forget about the weekly rent. <br><br><strong>Go to the top and be the best </strong><br>The more viewers you reach the more popular you\u2019ll be. If you upgrade your skills you will earn more money and get more fans. As you recognizable enough, big companes will be interesed to work with you.",
-  "short_description": "Streamer Simulator is a simulation being streamer. <br />\r\nChange your old life for the better. You can become the world\u2019s greatest streamer in history.",
+  "short_description": "Streamer Simulator is a simulation being streamer. Change your old life for the better. You can become the world\u2019s greatest streamer in history.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/519180/header.jpg?t=1503048665",
   "website": null,
@@ -22,7 +22,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     123014
@@ -143,6 +145,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Aug, 2016"
@@ -151,5 +156,9 @@
     "url": "",
     "email": "cchecknplay@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519180/page_bg_generated_v6b.jpg?t=1503048665"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519180/page_bg_generated_v6b.jpg?t=1503048665",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

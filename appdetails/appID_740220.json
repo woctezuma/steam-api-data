@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "If you throw a bag filled with water, it will explode like a small bomb. You will be amazed, throwing them at objects and see how these bags are gone. In this game, the packages explode by touching various objects, like pedestrians, birds, cops. When you hit a policeman you'll get a penalty, it leads to game over. If you hit pedestrians and birds you raise your score, you can spend it to improve. Join this exciting and addictive game and get more bonuses!",
   "about_the_game": "If you throw a bag filled with water, it will explode like a small bomb. You will be amazed, throwing them at objects and see how these bags are gone. In this game, the packages explode by touching various objects, like pedestrians, birds, cops. When you hit a policeman you'll get a penalty, it leads to game over. If you hit pedestrians and birds you raise your score, you can spend it to improve. Join this exciting and addictive game and get more bonuses!",
-  "short_description": "Throw the bags with water on passers-by,birds - collect points and spend them On upgrades.<br />\r\nThis and much more awaits you in this interesting and exciting game, as well as bonuses.",
+  "short_description": "Throw the bags with water on passers-by,birds - collect points and spend them On upgrades. This and much more awaits you in this interesting and exciting game, as well as bonuses.",
   "supported_languages": "English, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/740220/header.jpg?t=1510041666",
   "website": "http://www.vsemagy.ru/index.php",
@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 59,
-    "discount_percent": 40
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     216751,
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 216751,
-          "percent_savings_text": "-40%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "PeoplePackages - <span class=\"discount_original_price\">0,99\u20ac</span> 0,59\u20ac",
+          "option_text": "PeoplePackages - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 59
+          "price_in_cents_with_discount": 79
         },
         {
           "packageid": 250714,
@@ -129,6 +131,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Nov, 2017"
@@ -137,5 +142,9 @@
     "url": "",
     "email": "volond430@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740220/page_bg_generated_v6b.jpg?t=1510041666"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740220/page_bg_generated_v6b.jpg?t=1510041666",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

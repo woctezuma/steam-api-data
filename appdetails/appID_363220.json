@@ -7,9 +7,9 @@
   "controller_support": "full",
   "detailed_description": "<h2 class=\"bb_tag\"><strong>about</strong></h2>Ghost in the Machine is about the player's escape from a run-down factory following a large explosion. In the dark factory there are many dangerous machines that must be minded in order to not be crushed or mechanically separated. Inspired by 1980s platformer-genre games, Ghost in the Machine features true low-res graphics and an original chiptune soundtrack. It is also difficult, yet rewarding.<h2 class=\"bb_tag\"><strong>gameplay</strong></h2>The game is simple - you can walk left and right, and jump. Only one button! Avoid the traps, don't get wrecked, get to the end. The challenging levels are filled with puzzles and tricky hazards. Each level also has a secret collectible item that will reveal a shred of information about how the player got stuck in the factory in the first place, as well as unlock a secret or two. A level editor is built in to the game so you can create levels to share with your friends. <br><br>The controls are tight, giving the player direct movement control at all times. Jumps are precise, important for situations where timing is essential. Both keyboard and USB game pads are supported, and the game only needs a single button. The game is easy to learn (even for a child), but challenging to master (even for an adult). Levels are played in a semi-linear fashion so players won't get stuck on just one level that they haven't figured out yet.<h2 class=\"bb_tag\"><strong>graphics and Sound</strong></h2>Inspired by Game Boy and MSX games, the graphics are authentically restricted, using only four shades at a time. A circular mask is at the edge of the screen, restricting the player's view to contribute to the dark atmosphere. The sound effects and music were all made with a Nintendo Famicom and Game Boy, so they are as real as it gets. The game engine was written from the ground up. <br><br>The development of this game was backed by a successful Kickstarter campaign, and we are excited to see it finally ready for release. Lots of time was spent tweaking and expanding the game to be sure we are releasing a high quality title that will provide plenty of play time. We look forward to further expansion of the game through new free level downloads.",
   "about_the_game": "<h2 class=\"bb_tag\"><strong>about</strong></h2>Ghost in the Machine is about the player's escape from a run-down factory following a large explosion. In the dark factory there are many dangerous machines that must be minded in order to not be crushed or mechanically separated. Inspired by 1980s platformer-genre games, Ghost in the Machine features true low-res graphics and an original chiptune soundtrack. It is also difficult, yet rewarding.<h2 class=\"bb_tag\"><strong>gameplay</strong></h2>The game is simple - you can walk left and right, and jump. Only one button! Avoid the traps, don't get wrecked, get to the end. The challenging levels are filled with puzzles and tricky hazards. Each level also has a secret collectible item that will reveal a shred of information about how the player got stuck in the factory in the first place, as well as unlock a secret or two. A level editor is built in to the game so you can create levels to share with your friends. <br><br>The controls are tight, giving the player direct movement control at all times. Jumps are precise, important for situations where timing is essential. Both keyboard and USB game pads are supported, and the game only needs a single button. The game is easy to learn (even for a child), but challenging to master (even for an adult). Levels are played in a semi-linear fashion so players won't get stuck on just one level that they haven't figured out yet.<h2 class=\"bb_tag\"><strong>graphics and Sound</strong></h2>Inspired by Game Boy and MSX games, the graphics are authentically restricted, using only four shades at a time. A circular mask is at the edge of the screen, restricting the player's view to contribute to the dark atmosphere. The sound effects and music were all made with a Nintendo Famicom and Game Boy, so they are as real as it gets. The game engine was written from the ground up. <br><br>The development of this game was backed by a successful Kickstarter campaign, and we are excited to see it finally ready for release. Lots of time was spent tweaking and expanding the game to be sure we are releasing a high quality title that will provide plenty of play time. We look forward to further expansion of the game through new free level downloads.",
-  "short_description": "Ghost in the Machine is about the player's escape from a run-down factory following a large explosion. In the dark factory there are many dangerous machines that must be minded in order to not be crushed or mechanically separated. Inspired by 1980s platformer-genre games, Ghost in the Machine features true low-res graphics and an original chiptune soundtrack. It is also difficult, yet rewarding.",
+  "short_description": "Ghost in the Machine is about the player's escape from a run-down factory following a large explosion. In the dark factory there are many dangerous machines that must be minded in order to not be crushed or mechanically separated.",
   "supported_languages": "English",
-  "reviews": "\u201c[The art] is a tasteful reflection to much older systems and the game mechanics a reflection of that as well\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://takethisstudios.blogspot.com/2014/10/ghost-in-machine.html\" target=\"_blank\" rel=\"noopener\"  >TakeThisStudios</a></a><br>",
+  "reviews": "\u201c[The art] is a tasteful reflection to much older systems and the game mechanics a reflection of that as well\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://takethisstudios.blogspot.com/2014/10/ghost-in-machine.html\" target=\"_blank\" rel=\"noopener\"  >TakeThisStudios</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/363220/header.jpg?t=1447372618",
   "website": "http://mikejmoffitt.com/gitm",
   "pc_requirements": {
@@ -35,10 +35,12 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    "65254"
+    65254
   ],
   "package_groups": [
     {
@@ -51,7 +53,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "65254",
+          "packageid": 65254,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Ghost in the Machine - 4,99\u20ac",
@@ -146,6 +148,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Apr, 2015"
@@ -154,5 +159,9 @@
     "url": "http://mikejmoffitt.com",
     "email": "mikejmoffitt+gitm@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/363220/page_bg_generated_v6b.jpg?t=1447372618"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/363220/page_bg_generated_v6b.jpg?t=1447372618",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

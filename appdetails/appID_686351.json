@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Became one of two passengers left in the small spaceship.<br>Play game of chess in no-gravity environment.<br><br>New scene includes<br><ul class=\"bb_ul\"><li>Completely new room inspired by sci-fi movies<br></li><li>Holographic pieces</li></ul>An observant player can even notice flying objects behind the window.",
   "about_the_game": "Became one of two passengers left in the small spaceship.<br>Play game of chess in no-gravity environment.<br><br>New scene includes<br><ul class=\"bb_ul\"><li>Completely new room inspired by sci-fi movies<br></li><li>Holographic pieces</li></ul>An observant player can even notice flying objects behind the window.",
-  "short_description": "Became one of two passengers left in the small spaceship.<br />\r\nPlay game of chess in no-gravity environment.",
+  "short_description": "Became one of two passengers left in the small spaceship. Play game of chess in no-gravity environment.",
   "fullgame": {
     "appid": "631660",
     "name": "Immersion Chess"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     196476
@@ -127,5 +129,9 @@
     "url": "",
     "email": "support.ich@immersion.pl"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/686351/page_bg_generated_v6b.jpg?t=1504690960"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/686351/page_bg_generated_v6b.jpg?t=1504690960",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

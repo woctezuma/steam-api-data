@@ -5,7 +5,7 @@
   "required_age": "15",
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>The journey... the quest... the JOURNEYQUEST continues in the third epic season of the crowdfunded comedy sensation. Join Perf, Nara, Carrow, and Glorion as their fates draw ever closer, while two competing bards struggle to claim ownership of the epic.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>The journey... the quest... the JOURNEYQUEST continues in the third epic season of the crowdfunded comedy sensation. Join Perf, Nara, Carrow, and Glorion as their fates draw ever closer, while two competing bards struggle to claim ownership of the epic.",
   "about_the_game": "The journey... the quest... the JOURNEYQUEST continues in the third epic season of the crowdfunded comedy sensation. Join Perf, Nara, Carrow, and Glorion as their fates draw ever closer, while two competing bards struggle to claim ownership of the epic.",
   "short_description": "The fantasy comedy epic continues in this feature-length third season of JourneyQuest.",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     95649,
@@ -146,6 +148,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Oct, 2017"
@@ -154,5 +159,9 @@
     "url": "http://www.zombieorpheus.com",
     "email": "support+steam@zombieorpheus.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447400/page_bg_generated_v6b.jpg?t=1507682579"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447400/page_bg_generated_v6b.jpg?t=1507682579",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

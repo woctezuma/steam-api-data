@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Ride your music.<br>\t\t\t\t\tAudiosurf is a music-adapting puzzle racer where you use your own music to create your own experience. The shape, the speed, and the mood of each ride is determined by the song you choose. You earn points for clustering together blocks of the same color on the highway, and compete with others on the internet for the high score on your favorite songs. <br>\t\t\t\t\tAudiosurf on Steam includes The Orange Box soundtrack, integrated with the game to enable &quot;Still Alive&quot; surfing and more. In addition, Audiosurf is one of the first titles to leverage Steamworks, offering full support for the Steam Achievements that appear on Steam Community profile pages.<br>\t\t\t\t\t<ul class=\"bb_ul\"><li>Play with any music from your own collection--the game supports MP3s, iTunes M4As, WMAs, CDs and OGGs <br>\t\t\t\t\t</li><li>Valve's The Orange Box Original Soundtrack is included.<br>\t\t\t\t\t</li><li>Online scoreboards for each song you play.<br>\t\t\t\t\t</li><li>Choose your strategy from 14 available characters.<br>\t\t\t\t\t</li><li>Track your progress as Steam Achievements.</li></ul><ul class=\"bb_ul\"></ul>",
   "about_the_game": "Ride your music.<br>\t\t\t\t\tAudiosurf is a music-adapting puzzle racer where you use your own music to create your own experience. The shape, the speed, and the mood of each ride is determined by the song you choose. You earn points for clustering together blocks of the same color on the highway, and compete with others on the internet for the high score on your favorite songs. <br>\t\t\t\t\tAudiosurf on Steam includes The Orange Box soundtrack, integrated with the game to enable &quot;Still Alive&quot; surfing and more. In addition, Audiosurf is one of the first titles to leverage Steamworks, offering full support for the Steam Achievements that appear on Steam Community profile pages.<br>\t\t\t\t\t<ul class=\"bb_ul\"><li>Play with any music from your own collection--the game supports MP3s, iTunes M4As, WMAs, CDs and OGGs <br>\t\t\t\t\t</li><li>Valve's The Orange Box Original Soundtrack is included.<br>\t\t\t\t\t</li><li>Online scoreboards for each song you play.<br>\t\t\t\t\t</li><li>Choose your strategy from 14 available characters.<br>\t\t\t\t\t</li><li>Track your progress as Steam Achievements.</li></ul><ul class=\"bb_ul\"></ul>",
-  "short_description": "",
+  "short_description": "Ride your music. Audiosurf is a music-adapting puzzle racer where you use your own music to create your own experience. The shape, the speed, and the mood of each ride is determined by the song you choose.",
   "supported_languages": "English, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/12900/header.jpg?t=1478101211",
   "website": "http://www.audio-surf.com/",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     636
@@ -67,7 +69,7 @@
   },
   "metacritic": {
     "score": 85,
-    "url": "http://www.metacritic.com/game/pc/audiosurf?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/audiosurf?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -208,7 +210,7 @@
     }
   ],
   "recommendations": {
-    "total": 9178
+    "total": 7423
   },
   "achievements": {
     "total": 19,
@@ -263,5 +265,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/12900/page_bg_generated_v6b.jpg?t=1478101211"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/12900/page_bg_generated_v6b.jpg?t=1478101211",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

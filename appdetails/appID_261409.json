@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Grimm episode 20 - Pinnochio",
   "about_the_game": "Grimm episode 20 - Pinnochio",
-  "short_description": "",
+  "short_description": "Grimm episode 20 - Pinnochio",
   "fullgame": {
     "appid": "252150",
     "name": "Grimm"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     33732,
@@ -131,5 +133,9 @@
     "url": "http://support.spicyhorse.com",
     "email": "support@spicyhorsegames.zendesk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261409/page_bg_generated_v6b.jpg?t=1447359317"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261409/page_bg_generated_v6b.jpg?t=1447359317",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

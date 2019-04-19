@@ -11,16 +11,18 @@
   "about_the_game": "For 3-8 Players and an Audience of thousands!<br />\r\n<br />\r\nThe team behind the hit party games YOU DON\u2019T KNOW JACK, Fibbage, and Drawful presents Quiplash, the laugh-a-minute battle of wits and wittiness! Use your phone or tablet to answer simple prompts like \u201cSomething you\u2019d be surprised to see a donkey do\u201d or \u201cThe worst soup flavor: Cream of _____.\u201d <br />\r\n<br />\r\nNo rules, no correct answers! Say whatever you want!<br />\r\n<br />\r\nYour answer is pitted against another player\u2019s answer in a head-to-head clash of cleverness and comedy (or just \u201cWhich answer is least stupid?\u201d). Other players \u2013 and even an Audience of people waiting to get in the next game \u2013 then vote for their favorite answer.<br />\r\n<br />\r\nQuiplash is a go-to party game that everyone can play and enjoy!<br />\r\n<br />\r\nNOTE: This game is a same-room multiplayer party game.<br />\r\nNOTE: This game is in English only.",
   "short_description": "For 3-8 Players and an Audience of thousands! Your phones or tablets are your controllers! The gut-busting, say-anything, no-rules party game!",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201cQuiplash provided tons of laughter and its ease of use makes it pick up and playable by almost anyone.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.ztgd.com/quiplash/review/\" target=\"_blank\" rel=\"noopener\"  >ZTGD</a></a><br><br>\u201cJackbox Games has created another classic experience to join its library of titles. Quiplash is exciting and easily accessible for many players to join in on the action.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.xblafans.com/quiplash-review-xbox-one-82283.html\" target=\"_blank\" rel=\"noopener\"  >XBLA Fans</a></a><br>",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/351510/header.jpg?t=1521127045",
+  "reviews": "\u201cQuiplash provided tons of laughter and its ease of use makes it pick up and playable by almost anyone.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.ztgd.com/quiplash/review/\" target=\"_blank\" rel=\"noopener\"  >ZTGD</a><br><br>\u201cJackbox Games has created another classic experience to join its library of titles. Quiplash is exciting and easily accessible for many players to join in on the action.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.xblafans.com/quiplash-review-xbox-one-82283.html\" target=\"_blank\" rel=\"noopener\"  >XBLA Fans</a><br>",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/351510/header.jpg?t=1546966709",
   "website": "http://www.jackboxgames.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP / Vista / 7 / 8<br></li><li><strong>Processor:</strong> 2 Ghz Dual Core or higher<br></li><li><strong>Memory:</strong> 125 MB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 75 MB available space<br></li><li><strong>Sound Card:</strong> Integrated</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP / Vista / 7 / 8<br></li><li><strong>Processor:</strong> 2 Ghz Dual Core or higher<br></li><li><strong>Memory:</strong> 125 MB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 110 MB available space<br></li><li><strong>Sound Card:</strong> Integrated</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.5+<br></li><li><strong>Processor:</strong> Dual Core or higher<br></li><li><strong>Memory:</strong> 125 MB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 75 MB available space<br></li><li><strong>Sound Card:</strong> Integrated</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.5+<br></li><li><strong>Processor:</strong> Dual Core or higher<br></li><li><strong>Memory:</strong> 125 MB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 110 MB available space<br></li><li><strong>Sound Card:</strong> Integrated</li></ul>"
   },
-  "linux_requirements": [],
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04<br></li><li><strong>Processor:</strong> 2.66 Ghz Core 2 Duo or Greater<br></li><li><strong>Memory:</strong> 125 MB RAM<br></li><li><strong>Graphics:</strong> GeForce 500+ / Radeon 5000+ or Greater<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 110 MB available space</li></ul>"
+  },
   "legal_notice": "Developed by Jackbox Games, Inc. Game and Software \u00a92015 Jackbox Games, Inc. All rights reserved. Jackbox Games and the Jackbox Games logo are registered trademarks of Jackbox Games, Inc. Quiplash and the Quiplash logo are trademarks of Jackbox Games, Inc. All other trademarks and logos are the property of their respective owners.",
   "developers": [
     "Jackbox Games, Inc."
@@ -32,7 +34,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     61123
@@ -63,12 +67,12 @@
   "platforms": {
     "windows": true,
     "mac": true,
-    "linux": false
+    "linux": true
   },
   "categories": [
     {
-      "id": 1,
-      "description": "Multi-player"
+      "id": 37,
+      "description": "Local Multi-Player"
     },
     {
       "id": 22,
@@ -100,63 +104,63 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_91eacf8cf831f44a7f05445bf3fd71d074c33de1.600x338.jpg?t=1521127045",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_91eacf8cf831f44a7f05445bf3fd71d074c33de1.1920x1080.jpg?t=1521127045"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_91eacf8cf831f44a7f05445bf3fd71d074c33de1.600x338.jpg?t=1546966709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_91eacf8cf831f44a7f05445bf3fd71d074c33de1.1920x1080.jpg?t=1546966709"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_2faf18947a88220b8aae7762b3f10697aad663c8.600x338.jpg?t=1521127045",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_2faf18947a88220b8aae7762b3f10697aad663c8.1920x1080.jpg?t=1521127045"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_2faf18947a88220b8aae7762b3f10697aad663c8.600x338.jpg?t=1546966709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_2faf18947a88220b8aae7762b3f10697aad663c8.1920x1080.jpg?t=1546966709"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_b43742be0818c5c18a6415f51ac4d2e383aa732f.600x338.jpg?t=1521127045",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_b43742be0818c5c18a6415f51ac4d2e383aa732f.1920x1080.jpg?t=1521127045"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_b43742be0818c5c18a6415f51ac4d2e383aa732f.600x338.jpg?t=1546966709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_b43742be0818c5c18a6415f51ac4d2e383aa732f.1920x1080.jpg?t=1546966709"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_a20ecfbc05e9e996c4515e857bc68430c6810fe2.600x338.jpg?t=1521127045",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_a20ecfbc05e9e996c4515e857bc68430c6810fe2.1920x1080.jpg?t=1521127045"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_a20ecfbc05e9e996c4515e857bc68430c6810fe2.600x338.jpg?t=1546966709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_a20ecfbc05e9e996c4515e857bc68430c6810fe2.1920x1080.jpg?t=1546966709"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_a1f0c9b939313be42142b6e1702568a9ed047986.600x338.jpg?t=1521127045",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_a1f0c9b939313be42142b6e1702568a9ed047986.1920x1080.jpg?t=1521127045"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_a1f0c9b939313be42142b6e1702568a9ed047986.600x338.jpg?t=1546966709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_a1f0c9b939313be42142b6e1702568a9ed047986.1920x1080.jpg?t=1546966709"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_7912baec55b9854f8b078e438975967902dc40d4.600x338.jpg?t=1521127045",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_7912baec55b9854f8b078e438975967902dc40d4.1920x1080.jpg?t=1521127045"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_7912baec55b9854f8b078e438975967902dc40d4.600x338.jpg?t=1546966709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_7912baec55b9854f8b078e438975967902dc40d4.1920x1080.jpg?t=1546966709"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_e2b79c2f93a17eec1472c3410059867b746b8042.600x338.jpg?t=1521127045",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_e2b79c2f93a17eec1472c3410059867b746b8042.1920x1080.jpg?t=1521127045"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_e2b79c2f93a17eec1472c3410059867b746b8042.600x338.jpg?t=1546966709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_e2b79c2f93a17eec1472c3410059867b746b8042.1920x1080.jpg?t=1546966709"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_66591bcfb608f5500cf5e899b31c213194fc892c.600x338.jpg?t=1521127045",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_66591bcfb608f5500cf5e899b31c213194fc892c.1920x1080.jpg?t=1521127045"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_66591bcfb608f5500cf5e899b31c213194fc892c.600x338.jpg?t=1546966709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_66591bcfb608f5500cf5e899b31c213194fc892c.1920x1080.jpg?t=1546966709"
     },
     {
       "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_7efec3e26f7d13d1c5e41d33bee34adf6d88b0ec.600x338.jpg?t=1521127045",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_7efec3e26f7d13d1c5e41d33bee34adf6d88b0ec.1920x1080.jpg?t=1521127045"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_7efec3e26f7d13d1c5e41d33bee34adf6d88b0ec.600x338.jpg?t=1546966709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_7efec3e26f7d13d1c5e41d33bee34adf6d88b0ec.1920x1080.jpg?t=1546966709"
     },
     {
       "id": 9,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_eb1f6d245846e333bb308c22fb9a9e6977c31c78.600x338.jpg?t=1521127045",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_eb1f6d245846e333bb308c22fb9a9e6977c31c78.1920x1080.jpg?t=1521127045"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_eb1f6d245846e333bb308c22fb9a9e6977c31c78.600x338.jpg?t=1546966709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_eb1f6d245846e333bb308c22fb9a9e6977c31c78.1920x1080.jpg?t=1546966709"
     },
     {
       "id": 10,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_aa87c4ac4c39fdafac4bb67a67168575fc90027c.600x338.jpg?t=1521127045",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_aa87c4ac4c39fdafac4bb67a67168575fc90027c.1920x1080.jpg?t=1521127045"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_aa87c4ac4c39fdafac4bb67a67168575fc90027c.600x338.jpg?t=1546966709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_aa87c4ac4c39fdafac4bb67a67168575fc90027c.1920x1080.jpg?t=1546966709"
     },
     {
       "id": 11,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_81cd47b0314be08b4227c769b9d52ef5bd0fa6a4.600x338.jpg?t=1521127045",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_81cd47b0314be08b4227c769b9d52ef5bd0fa6a4.1920x1080.jpg?t=1521127045"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_81cd47b0314be08b4227c769b9d52ef5bd0fa6a4.600x338.jpg?t=1546966709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/351510/ss_81cd47b0314be08b4227c769b9d52ef5bd0fa6a4.1920x1080.jpg?t=1546966709"
     }
   ],
   "movies": [
@@ -172,7 +176,7 @@
     }
   ],
   "recommendations": {
-    "total": 335
+    "total": 296
   },
   "achievements": {
     "total": 10,
@@ -224,8 +228,12 @@
     "date": "30 Jun, 2015"
   },
   "support_info": {
-    "url": "https://jackboxgames.zendesk.com/categories/20082594-Quiplash",
-    "email": "support@jackboxgames.zendesk.com"
+    "url": "https://help.jackboxgames.com",
+    "email": "support@jackboxgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/351510/page_bg_generated_v6b.jpg?t=1521127045"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/351510/page_bg_generated_v6b.jpg?t=1546966709",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

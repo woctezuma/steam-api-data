@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 799,
-    "final": 119,
-    "discount_percent": 85
+    "final": 799,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     79449
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 79449,
-          "percent_savings_text": "-85%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Inside Me - <span class=\"discount_original_price\">7,99\u20ac</span> 1,19\u20ac",
+          "option_text": "Inside Me - 7,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 119
+          "price_in_cents_with_discount": 799
         }
       ]
     }
@@ -200,5 +202,9 @@
     "url": "http://www.insidemethegame.com/index.php/contacts",
     "email": "Anfedart@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404860/page_bg_generated_v6b.jpg?t=1447378177"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404860/page_bg_generated_v6b.jpg?t=1447378177",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

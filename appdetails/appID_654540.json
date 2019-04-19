@@ -12,7 +12,7 @@
     "appid": "308060",
     "name": "Black The Fall"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Korean, Portuguese, Romanian, Russian, Japanese, Portuguese-Brazil, Simplified Chinese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Korean, Portuguese, Romanian, Russian, Japanese, Portuguese - Brazil, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/654540/header.jpg?t=1500299643",
   "website": "http://blackthefall.com/",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     184517
@@ -154,6 +156,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/654540/ss_0ccfa94eadebe315ce61bce2ac4bbdd23fbf87d7.1920x1080.jpg?t=1500299643"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Jul, 2017"
@@ -162,5 +167,9 @@
     "url": "http://sqex.to/steamsupport",
     "email": "support@blackthefall.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/654540/page_bg_generated_v6b.jpg?t=1500299643"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/654540/page_bg_generated_v6b.jpg?t=1500299643",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

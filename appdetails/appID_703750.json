@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Pretty casual game made for having a good time through some levels that will be a challenge for everyone. The goal is simple: your robot has to get to the portal with your orders.<br />\r\n<br />\r\n*TRADING CARDS COMING SOON*<br />\r\n<br />\r\nCommands:<br />\r\n<br />\r\n     -mu: move up<br />\r\n     -mr: move right<br />\r\n     -ml: move left<br />\r\n     -md: move down<br />\r\n     -u: use object placed on your localitation<br />\r\n     -r3: repeat next command 3 times (could be another number)<br />\r\n     -s1: use skill with number 1 ( could be another skill's number)<br />\r\n<br />\r\nCommands must be separated with spaces. Example: (&quot;mu r6 mr u r5 md..&quot;)<br />\r\n<br />\r\nWrong commands will be ignored.<br />\r\n<br />\r\nThe portal has to be reached only at 1 time (using only 1 sequence of commands)",
   "about_the_game": "Pretty casual game made for having a good time through some levels that will be a challenge for everyone. The goal is simple: your robot has to get to the portal with your orders.<br />\r\n<br />\r\n*TRADING CARDS COMING SOON*<br />\r\n<br />\r\nCommands:<br />\r\n<br />\r\n     -mu: move up<br />\r\n     -mr: move right<br />\r\n     -ml: move left<br />\r\n     -md: move down<br />\r\n     -u: use object placed on your localitation<br />\r\n     -r3: repeat next command 3 times (could be another number)<br />\r\n     -s1: use skill with number 1 ( could be another skill's number)<br />\r\n<br />\r\nCommands must be separated with spaces. Example: (&quot;mu r6 mr u r5 md..&quot;)<br />\r\n<br />\r\nWrong commands will be ignored.<br />\r\n<br />\r\nThe portal has to be reached only at 1 time (using only 1 sequence of commands)",
-  "short_description": "A game based on programming and strategy to achieve the goal, that the robots reach the target. 4 types of robots and each with special characteristics",
+  "short_description": "A game based on programming and strategy to achieve the goal, that the robots reach the target.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/703750/header.jpg?t=1518194053",
   "website": null,
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     202944
@@ -158,5 +160,9 @@
     "url": "",
     "email": "gamesdexion@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/703750/page_bg_generated_v6b.jpg?t=1518194053"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/703750/page_bg_generated_v6b.jpg?t=1518194053",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     95009
@@ -152,6 +154,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Nov, 2016"
@@ -160,5 +165,9 @@
     "url": "http://www.mangagamer.com/",
     "email": "support@mangagamer.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/445670/page_bg_generated_v6b.jpg?t=1513926178"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/445670/page_bg_generated_v6b.jpg?t=1513926178",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

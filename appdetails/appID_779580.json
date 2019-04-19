@@ -11,7 +11,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/779580/header.jpg?t=1518723082",
   "website": "https://team21studio.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel i5-4590<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970 or AMD R9 290<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>"
+    "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Windows 7<br></li><li><strong>Procesor:</strong> Intel i5-4590<br></li><li><strong>Pami\u0119\u0107:</strong> 8 GB RAM<br></li><li><strong>Karta graficzna:</strong> NVIDIA GTX 970 or AMD R9 290<br></li><li><strong>Miejsce na dysku:</strong> 800 MB dost\u0119pnej przestrzeni</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     234644
@@ -208,5 +210,9 @@
     "url": "https://team21studio.com/contact/",
     "email": "support@team21studio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/779580/page_bg_generated_v6b.jpg?t=1518723082"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/779580/page_bg_generated_v6b.jpg?t=1518723082",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

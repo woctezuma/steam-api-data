@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Space Scumbags</strong> is a space shooter inspired by old school space shooter games like Galactix. <br>Fight your way through waves of enemies and battle powerful bosses.<h2 class=\"bb_tag\">Choose between 2 game modes</h2><strong>Arcade</strong> - contains 100 pre designed waves of enemies<br><strong>Random</strong> - enemy shooting patterns are randomly generated and every play through will be different!",
   "about_the_game": "<strong>Space Scumbags</strong> is a space shooter inspired by old school space shooter games like Galactix. <br>Fight your way through waves of enemies and battle powerful bosses.<h2 class=\"bb_tag\">Choose between 2 game modes</h2><strong>Arcade</strong> - contains 100 pre designed waves of enemies<br><strong>Random</strong> - enemy shooting patterns are randomly generated and every play through will be different!",
-  "short_description": "Space Scumbags is a space shooter inspired by old school space shooter games like Galactix. <br />\r\nFight your way through waves of enemies and battle powerful bosses.",
+  "short_description": "Space Scumbags is a space shooter inspired by old school space shooter games like Galactix. Fight your way through waves of enemies and battle powerful bosses.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/660270/header.jpg?t=1503440721",
   "website": "http://www.backtobasicsgaming.com/",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     186923
@@ -174,5 +176,9 @@
     "url": "http://www.backtobasicsgaming.com/",
     "email": "Dan@BackToBasicsGaming.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/660270/page_bg_generated_v6b.jpg?t=1503440721"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/660270/page_bg_generated_v6b.jpg?t=1503440721",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

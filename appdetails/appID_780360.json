@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     235017
@@ -101,6 +103,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/780360/ss_1cb82064243072e2813d1b7860c9ed430485a9cd.1920x1080.jpg?t=1516967911"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Jan, 2018"
@@ -109,5 +114,9 @@
     "url": "",
     "email": "gamesdexion@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/780360/page_bg_generated_v6b.jpg?t=1516967911"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/780360/page_bg_generated_v6b.jpg?t=1516967911",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -20,7 +20,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "Fantasy Grounds II is a trademark of SmiteWorks USA LLC. (C) 2014 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds II website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a></a> for more product information.<br><br>This product is Copyright 2014, Troll Lord Games and SmiteWorks USA, LLC. Used with permission from Troll Lord Games. The products' format, programming code, and presentation is copyrighted by Troll Lord Games and SmiteWorks USA, LLC. Redistribution by print or by file is strictly prohibited.",
+  "legal_notice": "Fantasy Grounds II is a trademark of SmiteWorks USA LLC. (C) 2014 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds II website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a> for more product information.<br><br>This product is Copyright 2014, Troll Lord Games and SmiteWorks USA, LLC. Used with permission from Troll Lord Games. The products' format, programming code, and presentation is copyrighted by Troll Lord Games and SmiteWorks USA, LLC. Redistribution by print or by file is strictly prohibited.",
   "developers": [
     "SmiteWorks USA, LLC"
   ],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     54124
@@ -128,6 +130,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/332010/ss_363de6c02e6510581fdaa1131420013276d5cab7.1920x1080.jpg?t=1447364805"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Nov, 2014"
@@ -136,5 +141,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/332010/page_bg_generated_v6b.jpg?t=1447364805"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/332010/page_bg_generated_v6b.jpg?t=1447364805",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

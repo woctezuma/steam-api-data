@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     44101
@@ -136,7 +138,7 @@
     }
   ],
   "recommendations": {
-    "total": 779
+    "total": 753
   },
   "achievements": {
     "total": 0
@@ -149,5 +151,9 @@
     "url": "https://support.sega.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/301120/page_bg_generated_v6b.jpg?t=1521738665"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/301120/page_bg_generated_v6b.jpg?t=1521738665",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

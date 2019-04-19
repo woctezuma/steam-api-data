@@ -11,7 +11,7 @@
     "appid": "612020",
     "name": "Zombidle : REMONSTERED"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Polish, Simplified Chinese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Polish, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/705540/header.jpg?t=1513000586",
   "website": "http://www.zombidle.com",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     203597
@@ -118,6 +120,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/705540/ss_5fdaf8305ca0e5dc2a8e9a3d7daa185bada98ffc.1920x1080.jpg?t=1513000586"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Nov, 2017"
@@ -126,5 +131,9 @@
     "url": "http//www.zombidle.com",
     "email": "feedback@zombidle.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/705540/page_bg_generated_v6b.jpg?t=1513000586"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/705540/page_bg_generated_v6b.jpg?t=1513000586",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

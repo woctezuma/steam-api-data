@@ -4,14 +4,14 @@
   "steam_appid": 55381,
   "required_age": "18",
   "is_free": false,
-  "detailed_description": "A new movie is being shot in Steelport and you're the star! Join with your co-star, Jenny, to fight the alien invasion for the film Gangstas In Space. With spaceships and alien weaponry, this retro-style film is sure to be a hit!<br><br>Gangstas in Space DLC is included in the <a href=\"http://store.steampowered.com/app/901805/\" target=\"_blank\" rel=\"noreferrer\"  >Saints Row: The Third Season Pass</a></a>.",
-  "about_the_game": "A new movie is being shot in Steelport and you're the star! Join with your co-star, Jenny, to fight the alien invasion for the film Gangstas In Space. With spaceships and alien weaponry, this retro-style film is sure to be a hit!<br><br>Gangstas in Space DLC is included in the <a href=\"http://store.steampowered.com/app/901805/\" target=\"_blank\" rel=\"noreferrer\"  >Saints Row: The Third Season Pass</a></a>.",
-  "short_description": "",
+  "detailed_description": "A new movie is being shot in Steelport and you're the star! Join with your co-star, Jenny, to fight the alien invasion for the film Gangstas In Space. With spaceships and alien weaponry, this retro-style film is sure to be a hit!<br><br>Gangstas in Space DLC is included in the <a href=\"http://store.steampowered.com/app/901805/\" target=\"_blank\" rel=\"noreferrer\"  >Saints Row: The Third Season Pass</a>.",
+  "about_the_game": "A new movie is being shot in Steelport and you're the star! Join with your co-star, Jenny, to fight the alien invasion for the film Gangstas In Space. With spaceships and alien weaponry, this retro-style film is sure to be a hit!<br><br>Gangstas in Space DLC is included in the <a href=\"http://store.steampowered.com/app/901805/\" target=\"_blank\" rel=\"noreferrer\"  >Saints Row: The Third Season Pass</a>.",
+  "short_description": "A new movie is being shot in Steelport and you're the star! Join with your co-star, Jenny, to fight the alien invasion for the film Gangstas In Space. With spaceships and alien weaponry, this retro-style film is sure to be a hit!Gangstas in Space DLC is included in the Saints Row: The Third Season Pass.",
   "fullgame": {
     "appid": "55230",
     "name": "Saints Row: The Third"
   },
-  "supported_languages": "Czech, Dutch, English, French, German, Italian, Polish, Russian, Spanish",
+  "supported_languages": "Czech, Dutch, English, French, German, Italian, Polish, Russian, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/55381/header.jpg?t=1479293235",
   "website": "http://www.saintsrow.com/",
   "pc_requirements": {
@@ -33,11 +33,13 @@
     "currency": "EUR",
     "initial": 549,
     "final": 549,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,49\u20ac"
   },
   "packages": [
     13537,
-    "17933"
+    17933
   ],
   "package_groups": [
     {
@@ -60,7 +62,7 @@
           "price_in_cents_with_discount": 549
         },
         {
-          "packageid": "17933",
+          "packageid": 17933,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Saints Row: The Third - The Full Package - 14,99\u20ac",
@@ -136,6 +138,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/55381/ss_9fdd7ac4eff0c3a1a5997c4aee6297f5d7bc2e14.1920x1080.jpg?t=1479293235"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Feb, 2012"
@@ -144,5 +149,11 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/55381/page_bg_generated_v6b.jpg?t=1479293235"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/55381/page_bg_generated_v6b.jpg?t=1479293235",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

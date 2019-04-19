@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The Clash \u2013 Legacy Pack is for players who enjoy the game and want to show their support. The pack includes access to SINGLE-PLAYER LEAGUE and  2 unique in-game skins.<h2 class=\"bb_tag\">SINGLE-PLAYER LEAGUE</h2>is a competitive single player mode where players complete a series of challenges and are ranked on a global leaderboard. Hire teammates and select the right party for every challenge to optimize scores.",
   "about_the_game": "The Clash \u2013 Legacy Pack is for players who enjoy the game and want to show their support. The pack includes access to SINGLE-PLAYER LEAGUE and  2 unique in-game skins.<h2 class=\"bb_tag\">SINGLE-PLAYER LEAGUE</h2>is a competitive single player mode where players complete a series of challenges and are ranked on a global leaderboard. Hire teammates and select the right party for every challenge to optimize scores.",
-  "short_description": "The Clash \u2013 Legacy Pack is for players who enjoy the game and want to show their support. The pack includes access to SINGLE-PLAYER LEAGUE and  2 unique in-game skins.",
+  "short_description": "The Clash \u2013 Legacy Pack is for players who enjoy the game and want to show their support. The pack includes access to SINGLE-PLAYER LEAGUE and 2 unique in-game skins.",
   "fullgame": {
     "appid": "416040",
     "name": "CLASH"
@@ -15,7 +15,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/564260/header.jpg?t=1487404568",
   "website": "http://www.ultimagames.net",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> WIndows 7, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong> AMD FX-6100 | Intel Core i5-2400. Or better<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon HD 7770 | NVIDIA GeForce GTX 560. Or better<br></li><li><strong>DirectX:</strong> Version 11</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> WIndows 7, Windows 8.1, Windows 10<br></li><li><strong>Processeur\u00a0:</strong> AMD FX-6100 | Intel Core i5-2400. Or better<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 6 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> AMD Radeon HD 7770 | NVIDIA GeForce GTX 560. Or better<br></li><li><strong>DirectX\u00a0:</strong> Version 11</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 49,
-    "discount_percent": 75
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     142051
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 142051,
-          "percent_savings_text": "-75%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "CLASH - Legacy Pack - <span class=\"discount_original_price\">1,99\u20ac</span> 0,49\u20ac",
+          "option_text": "CLASH - Legacy Pack - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 49
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -120,5 +122,9 @@
     "url": "http://www.ultimagames.net",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/564260/page_bg_generated_v6b.jpg?t=1487404568"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/564260/page_bg_generated_v6b.jpg?t=1487404568",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

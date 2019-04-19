@@ -7,7 +7,7 @@
   "detailed_description": "Formula Truck 2013 for Windows - PC is the official simulator of the popular Brazilian Formula Truck series - the most competitive truck racing series in the world!<br>Experience the thrill of racing aboard the 5-ton, 1200 HP turbocharged super-trucks which compete in the series!<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Realistic truck racing simulator<br></li><li>Light on system requirements</li></ul>",
   "about_the_game": "Formula Truck 2013 for Windows - PC is the official simulator of the popular Brazilian Formula Truck series - the most competitive truck racing series in the world!<br>Experience the thrill of racing aboard the 5-ton, 1200 HP turbocharged super-trucks which compete in the series!<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Realistic truck racing simulator<br></li><li>Light on system requirements</li></ul>",
   "short_description": "Formula Truck 2013 for Windows - PC is the official simulator of the popular Brazilian Formula Truck series.",
-  "supported_languages": "English, French, German, Spanish, Portuguese-Brazil",
+  "supported_languages": "English, French, German, Spanish - Spain, Portuguese - Brazil",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/273750/header.jpg?t=1447360130",
   "website": "http://www.gameformulatruck.com/en/index.html",
   "pc_requirements": {
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 499,
+    "discount_percent": 50,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     152211
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 152211,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Formula Truck 2013 - 9,99\u20ac",
+          "option_text": "Formula Truck 2013 - <span class=\"discount_original_price\">9,99\u20ac</span> 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -143,7 +145,10 @@
     }
   ],
   "recommendations": {
-    "total": 141
+    "total": 109
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -153,5 +158,9 @@
     "url": "http://www.gameformulatruck.com/suporte.html",
     "email": "support@reizastudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/273750/page_bg_generated_v6b.jpg?t=1447360130"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/273750/page_bg_generated_v6b.jpg?t=1447360130",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

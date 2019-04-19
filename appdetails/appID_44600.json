@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     14565,
@@ -117,6 +119,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/44600/ss_a42e011fa9d9f6dc4b8923d02ab80c06167aebe6.1920x1080.jpg?t=1478078094"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Sep, 2012"
@@ -125,5 +130,9 @@
     "url": "",
     "email": "support@simbin.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/44600/page_bg_generated_v6b.jpg?t=1478078094"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/44600/page_bg_generated_v6b.jpg?t=1478078094",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

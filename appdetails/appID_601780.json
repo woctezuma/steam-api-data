@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 499,
-    "discount_percent": 50
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     158140
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 158140,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "VoiceWarrior - <span class=\"discount_original_price\">9,99\u20ac</span> 4,99\u20ac",
+          "option_text": "VoiceWarrior - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -205,5 +207,9 @@
     "url": "http://www.voicewarrior.com/",
     "email": "support@devpossible.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/601780/page_bg_generated_v6b.jpg?t=1514694831"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/601780/page_bg_generated_v6b.jpg?t=1514694831",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

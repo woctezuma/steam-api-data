@@ -28,12 +28,14 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1299,
-    "final": 1299,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
-    "74010"
+    74010
   ],
   "package_groups": [
     {
@@ -46,14 +48,14 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "74010",
+          "packageid": 74010,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "D/Generation HD - 12,99\u20ac",
+          "option_text": "D/Generation HD - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1299
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -214,5 +216,9 @@
     "url": "http://west-coast.wales",
     "email": "support@west-coast.wales"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389740/page_bg_generated_v6b.jpg?t=1455103972"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389740/page_bg_generated_v6b.jpg?t=1455103972",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

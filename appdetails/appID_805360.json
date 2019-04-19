@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 999,
+    "final": 99,
+    "discount_percent": 90,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     245388
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 245388,
-          "percent_savings_text": "",
+          "percent_savings_text": "-90%",
           "percent_savings": 0,
-          "option_text": "Trivia Vault Baseball Trivia - 1,99\u20ac",
+          "option_text": "Trivia Vault Baseball Trivia - <span class=\"discount_original_price\">9,99\u20ac</span> 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -170,5 +172,9 @@
     "url": "",
     "email": "ripknotsystemsllc@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/805360/page_bg_generated_v6b.jpg?t=1522226918"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/805360/page_bg_generated_v6b.jpg?t=1522226918",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "He may not be the prettiest galactic overlord but he\u2019s your galactic overlord. Honor the glory of Emperor Zinyak by donning one of three Zin outfits: the trooper, the Warden, or even the magnificent cranial ridge and flowing cape of Zinyak himself.",
   "about_the_game": "He may not be the prettiest galactic overlord but he\u2019s your galactic overlord. Honor the glory of Emperor Zinyak by donning one of three Zin outfits: the trooper, the Warden, or even the magnificent cranial ridge and flowing cape of Zinyak himself.",
-  "short_description": "",
+  "short_description": "He may not be the prettiest galactic overlord but he\u2019s your galactic overlord. Honor the glory of Emperor Zinyak by donning one of three Zin outfits: the trooper, the Warden, or even the magnificent cranial ridge and flowing cape of Zinyak himself.",
   "fullgame": {
     "appid": "206420",
     "name": "Saints Row IV"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Polish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/247301/header.jpg?t=1479292029",
   "website": "http://www.saintsrow.com",
   "pc_requirements": {
@@ -32,10 +32,12 @@
     "Deep Silver"
   ],
   "price_overview": {
-    "currency": "EUR",
+    "currency": "USD",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "$1.99"
   },
   "packages": [
     35074,
@@ -56,7 +58,7 @@
           "packageid": 35074,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Saints Row IV - Zinyak Attack Pack - 1,99\u20ac",
+          "option_text": "Saints Row IV - Zinyak Attack Pack - $1.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -66,7 +68,7 @@
           "packageid": 47503,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Saints Row IV Game of the Century Upgrade Pack - 4,99\u20ac",
+          "option_text": "Saints Row IV Game of the Century Upgrade Pack - $4.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -76,7 +78,7 @@
           "packageid": 47804,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Saints Row IV: Game of the Century Edition - 19,99\u20ac",
+          "option_text": "Saints Row IV: Game of the Century Edition - $19.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -167,13 +169,22 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/247301/ss_47a2a80bacad26f4412f78a621ff8a7228828ddf.1920x1080.jpg?t=1479292029"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
-    "date": "26 Nov, 2013"
+    "date": "Nov 26, 2013"
   },
   "support_info": {
     "url": "http://www.deepsilver.com/us/support/",
     "email": "info@deepsilver.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/247301/page_bg_generated_v6b.jpg?t=1479292029"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/247301/page_bg_generated_v6b.jpg?t=1479292029",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

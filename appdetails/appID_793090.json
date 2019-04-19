@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     240214
@@ -101,6 +103,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793090/ss_7f24d19e3bd1cd0c2714b11596c0ba9303d6e896.1920x1080.jpg?t=1519058866"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Feb, 2018"
@@ -109,5 +114,13 @@
     "url": "",
     "email": "dp3softworks@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793090/page_bg_generated_v6b.jpg?t=1519058866"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793090/page_bg_generated_v6b.jpg?t=1519058866",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

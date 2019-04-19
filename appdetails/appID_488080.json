@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "A sliding Tile puzzle game with 29 levels ranging from easy to skull cracking. A killer soundtrack and great visuals make this a must play game! Try to get the taxi from start to the airport on each level. Bonuses are given based on how fast you solve the puzzle, how far the taxi travels, and if you go through an intersection tile both ways.<br />\r\n<br />\r\nThere are 11 achievements to unlock as you rush passengers to the airport.",
   "about_the_game": "A sliding Tile puzzle game with 29 levels ranging from easy to skull cracking. A killer soundtrack and great visuals make this a must play game! Try to get the taxi from start to the airport on each level. Bonuses are given based on how fast you solve the puzzle, how far the taxi travels, and if you go through an intersection tile both ways.<br />\r\n<br />\r\nThere are 11 achievements to unlock as you rush passengers to the airport.",
-  "short_description": "A sliding Tile puzzle game with 29 levels ranging from easy to skull cracking. A killer soundtrack and great visuals make this a must play game! Try to get the taxi from start to the airport on each level. Bonuses are given based on how fast you solve the puzzle, how far the taxi travels, and if you go through an intersection tile both ways.",
+  "short_description": "A sliding Tile puzzle game with 29 levels ranging from easy to skull cracking. A killer soundtrack and great visuals make this a must play game! Try to get the taxi from start to the airport on each level.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/488080/header.jpg?t=1475839356",
   "website": "https://petraguardsoftware.com/taxi/",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     110030
@@ -190,5 +192,9 @@
     "url": "https://petraguardsoftware.com/contact.php",
     "email": "henselkp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/488080/page_bg_generated_v6b.jpg?t=1475839356"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/488080/page_bg_generated_v6b.jpg?t=1475839356",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

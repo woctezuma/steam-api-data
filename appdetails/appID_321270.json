@@ -8,7 +8,7 @@
   "about_the_game": "UNLOVED is based on the community award-winning mod for Doom2 with the same name by the same creator. UNLOVED is a strange place. A twisted reality. A nightmare that comes to life. A place where demons and abhorrent monsters manifest and possess the living with only one goal: to end you. Nothing wants you here. And there is no way out. Only the elevator that leads further and further down into the darkness of your insanity.<br><br>Play alone or in a group of up to 4 players and explore the endless amount of basement levels that are procedurally arranged every time you enter. Work as a team, open new areas, find weapon-mods, solve personal challenges, complete level objectives and unlock new skills to survive this trip into the unknown.<h2 class=\"bb_tag\">Main Features</h2><strong>Fast Paced Shooter Gameplay + Coop Features</strong><br>The game resurrects the old-school fast paced action shooter gameplay. Combined with deadly monsters and modern coop-features that encourage playing in a team to stay alive in a harsh and deadly environment. Find and join other players online or play via LAN. If you don't feel like playing in a team, you can play alone just as well.<br><br><strong>Randomly arranged Levels</strong><br>Every basement area is generated from hand crafted level chunks that are randomly arranged. After that, certain areas get locked by the \u201cArchitect\u201d and you have to find certain key items to access them. Every level has final rooms with objectives the player has to complete in order to leave the level.<br><br><strong>Create your own unique Play-Style</strong><br>Besides customizing your appearance, you can also create your own unique play-style. Equip magic trinkets with unearthly powers that can completely change the way you experience the game. Want to become super tough, or do you prefer to run super fast? Do you want to deal lots of damage, or have the highest chances of survival? The right combination of trinkets makes it possible and sets you apart from other players.<br><br><strong>Play in 4 different Game Modes</strong><br>If you want a different experience besides the Ultra Violence, you can also select alternative Game Modes that may suit your style a bit more. Classic Horror gets your blood pumping while you are desperately looking for enough ammunition to survive the next enemy. Arcade Style increases the already fast paced action to the max, giving you the ultimate killing frenzy experience. And then there is the HOT Mode - the most innovative game mode in years...<br><br><strong>Find Weapon-Mods to be more efficient</strong><br>Every weapon can be upgraded with special mods. These can alter the way a weapon functions in dramatic ways. They may change the way the weapon operates, increase fire rate or give boosts like speed reloading.<br><br><strong>Gain Karma by completing personal Challenges</strong><br>You don\u2019t just get experience points for killing monsters. Each time you play, certain challenges are given to you. If you fulfill your personal objectives, you get Karma points that you can spend to upgrade your Persona.<br><br><strong>Unlock new Items and the Mysteries that UNLOVED holds</strong><br>Within the levels are different mysterious objects scattered. By collecting them, you can later unlock new player colors, ranks, trinkets and pieces of information that may or may not have clues about this unearthly realm of insanity.",
   "short_description": "Based on the community award-winning Doom2 mod with the same name by the same creator, UNLOVED is reimagined in the Unreal Engine 4 to bring forth the unspeakable terror in new ways. Play coop with your friends, increase your skills, mod your weapons and face the horror that this unearthly place holds...",
   "supported_languages": "English",
-  "reviews": "\u201cThumbs up!\u201d<br><a href=\"https://www.youtube.com/watch?v=1IOQOhMFAiU\" target=\"_blank\" rel=\"noreferrer\"  >Jim Sterling</a></a><br><br>\u201cit\u2019s well worth trying.\u201d<br><a href=\"https://www.rockpapershotgun.com/2016/10/02/unloved-standalone-former-doom-mod/\" target=\"_blank\" rel=\"noreferrer\"  >Rock, Paper, Shotgun</a></a><br>",
+  "reviews": "\u201cThumbs up!\u201d<br><a href=\"https://www.youtube.com/watch?v=1IOQOhMFAiU\" target=\"_blank\" rel=\"noreferrer\"  >Jim Sterling</a><br><br>\u201cit\u2019s well worth trying.\u201d<br><a href=\"https://www.rockpapershotgun.com/2016/10/02/unloved-standalone-former-doom-mod/\" target=\"_blank\" rel=\"noreferrer\"  >Rock, Paper, Shotgun</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/321270/header.jpg?t=1483836144",
   "website": "http://www.paulinthenet.de/",
   "pc_requirements": {
@@ -27,8 +27,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 199,
-    "discount_percent": 80
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     50243
@@ -45,13 +47,13 @@
       "subs": [
         {
           "packageid": 50243,
-          "percent_savings_text": "-80%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "UNLOVED - <span class=\"discount_original_price\">9,99\u20ac</span> 1,99\u20ac",
+          "option_text": "UNLOVED - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -232,7 +234,7 @@
     }
   ],
   "recommendations": {
-    "total": 561
+    "total": 534
   },
   "achievements": {
     "total": 56,
@@ -287,5 +289,12 @@
     "url": "",
     "email": "support@paulinthenet.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/321270/page_bg_generated_v6b.jpg?t=1483836144"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/321270/page_bg_generated_v6b.jpg?t=1483836144",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

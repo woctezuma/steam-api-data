@@ -1,6 +1,6 @@
 {
   "type": "dlc",
-  "name": "Idle Champions of the Forgotten Realms - Starter Pack",
+  "name": "Idle Champions - Starter Pack",
   "steam_appid": 738320,
   "required_age": 0,
   "is_free": false,
@@ -12,7 +12,7 @@
     "name": "Idle Champions of the Forgotten Realms"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/738320/header.jpg?t=1510879452",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/738320/header.jpg?t=1541102491",
   "website": "http://www.idlechampions.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft\u00ae Windows Server 2008, Windows 7, or Windows 8 Classic<br></li><li><strong>Processor:</strong> 2.33GHz or faster x86-compatible processor, or Intel Atom\u2122 1.6GHz or faster processor for netbook class devices<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 120 MB available space<br></li><li><strong>Additional Notes:</strong> 120 MB Storage.</li></ul>"
@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     219817
@@ -40,7 +42,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Idle Champions of the Forgotten Realms - Starter Pack",
+      "title": "Buy Idle Champions - Starter Pack",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -51,11 +53,11 @@
           "packageid": 219817,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Idle Champions - Starter Pack - 2,99\u20ac",
+          "option_text": "Idle Champions - Starter Pack - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -108,10 +110,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/738320/ss_369ec85665bdce6a79488c3be948a5744e5f562e.600x338.jpg?t=1510879452",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/738320/ss_369ec85665bdce6a79488c3be948a5744e5f562e.1920x1080.jpg?t=1510879452"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/738320/ss_369ec85665bdce6a79488c3be948a5744e5f562e.600x338.jpg?t=1541102491",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/738320/ss_369ec85665bdce6a79488c3be948a5744e5f562e.1920x1080.jpg?t=1541102491"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Nov, 2017"
@@ -120,5 +125,9 @@
     "url": "www.codenameentertainment.com",
     "email": "idlechampions@codenameentertainment.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/738320/page_bg_generated_v6b.jpg?t=1510879452"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/738320/page_bg_generated_v6b.jpg?t=1541102491",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

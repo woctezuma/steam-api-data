@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "With this skin pack you will be able to change the appearance of Genestealers in both single player and multiplayer games. <br><br>The skin pack includes 3 skins:<br><ul class=\"bb_ul\"><li>The Hive Fleet Kraken Skin<br></li><li>The Black/Green Skin<br></li><li>The Bonedust Skin</li></ul>",
   "about_the_game": "With this skin pack you will be able to change the appearance of Genestealers in both single player and multiplayer games. <br><br>The skin pack includes 3 skins:<br><ul class=\"bb_ul\"><li>The Hive Fleet Kraken Skin<br></li><li>The Black/Green Skin<br></li><li>The Bonedust Skin</li></ul>",
-  "short_description": "",
+  "short_description": "With this skin pack you will be able to change the appearance of Genestealers in both single player and multiplayer games. The skin pack includes 3 skins:The Hive Fleet Kraken SkinThe Black/Green SkinThe Bonedust...",
   "fullgame": {
     "appid": "242570",
     "name": "Space Hulk"
@@ -28,11 +28,13 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     30285,
-    "45516"
+    45516
   ],
   "package_groups": [
     {
@@ -55,7 +57,7 @@
           "price_in_cents_with_discount": 199
         },
         {
-          "packageid": "45516",
+          "packageid": 45516,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Space Hulk - Ultimate Pack - 36,99\u20ac",
@@ -149,6 +151,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/246562/ss_587750afae674c2e201a2d22f820b1cb2565e119.1920x1080.jpg?t=1447358327"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Aug, 2013"
@@ -157,5 +162,9 @@
     "url": "www.spacehulk-game.com",
     "email": "info@fullcontrol.dk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/246562/page_bg_generated_v6b.jpg?t=1447358327"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/246562/page_bg_generated_v6b.jpg?t=1447358327",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

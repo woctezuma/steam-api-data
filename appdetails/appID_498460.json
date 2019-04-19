@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<h1>Workshop Support</h1><p>We've added over the first bit of workshop entries to kick start the mod process!</p><br><h1>About the Game</h1><h2 class=\"bb_tag\">Creation</h2><br>This brief escape style game was one of the first games released as a VR Horror title.  It was created in 2016 in preparation for E3 for the Razer booth for OSVR.  We later added HTC Vive support, as well as patching any known issues and expanding on the content.<br><br>This game predates Oculus touch controllers and only natively supports Oculus and OSVR through gamepad play.<br><br>After being showcased at various conferences in Canada, this game went on to inspire the ABDUCTION series of games.<h2 class=\"bb_tag\">About The Prologue</h2><br>In this survival horror game, play as Jonathan Blake who is awaken at night to find that he is not alone.  Work your way through the apartment and try to survive the ABDUCTION.<br><br><strong>Genre: VR / Horror / Survival </strong><h2 class=\"bb_tag\">Premise</h2><br>The ABDUCTION game series is built as a no-handholding style game series.  In each title, you play as a different character in the ABDUCTION universe as they come to terms with what is happening.  You will need to be creative, you will likely die, and you will need to be creative if you want to find a way to survive.<br><br>The prologue was the first opening chapter, a brief story introducing you to the world of alien abductions, alien encounters and trying to stay alive.<br><br>Created in an older style of games, you are completely left on your own to find out how to stay alive.",
   "about_the_game": "<h2 class=\"bb_tag\">Creation</h2><br>This brief escape style game was one of the first games released as a VR Horror title.  It was created in 2016 in preparation for E3 for the Razer booth for OSVR.  We later added HTC Vive support, as well as patching any known issues and expanding on the content.<br><br>This game predates Oculus touch controllers and only natively supports Oculus and OSVR through gamepad play.<br><br>After being showcased at various conferences in Canada, this game went on to inspire the ABDUCTION series of games.<h2 class=\"bb_tag\">About The Prologue</h2><br>In this survival horror game, play as Jonathan Blake who is awaken at night to find that he is not alone.  Work your way through the apartment and try to survive the ABDUCTION.<br><br><strong>Genre: VR / Horror / Survival </strong><h2 class=\"bb_tag\">Premise</h2><br>The ABDUCTION game series is built as a no-handholding style game series.  In each title, you play as a different character in the ABDUCTION universe as they come to terms with what is happening.  You will need to be creative, you will likely die, and you will need to be creative if you want to find a way to survive.<br><br>The prologue was the first opening chapter, a brief story introducing you to the world of alien abductions, alien encounters and trying to stay alive.<br><br>Created in an older style of games, you are completely left on your own to find out how to stay alive.",
-  "short_description": "In this survival horror game, play as Jonathan Blake who is awaken at night to find that he is not alone.  Work your way through the apartment and try to survive your attempted <strong>ABDUCTION</strong>.",
+  "short_description": "In this survival horror game, play as Jonathan Blake who is awaken at night to find that he is not alone. Work your way through the apartment and try to survive your attempted ABDUCTION.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/498460/header.jpg?t=1523470644",
   "website": "https://www.redironlabs.com/abduction",
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 239,
-    "final": 179,
-    "discount_percent": 25
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     140167,
@@ -45,13 +47,13 @@
       "subs": [
         {
           "packageid": 140167,
-          "percent_savings_text": "-25%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Abduction Prologue: The Story of Jonathan Blake - <span class=\"discount_original_price\">2,39\u20ac</span> 1,79\u20ac",
+          "option_text": "Abduction Prologue: The Story of Jonathan Blake - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 179
+          "price_in_cents_with_discount": 239
         },
         {
           "packageid": 264523,
@@ -161,5 +163,9 @@
     "url": "https://www.redironlabs.com/about/contact/",
     "email": "info@redironlabs.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498460/page_bg_generated_v6b.jpg?t=1523470644"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498460/page_bg_generated_v6b.jpg?t=1523470644",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

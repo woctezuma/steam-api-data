@@ -16,8 +16,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/549970/header.jpg?t=1502957525",
   "website": "http://3division.net",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> DualCore - 2,5 GHz<br></li><li><strong>Graphics:</strong> DirectX10.1 compatible with 1GB VRAM and ShaderModel 4.0 support<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 4000 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> Quadcore - 3,5 GHz<br></li><li><strong>Graphics:</strong> DirectX11.1 compatible with 4GB VRAM and ShaderModel 5.0 support<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 4000 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7 or higher<br></li><li><strong>Processeur\u00a0:</strong> DualCore - 2,5 GHz<br></li><li><strong>Graphiques\u00a0:</strong> DirectX10.1 compatible with 1GB VRAM and ShaderModel 4.0 support<br></li><li><strong>DirectX\u00a0:</strong> Version 10<br></li><li><strong>Espace disque\u00a0:</strong> 4000 MB d'espace disque disponible</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7 or higher<br></li><li><strong>Processeur\u00a0:</strong> Quadcore - 3,5 GHz<br></li><li><strong>Graphiques\u00a0:</strong> DirectX11.1 compatible with 4GB VRAM and ShaderModel 5.0 support<br></li><li><strong>DirectX\u00a0:</strong> Version 10<br></li><li><strong>Espace disque\u00a0:</strong> 4000 MB d'espace disque disponible</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     136151
@@ -142,6 +144,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/549970/ss_5b6c86f8a91d5f2994decef69c17224033c32ad5.1920x1080.jpg?t=1502957525"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Dec, 2016"
@@ -150,5 +155,9 @@
     "url": "",
     "email": "support@3division.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/549970/page_bg_generated_v6b.jpg?t=1502957525"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/549970/page_bg_generated_v6b.jpg?t=1502957525",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

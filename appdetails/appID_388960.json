@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1299,
-    "final": 1299,
-    "discount_percent": 0
+    "initial": 899,
+    "final": 899,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     73733
@@ -49,11 +51,11 @@
           "packageid": 73733,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Torn Tales - 12,99\u20ac",
+          "option_text": "Torn Tales - 8,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1299
+          "price_in_cents_with_discount": 899
         }
       ]
     }
@@ -206,5 +208,9 @@
     "url": "",
     "email": "support@chilledmouse.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/388960/page_bg_generated_v6b.jpg?t=1484685552"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/388960/page_bg_generated_v6b.jpg?t=1484685552",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

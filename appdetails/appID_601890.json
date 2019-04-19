@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 4599,
     "final": 4599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "45,99\u20ac"
   },
   "packages": [
     158179
@@ -200,6 +202,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 May, 2017"
@@ -208,5 +213,9 @@
     "url": "http://www.thebest3d.com/dogwaffle/support",
     "email": "howler_support@thebest3d.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/601890/page_bg_generated_v6b.jpg?t=1494007881"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/601890/page_bg_generated_v6b.jpg?t=1494007881",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

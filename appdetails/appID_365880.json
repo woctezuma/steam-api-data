@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     66062
@@ -169,5 +171,9 @@
     "url": "http://www.mirroredthegame.com",
     "email": "support@mirroredthegame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/365880/page_bg_generated_v6b.jpg?t=1447373241"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/365880/page_bg_generated_v6b.jpg?t=1447373241",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     93744
@@ -147,5 +149,9 @@
     "url": "https://playgunscape.com/forum/",
     "email": "steam.support@playgunscape.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/441300/page_bg_generated_v6b.jpg?t=1456897070"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/441300/page_bg_generated_v6b.jpg?t=1456897070",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

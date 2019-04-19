@@ -11,7 +11,7 @@
     "appid": "230820",
     "name": "The Night of the Rabbit"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French, Spanish, Russian, Polish, Czech, Portuguese-Brazil, Italian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French, Spanish - Spain, Russian, Polish, Czech, Portuguese - Brazil, Italian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/477050/header.jpg?t=1478168400",
   "website": "http://www.thenightoftherabbit.com",
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     106297
@@ -125,6 +127,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/477050/ss_cb20c998ff9ba8da7a39a8a0d83900b387f23df4.1920x1080.jpg?t=1478168400"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 May, 2016"
@@ -133,5 +138,9 @@
     "url": "http://forum.daedalic.de/",
     "email": "support@daedalic.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/477050/page_bg_generated_v6b.jpg?t=1478168400"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/477050/page_bg_generated_v6b.jpg?t=1478168400",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Malazard: The Master of Magic</strong> is an action-filled tower defense game, where you are able to step into the role of a wizard.<br><br>With the help of Virtual Reality, the game's main purpose is to give you the feel of wielding destructive sorcery in pair with a fast-paced combat system. Besides your magical abilities it is still important to be ready to dodge an attack any time in order to prepare your own.<br><br>In the time of need, demonic creatures are sieging the last resort of the planet. You are the only hope to keep this world from getting torn apart!<br><strong>We need a powerful mage immediately, more than ever!</strong><br><br><i>(HTC Vive required)</i>",
   "about_the_game": "<strong>Malazard: The Master of Magic</strong> is an action-filled tower defense game, where you are able to step into the role of a wizard.<br><br>With the help of Virtual Reality, the game's main purpose is to give you the feel of wielding destructive sorcery in pair with a fast-paced combat system. Besides your magical abilities it is still important to be ready to dodge an attack any time in order to prepare your own.<br><br>In the time of need, demonic creatures are sieging the last resort of the planet. You are the only hope to keep this world from getting torn apart!<br><strong>We need a powerful mage immediately, more than ever!</strong><br><br><i>(HTC Vive required)</i>",
-  "short_description": "<strong>Unleash the magic inside you!</strong><br>Purify the demonic legion with a set of powerful abilities.<br>The collapsing world relies upon you, experience what it means to become the Master Of Magic!",
+  "short_description": "Unleash the magic inside you!Purify the demonic legion with a set of powerful abilities.The collapsing world relies upon you, experience what it means to become the Master Of Magic!",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/504420/header.jpg?t=1479369924",
   "website": "http://invictus.com/games/malazard-the-master-of-magic#",
@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 249,
+    "discount_percent": 50,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     116106
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 116106,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Malazard: The Master of Magic - 7,99\u20ac",
+          "option_text": "Malazard: The Master of Magic - <span class=\"discount_original_price\">4,99\u20ac</span> 2,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 249
         }
       ]
     }
@@ -175,5 +177,9 @@
     "url": "http://www.invictus.com",
     "email": "support@invictus.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/504420/page_bg_generated_v6b.jpg?t=1479369924"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/504420/page_bg_generated_v6b.jpg?t=1479369924",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

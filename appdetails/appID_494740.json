@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     112657
@@ -109,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/494740/ss_dd1e85d3de0bb870083e4bd06509291e056b52b8.1920x1080.jpg?t=1472523545"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Aug, 2016"
@@ -117,5 +122,9 @@
     "url": "http://support.activision.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494740/page_bg_generated_v6b.jpg?t=1472523545"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494740/page_bg_generated_v6b.jpg?t=1472523545",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

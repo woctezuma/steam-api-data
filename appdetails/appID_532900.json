@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     128916
@@ -246,5 +248,9 @@
     "url": "",
     "email": "games@rezo-zero.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/532900/page_bg_generated_v6b.jpg?t=1505922016"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/532900/page_bg_generated_v6b.jpg?t=1505922016",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

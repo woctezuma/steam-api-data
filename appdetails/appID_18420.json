@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     1241,
@@ -71,7 +73,7 @@
   },
   "metacritic": {
     "score": 78,
-    "url": "http://www.metacritic.com/game/pc/crazy-machines-the-wacky-contraptions-game?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/crazy-machines-the-wacky-contraptions-game?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -131,9 +133,6 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/18420/0000006686.1920x1080.jpg?t=1447351615"
     }
   ],
-  "recommendations": {
-    "total": 112
-  },
   "achievements": {
     "total": 0
   },
@@ -145,5 +144,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/18420/page_bg_generated_v6b.jpg?t=1447351615"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/18420/page_bg_generated_v6b.jpg?t=1447351615",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

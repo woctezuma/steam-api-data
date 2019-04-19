@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     94652
@@ -153,6 +155,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 May, 2016"
@@ -161,5 +166,9 @@
     "url": "",
     "email": "software@m.digital"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/444830/page_bg_generated_v6b.jpg?t=1486723860"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/444830/page_bg_generated_v6b.jpg?t=1486723860",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

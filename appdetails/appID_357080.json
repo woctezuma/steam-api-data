@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     63213
@@ -143,5 +145,9 @@
     "url": "http://www.aldorlea.org/",
     "email": "aldorlea@googlemail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/357080/page_bg_generated_v6b.jpg?t=1479664243"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/357080/page_bg_generated_v6b.jpg?t=1479664243",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

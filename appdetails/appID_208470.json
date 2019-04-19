@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>The Survival DLC adds the following to Tryst:\n</p>\n\n<ul>\n<li>New Game Mode (Survival) - Team up with a friend and hold your own against regular waves of enemies on the new map - The Construct.\n<li>New Maps - Conquer two new maps: The Molten Passes and Obscurum. A 2v2 and a 3v3 map, respectively, they promote different styles of gameplay and come with their own set of quirks!\n</ul>\n",
   "about_the_game": "<p>The Survival DLC adds the following to Tryst:\n</p>\n\n<ul>\n<li>New Game Mode (Survival) - Team up with a friend and hold your own against regular waves of enemies on the new map - The Construct.\n<li>New Maps - Conquer two new maps: The Molten Passes and Obscurum. A 2v2 and a 3v3 map, respectively, they promote different styles of gameplay and come with their own set of quirks!\n</ul>\n",
-  "short_description": "",
+  "short_description": "The Survival DLC adds the following to Tryst: New Game Mode (Survival) - Team up with a friend and hold your own against regular waves of enemies on the new map - The Construct. New Maps - Conquer two new maps: The Molten Passes and Obscurum.",
   "fullgame": {
     "appid": "208460",
     "name": "Tryst"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     28310
@@ -143,5 +145,9 @@
     "url": "http://bluegiantinteractive.com/tryst",
     "email": "support@trystgame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/208470/page_bg_generated_v6b.jpg?t=1447357188"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/208470/page_bg_generated_v6b.jpg?t=1447357188",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

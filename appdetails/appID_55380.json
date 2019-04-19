@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "Professor Genki invites you to be the main contestant on Genkibowl VII! Featuring games themed by the Genki Girls Angry Tiger, Sexy Kitten and Sad Panda, see if you can beat Genkibowl and gain them and reporter Tammy Tolliver as homies!",
   "about_the_game": "Professor Genki invites you to be the main contestant on Genkibowl VII! Featuring games themed by the Genki Girls Angry Tiger, Sexy Kitten and Sad Panda, see if you can beat Genkibowl and gain them and reporter Tammy Tolliver as homies!",
-  "short_description": "",
+  "short_description": "Professor Genki invites you to be the main contestant on Genkibowl VII! Featuring games themed by the Genki Girls Angry Tiger, Sexy Kitten and Sad Panda, see if you can beat Genkibowl and gain them and reporter Tammy Tolliver as homies!",
   "fullgame": {
     "appid": "55230",
     "name": "Saints Row: The Third"
   },
-  "supported_languages": "Czech, Dutch, English, French, German, Italian, Polish, Russian, Spanish",
+  "supported_languages": "Czech, Dutch, English, French, German, Italian, Polish, Russian, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/55380/header.jpg?t=1479292838",
   "website": "http://www.saintsrow.com/",
   "pc_requirements": {
@@ -33,11 +33,13 @@
     "currency": "EUR",
     "initial": 549,
     "final": 549,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,49\u20ac"
   },
   "packages": [
     13266,
-    "17933"
+    17933
   ],
   "package_groups": [
     {
@@ -60,7 +62,7 @@
           "price_in_cents_with_discount": 549
         },
         {
-          "packageid": "17933",
+          "packageid": 17933,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Saints Row: The Third - The Full Package - 14,99\u20ac",
@@ -136,6 +138,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/55380/ss_4120406f87a7a8eda19b9f24a166db66827f162b.1920x1080.jpg?t=1479292838"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jan, 2012"
@@ -144,5 +149,11 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/55380/page_bg_generated_v6b.jpg?t=1479292838"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/55380/page_bg_generated_v6b.jpg?t=1479292838",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

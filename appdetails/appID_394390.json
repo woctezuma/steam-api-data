@@ -27,8 +27,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1099,
-    "final": 274,
-    "discount_percent": 75
+    "final": 1099,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,99\u20ac"
   },
   "packages": [
     75659
@@ -45,13 +47,13 @@
       "subs": [
         {
           "packageid": 75659,
-          "percent_savings_text": "-75%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Daydreamer - <span class=\"discount_original_price\">10,99\u20ac</span> 2,74\u20ac",
+          "option_text": "Daydreamer - 10,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 274
+          "price_in_cents_with_discount": 1099
         }
       ]
     }
@@ -248,5 +250,9 @@
     "url": "www.rolandstudios.com",
     "email": "roland8217@yahoo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/394390/page_bg_generated_v6b.jpg?t=1478756662"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/394390/page_bg_generated_v6b.jpg?t=1478756662",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -3,13 +3,18 @@
   "name": "8Bit Fiesta",
   "steam_appid": 382260,
   "required_age": 0,
-  "is_free": false,
+  "is_free": true,
   "controller_support": "full",
-  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382260/extras/store_gif.png?t=1523643435\" ><br><strong><h2 class=\"bb_tag\">Need to get a party started? All righty then!</h2></strong><br>8Bit Fiesta brings everything you need to the table with its action packed local multiplayer mayhem including a built in drinking game! Choose between a ton of characters and challenge your friends and prove yourself worthy the title &quot;King of the Fiesta&quot;.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382260/extras/info.png?t=1523643435\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382260/extras/gamepad.png?t=1523643435\" >",
-  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382260/extras/store_gif.png?t=1523643435\" ><br><strong><h2 class=\"bb_tag\">Need to get a party started? All righty then!</h2></strong><br>8Bit Fiesta brings everything you need to the table with its action packed local multiplayer mayhem including a built in drinking game! Choose between a ton of characters and challenge your friends and prove yourself worthy the title &quot;King of the Fiesta&quot;.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382260/extras/info.png?t=1523643435\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382260/extras/gamepad.png?t=1523643435\" >",
+  "dlc": [
+    845580,
+    845581,
+    845582
+  ],
+  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382260/extras/store_gif.png?t=1541692269\" ><br><strong><h2 class=\"bb_tag\">Need to get a party started? All righty then!</h2></strong><br>8Bit Fiesta brings everything you need to the table with its action packed local multiplayer mayhem including a built in drinking game! Choose between a ton of characters and challenge your friends and prove yourself worthy the title &quot;King of the Fiesta&quot;.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382260/extras/info.png?t=1541692269\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382260/extras/gamepad.png?t=1541692269\" >",
+  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382260/extras/store_gif.png?t=1541692269\" ><br><strong><h2 class=\"bb_tag\">Need to get a party started? All righty then!</h2></strong><br>8Bit Fiesta brings everything you need to the table with its action packed local multiplayer mayhem including a built in drinking game! Choose between a ton of characters and challenge your friends and prove yourself worthy the title &quot;King of the Fiesta&quot;.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382260/extras/info.png?t=1541692269\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/382260/extras/gamepad.png?t=1541692269\" >",
   "short_description": "8Bit Fiesta brings everything you need to the table with its action packed local multiplayer mayhem including a built in drinking game! Choose between a ton of characters and challenge your friends and prove yourself worthy the title &quot;King of the Fiesta&quot;.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/382260/header.jpg?t=1523643435",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/382260/header.jpg?t=1541692269",
   "website": "http://www.frozendev.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7+<br></li><li><strong>Processor:</strong> 2.0 GHZ<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512 mb dedicated video memory card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
@@ -25,38 +30,7 @@
   "publishers": [
     "Frozen Dev"
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
-  },
-  "packages": [
-    71648
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy 8Bit Fiesta",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 71648,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "8Bit Fiesta - 7,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 799
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -98,20 +72,16 @@
   ],
   "genres": [
     {
-      "id": "73",
-      "description": "Violent"
-    },
-    {
-      "id": "74",
-      "description": "Gore"
-    },
-    {
       "id": "1",
       "description": "Action"
     },
     {
       "id": "4",
       "description": "Casual"
+    },
+    {
+      "id": "37",
+      "description": "Free to Play"
     },
     {
       "id": "23",
@@ -121,63 +91,58 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_b3bb54a531b6e84830bc9078d635d3db1e84c2fe.600x338.jpg?t=1523643435",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_b3bb54a531b6e84830bc9078d635d3db1e84c2fe.1920x1080.jpg?t=1523643435"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_b3bb54a531b6e84830bc9078d635d3db1e84c2fe.600x338.jpg?t=1541692269",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_b3bb54a531b6e84830bc9078d635d3db1e84c2fe.1920x1080.jpg?t=1541692269"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_0a116eb9021d561789e788a5551fb75b296b9433.600x338.jpg?t=1523643435",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_0a116eb9021d561789e788a5551fb75b296b9433.1920x1080.jpg?t=1523643435"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_0a116eb9021d561789e788a5551fb75b296b9433.600x338.jpg?t=1541692269",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_0a116eb9021d561789e788a5551fb75b296b9433.1920x1080.jpg?t=1541692269"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_6400f1a386cc39e88d2cf11efc12db64b28d0417.600x338.jpg?t=1523643435",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_6400f1a386cc39e88d2cf11efc12db64b28d0417.1920x1080.jpg?t=1523643435"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_6400f1a386cc39e88d2cf11efc12db64b28d0417.600x338.jpg?t=1541692269",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_6400f1a386cc39e88d2cf11efc12db64b28d0417.1920x1080.jpg?t=1541692269"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_11604be71928180500ce451dcfaa2297438ca9b4.600x338.jpg?t=1523643435",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_11604be71928180500ce451dcfaa2297438ca9b4.1920x1080.jpg?t=1523643435"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_11604be71928180500ce451dcfaa2297438ca9b4.600x338.jpg?t=1541692269",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_11604be71928180500ce451dcfaa2297438ca9b4.1920x1080.jpg?t=1541692269"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_c83cca15c482cfe4a23dc3032009fb2d5a96b270.600x338.jpg?t=1523643435",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_c83cca15c482cfe4a23dc3032009fb2d5a96b270.1920x1080.jpg?t=1523643435"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_c83cca15c482cfe4a23dc3032009fb2d5a96b270.600x338.jpg?t=1541692269",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_c83cca15c482cfe4a23dc3032009fb2d5a96b270.1920x1080.jpg?t=1541692269"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_fb42f5f361cf0abf562cbbd623747a456ca9473f.600x338.jpg?t=1523643435",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_fb42f5f361cf0abf562cbbd623747a456ca9473f.1920x1080.jpg?t=1523643435"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_fb42f5f361cf0abf562cbbd623747a456ca9473f.600x338.jpg?t=1541692269",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_fb42f5f361cf0abf562cbbd623747a456ca9473f.1920x1080.jpg?t=1541692269"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_af0d6a4750d2021a5e7a7d2f025489bd6e2be927.600x338.jpg?t=1523643435",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_af0d6a4750d2021a5e7a7d2f025489bd6e2be927.1920x1080.jpg?t=1523643435"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_af0d6a4750d2021a5e7a7d2f025489bd6e2be927.600x338.jpg?t=1541692269",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_af0d6a4750d2021a5e7a7d2f025489bd6e2be927.1920x1080.jpg?t=1541692269"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_2066bc8afc4eafd31045aefcc031db7cba657b9d.600x338.jpg?t=1523643435",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_2066bc8afc4eafd31045aefcc031db7cba657b9d.1920x1080.jpg?t=1523643435"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_2066bc8afc4eafd31045aefcc031db7cba657b9d.600x338.jpg?t=1541692269",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_2066bc8afc4eafd31045aefcc031db7cba657b9d.1920x1080.jpg?t=1541692269"
     },
     {
       "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_987d5c53733d7775389dedd7c6f893d113910f03.600x338.jpg?t=1523643435",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_987d5c53733d7775389dedd7c6f893d113910f03.1920x1080.jpg?t=1523643435"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_b668b2294ee5c2611d61b91504e0f77e5e3ddb37.600x338.jpg?t=1541692269",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_b668b2294ee5c2611d61b91504e0f77e5e3ddb37.1920x1080.jpg?t=1541692269"
     },
     {
       "id": 9,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_b668b2294ee5c2611d61b91504e0f77e5e3ddb37.600x338.jpg?t=1523643435",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_b668b2294ee5c2611d61b91504e0f77e5e3ddb37.1920x1080.jpg?t=1523643435"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_1e3d074dde45929733c7e3faad18930269fecded.600x338.jpg?t=1541692269",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_1e3d074dde45929733c7e3faad18930269fecded.1920x1080.jpg?t=1541692269"
     },
     {
       "id": 10,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_1e3d074dde45929733c7e3faad18930269fecded.600x338.jpg?t=1523643435",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_1e3d074dde45929733c7e3faad18930269fecded.1920x1080.jpg?t=1523643435"
-    },
-    {
-      "id": 11,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_cbdc69c033de31bd83af7adefccbbabbe88e7d3a.600x338.jpg?t=1523643435",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_cbdc69c033de31bd83af7adefccbbabbe88e7d3a.1920x1080.jpg?t=1523643435"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_cbdc69c033de31bd83af7adefccbbabbe88e7d3a.600x338.jpg?t=1541692269",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382260/ss_cbdc69c033de31bd83af7adefccbbabbe88e7d3a.1920x1080.jpg?t=1541692269"
     }
   ],
   "movies": [
@@ -203,7 +168,7 @@
     }
   ],
   "recommendations": {
-    "total": 253
+    "total": 227
   },
   "achievements": {
     "total": 16,
@@ -258,5 +223,9 @@
     "url": "http://www.frozendev.com",
     "email": "master@frozendev.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/382260/page_bg_generated_v6b.jpg?t=1523643435"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/382260/page_bg_generated_v6b.jpg?t=1541692269",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

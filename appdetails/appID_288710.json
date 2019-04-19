@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     40293
@@ -100,11 +102,6 @@
       "id": 4,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/288710/ss_2215d7e1227b5cda6ce62474f017d91a81ab6128.600x338.jpg?t=1498129061",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/288710/ss_2215d7e1227b5cda6ce62474f017d91a81ab6128.1920x1080.jpg?t=1498129061"
-    },
-    {
-      "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/288710/?t=1498129061",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/288710/?t=1498129061"
     }
   ],
   "movies": [
@@ -119,6 +116,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Apr, 2014"
@@ -127,5 +127,9 @@
     "url": "",
     "email": "support@libredia.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/288710/page_bg_generated_v6b.jpg?t=1498129061"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/288710/page_bg_generated_v6b.jpg?t=1498129061",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

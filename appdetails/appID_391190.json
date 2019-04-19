@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Dolguth is a 2D oldschool brawler for up-to 6 local players. <br />\r\nChoose your mech to fight in one of the Dolguth arenas and destroy the other warriors. <br />\r\nEach mech is powered with a melee weapon and a 6-bullets cannon. <br />\r\nEach pilot has an EMP gun (able to stun mechs) and a grapple to reach impervious zones.<br />\r\n<br />\r\nRemember: the pilot of a destroyed mech can repair it ! kill him fast !<br />\r\n<br />\r\nThe Game requires at least 1 joystick/gamepad for each player.<br />\r\nKeyboard is supported for single player modes (currently Dungeons and Cliffhanger) but highly discouraged.<br />\r\n<br />\r\nGameplay notes:<br />\r\n<br />\r\n- press the grab/throw button when (as a pilot) you want to activate a meditower (to spawn the repairing drone)<br />\r\n- in Dungeon mode you can voluntary eject the pilot from the mech (to open gates or activate elevators) by pressing the grab/throw button for 2 seconds<br />\r\n- generally to re-enter into a mech you just need to go over it. The only exception is Dungeon mode where you need to press grab/throw<br />\r\n- press grab/throw (as a pilot) to enter the gatling turrets (available in some arena) then press the range button to shot<br />\r\n- the only single player modes are currently the dungeon and cliffhanger, configuring a single player in the other modes is a no-go (you will hear 'ready' for the player but the game will not start)<br />\r\n- in Dungeon mode, when more than a player is in the game, the camera will always try to spot every alive player until a predefined limit. If the limit is reached, players are required to rejoin themselves.",
   "about_the_game": "Dolguth is a 2D oldschool brawler for up-to 6 local players. <br />\r\nChoose your mech to fight in one of the Dolguth arenas and destroy the other warriors. <br />\r\nEach mech is powered with a melee weapon and a 6-bullets cannon. <br />\r\nEach pilot has an EMP gun (able to stun mechs) and a grapple to reach impervious zones.<br />\r\n<br />\r\nRemember: the pilot of a destroyed mech can repair it ! kill him fast !<br />\r\n<br />\r\nThe Game requires at least 1 joystick/gamepad for each player.<br />\r\nKeyboard is supported for single player modes (currently Dungeons and Cliffhanger) but highly discouraged.<br />\r\n<br />\r\nGameplay notes:<br />\r\n<br />\r\n- press the grab/throw button when (as a pilot) you want to activate a meditower (to spawn the repairing drone)<br />\r\n- in Dungeon mode you can voluntary eject the pilot from the mech (to open gates or activate elevators) by pressing the grab/throw button for 2 seconds<br />\r\n- generally to re-enter into a mech you just need to go over it. The only exception is Dungeon mode where you need to press grab/throw<br />\r\n- press grab/throw (as a pilot) to enter the gatling turrets (available in some arena) then press the range button to shot<br />\r\n- the only single player modes are currently the dungeon and cliffhanger, configuring a single player in the other modes is a no-go (you will hear 'ready' for the player but the game will not start)<br />\r\n- in Dungeon mode, when more than a player is in the game, the camera will always try to spot every alive player until a predefined limit. If the limit is reached, players are required to rejoin themselves.",
-  "short_description": "Dolguth is a 2D oldschool brawler for up-to 6 local players. <br />\r\nChoose your mech to fight in one of the Dolguth arenas and destroy the other warriors. <br />\r\nEach mech is powered with a melee weapon and a 6-bullets cannon. <br />\r\nEach pilot has an EMP gun and a grapple to reach impervious zones.",
+  "short_description": "Dolguth is a 2D oldschool brawler for up-to 6 local players. Choose your mech to fight in one of the Dolguth arenas and destroy the other warriors. Each mech is powered with a melee weapon and a 6-bullets cannon. Each pilot has an EMP gun and a grapple to reach impervious zones.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/391190/header.jpg?t=1470662048",
   "website": "http://dolguth.com",
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     81388
@@ -268,5 +270,9 @@
     "url": "",
     "email": "info@boiagames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/391190/page_bg_generated_v6b.jpg?t=1470662048"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/391190/page_bg_generated_v6b.jpg?t=1470662048",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

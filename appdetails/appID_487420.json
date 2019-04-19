@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     109833
@@ -117,6 +119,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Jun, 2016"
@@ -125,5 +130,9 @@
     "url": "http://2dhd.ru",
     "email": "2dhdofficial@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/487420/page_bg_generated_v6b.jpg?t=1465418329"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/487420/page_bg_generated_v6b.jpg?t=1465418329",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

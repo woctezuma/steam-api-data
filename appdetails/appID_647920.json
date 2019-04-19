@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     182155
@@ -103,5 +105,9 @@
     "url": "http://www.psilocybegames.com/",
     "email": "peter@psilocybegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/647920/page_bg_generated_v6b.jpg?t=1497013379"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/647920/page_bg_generated_v6b.jpg?t=1497013379",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

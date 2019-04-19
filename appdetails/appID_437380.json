@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     92035
@@ -124,6 +126,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Jun, 2016"
@@ -132,5 +137,9 @@
     "url": "http://www.runestonestudios.in",
     "email": "hello@runestonestudios.in"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437380/page_bg_generated_v6b.jpg?t=1482827267"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437380/page_bg_generated_v6b.jpg?t=1482827267",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

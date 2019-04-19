@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "The original soundtrack of old-school retro platformer <i>Flem</i>, by composer Jens Kristian M\u00f8rkeby Rimau. Enjoy these 8-bit inspired chiptunes that capture the essence of a pixel booger ball's life.<br><br>Tracklist:<br><br><ul class=\"bb_ul\"><li>1. Title Theme<br></li><li>2. Ambient<br></li><li>3. Spring<br></li><li>4. Summer<br></li><li>5. Fall<br></li><li>6. Winter<br></li><li>7. Mystic<br></li><li>8. Bonus (Unused)</li></ul><br>About the Game:<br><br>Flem is an unforgiving retro-platformer, where you play as the bouncing booger ball stranded in a strange new world after the calamity of the Great Sneeze. Make your way through four colorful Seasons, avoid the oddly hostile environment and discover Flem\u2019s hidden snot powers. Put your speedrunning skills to the test to earn medals and see how you measure up against other players through leaderboards. You sneeze you lose.",
   "about_the_game": "The original soundtrack of old-school retro platformer <i>Flem</i>, by composer Jens Kristian M\u00f8rkeby Rimau. Enjoy these 8-bit inspired chiptunes that capture the essence of a pixel booger ball's life.<br><br>Tracklist:<br><br><ul class=\"bb_ul\"><li>1. Title Theme<br></li><li>2. Ambient<br></li><li>3. Spring<br></li><li>4. Summer<br></li><li>5. Fall<br></li><li>6. Winter<br></li><li>7. Mystic<br></li><li>8. Bonus (Unused)</li></ul><br>About the Game:<br><br>Flem is an unforgiving retro-platformer, where you play as the bouncing booger ball stranded in a strange new world after the calamity of the Great Sneeze. Make your way through four colorful Seasons, avoid the oddly hostile environment and discover Flem\u2019s hidden snot powers. Put your speedrunning skills to the test to earn medals and see how you measure up against other players through leaderboards. You sneeze you lose.",
-  "short_description": "The original soundtrack of old-school retro platformer<i> Flem</i>, by composer Jens Kristian M\u00f8rkeby Rimau.  Enjoy these 8-bit inspired chiptunes that capture the essence of a pixel booger ball's life.",
+  "short_description": "The original soundtrack of old-school retro platformer Flem, by composer Jens Kristian M\u00f8rkeby Rimau. Enjoy these 8-bit inspired chiptunes that capture the essence of a pixel booger ball's life.",
   "fullgame": {
     "appid": "341760",
     "name": "Flem"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     67238
@@ -136,5 +138,9 @@
     "url": "http://flemgame.com",
     "email": "support@henchmangoon.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/369430/page_bg_generated_v6b.jpg?t=1447374145"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/369430/page_bg_generated_v6b.jpg?t=1447374145",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

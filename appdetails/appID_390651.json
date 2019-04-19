@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Unlock different hair styles for the main character!<br><br>Includes<br><br><ul class=\"bb_ul\"><li>Short Hair<br></li><li>Long Hair<br></li><li>Twintails<br></li><li>Ponytail<br></li><li>Twintails 2<br></li><li>Machiko Hair<br></li><li>Maeko Hair<br></li><li>Foxgirl Short<br></li><li>Foxgirl Long<br></li><li>Foxgirl Twintails</li></ul>",
   "about_the_game": "Unlock different hair styles for the main character!<br><br>Includes<br><br><ul class=\"bb_ul\"><li>Short Hair<br></li><li>Long Hair<br></li><li>Twintails<br></li><li>Ponytail<br></li><li>Twintails 2<br></li><li>Machiko Hair<br></li><li>Maeko Hair<br></li><li>Foxgirl Short<br></li><li>Foxgirl Long<br></li><li>Foxgirl Twintails</li></ul>",
-  "short_description": "",
+  "short_description": "Unlock different hair styles for the main character!IncludesShort HairLong HairTwintailsPonytailTwintails 2Machiko HairMaeko HairFoxgirl ShortFoxgirl LongFoxgirl...",
   "fullgame": {
     "appid": "383080",
     "name": "Sakura Clicker"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     74511
@@ -135,6 +137,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/390651/ss_2c7760cb587a6aa4b675a2c336cab6d6441599fa.1920x1080.jpg?t=1485965304"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Jul, 2015"
@@ -143,5 +148,12 @@
     "url": "",
     "email": "support@winged-cloud.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/390651/page_bg_generated_v6b.jpg?t=1485965304"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/390651/page_bg_generated_v6b.jpg?t=1485965304",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

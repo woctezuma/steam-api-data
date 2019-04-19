@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Vile films meets with I Fight Bears founder Nicoll Hunt (Fist Of Awesome, 8 bit waterslide), Matt Warshaw of Broken Fence Games (A Light In Chorus), Alan Zucconi (Orbitalis, Still Time) and Luke Whittaker and Katherine Bidwell founders of State Of Play (Lume, Lumino City) \r\n\r\nA playful documentary exploring the ideas and lives behind some of the most successful and eagerly awaited Indie games from the UK\u2019s smallest game developing teams. Exploring the other side of this multi billion pound industry where small teams of people are creating commercially viable and enjoyable games with a personal touch. Featuring a wide range of games from single man teams creating comically charged time travelling beat 'em ups to BAFTA award winning hand crafted paper games.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Vile films meets with I Fight Bears founder Nicoll Hunt (Fist Of Awesome, 8 bit waterslide), Matt Warshaw of Broken Fence Games (A Light In Chorus), Alan Zucconi (Orbitalis, Still Time) and Luke Whittaker and Katherine Bidwell founders of State Of Play (Lume, Lumino City) \r\n\r\nA playful documentary exploring the ideas and lives behind some of the most successful and eagerly awaited Indie games from the UK\u2019s smallest game developing teams. Exploring the other side of this multi billion pound industry where small teams of people are creating commercially viable and enjoyable games with a personal touch. Featuring a wide range of games from single man teams creating comically charged time travelling beat 'em ups to BAFTA award winning hand crafted paper games.",
   "about_the_game": "Vile films meets with I Fight Bears founder Nicoll Hunt (Fist Of Awesome, 8 bit waterslide), Matt Warshaw of Broken Fence Games (A Light In Chorus), Alan Zucconi (Orbitalis, Still Time) and Luke Whittaker and Katherine Bidwell founders of State Of Play (Lume, Lumino City) <br />\r\n<br />\r\nA playful documentary exploring the ideas and lives behind some of the most successful and eagerly awaited Indie games from the UK\u2019s smallest game developing teams. Exploring the other side of this multi billion pound industry where small teams of people are creating commercially viable and enjoyable games with a personal touch. Featuring a wide range of games from single man teams creating comically charged time travelling beat 'em ups to BAFTA award winning hand crafted paper games.",
   "short_description": "A Playful documentary exploring small teams of Indie game developers in the UK, producing a variety of game styles from comical beat 'em ups to hand crafted paper games!",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     92171,
@@ -165,6 +167,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Mar, 2016"
@@ -173,5 +178,9 @@
     "url": "",
     "email": "films@devolverdigital.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437750/page_bg_generated_v6b.jpg?t=1478201809"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437750/page_bg_generated_v6b.jpg?t=1478201809",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

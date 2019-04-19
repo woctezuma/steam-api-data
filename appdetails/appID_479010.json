@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1999,
-    "final": 1999,
-    "discount_percent": 0
+    "initial": 2499,
+    "final": 2499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "24,99\u20ac"
   },
   "packages": [
     107044
@@ -46,11 +48,11 @@
           "packageid": 107044,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Kodon - 19,99\u20ac",
+          "option_text": "Kodon - 24,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1999
+          "price_in_cents_with_discount": 2499
         }
       ]
     }
@@ -147,6 +149,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Jun, 2016"
@@ -155,5 +160,9 @@
     "url": "https://www.facebook.com/Kodon3D/",
     "email": "support@tenklabs.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/479010/page_bg_generated_v6b.jpg?t=1513894253"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/479010/page_bg_generated_v6b.jpg?t=1513894253",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     119008
@@ -174,6 +176,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Sep, 2016"
@@ -182,5 +187,9 @@
     "url": "www.1888games.co.uk",
     "email": "help@1888games.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/511790/page_bg_generated_v6b.jpg?t=1473744343"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/511790/page_bg_generated_v6b.jpg?t=1473744343",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

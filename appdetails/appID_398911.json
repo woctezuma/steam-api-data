@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     77144
@@ -105,6 +107,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/398911/ss_8d3f9a41fa5e3a4b2f88509144aeef60e25cbc36.1920x1080.jpg?t=1447377763"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Sep, 2015"
@@ -113,5 +118,9 @@
     "url": "",
     "email": "support@leagueofgeeks.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/398911/page_bg_generated_v6b.jpg?t=1447377763"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/398911/page_bg_generated_v6b.jpg?t=1447377763",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

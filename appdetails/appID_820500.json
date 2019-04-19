@@ -23,11 +23,14 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
+    277475,
     251563
   ],
   "package_groups": [
@@ -41,14 +44,24 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": 251563,
+          "packageid": 277475,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Tisnart Shapes - 4,99\u20ac",
+          "option_text": "Tisnart Shapes - Commercial License - 2,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 249
+        },
+        {
+          "packageid": 251563,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Tisnart Shapes - 3,29\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -153,6 +166,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Mar, 2018"
@@ -161,5 +177,9 @@
     "url": "",
     "email": "tisnartshapes@tisnart.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/820500/page_bg_generated_v6b.jpg?t=1522058337"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/820500/page_bg_generated_v6b.jpg?t=1522058337",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -12,8 +12,8 @@
     "appid": "388410",
     "name": "Darksiders II Deathinitive Edition"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Czech, Dutch, Polish, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/417380/header.jpg?t=1496741672",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech, Dutch, Polish, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/417380/header.jpg?t=1531138154",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Windows Vista SP1, Windows 7, Windows 8 or Windows 10 (64bit)<br></li><li><strong>Processor:</strong> 2.0Ghz Intel\u00ae Core\u21222 Duo Processor or AMD equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA 9800 GT 512 MB Video Card or AMD equivalent<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 13 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible Sound card<br></li><li><strong>Additional Notes:</strong> System requirements for the main game</li></ul>",
@@ -34,11 +34,12 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    84250,
-    81557
+    84250
   ],
   "package_groups": [
     {
@@ -59,16 +60,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 499
-        },
-        {
-          "packageid": 81557,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Darksiders Franchise Pack - 49,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4999
         }
       ]
     }
@@ -125,10 +116,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/417380/ss_e630a6d6c029f55025658ec7564da79a963ae621.600x338.jpg?t=1496741672",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/417380/ss_e630a6d6c029f55025658ec7564da79a963ae621.1920x1080.jpg?t=1496741672"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/417380/ss_e630a6d6c029f55025658ec7564da79a963ae621.600x338.jpg?t=1531138154",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/417380/ss_e630a6d6c029f55025658ec7564da79a963ae621.1920x1080.jpg?t=1531138154"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Nov, 2015"
@@ -137,5 +131,9 @@
     "url": "",
     "email": "support@quanticlab.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/417380/page_bg_generated_v6b.jpg?t=1496741672"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/417380/page_bg_generated_v6b.jpg?t=1531138154",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

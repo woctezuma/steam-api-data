@@ -11,12 +11,12 @@
     "appid": "233980",
     "name": "UnEpic"
   },
-  "supported_languages": "English<strong>*</strong>, German, French, Italian, Korean, Spanish<strong>*</strong>, Simplified Chinese, Traditional Chinese, Russian, Portuguese, Polish, Hungarian, Czech, Portuguese-Brazil, Japanese, Dutch<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German, French, Italian, Korean, Spanish - Spain<strong>*</strong>, Simplified Chinese, Traditional Chinese, Russian, Portuguese, Polish, Hungarian, Czech, Portuguese - Brazil, Japanese, Dutch<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/542040/header.jpg?t=1509114986",
   "website": "http://www.unepicgame.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows XP<br>\t</li><li><strong>Processor:</strong>Dual Core<br>\t</li><li><strong>Memory:</strong>4 GB GB RAM<br>\t</li><li><strong>Graphics:</strong>256mb, Compatible with OpenGL<br>\t</li><li><strong>DirectX\u00ae:</strong>7.0<br>\t</li><li><strong>Hard Drive:</strong>256mb disk space<br>\t</li><li><strong>Sound:</strong>Direct Sound installed</li></ul>NOTE: Some ATI graphics cards require troubleshooting because their drivers are not 100% compatible with OpenGL. If you have concerns, try <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.unepicgame.com/files/unepic.exe\" target=\"_blank\" rel=\"noopener\"  >running the demo</a></a> first.",
-    "recommended": "<strong>Recomended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows XP or later<br>\t</li><li><strong>Processor:</strong>Quad Core<br>\t</li><li><strong>Memory:</strong>8GB<br>\t</li><li><strong>Graphics:</strong>Nvidia Geforce 512GB or more<br>\t</li><li><strong>DirectX\u00ae:</strong>7.0 or later<br>\t</li><li><strong>Hard Drive:</strong>256mb disk space<br>\t</li><li><strong>Sound:</strong>Direct Sound installed</li></ul>NOTE: Some ATI graphics cards require troubleshooting because their drivers are not 100% compatible with OpenGL. If you have concerns, try <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.unepicgame.com/files/unepic.exe\" target=\"_blank\" rel=\"noopener\"  >running the demo</a></a> first."
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows XP<br>\t</li><li><strong>Processor:</strong>Dual Core<br>\t</li><li><strong>Memory:</strong>4 GB GB RAM<br>\t</li><li><strong>Graphics:</strong>256mb, Compatible with OpenGL<br>\t</li><li><strong>DirectX\u00ae:</strong>7.0<br>\t</li><li><strong>Hard Drive:</strong>256mb disk space<br>\t</li><li><strong>Sound:</strong>Direct Sound installed</li></ul>NOTE: Some ATI graphics cards require troubleshooting because their drivers are not 100% compatible with OpenGL. If you have concerns, try <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.unepicgame.com/files/unepic.exe\" target=\"_blank\" rel=\"noopener\"  >running the demo</a> first.",
+    "recommended": "<strong>Recomended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows XP or later<br>\t</li><li><strong>Processor:</strong>Quad Core<br>\t</li><li><strong>Memory:</strong>8GB<br>\t</li><li><strong>Graphics:</strong>Nvidia Geforce 512GB or more<br>\t</li><li><strong>DirectX\u00ae:</strong>7.0 or later<br>\t</li><li><strong>Hard Drive:</strong>256mb disk space<br>\t</li><li><strong>Sound:</strong>Direct Sound installed</li></ul>NOTE: Some ATI graphics cards require troubleshooting because their drivers are not 100% compatible with OpenGL. If you have concerns, try <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.unepicgame.com/files/unepic.exe\" target=\"_blank\" rel=\"noopener\"  >running the demo</a> first."
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     133335
@@ -120,13 +122,11 @@
       "id": 0,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/542040/ss_cadf8e93a7c6b3157c888a556a869c1398210974.600x338.jpg?t=1509114986",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/542040/ss_cadf8e93a7c6b3157c888a556a869c1398210974.1920x1080.jpg?t=1509114986"
-    },
-    {
-      "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/542040/?t=1509114986",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/542040/?t=1509114986"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Oct, 2016"
@@ -135,5 +135,9 @@
     "url": "www.unepicgame.com",
     "email": "unepicgame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/542040/page_bg_generated_v6b.jpg?t=1509114986"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/542040/page_bg_generated_v6b.jpg?t=1509114986",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

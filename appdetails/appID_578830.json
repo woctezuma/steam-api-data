@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 399,
-    "final": 51,
-    "discount_percent": 87
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     147860
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 147860,
-          "percent_savings_text": "-87%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Cavern of Time - <span class=\"discount_original_price\">3,99\u20ac</span> 0,51\u20ac",
+          "option_text": "Cavern of Time - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 51
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -218,5 +220,9 @@
     "url": "http://www.aldorlea.org/",
     "email": "aldorlea@googlemail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/578830/page_bg_generated_v6b.jpg?t=1486770702"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/578830/page_bg_generated_v6b.jpg?t=1486770702",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

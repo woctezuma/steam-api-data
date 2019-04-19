@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 239,
-    "discount_percent": 40
+    "initial": 350,
+    "final": 350,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,50\u20ac"
   },
   "packages": [
     250954
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 250954,
-          "percent_savings_text": "-40%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Hotel Spring - <span class=\"discount_original_price\">3,99\u20ac</span> 2,39\u20ac",
+          "option_text": "Hotel Spring - 3,50\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 239
+          "price_in_cents_with_discount": 350
         }
       ]
     }
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Apr, 2018"
@@ -127,5 +132,9 @@
     "url": "https://www.chief-fenrir.com/",
     "email": "support@chief-fenrir.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/818990/page_bg_generated_v6b.jpg?t=1523675165"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/818990/page_bg_generated_v6b.jpg?t=1523675165",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -15,8 +15,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/561990/header.jpg?t=1482236630",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> 1GHz or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> any DirectX 9.0c compatible with 128 MB VRAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9 compatible</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> AMD Athlon FX or Intel Core i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon 5xxx or nVidia GeForce 5xx<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9 compatible</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP, Vista, 7, 8, 10<br></li><li><strong>Processeur\u00a0:</strong> 1GHz or higher<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> any DirectX 9.0c compatible with 128 MB VRAM<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0c<br></li><li><strong>Espace disque\u00a0:</strong> 2 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> DirectX 9 compatible</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP, Vista, 7, 8, 10<br></li><li><strong>Processeur\u00a0:</strong> AMD Athlon FX or Intel Core i3<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 4 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> AMD Radeon 5xxx or nVidia GeForce 5xx<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0c<br></li><li><strong>Espace disque\u00a0:</strong> 2 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> DirectX 9 compatible</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     141184
@@ -118,5 +120,9 @@
     "url": "",
     "email": "support@ufo-game.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/561990/page_bg_generated_v6b.jpg?t=1482236630"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/561990/page_bg_generated_v6b.jpg?t=1482236630",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

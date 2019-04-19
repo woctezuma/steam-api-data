@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     157887
@@ -213,5 +215,13 @@
     "url": "http://seedofthearcane.englishboards.com/",
     "email": "support@infosuccess3d.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/601020/page_bg_generated_v6b.jpg?t=1494729681"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/601020/page_bg_generated_v6b.jpg?t=1494729681",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     77487
@@ -48,11 +50,11 @@
           "packageid": 77487,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Ferrum's secrets - Vintage Vision cinematograph pack - 1,99\u20ac",
+          "option_text": "Ferrum's secrets - Vintage Vision cinematograph pack - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -133,5 +135,9 @@
     "url": "http://zigzag.net.pl/mail.php",
     "email": "games@zigzag.net.pl"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/399870/page_bg_generated_v6b.jpg?t=1447377813"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/399870/page_bg_generated_v6b.jpg?t=1447377813",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

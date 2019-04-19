@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     181333
@@ -213,5 +215,9 @@
     "url": "",
     "email": "team@immergity.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/645860/page_bg_generated_v6b.jpg?t=1504855397"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/645860/page_bg_generated_v6b.jpg?t=1504855397",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

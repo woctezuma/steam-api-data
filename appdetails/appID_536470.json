@@ -26,9 +26,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     130732
@@ -47,11 +49,11 @@
           "packageid": 130732,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Magnetized - 2,99\u20ac",
+          "option_text": "Magnetized - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -225,5 +227,9 @@
     "url": "http://www.rockyhong.com/",
     "email": "contact@rockyhong.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/536470/page_bg_generated_v6b.jpg?t=1476634816"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/536470/page_bg_generated_v6b.jpg?t=1476634816",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

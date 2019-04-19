@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     188983
@@ -111,6 +113,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/665460/ss_de5729aab74aff89dcce31e15a66ac04abf96542.1920x1080.jpg?t=1498484241"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Jun, 2017"
@@ -119,5 +124,9 @@
     "url": "https://saltthegame.com",
     "email": "support@saltthegame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/665460/page_bg_generated_v6b.jpg?t=1498484241"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/665460/page_bg_generated_v6b.jpg?t=1498484241",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

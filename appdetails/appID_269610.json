@@ -6,9 +6,9 @@
   "is_free": false,
   "detailed_description": "A game inspired by classic Magic Carpet, with modern graphics and features. You play as a sorcerer, exploring mysterious worlds, changing them, discovering ancient secrets, creating new spells, fighting creatures and other mages, building and destroying as you please.",
   "about_the_game": "A game inspired by classic Magic Carpet, with modern graphics and features. You play as a sorcerer, exploring mysterious worlds, changing them, discovering ancient secrets, creating new spells, fighting creatures and other mages, building and destroying as you please.",
-  "short_description": "",
+  "short_description": "A game inspired by classic Magic Carpet, with modern graphics and features. You play as a sorcerer, exploring mysterious worlds, changing them, discovering ancient secrets, creating new spells, fighting creatures and other mages, building and destroying as you please.",
   "supported_languages": "English",
-  "reviews": "\u201cEven if Arcane Worlds only ever copied Magic Carpet, that would be enough for some people to be excited about it... but it already looks like there\u2019s more to it than that.\u201d<br><a href=\"http://www.rockpapershotgun.com/2013/09/24/treely-magic-arcane-worlds/\" target=\"_blank\" rel=\"noreferrer\"  >Rock, Paper, Shotgun</a></a><br>",
+  "reviews": "\u201cEven if Arcane Worlds only ever copied Magic Carpet, that would be enough for some people to be excited about it... but it already looks like there\u2019s more to it than that.\u201d<br><a href=\"http://www.rockpapershotgun.com/2013/09/24/treely-magic-arcane-worlds/\" target=\"_blank\" rel=\"noreferrer\"  >Rock, Paper, Shotgun</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/269610/header.jpg?t=1447359772",
   "website": "http://ranmantaru.com/games/arcane-worlds",
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     35764
@@ -138,9 +140,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 192
-  },
   "achievements": {
     "total": 0
   },
@@ -152,5 +151,9 @@
     "url": "",
     "email": "support@ranmantaru.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/269610/page_bg_generated_v6b.jpg?t=1447359772"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/269610/page_bg_generated_v6b.jpg?t=1447359772",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Monumental Failure is a historically (in)accurate physics-based monument construction simulator. The game empowers you to recreate some of the world's most impressive architectural feats using incredible, and hard-to-believe, construction techniques. From the great ring at Stonehenge, to the genius of the ancient Roman aqueduct, will you have what it takes to re-create these feats of engineering?<br><br><strong>DOZENS OF CHALLENGES</strong><br>Build the monuments of ancient times in 70 unique levels spread across 7 unique worlds.<br><br><strong>EASY TO PLAY</strong><br>Simple controls and simple design make Monumental Failure approachable to both experienced gamers and novice players. <br><br><strong>FUN TO FAIL</strong><br>Light-hearted tone, absurd scenarios, and colourful characters ensure you\u2019re happy even if you\u2019re not winning.<br><br><strong>SINGLE PLAYER CHALLENGE</strong><br>Can you handle controlling an entire monument construction crew by yourself?<br><br><strong>2-4 PLAYER SPLIT SCREEN COMPETITIVE MODE</strong><br>Challenge your friends and show off your monument building prowess.<br><br><strong>2-4 PLAYER LOCAL COOPERATIVE MODE</strong><br>Find out if working together makes monument construction easier, or failures more spectacular.<br><br><strong>4-10 PLAYER TEAM COMPETITIVE MODE</strong><br>Local versus challenge for teams of 2-4 players, up to 4 teams!<br><br><strong>TEAM CUSTOMISATION</strong><br>Players can select their team\u2019s clothes colour and preferred headgear, because, who doesn\u2019t like hats?  <br><br><strong>MONUMENTAL MUSIC</strong><br>Original soundtrack highlights the civilisations featured in the game.",
   "about_the_game": "Monumental Failure is a historically (in)accurate physics-based monument construction simulator. The game empowers you to recreate some of the world's most impressive architectural feats using incredible, and hard-to-believe, construction techniques. From the great ring at Stonehenge, to the genius of the ancient Roman aqueduct, will you have what it takes to re-create these feats of engineering?<br><br><strong>DOZENS OF CHALLENGES</strong><br>Build the monuments of ancient times in 70 unique levels spread across 7 unique worlds.<br><br><strong>EASY TO PLAY</strong><br>Simple controls and simple design make Monumental Failure approachable to both experienced gamers and novice players. <br><br><strong>FUN TO FAIL</strong><br>Light-hearted tone, absurd scenarios, and colourful characters ensure you\u2019re happy even if you\u2019re not winning.<br><br><strong>SINGLE PLAYER CHALLENGE</strong><br>Can you handle controlling an entire monument construction crew by yourself?<br><br><strong>2-4 PLAYER SPLIT SCREEN COMPETITIVE MODE</strong><br>Challenge your friends and show off your monument building prowess.<br><br><strong>2-4 PLAYER LOCAL COOPERATIVE MODE</strong><br>Find out if working together makes monument construction easier, or failures more spectacular.<br><br><strong>4-10 PLAYER TEAM COMPETITIVE MODE</strong><br>Local versus challenge for teams of 2-4 players, up to 4 teams!<br><br><strong>TEAM CUSTOMISATION</strong><br>Players can select their team\u2019s clothes colour and preferred headgear, because, who doesn\u2019t like hats?  <br><br><strong>MONUMENTAL MUSIC</strong><br>Original soundtrack highlights the civilisations featured in the game.",
-  "short_description": "Monumental Failure is a historically (in)accurate physics-based monument construction simulator. The game empowers you to recreate some of the world's most impressive architectural feats using incredible, and hard-to-believe, construction techniques. From the great ring at Stonehenge, to the genius of the ancient Roman aqueduct, will you have what it takes to re-create these feats of engineering?",
+  "short_description": "Monumental Failure is a historically (in)accurate physics-based monument construction simulator. The game empowers you to recreate some of the world's most impressive architectural feats using incredible, and hard-to-believe, construction techniques.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/573300/header.jpg?t=1508809094",
   "website": "http://monumentalfailure.com/",
@@ -32,8 +32,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 799,
-    "discount_percent": 20
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     145851
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 145851,
-          "percent_savings_text": "-20%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Monumental Failure - <span class=\"discount_original_price\">9,99\u20ac</span> 7,99\u20ac",
+          "option_text": "Monumental Failure - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -403,6 +405,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jan, 2017"
@@ -411,5 +416,9 @@
     "url": "http://monumentalfailure.weebly.com/contact.html",
     "email": "contact@scarywizard.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/573300/page_bg_generated_v6b.jpg?t=1508809094"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/573300/page_bg_generated_v6b.jpg?t=1508809094",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

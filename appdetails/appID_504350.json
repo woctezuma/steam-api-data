@@ -11,7 +11,7 @@
     "appid": "393930",
     "name": "RoShamBo"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Dutch, Russian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/504350/header.jpg?t=1469166126",
   "website": "http://blamgames.com/",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     116085
@@ -172,5 +174,9 @@
     "url": "http://blam-games.com/",
     "email": "support@blam-games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/504350/page_bg_generated_v6b.jpg?t=1469166126"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/504350/page_bg_generated_v6b.jpg?t=1469166126",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

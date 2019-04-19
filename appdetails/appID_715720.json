@@ -8,7 +8,7 @@
   "detailed_description": "Cuco is a 2D puzzle with elements of a hardcore platformer.<br />\r\nThe goal of each level is to activate pink squares in different ways. Use 3 different characters to solve puzzles and pass the game.<br />\r\nCuco will help you have a good time and strain your brains!<br />\r\n<br />\r\nFeatures:<br />\r\n\u2022 minimalist style<br />\r\n\u2022 complex puzzles<br />\r\n\u2022 hardcore platformer<br />\r\n\u2022 pleasant color palette<br />\r\n\u2022 excellent soundtrack<br />\r\n<br />\r\nGood luck!",
   "about_the_game": "Cuco is a 2D puzzle with elements of a hardcore platformer.<br />\r\nThe goal of each level is to activate pink squares in different ways. Use 3 different characters to solve puzzles and pass the game.<br />\r\nCuco will help you have a good time and strain your brains!<br />\r\n<br />\r\nFeatures:<br />\r\n\u2022 minimalist style<br />\r\n\u2022 complex puzzles<br />\r\n\u2022 hardcore platformer<br />\r\n\u2022 pleasant color palette<br />\r\n\u2022 excellent soundtrack<br />\r\n<br />\r\nGood luck!",
   "short_description": "Cuco is a 2D puzzle with elements of a hardcore platformer.",
-  "supported_languages": "English, French, Italian, German, Spanish, Arabic, Bulgarian, Portuguese-Brazil, Hungarian, Greek, Danish, Traditional Chinese, Simplified Chinese, Korean, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Thai, Turkish, Ukrainian, Czech, Swedish, Japanese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Portuguese - Brazil, Hungarian, Greek, Danish, Traditional Chinese, Simplified Chinese, Korean, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Thai, Turkish, Ukrainian, Czech, Swedish, Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/715720/header.jpg?t=1507707772",
   "website": null,
   "pc_requirements": {
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 61,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     207398
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 207398,
-          "percent_savings_text": "",
+          "percent_savings_text": "-61%",
           "percent_savings": 0,
-          "option_text": "Cuco - 0,99\u20ac",
+          "option_text": "Cuco - <span class=\"discount_original_price\">0,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -173,5 +175,9 @@
     "url": "",
     "email": "support@rhino-games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/715720/page_bg_generated_v6b.jpg?t=1507707772"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/715720/page_bg_generated_v6b.jpg?t=1507707772",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

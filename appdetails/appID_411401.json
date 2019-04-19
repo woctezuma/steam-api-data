@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     82031,
@@ -106,6 +108,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/411401/ss_a332366bdca09428e0f254f367a97c0c1dc156c3.1920x1080.jpg?t=1500527037"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jan, 2016"
@@ -114,5 +119,9 @@
     "url": "http://fruitbatfactory.com",
     "email": "support@fruitbatfactory.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/411401/page_bg_generated_v6b.jpg?t=1500527037"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/411401/page_bg_generated_v6b.jpg?t=1500527037",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -8,7 +8,7 @@
   "about_the_game": "Welcome to the Trivia Vault contestant! Play as a contestant in a gameshow called Trivia Vault Movie Trivia and bring your thinking hat. Answer movie trivia questions as quickly as you can, the faster you answer the higher the cash value. Correct answers lock in the digit code for the vault, 10 correct answers cracks the vault and awards bonus cash. Track your progress and aim for higher scores to accomplish higher ranks. Challenge yourself to beat your high score by playing multiple times and completing all 25 levels with a total of 250 unique trivia questions.<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n3 Codebreaker Lifelines<br />\r\n25 Vaults to Crack(levels)<br />\r\n250 Unique Trivia Questions<br />\r\nTimer Based Questions<br />\r\nObtain Cash Multipliers Based on Correct Answers in a Level<br />\r\n3 Ranks of Accomplishment per Level",
   "short_description": "Welcome to the Trivia Vault contestant! Play as a contestant in a gameshow called Trivia Vault Movie Trivia and bring your thinking hat. Answer movie trivia questions as quickly as you can, the faster you answer the higher the cash value.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/845970/header.jpg?t=1523569496",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/845970/header.jpg?t=1524853816",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 7 32-bit or better<br></li><li><strong>Processor:</strong> 2.0 ghz or higher<br></li><li><strong>Memory:</strong> 500 MB RAM<br></li><li><strong>Graphics:</strong> 500 Megs VRAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
@@ -21,7 +21,40 @@
   "publishers": [
     "Ripknot Systems"
   ],
-  "package_groups": [],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 999,
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
+  },
+  "packages": [
+    264623
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Trivia Vault: Movie Trivia",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 264623,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Trivia Vault: Movie Trivia - 9,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 999
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -31,6 +64,10 @@
     {
       "id": 2,
       "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
     }
   ],
   "genres": [
@@ -54,28 +91,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_e0972daf80bf7b83659928e7d125025839b2a530.600x338.jpg?t=1523569496",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_e0972daf80bf7b83659928e7d125025839b2a530.1920x1080.jpg?t=1523569496"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_e0972daf80bf7b83659928e7d125025839b2a530.600x338.jpg?t=1524853816",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_e0972daf80bf7b83659928e7d125025839b2a530.1920x1080.jpg?t=1524853816"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_bd307f81b1d5e8d350f9d47cec134ee6d0b2bc2f.600x338.jpg?t=1523569496",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_bd307f81b1d5e8d350f9d47cec134ee6d0b2bc2f.1920x1080.jpg?t=1523569496"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_bd307f81b1d5e8d350f9d47cec134ee6d0b2bc2f.600x338.jpg?t=1524853816",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_bd307f81b1d5e8d350f9d47cec134ee6d0b2bc2f.1920x1080.jpg?t=1524853816"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_db8afd74d5015fbe2ced033e8579076a7bf01ba8.600x338.jpg?t=1523569496",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_db8afd74d5015fbe2ced033e8579076a7bf01ba8.1920x1080.jpg?t=1523569496"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_db8afd74d5015fbe2ced033e8579076a7bf01ba8.600x338.jpg?t=1524853816",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_db8afd74d5015fbe2ced033e8579076a7bf01ba8.1920x1080.jpg?t=1524853816"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_ddb642681167d0016460a8b950c4fd6a64b07ce9.600x338.jpg?t=1523569496",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_ddb642681167d0016460a8b950c4fd6a64b07ce9.1920x1080.jpg?t=1523569496"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_ddb642681167d0016460a8b950c4fd6a64b07ce9.600x338.jpg?t=1524853816",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_ddb642681167d0016460a8b950c4fd6a64b07ce9.1920x1080.jpg?t=1524853816"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_d5ea6250dedb64c25118243cb0f46f396b52d832.600x338.jpg?t=1523569496",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_d5ea6250dedb64c25118243cb0f46f396b52d832.1920x1080.jpg?t=1523569496"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_d5ea6250dedb64c25118243cb0f46f396b52d832.600x338.jpg?t=1524853816",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/845970/ss_d5ea6250dedb64c25118243cb0f46f396b52d832.1920x1080.jpg?t=1524853816"
     }
   ],
   "movies": [
@@ -90,13 +127,62 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 5000,
+    "highlighted": [
+      {
+        "name": "Super Trivia Champion",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/845970/30cc77b7e2666a84065daa53a6c9764c078598fa.jpg"
+      },
+      {
+        "name": "Super Trivia Champion",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/845970/30cc77b7e2666a84065daa53a6c9764c078598fa.jpg"
+      },
+      {
+        "name": "Super Trivia Champion",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/845970/938ba7abd78ea54301b87ee3ac8d0f488ff87dc4.jpg"
+      },
+      {
+        "name": "Super Trivia Champion",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/845970/30cc77b7e2666a84065daa53a6c9764c078598fa.jpg"
+      },
+      {
+        "name": "Super Trivia Champion",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/845970/3a5132dbf9c6f1943146d20d6b2699f02d0495d3.jpg"
+      },
+      {
+        "name": "Super Trivia Champion",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/845970/30cc77b7e2666a84065daa53a6c9764c078598fa.jpg"
+      },
+      {
+        "name": "Super Trivia Champion",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/845970/30cc77b7e2666a84065daa53a6c9764c078598fa.jpg"
+      },
+      {
+        "name": "Super Trivia Champion",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/845970/30cc77b7e2666a84065daa53a6c9764c078598fa.jpg"
+      },
+      {
+        "name": "Super Trivia Champion",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/845970/30cc77b7e2666a84065daa53a6c9764c078598fa.jpg"
+      },
+      {
+        "name": "Super Trivia Champion",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/845970/30cc77b7e2666a84065daa53a6c9764c078598fa.jpg"
+      }
+    ]
+  },
   "release_date": {
-    "coming_soon": true,
-    "date": "25 Apr, 2018"
+    "coming_soon": false,
+    "date": "27 Apr, 2018"
   },
   "support_info": {
     "url": "",
     "email": "ripknotsystemsllc@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/845970/page_bg_generated_v6b.jpg?t=1523569496"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/845970/page_bg_generated_v6b.jpg?t=1524853816",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

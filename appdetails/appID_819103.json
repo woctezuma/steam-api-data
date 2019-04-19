@@ -11,11 +11,11 @@
     "appid": "545820",
     "name": "Wanderland"
   },
-  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, French, German, Spanish, Portuguese-Brazil, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, French, German, Spanish - Spain, Portuguese - Brazil, Simplified Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/819103/header.jpg?t=1521654839",
   "website": "http://jetdogs.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1.6 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 1024x768 resolution<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> On board</li></ul>"
+    "minimum": "<strong>\ucd5c\uc18c:</strong><br><ul class=\"bb_ul\"><li><strong>\uc6b4\uc601\uccb4\uc81c:</strong> Windows XP<br></li><li><strong>\ud504\ub85c\uc138\uc11c:</strong> 1.6 GHz<br></li><li><strong>\uba54\ubaa8\ub9ac:</strong> 1 GB RAM<br></li><li><strong>\uadf8\ub798\ud53d:</strong> 1024x768 resolution<br></li><li><strong>\uc800\uc7a5\uacf5\uac04:</strong> 2 GB \uc0ac\uc6a9 \uac00\ub2a5 \uacf5\uac04<br></li><li><strong>\uc0ac\uc6b4\ub4dc\uce74\ub4dc:</strong> On board</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     251000
@@ -167,5 +169,9 @@
     "url": "http://jetdogs.com",
     "email": "contact@jetdogs.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/819103/page_bg_generated_v6b.jpg?t=1521654839"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/819103/page_bg_generated_v6b.jpg?t=1521654839",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

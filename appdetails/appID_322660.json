@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Here lies the original soundtrack recording for The Binding Of Isaac - Rebirth.  <br />\r\n<br />\r\nMatthias Bossi and Jon Evans play everything, and when they can't, they do it anyway.  Many guitars were maimed in the making of this.  Drums were punished and voices scraped to the utmost. An analogue bull in the chip-tune china shop.<br />\r\n<br />\r\n1. Genesis 22:10 (Title)<br />\r\n2. Diptera Sonata<br />\r\n3. Crusade (Basic Boss Fight)<br />\r\n4. Sodden Hollow (Caves)<br />\r\n5. The Forgotten (Secret Room) <br />\r\n6. Abyss (The Depths) <br />\r\n7. Matricide (Mom Fight) <br />\r\n8. The Calm<br />\r\n9. Viscera (Womb)<br />\r\n10.  Ventricide (Womb Fight)<br />\r\n11.  Acceptance (You Died)<br />\r\n12.  Anima Vendit (Deal With The Devil) <br />\r\n13.  Duress (Sheol) <br />\r\n14.  Hericide (Satan Fight) <br />\r\n15.  Murmur of the Harvestman (Store) <br />\r\n16.  Empty Vessels (Angel Room)<br />\r\n17.  Everlasting Hymn (Cathedral) <br />\r\n18.  Infanticide (Isaac Fight)   <br />\r\n19.  Tome of Knowledge (Library)<br />\r\n20.  Periculum (The Cellar) <br />\r\n21.  Capiticus Calvaria (Catacombs) <br />\r\n22.  When Blood Dries (Necropolis)<br />\r\n23.  Sketches of Pain (Chest Room)<br />\r\n24.  Ascension (Chest Fight)  <br />\r\n25.  Devoid (Dark Room)  <br />\r\n26.  The Fallen Angel (Dark Room Fight) <br />\r\n27.  Tribute (Credits Roll)<br />\r\n28.  Genesis 13:37 (Retro Beats)  <br />\r\n29.  Hush (Jesus Loves Uke)<br />\r\n30.  Descensum (BONUS)<br />\r\n31.  He's the Number One (BONUS)",
   "about_the_game": "Here lies the original soundtrack recording for The Binding Of Isaac - Rebirth.  <br />\r\n<br />\r\nMatthias Bossi and Jon Evans play everything, and when they can't, they do it anyway.  Many guitars were maimed in the making of this.  Drums were punished and voices scraped to the utmost. An analogue bull in the chip-tune china shop.<br />\r\n<br />\r\n1. Genesis 22:10 (Title)<br />\r\n2. Diptera Sonata<br />\r\n3. Crusade (Basic Boss Fight)<br />\r\n4. Sodden Hollow (Caves)<br />\r\n5. The Forgotten (Secret Room) <br />\r\n6. Abyss (The Depths) <br />\r\n7. Matricide (Mom Fight) <br />\r\n8. The Calm<br />\r\n9. Viscera (Womb)<br />\r\n10.  Ventricide (Womb Fight)<br />\r\n11.  Acceptance (You Died)<br />\r\n12.  Anima Vendit (Deal With The Devil) <br />\r\n13.  Duress (Sheol) <br />\r\n14.  Hericide (Satan Fight) <br />\r\n15.  Murmur of the Harvestman (Store) <br />\r\n16.  Empty Vessels (Angel Room)<br />\r\n17.  Everlasting Hymn (Cathedral) <br />\r\n18.  Infanticide (Isaac Fight)   <br />\r\n19.  Tome of Knowledge (Library)<br />\r\n20.  Periculum (The Cellar) <br />\r\n21.  Capiticus Calvaria (Catacombs) <br />\r\n22.  When Blood Dries (Necropolis)<br />\r\n23.  Sketches of Pain (Chest Room)<br />\r\n24.  Ascension (Chest Fight)  <br />\r\n25.  Devoid (Dark Room)  <br />\r\n26.  The Fallen Angel (Dark Room Fight) <br />\r\n27.  Tribute (Credits Roll)<br />\r\n28.  Genesis 13:37 (Retro Beats)  <br />\r\n29.  Hush (Jesus Loves Uke)<br />\r\n30.  Descensum (BONUS)<br />\r\n31.  He's the Number One (BONUS)",
-  "short_description": "Here lies the original soundtrack recording for The Binding Of Isaac - Rebirth.  <br />\r\n<br />\r\nMatthias Bossi and Jon Evans play everything, and when they can't, they do it anyway.  Many guitars were maimed in the making of this.  Drums were punished and voices scraped to the utmost. An analogue bull in the chip-tune china shop.",
+  "short_description": "Here lies the original soundtrack recording for The Binding Of Isaac - Rebirth. Matthias Bossi and Jon Evans play everything, and when they can't, they do it anyway. Many guitars were maimed in the making of this. Drums were punished and voices scraped to the utmost. An analogue bull in the chip-tune china shop.",
   "fullgame": {
     "appid": "250900",
     "name": "The Binding of Isaac: Rebirth"
@@ -31,10 +31,12 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
-    "50721"
+    50721
   ],
   "package_groups": [
     {
@@ -47,7 +49,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "50721",
+          "packageid": 50721,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "The Binding of Isaac: Rebirth - Soundtrack - 3,99\u20ac",
@@ -108,7 +110,10 @@
     }
   ],
   "recommendations": {
-    "total": 196
+    "total": 178
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -118,5 +123,9 @@
     "url": "www.nicalis.com",
     "email": "isaac@nicalis.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/322660/page_bg_generated_v6b.jpg?t=1447363601"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/322660/page_bg_generated_v6b.jpg?t=1447363601",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

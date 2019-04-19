@@ -5,15 +5,15 @@
   "required_age": "18",
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "Play as Krimson Ermac. A portion of Krimson Ermac proceeds will go towards funding Mortal Kombat X Tournament Prize Pools.",
-  "about_the_game": "Play as Krimson Ermac. A portion of Krimson Ermac proceeds will go towards funding Mortal Kombat X Tournament Prize Pools.",
-  "short_description": "Play as Krimson Ermac. A portion of Krimson Ermac proceeds will go towards funding Mortal Kombat X Tournament Prize Pools.",
+  "detailed_description": "Play as Krimson Ermac.",
+  "about_the_game": "Play as Krimson Ermac.",
+  "short_description": "Play as Krimson Ermac.",
   "fullgame": {
     "appid": "307780",
     "name": "Mortal Kombat X"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong>, Polish, Portuguese-Brazil<strong>*</strong>, Russian, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/524320/header.jpg?t=1475597003",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish, Portuguese - Brazil<strong>*</strong>, Russian, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/524320/header.jpg?t=1555537343",
   "website": "http://www.mortalkombat.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit: Vista, Win 7, Win 8, Win 10<br></li><li><strong>Processor:</strong> Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 460 | AMD Radeon HD 5850<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 36 GB available space</li></ul>",
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     124983
@@ -110,10 +112,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/524320/ss_d4baafec18897fccd8eb8d1f73f74cb3a9a94626.600x338.jpg?t=1475597003",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/524320/ss_d4baafec18897fccd8eb8d1f73f74cb3a9a94626.1920x1080.jpg?t=1475597003"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/524320/ss_d4baafec18897fccd8eb8d1f73f74cb3a9a94626.600x338.jpg?t=1555537343",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/524320/ss_d4baafec18897fccd8eb8d1f73f74cb3a9a94626.1920x1080.jpg?t=1555537343"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Oct, 2016"
@@ -122,5 +127,12 @@
     "url": "http://support.wbgames.com",
     "email": "support@wbgames.com or Wbgames.intsupport@warnerbros.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/524320/page_bg_generated_v6b.jpg?t=1475597003"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/524320/page_bg_generated_v6b.jpg?t=1555537343",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

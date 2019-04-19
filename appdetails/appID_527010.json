@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     126260
@@ -132,6 +134,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/527010/ss_28783f194ef69511f18ffd0b3356162571143ce3.1920x1080.jpg?t=1521468935"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Sep, 2016"
@@ -140,5 +145,9 @@
     "url": "",
     "email": "support@herocraft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/527010/page_bg_generated_v6b.jpg?t=1521468935"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/527010/page_bg_generated_v6b.jpg?t=1521468935",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

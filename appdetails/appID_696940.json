@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     200307
@@ -191,5 +193,9 @@
     "url": "",
     "email": "vr.support@digitaldomain.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/696940/page_bg_generated_v6b.jpg?t=1507674161"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/696940/page_bg_generated_v6b.jpg?t=1507674161",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

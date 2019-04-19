@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     65375
@@ -182,6 +184,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/363640/ss_1c573a051919dcd6b94c2a0247e9da233b783754.1920x1080.jpg?t=1470132363"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Aug, 2016"
@@ -190,5 +195,9 @@
     "url": "https://puzzlingdream.freshdesk.com",
     "email": "support@puzzlingdream.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/363640/page_bg_generated_v6b.jpg?t=1470132363"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/363640/page_bg_generated_v6b.jpg?t=1470132363",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

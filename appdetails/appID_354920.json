@@ -7,9 +7,9 @@
   "controller_support": "full",
   "detailed_description": "Pester was released on Xbox live indies back in early 2013 and was Flump Studios first game developed for public release.<br>A remake of one of my early C64 games, Pester is a very fast paced and busy vertical shooter.<br>Graphically remastered with new sprite work from Dylan Barry and a thumping soundtrack from Matt Macfarland.<br><br><ul class=\"bb_ul\"><li>Intense old school action</li></ul><ul class=\"bb_ul\"><li>Tate support</li></ul><ul class=\"bb_ul\"><li>Customisable play options, over 100 combinations of play</li></ul><ul class=\"bb_ul\"><li>Remastered sprite work from Dylan Barry</li></ul><ul class=\"bb_ul\"><li>Thumping soundtrack from Matt Macfarland</li></ul>",
   "about_the_game": "Pester was released on Xbox live indies back in early 2013 and was Flump Studios first game developed for public release.<br>A remake of one of my early C64 games, Pester is a very fast paced and busy vertical shooter.<br>Graphically remastered with new sprite work from Dylan Barry and a thumping soundtrack from Matt Macfarland.<br><br><ul class=\"bb_ul\"><li>Intense old school action</li></ul><ul class=\"bb_ul\"><li>Tate support</li></ul><ul class=\"bb_ul\"><li>Customisable play options, over 100 combinations of play</li></ul><ul class=\"bb_ul\"><li>Remastered sprite work from Dylan Barry</li></ul><ul class=\"bb_ul\"><li>Thumping soundtrack from Matt Macfarland</li></ul>",
-  "short_description": "A blast from Flump Studios past!<br />\r\nPester was released on Xbox live indies back in early 2013 and was Flump Studios first game developed for public release.<br />\r\nA remake of one of my early C64 games, Pester is a very fast paced and busy retro vertical shooter.",
+  "short_description": "A blast from Flump Studios past! Pester was released on Xbox live indies back in early 2013 and was Flump Studios first game developed for public release. A remake of one of my early C64 games, Pester is a very fast paced and busy retro vertical shooter.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201cOverall, this is a really smart, well presented little game for both retro fans and shmup fans alike.\u201d<br>9/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.thegamesden.com/t12565-pester-indie-game-review\" target=\"_blank\" rel=\"noopener\"  >The Games Den</a></a><br><br>\u201cPester is great for bringing the retro feel, I had so much fun playing this game\u201d<br>9/10 \u2013 <a href=\"https://www.youtube.com/watch?v=38ChjM4s-kQ\" target=\"_blank\" rel=\"noreferrer\"  >The Overshield</a></a><br><br>\u201cPulls you in and then chews you up along with a line from The Rock saying, \u201ccome get some\u201d to which you will oblige.\u201d<br>A \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=https://seananthonyblog.wordpress.com/2013/01/25/video-game-attack-indie-reviews-pester/\" target=\"_blank\" rel=\"noopener\"  >Video Game Attack</a></a><br>",
+  "reviews": "\u201cOverall, this is a really smart, well presented little game for both retro fans and shmup fans alike.\u201d<br>9/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.thegamesden.com/t12565-pester-indie-game-review\" target=\"_blank\" rel=\"noopener\"  >The Games Den</a><br><br>\u201cPester is great for bringing the retro feel, I had so much fun playing this game\u201d<br>9/10 \u2013 <a href=\"https://www.youtube.com/watch?v=38ChjM4s-kQ\" target=\"_blank\" rel=\"noreferrer\"  >The Overshield</a><br><br>\u201cPulls you in and then chews you up along with a line from The Rock saying, \u201ccome get some\u201d to which you will oblige.\u201d<br>A \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=https://seananthonyblog.wordpress.com/2013/01/25/video-game-attack-indie-reviews-pester/\" target=\"_blank\" rel=\"noopener\"  >Video Game Attack</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/354920/header.jpg?t=1457643917",
   "website": "http://www.flumpstudios.com",
   "pc_requirements": {
@@ -27,8 +27,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 48,
-    "discount_percent": 52
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     62430
@@ -45,13 +47,13 @@
       "subs": [
         {
           "packageid": 62430,
-          "percent_savings_text": "-52%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Pester - <span class=\"discount_original_price\">0,99\u20ac</span> 0,48\u20ac",
+          "option_text": "Pester - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 48
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -175,6 +177,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Aug, 2015"
@@ -183,5 +188,9 @@
     "url": "",
     "email": "flumpstudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/354920/page_bg_generated_v6b.jpg?t=1457643917"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/354920/page_bg_generated_v6b.jpg?t=1457643917",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

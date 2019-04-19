@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     96392
@@ -181,5 +183,9 @@
     "url": "",
     "email": "support@hexwar.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449460/page_bg_generated_v6b.jpg?t=1485651848"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449460/page_bg_generated_v6b.jpg?t=1485651848",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

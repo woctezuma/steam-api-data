@@ -11,8 +11,8 @@
     "appid": "433530",
     "name": "Heliborne"
   },
-  "supported_languages": "English, Russian, French, German, Danish, Polish, Portuguese-Brazil, Greek, Czech",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/730520/header.jpg?t=1508235379",
+  "supported_languages": "English, Russian, French, German, Danish, Polish, Portuguese - Brazil, Greek, Czech",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/730520/header.jpg?t=1528969166",
   "website": "http://www.helibornegame.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.3 GHz<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong> Shader Model 3.0 Compatible GPU, 986 MB VRAM</li></ul>",
@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     213022
@@ -116,25 +118,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_2fdf3e662f9c8c2708273a30852c129bb5dcbcee.600x338.jpg?t=1508235379",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_2fdf3e662f9c8c2708273a30852c129bb5dcbcee.1920x1080.jpg?t=1508235379"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_2fdf3e662f9c8c2708273a30852c129bb5dcbcee.600x338.jpg?t=1528969166",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_2fdf3e662f9c8c2708273a30852c129bb5dcbcee.1920x1080.jpg?t=1528969166"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_f2d51a6a2f6559584f2a3e366036b6dbbc96d2c2.600x338.jpg?t=1508235379",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_f2d51a6a2f6559584f2a3e366036b6dbbc96d2c2.1920x1080.jpg?t=1508235379"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_f2d51a6a2f6559584f2a3e366036b6dbbc96d2c2.600x338.jpg?t=1528969166",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_f2d51a6a2f6559584f2a3e366036b6dbbc96d2c2.1920x1080.jpg?t=1528969166"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_05ebb5ce6a1827b979183dd6d668c9d46d7ac372.600x338.jpg?t=1508235379",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_05ebb5ce6a1827b979183dd6d668c9d46d7ac372.1920x1080.jpg?t=1508235379"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_05ebb5ce6a1827b979183dd6d668c9d46d7ac372.600x338.jpg?t=1528969166",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_05ebb5ce6a1827b979183dd6d668c9d46d7ac372.1920x1080.jpg?t=1528969166"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_2f195d6ac21465f1f84f819bb7360d0fc4ffe956.600x338.jpg?t=1508235379",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_2f195d6ac21465f1f84f819bb7360d0fc4ffe956.1920x1080.jpg?t=1508235379"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_2f195d6ac21465f1f84f819bb7360d0fc4ffe956.600x338.jpg?t=1528969166",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/730520/ss_2f195d6ac21465f1f84f819bb7360d0fc4ffe956.1920x1080.jpg?t=1528969166"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Oct, 2017"
@@ -143,5 +148,9 @@
     "url": "http://www.jetcatgames.com/",
     "email": "contact@jetcatgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/730520/page_bg_generated_v6b.jpg?t=1508235379"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/730520/page_bg_generated_v6b.jpg?t=1528969166",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,9 +26,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 450,
+    "final": 450,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,50\u20ac"
   },
   "packages": [
     117820
@@ -47,11 +49,11 @@
           "packageid": 117820,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Gebub's Adventure - 4,99\u20ac",
+          "option_text": "Gebub's Adventure - 4,50\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 450
         }
       ]
     }
@@ -163,5 +165,9 @@
     "url": "http://orange08games.blogspot.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/509160/page_bg_generated_v6b.jpg?t=1472054723"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/509160/page_bg_generated_v6b.jpg?t=1472054723",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

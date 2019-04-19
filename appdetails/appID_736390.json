@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     215107
@@ -209,5 +211,9 @@
     "url": "",
     "email": "ezalbot@outlook.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/736390/page_bg_generated_v6b.jpg?t=1512161563"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/736390/page_bg_generated_v6b.jpg?t=1512161563",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

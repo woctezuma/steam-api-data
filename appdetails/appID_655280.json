@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     187786
@@ -110,6 +112,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/655280/ss_5979bfc381fca8dc4f05823eb5de85457621506d.1920x1080.jpg?t=1499207098"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Jul, 2017"
@@ -118,5 +123,9 @@
     "url": "",
     "email": "jpatten1980@yahoo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/655280/page_bg_generated_v6b.jpg?t=1499207098"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/655280/page_bg_generated_v6b.jpg?t=1499207098",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

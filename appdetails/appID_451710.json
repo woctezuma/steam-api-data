@@ -4,26 +4,26 @@
   "steam_appid": 451710,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "The Cosmos are leaving their mark on the Multiverse! Do you have what it takes to save the earth from the impending annihilation?<br><br><strong>Wrath of the Cosmos</strong> includes eight new decks to expand your gameplay options:<br><br><ul class=\"bb_ul\"><li>Heroes: <strong>Captain Cosmic</strong> and <strong>Sky-Scraper</strong><br></li><li>Villains: <strong>Deadline</strong>, <strong>Infinitor</strong>, <strong>Kaargra Warfang</strong>, and <strong>Progeny</strong><br></li><li>Environments: <strong>Dok\u2019Thorath Capital</strong> and <strong>The Enclave of the Endlings</strong></li></ul><br>Tip: Save money and get <strong><a href=\"http://store.steampowered.com/sub/58760\" target=\"_blank\" rel=\"noreferrer\"  >Season Pass 1</a></a></strong>, which includes this and many other expansions.",
-  "about_the_game": "The Cosmos are leaving their mark on the Multiverse! Do you have what it takes to save the earth from the impending annihilation?<br><br><strong>Wrath of the Cosmos</strong> includes eight new decks to expand your gameplay options:<br><br><ul class=\"bb_ul\"><li>Heroes: <strong>Captain Cosmic</strong> and <strong>Sky-Scraper</strong><br></li><li>Villains: <strong>Deadline</strong>, <strong>Infinitor</strong>, <strong>Kaargra Warfang</strong>, and <strong>Progeny</strong><br></li><li>Environments: <strong>Dok\u2019Thorath Capital</strong> and <strong>The Enclave of the Endlings</strong></li></ul><br>Tip: Save money and get <strong><a href=\"http://store.steampowered.com/sub/58760\" target=\"_blank\" rel=\"noreferrer\"  >Season Pass 1</a></a></strong>, which includes this and many other expansions.",
+  "detailed_description": "The Cosmos are leaving their mark on the Multiverse! Do you have what it takes to save the earth from the impending annihilation?<br><br><strong>Wrath of the Cosmos</strong> includes eight new decks to expand your gameplay options:<br><br><ul class=\"bb_ul\"><li>Heroes: <strong>Captain Cosmic</strong> and <strong>Sky-Scraper</strong><br></li><li>Villains: <strong>Deadline</strong>, <strong>Infinitor</strong>, <strong>Kaargra Warfang</strong>, and <strong>Progeny</strong><br></li><li>Environments: <strong>Dok\u2019Thorath Capital</strong> and <strong>The Enclave of the Endlings</strong></li></ul><br>Tip: Save money and get <strong><a href=\"http://store.steampowered.com/sub/58760\" target=\"_blank\" rel=\"noreferrer\"  >Season Pass 1</a></strong>, which includes this and many other expansions.",
+  "about_the_game": "The Cosmos are leaving their mark on the Multiverse! Do you have what it takes to save the earth from the impending annihilation?<br><br><strong>Wrath of the Cosmos</strong> includes eight new decks to expand your gameplay options:<br><br><ul class=\"bb_ul\"><li>Heroes: <strong>Captain Cosmic</strong> and <strong>Sky-Scraper</strong><br></li><li>Villains: <strong>Deadline</strong>, <strong>Infinitor</strong>, <strong>Kaargra Warfang</strong>, and <strong>Progeny</strong><br></li><li>Environments: <strong>Dok\u2019Thorath Capital</strong> and <strong>The Enclave of the Endlings</strong></li></ul><br>Tip: Save money and get <strong><a href=\"http://store.steampowered.com/sub/58760\" target=\"_blank\" rel=\"noreferrer\"  >Season Pass 1</a></strong>, which includes this and many other expansions.",
   "short_description": "The Cosmos are leaving their mark on the Multiverse! Do you have what it takes to save the earth from the impending annihilation? Includes Captain Cosmic, Sky-Scraper, Deadline, Infinitor, Kaargra Warfang, Progeny, Dok\u2019Thorath Capital, and The Enclave of the Endlings.",
   "fullgame": {
     "appid": "337150",
     "name": "Sentinels of the Multiverse"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/451710/header.jpg?t=1478095550",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/451710/header.jpg?t=1534524659",
   "website": "http://sentinelsdigital.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 100 MB available space</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 100 MB available space</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 100 MB available space</li></ul>"
   },
-  "legal_notice": "Copyright \u00a9 2014-2016 Handelabra Games Inc.<br />\r\n<br />\r\nSentinels of The Multiverse: The Video Game is an officially licensed product of \u201cSentinels of the Multiverse\u00ae\u201d from Greater Than Games LLC.",
+  "legal_notice": "Copyright \u00a9 2014-2018 Handelabra Games Inc.<br />\r\n<br />\r\nSentinels of The Multiverse: The Video Game is an officially licensed product of \u201cSentinels of the Multiverse\u00ae\u201d from Greater Than Games LLC.",
   "developers": [
     "Handelabra Games Inc."
   ],
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     97267,
@@ -88,8 +90,24 @@
       "description": "Multi-player"
     },
     {
+      "id": 36,
+      "description": "Online Multi-Player"
+    },
+    {
+      "id": 37,
+      "description": "Local Multi-Player"
+    },
+    {
       "id": 9,
       "description": "Co-op"
+    },
+    {
+      "id": 38,
+      "description": "Online Co-op"
+    },
+    {
+      "id": 39,
+      "description": "Local Co-op"
     },
     {
       "id": 24,
@@ -129,35 +147,38 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_463123d9c2660a232dc6925fe8be7b03657b5cd2.600x338.jpg?t=1478095550",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_463123d9c2660a232dc6925fe8be7b03657b5cd2.1920x1080.jpg?t=1478095550"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_463123d9c2660a232dc6925fe8be7b03657b5cd2.600x338.jpg?t=1534524659",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_463123d9c2660a232dc6925fe8be7b03657b5cd2.1920x1080.jpg?t=1534524659"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_f95eef1a1bd165b012805bf67d34fb38d201f814.600x338.jpg?t=1478095550",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_f95eef1a1bd165b012805bf67d34fb38d201f814.1920x1080.jpg?t=1478095550"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_f95eef1a1bd165b012805bf67d34fb38d201f814.600x338.jpg?t=1534524659",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_f95eef1a1bd165b012805bf67d34fb38d201f814.1920x1080.jpg?t=1534524659"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_642281fc5cd4ad6663203d238f02d3db9bfa5efc.600x338.jpg?t=1478095550",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_642281fc5cd4ad6663203d238f02d3db9bfa5efc.1920x1080.jpg?t=1478095550"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_642281fc5cd4ad6663203d238f02d3db9bfa5efc.600x338.jpg?t=1534524659",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_642281fc5cd4ad6663203d238f02d3db9bfa5efc.1920x1080.jpg?t=1534524659"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_6ab78beddfd7603dff48b297604732ade67500a6.600x338.jpg?t=1478095550",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_6ab78beddfd7603dff48b297604732ade67500a6.1920x1080.jpg?t=1478095550"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_6ab78beddfd7603dff48b297604732ade67500a6.600x338.jpg?t=1534524659",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_6ab78beddfd7603dff48b297604732ade67500a6.1920x1080.jpg?t=1534524659"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_cd18dae350c3b90af754ab05b3bbe983c793713a.600x338.jpg?t=1478095550",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_cd18dae350c3b90af754ab05b3bbe983c793713a.1920x1080.jpg?t=1478095550"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_cd18dae350c3b90af754ab05b3bbe983c793713a.600x338.jpg?t=1534524659",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_cd18dae350c3b90af754ab05b3bbe983c793713a.1920x1080.jpg?t=1534524659"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_3b2e7e661dabf6aae65e3d035922beb320a618be.600x338.jpg?t=1478095550",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_3b2e7e661dabf6aae65e3d035922beb320a618be.1920x1080.jpg?t=1478095550"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_3b2e7e661dabf6aae65e3d035922beb320a618be.600x338.jpg?t=1534524659",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/451710/ss_3b2e7e661dabf6aae65e3d035922beb320a618be.1920x1080.jpg?t=1534524659"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Apr, 2016"
@@ -166,5 +187,9 @@
     "url": "http://handelabra.com/contact",
     "email": "support@handelabra.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/451710/page_bg_generated_v6b.jpg?t=1478095550"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/451710/page_bg_generated_v6b.jpg?t=1534524659",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     65831
@@ -115,6 +117,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Apr, 2015"
@@ -123,5 +128,9 @@
     "url": "",
     "email": "chess4507@yahoo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/365110/page_bg_generated_v6b.jpg?t=1447373044"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/365110/page_bg_generated_v6b.jpg?t=1447373044",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

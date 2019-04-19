@@ -12,7 +12,7 @@
     "appid": "208650",
     "name": "Batman\u2122: Arkham Knight"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Korean, Portuguese-Brazil<strong>*</strong>, Polish, Russian, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Korean, Portuguese - Brazil<strong>*</strong>, Polish, Russian, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/367480/header.jpg?t=1454953852",
   "website": "http://www.batmanarkhamknight.com",
   "pc_requirements": [],
@@ -29,11 +29,14 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     82591,
-    85500
+    85500,
+    320795
   ],
   "package_groups": [
     {
@@ -64,6 +67,16 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 3999
+        },
+        {
+          "packageid": 320795,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Batman: Arkham Collection - 59,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 5999
         }
       ]
     }
@@ -166,7 +179,10 @@
     }
   ],
   "recommendations": {
-    "total": 400
+    "total": 229
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -176,5 +192,9 @@
     "url": "support.wbgames.com",
     "email": "support@wbgames.com or Wbgames.intsupport@warnerbros.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367480/page_bg_generated_v6b.jpg?t=1454953852"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367480/page_bg_generated_v6b.jpg?t=1454953852",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

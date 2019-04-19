@@ -4,8 +4,8 @@
   "steam_appid": 557860,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/557860/extras/page2.png?t=1479257787\" >",
-  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/557860/extras/page2.png?t=1479257787\" >",
+  "detailed_description": "<img src=\"https://media.st.dl.bscstorage.net/steam/apps/557860/extras/page2.png?t=1479257787\" crossorigin=\"anonymous\">",
+  "about_the_game": "<img src=\"https://media.st.dl.bscstorage.net/steam/apps/557860/extras/page2.png?t=1479257787\" crossorigin=\"anonymous\">",
   "short_description": "After somehow surviving a plane incident involving a terrorist and a pair of hijackers, Effie finds herself in a cabin conveniently located in the middle of the ocean. In this cabin, she meets a sentient houseplant named Ana.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/557860/header.jpg?t=1479257787",
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     139560
@@ -151,5 +153,9 @@
     "url": "",
     "email": "rime@national.shitposting.agency"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/557860/page_bg_generated_v6b.jpg?t=1479257787"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/557860/page_bg_generated_v6b.jpg?t=1479257787",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

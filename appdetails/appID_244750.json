@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     28937
@@ -68,7 +70,7 @@
   },
   "metacritic": {
     "score": 81,
-    "url": "http://www.metacritic.com/game/pc/aztez?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/aztez?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -223,5 +225,9 @@
     "url": "https://aztez.com",
     "email": "help@aztez.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/244750/page_bg_generated_v6b.jpg?t=1501796182"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/244750/page_bg_generated_v6b.jpg?t=1501796182",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

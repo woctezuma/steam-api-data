@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "<strong>RADNET</strong> is an awesome collection of over 55 in-game pieces of content - including Events, Friend vs. Friend competitive score Challenges and weekly themed Rewards that compliment and expand the game experience. Included in those \u2018Rewards\u2019 are exclusive items such as Behind-the-Scenes videos from the development team and bonus Mutations for Sgt. James Heller in the game\u2019s main campaign.<h2 class=\"bb_tag\">RADNET Features:</h2><ul class=\"bb_ul\"><li>Over 55 unique pieces of digital content accessible at launch at no extra charge.<br></li><li>20 Events Death-defying chopper races, intense combat scenarios plus more!<br></li><li>20 Challenges Compete with and beat your friends\u2019 best scores!<br></li><li>5 Exclusive \u2018Behind The Scenes\u2019 Videos<br></li><li>5 Exclusive Sgt James Heller Mutation Abilities<br></li><li>5 Bonus Unlock Abilities for Sgt James Heller<br></li><li>Alex Mercer Skin unlock \u2013 the ultimate fan reward</li></ul>",
   "about_the_game": "<strong>RADNET</strong> is an awesome collection of over 55 in-game pieces of content - including Events, Friend vs. Friend competitive score Challenges and weekly themed Rewards that compliment and expand the game experience. Included in those \u2018Rewards\u2019 are exclusive items such as Behind-the-Scenes videos from the development team and bonus Mutations for Sgt. James Heller in the game\u2019s main campaign.<h2 class=\"bb_tag\">RADNET Features:</h2><ul class=\"bb_ul\"><li>Over 55 unique pieces of digital content accessible at launch at no extra charge.<br></li><li>20 Events Death-defying chopper races, intense combat scenarios plus more!<br></li><li>20 Challenges Compete with and beat your friends\u2019 best scores!<br></li><li>5 Exclusive \u2018Behind The Scenes\u2019 Videos<br></li><li>5 Exclusive Sgt James Heller Mutation Abilities<br></li><li>5 Bonus Unlock Abilities for Sgt James Heller<br></li><li>Alex Mercer Skin unlock \u2013 the ultimate fan reward</li></ul>",
-  "short_description": "",
+  "short_description": "RADNET is an awesome collection of over 55 in-game pieces of content - including Events, Friend vs. Friend competitive score Challenges and weekly themed Rewards that compliment and expand the game experience.",
   "fullgame": {
     "appid": "115320",
     "name": "Prototype 2"
   },
-  "supported_languages": "English, French, German, Italian, Spanish",
+  "supported_languages": "English, French, German, Italian, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/115340/header.jpg?t=1448382611",
   "website": "http://www.prototypegame.com",
   "pc_requirements": [],
@@ -28,11 +28,13 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     15708,
-    "47880"
+    47880
   ],
   "package_groups": [
     {
@@ -55,14 +57,14 @@
           "price_in_cents_with_discount": 999
         },
         {
-          "packageid": "47880",
-          "percent_savings_text": "-75%",
+          "packageid": 47880,
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Prototype Franchise Pack - <span class=\"discount_original_price\">49,99\u20ac</span> 12,49\u20ac",
+          "option_text": "Prototype Franchise Pack - 49,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1249
+          "price_in_cents_with_discount": 4999
         }
       ]
     }
@@ -105,6 +107,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/115340/ss_c39686023e70b1bfdf349335930f13ee6816fa87.1920x1080.jpg?t=1448382611"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": ""
@@ -113,5 +118,9 @@
     "url": "http://www.activision.com/support",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/115340/page_bg_generated_v6b.jpg?t=1448382611"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/115340/page_bg_generated_v6b.jpg?t=1448382611",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

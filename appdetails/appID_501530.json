@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     115174
@@ -215,5 +217,13 @@
     "url": "https://andrade-games.jimdo.com/",
     "email": "andrade_games@web.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501530/page_bg_generated_v6b.jpg?t=1512295540"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501530/page_bg_generated_v6b.jpg?t=1512295540",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

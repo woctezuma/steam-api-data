@@ -11,7 +11,7 @@
     "appid": "391640",
     "name": "Stage Presence"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Spanish, Japanese, Korean, Portuguese-Brazil, Russian, Italian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Italian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/602330/header.jpg?t=1488386160",
   "website": "http://www.tinybuild.com/stagepresence",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     158330
@@ -119,6 +121,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/602330/ss_5d652fd7f1062bc8979ef24607d59c90ffab62a2.1920x1080.jpg?t=1488386160"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Mar, 2017"
@@ -127,5 +132,9 @@
     "url": "http://www.seagreengames.com",
     "email": "jon.dadley@googlemail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/602330/page_bg_generated_v6b.jpg?t=1488386160"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/602330/page_bg_generated_v6b.jpg?t=1488386160",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

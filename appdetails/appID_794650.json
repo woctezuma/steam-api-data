@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     241050
@@ -128,6 +130,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Mar, 2018"
@@ -136,5 +141,9 @@
     "url": "",
     "email": "evlavv_studio213@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/794650/page_bg_generated_v6b.jpg?t=1520786533"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/794650/page_bg_generated_v6b.jpg?t=1520786533",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

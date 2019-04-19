@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     97546
@@ -112,11 +114,6 @@
       "id": 4,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/452521/ss_826a7409724a8a725eb27bfd21ce6d3a4a7f0c01.600x338.jpg?t=1501073062",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/452521/ss_826a7409724a8a725eb27bfd21ce6d3a4a7f0c01.1920x1080.jpg?t=1501073062"
-    },
-    {
-      "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/452521/?t=1501073062",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/452521/?t=1501073062"
     }
   ],
   "movies": [
@@ -131,6 +128,9 @@
       "highlight": true
     }
   ],
+  "recommendations": {
+    "total": 105
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Dec, 2016"
@@ -139,5 +139,9 @@
     "url": "",
     "email": "support@akella.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/452521/page_bg_generated_v6b.jpg?t=1501073062"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/452521/page_bg_generated_v6b.jpg?t=1501073062",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

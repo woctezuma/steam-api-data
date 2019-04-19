@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     213387
@@ -132,6 +134,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/731460/ss_eaa918762f1a90a3f6168382392709f690be6279.1920x1080.jpg?t=1509641137"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Nov, 2017"
@@ -140,5 +145,9 @@
     "url": "http://versusevil.com/contact/",
     "email": "support@vsevil.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/731460/page_bg_generated_v6b.jpg?t=1509641137"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/731460/page_bg_generated_v6b.jpg?t=1509641137",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

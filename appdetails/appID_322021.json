@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     50516
@@ -123,6 +125,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/322021/ss_0c4dc4ccdcb1aeb60fc88caa57211ff8ba183a10.1920x1080.jpg?t=1447363540"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Dec, 2014"
@@ -131,5 +136,9 @@
     "url": "http://steamcommunity.com/discussions/",
     "email": "support@croteam.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/322021/page_bg_generated_v6b.jpg?t=1447363540"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/322021/page_bg_generated_v6b.jpg?t=1447363540",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     223766
@@ -120,6 +122,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/758380/ss_b9f08a16d1e375d267b14ae02db196ec42a39e41.1920x1080.jpg?t=1512403460"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Dec, 2017"
@@ -128,5 +133,9 @@
     "url": "",
     "email": "support@pqube.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/758380/page_bg_generated_v6b.jpg?t=1512403460"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/758380/page_bg_generated_v6b.jpg?t=1512403460",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 100,
     "final": 100,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,--\u20ac"
   },
   "packages": [
     72234
@@ -151,8 +153,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 136
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -162,5 +164,9 @@
     "url": "http://sketch-tales.com",
     "email": "press@sketch-tales.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384090/page_bg_generated_v6b.jpg?t=1478624922"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384090/page_bg_generated_v6b.jpg?t=1478624922",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

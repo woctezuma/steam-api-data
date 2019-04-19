@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\">You want to get a lead from other games?  You want to have unique characters in your stories!?  Then, this is a perfect feature for you!!</h2><br>This is a new feature called 3D Character Editor which can create original 3D character models.  Even 3D modeling inexperienced people can just put hair, face, body and leg parts together to make original models.  The number of combinations would be over 3,500,000!<br>It's not only the combination of parts, but you can change the colors of hair, skin and clothes with slider bars.  Furthermore, you can paint the textures whatever you like!  Your models will be one and only creations in the world!<br>The completed 3D character models will be imported right away into SMILE GAME BUILDER at the same time as you save them, and you can use them immediately in your games.",
   "about_the_game": "<h2 class=\"bb_tag\">You want to get a lead from other games?  You want to have unique characters in your stories!?  Then, this is a perfect feature for you!!</h2><br>This is a new feature called 3D Character Editor which can create original 3D character models.  Even 3D modeling inexperienced people can just put hair, face, body and leg parts together to make original models.  The number of combinations would be over 3,500,000!<br>It's not only the combination of parts, but you can change the colors of hair, skin and clothes with slider bars.  Furthermore, you can paint the textures whatever you like!  Your models will be one and only creations in the world!<br>The completed 3D character models will be imported right away into SMILE GAME BUILDER at the same time as you save them, and you can use them immediately in your games.",
-  "short_description": "This is a new feature called 3D Character Editor which can create original 3D character models.  Even 3D modeling inexperienced people can just put hair, face, body and leg parts together to make original models.  The number of combinations would be over 3,500,000!<br />\r\nIt's not only the combination of parts, but you can change the colors of hair, skin and clothes with slider bars.  Furthermore, you can paint the textures whatever you like!  Your models will be one and only creations in the world!",
+  "short_description": "This is a new feature called 3D Character Editor which can create original 3D character models. Even 3D modeling inexperienced people can just put hair, face, body and leg parts together to make original models. The number of combinations would be over 3,500,000!",
   "fullgame": {
     "appid": "483950",
     "name": "SMILE GAME BUILDER"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     181096
@@ -181,5 +183,9 @@
     "url": "http://smilegamebuilder.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/645180/page_bg_generated_v6b.jpg?t=1502352066"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/645180/page_bg_generated_v6b.jpg?t=1502352066",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

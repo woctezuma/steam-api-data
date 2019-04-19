@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>Ignore Lighting to paint Designs talks about how to put aside your lighting until you get towards the end, to allow you to focus on design aesthetics.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>Ignore Lighting to paint Designs talks about how to put aside your lighting until you get towards the end, to allow you to focus on design aesthetics.",
   "about_the_game": "Ignore Lighting to paint Designs talks about how to put aside your lighting until you get towards the end, to allow you to focus on design aesthetics.",
   "short_description": "This tutorial is how to focus on design by ignoring your lighting.",
   "fullgame": {
@@ -35,9 +35,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     117413
@@ -56,11 +58,11 @@
           "packageid": 117413,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Robotpencil Presents: Ignoring Lighting to Focus on Design - 5,99\u20ac",
+          "option_text": "Robotpencil Presents: Ignoring Lighting to Focus on Design - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -115,5 +117,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/508110/page_bg_generated_v6b.jpg?t=1473710110"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/508110/page_bg_generated_v6b.jpg?t=1473710110",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

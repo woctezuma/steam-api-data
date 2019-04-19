@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     109296
@@ -64,7 +66,7 @@
   },
   "metacritic": {
     "score": 40,
-    "url": "http://www.metacritic.com/game/pc/super-duper-party-pooper?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/super-duper-party-pooper?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -215,7 +217,7 @@
     }
   ],
   "recommendations": {
-    "total": 359
+    "total": 238
   },
   "achievements": {
     "total": 26,
@@ -270,5 +272,9 @@
     "url": "www.kbrosinc.com",
     "email": "info@kbrosinc.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/485870/page_bg_generated_v6b.jpg?t=1499872855"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/485870/page_bg_generated_v6b.jpg?t=1499872855",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

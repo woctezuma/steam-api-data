@@ -7,8 +7,8 @@
   "controller_support": "full",
   "detailed_description": "<h1>Mac and Linux Update</h1><p>Hey guys, we had planned to have day one Mac and Linux versions but at the moment we've run into a few critical bugs on just Mac and Linux that we won't have fixed in time for release. However as soon as the game releases on Windows we'll be spending all our time on getting those platforms out. So watch this space! Sorry for the inconvenience.</p><br><h1>About the Game</h1>In an ancient Celtic landscape, Solas must journey through the harsh unrelenting winter, and unlock the seals to her tribe's temple to put right the wrongs of her family's past. Solas and the White WInter is an atmospheric adventure game with some puzzle elements and a rich, dark story to uncover.\r\n\r\nTraverse treacherous snowy landscapes, navigate various traps and hazards, solve cryptic environmental puzzles, and piece together the tale of hardship behind Solas and her family.\r\n\r\nAided by music from the talented Paul Zimmermann, Solas and the White Winter explores the personal battles of solitude and longing to be reunited with family.\r\n\r\nArmed with only memories and a burning desire to see her family again, Solas begins on her dark lonely journey.",
   "about_the_game": "In an ancient Celtic landscape, Solas must journey through the harsh unrelenting winter, and unlock the seals to her tribe's temple to put right the wrongs of her family's past. Solas and the White WInter is an atmospheric adventure game with some puzzle elements and a rich, dark story to uncover.<br />\r\n<br />\r\nTraverse treacherous snowy landscapes, navigate various traps and hazards, solve cryptic environmental puzzles, and piece together the tale of hardship behind Solas and her family.<br />\r\n<br />\r\nAided by music from the talented Paul Zimmermann, Solas and the White Winter explores the personal battles of solitude and longing to be reunited with family.<br />\r\n<br />\r\nArmed with only memories and a burning desire to see her family again, Solas begins on her dark lonely journey.",
-  "short_description": "&quot;Unlock the tomb and break the cycle..&quot; Solas and the White Winter takes place in a hostile and mysterious land. You play as Solas; a young but determined girl who finds herself locked in a desperate situation.<br />\r\n<br />\r\nYou must travel to each of the temples of this land to break the seal of the tomb, and bring about an end to the relentless winter.",
-  "supported_languages": "English, French, Italian, German, Spanish, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese, Portuguese-Brazil, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian",
+  "short_description": "&quot;Unlock the tomb and break the cycle..&quot; Solas and the White Winter takes place in a hostile and mysterious land. You play as Solas; a young but determined girl who finds herself locked in a desperate situation.",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/813590/header.jpg?t=1523603038",
   "website": "http://savepointstudios.ie/Solas-and-the-White-Winter.php",
   "pc_requirements": {
@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 249,
+    "discount_percent": 75,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     248618
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 248618,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "Solas and the White Winter - 9,99\u20ac",
+          "option_text": "Solas and the White Winter - <span class=\"discount_original_price\">9,99\u20ac</span> 2,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 249
         }
       ]
     }
@@ -188,5 +190,9 @@
     "url": "http://savepointstudios.ie/contact-us.php",
     "email": "savepointstudiosdev@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/813590/page_bg_generated_v6b.jpg?t=1523603038"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/813590/page_bg_generated_v6b.jpg?t=1523603038",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

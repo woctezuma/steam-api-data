@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     203600
@@ -106,6 +108,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/705550/ss_563af8e8626a7545cacfcce0b282a7614d3fcd86.1920x1080.jpg?t=1511989022"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Nov, 2017"
@@ -114,5 +119,9 @@
     "url": "http://www.BurgleBros.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/705550/page_bg_generated_v6b.jpg?t=1511989022"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/705550/page_bg_generated_v6b.jpg?t=1511989022",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

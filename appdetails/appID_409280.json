@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     81226
@@ -134,6 +136,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Mar, 2016"
@@ -142,5 +147,9 @@
     "url": "",
     "email": "noeticgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/409280/page_bg_generated_v6b.jpg?t=1459447670"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/409280/page_bg_generated_v6b.jpg?t=1459447670",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

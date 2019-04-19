@@ -11,8 +11,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/799770/header.jpg?t=1519124729",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7,8,10<br></li><li><strong>Processor:</strong> Dual core 3.0 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> HD 5670<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7,8,10<br></li><li><strong>Processor:</strong> Dual core 3.0 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> RX 550, GTX 1030<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+    "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Windows 7,8,10<br></li><li><strong>Procesor:</strong> Dual core 3.0 GHz<br></li><li><strong>Pami\u0119\u0107:</strong> 1 GB RAM<br></li><li><strong>Karta graficzna:</strong> HD 5670<br></li><li><strong>DirectX:</strong> Wersja 9.0c<br></li><li><strong>Miejsce na dysku:</strong> 200 MB dost\u0119pnej przestrzeni</li></ul>",
+    "recommended": "<strong>Zalecane:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Windows 7,8,10<br></li><li><strong>Procesor:</strong> Dual core 3.0 GHz<br></li><li><strong>Pami\u0119\u0107:</strong> 1 GB RAM<br></li><li><strong>Karta graficzna:</strong> RX 550, GTX 1030<br></li><li><strong>DirectX:</strong> Wersja 11<br></li><li><strong>Miejsce na dysku:</strong> 200 MB dost\u0119pnej przestrzeni</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     243163
@@ -129,6 +131,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Feb, 2018"
@@ -137,5 +142,9 @@
     "url": "",
     "email": "easyvisual@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/799770/page_bg_generated_v6b.jpg?t=1519124729"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/799770/page_bg_generated_v6b.jpg?t=1519124729",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

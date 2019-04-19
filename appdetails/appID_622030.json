@@ -1,6 +1,6 @@
 {
   "type": "dlc",
-  "name": "Carcassonne : Inns & Cathedrals - Expansion",
+  "name": "Carcassonne - Inns & Cathedrals",
   "steam_appid": 622030,
   "required_age": 0,
   "is_free": false,
@@ -11,11 +11,11 @@
     "appid": "598810",
     "name": "Carcassonne - Tiles & Tactics"
   },
-  "supported_languages": "English, French, Italian, German, Spanish",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/622030/header.jpg?t=1522940378",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/622030/header.jpg?t=1548775318",
   "website": "http://www.asmodee-digital.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> dual core 3.0 GHz<br></li><li><strong>Graphics:</strong> DirectX 10 class GPU with 1024MB VRAM<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> Integrated sound card</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>\u0130\u015fletim Sistemi:</strong> Windows 7<br></li><li><strong>\u0130\u015flemci:</strong> dual core 3.0 GHz<br></li><li><strong>Ekran Kart\u0131:</strong> DirectX 10 class GPU with 1024MB VRAM<br></li><li><strong>DirectX:</strong> S\u00fcr\u00fcm 10<br></li><li><strong>Depolama:</strong> 2 GB kullan\u0131labilir alan<br></li><li><strong>Ses Kart\u0131:</strong> Integrated sound card</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     167325
@@ -39,7 +41,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Carcassonne : Inns & Cathedrals - Expansion",
+      "title": "Buy Carcassonne - Inns & Cathedrals",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -50,11 +52,11 @@
           "packageid": 167325,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Inns & Cathedrals - Expansion - 4,99\u20ac",
+          "option_text": "Carcassonne - Inns & Cathedrals - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -103,45 +105,60 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_0db2c32be0a8d07d7b497f67a647f2ddcf3f8e4a.600x338.jpg?t=1522940378",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_0db2c32be0a8d07d7b497f67a647f2ddcf3f8e4a.1920x1080.jpg?t=1522940378"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_0db2c32be0a8d07d7b497f67a647f2ddcf3f8e4a.600x338.jpg?t=1548775318",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_0db2c32be0a8d07d7b497f67a647f2ddcf3f8e4a.1920x1080.jpg?t=1548775318"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_cca3bf4582a5875812842921a4dc5d1d52098a3c.600x338.jpg?t=1522940378",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_cca3bf4582a5875812842921a4dc5d1d52098a3c.1920x1080.jpg?t=1522940378"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_cca3bf4582a5875812842921a4dc5d1d52098a3c.600x338.jpg?t=1548775318",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_cca3bf4582a5875812842921a4dc5d1d52098a3c.1920x1080.jpg?t=1548775318"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_e5b9cbaa79d08a03590ed8e686345c564fb9fed6.600x338.jpg?t=1522940378",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_e5b9cbaa79d08a03590ed8e686345c564fb9fed6.1920x1080.jpg?t=1522940378"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_e5b9cbaa79d08a03590ed8e686345c564fb9fed6.600x338.jpg?t=1548775318",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_e5b9cbaa79d08a03590ed8e686345c564fb9fed6.1920x1080.jpg?t=1548775318"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_284a11d4a930d93c76480d9862b69b98d87254b2.600x338.jpg?t=1522940378",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_284a11d4a930d93c76480d9862b69b98d87254b2.1920x1080.jpg?t=1522940378"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_284a11d4a930d93c76480d9862b69b98d87254b2.600x338.jpg?t=1548775318",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_284a11d4a930d93c76480d9862b69b98d87254b2.1920x1080.jpg?t=1548775318"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_0008e38de4ba639d28f4ab28a46e3120d8093623.600x338.jpg?t=1522940378",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_0008e38de4ba639d28f4ab28a46e3120d8093623.1920x1080.jpg?t=1522940378"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_0008e38de4ba639d28f4ab28a46e3120d8093623.600x338.jpg?t=1548775318",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_0008e38de4ba639d28f4ab28a46e3120d8093623.1920x1080.jpg?t=1548775318"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_a81518ebdfc4af9ab2c3bb9dfb7a8beeb6cc4fa9.600x338.jpg?t=1522940378",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_a81518ebdfc4af9ab2c3bb9dfb7a8beeb6cc4fa9.1920x1080.jpg?t=1522940378"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_a81518ebdfc4af9ab2c3bb9dfb7a8beeb6cc4fa9.600x338.jpg?t=1548775318",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_a81518ebdfc4af9ab2c3bb9dfb7a8beeb6cc4fa9.1920x1080.jpg?t=1548775318"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_c35d0b528750344ffead3960e534735c7c2657b9.600x338.jpg?t=1522940378",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_c35d0b528750344ffead3960e534735c7c2657b9.1920x1080.jpg?t=1522940378"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_c35d0b528750344ffead3960e534735c7c2657b9.600x338.jpg?t=1548775318",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_c35d0b528750344ffead3960e534735c7c2657b9.1920x1080.jpg?t=1548775318"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_d9de3ce43487ba269956a928994f2268a7d5aa26.600x338.jpg?t=1522940378",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_d9de3ce43487ba269956a928994f2268a7d5aa26.1920x1080.jpg?t=1522940378"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_d9de3ce43487ba269956a928994f2268a7d5aa26.600x338.jpg?t=1548775318",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/622030/ss_d9de3ce43487ba269956a928994f2268a7d5aa26.1920x1080.jpg?t=1548775318"
     }
   ],
+  "movies": [
+    {
+      "id": 256713577,
+      "name": "Inns & Cathedrals",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256713577/movie.293x165.jpg?t=1548775310",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256713577/movie480.webm?t=1548775310",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256713577/movie_max.webm?t=1548775310"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Apr, 2018"
@@ -150,5 +167,9 @@
     "url": "https://asmodee.helpshift.com/a/carcassonne",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/622030/page_bg_generated_v6b.jpg?t=1522940378"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/622030/page_bg_generated_v6b.jpg?t=1548775318",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

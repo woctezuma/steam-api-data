@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     165944
@@ -156,6 +158,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Apr, 2018"
@@ -164,5 +169,13 @@
     "url": "",
     "email": "pr@tophatentertainment.us"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/618430/page_bg_generated_v6b.jpg?t=1522814433"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/618430/page_bg_generated_v6b.jpg?t=1522814433",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": "Contains mild fantasy violence and depictions/descriptions of violence. While not included in the steam version, can be patched to include scenes which feature nudity and explicit, consensual sexual content.   "
+  }
 }

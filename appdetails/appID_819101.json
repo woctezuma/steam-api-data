@@ -11,7 +11,7 @@
     "appid": "545820",
     "name": "Wanderland"
   },
-  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, French, German, Spanish, Portuguese-Brazil, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, French, German, Spanish - Spain, Portuguese - Brazil, Simplified Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/819101/header.jpg?t=1521654815",
   "website": "http://jetdogs.com",
   "pc_requirements": {
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     250994
@@ -167,5 +169,9 @@
     "url": "http://jetdogs.com",
     "email": "contact@jetdogs.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/819101/page_bg_generated_v6b.jpg?t=1521654815"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/819101/page_bg_generated_v6b.jpg?t=1521654815",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

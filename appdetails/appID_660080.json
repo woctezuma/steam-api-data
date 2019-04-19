@@ -11,7 +11,7 @@
     "appid": "582160",
     "name": "Assassin's Creed\u00ae Origins"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Czech, Dutch, Japanese<strong>*</strong>, Korean, Polish, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech, Dutch, Japanese<strong>*</strong>, Korean, Polish, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/660080/header.jpg?t=1516819324",
   "website": "",
   "pc_requirements": {
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 3999,
-    "final": 2799,
-    "discount_percent": 30
+    "final": 3999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "39,99\u20ac"
   },
   "packages": [
     186865
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 186865,
-          "percent_savings_text": "-30%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Assassin's Creed Origins - Season Pass - <span class=\"discount_original_price\">39,99\u20ac</span> 27,99\u20ac",
+          "option_text": "Assassin's Creed Origins - Season Pass - 39,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2799
+          "price_in_cents_with_discount": 3999
         }
       ]
     }
@@ -133,15 +135,13 @@
       "id": 4,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/660080/ss_d81df3f9f76a4f313cfeda06171b70c7a8ca2da4.600x338.jpg?t=1516819324",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/660080/ss_d81df3f9f76a4f313cfeda06171b70c7a8ca2da4.1920x1080.jpg?t=1516819324"
-    },
-    {
-      "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/660080/?t=1516819324",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/660080/?t=1516819324"
     }
   ],
   "recommendations": {
-    "total": 206
+    "total": 199
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -151,5 +151,9 @@
     "url": "http://support.ubi.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/660080/page_bg_generated_v6b.jpg?t=1516819324"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/660080/page_bg_generated_v6b.jpg?t=1516819324",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

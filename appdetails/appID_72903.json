@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "You advance in your adventure alone in the middle of the tundra and attempt to follow a forgotten trail, marked by ruins of ancient stopovers and roaming animals. Your unconscious\u2019 voices are submitting you to harrowing internal battles, which you must overcome to carry on with your reconstruction. Your future takes shape as you battle your way through an inhumane nature. Will you be strong enough to face your demons, the fear of loneliness and the temptation of death?<br>\t\t\t\t\t\t<h2 class=\"bb_tag\">New features &amp; content:</h2>\t\t\t\t\t\t<ul class=\"bb_ul\"><li>you are at a crossroad: several paths open up, that can change you forever, for the better\u2026 or the worst\u2026<br>\t\t\t\t\t\t</li><li>A new NPC to recruit, depending on your choices<br>\t\t\t\t\t\t</li><li>New maps to explore, new soundtracks\u2026 and some surprises!<br>\t\t\t\t\t\t</li></ul>",
   "about_the_game": "You advance in your adventure alone in the middle of the tundra and attempt to follow a forgotten trail, marked by ruins of ancient stopovers and roaming animals. Your unconscious\u2019 voices are submitting you to harrowing internal battles, which you must overcome to carry on with your reconstruction. Your future takes shape as you battle your way through an inhumane nature. Will you be strong enough to face your demons, the fear of loneliness and the temptation of death?<br>\t\t\t\t\t\t<h2 class=\"bb_tag\">New features &amp; content:</h2>\t\t\t\t\t\t<ul class=\"bb_ul\"><li>you are at a crossroad: several paths open up, that can change you forever, for the better\u2026 or the worst\u2026<br>\t\t\t\t\t\t</li><li>A new NPC to recruit, depending on your choices<br>\t\t\t\t\t\t</li><li>New maps to explore, new soundtracks\u2026 and some surprises!<br>\t\t\t\t\t\t</li></ul>",
-  "short_description": "",
+  "short_description": "You advance in your adventure alone in the middle of the tundra and attempt to follow a forgotten trail, marked by ruins of ancient stopovers and roaming animals. Your unconscious\u2019 voices are submitting you to harrowing internal battles, which you must overcome to carry on with your reconstruction.",
   "fullgame": {
     "appid": "72900",
     "name": "Winter Voices"
@@ -26,49 +26,7 @@
   "publishers": [
     "inner seas"
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 449,
-    "final": 449,
-    "discount_percent": 0
-  },
-  "packages": [
-    6926,
-    31772
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy Winter Voices Episode 2: Nowhere of me",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 6926,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Winter Voices Episode 2: Nowhere of me - 4,49\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 449
-        },
-        {
-          "packageid": 31772,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Winter Voices Complete Pack - 18,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 1899
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -141,5 +99,9 @@
     "url": "http://www.wintervoices.com/home",
     "email": "support@wintervoices.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/72903/page_bg_generated_v6b.jpg?t=1447353811"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/72903/page_bg_generated_v6b.jpg?t=1447353811",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

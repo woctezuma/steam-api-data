@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Includes 4 unique ability and wargear items to equip your squad with.<ul class=\"bb_ul\"><li><strong>KAN OPENER:</strong> Your attacks now have a chance to disable enemy vehicles.<br>\t\t\t\t\t\t</li><li><strong>ANGRY ARMOR:</strong> Enemy attacks on the Warboss increases the damage he does.<br>\t\t\t\t\t\t</li><li><strong>LUCKY TEEF:</strong> When you Warboss kills an enemy, friendly units in the surrounding area gain energy.<br>\t\t\t\t\t\t</li><li><strong>SUPA FLASHY BOSS RACK:</strong> Your Warboss now gains the benefits of both a boss pole and a trophy rack.</li></ul>",
   "about_the_game": "Includes 4 unique ability and wargear items to equip your squad with.<ul class=\"bb_ul\"><li><strong>KAN OPENER:</strong> Your attacks now have a chance to disable enemy vehicles.<br>\t\t\t\t\t\t</li><li><strong>ANGRY ARMOR:</strong> Enemy attacks on the Warboss increases the damage he does.<br>\t\t\t\t\t\t</li><li><strong>LUCKY TEEF:</strong> When you Warboss kills an enemy, friendly units in the surrounding area gain energy.<br>\t\t\t\t\t\t</li><li><strong>SUPA FLASHY BOSS RACK:</strong> Your Warboss now gains the benefits of both a boss pole and a trophy rack.</li></ul>",
-  "short_description": "",
+  "short_description": "Includes 4 unique ability and wargear items to equip your squad with.KAN OPENER: Your attacks now have a chance to disable enemy vehicles. ANGRY ARMOR: Enemy attacks on the Warboss increases the damage he does. LUCKY TEEF: When you Warboss kills an enemy, friendly units in the surrounding area gain energy.",
   "fullgame": {
     "appid": "56437",
     "name": "Warhammer 40,000: Dawn of War II: Retribution"
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     7437,
@@ -183,6 +185,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/56435/ss_0fe6a5815a5b74aaa7015ff68bfe533cc994bb93.1920x1080.jpg?t=1522071200"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Feb, 2011"
@@ -191,5 +196,9 @@
     "url": "https://support.sega.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/56435/page_bg_generated_v6b.jpg?t=1522071200"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/56435/page_bg_generated_v6b.jpg?t=1522071200",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

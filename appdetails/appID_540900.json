@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     132644
@@ -125,9 +127,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 182
-  },
   "achievements": {
     "total": 4,
     "highlighted": [
@@ -157,5 +156,9 @@
     "url": "http://amaterasusoftware.com/",
     "email": "amaterasu.software@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/540900/page_bg_generated_v6b.jpg?t=1483406542"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/540900/page_bg_generated_v6b.jpg?t=1483406542",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

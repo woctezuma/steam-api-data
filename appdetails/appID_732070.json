@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     213609,
@@ -136,6 +138,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Nov, 2017"
@@ -144,5 +149,9 @@
     "url": "https://vk.com/paperpirates",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/732070/page_bg_generated_v6b.jpg?t=1510337954"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/732070/page_bg_generated_v6b.jpg?t=1510337954",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

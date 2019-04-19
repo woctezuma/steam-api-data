@@ -12,8 +12,8 @@
     "appid": "464920",
     "name": "Surviving Mars"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Spanish, Polish, Portuguese-Brazil, Russian<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/801710/header.jpg?t=1521161545",
+  "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/801710/header.jpg?t=1537964157",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 64-bit or newer<br></li><li><strong>Processor:</strong> 4th Generation Intel i3 CPU or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> HD 4600/Geforce 620/Radeon 6450 or equivalent GPUs with 1 GB of video RAM<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>",
@@ -38,10 +38,14 @@
     "currency": "EUR",
     "initial": 1000,
     "final": 1000,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,--\u20ac"
   },
   "packages": [
-    243991
+    243991,
+    244143,
+    244146
   ],
   "package_groups": [
     {
@@ -62,6 +66,26 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 1000
+        },
+        {
+          "packageid": 244143,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Surviving Mars: Digital Deluxe Edition - 39,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 3999
+        },
+        {
+          "packageid": 244146,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Surviving Mars: First Colony Edition - 64,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 6499
         }
       ]
     }
@@ -106,33 +130,33 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_3702797105b1ee70c6572997474ccac810559b46.600x338.jpg?t=1521161545",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_3702797105b1ee70c6572997474ccac810559b46.1920x1080.jpg?t=1521161545"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_3702797105b1ee70c6572997474ccac810559b46.600x338.jpg?t=1537964157",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_3702797105b1ee70c6572997474ccac810559b46.1920x1080.jpg?t=1537964157"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_c9f84ab43984b42a0b123e31a3ff5c67883026e9.600x338.jpg?t=1521161545",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_c9f84ab43984b42a0b123e31a3ff5c67883026e9.1920x1080.jpg?t=1521161545"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_c9f84ab43984b42a0b123e31a3ff5c67883026e9.600x338.jpg?t=1537964157",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_c9f84ab43984b42a0b123e31a3ff5c67883026e9.1920x1080.jpg?t=1537964157"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_8ef473d0e1e8aba84d893754ccee54f14b8d643e.600x338.jpg?t=1521161545",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_8ef473d0e1e8aba84d893754ccee54f14b8d643e.1920x1080.jpg?t=1521161545"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_8ef473d0e1e8aba84d893754ccee54f14b8d643e.600x338.jpg?t=1537964157",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_8ef473d0e1e8aba84d893754ccee54f14b8d643e.1920x1080.jpg?t=1537964157"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_a02b4065cf6e32e9943613f14423fc97352a997f.600x338.jpg?t=1521161545",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_a02b4065cf6e32e9943613f14423fc97352a997f.1920x1080.jpg?t=1521161545"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_a02b4065cf6e32e9943613f14423fc97352a997f.600x338.jpg?t=1537964157",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_a02b4065cf6e32e9943613f14423fc97352a997f.1920x1080.jpg?t=1537964157"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_b17c2a863810729994c08240717b4bb2c987a9dc.600x338.jpg?t=1521161545",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_b17c2a863810729994c08240717b4bb2c987a9dc.1920x1080.jpg?t=1521161545"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_b17c2a863810729994c08240717b4bb2c987a9dc.600x338.jpg?t=1537964157",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_b17c2a863810729994c08240717b4bb2c987a9dc.1920x1080.jpg?t=1537964157"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_44ac0358c939aad3facac813fc4482d77b912937.600x338.jpg?t=1521161545",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_44ac0358c939aad3facac813fc4482d77b912937.1920x1080.jpg?t=1521161545"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_44ac0358c939aad3facac813fc4482d77b912937.600x338.jpg?t=1537964157",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/801710/ss_44ac0358c939aad3facac813fc4482d77b912937.1920x1080.jpg?t=1537964157"
     }
   ],
   "movies": [
@@ -147,6 +171,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Mar, 2018"
@@ -155,5 +182,9 @@
     "url": "https://support.paradoxplaza.com/",
     "email": "https://support.paradoxplaza.com/"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/801710/page_bg_generated_v6b.jpg?t=1521161545"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/801710/page_bg_generated_v6b.jpg?t=1537964157",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

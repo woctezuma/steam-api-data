@@ -8,7 +8,7 @@
   "about_the_game": "<strong>\u25a0 Game Introduction</strong><br>\u2018D.N.Age\u2019 features a DNA system that will open your eyes to a new, never-before-seen world of monster merging. Improve the DNA of your monsters to create stronger specimens and form a party to complete quests! Furthermore, countless quests and other fun elements such as customizing your assistant are also available.<br><br><strong>\u25a0  Story</strong><br>You awake on an unknown place \u2013 which turns out to be another world! Open the Dimension Gate once more to return to your own world!<br><br><strong>\u25a0 Features</strong><br>1. Instead of tiresome level-ups, enhancements and boring growth systems, experience a new method of improving your creature\u2019s DNA.<br>2. Numerous customization for your assistant(hairstyle, clothing and dye change).<br>3. 140+ exploration stages.<br>4. 25 types of unique monsters.<br>5. 180+ quests of various types.",
   "short_description": "\u2018D.N.Age\u2019 features a DNA system that will open your eyes to a new, never-before-seen world of monster merging. Improve the DNA of your monsters to create stronger specimens and form a party to complete quests!",
   "supported_languages": "English, Japanese",
-  "reviews": "\u201cSince the main mechanic of the game is splicing and merging the DNA of battle monsters.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://gamespulp.com/2016/07/28/d-n-age-review/\" target=\"_blank\" rel=\"noopener\"  >gamespulp</a></a><br>",
+  "reviews": "\u201cSince the main mechanic of the game is splicing and merging the DNA of battle monsters.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://gamespulp.com/2016/07/28/d-n-age-review/\" target=\"_blank\" rel=\"noopener\"  >gamespulp</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/497470/header.jpg?t=1516059337",
   "website": "http://www.remimory.com/",
   "pc_requirements": {
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 199,
+    "discount_percent": 60,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     113602
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 113602,
-          "percent_savings_text": "",
+          "percent_savings_text": "-60%",
           "percent_savings": 0,
-          "option_text": "D.N.Age - 4,99\u20ac",
+          "option_text": "D.N.Age - <span class=\"discount_original_price\">4,99\u20ac</span> 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -273,5 +275,9 @@
     "url": "http://www.remimory.com/",
     "email": "contact@remimory.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/497470/page_bg_generated_v6b.jpg?t=1516059337"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/497470/page_bg_generated_v6b.jpg?t=1516059337",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -15,13 +15,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/545120/header.jpg?t=1477166636",
   "website": "http://www.poweruptomaximum.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX Snow Leopard (version 10.6)</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> OSX Snow Leopard (version 10.6)</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> SteamOS or similar</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> SteamOS or similar</li></ul>"
   },
   "developers": [
     "Power Up to Maximum",
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     134372
@@ -143,5 +145,9 @@
     "url": "http://www.poweruptomaximum.com/",
     "email": "liens@poweruptomaximum.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/545120/page_bg_generated_v6b.jpg?t=1477166636"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/545120/page_bg_generated_v6b.jpg?t=1477166636",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

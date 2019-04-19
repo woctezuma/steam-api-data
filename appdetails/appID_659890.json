@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Play the new installment of color mosaics with a great variety of colors!<br />\r\n<br />\r\nThe penguin family are thrilled to discover a new palette of colors for mosaic puzzles!  <br />\r\n<br />\r\nThey are happy to meet a mysterious lady penguin on an alien planet who helps open their mind to a great variety of colors. <br />\r\n<br />\r\nAlong the way they keep exploring the alien world and build a beautiful landscape!  Join the penguins to follow the logic of numbers to uncover the new gallery of pixel art images!  <br />\r\n<br />\r\n<br />\r\n- Mosaic puzzles with a new palette<br />\r\n<br />\r\n- Great puzzle challenges<br />\r\n <br />\r\n- Build an alien landscape<br />\r\n<br />\r\n- Puzzles based on logic",
   "about_the_game": "Play the new installment of color mosaics with a great variety of colors!<br />\r\n<br />\r\nThe penguin family are thrilled to discover a new palette of colors for mosaic puzzles!  <br />\r\n<br />\r\nThey are happy to meet a mysterious lady penguin on an alien planet who helps open their mind to a great variety of colors. <br />\r\n<br />\r\nAlong the way they keep exploring the alien world and build a beautiful landscape!  Join the penguins to follow the logic of numbers to uncover the new gallery of pixel art images!  <br />\r\n<br />\r\n<br />\r\n- Mosaic puzzles with a new palette<br />\r\n<br />\r\n- Great puzzle challenges<br />\r\n <br />\r\n- Build an alien landscape<br />\r\n<br />\r\n- Puzzles based on logic",
-  "short_description": "The penguin family are thrilled to discover a new palette of colors for mosaic puzzles!  <br />\r\n<br />\r\nThey are happy to meet a mysterious lady penguin on an alien planet who helps open their mind to a great variety of colors. <br />\r\n<br />\r\nAlong the way they keep exploring the alien world and build a beautiful landscape!  Join the penguins to follow the logic of numbers <br />\r\n<br />\r\nto uncover the new gallery of pixel art images!",
+  "short_description": "The penguin family are thrilled to discover a new palette of colors for mosaic puzzles! They are happy to meet a mysterious lady penguin on an alien planet who helps open their mind to a great variety of colors. Along the way they keep exploring the alien world and build a beautiful landscape!",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/659890/header.jpg?t=1500277594",
   "website": "http://www.matchgems.com",
@@ -24,11 +24,14 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 699,
-    "final": 699,
-    "discount_percent": 0
+    "final": 209,
+    "discount_percent": 70,
+    "initial_formatted": "6,99\u20ac",
+    "final_formatted": "2,09\u20ac"
   },
   "packages": [
-    186804
+    186804,
+    336769
   ],
   "package_groups": [
     {
@@ -42,9 +45,19 @@
       "subs": [
         {
           "packageid": 186804,
+          "percent_savings_text": "-70%",
+          "percent_savings": 0,
+          "option_text": "Fantasy Mosaics 17: New Palette - <span class=\"discount_original_price\">6,99\u20ac</span> 2,09\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 209
+        },
+        {
+          "packageid": 336769,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Fantasy Mosaics 17: New Palette - 6,99\u20ac",
+          "option_text": "Fantasy Mosaics 17: New Palette - Commercial License - 6,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -118,6 +131,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jul, 2017"
@@ -126,5 +142,9 @@
     "url": "http://www.matchgems.com",
     "email": "andyforsaken@yahoo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/659890/page_bg_generated_v6b.jpg?t=1500277594"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/659890/page_bg_generated_v6b.jpg?t=1500277594",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

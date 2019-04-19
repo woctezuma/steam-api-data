@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This pack includes Map Targul for Survival Mode.<br />\r\nAfter installing DLC you will find new button in main menu of the Game - Survival.<br />\r\nAfter that :<br />\r\n1. Click on this menu button.<br />\r\n2. Choose the Targul button in the opened window with the list of Maps.<br />\r\n3. When map will open, just play.",
   "about_the_game": "This pack includes Map Targul for Survival Mode.<br />\r\nAfter installing DLC you will find new button in main menu of the Game - Survival.<br />\r\nAfter that :<br />\r\n1. Click on this menu button.<br />\r\n2. Choose the Targul button in the opened window with the list of Maps.<br />\r\n3. When map will open, just play.",
-  "short_description": "This pack includes Map Targul for Survival Mode.<br />\r\nAfter installing DLC you can play on this map.",
+  "short_description": "This pack includes Map Targul for Survival Mode. After installing DLC you can play on this map.",
   "fullgame": {
     "appid": "363610",
     "name": "Botology"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     73645
@@ -141,5 +143,9 @@
     "url": "http://blacklimestudio.ru/",
     "email": "admin@blacklimestudio.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/388670/page_bg_generated_v6b.jpg?t=1479045611"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/388670/page_bg_generated_v6b.jpg?t=1479045611",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

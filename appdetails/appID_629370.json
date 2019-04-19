@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     171124
@@ -123,5 +125,9 @@
     "url": "http://runicrampage.com",
     "email": "support@runicrampage.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/629370/page_bg_generated_v6b.jpg?t=1495036975"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/629370/page_bg_generated_v6b.jpg?t=1495036975",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     186517
@@ -122,7 +124,7 @@
     }
   ],
   "recommendations": {
-    "total": 116
+    "total": 113
   },
   "achievements": {
     "total": 243,
@@ -177,5 +179,9 @@
     "url": "",
     "email": "55saetmi55@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/659250/page_bg_generated_v6b.jpg?t=1519492108"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/659250/page_bg_generated_v6b.jpg?t=1519492108",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

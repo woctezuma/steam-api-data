@@ -34,10 +34,12 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
-    "64149"
+    64149
   ],
   "package_groups": [
     {
@@ -50,7 +52,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "64149",
+          "packageid": 64149,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Cook, Serve, Delicious! Original Soundtrack - 2,99\u20ac",
@@ -178,6 +180,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Apr, 2015"
@@ -186,5 +191,9 @@
     "url": "http://www.vertigogaming.net",
     "email": "support@vertigogaming.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/359760/page_bg_generated_v6b.jpg?t=1522903592"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/359760/page_bg_generated_v6b.jpg?t=1522903592",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     148416
@@ -106,6 +108,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/579510/ss_e526638fe259d664e1f35354b86a757d0f988f20.1920x1080.jpg?t=1485226759"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Jan, 2017"
@@ -114,5 +119,9 @@
     "url": "http://moenovel.com/",
     "email": "support@moenovel.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/579510/page_bg_generated_v6b.jpg?t=1485226759"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/579510/page_bg_generated_v6b.jpg?t=1485226759",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

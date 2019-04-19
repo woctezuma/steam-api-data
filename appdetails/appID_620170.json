@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 320,
+    "final": 320,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,20\u20ac"
   },
   "packages": [
     166547
@@ -45,11 +47,11 @@
           "packageid": 166547,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Icarus Starship Command Simulator - 3,99\u20ac",
+          "option_text": "Icarus Starship Command Simulator - 3,20\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 320
         }
       ]
     }
@@ -224,5 +226,9 @@
     "url": "http://www.midwestvideogames.com/contact-support/",
     "email": "feedback@midwestvideogames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620170/page_bg_generated_v6b.jpg?t=1497413248"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620170/page_bg_generated_v6b.jpg?t=1497413248",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

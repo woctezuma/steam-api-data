@@ -30,10 +30,12 @@
     "Choice of Games"
   ],
   "price_overview": {
-    "currency": "EUR",
-    "initial": 79,
-    "final": 79,
-    "discount_percent": 0
+    "currency": "USD",
+    "initial": 99,
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "$0.99"
   },
   "packages": [
     261428
@@ -52,11 +54,11 @@
           "packageid": 261428,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "The Hero Project: Open Season - MeChip Warning System 9.0 - 0,79\u20ac",
+          "option_text": "The Hero Project: Open Season - MeChip Warning System 9.0 - $0.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 79
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -109,13 +111,20 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838250/ss_a20b5f81d3c1d6a2862d6f366dc54c149633af29.1920x1080.jpg?t=1522942236"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
-    "date": "5 Apr, 2018"
+    "date": "Apr 5, 2018"
   },
   "support_info": {
     "url": "https://www.choiceofgames.com/contact-us/",
     "email": "support-openseason-steam@choiceofgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/838250/page_bg_generated_v6b.jpg?t=1522942236"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/838250/page_bg_generated_v6b.jpg?t=1522942236",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

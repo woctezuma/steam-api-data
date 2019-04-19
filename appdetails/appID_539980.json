@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     132314
@@ -159,6 +161,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Dec, 2016"
@@ -167,5 +172,9 @@
     "url": "https://www.twitter.com/spacecatgame",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/539980/page_bg_generated_v6b.jpg?t=1503735263"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/539980/page_bg_generated_v6b.jpg?t=1503735263",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

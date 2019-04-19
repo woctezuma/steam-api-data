@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     16125,
@@ -85,7 +87,7 @@
   },
   "metacritic": {
     "score": 59,
-    "url": "http://www.metacritic.com/game/pc/tower-wars?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/tower-wars?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -198,7 +200,7 @@
     }
   ],
   "recommendations": {
-    "total": 1588
+    "total": 1087
   },
   "achievements": {
     "total": 35,
@@ -253,5 +255,9 @@
     "url": "http://support.towerwarsgame.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214360/page_bg_generated_v6b.jpg?t=1478044266"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214360/page_bg_generated_v6b.jpg?t=1478044266",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

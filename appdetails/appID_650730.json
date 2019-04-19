@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     183309
@@ -139,11 +141,6 @@
       "id": 11,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/650730/ss_a816db732a2db25009ca17f6058da3c1ee92c3f7.600x338.jpg?t=1497897172",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/650730/ss_a816db732a2db25009ca17f6058da3c1ee92c3f7.1920x1080.jpg?t=1497897172"
-    },
-    {
-      "id": 12,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/650730/?t=1497897172",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/650730/?t=1497897172"
     }
   ],
   "movies": [
@@ -168,6 +165,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Jun, 2017"
@@ -176,5 +176,9 @@
     "url": "brunko@runserver.net",
     "email": "brunko@runserver.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/650730/page_bg_generated_v6b.jpg?t=1497897172"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/650730/page_bg_generated_v6b.jpg?t=1497897172",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

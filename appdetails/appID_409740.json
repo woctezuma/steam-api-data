@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     81425
@@ -106,6 +108,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/409740/ss_39b8a670eda4364443e718f18a4d9af443db2051.1920x1080.jpg?t=1511219673"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Aug, 2016"
@@ -114,5 +119,9 @@
     "url": "https://www.games.roosterteeth.com/contact/",
     "email": "gamesupport@roosterteeth.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/409740/page_bg_generated_v6b.jpg?t=1511219673"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/409740/page_bg_generated_v6b.jpg?t=1511219673",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

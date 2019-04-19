@@ -11,8 +11,8 @@
     "appid": "220700",
     "name": "RPG Maker VX Ace"
   },
-  "supported_languages": "English, French, German, Spanish, Italian, Portuguese-Brazil, Japanese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/462212/header.jpg?t=1512165967",
+  "supported_languages": "English, French, German, Spanish - Spain, Italian, Portuguese - Brazil, Japanese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/462212/header.jpg?t=1551430635",
   "website": "http://www.rpgmakerweb.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Microsoft\u00ae Windows\u00ae XP / Vista / 7 (32-bit/64-bit)<br>\t</li><li><strong>Processor:</strong>Intel\u00ae Pentium\u00ae 4 2.0 GHz equivalent or faster processor<br>\t</li><li><strong>Memory:</strong>512 MB RAM<br>\t</li><li><strong>Graphics:</strong>1024 x 768 pixels or higher desktop resolution<br>\t</li><li><strong>Hard Drive:</strong>400 MB HD space</li></ul>",
@@ -21,17 +21,19 @@
   "mac_requirements": [],
   "linux_requirements": [],
   "developers": [
-    "KADOKAWA",
-    "Joel Steudler"
+    "Joel Steudler",
+    "Michael Galefire"
   ],
   "publishers": [
-    ""
+    "Degica"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     100996
@@ -91,10 +93,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/462212/ss_7fa6b0671cdcacb515200b5526a9b6ef83afa898.600x338.jpg?t=1512165967",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/462212/ss_7fa6b0671cdcacb515200b5526a9b6ef83afa898.1920x1080.jpg?t=1512165967"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/462212/ss_7fa6b0671cdcacb515200b5526a9b6ef83afa898.600x338.jpg?t=1551430635",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/462212/ss_7fa6b0671cdcacb515200b5526a9b6ef83afa898.1920x1080.jpg?t=1551430635"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Jun, 2016"
@@ -103,5 +108,9 @@
     "url": "http://www.rpgmakerweb.com/support",
     "email": "support@rpgmakerweb.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/462212/page_bg_generated_v6b.jpg?t=1512165967"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/462212/page_bg_generated_v6b.jpg?t=1551430635",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

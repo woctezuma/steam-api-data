@@ -1,19 +1,19 @@
 {
   "type": "dlc",
-  "name": "Hero Siege - Marauder (Class)",
+  "name": "Class - Marauder",
   "steam_appid": 771890,
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/771890/extras/marauder_bio.png?t=1517422621\" ><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/771890/extras/marauder_spellls.png?t=1517422621\" ><br><br>*Requires Hero Siege to use*",
-  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/771890/extras/marauder_bio.png?t=1517422621\" ><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/771890/extras/marauder_spellls.png?t=1517422621\" ><br><br>*Requires Hero Siege to use*",
+  "detailed_description": "<h2 class=\"bb_tag\">The Marauder</h2><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/771890/extras/maraudergif.gif?t=1542017848\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/771890/extras/marauder_talents.png?t=1542017848\" >",
+  "about_the_game": "<h2 class=\"bb_tag\">The Marauder</h2><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/771890/extras/maraudergif.gif?t=1542017848\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/771890/extras/marauder_talents.png?t=1542017848\" >",
   "short_description": "Marauder is a semi-ranged class that uses chains, bombs and a flail to demolish it's enemies",
   "fullgame": {
     "appid": "269210",
     "name": "Hero Siege"
   },
-  "supported_languages": "English<strong>*</strong>, Finnish, Portuguese-Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/771890/header.jpg?t=1517422621",
+  "supported_languages": "English<strong>*</strong>, Finnish, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/771890/header.jpg?t=1542017848",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> same as base game</li></ul>",
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     230841
@@ -46,7 +48,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Hero Siege - Marauder (Class)",
+      "title": "Buy Class - Marauder",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -142,18 +144,18 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/771890/ss_a8ea8a32e6e2f8a36be8540a4c7a317d65e5d063.600x338.jpg?t=1517422621",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/771890/ss_a8ea8a32e6e2f8a36be8540a4c7a317d65e5d063.1920x1080.jpg?t=1517422621"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/771890/ss_a8ea8a32e6e2f8a36be8540a4c7a317d65e5d063.600x338.jpg?t=1542017848",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/771890/ss_a8ea8a32e6e2f8a36be8540a4c7a317d65e5d063.1920x1080.jpg?t=1542017848"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/771890/ss_9bcac04da2e9a77b8020e452f0d223c5dc89043e.600x338.jpg?t=1517422621",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/771890/ss_9bcac04da2e9a77b8020e452f0d223c5dc89043e.1920x1080.jpg?t=1517422621"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/771890/ss_9bcac04da2e9a77b8020e452f0d223c5dc89043e.600x338.jpg?t=1542017848",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/771890/ss_9bcac04da2e9a77b8020e452f0d223c5dc89043e.1920x1080.jpg?t=1542017848"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/771890/ss_cf1ae1db8492bc5210e7c74021b9390f51549c70.600x338.jpg?t=1517422621",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/771890/ss_cf1ae1db8492bc5210e7c74021b9390f51549c70.1920x1080.jpg?t=1517422621"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/771890/ss_cf1ae1db8492bc5210e7c74021b9390f51549c70.600x338.jpg?t=1542017848",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/771890/ss_cf1ae1db8492bc5210e7c74021b9390f51549c70.1920x1080.jpg?t=1542017848"
     }
   ],
   "movies": [
@@ -179,5 +181,9 @@
     "url": "http://panicartstudios.com",
     "email": "panicartstudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771890/page_bg_generated_v6b.jpg?t=1517422621"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771890/page_bg_generated_v6b.jpg?t=1542017848",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

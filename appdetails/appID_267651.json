@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "It\u2019s never been easier to create games and apps for your favorite iOS device. With Clickteam\u2019s iOS runtime option you can create content using our amazing set of creation tools, Clickteam Fusion 2.5 and Clickteam Fusion 2.5 Developer. Create your content using our drag and drop visual interface and intuitive event editor, then with a touch of button our tools will build an xCode project for you, ready to be moved to your mac to compile and test on your iDevice.<br><br>Once you are happy with your app, our tools will build everything you need to submit your finished creation to Apple, It\u2019s that easy! Join our many users already experiencing success on the world famous iTunes store and create the next big hit!<br><br><strong>Required:</strong> to test or deploy the exporter output you must own a Mac with Mac OS Lion / Lion and an iOS Developer account ($99 per year on <a href=\"https://steamcommunity.com/linkfilter/?url=http://developer.apple.com)\" target=\"_blank\" rel=\"noopener\"  >developer.apple.com)</a> for testing/distributing your applications. To test on a device you will need to have a iPhone, iPad or iPod to test with. Clickteam Fusion 2.5 and the export work on Windows PC only.<br><br>Please be aware that this exporter add-on will only work with a full version of Fusion 2.5 - you will not be able to install it against a demo, limited or free version of any of these software titles.",
   "about_the_game": "It\u2019s never been easier to create games and apps for your favorite iOS device. With Clickteam\u2019s iOS runtime option you can create content using our amazing set of creation tools, Clickteam Fusion 2.5 and Clickteam Fusion 2.5 Developer. Create your content using our drag and drop visual interface and intuitive event editor, then with a touch of button our tools will build an xCode project for you, ready to be moved to your mac to compile and test on your iDevice.<br><br>Once you are happy with your app, our tools will build everything you need to submit your finished creation to Apple, It\u2019s that easy! Join our many users already experiencing success on the world famous iTunes store and create the next big hit!<br><br><strong>Required:</strong> to test or deploy the exporter output you must own a Mac with Mac OS Lion / Lion and an iOS Developer account ($99 per year on <a href=\"https://steamcommunity.com/linkfilter/?url=http://developer.apple.com)\" target=\"_blank\" rel=\"noopener\"  >developer.apple.com)</a> for testing/distributing your applications. To test on a device you will need to have a iPhone, iPad or iPod to test with. Clickteam Fusion 2.5 and the export work on Windows PC only.<br><br>Please be aware that this exporter add-on will only work with a full version of Fusion 2.5 - you will not be able to install it against a demo, limited or free version of any of these software titles.",
-  "short_description": "It\u2019s never been easier to create games and apps for your favorite iOS device. With Clickteam\u2019s iOS runtime option you can create content using our amazing set of creation tools, Clickteam Fusion 2.5 and Clickteam Fusion 2.5 Developer. Create your content using our drag and drop visual interface and intuitive event editor, then with a touch of button our tools will build an xCode project for you, ready to be moved to your mac to compile and test on your iDevice.",
+  "short_description": "It\u2019s never been easier to create games and apps for your favorite iOS device. With Clickteam\u2019s iOS runtime option you can create content using our amazing set of creation tools, Clickteam Fusion 2.5 and Clickteam Fusion 2.5 Developer.",
   "fullgame": {
     "appid": "248170",
     "name": "Clickteam Fusion 2.5"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 9999,
     "final": 9999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "99,99\u20ac"
   },
   "packages": [
     35250
@@ -170,6 +172,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/267651/ss_7786a5b984fdc19f703622515e0ef56cf22f1138.1920x1080.jpg?t=1523382115"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Dec, 2013"
@@ -178,5 +183,9 @@
     "url": "http://www.clickteam.com/contact-us",
     "email": "Support@Clickteam.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/267651/page_bg_generated_v6b.jpg?t=1523382115"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/267651/page_bg_generated_v6b.jpg?t=1523382115",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

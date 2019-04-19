@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     251270
@@ -121,6 +123,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/819850/ss_eb40c7aa64f34951d3fda5437001cf33671cd7c8.1920x1080.jpg?t=1520452616"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Mar, 2018"
@@ -129,5 +134,12 @@
     "url": "https://www.richardlrcoaching.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/819850/page_bg_generated_v6b.jpg?t=1520452616"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/819850/page_bg_generated_v6b.jpg?t=1520452616",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

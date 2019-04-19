@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Team RWBY is back and ready for their second semester at Beacon, an academy that trains the world\u2019s strongest fighters. But real life doesn\u2019t stop there. Between classes and homework, they still have to find time to save the world. And between the White Fang, Roman Torchwick, and a mysterious new trio, they certainly have their work cut out for them!",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Team RWBY is back and ready for their second semester at Beacon, an academy that trains the world\u2019s strongest fighters. But real life doesn\u2019t stop there. Between classes and homework, they still have to find time to save the world. And between the White Fang, Roman Torchwick, and a mysterious new trio, they certainly have their work cut out for them!",
   "about_the_game": "Team RWBY is back and ready for their second semester at Beacon, an academy that trains the world\u2019s strongest fighters. But real life doesn\u2019t stop there. Between classes and homework, they still have to find time to save the world. And between the White Fang, Roman Torchwick, and a mysterious new trio, they certainly have their work cut out for them!",
   "short_description": "Team RWBY is back and ready for their second semester at Beacon, an academy that trains the world\u2019s strongest fighters. But real life doesn\u2019t stop. Between the White Fang, Torchwick, and a mysterious trio, they certainly have their work cut out for them!",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     111682,
@@ -185,6 +187,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jul, 2016"
@@ -193,5 +198,9 @@
     "url": "www.cinedigm.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492470/page_bg_generated_v6b.jpg?t=1472753853"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492470/page_bg_generated_v6b.jpg?t=1472753853",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

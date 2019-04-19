@@ -5,9 +5,9 @@
   "required_age": 0,
   "is_free": true,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>Play World of Warships</h1><p><a href=\"http://store.steampowered.com/app/552990/World_of_Warships/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/552990/World_of_Warships/</a></a></p><br><h1>Watch Sea Smackdown</h1><p><a href=\"http://store.steampowered.com/app/758350\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >http://store.steampowered.com/app/758350</a></a></p><br><h1>#label_about_the_series</h1><strong>Naval Legends</strong> is a video series about construction, service and great feats of the legendary ships, and the most important maritime events of the 20th century.<br>There\u2019s a very small number of the original ships of that time left \u2014 most of them were decommissioned and scrapped. To create the series, the filming crew traveled almost the entire globe, and almost all the operating museum ships around the world were involved in the project.<br><br>Each episode consists of location filming, wartime newsreels, and archival data, and is narrated and commented on by military historians, museum professionals, and Navy veterans, which provides for a highly historically accurate content. Computer graphics based on the archival blueprints illustrate all the  important engineering components and armament of the ships, and let you observe and take in the colossal vehicle.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>Play World of Warships</h1><p><a href=\"http://store.steampowered.com/app/552990/World_of_Warships/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/552990/World_of_Warships/</a></p><br><h1>Watch Sea Smackdown</h1><p><a href=\"http://store.steampowered.com/app/758350\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >http://store.steampowered.com/app/758350</a></p><br><h1>#label_about_the_series</h1><strong>Naval Legends</strong> is a video series about construction, service and great feats of the legendary ships, and the most important maritime events of the 20th century.<br>There\u2019s a very small number of the original ships of that time left \u2014 most of them were decommissioned and scrapped. To create the series, the filming crew traveled almost the entire globe, and almost all the operating museum ships around the world were involved in the project.<br><br>Each episode consists of location filming, wartime newsreels, and archival data, and is narrated and commented on by military historians, museum professionals, and Navy veterans, which provides for a highly historically accurate content. Computer graphics based on the archival blueprints illustrate all the  important engineering components and armament of the ships, and let you observe and take in the colossal vehicle.",
   "about_the_game": "<strong>Naval Legends</strong> is a video series about construction, service and great feats of the legendary ships, and the most important maritime events of the 20th century.<br>There\u2019s a very small number of the original ships of that time left \u2014 most of them were decommissioned and scrapped. To create the series, the filming crew traveled almost the entire globe, and almost all the operating museum ships around the world were involved in the project.<br><br>Each episode consists of location filming, wartime newsreels, and archival data, and is narrated and commented on by military historians, museum professionals, and Navy veterans, which provides for a highly historically accurate content. Computer graphics based on the archival blueprints illustrate all the  important engineering components and armament of the ships, and let you observe and take in the colossal vehicle.",
-  "short_description": "<strong>Naval Legends</strong> is a video series about construction, service and great feats of the legendary ships, and the most important maritime events of the 20th century.",
+  "short_description": "Naval Legends is a video series about construction, service and great feats of the legendary ships, and the most important maritime events of the 20th century.",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -143,6 +143,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Nov, 2017"
@@ -151,5 +154,9 @@
     "url": "https://wargaming.net/support/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/738640/page_bg_generated_v6b.jpg?t=1512153733"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/738640/page_bg_generated_v6b.jpg?t=1512153733",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

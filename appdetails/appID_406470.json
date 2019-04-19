@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The original orchestral soundtrack composed by Max LL that highlights all the great moments in <i>Jotun</i>. From the atmospheric exploration levels to the epic boss battles, relive the game's incredible moments! A musical journey that takes you through the five corners of Norse purgatory, and leaves you with a sense of wonder, excitement, hardship and triumph. <br><br>Music composed, arranged and produced by Max LL <br><br>Features the Sofia Session Orchestra in &quot;Yggdrasil&quot; and &quot;I Am Thora&quot;.<br><br>SFX in &quot;Prologue&quot; by Pixel Audio <br><br>Artwork by Jo-Annie Gauthier &amp; Marie-Christine L\u00e9vesque <br><br>Album Design by Maude Plante-Husaruk<br><br><strong>Files will be placed in the Steam directory: ...\\Steam\\SteamApps\\common\\Jotun\\Soundtrack</strong><h2 class=\"bb_tag\">Full Track List:</h2><br>1 - Jotun <br>2 - Inglorious <br>3 - Prologue <br>4 -  A Journey Begins <br>5 - Jera <br>6 - Yggdrasil <br>7 - A City Underground <br>8 - Fehu <br>9 - Nine Rivers <br>10 - The Serpent <br>11 - The Gates <br>12 - Facing Frost <br>13 - Wind Witherer <br>14 - Constellations <br>15 - Storms <br>16 - The Marsh <br>17 - Sons <br>18 - In Flames <br>19 - Final Confrontation <br>20 - I Am Thora<br><br>Duration: 54 minutes",
   "about_the_game": "The original orchestral soundtrack composed by Max LL that highlights all the great moments in <i>Jotun</i>. From the atmospheric exploration levels to the epic boss battles, relive the game's incredible moments! A musical journey that takes you through the five corners of Norse purgatory, and leaves you with a sense of wonder, excitement, hardship and triumph. <br><br>Music composed, arranged and produced by Max LL <br><br>Features the Sofia Session Orchestra in &quot;Yggdrasil&quot; and &quot;I Am Thora&quot;.<br><br>SFX in &quot;Prologue&quot; by Pixel Audio <br><br>Artwork by Jo-Annie Gauthier &amp; Marie-Christine L\u00e9vesque <br><br>Album Design by Maude Plante-Husaruk<br><br><strong>Files will be placed in the Steam directory: ...\\Steam\\SteamApps\\common\\Jotun\\Soundtrack</strong><h2 class=\"bb_tag\">Full Track List:</h2><br>1 - Jotun <br>2 - Inglorious <br>3 - Prologue <br>4 -  A Journey Begins <br>5 - Jera <br>6 - Yggdrasil <br>7 - A City Underground <br>8 - Fehu <br>9 - Nine Rivers <br>10 - The Serpent <br>11 - The Gates <br>12 - Facing Frost <br>13 - Wind Witherer <br>14 - Constellations <br>15 - Storms <br>16 - The Marsh <br>17 - Sons <br>18 - In Flames <br>19 - Final Confrontation <br>20 - I Am Thora<br><br>Duration: 54 minutes",
-  "short_description": "<i>Jotun's</i> original orchestral soundtrack composed by Max LL. It highlights all the great moments in <i>Jotun</i>, from the atmospheric exploration levels to the epic boss battles!",
+  "short_description": "Jotun's original orchestral soundtrack composed by Max LL. It highlights all the great moments in Jotun, from the atmospheric exploration levels to the epic boss battles!",
   "fullgame": {
     "appid": "323580",
     "name": "Jotun: Valhalla Edition"
@@ -33,8 +33,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 499,
-    "discount_percent": 50
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     80062
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 80062,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Jotun: Original Soundtrack - <span class=\"discount_original_price\">9,99\u20ac</span> 4,99\u20ac",
+          "option_text": "Jotun: Original Soundtrack - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -160,6 +162,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Sep, 2015"
@@ -168,5 +173,9 @@
     "url": "",
     "email": "info@jotungame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/406470/page_bg_generated_v6b.jpg?t=1447378280"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/406470/page_bg_generated_v6b.jpg?t=1447378280",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

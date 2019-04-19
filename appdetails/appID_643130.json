@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\"><strong>BRP Basic Magic</strong></h2><strong>A BRP library module and extension for Fantasy Grounds</strong><br><br>This work presents four core Chaosium magic systems developed for use with Basic Roleplaying. Here is Spirit Magic, derived from your ancestors and the spirits of old; Divine Magic, come from the gods; Sorcery, developed from within; and Ceremony, made powerful through ritual and chant.<br><br>This product contains a library module fully converted for display and use within fantasy grounds. It comes with a custom extension for the new spell template types and spell lists for each magic type that can be dragged to character sheets and referenced during play.<br><br>Released on December 04, 2010. Designed for Fantasy Grounds version 2.9.9 and higher.<br><br><strong>Requires:</strong> An active subscription or a one time purchase of a Fantasy Grounds Full or Ultimate License and a one time purchase of the Basic Roleplaying (BRP) ruleset.",
   "about_the_game": "<h2 class=\"bb_tag\"><strong>BRP Basic Magic</strong></h2><strong>A BRP library module and extension for Fantasy Grounds</strong><br><br>This work presents four core Chaosium magic systems developed for use with Basic Roleplaying. Here is Spirit Magic, derived from your ancestors and the spirits of old; Divine Magic, come from the gods; Sorcery, developed from within; and Ceremony, made powerful through ritual and chant.<br><br>This product contains a library module fully converted for display and use within fantasy grounds. It comes with a custom extension for the new spell template types and spell lists for each magic type that can be dragged to character sheets and referenced during play.<br><br>Released on December 04, 2010. Designed for Fantasy Grounds version 2.9.9 and higher.<br><br><strong>Requires:</strong> An active subscription or a one time purchase of a Fantasy Grounds Full or Ultimate License and a one time purchase of the Basic Roleplaying (BRP) ruleset.",
-  "short_description": "<h2 class=\"bb_tag\"><strong>BRP Basic Magic</strong></h2><strong>A BRP library module and extension for Fantasy Grounds</strong><br><br>This work presents four core Chaosium magic systems developed for use with Basic Roleplaying. Here is Spirit Magic, derived from your ancestors and the spirits of old; Divine Magic, come from the gods; Sorcery, developed from within; and Ceremony, made powerful through ritual and chant.<br><br>This product contains a library module fully converted for display and use within fantasy grounds. It comes with a custom extension for the new spell template types and spell lists for each magic type that can be dragged to character sheets and referenced during play.<br><br>Released on December 04, 2010. Designed for Fantasy Grounds version 2.9.9 and higher.",
+  "short_description": "BRP Basic MagicA BRP library module and extension for Fantasy GroundsThis work presents four core Chaosium magic systems developed for use with Basic Roleplaying. Here is Spirit Magic, derived from your ancestors and the spirits of old; Divine Magic, come from the gods; Sorcery, developed from within; and Ceremony, made powerful through...",
   "fullgame": {
     "appid": "252690",
     "name": "Fantasy Grounds"
@@ -20,7 +20,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "The reproduction of material from within this product for the purposes of personal or corporate profit, by file, photographic, optical, electronic, or other media or methods of storage and retrieval, is prohibited.<br><br>This product is Copyright 2010, SmiteWorks USA, LLC. Used under license from Chaosium. This product's format, programming code, and presentation is copyrighted by SmiteWorks USA, LLC. Redistribution by print or by file is strictly prohibited.<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2017 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a></a> for more product information.",
+  "legal_notice": "The reproduction of material from within this product for the purposes of personal or corporate profit, by file, photographic, optical, electronic, or other media or methods of storage and retrieval, is prohibited.<br><br>This product is Copyright 2010, SmiteWorks USA, LLC. Used under license from Chaosium. This product's format, programming code, and presentation is copyrighted by SmiteWorks USA, LLC. Redistribution by print or by file is strictly prohibited.<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2017 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a> for more product information.",
   "developers": [
     "SmiteWorks USA, LLC"
   ],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     179644
@@ -118,6 +120,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/643130/ss_baf12e6f85798933fd7533ee8dcd3f5a0a8be083.1920x1080.jpg?t=1496191306"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 May, 2017"
@@ -126,5 +131,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/643130/page_bg_generated_v6b.jpg?t=1496191306"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/643130/page_bg_generated_v6b.jpg?t=1496191306",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

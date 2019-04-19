@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The aerofly RC 7 Ultimate Edition includes the following new features compared to the Standard Edition:<br><br><ul class=\"bb_ul\"><li>Over 160 new and unique RC models<br></li><li>Over 40 new sceneries from various places around the world<br></li><li>Recording/Playback feature<br></li><li>Air Race<br></li><li>Torque Trainer<br></li><li>Heli Trainer<br></li><li>F3A grid<br></li><li>Position guide<br></li><li>Models are instantly scaleable<br></li><li>Multiplayer capability with Voice chat</li></ul><h2 class=\"bb_tag\">EDITION COMPARISON OVERVIEW</h2><br>To see the differences of all three editions, have a look at the following table:<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/328171/extras/steam_compare_en.png?t=1447364173\" >",
   "about_the_game": "The aerofly RC 7 Ultimate Edition includes the following new features compared to the Standard Edition:<br><br><ul class=\"bb_ul\"><li>Over 160 new and unique RC models<br></li><li>Over 40 new sceneries from various places around the world<br></li><li>Recording/Playback feature<br></li><li>Air Race<br></li><li>Torque Trainer<br></li><li>Heli Trainer<br></li><li>F3A grid<br></li><li>Position guide<br></li><li>Models are instantly scaleable<br></li><li>Multiplayer capability with Voice chat</li></ul><h2 class=\"bb_tag\">EDITION COMPARISON OVERVIEW</h2><br>To see the differences of all three editions, have a look at the following table:<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/328171/extras/steam_compare_en.png?t=1447364173\" >",
-  "short_description": "The aerofly RC 7 Ultimate Edition upgrade includes the following new features compared to the Standard Edition:<br><br><ul class=\"bb_ul\"><li>Over 160 new and unique RC models<br></li><li>Over 40 new sceneries from various places around the world<br></li><li>Recording/Playback feature<br></li><li>Air Race<br></li><li>Torque Trainer<br></li><li>Heli Trainer<br></li><li>F3A grid<br></li><li>Position guide<br></li><li>Models are instantly scaleable<br></li><li>Multiplayer capability with Voice chat</li></ul>",
+  "short_description": "The aerofly RC 7 Ultimate Edition upgrade includes the following new features compared to the Standard Edition:Over 160 new and unique RC modelsOver 40 new sceneries from various places around the worldRecording/Playback featureAir RaceTorque TrainerHeli TrainerF3A gridPosition guideModels are instantly scaleableMultiplayer capability wit",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -30,11 +30,13 @@
     "currency": "EUR",
     "initial": 13999,
     "final": 13999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "139,99\u20ac"
   },
   "packages": [
     52746,
-    "54402"
+    54402
   ],
   "package_groups": [
     {
@@ -57,14 +59,14 @@
           "price_in_cents_with_discount": 13999
         },
         {
-          "packageid": "54402",
+          "packageid": 54402,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "aerofly RC 7 Ultimate Edition Upgrade - 92,99\u20ac",
+          "option_text": "aerofly RC 7 Ultimate Edition Upgrade - 89,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 9299
+          "price_in_cents_with_discount": 8999
         }
       ]
     }
@@ -216,6 +218,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Nov, 2014"
@@ -224,5 +229,9 @@
     "url": "www.aeroflyrc.com/support",
     "email": "support@aeroflyrc.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/328171/page_bg_generated_v6b.jpg?t=1447364173"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/328171/page_bg_generated_v6b.jpg?t=1447364173",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

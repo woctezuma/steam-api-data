@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     825,
@@ -68,11 +70,11 @@
           "packageid": 58400,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Crazy Machines 2: Essential Puzzle Pack - 22,99\u20ac",
+          "option_text": "Crazy Machines 2: Essential Puzzle Pack - 10,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2299
+          "price_in_cents_with_discount": 1079
         },
         {
           "packageid": 67978,
@@ -94,7 +96,7 @@
   },
   "metacritic": {
     "score": 72,
-    "url": "http://www.metacritic.com/game/pc/crazy-machines-2?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/crazy-machines-2?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -180,9 +182,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 189
-  },
   "achievements": {
     "total": 0
   },
@@ -194,5 +193,9 @@
     "url": "www.support.encore.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/18400/page_bg_generated_v6b.jpg?t=1447351367"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/18400/page_bg_generated_v6b.jpg?t=1447351367",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

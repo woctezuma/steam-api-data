@@ -15,10 +15,10 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/536580/header.jpg?t=1479204874",
   "website": "http://www.trainzportal.com/product/view/trainz-simulator-a-new-era",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64bit<br></li><li><strong>Processor:</strong> Intel 'i' series/AMD K10 series introduced 2009 onwards. 2 physical cores, 2Ghz 64 bit<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GT 430 or better/ AMD ATI 5550 or better<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7 64bit<br></li><li><strong>Processeur\u00a0:</strong> Intel 'i' series/AMD K10 series introduced 2009 onwards. 2 physical cores, 2Ghz 64 bit<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 4 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> NVIDIA GT 430 or better/ AMD ATI 5550 or better<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.9<br></li><li><strong>Processor:</strong> i5 2 Ghz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Intel Iris Pro with 1GB VRAM supporting OpenGL 3.3<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> 10.9<br></li><li><strong>Processeur\u00a0:</strong> i5 2 Ghz<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 6 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> Intel Iris Pro with 1GB VRAM supporting OpenGL 3.3<br></li><li><strong>Espace disque\u00a0:</strong> 500 MB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> Yes</li></ul>"
   },
   "linux_requirements": [],
   "legal_notice": "Published and developed by N3V Games Pty Ltd . N3V Games, Trainz and their respective logos are trademarks of N3V Games.  All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.",
@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 899,
-    "final": 899,
-    "discount_percent": 0
+    "initial": 659,
+    "final": 659,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,59\u20ac"
   },
   "packages": [
     223461
@@ -51,11 +53,11 @@
           "packageid": 223461,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: DBuz 747 Passenger Cars - 8,99\u20ac",
+          "option_text": "TANE DLC: DBuz 747 Passenger Cars - 6,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 899
+          "price_in_cents_with_discount": 659
         }
       ]
     }
@@ -171,6 +173,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/536580/ss_e81e2f47be60299a6fc0c0480a9c06fc17b41b04.1920x1080.jpg?t=1479204874"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Sep, 2016"
@@ -179,5 +184,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/536580/page_bg_generated_v6b.jpg?t=1479204874"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/536580/page_bg_generated_v6b.jpg?t=1479204874",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

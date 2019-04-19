@@ -6,13 +6,13 @@
   "is_free": false,
   "detailed_description": "A new &quot;Brave Archer&quot; Costumes for Liane for use in Atelier Firis ~The Alchemist and the Mysterious Journey~ that can be selected under the &quot;Change Outfit&quot; option inside the Atelier. <br />\r\n<br />\r\n*You need to progress the story to a certain point for the &quot;Change Outfit&quot; option to become available.",
   "about_the_game": "A new &quot;Brave Archer&quot; Costumes for Liane for use in Atelier Firis ~The Alchemist and the Mysterious Journey~ that can be selected under the &quot;Change Outfit&quot; option inside the Atelier. <br />\r\n<br />\r\n*You need to progress the story to a certain point for the &quot;Change Outfit&quot; option to become available.",
-  "short_description": "A new &quot;Brave Archer&quot; Costumes for Liane for use in Atelier Firis ~The Alchemist and the Mysterious Journey~ that can be selected under the &quot;Change Outfit&quot; option inside the Atelier. <br />\r\n<br />\r\n*You need to progress the story to a certain point for the &quot;Change Outfit&quot; option to become available.",
+  "short_description": "A new &quot;Brave Archer&quot; Costumes for Liane for use in Atelier Firis ~The Alchemist and the Mysterious Journey~ that can be selected under the &quot;Change Outfit&quot; option inside the Atelier. *You need to progress the story to a certain point for the &quot;Change Outfit&quot; option to become available.",
   "fullgame": {
     "appid": "527290",
     "name": "Atelier Firis: The Alchemist and the Mysterious Journey / \u30d5\u30a3\u30ea\u30b9\u306e\u30a2\u30c8\u30ea\u30a8 \uff5e\u4e0d\u601d\u8b70\u306a\u65c5\u306e\u932c\u91d1\u8853\u58eb\uff5e"
   },
   "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/620321/header.jpg?t=1494287558",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/620321/header.jpg?t=1550185977",
   "website": "http://www.koeitecmoamerica.com/firis/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae 7, Windows\u00ae 8.1, Windows\u00ae 10 (64bit required)<br></li><li><strong>Processor:</strong> Core i5  2.6GHz or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX550Ti or better, 1280x720<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 35 GB available space</li></ul>",
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     166597
@@ -91,15 +93,18 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/620321/ss_d3f1bd19c60ca0bbdc629289a9d05a2bac57cea9.600x338.jpg?t=1494287558",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/620321/ss_d3f1bd19c60ca0bbdc629289a9d05a2bac57cea9.1920x1080.jpg?t=1494287558"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/620321/ss_d3f1bd19c60ca0bbdc629289a9d05a2bac57cea9.600x338.jpg?t=1550185977",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/620321/ss_d3f1bd19c60ca0bbdc629289a9d05a2bac57cea9.1920x1080.jpg?t=1550185977"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/620321/ss_a4091d23aa018914ea429a2160ada30910c88c61.600x338.jpg?t=1494287558",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/620321/ss_a4091d23aa018914ea429a2160ada30910c88c61.1920x1080.jpg?t=1494287558"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/620321/ss_a4091d23aa018914ea429a2160ada30910c88c61.600x338.jpg?t=1550185977",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/620321/ss_a4091d23aa018914ea429a2160ada30910c88c61.1920x1080.jpg?t=1550185977"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 May, 2017"
@@ -108,5 +113,9 @@
     "url": "https://koeitecmo.info/inquiry/kta/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620321/page_bg_generated_v6b.jpg?t=1494287558"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620321/page_bg_generated_v6b.jpg?t=1550185977",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

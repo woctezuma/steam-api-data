@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     133679
@@ -176,7 +178,7 @@
     }
   ],
   "recommendations": {
-    "total": 190
+    "total": 170
   },
   "achievements": {
     "total": 22,
@@ -231,5 +233,12 @@
     "url": "",
     "email": "info@v7entertainment.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/543010/page_bg_generated_v6b.jpg?t=1509148890"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/543010/page_bg_generated_v6b.jpg?t=1509148890",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

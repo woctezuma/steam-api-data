@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     86221
@@ -150,6 +152,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 May, 2017"
@@ -158,5 +163,9 @@
     "url": "www.variagamesllc.wix.com/revenxbridge",
     "email": "variagamesllc@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/422030/page_bg_generated_v6b.jpg?t=1495520107"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/422030/page_bg_generated_v6b.jpg?t=1495520107",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

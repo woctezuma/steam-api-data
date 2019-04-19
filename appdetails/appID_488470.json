@@ -1,19 +1,19 @@
 {
   "type": "dlc",
-  "name": "Hero Siege - Shaman (Class)",
+  "name": "Class - Shaman",
   "steam_appid": 488470,
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "Shaman's Storm Bundle.<br />\r\n<br />\r\nUnlocks the Shaman Class to bring thunder for your enemies!",
-  "about_the_game": "Shaman's Storm Bundle.<br />\r\n<br />\r\nUnlocks the Shaman Class to bring thunder for your enemies!",
-  "short_description": "",
+  "detailed_description": "<h2 class=\"bb_tag\">The Shaman</h2><br>- Unlock the Shaman class!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/488470/extras/shamann.gif?t=1542017901\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/488470/extras/shaman_talents.png?t=1542017901\" >",
+  "about_the_game": "<h2 class=\"bb_tag\">The Shaman</h2><br>- Unlock the Shaman class!<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/488470/extras/shamann.gif?t=1542017901\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/488470/extras/shaman_talents.png?t=1542017901\" >",
+  "short_description": "The Shaman- Unlock the Shaman class!",
   "fullgame": {
     "appid": "269210",
     "name": "Hero Siege"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/488470/header.jpg?t=1513339032",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/488470/header.jpg?t=1542017901",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> same as main game</li></ul>",
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     110147
@@ -46,7 +48,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Hero Siege - Shaman (Class)",
+      "title": "Buy Class - Shaman",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -138,18 +140,18 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/488470/ss_7d968524662378008b95d477c7c70f5bb51dcb09.600x338.jpg?t=1513339032",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/488470/ss_7d968524662378008b95d477c7c70f5bb51dcb09.1920x1080.jpg?t=1513339032"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/488470/ss_7d968524662378008b95d477c7c70f5bb51dcb09.600x338.jpg?t=1542017901",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/488470/ss_7d968524662378008b95d477c7c70f5bb51dcb09.1920x1080.jpg?t=1542017901"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/488470/ss_c73ee9177871246ed9b00cac4991a3edda9b70bc.600x338.jpg?t=1513339032",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/488470/ss_c73ee9177871246ed9b00cac4991a3edda9b70bc.1920x1080.jpg?t=1513339032"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/488470/ss_c73ee9177871246ed9b00cac4991a3edda9b70bc.600x338.jpg?t=1542017901",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/488470/ss_c73ee9177871246ed9b00cac4991a3edda9b70bc.1920x1080.jpg?t=1542017901"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/488470/ss_8948428349fde86684a57b9ac9cd7fb9ff565aca.600x338.jpg?t=1513339032",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/488470/ss_8948428349fde86684a57b9ac9cd7fb9ff565aca.1920x1080.jpg?t=1513339032"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/488470/ss_8948428349fde86684a57b9ac9cd7fb9ff565aca.600x338.jpg?t=1542017901",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/488470/ss_8948428349fde86684a57b9ac9cd7fb9ff565aca.1920x1080.jpg?t=1542017901"
     }
   ],
   "achievements": {
@@ -163,5 +165,9 @@
     "url": "http://panicartstudios.com",
     "email": "panicartstudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/488470/page_bg_generated_v6b.jpg?t=1513339032"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/488470/page_bg_generated_v6b.jpg?t=1542017901",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

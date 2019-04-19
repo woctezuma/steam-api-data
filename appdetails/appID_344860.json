@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     58917
@@ -194,7 +196,7 @@
     }
   ],
   "recommendations": {
-    "total": 212
+    "total": 206
   },
   "achievements": {
     "total": 66,
@@ -249,5 +251,9 @@
     "url": "http://emmanuelsalvacruz.com/",
     "email": "emmanuel.salva.cruz@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/344860/page_bg_generated_v6b.jpg?t=1447367787"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/344860/page_bg_generated_v6b.jpg?t=1447367787",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

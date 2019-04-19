@@ -20,7 +20,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "(C) 2014 Evil Hat Productions. EHP and all related marks and logos are trademarks of Evil Hat Productions. All rights reserved. Used with permission. (C) 2014. All Rights Reserved.<br><br>This product is Copyright 2014, SmiteWorks USA, LLC. Used under license from Evil Hat Productions. This product's format, programming code and presentation is copyrighted by SmiteWorks USA, LLC. Redistribution by print or by file is strictly prohibited.<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2014 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a></a> for more product information.",
+  "legal_notice": "(C) 2014 Evil Hat Productions. EHP and all related marks and logos are trademarks of Evil Hat Productions. All rights reserved. Used with permission. (C) 2014. All Rights Reserved.<br><br>This product is Copyright 2014, SmiteWorks USA, LLC. Used under license from Evil Hat Productions. This product's format, programming code and presentation is copyrighted by SmiteWorks USA, LLC. Redistribution by print or by file is strictly prohibited.<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2014 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a> for more product information.",
   "developers": [
     "SmiteWorks USA, LLC"
   ],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     53715
@@ -118,6 +120,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/331000/ss_09a6df47d3c55875e2c66203e580bcbaaf3808a4.1920x1080.jpg?t=1447364588"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Oct, 2014"
@@ -126,5 +131,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/331000/page_bg_generated_v6b.jpg?t=1447364588"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/331000/page_bg_generated_v6b.jpg?t=1447364588",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

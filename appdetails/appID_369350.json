@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The official Soundtrack for In Exilium.<br />\r\n<br />\r\n16 official tracks with a couple extra tracks and images.",
   "about_the_game": "The official Soundtrack for In Exilium.<br />\r\n<br />\r\n16 official tracks with a couple extra tracks and images.",
-  "short_description": "The official Soundtrack for In Exilium.<br />\r\n<br />\r\n16 official tracks with a couple extra tracks and images.",
+  "short_description": "The official Soundtrack for In Exilium. 16 official tracks with a couple extra tracks and images.",
   "fullgame": {
     "appid": "344880",
     "name": "In Exilium"
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     67219
@@ -129,5 +131,9 @@
     "url": "www.confluxgames.com",
     "email": "gabe@confluxgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/369350/page_bg_generated_v6b.jpg?t=1447374129"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/369350/page_bg_generated_v6b.jpg?t=1447374129",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

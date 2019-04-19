@@ -11,12 +11,12 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/535490/header.jpg?t=1509692975",
   "website": "http://porno-studio-tycoon.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7,8,8.1,10 64/x86<br></li><li><strong>Processor:</strong> 1.4 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX\u00ae 10 Compatible Graphics Card<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7,8,8.1,10 64/x86<br></li><li><strong>Processor:</strong> 2 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX\u00ae 10 Compatible Graphics Card<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Windows 7,8,8.1,10 64/x86<br></li><li><strong>Procesor:</strong> 1.4 Ghz<br></li><li><strong>Pami\u0119\u0107:</strong> 2 GB RAM<br></li><li><strong>Karta graficzna:</strong> DirectX\u00ae 10 Compatible Graphics Card<br></li><li><strong>DirectX:</strong> Wersja 10<br></li><li><strong>Miejsce na dysku:</strong> 1 GB dost\u0119pnej przestrzeni</li></ul>",
+    "recommended": "<strong>Zalecane:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Windows 7,8,8.1,10 64/x86<br></li><li><strong>Procesor:</strong> 2 Ghz<br></li><li><strong>Pami\u0119\u0107:</strong> 2 GB RAM<br></li><li><strong>Karta graficzna:</strong> DirectX\u00ae 10 Compatible Graphics Card<br></li><li><strong>DirectX:</strong> Wersja 10<br></li><li><strong>Miejsce na dysku:</strong> 1 GB dost\u0119pnej przestrzeni</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.12.6<br></li><li><strong>Processor:</strong> 1.4 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.12.6<br></li><li><strong>Processor:</strong> 1.4 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> 10.12.6<br></li><li><strong>Procesor:</strong> 1.4 Ghz<br></li><li><strong>Pami\u0119\u0107:</strong> 2 GB RAM<br></li><li><strong>Miejsce na dysku:</strong> 2 GB dost\u0119pnej przestrzeni</li></ul>",
+    "recommended": "<strong>Zalecane:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> 10.12.6<br></li><li><strong>Procesor:</strong> 1.4 Ghz<br></li><li><strong>Pami\u0119\u0107:</strong> 2 GB RAM<br></li><li><strong>Miejsce na dysku:</strong> 2 GB dost\u0119pnej przestrzeni</li></ul>"
   },
   "linux_requirements": [],
   "developers": [
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 1969,
     "final": 1969,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,69\u20ac"
   },
   "packages": [
     130151
@@ -230,7 +232,7 @@
     }
   ],
   "recommendations": {
-    "total": 193
+    "total": 124
   },
   "achievements": {
     "total": 52,
@@ -285,5 +287,12 @@
     "url": "",
     "email": "zitrix.box@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/535490/page_bg_generated_v6b.jpg?t=1509692975"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/535490/page_bg_generated_v6b.jpg?t=1509692975",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

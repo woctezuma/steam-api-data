@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This game complies with the guidelines for releasing Touhou doujin games on Steam.<br />\r\n<br />\r\nOne day, a strange cup appeared in Gensokyo.<br />\r\nA big fight will occur in search of it!<br />\r\nSelect your favorite characters from over 50 characters, practice strategy, take command, aim for victory!<br />\r\nYou can choose the difficulty level, so you can enjoy it even for beginners or advanced players.<br />\r\n<br />\r\nYou can enjoy two scenarios &quot;Youkai&quot; and &quot;Human&quot;!<br />\r\n<br />\r\n(This game is a game created by Japanese people.<br />\r\nYou can play in English, but my translation may not be very good. )",
   "about_the_game": "This game complies with the guidelines for releasing Touhou doujin games on Steam.<br />\r\n<br />\r\nOne day, a strange cup appeared in Gensokyo.<br />\r\nA big fight will occur in search of it!<br />\r\nSelect your favorite characters from over 50 characters, practice strategy, take command, aim for victory!<br />\r\nYou can choose the difficulty level, so you can enjoy it even for beginners or advanced players.<br />\r\n<br />\r\nYou can enjoy two scenarios &quot;Youkai&quot; and &quot;Human&quot;!<br />\r\n<br />\r\n(This game is a game created by Japanese people.<br />\r\nYou can play in English, but my translation may not be very good. )",
-  "short_description": "One day, a strange cup appeared in Gensokyo.<br />\r\nA big fight will occur in search of it!",
+  "short_description": "One day, a strange cup appeared in Gensokyo. A big fight will occur in search of it!",
   "supported_languages": "English, Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/785750/header.jpg?t=1517492536",
   "website": "http://thdx.disnoir.com/",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     237225
@@ -109,6 +111,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Feb, 2018"
@@ -117,5 +122,9 @@
     "url": "http://disfact.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/785750/page_bg_generated_v6b.jpg?t=1517492536"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/785750/page_bg_generated_v6b.jpg?t=1517492536",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

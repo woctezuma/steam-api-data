@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     191020
@@ -161,6 +163,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Aug, 2017"
@@ -169,5 +174,9 @@
     "url": "https://www.deadliners-game.com/",
     "email": "duelstudiosdk@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/671290/page_bg_generated_v6b.jpg?t=1517515976"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/671290/page_bg_generated_v6b.jpg?t=1517515976",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

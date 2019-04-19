@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     8446,
@@ -79,7 +81,7 @@
   },
   "metacritic": {
     "score": 70,
-    "url": "http://www.metacritic.com/game/pc/vertex-dispenser?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/vertex-dispenser?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -235,5 +237,9 @@
     "url": "",
     "email": "smestorp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/102400/page_bg_generated_v6b.jpg?t=1447354189"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/102400/page_bg_generated_v6b.jpg?t=1447354189",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

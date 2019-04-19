@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 229,
+    "final": 229,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,29\u20ac"
   },
   "packages": [
     101319
@@ -46,11 +48,11 @@
           "packageid": 101319,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Bug N Out - 2,99\u20ac",
+          "option_text": "Bug N Out - 2,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 229
         }
       ]
     }
@@ -150,6 +152,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 May, 2016"
@@ -158,5 +163,9 @@
     "url": "www.alternativesoftware.com",
     "email": "customersupport@alternativesoftware.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/463130/page_bg_generated_v6b.jpg?t=1510309361"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/463130/page_bg_generated_v6b.jpg?t=1510309361",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

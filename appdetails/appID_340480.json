@@ -26,10 +26,12 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    "57160"
+    57160
   ],
   "package_groups": [
     {
@@ -42,7 +44,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "57160",
+          "packageid": 57160,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Project Green Beat - 4,99\u20ac",
@@ -202,5 +204,9 @@
     "url": "https://www.facebook.com/ProjectGreenBeat",
     "email": "support@evertt.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340480/page_bg_generated_v6b.jpg?t=1455689442"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340480/page_bg_generated_v6b.jpg?t=1455689442",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

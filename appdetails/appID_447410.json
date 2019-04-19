@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     95652
@@ -114,6 +116,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/447410/ss_292fa06e5a585223e6fb94ba8e4db8d82c884dc7.1920x1080.jpg?t=1457665164"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Mar, 2016"
@@ -122,5 +127,9 @@
     "url": "http://polybridge.drycactus.com",
     "email": "support@drycactus.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447410/page_bg_generated_v6b.jpg?t=1457665164"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447410/page_bg_generated_v6b.jpg?t=1457665164",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

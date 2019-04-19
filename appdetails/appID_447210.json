@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     95576
@@ -63,6 +65,10 @@
     "windows": true,
     "mac": true,
     "linux": false
+  },
+  "metacritic": {
+    "score": 71,
+    "url": "https://www.metacritic.com/game/pc/blink?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -181,5 +187,9 @@
     "url": "",
     "email": "support@nextrealitygames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447210/page_bg_generated_v6b.jpg?t=1489175817"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447210/page_bg_generated_v6b.jpg?t=1489175817",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

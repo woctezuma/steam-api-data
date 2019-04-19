@@ -12,7 +12,7 @@
     "appid": "795100",
     "name": "Friday the 13th: Killer Puzzle"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese, Korean, Russian, Simplified Chinese, Swedish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese, Swedish<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/807630/header.jpg?t=1523591000",
   "website": "http://www.f13killerpuzzle.com",
   "pc_requirements": {
@@ -33,9 +33,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     246184
@@ -54,11 +56,11 @@
           "packageid": 246184,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Friday the 13th: Killer Puzzle - Flaming Jason - 0,99\u20ac",
+          "option_text": "Friday the 13th: Killer Puzzle - Flaming Jason - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -156,6 +158,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/807630/ss_b455d365994c4ad3b9092344b3e61fa851e73efe.1920x1080.jpg?t=1523591000"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Apr, 2018"
@@ -164,5 +169,12 @@
     "url": "http://www.bluewizard.com/support",
     "email": "support@bluewizard.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/807630/page_bg_generated_v6b.jpg?t=1523591000"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/807630/page_bg_generated_v6b.jpg?t=1523591000",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This utility is designed to create textures used in computer games.<br />\r\nConventional photos or images you can easily convert to maps diffusemap, normalmap, specularmap, illuminationmap, heightmap, glossmap , metallmap, ambient occlusion map .<br />\r\nThis utility can also mix different images in separately editable channels for obtaining excellent textures that you can use for your gaming projects and not only.<br />\r\nAt the moment there is a recommended limit on the size of the image in the map channel, this is 2048x2048 pixels.",
   "about_the_game": "This utility is designed to create textures used in computer games.<br />\r\nConventional photos or images you can easily convert to maps diffusemap, normalmap, specularmap, illuminationmap, heightmap, glossmap , metallmap, ambient occlusion map .<br />\r\nThis utility can also mix different images in separately editable channels for obtaining excellent textures that you can use for your gaming projects and not only.<br />\r\nAt the moment there is a recommended limit on the size of the image in the map channel, this is 2048x2048 pixels.",
-  "short_description": "This utility is designed to create textures used in computer games.<br />\r\nConventional photos or images you can easily convert to maps diffusemap, normalmap, specularmap, illuminationmap, heightmap, glossmap , metallmap, ambient occlusion map.<br />\r\nAt the moment there is a recommended limit on the size of the image in the map channel, this is 2048x2048 pixels.",
+  "short_description": "This utility is designed to create textures used in computer games. Conventional photos or images you can easily convert to maps diffusemap, normalmap, specularmap, illuminationmap, heightmap, glossmap , metallmap, ambient occlusion map.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/703300/header.jpg?t=1521321348",
   "website": "http://aurora-software.ru/index.php",
@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1099,
-    "final": 824,
-    "discount_percent": 25
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     202774
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 202774,
-          "percent_savings_text": "-25%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "NORMALIZATOR - <span class=\"discount_original_price\">10,99\u20ac</span> 8,24\u20ac",
+          "option_text": "NORMALIZATOR - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 824
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -165,5 +167,9 @@
     "url": "https://forum.game-guru.com/thread/216095/last",
     "email": "sdp.personal@rambler.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/703300/page_bg_generated_v6b.jpg?t=1521321348"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/703300/page_bg_generated_v6b.jpg?t=1521321348",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

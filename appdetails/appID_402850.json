@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 50,
-    "discount_percent": 49
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     78716
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 78716,
-          "percent_savings_text": "-49%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Miner Mayhem - <span class=\"discount_original_price\">0,99\u20ac</span> 0,50\u20ac",
+          "option_text": "Miner Mayhem - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 50
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -170,8 +172,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 106
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -181,5 +183,9 @@
     "url": "http://www.playanarchygames.com",
     "email": "support@anarchyent.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/402850/page_bg_generated_v6b.jpg?t=1483582752"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/402850/page_bg_generated_v6b.jpg?t=1483582752",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

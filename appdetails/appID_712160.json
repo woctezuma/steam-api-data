@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     206008
@@ -117,5 +119,9 @@
     "url": "",
     "email": "support@yumecreations.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/712160/page_bg_generated_v6b.jpg?t=1505121091"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/712160/page_bg_generated_v6b.jpg?t=1505121091",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

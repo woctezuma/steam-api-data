@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     52676,
@@ -144,7 +146,10 @@
     }
   ],
   "recommendations": {
-    "total": 116
+    "total": 114
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -154,5 +159,9 @@
     "url": "",
     "email": "daniel@nightdivestudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/327930/page_bg_generated_v6b.jpg?t=1466812242"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/327930/page_bg_generated_v6b.jpg?t=1466812242",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

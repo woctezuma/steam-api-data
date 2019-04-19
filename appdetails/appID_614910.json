@@ -10,7 +10,7 @@
   "detailed_description": "<h1>Steam Inventory</h1><p>Play game and receive sticker packs. Open packs and get stickers. Use stickers on the game board, trade, sell or use them in your showcases!</p><br><h1>About the Game</h1>Pretty simple game combination between 2048 and match-3 settings with awesome monster cakes. Put your monster cake in the good hole and combine them together to get higher monster cake. Combine them as high as you can and be on the top of the leaderboard!<br><br>Contact e-mail: <u>contact@palenogames.ru</u>",
   "about_the_game": "Pretty simple game combination between 2048 and match-3 settings with awesome monster cakes. Put your monster cake in the good hole and combine them together to get higher monster cake. Combine them as high as you can and be on the top of the leaderboard!<br><br>Contact e-mail: <u>contact@palenogames.ru</u>",
   "short_description": "Pretty simple game combination between 2048 and match-3 settings with awesome monster cakes. Put your monster cake in the good hole and combine them together to get higher monster cake. Combine them as high as you can and be on the top of the leaderboard!",
-  "supported_languages": "English, French, Italian, German, Spanish, Russian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/614910/header.jpg?t=1515955042",
   "website": null,
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     164808
@@ -143,7 +145,7 @@
     }
   ],
   "recommendations": {
-    "total": 329
+    "total": 349
   },
   "achievements": {
     "total": 118,
@@ -198,5 +200,9 @@
     "url": "http://palenogames.ru",
     "email": "contact@palenogames.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/614910/page_bg_generated_v6b.jpg?t=1515955042"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/614910/page_bg_generated_v6b.jpg?t=1515955042",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

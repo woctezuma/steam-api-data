@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     167328
@@ -134,7 +136,10 @@
     }
   ],
   "recommendations": {
-    "total": 215
+    "total": 137
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -144,5 +149,9 @@
     "url": "",
     "email": "support@eviltortillagames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/622040/page_bg_generated_v6b.jpg?t=1508622533"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/622040/page_bg_generated_v6b.jpg?t=1508622533",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

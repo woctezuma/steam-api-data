@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     206170,
@@ -129,6 +131,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Oct, 2017"
@@ -137,5 +142,9 @@
     "url": "http://tabo.ga",
     "email": "luca@tabo.ga"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/712610/page_bg_generated_v6b.jpg?t=1507725529"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/712610/page_bg_generated_v6b.jpg?t=1507725529",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -34,10 +34,12 @@
     "currency": "EUR",
     "initial": 4599,
     "final": 4599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "45,99\u20ac"
   },
   "packages": [
-    "40221"
+    40221
   ],
   "package_groups": [
     {
@@ -50,7 +52,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "40221",
+          "packageid": 40221,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Deckadance 2 - 45,99\u20ac",
@@ -127,6 +129,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jul, 2016"
@@ -135,5 +140,9 @@
     "url": "http://forum.gibson.com/index.php?/forum/154-deckadance2/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/288420/page_bg_generated_v6b.jpg?t=1511593948"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/288420/page_bg_generated_v6b.jpg?t=1511593948",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

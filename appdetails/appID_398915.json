@@ -12,7 +12,7 @@
     "appid": "290340",
     "name": "Armello"
   },
-  "supported_languages": "English<strong>*</strong>, Italian, Spanish, Dutch, Japanese, Korean, Polish, Portuguese-Brazil, Russian, French, German, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, Italian, Spanish - Spain, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Russian, French, German, Simplified Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/398915/header.jpg?t=1479456638",
   "website": "http://www.armello.com",
   "pc_requirements": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     77152
@@ -170,6 +172,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Nov, 2016"
@@ -178,5 +183,9 @@
     "url": "",
     "email": "admin@leagueofgeeks.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/398915/page_bg_generated_v6b.jpg?t=1479456638"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/398915/page_bg_generated_v6b.jpg?t=1479456638",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

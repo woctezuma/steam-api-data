@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1099,
     "final": 1099,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,99\u20ac"
   },
   "packages": [
     50302
@@ -136,6 +138,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Jul, 2017"
@@ -144,5 +149,9 @@
     "url": "http://dovetailgames.kayako.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/321460/page_bg_generated_v6b.jpg?t=1501066756"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/321460/page_bg_generated_v6b.jpg?t=1501066756",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

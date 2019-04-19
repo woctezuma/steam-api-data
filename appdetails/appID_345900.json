@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "Download the <strong>Yamaha 2015 Bike Models</strong> DLC Pack to receive the most desired bikes of 2015.<br><br>The DLC contains the apex of Yamaha technology in 2015, featuring: the new generation <strong>YZF-R1</strong> created without compromises, that offers amazing performances, unprecedented control and technology that comes directly from the MotoGP\u2122; the <strong>YZF-R1M</strong>, a limited edition developed for professional teams and expert riders that seek the most evolved performances on track and during races; and the <strong>R6</strong>, forged on the international racing circuits, utilizing technology derived from MotoGP\u2122 and developed to guarantee exceptional performance worthy of a real professional rider.<br><br><strong>Yamaha R1 2015:</strong><br><br>\u2022\tDisplacement: 998cc<br>\u2022\tMaximum power: 147.1 kW (200.0 CV) @ 13.500 rpm<br>\u2022\tMaximum torque: 112.4 Nm (11.5 kg-m) @ 11.500 rpm<br>\u2022\tWet weight (including full oil and fuel tank): 199 Kg<br> <br><strong>Yamaha R1M 2015:</strong><br><br>\u2022\tDisplacement: 998cc<br>\u2022\tMaximum power: 147.1 kW (200.0 CV) @ 13.500 rpm<br>\u2022\tMaximum torque: 112.4 Nm (11.5 kg-m) @ 11.500 rpm<br>\u2022\tWet weight (including full oil and fuel tank): 200 Kg<br> <br><strong>Yamaha R6 2015:</strong><br><br>\u2022\tDisplacement: 599 cc<br>\u2022\tMaximum power: 91.0 kW (123.7 CV) @ 14.500 rpm<br>\u2022\tMaximum torque: 65.7 Nm (6.7 kg-m) @ 10.500 rpm<br>\u2022\tWet weight (including full oil and fuel tank): 189 Kg",
   "about_the_game": "Download the <strong>Yamaha 2015 Bike Models</strong> DLC Pack to receive the most desired bikes of 2015.<br><br>The DLC contains the apex of Yamaha technology in 2015, featuring: the new generation <strong>YZF-R1</strong> created without compromises, that offers amazing performances, unprecedented control and technology that comes directly from the MotoGP\u2122; the <strong>YZF-R1M</strong>, a limited edition developed for professional teams and expert riders that seek the most evolved performances on track and during races; and the <strong>R6</strong>, forged on the international racing circuits, utilizing technology derived from MotoGP\u2122 and developed to guarantee exceptional performance worthy of a real professional rider.<br><br><strong>Yamaha R1 2015:</strong><br><br>\u2022\tDisplacement: 998cc<br>\u2022\tMaximum power: 147.1 kW (200.0 CV) @ 13.500 rpm<br>\u2022\tMaximum torque: 112.4 Nm (11.5 kg-m) @ 11.500 rpm<br>\u2022\tWet weight (including full oil and fuel tank): 199 Kg<br> <br><strong>Yamaha R1M 2015:</strong><br><br>\u2022\tDisplacement: 998cc<br>\u2022\tMaximum power: 147.1 kW (200.0 CV) @ 13.500 rpm<br>\u2022\tMaximum torque: 112.4 Nm (11.5 kg-m) @ 11.500 rpm<br>\u2022\tWet weight (including full oil and fuel tank): 200 Kg<br> <br><strong>Yamaha R6 2015:</strong><br><br>\u2022\tDisplacement: 599 cc<br>\u2022\tMaximum power: 91.0 kW (123.7 CV) @ 14.500 rpm<br>\u2022\tMaximum torque: 65.7 Nm (6.7 kg-m) @ 10.500 rpm<br>\u2022\tWet weight (including full oil and fuel tank): 189 Kg",
-  "short_description": "Download the <strong>Yamaha 2015 Bike Models</strong> DLC Pack to receive the most desired bikes of 2015.",
+  "short_description": "Download the Yamaha 2015 Bike Models DLC Pack to receive the most desired bikes of 2015.",
   "fullgame": {
     "appid": "345660",
     "name": "RIDE"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Polish<strong>*</strong>, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong>, Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/345900/header.jpg?t=1489749652",
   "website": "http://ridevideogame.com/",
   "pc_requirements": {
@@ -31,10 +31,12 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
-    "59244"
+    59244
   ],
   "package_groups": [
     {
@@ -47,7 +49,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "59244",
+          "packageid": 59244,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Ride: Yamaha 2015 Bike Models - 3,99\u20ac",
@@ -152,6 +154,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Feb, 2015"
@@ -160,5 +165,9 @@
     "url": "http://milestone.it/contacts/support/?lang=en",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/345900/page_bg_generated_v6b.jpg?t=1489749652"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/345900/page_bg_generated_v6b.jpg?t=1489749652",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

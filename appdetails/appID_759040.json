@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Planet Guardian VR is an <strong>Action room-scale VR game</strong> in which you protect planets from very bad incoming asteroids. <br>To fulfill your mission you need to use your controllers as weapons to destroy the asteroids. Each level brings a new challenge, be it by the speed, matter or placement of the asteroids. Beware behind you, there might be a hidden asteroid!",
   "about_the_game": "Planet Guardian VR is an <strong>Action room-scale VR game</strong> in which you protect planets from very bad incoming asteroids. <br>To fulfill your mission you need to use your controllers as weapons to destroy the asteroids. Each level brings a new challenge, be it by the speed, matter or placement of the asteroids. Beware behind you, there might be a hidden asteroid!",
-  "short_description": "Planet Guardian VR is an <strong>action room-scale VR game</strong> in which you play to protect planets from incoming asteroids. <br>To fulfill your mission you need to use your controllers as weapons to destroy the asteroids. Each level brings a new challenge, be it by the speed, matter or placement of the asteroids.",
+  "short_description": "Planet Guardian VR is an action room-scale VR game in which you play to protect planets from incoming asteroids. To fulfill your mission you need to use your controllers as weapons to destroy the asteroids. Each level brings a new challenge, be it by the speed, matter or placement of the asteroids.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/759040/header.jpg?t=1517134470",
   "website": "http://www.planetguardianvr.com",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     224013
@@ -113,6 +115,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Jan, 2018"
@@ -121,5 +126,9 @@
     "url": "http://www.planetguardianvr.com",
     "email": "oenvoyage@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/759040/page_bg_generated_v6b.jpg?t=1517134470"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/759040/page_bg_generated_v6b.jpg?t=1517134470",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

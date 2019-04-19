@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Unlocks all current and future levels in Box Maze 2.<br />\r\n(Playing the game will unlock each level as you complete it, this DLC does not unlock additional content, it allows the player to choose levels without needing to unlock them first)",
   "about_the_game": "Unlocks all current and future levels in Box Maze 2.<br />\r\n(Playing the game will unlock each level as you complete it, this DLC does not unlock additional content, it allows the player to choose levels without needing to unlock them first)",
-  "short_description": "Unlocks all current and future levels in Box Maze 2.<br />\r\n(Playing the game will unlock each level as you complete it, this DLC does not unlock additional content, it allows the player to choose levels without needing to unlock them first)",
+  "short_description": "Unlocks all current and future levels in Box Maze 2. (Playing the game will unlock each level as you complete it, this DLC does not unlock additional content, it allows the player to choose levels without needing to unlock them...",
   "fullgame": {
     "appid": "682630",
     "name": "Box Maze 2 : Agent Cubert"
@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     206743
@@ -49,11 +51,11 @@
           "packageid": 206743,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Box Maze 2 - Unlock All Levels - 0,99\u20ac",
+          "option_text": "Box Maze 2 - Unlock All Levels - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -126,5 +128,9 @@
     "url": "http://steamcommunity.com/groups/gamershype",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/714320/page_bg_generated_v6b.jpg?t=1507058752"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/714320/page_bg_generated_v6b.jpg?t=1507058752",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

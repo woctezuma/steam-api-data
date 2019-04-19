@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     97827
@@ -127,7 +129,7 @@
     }
   ],
   "recommendations": {
-    "total": 648
+    "total": 528
   },
   "achievements": {
     "total": 12,
@@ -182,5 +184,9 @@
     "url": "http://www.datenighto.com/faq",
     "email": "support@datenighto.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/453340/page_bg_generated_v6b.jpg?t=1458155166"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/453340/page_bg_generated_v6b.jpg?t=1458155166",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

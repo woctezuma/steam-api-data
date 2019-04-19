@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1299,
-    "final": 1299,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     168743
@@ -44,11 +46,11 @@
           "packageid": 168743,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Building Blocks / Master Builder of Egypt - 12,99\u20ac",
+          "option_text": "Building Blocks / Master Builder of Egypt - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1299
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -236,6 +238,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Dec, 2017"
@@ -244,5 +249,9 @@
     "url": "http://guniastudios.com",
     "email": "support@guniastudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/625220/page_bg_generated_v6b.jpg?t=1512352525"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/625220/page_bg_generated_v6b.jpg?t=1512352525",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     216948
@@ -147,6 +149,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Dec, 2017"
@@ -155,5 +160,9 @@
     "url": "",
     "email": "technicallycompetent@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740730/page_bg_generated_v6b.jpg?t=1514435158"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740730/page_bg_generated_v6b.jpg?t=1514435158",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

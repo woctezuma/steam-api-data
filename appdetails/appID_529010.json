@@ -12,7 +12,7 @@
     "name": "Negligee"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/529010/header.jpg?t=1498113138",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/529010/header.jpg?t=1536864548",
   "website": "http://www.dharkerstudio.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX compatible card<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 79,
     "final": 79,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     127183
@@ -83,10 +85,6 @@
   ],
   "genres": [
     {
-      "id": "72",
-      "description": "Nudity"
-    },
-    {
       "id": "25",
       "description": "Adventure"
     },
@@ -102,20 +100,23 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/529010/ss_9773d4fd636a2662cc9cc3c0f30a1f483033bf27.600x338.jpg?t=1498113138",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/529010/ss_9773d4fd636a2662cc9cc3c0f30a1f483033bf27.1920x1080.jpg?t=1498113138"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/529010/ss_9773d4fd636a2662cc9cc3c0f30a1f483033bf27.600x338.jpg?t=1536864548",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/529010/ss_9773d4fd636a2662cc9cc3c0f30a1f483033bf27.1920x1080.jpg?t=1536864548"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/529010/ss_7185d84708b741cff40a82c1aaf04905bddc797a.600x338.jpg?t=1498113138",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/529010/ss_7185d84708b741cff40a82c1aaf04905bddc797a.1920x1080.jpg?t=1498113138"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/529010/ss_7185d84708b741cff40a82c1aaf04905bddc797a.600x338.jpg?t=1536864548",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/529010/ss_7185d84708b741cff40a82c1aaf04905bddc797a.1920x1080.jpg?t=1536864548"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/529010/ss_4eab06478bf4725fbf0e253e5f978eeb03b813d0.600x338.jpg?t=1498113138",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/529010/ss_4eab06478bf4725fbf0e253e5f978eeb03b813d0.1920x1080.jpg?t=1498113138"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/529010/ss_4eab06478bf4725fbf0e253e5f978eeb03b813d0.600x338.jpg?t=1536864548",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/529010/ss_4eab06478bf4725fbf0e253e5f978eeb03b813d0.1920x1080.jpg?t=1536864548"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Oct, 2016"
@@ -124,5 +125,12 @@
     "url": "http://www.DharkerStudio.com",
     "email": "admin@dharkerstudio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/529010/page_bg_generated_v6b.jpg?t=1498113138"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/529010/page_bg_generated_v6b.jpg?t=1536864548",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

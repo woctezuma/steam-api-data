@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 399,
-    "final": 259,
-    "discount_percent": 35
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     197024
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 197024,
-          "percent_savings_text": "-35%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "unWorded - <span class=\"discount_original_price\">3,99\u20ac</span> 2,59\u20ac",
+          "option_text": "unWorded - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 259
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -120,6 +122,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Oct, 2017"
@@ -128,5 +133,9 @@
     "url": "http://www.bento-studio.com/locations/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/687900/page_bg_generated_v6b.jpg?t=1507647958"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/687900/page_bg_generated_v6b.jpg?t=1507647958",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

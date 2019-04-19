@@ -20,10 +20,10 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/480640/header.jpg?t=1520624084",
   "website": "http://pathfinder.obsidian.net/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/Windows 8/Windows 10<br></li><li><strong>Processor:</strong> 2GHz CPU<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512MB VRAM GPU<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c compatible sound card</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e\u914d\u5099:</strong><br><ul class=\"bb_ul\"><li><strong>\u4f5c\u696d\u7cfb\u7d71:</strong> Windows 7/Windows 8/Windows 10<br></li><li><strong>\u8655\u7406\u5668:</strong> 2GHz CPU<br></li><li><strong>\u8a18\u61b6\u9ad4:</strong> 2 GB \u8a18\u61b6\u9ad4<br></li><li><strong>\u986f\u793a\u5361:</strong> 512MB VRAM GPU<br></li><li><strong>DirectX:</strong> \u7248\u672c\uff1a9.0c<br></li><li><strong>\u5132\u5b58\u7a7a\u9593:</strong> 4 GB \u53ef\u7528\u7a7a\u9593<br></li><li><strong>\u97f3\u6548\u5361:</strong> DirectX 9.0c compatible sound card</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.5 or higher<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e\u914d\u5099:</strong><br><ul class=\"bb_ul\"><li><strong>\u4f5c\u696d\u7cfb\u7d71:</strong> OS X 10.5 or higher<br></li><li><strong>\u8655\u7406\u5668:</strong> Intel Core i3<br></li><li><strong>\u8a18\u61b6\u9ad4:</strong> 2 GB \u8a18\u61b6\u9ad4<br></li><li><strong>\u5132\u5b58\u7a7a\u9593:</strong> 4 GB \u53ef\u7528\u7a7a\u9593</li></ul>"
   },
   "linux_requirements": [],
   "legal_notice": "\u00a9 2014-2016 Obsidian Entertainment, Inc. Obsidian and the Obsidian Entertainment logo are registered trademarks of Obsidian Entertainment, Inc. \u00a9 2014-2016 Paizo Inc. Paizo, the Paizo golem logo, and Pathfinder are registered trademarks of Paizo Inc. Pathfinder Adventure Card Game, Pathfinder Roleplaying Game, and Rise of the Runelords are trademarks of Paizo Inc. All Rights Reserved.",
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     107593,
@@ -67,11 +69,11 @@
           "packageid": 183463,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Pathfinder Adventures - Obsidian Edition - 22,99\u20ac",
+          "option_text": "Pathfinder Adventures - Obsidian Edition - 24,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2299
+          "price_in_cents_with_discount": 2499
         }
       ]
     }
@@ -163,7 +165,7 @@
     }
   ],
   "recommendations": {
-    "total": 298
+    "total": 364
   },
   "achievements": {
     "total": 16,
@@ -218,5 +220,9 @@
     "url": "http://forums.obsidian.net/forum/116-pathfinder-adventures-technical-support-spoiler-warning/",
     "email": "support@obsidian.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/480640/page_bg_generated_v6b.jpg?t=1520624084"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/480640/page_bg_generated_v6b.jpg?t=1520624084",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

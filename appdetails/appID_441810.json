@@ -12,7 +12,7 @@
     "name": "Uninitialized"
   },
   "supported_languages": "English, Russian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/441810/header.jpg?t=1460832358",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/441810/header.jpg?t=1548825601",
   "website": "http://www.playnebula.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP Service Pack 2 / Vista / 7 / 8<br></li><li><strong>Processor:</strong> Intel Dual Core @ 2.0 GHz, AMD Dual Core @ 2.0 GHz<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong> GPU with 256 MB VRAM or more that supports Shader Model 3 and DirectX 9.0c (AMD Radeon 2600 XT or NVIDIA GeForce 8600 GTS)<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> Supports SSE, Direct Sound compatible</li></ul>",
@@ -33,38 +33,7 @@
   "publishers": [
     "OtakuMaker.com"
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
-  },
-  "packages": [
-    93598
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy Nebula Online - (Game + OST)",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 93598,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Nebula Online - Soundtrack - 4,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 499
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -109,10 +78,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/441810/ss_db145020858adb2c7bd9d82f1c878ceb6f21d73c.600x338.jpg?t=1460832358",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/441810/ss_db145020858adb2c7bd9d82f1c878ceb6f21d73c.1920x1080.jpg?t=1460832358"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/441810/ss_db145020858adb2c7bd9d82f1c878ceb6f21d73c.600x338.jpg?t=1548825601",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/441810/ss_db145020858adb2c7bd9d82f1c878ceb6f21d73c.1920x1080.jpg?t=1548825601"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Feb, 2016"
@@ -121,5 +93,9 @@
     "url": "http://www.playnebula.com/",
     "email": "contact@mizargames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/441810/page_bg_generated_v6b.jpg?t=1460832358"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/441810/page_bg_generated_v6b.jpg?t=1548825601",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

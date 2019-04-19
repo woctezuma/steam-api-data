@@ -7,8 +7,8 @@
   "controller_support": "full",
   "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/758700/extras/2342.jpg?t=1513360822\" ><br>*<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/758700/extras/435534.jpg?t=1513360822\" >",
   "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/758700/extras/2342.jpg?t=1513360822\" ><br>*<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/758700/extras/435534.jpg?t=1513360822\" >",
-  "short_description": "This is going to be a fun one for anybody who likes a challenge, scratch that - for anybody who likes to die over and over and over again!... <br />\r\nInspired purely from &quot;I wanna be the guy&quot; the game is going to be an incredibly difficult plat former which will require immense focus and timing.",
-  "supported_languages": "English<strong>*</strong>, Spanish, Arabic, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "short_description": "This is going to be a fun one for anybody who likes a challenge, scratch that - for anybody who likes to die over and over and over again!... Inspired purely from &quot;I wanna be the guy&quot; the game is going to be an incredibly difficult plat former which will require immense focus and timing.",
+  "supported_languages": "English<strong>*</strong>, Spanish - Spain, Arabic, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/758700/header.jpg?t=1513360822",
   "website": null,
   "pc_requirements": {
@@ -26,12 +26,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
-    223866
+    223866,
+    336316
   ],
   "package_groups": [
     {
@@ -47,7 +50,17 @@
           "packageid": 223866,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Half Past Impossible - 3,99\u20ac",
+          "option_text": "Half Past Impossible - 3,29\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 329
+        },
+        {
+          "packageid": 336316,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Half Past Impossible - Commercial License - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -304,5 +317,9 @@
     "url": "https://www.facebook.com/StarSystemStudiosTM/",
     "email": "starsystemstudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/758700/page_bg_generated_v6b.jpg?t=1513360822"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/758700/page_bg_generated_v6b.jpg?t=1513360822",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     193025
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Aug, 2017"
@@ -127,5 +132,9 @@
     "url": "https://www.playcademy.com/?download=farmington-tales",
     "email": "info@mad-data.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/677220/page_bg_generated_v6b.jpg?t=1502439006"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/677220/page_bg_generated_v6b.jpg?t=1502439006",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

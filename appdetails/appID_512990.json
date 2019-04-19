@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     119455
@@ -164,5 +166,9 @@
     "url": "",
     "email": "support@toucan-studio.co"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512990/page_bg_generated_v6b.jpg?t=1470778063"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512990/page_bg_generated_v6b.jpg?t=1470778063",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

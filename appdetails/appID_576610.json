@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 159,
     "final": 159,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     146992
@@ -110,6 +112,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/576610/ss_5c179de7db6370a41c6b1416afd9e1100aa914a4.1920x1080.jpg?t=1515421274"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Sep, 2017"
@@ -118,5 +123,12 @@
     "url": "http://Dharker.Studio",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576610/page_bg_generated_v6b.jpg?t=1515421274"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576610/page_bg_generated_v6b.jpg?t=1515421274",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     131471
@@ -154,7 +156,7 @@
     }
   ],
   "recommendations": {
-    "total": 1283
+    "total": 1357
   },
   "achievements": {
     "total": 15,
@@ -209,5 +211,9 @@
     "url": "https://twitter.com/owletplay",
     "email": "owletplay@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/538100/page_bg_generated_v6b.jpg?t=1513508624"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/538100/page_bg_generated_v6b.jpg?t=1513508624",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

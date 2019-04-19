@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     77933
@@ -146,5 +148,9 @@
     "url": "http://mcdroid.uservoice.com/",
     "email": "support@elefantopia.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/400950/page_bg_generated_v6b.jpg?t=1508287168"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/400950/page_bg_generated_v6b.jpg?t=1508287168",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

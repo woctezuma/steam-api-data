@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "A set of stylish premium pirate items that includes a hat, boots, trousers, a pistol and a special ring to increase the rate in which the player accumulates experience by 5%.  These items will be part of the player's inventory right from the beginning of the game.",
   "about_the_game": "A set of stylish premium pirate items that includes a hat, boots, trousers, a pistol and a special ring to increase the rate in which the player accumulates experience by 5%.  These items will be part of the player's inventory right from the beginning of the game.",
-  "short_description": "",
+  "short_description": "A set of stylish premium pirate items that includes a hat, boots, trousers, a pistol and a special ring to increase the rate in which the player accumulates experience by 5%. These items will be part of the player's inventory right from the beginning of the game.",
   "fullgame": {
     "appid": "40390",
     "name": "Risen 2: Dark Waters"
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     14436,
@@ -98,6 +100,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/40391/ss_0f66a0b5ba3f7fe60f6ffd7595620693b2d55162.1920x1080.jpg?t=1479286741"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Apr, 2012"
@@ -106,5 +111,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/40391/page_bg_generated_v6b.jpg?t=1479286741"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/40391/page_bg_generated_v6b.jpg?t=1479286741",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

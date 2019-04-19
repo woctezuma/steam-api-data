@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1099,
-    "final": 1099,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 39,
+    "discount_percent": 88,
+    "initial_formatted": "3,29\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     191801
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 191801,
-          "percent_savings_text": "",
+          "percent_savings_text": "-88%",
           "percent_savings": 0,
-          "option_text": "Cats Tanks - 10,99\u20ac",
+          "option_text": "Cats Tanks - <span class=\"discount_original_price\">3,29\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1099
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -176,5 +178,9 @@
     "url": "",
     "email": "oblomysh@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/673770/page_bg_generated_v6b.jpg?t=1520017232"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/673770/page_bg_generated_v6b.jpg?t=1520017232",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

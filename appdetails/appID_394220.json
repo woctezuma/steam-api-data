@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     75610
@@ -141,9 +143,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 117
-  },
   "achievements": {
     "total": 10,
     "highlighted": [
@@ -197,5 +196,9 @@
     "url": "http://www.pixeljam.com",
     "email": "pixeljamgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/394220/page_bg_generated_v6b.jpg?t=1449080951"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/394220/page_bg_generated_v6b.jpg?t=1449080951",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

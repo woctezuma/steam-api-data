@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "You have been injected into the BattleGrid.<br />\r\n<br />\r\nBitShift is a 4-on-4 multiplayer gaming experience where VR &quot;Runners&quot; compete directly with desktop &quot;Drones&quot; in a battle to control the data from AntiCorp.<br />\r\n<br />\r\nPC vs. VR<br />\r\nDrones vs. Runners<br />\r\nAir vs. Ground<br />\r\nHackers vs. Security<br />\r\nWhite Hat vs. Black Hat<br />\r\nMass Hysteria!<br />\r\n<br />\r\nVR &quot;Runners&quot; have a multitude of weapons and teleportation abilities. <br />\r\n<br />\r\nVR Weapons:<br />\r\nHyper Katana<br />\r\nDigital Rapier<br />\r\nPower Axe<br />\r\nGyro Glaive (ranged)<br />\r\n<br />\r\nTeleportation Types:<br />\r\nRepeater<br />\r\nInterupter<br />\r\nCharger<br />\r\nUltra Jump<br />\r\n<br />\r\nDesktop &quot;Drones&quot; have speed, flight and/or ranged weaponry on their side.<br />\r\nDrone Types:<br />\r\nTricopter with hover<br />\r\nJet with auto-targeter<br />\r\nMoto with blaster and artillery<br />\r\nTank with artillery<br />\r\n<br />\r\nCo-op or competitive game modes including &quot;Hack the Data&quot;, &quot;Plant The Virus&quot;.<br />\r\n&quot;Denial&quot; and &quot;Swarm&quot; Game modes coming soon!",
   "about_the_game": "You have been injected into the BattleGrid.<br />\r\n<br />\r\nBitShift is a 4-on-4 multiplayer gaming experience where VR &quot;Runners&quot; compete directly with desktop &quot;Drones&quot; in a battle to control the data from AntiCorp.<br />\r\n<br />\r\nPC vs. VR<br />\r\nDrones vs. Runners<br />\r\nAir vs. Ground<br />\r\nHackers vs. Security<br />\r\nWhite Hat vs. Black Hat<br />\r\nMass Hysteria!<br />\r\n<br />\r\nVR &quot;Runners&quot; have a multitude of weapons and teleportation abilities. <br />\r\n<br />\r\nVR Weapons:<br />\r\nHyper Katana<br />\r\nDigital Rapier<br />\r\nPower Axe<br />\r\nGyro Glaive (ranged)<br />\r\n<br />\r\nTeleportation Types:<br />\r\nRepeater<br />\r\nInterupter<br />\r\nCharger<br />\r\nUltra Jump<br />\r\n<br />\r\nDesktop &quot;Drones&quot; have speed, flight and/or ranged weaponry on their side.<br />\r\nDrone Types:<br />\r\nTricopter with hover<br />\r\nJet with auto-targeter<br />\r\nMoto with blaster and artillery<br />\r\nTank with artillery<br />\r\n<br />\r\nCo-op or competitive game modes including &quot;Hack the Data&quot;, &quot;Plant The Virus&quot;.<br />\r\n&quot;Denial&quot; and &quot;Swarm&quot; Game modes coming soon!",
-  "short_description": "You have been injected into the BattleGrid.<br />\r\n<br />\r\nBitShift is a 4-on-4 multiplayer gaming experience where VR gamers compete directly with desktop gamers in a battle to control the data from AntiCorp.<br />\r\n<br />\r\nPC vs. VR. Drones vs. Runners. Air vs. Ground. Hackers vs. Security. White Hat vs. Black Hat. Mass Hysteria!",
+  "short_description": "You have been injected into the BattleGrid. BitShift is a 4-on-4 multiplayer gaming experience where VR gamers compete directly with desktop gamers in a battle to control the data from AntiCorp. PC vs. VR. Drones vs. Runners. Air vs. Ground. Hackers vs. Security. White Hat vs. Black Hat. Mass Hysteria!",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/466290/header.jpg?t=1475090117",
   "website": "http://www.animateobjects.net/BitShiftBattleGrid",
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     102449
@@ -236,5 +238,9 @@
     "url": "http://www.animateobjects.net/BitShiftBattleGrid/",
     "email": "support@animateobjects.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466290/page_bg_generated_v6b.jpg?t=1475090117"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466290/page_bg_generated_v6b.jpg?t=1475090117",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

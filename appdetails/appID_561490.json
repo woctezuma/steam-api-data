@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     140853
@@ -121,6 +123,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Dec, 2016"
@@ -129,5 +134,9 @@
     "url": "https://cerevrum.com/houseofmeditation/",
     "email": "support@cerevrum.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/561490/page_bg_generated_v6b.jpg?t=1487588265"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/561490/page_bg_generated_v6b.jpg?t=1487588265",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

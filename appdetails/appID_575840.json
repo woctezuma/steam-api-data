@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 79,
-    "discount_percent": 60
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     146750
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 146750,
-          "percent_savings_text": "-60%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "NeverEnd - <span class=\"discount_original_price\">1,99\u20ac</span> 0,79\u20ac",
+          "option_text": "NeverEnd - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 79
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -227,5 +229,9 @@
     "url": "",
     "email": "ducksdevs@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/575840/page_bg_generated_v6b.jpg?t=1501496848"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/575840/page_bg_generated_v6b.jpg?t=1501496848",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

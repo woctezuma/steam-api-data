@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     65106
@@ -94,6 +96,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362700/ss_6b734d1d6589bee025cf026df3f19d8c5b11fedf.1920x1080.jpg?t=1447372493"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Apr, 2015"
@@ -102,5 +107,9 @@
     "url": "http://the-next-penelope.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/362700/page_bg_generated_v6b.jpg?t=1447372493"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/362700/page_bg_generated_v6b.jpg?t=1447372493",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

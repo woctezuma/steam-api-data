@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "\u201cRegular Army Pack\u201d Vol.2<br />\r\n<br />\r\nUnits belonging to the Regular Army are included in this \u201cVol.2\u201d Pack. <br />\r\n<br />\r\nThis pack includes the following content.<br />\r\n<br />\r\n\u30fbTREVOR<br />\r\n\u30fbNADIA<br />\r\n\u30fbBRADLEY<br />\r\n\u30fbMETAL CLAW<br />\r\n\u30fbAUGENSTERM<br />\r\n\u30fbPROTOGUNNER<br />\r\n\u30fbDONKEY SLUG<br />\r\n\u30fbTREVOR(MONKEY)<br />\r\n\u30fbNADIA(MONKEY)<br />\r\n\u30fbUTAN",
   "about_the_game": "\u201cRegular Army Pack\u201d Vol.2<br />\r\n<br />\r\nUnits belonging to the Regular Army are included in this \u201cVol.2\u201d Pack. <br />\r\n<br />\r\nThis pack includes the following content.<br />\r\n<br />\r\n\u30fbTREVOR<br />\r\n\u30fbNADIA<br />\r\n\u30fbBRADLEY<br />\r\n\u30fbMETAL CLAW<br />\r\n\u30fbAUGENSTERM<br />\r\n\u30fbPROTOGUNNER<br />\r\n\u30fbDONKEY SLUG<br />\r\n\u30fbTREVOR(MONKEY)<br />\r\n\u30fbNADIA(MONKEY)<br />\r\n\u30fbUTAN",
-  "short_description": "\u201cRegular Army Pack\u201d Vol.2<br />\r\n<br />\r\nUnits belonging to the Regular Army are included in this \u201cVol.2\u201d Pack.",
+  "short_description": "\u201cRegular Army Pack\u201d Vol.2 Units belonging to the Regular Army are included in this \u201cVol.2\u201d Pack.",
   "fullgame": {
     "appid": "356310",
     "name": "METAL SLUG DEFENSE"
   },
-  "supported_languages": "Japanese, English<strong>*</strong>, French, Italian, Spanish, Korean, Portuguese-Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "Japanese, English<strong>*</strong>, French, Italian, Spanish - Spain, Korean, Portuguese - Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/362570/header.jpg?t=1447372449",
   "website": "http://store.steampowered.com/app/362570/",
   "pc_requirements": {
@@ -32,10 +32,12 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    "65071",
+    65071,
     68200
   ],
   "package_groups": [
@@ -49,7 +51,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "65071",
+          "packageid": 65071,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "METAL SLUG DEFENSE - \u201cRegular Army Pack\u201d Vol.2 - 4,99\u20ac",
@@ -137,6 +139,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362570/ss_f16e16d22c4640387d2398ceac967b0199417440.1920x1080.jpg?t=1447372449"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Apr, 2015"
@@ -145,5 +150,9 @@
     "url": "http://www.snkplaymore.co.jp/us/",
     "email": "info_steam@snkplaymore.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/362570/page_bg_generated_v6b.jpg?t=1447372449"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/362570/page_bg_generated_v6b.jpg?t=1447372449",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

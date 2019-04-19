@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Hit your enemies where they least expect it with the most notorious piece of alien technology in the galaxy: the Rectifier!",
   "about_the_game": "Hit your enemies where they least expect it with the most notorious piece of alien technology in the galaxy: the Rectifier!",
-  "short_description": "",
+  "short_description": "Hit your enemies where they least expect it with the most notorious piece of alien technology in the galaxy: the Rectifier!",
   "fullgame": {
     "appid": "206420",
     "name": "Saints Row IV"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese, Polish, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Polish, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/238303/header.jpg?t=1479290867",
   "website": "http://www.saintsrow.com",
   "pc_requirements": {
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     36111,
@@ -157,8 +159,8 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/238303/ss_5d4604b94a1f20bac26f9b5cf262666e5a757d41.1920x1080.jpg?t=1479290867"
     }
   ],
-  "recommendations": {
-    "total": 106
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -168,5 +170,11 @@
     "url": "http://www.deepsilver.com/us/support/",
     "email": "info@deepsilver.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/238303/page_bg_generated_v6b.jpg?t=1479290867"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/238303/page_bg_generated_v6b.jpg?t=1479290867",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

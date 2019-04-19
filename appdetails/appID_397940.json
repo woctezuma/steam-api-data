@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 39,
+    "discount_percent": 75,
+    "initial_formatted": "1,59\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     79421
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 79421,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "No Time To Live - 0,99\u20ac",
+          "option_text": "No Time To Live - <span class=\"discount_original_price\">1,59\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -125,9 +127,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 111
-  },
   "achievements": {
     "total": 9,
     "highlighted": [
@@ -177,5 +176,9 @@
     "url": "",
     "email": "snail-ninja@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/397940/page_bg_generated_v6b.jpg?t=1447377733"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/397940/page_bg_generated_v6b.jpg?t=1447377733",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

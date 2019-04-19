@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     65821
@@ -148,6 +150,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 May, 2015"
@@ -156,5 +161,9 @@
     "url": "http://www.locomotivah.com/",
     "email": "rodrigo@locomotivah.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/365080/page_bg_generated_v6b.jpg?t=1447373038"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/365080/page_bg_generated_v6b.jpg?t=1447373038",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,7 +11,7 @@
     "appid": "400800",
     "name": "MXGP2 - The Official Motocross Videogame"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/438860/header.jpg?t=1489746720",
   "website": "http://mxgpvideogame.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     92536
@@ -146,6 +148,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/438860/ss_529360dd7c661723aa6540a1e72c529552316adb.1920x1080.jpg?t=1489746720"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Apr, 2016"
@@ -154,5 +159,9 @@
     "url": "http://milestone.it/contacts/support/?lang=en",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438860/page_bg_generated_v6b.jpg?t=1489746720"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438860/page_bg_generated_v6b.jpg?t=1489746720",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

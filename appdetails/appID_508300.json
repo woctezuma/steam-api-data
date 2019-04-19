@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     117503
@@ -152,7 +154,7 @@
     }
   ],
   "recommendations": {
-    "total": 118
+    "total": 125
   },
   "achievements": {
     "total": 56,
@@ -207,5 +209,9 @@
     "url": "",
     "email": "support@herocraft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/508300/page_bg_generated_v6b.jpg?t=1520255862"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/508300/page_bg_generated_v6b.jpg?t=1520255862",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

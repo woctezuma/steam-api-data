@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     145350
@@ -130,6 +132,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Dec, 2016"
@@ -138,5 +143,9 @@
     "url": "http://www.objectnormal.com",
     "email": "david@objectnormal.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/572130/page_bg_generated_v6b.jpg?t=1482646338"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/572130/page_bg_generated_v6b.jpg?t=1482646338",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

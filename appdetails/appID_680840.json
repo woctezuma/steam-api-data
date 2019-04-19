@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Zombie Playground in-game pet, &quot;Midnight with Lantern.&quot; <br><br>A Zombie-immune pet for companionship in this sometimes lonely undead world. The words 'heel,' 'sit,' and 'hush your barking' sometimes have no effect (as you would expect).<br><br>Pet Color: Black<br>Lantern Color: Blue.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/680840/extras/spacer.png?t=1500306621\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/680840/extras/clo_pet_sunny_black_lantern_icon.png?t=1500306621\" >",
   "about_the_game": "Zombie Playground in-game pet, &quot;Midnight with Lantern.&quot; <br><br>A Zombie-immune pet for companionship in this sometimes lonely undead world. The words 'heel,' 'sit,' and 'hush your barking' sometimes have no effect (as you would expect).<br><br>Pet Color: Black<br>Lantern Color: Blue.<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/680840/extras/spacer.png?t=1500306621\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/680840/extras/clo_pet_sunny_black_lantern_icon.png?t=1500306621\" >",
-  "short_description": "Zombie Playground in-game pet, &quot;Midnight with Lantern.&quot;",
+  "short_description": "Zombie Playground in-game pet, &quot;Midnight with Lantern.",
   "fullgame": {
     "appid": "215550",
     "name": "Zombie Playground\u2122"
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     194395
@@ -154,5 +156,9 @@
     "url": "http://www.zombieplaygroundgame.com/forum/",
     "email": "support@stealthstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/680840/page_bg_generated_v6b.jpg?t=1500306621"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/680840/page_bg_generated_v6b.jpg?t=1500306621",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

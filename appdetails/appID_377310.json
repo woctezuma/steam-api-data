@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     70035
@@ -147,9 +149,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 260
-  },
   "achievements": {
     "total": 15,
     "highlighted": [
@@ -203,5 +202,9 @@
     "url": "http://wulogames.com",
     "email": "wulogames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/377310/page_bg_generated_v6b.jpg?t=1448555111"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/377310/page_bg_generated_v6b.jpg?t=1448555111",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

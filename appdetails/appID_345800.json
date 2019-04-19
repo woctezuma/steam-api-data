@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     59210
@@ -119,6 +121,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/345800/ss_6bc26f6cc3422d3d1ff8989e6a61bb39377e438d.1920x1080.jpg?t=1498495108"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Feb, 2015"
@@ -127,5 +132,9 @@
     "url": "http://www.darkestdungeon.com/forums/",
     "email": "support@redhookgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/345800/page_bg_generated_v6b.jpg?t=1498495108"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/345800/page_bg_generated_v6b.jpg?t=1498495108",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

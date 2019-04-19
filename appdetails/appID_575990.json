@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 530,
+    "final": 530,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,30\u20ac"
   },
   "packages": [
     146795
@@ -49,11 +51,11 @@
           "packageid": 146795,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Knot - 5,99\u20ac",
+          "option_text": "Knot - 5,30\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 530
         }
       ]
     }
@@ -212,5 +214,9 @@
     "url": "www.warlockarts.com",
     "email": "info@warlockarts.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/575990/page_bg_generated_v6b.jpg?t=1494497553"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/575990/page_bg_generated_v6b.jpg?t=1494497553",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

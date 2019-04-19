@@ -7,9 +7,9 @@
   "controller_support": "full",
   "detailed_description": "Nuclear Throne is a post-apocalyptic roguelike-like top-down shooter. Not 'the final hope of humanity' post-apocalyptic, but 'humanity is extinct and mutants and monsters now roam the world' post-apocalyptic. Fight your way through the wastelands with powerful weaponry, collecting radiation to mutate some new limbs and abilities. All these things and more you could do if only you were good at this game. Can you reach the Nuclear Throne?",
   "about_the_game": "Nuclear Throne is a post-apocalyptic roguelike-like top-down shooter. Not 'the final hope of humanity' post-apocalyptic, but 'humanity is extinct and mutants and monsters now roam the world' post-apocalyptic. Fight your way through the wastelands with powerful weaponry, collecting radiation to mutate some new limbs and abilities. All these things and more you could do if only you were good at this game. Can you reach the Nuclear Throne?",
-  "short_description": "Nuclear Throne is a post-apocalyptic roguelike-like top-down shooter. Not 'the final hope of humanity' post-apocalyptic, but 'humanity is extinct and mutants and monsters now roam the world' post-apocalyptic. Fight your way through the wastelands with powerful weaponry, collecting radiation to mutate some new limbs and abilities. All these things and more you could do if only you were good at this game. Can you reach the Nuclear Throne?",
+  "short_description": "Nuclear Throne is a post-apocalyptic roguelike-like top-down shooter. Not 'the final hope of humanity' post-apocalyptic, but 'humanity is extinct and mutants and monsters now roam the world' post-apocalyptic. Fight your way through the wastelands with powerful weaponry, collecting radiation to mutate some new limbs and abilities.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201cStrip away all the punkish ingenuity piled on Nuclear Throne and you're left with this: a skin-fidgeting, hair-tingling battle of textures. Hard meets sticky. Bang meets squelch.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://eurogamer.net/articles/2014-03-31-nuclear-throne-early-access-review\" target=\"_blank\" rel=\"noopener\"  >Eurogamer</a></a><br><br>\u201cIt\u2019s an anarchic thrash of a roguelike where everything goes boom or splat\u2014or, more frequently, boom and splat.\u201d<br><a href=\"http://www.pcgamer.com/nuclear-throne-review-early-access/\" target=\"_blank\" rel=\"noreferrer\"  >PC Gamer</a></a><br><br>\u201cIt\u2019s a rapid-fire, deliciously crunchy randomized romp starring a cavalcade of characters from Vlambeer\u2019s past.\u201d<br><a href=\"http://www.rockpapershotgun.com/2013/08/20/wasteland-kings-the-anti-binding-of-isaac/\" target=\"_blank\" rel=\"noreferrer\"  >Rock, Paper, Shotgun</a></a><br>",
+  "reviews": "\u201cStrip away all the punkish ingenuity piled on Nuclear Throne and you're left with this: a skin-fidgeting, hair-tingling battle of textures. Hard meets sticky. Bang meets squelch.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://eurogamer.net/articles/2014-03-31-nuclear-throne-early-access-review\" target=\"_blank\" rel=\"noopener\"  >Eurogamer</a><br><br>\u201cIt\u2019s an anarchic thrash of a roguelike where everything goes boom or splat\u2014or, more frequently, boom and splat.\u201d<br><a href=\"http://www.pcgamer.com/nuclear-throne-review-early-access/\" target=\"_blank\" rel=\"noreferrer\"  >PC Gamer</a><br><br>\u201cIt\u2019s a rapid-fire, deliciously crunchy randomized romp starring a cavalcade of characters from Vlambeer\u2019s past.\u201d<br><a href=\"http://www.rockpapershotgun.com/2013/08/20/wasteland-kings-the-anti-binding-of-isaac/\" target=\"_blank\" rel=\"noreferrer\"  >Rock, Paper, Shotgun</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/242680/header.jpg?t=1449523044",
   "website": "http://nuclearthrone.com/",
   "pc_requirements": {
@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1199,
-    "final": 1199,
-    "discount_percent": 0
+    "initial": 999,
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     56927
@@ -53,11 +55,11 @@
           "packageid": 56927,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Nuclear Throne - 11,99\u20ac",
+          "option_text": "Nuclear Throne - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1199
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -69,7 +71,7 @@
   },
   "metacritic": {
     "score": 88,
-    "url": "http://www.metacritic.com/game/pc/nuclear-throne?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/nuclear-throne?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -210,7 +212,7 @@
     }
   ],
   "recommendations": {
-    "total": 9181
+    "total": 7187
   },
   "achievements": {
     "total": 44,
@@ -265,5 +267,9 @@
     "url": "http://vlambeer.com/",
     "email": "rami@vlambeer.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/242680/page_bg_generated_v6b.jpg?t=1449523044"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/242680/page_bg_generated_v6b.jpg?t=1449523044",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

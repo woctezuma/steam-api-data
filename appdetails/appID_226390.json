@@ -31,12 +31,13 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     18592,
-    18605,
-    36855
+    18605
   ],
   "package_groups": [
     {
@@ -67,16 +68,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 999
-        },
-        {
-          "packageid": 36855,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "SpellForce Complete - 59,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 5999
         }
       ]
     }
@@ -133,6 +124,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/226390/ss_546ac42b6265f6f2368cadab6fad3e4fe62c95d1.1920x1080.jpg?t=1471945447"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Feb, 2013"
@@ -141,5 +135,9 @@
     "url": "http://steamcommunity.com/app/65530/discussions/",
     "email": "support@quanticlab.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/226390/page_bg_generated_v6b.jpg?t=1471945447"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/226390/page_bg_generated_v6b.jpg?t=1471945447",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

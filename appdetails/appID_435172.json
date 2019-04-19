@@ -11,7 +11,7 @@
     "appid": "377590",
     "name": "IRFaceRig"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Japanese, Portuguese, Simplified Chinese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/435172/header.jpg?t=1458728134",
   "website": "https://facerig.com/ir/",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     90871
@@ -81,6 +83,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/435172/ss_2a3fbb6c96a23bedd27611a12ace19a4a1d12da5.1920x1080.jpg?t=1458728134"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Feb, 2016"
@@ -89,5 +94,9 @@
     "url": "https://facerig.com/ir/",
     "email": "info@facerig.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/435172/page_bg_generated_v6b.jpg?t=1458728134"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/435172/page_bg_generated_v6b.jpg?t=1458728134",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

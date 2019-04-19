@@ -4,11 +4,11 @@
   "steam_appid": 578620,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "GORN is a ludicrously violent VR gladiator simulator, made by Free Lives, the developers of Broforce and Genital Jousting. Featuring a unique, fully physics driven combat engine, GORN combatants will be able to creatively execute their most violent gladiatorial fantasies in virtual reality. Savagely strike down an infinite supply of poorly-animated opponents with all manner of weapons \u2013 from swords, maces, and bows to nunchuks, throwing knives, massive two-handed warhammers or even your blood-soaked bare hands. The only limits to the carnage are your imagination and decency, in the most brutal and savage VR face-smashing game ever produced by man.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/578620/extras/GORN_Gameplay_Trailer_1_copy.jpg?t=1519943730\" >",
-  "about_the_game": "GORN is a ludicrously violent VR gladiator simulator, made by Free Lives, the developers of Broforce and Genital Jousting. Featuring a unique, fully physics driven combat engine, GORN combatants will be able to creatively execute their most violent gladiatorial fantasies in virtual reality. Savagely strike down an infinite supply of poorly-animated opponents with all manner of weapons \u2013 from swords, maces, and bows to nunchuks, throwing knives, massive two-handed warhammers or even your blood-soaked bare hands. The only limits to the carnage are your imagination and decency, in the most brutal and savage VR face-smashing game ever produced by man.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/578620/extras/GORN_Gameplay_Trailer_1_copy.jpg?t=1519943730\" >",
+  "detailed_description": "GORN is a ludicrously violent VR gladiator simulator, made by Free Lives, the developers of Broforce and Genital Jousting. Featuring a unique, fully physics driven combat engine, GORN combatants will be able to creatively execute their most violent gladiatorial fantasies in virtual reality. Savagely strike down an infinite supply of poorly-animated opponents with all manner of weapons \u2013 from swords, maces, and bows to nunchuks, throwing knives, massive two-handed warhammers or even your blood-soaked bare hands. The only limits to the carnage are your imagination and decency, in the most brutal and savage VR face-smashing game ever produced by man.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/578620/extras/GORN_Gameplay_Trailer_1_copy.jpg?t=1550136259\" >",
+  "about_the_game": "GORN is a ludicrously violent VR gladiator simulator, made by Free Lives, the developers of Broforce and Genital Jousting. Featuring a unique, fully physics driven combat engine, GORN combatants will be able to creatively execute their most violent gladiatorial fantasies in virtual reality. Savagely strike down an infinite supply of poorly-animated opponents with all manner of weapons \u2013 from swords, maces, and bows to nunchuks, throwing knives, massive two-handed warhammers or even your blood-soaked bare hands. The only limits to the carnage are your imagination and decency, in the most brutal and savage VR face-smashing game ever produced by man.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/578620/extras/GORN_Gameplay_Trailer_1_copy.jpg?t=1550136259\" >",
   "short_description": "GORN is a ludicrously violent VR gladiator simulator, made by Free Lives, the developers of Broforce and Genital Jousting.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/578620/header.jpg?t=1519943730",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/578620/header.jpg?t=1550136259",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel i5-4590<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
@@ -33,11 +33,13 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     147785,
-    193789
+    294816
   ],
   "package_groups": [
     {
@@ -58,24 +60,13 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 1999
-        }
-      ]
-    },
-    {
-      "name": "subscriptions",
-      "title": "Buy GORN Subscription Plan",
-      "description": "To be billed on a recurring basis.",
-      "selection_text": "Select a subscription plan",
-      "save_text": "",
-      "display_type": "1",
-      "is_recurring_subscription": "true",
-      "subs": [
+        },
         {
-          "packageid": 193789,
+          "packageid": 294816,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "1 Month(s) @ 19,99\u20ac/Month",
-          "option_description": "<p class=\"game_purchase_subscription\">19,99\u20ac at checkout, auto-renewed every 1 month(s) at 19,99\u20ac.</p>",
+          "option_text": "GORN - Commercial License - 19,99\u20ac",
+          "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 1999
@@ -100,14 +91,6 @@
   ],
   "genres": [
     {
-      "id": "73",
-      "description": "Violent"
-    },
-    {
-      "id": "74",
-      "description": "Gore"
-    },
-    {
       "id": "1",
       "description": "Action"
     },
@@ -123,46 +106,46 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_b3b1b801adbe2b8444df24e9634b0f95644fcbc5.600x338.jpg?t=1519943730",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_b3b1b801adbe2b8444df24e9634b0f95644fcbc5.1920x1080.jpg?t=1519943730"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_73cfe2650690819db06eb2e1f465ab46064d2121.600x338.jpg?t=1550136259",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_73cfe2650690819db06eb2e1f465ab46064d2121.1920x1080.jpg?t=1550136259"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_ab402eafb11be1c2cbf2e39e94ea272eef635fe6.600x338.jpg?t=1519943730",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_ab402eafb11be1c2cbf2e39e94ea272eef635fe6.1920x1080.jpg?t=1519943730"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_b3b1b801adbe2b8444df24e9634b0f95644fcbc5.600x338.jpg?t=1550136259",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_b3b1b801adbe2b8444df24e9634b0f95644fcbc5.1920x1080.jpg?t=1550136259"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_a6cce074c44f166cc176abbece855860c6d47bdf.600x338.jpg?t=1519943730",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_a6cce074c44f166cc176abbece855860c6d47bdf.1920x1080.jpg?t=1519943730"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_ab402eafb11be1c2cbf2e39e94ea272eef635fe6.600x338.jpg?t=1550136259",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_ab402eafb11be1c2cbf2e39e94ea272eef635fe6.1920x1080.jpg?t=1550136259"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_096bfffa969639a6b24f71351ed1cb5399d34cc5.600x338.jpg?t=1519943730",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_096bfffa969639a6b24f71351ed1cb5399d34cc5.1920x1080.jpg?t=1519943730"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_096bfffa969639a6b24f71351ed1cb5399d34cc5.600x338.jpg?t=1550136259",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_096bfffa969639a6b24f71351ed1cb5399d34cc5.1920x1080.jpg?t=1550136259"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_77f113bfe95e88f5965d9fa67e99252787523bc2.600x338.jpg?t=1519943730",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_77f113bfe95e88f5965d9fa67e99252787523bc2.1920x1080.jpg?t=1519943730"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_19e3595d01114511d0b12be17b5f48407e20d6fa.600x338.jpg?t=1550136259",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_19e3595d01114511d0b12be17b5f48407e20d6fa.1920x1080.jpg?t=1550136259"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_a59d2949c344a5a589cede40f2e96930e39a30f0.600x338.jpg?t=1519943730",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_a59d2949c344a5a589cede40f2e96930e39a30f0.1920x1080.jpg?t=1519943730"
-    },
-    {
-      "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_50e7acfc501828c8d537c4c181a0bde78f481b4d.600x338.jpg?t=1519943730",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_50e7acfc501828c8d537c4c181a0bde78f481b4d.1920x1080.jpg?t=1519943730"
-    },
-    {
-      "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_145f77dbfb487f5a5cbcebcfc2f4dee762c91581.600x338.jpg?t=1519943730",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_145f77dbfb487f5a5cbcebcfc2f4dee762c91581.1920x1080.jpg?t=1519943730"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_19ab825f7569b4ec5135d218de382fe042f431e9.600x338.jpg?t=1550136259",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578620/ss_19ab825f7569b4ec5135d218de382fe042f431e9.1920x1080.jpg?t=1550136259"
     }
   ],
   "movies": [
+    {
+      "id": 256726765,
+      "name": "Trial Of The Shellbeast",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256726765/movie.293x165.jpg?t=1535121302",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256726765/movie480.webm?t=1535121302",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256726765/movie_max.webm?t=1535121302"
+      },
+      "highlight": true
+    },
     {
       "id": 256709773,
       "name": "GORN The Giant Update",
@@ -195,7 +178,10 @@
     }
   ],
   "recommendations": {
-    "total": 1902
+    "total": 3184
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -205,5 +191,12 @@
     "url": "support@freelives.net",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/578620/page_bg_generated_v6b.jpg?t=1519943730"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/578620/page_bg_generated_v6b.jpg?t=1550136259",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

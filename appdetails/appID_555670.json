@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     138710,
@@ -49,11 +51,11 @@
           "packageid": 138710,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Infinitum - 4,99\u20ac",
+          "option_text": "Infinitum - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         },
         {
           "packageid": 231559,
@@ -190,6 +192,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Jan, 2017"
@@ -198,5 +203,9 @@
     "url": "http://betelgeuze1988.wix.com/vgstudio",
     "email": "betelgeuze1988@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/555670/page_bg_generated_v6b.jpg?t=1483530158"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/555670/page_bg_generated_v6b.jpg?t=1483530158",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

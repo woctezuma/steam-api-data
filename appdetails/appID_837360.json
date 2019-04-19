@@ -20,7 +20,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "<a href=\"http://storefront.steampowered.com/v/gfx/apps/24200/extras/dc_logo.png\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/24200/extras/dc_logo.png\" ></a></a><a href=\"http://storefront.steampowered.com/v/gfx/apps/24200/extras/WBG_blackbg_small.jpg\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/24200/extras/WBG_blackbg_small.jpg\" ></a></a><a href=\"http://storefront.steampowered.com/v/gfx/apps/24200/extras/DGC_logo.jpg\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/24200/extras/DGC_logo.jpg\" ></a></a><br><br><br>\u00a0<br>DC UNIVERSE ONLINE software \u00a9 2015 Daybreak Game Company LLC. All other elements \u00a9 2015 DC Comics. All other trademarks and trade names are the property of their respective owners. All rights reserved.  All other elements \u00a9 2012 DC Comics. Daybreak Games and the Daybreak Games logo are registered trademarks of Daybreak Game Company LLC.  \u201cPlayStation\u201d and the \u201cPS\u201d Family logo are registered trademarks and \u201cPS3\u201d and the PlayStation Network Logo are trademarks of Sony Computer Entertainment Inc. The ratings icon is a registered trademark of the Entertainment Software Association. All other trademarks and trade names are the property of their respective owners. All rights reserved.<br><br>\u00a0<br><a href=\"http://storefront.steampowered.com/v/gfx/apps/24200/extras/WB_SHIELD2.jpg\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/24200/extras/WB_SHIELD2.jpg\" ></a></a> DC UNIVERSE and all related characters and elements are trademarks of and \u00a9 DC Comics.<br>WB GAMES LOGO, WB SHIELD: TM & \u00a9 Warner Bros. Entertainment Inc.<br>(s12)",
+  "legal_notice": "<a href=\"http://storefront.steampowered.com/v/gfx/apps/24200/extras/dc_logo.png\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/24200/extras/dc_logo.png\" ></a><a href=\"http://storefront.steampowered.com/v/gfx/apps/24200/extras/WBG_blackbg_small.jpg\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/24200/extras/WBG_blackbg_small.jpg\" ></a><a href=\"http://storefront.steampowered.com/v/gfx/apps/24200/extras/DGC_logo.jpg\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/24200/extras/DGC_logo.jpg\" ></a><br><br><br>\u00a0<br>DC UNIVERSE ONLINE software \u00a9 2015 Daybreak Game Company LLC. All other elements \u00a9 2015 DC Comics. All other trademarks and trade names are the property of their respective owners. All rights reserved.  All other elements \u00a9 2012 DC Comics. Daybreak Games and the Daybreak Games logo are registered trademarks of Daybreak Game Company LLC.  \u201cPlayStation\u201d and the \u201cPS\u201d Family logo are registered trademarks and \u201cPS3\u201d and the PlayStation Network Logo are trademarks of Sony Computer Entertainment Inc. The ratings icon is a registered trademark of the Entertainment Software Association. All other trademarks and trade names are the property of their respective owners. All rights reserved.<br><br>\u00a0<br><a href=\"http://storefront.steampowered.com/v/gfx/apps/24200/extras/WB_SHIELD2.jpg\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/24200/extras/WB_SHIELD2.jpg\" ></a> DC UNIVERSE and all related characters and elements are trademarks of and \u00a9 DC Comics.<br>WB GAMES LOGO, WB SHIELD: TM & \u00a9 Warner Bros. Entertainment Inc.<br>(s12)",
   "developers": [
     "Daybreak Game Company"
   ],
@@ -28,10 +28,12 @@
     ""
   ],
   "price_overview": {
-    "currency": "EUR",
+    "currency": "USD",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "$4.99"
   },
   "packages": [
     261086
@@ -50,7 +52,7 @@
           "packageid": 261086,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "DC Universe Online\u2122 - Episode 31 : Deluge - 4,99\u20ac",
+          "option_text": "DC Universe Online\u2122 - Episode 31 : Deluge - $4.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -147,13 +149,20 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
-    "date": "29 Mar, 2018"
+    "date": "Mar 29, 2018"
   },
   "support_info": {
     "url": "https://help.daybreakgames.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/837360/page_bg_generated_v6b.jpg?t=1522357405"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/837360/page_bg_generated_v6b.jpg?t=1522357405",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>A medically equipped helicopter for saving lives en route, the Albatross is great for those rescues with short timers!</p>",
   "about_the_game": "<p>A medically equipped helicopter for saving lives en route, the Albatross is great for those rescues with short timers!</p>",
-  "short_description": "",
+  "short_description": "A medically equipped helicopter for saving lives en route, the Albatross is great for those rescues with short timers!",
   "fullgame": {
     "appid": "202070",
     "name": "Choplifter HD"
@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     13493
@@ -113,6 +115,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/205140/ss_dea86753748f35bff093f4209d4aa5f3f3338ca8.1920x1080.jpg?t=1447355211"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Feb, 2012"
@@ -121,5 +126,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/205140/page_bg_generated_v6b.jpg?t=1447355211"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/205140/page_bg_generated_v6b.jpg?t=1447355211",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

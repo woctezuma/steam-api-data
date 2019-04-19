@@ -12,7 +12,7 @@
     "appid": "625430",
     "name": "Doodle God Blitz"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Dutch, Japanese, Korean, Polish, Portuguese-Brazil, Russian, Swedish, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Swedish, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/844680/header.jpg?t=1523885117",
   "website": "http://doodlegod.com",
   "pc_requirements": {
@@ -33,8 +33,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 239,
-    "final": 191,
-    "discount_percent": 20
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     264050
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 264050,
-          "percent_savings_text": "-20%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Doodle God Blitz - The Angel and the Imp DLC - <span class=\"discount_original_price\">2,39\u20ac</span> 1,91\u20ac",
+          "option_text": "Doodle God Blitz - The Angel and the Imp DLC - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 191
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -145,5 +147,9 @@
     "url": "http://doodlegod.com",
     "email": "support@joybits.org"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/844680/page_bg_generated_v6b.jpg?t=1523885117"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/844680/page_bg_generated_v6b.jpg?t=1523885117",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

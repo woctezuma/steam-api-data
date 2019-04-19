@@ -11,7 +11,7 @@
     "appid": "452230",
     "name": "Spellstone"
   },
-  "supported_languages": "English, French, German, Spanish, Russian",
+  "supported_languages": "English, French, German, Spanish - Spain, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/551971/header.jpg?t=1479837883",
   "website": null,
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 2799,
     "final": 2799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "27,99\u20ac"
   },
   "packages": [
     137036
@@ -124,6 +126,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/551971/ss_7a39c1aa308ff2881644b4c27d456763906bcff1.1920x1080.jpg?t=1479837883"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Nov, 2016"
@@ -132,5 +137,9 @@
     "url": "https://support.synapsegames.com/?game=spellstone",
     "email": "support@synapsegames.zendesk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/551971/page_bg_generated_v6b.jpg?t=1479837883"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/551971/page_bg_generated_v6b.jpg?t=1479837883",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -8,19 +8,25 @@
   "about_the_game": "GAMEPLAY<br />\r\n<br />\r\nHellbound is a First Person Shooter game in the vein of the classics DOOM, Quake, Duke Nukem 3D, Blood and many others.<br />\r\n<br />\r\nIt's GROTESQUE! Focused in action, speed and gore.<br />\r\n<br />\r\n<br />\r\nSTORY<br />\r\n<br />\r\nYou're a huge-ass mother-f*cker killing demons in Hell.<br />\r\n<br />\r\nThat's it...<br />\r\n<br />\r\nActually, there's a story. But we're not revealing it yet.",
   "short_description": "Classic First Person Shooter style game. Like the good old days.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/753590/header.jpg?t=1517874042",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/753590/header.jpg?t=1553798225",
   "website": "http://hellboundgame.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 and later<br></li><li><strong>Processor:</strong> MD Phenom II X4-945 / Intel Core 2 Quad 6600<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> AMD R7 240 GB / Nvidia GT 730 2GB / Intel HD 530<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 and later<br></li><li><strong>Processor:</strong> AMD FX-8320 / Intel i5-2400<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD R9 290 4GB / Nvidia GTX 770 4GB<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 and later<br></li><li><strong>Processor:</strong> MD Phenom II X4-945 / Intel Core 2 Quad 6600<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> AMD R7 240 GB / Nvidia GT 730 2GB / Intel HD 530<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 and later<br></li><li><strong>Processor:</strong> AMD FX-8320 / Intel i5-2400<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD R9 290 4GB / Nvidia GTX 770 4GB<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
   },
-  "mac_requirements": [],
-  "linux_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
   "developers": [
     "Saibot Studios"
   ],
   "publishers": [
-    "Saibot Studios"
+    "NGD Studios"
   ],
   "package_groups": [],
   "platforms": {
@@ -40,14 +46,6 @@
   ],
   "genres": [
     {
-      "id": "73",
-      "description": "Violent"
-    },
-    {
-      "id": "74",
-      "description": "Gore"
-    },
-    {
       "id": "1",
       "description": "Action"
     },
@@ -59,33 +57,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_647de76674fa979f40ce536bb73548fe24b98b1e.600x338.jpg?t=1517874042",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_647de76674fa979f40ce536bb73548fe24b98b1e.1920x1080.jpg?t=1517874042"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_ea2690b0d53d8fc86ed9272a10cb84ec025e4b32.600x338.jpg?t=1553798225",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_ea2690b0d53d8fc86ed9272a10cb84ec025e4b32.1920x1080.jpg?t=1553798225"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_4615c8645c7c65402cd35cdc42c8553c22668a39.600x338.jpg?t=1517874042",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_4615c8645c7c65402cd35cdc42c8553c22668a39.1920x1080.jpg?t=1517874042"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_c63f44332b0fc5afb9ac98f649d9ee9b530e4a30.600x338.jpg?t=1553798225",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_c63f44332b0fc5afb9ac98f649d9ee9b530e4a30.1920x1080.jpg?t=1553798225"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_d6e16cefca8db3619a4f635be1a0f84415d5333f.600x338.jpg?t=1517874042",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_d6e16cefca8db3619a4f635be1a0f84415d5333f.1920x1080.jpg?t=1517874042"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_ac94f6f5a63d0edb11dcf625037946c7800a4d80.600x338.jpg?t=1553798225",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_ac94f6f5a63d0edb11dcf625037946c7800a4d80.1920x1080.jpg?t=1553798225"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_7c7dd38284ed58891c9060853b52eedf994e7658.600x338.jpg?t=1517874042",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_7c7dd38284ed58891c9060853b52eedf994e7658.1920x1080.jpg?t=1517874042"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_9fe5486e65b08d27e558ad554e20405e70e1084a.600x338.jpg?t=1553798225",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_9fe5486e65b08d27e558ad554e20405e70e1084a.1920x1080.jpg?t=1553798225"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_6409b85f1005881a0208138ca16fd96276150feb.600x338.jpg?t=1517874042",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_6409b85f1005881a0208138ca16fd96276150feb.1920x1080.jpg?t=1517874042"
-    },
-    {
-      "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_7e868a7aa7cd614c155c5d436ec2da01f4a96ba3.600x338.jpg?t=1517874042",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_7e868a7aa7cd614c155c5d436ec2da01f4a96ba3.1920x1080.jpg?t=1517874042"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_d13d9e2d1b0bfe6aa688df838b6080eca5c9c091.600x338.jpg?t=1553798225",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753590/ss_d13d9e2d1b0bfe6aa688df838b6080eca5c9c091.1920x1080.jpg?t=1553798225"
     }
   ],
   "movies": [
@@ -102,11 +95,15 @@
   ],
   "release_date": {
     "coming_soon": true,
-    "date": "2018"
+    "date": "2019"
   },
   "support_info": {
     "url": "",
     "email": "support@hellboundgame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/753590/page_bg_generated_v6b.jpg?t=1517874042"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/753590/page_bg_generated_v6b.jpg?t=1553798225",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

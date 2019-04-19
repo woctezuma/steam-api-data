@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     33696,
@@ -141,5 +143,9 @@
     "url": "http://support.spicyhorse.com",
     "email": "support@spicyhorsegames.zendesk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261391/page_bg_generated_v6b.jpg?t=1447359306"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261391/page_bg_generated_v6b.jpg?t=1447359306",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

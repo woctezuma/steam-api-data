@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<strong>Prosaic Bonus Pack</strong><br>Contains: <br>Sword of Chaos<br>Sigil Wing<br>Core Elemental<br>Avian Lapband<br>Chickapede Charm<br><br><strong>Apostle of Wind Pack</strong><br>Contains: <br>Zefalon<br>Rebellion<br>Legendary Paw<br>Wind of Carillion<br><br><strong>Extra PP Pack 2</strong><br>contains 10000 PP",
   "about_the_game": "<strong>Prosaic Bonus Pack</strong><br>Contains: <br>Sword of Chaos<br>Sigil Wing<br>Core Elemental<br>Avian Lapband<br>Chickapede Charm<br><br><strong>Apostle of Wind Pack</strong><br>Contains: <br>Zefalon<br>Rebellion<br>Legendary Paw<br>Wind of Carillion<br><br><strong>Extra PP Pack 2</strong><br>contains 10000 PP",
-  "short_description": "",
+  "short_description": "Prosaic Bonus PackContains: Sword of ChaosSigil WingCore ElementalAvian LapbandChickapede CharmApostle of Wind PackContains: ZefalonRebellionLegendary PawWind of CarillionExtra PP Pack 2contains 10000 PP",
   "fullgame": {
     "appid": "260130",
     "name": "Agarest: Generations of War Zero"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     38635
@@ -116,6 +118,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/281604/ss_c395edc200612b201ab5dfa4cdc3b10b8e473f37.1920x1080.jpg?t=1447360510"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Jun, 2014"
@@ -124,5 +129,9 @@
     "url": "",
     "email": "support@ghostlight.uk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/281604/page_bg_generated_v6b.jpg?t=1447360510"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/281604/page_bg_generated_v6b.jpg?t=1447360510",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

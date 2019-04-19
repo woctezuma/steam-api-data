@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Fancy Point &amp; Click cartoon adventure with puzzles and mini-games of varying difficulty.<br />\r\n<br />\r\nIn Hare In The Hat: The Abyss takes place in sea abyss, filled with puzzles, riddles, clues and hidden objects. <br />\r\nDon't let the Hare disappear in the abyss!",
   "about_the_game": "Fancy Point &amp; Click cartoon adventure with puzzles and mini-games of varying difficulty.<br />\r\n<br />\r\nIn Hare In The Hat: The Abyss takes place in sea abyss, filled with puzzles, riddles, clues and hidden objects. <br />\r\nDon't let the Hare disappear in the abyss!",
-  "short_description": "",
+  "short_description": "Fancy Point &amp; Click cartoon adventure with puzzles and mini-games of varying difficulty. In Hare In The Hat: The Abyss takes place in sea abyss, filled with puzzles, riddles, clues and hidden objects. Don't let the Hare disappear in the abyss!",
   "fullgame": {
     "appid": "359810",
     "name": "Hare In The Hat"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     100482
@@ -145,5 +147,9 @@
     "url": "http://runserver.net/support/hih",
     "email": "hih@runserver.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/460890/page_bg_generated_v6b.jpg?t=1474313668"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/460890/page_bg_generated_v6b.jpg?t=1474313668",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

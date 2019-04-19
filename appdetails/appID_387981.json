@@ -12,7 +12,7 @@
     "appid": "204300",
     "name": "Awesomenauts - the 2D moba"
   },
-  "supported_languages": "English<strong>*</strong>, German, French, Italian, Spanish, Dutch, Portuguese-Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German, French, Italian, Spanish - Spain, Dutch, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/387981/header.jpg?t=1496150695",
   "website": "http://www.awesomenauts.com/",
   "pc_requirements": {
@@ -37,8 +37,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 199,
+    "discount_percent": 60,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     73413
@@ -55,13 +57,13 @@
       "subs": [
         {
           "packageid": 73413,
-          "percent_savings_text": "",
+          "percent_savings_text": "-60%",
           "percent_savings": 0,
-          "option_text": "Awesomenauts - Dragon Huntress Ksenia Skin - 4,99\u20ac",
+          "option_text": "Awesomenauts - Dragon Huntress Ksenia Skin - <span class=\"discount_original_price\">4,99\u20ac</span> 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -180,6 +182,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Sep, 2015"
@@ -188,5 +193,9 @@
     "url": "http://www.awesomenauts.com/forum/viewforum.php?f=13",
     "email": "support@ronimo-games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/387981/page_bg_generated_v6b.jpg?t=1496150695"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/387981/page_bg_generated_v6b.jpg?t=1496150695",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

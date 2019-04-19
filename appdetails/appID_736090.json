@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     215020
@@ -110,5 +112,9 @@
     "url": "",
     "email": "outerbrainstudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/736090/page_bg_generated_v6b.jpg?t=1509730392"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/736090/page_bg_generated_v6b.jpg?t=1509730392",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -12,7 +12,7 @@
     "appid": "322950",
     "name": "Pure Hold'em"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Arabic, Dutch, Japanese, Portuguese, Portuguese-Brazil, Russian, Simplified Chinese, Traditional Chinese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Dutch, Japanese, Portuguese, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/438905/header.jpg?t=1506940971",
   "website": "http://www.ripstone.com/pure-holdem.php",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     92563
@@ -153,6 +155,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Oct, 2016"
@@ -161,5 +166,9 @@
     "url": "",
     "email": "info@voofoostudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438905/page_bg_generated_v6b.jpg?t=1506940971"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438905/page_bg_generated_v6b.jpg?t=1506940971",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

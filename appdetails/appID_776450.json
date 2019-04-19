@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<strong>hOSHIs Elektronauts</strong> is a <strong>simple</strong> Multiplayer game that is played on a <strong>single keyboard</strong> on a <strong>single screen</strong>. <br>Chase each other with glowing stripes of pixels. But avoid hitting the walls or the pixeltrails.<br><br>It's a little bit like when we played on the old Commodore C64.<br>Just a simple fun game to get two friends screaming at each other.<h2 class=\"bb_tag\">Multiplayer Mode</h2><br><ul class=\"bb_ul\"><li>1 Keyboard<br></li><li>1 Screen<br></li><li>2 Players<br></li><li>4 Speeds</li></ul><h2 class=\"bb_tag\">2-Player Mode Orbs (NEW)</h2><ul class=\"bb_ul\"><li>Collect 5 Orbs<br></li><li>Be fast! They disappear ...<br></li><li>4 Speeds</li></ul><h2 class=\"bb_tag\">Single-Player Mode Survival (NEW)</h2><ul class=\"bb_ul\"><li>Survive <br></li><li>4 Speeds<br></li><li>Earn score by staying alive</li></ul><h2 class=\"bb_tag\">Single-Player Mode Orbs (NEW)</h2><ul class=\"bb_ul\"><li>Collect Orbs<br></li><li>4 Speeds<br></li><li>Earn Score per collected Orb<br></li><li>Be fast! They disappear ...</li></ul><br>Oh, and Controllers work now as well.",
   "about_the_game": "<strong>hOSHIs Elektronauts</strong> is a <strong>simple</strong> Multiplayer game that is played on a <strong>single keyboard</strong> on a <strong>single screen</strong>. <br>Chase each other with glowing stripes of pixels. But avoid hitting the walls or the pixeltrails.<br><br>It's a little bit like when we played on the old Commodore C64.<br>Just a simple fun game to get two friends screaming at each other.<h2 class=\"bb_tag\">Multiplayer Mode</h2><br><ul class=\"bb_ul\"><li>1 Keyboard<br></li><li>1 Screen<br></li><li>2 Players<br></li><li>4 Speeds</li></ul><h2 class=\"bb_tag\">2-Player Mode Orbs (NEW)</h2><ul class=\"bb_ul\"><li>Collect 5 Orbs<br></li><li>Be fast! They disappear ...<br></li><li>4 Speeds</li></ul><h2 class=\"bb_tag\">Single-Player Mode Survival (NEW)</h2><ul class=\"bb_ul\"><li>Survive <br></li><li>4 Speeds<br></li><li>Earn score by staying alive</li></ul><h2 class=\"bb_tag\">Single-Player Mode Orbs (NEW)</h2><ul class=\"bb_ul\"><li>Collect Orbs<br></li><li>4 Speeds<br></li><li>Earn Score per collected Orb<br></li><li>Be fast! They disappear ...</li></ul><br>Oh, and Controllers work now as well.",
-  "short_description": "<strong>hOSHIs Elektronauts</strong> is a <strong>simple </strong>Multiplayer game that is played on a <strong>single keyboard</strong> on a <strong>single screen</strong>.  <br>Chase each other with glowing stripes of pixels. But avoid hitting the walls or the pixeltrails.",
+  "short_description": "hOSHIs Elektronauts is a simple Multiplayer game that is played on a single keyboard on a single screen. Chase each other with glowing stripes of pixels. But avoid hitting the walls or the pixeltrails.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/776450/header.jpg?t=1521355451",
   "website": "http://www.hoshi.games",
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     233272
@@ -153,6 +155,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Jan, 2018"
@@ -161,5 +166,9 @@
     "url": "http://www.hoshi.games",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/776450/page_bg_generated_v6b.jpg?t=1521355451"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/776450/page_bg_generated_v6b.jpg?t=1521355451",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

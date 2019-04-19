@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Enhance your Hearts of Iron III experience with the British Vehicle Pack. While playing as the British , 16 new vehicle models will be used in battle. The famous Comet Tank, Hawker Typhoon Fighter and Battleship King George V are just a few of the new vehicles available.",
   "about_the_game": "Enhance your Hearts of Iron III experience with the British Vehicle Pack. While playing as the British , 16 new vehicle models will be used in battle. The famous Comet Tank, Hawker Typhoon Fighter and Battleship King George V are just a few of the new vehicles available.",
-  "short_description": "",
+  "short_description": "Enhance your Hearts of Iron III experience with the British Vehicle Pack. While playing as the British , 16 new vehicle models will be used in battle. The famous Comet Tank, Hawker Typhoon Fighter and Battleship King George V are just a few of the new vehicles available.",
   "fullgame": {
     "appid": "25890",
     "name": "Hearts of Iron III"
@@ -30,12 +30,12 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    18561,
-    29531,
-    37223
+    18561
   ],
   "package_groups": [
     {
@@ -56,26 +56,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 99
-        },
-        {
-          "packageid": 29531,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron 3 DLC Collection - 29,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2999
-        },
-        {
-          "packageid": 37223,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron Collection III (Jan 2014) - 41,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4199
         }
       ]
     }
@@ -186,6 +166,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/214987/ss_9b1ebca021dcf100defcf00b7b18d930a87f9305.1920x1080.jpg?t=1520325596"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Dec, 2012"
@@ -194,5 +177,9 @@
     "url": "http://www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214987/page_bg_generated_v6b.jpg?t=1520325596"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214987/page_bg_generated_v6b.jpg?t=1520325596",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -31,10 +31,12 @@
     ""
   ],
   "price_overview": {
-    "currency": "GBP",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "currency": "EUR",
+    "initial": 699,
+    "final": 699,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     103408
@@ -53,11 +55,11 @@
           "packageid": 103408,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Indonesia - \u00a34.99",
+          "option_text": "Indonesia - 6,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 699
         }
       ]
     }
@@ -167,6 +169,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/468721/ss_6a9e6f1cafa649aa0488bd1d5064a0dae44cd055.1920x1080.jpg?t=1492190939"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Apr, 2017"
@@ -175,5 +180,9 @@
     "url": "http://www.berserk-games.com/forum",
     "email": "berserkgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/468721/page_bg_generated_v6b.jpg?t=1492190939"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/468721/page_bg_generated_v6b.jpg?t=1492190939",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

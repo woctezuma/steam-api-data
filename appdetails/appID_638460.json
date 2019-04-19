@@ -12,7 +12,7 @@
     "appid": "503350",
     "name": "White Noise 2"
   },
-  "supported_languages": "English<strong>*</strong>, Spanish, Italian, Finnish, Russian, French, German, Portuguese, Norwegian, Hungarian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, Spanish - Spain, Italian, Finnish, Russian, French, German, Portuguese, Norwegian, Hungarian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/638460/header.jpg?t=1512667114",
   "website": null,
   "pc_requirements": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     176601
@@ -188,6 +190,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/638460/ss_81829ffc2911c4e713536cad25b4908d72e1870f.1920x1080.jpg?t=1512667114"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 May, 2017"
@@ -196,5 +201,9 @@
     "url": "http://www.milkstonestudios.com",
     "email": "support@milkstonestudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/638460/page_bg_generated_v6b.jpg?t=1512667114"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/638460/page_bg_generated_v6b.jpg?t=1512667114",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

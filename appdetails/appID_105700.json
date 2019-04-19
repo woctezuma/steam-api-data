@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     8879
@@ -67,7 +69,7 @@
   },
   "metacritic": {
     "score": 75,
-    "url": "http://www.metacritic.com/game/pc/tobes-vertical-adventure?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/tobes-vertical-adventure?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -161,9 +163,6 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/105700/ss_79f3631100bb57fbe7e249039c17dc9b6173dcaf.1920x1080.jpg?t=1447354389"
     }
   ],
-  "recommendations": {
-    "total": 126
-  },
   "achievements": {
     "total": 13,
     "highlighted": [
@@ -217,5 +216,9 @@
     "url": "",
     "email": "support@secretbase.com.sg"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/105700/page_bg_generated_v6b.jpg?t=1447354389"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/105700/page_bg_generated_v6b.jpg?t=1447354389",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

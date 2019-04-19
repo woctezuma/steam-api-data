@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1099,
     "final": 1099,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,99\u20ac"
   },
   "packages": [
     50829
@@ -134,5 +136,9 @@
     "url": "http://www.roamingfortress.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/323000/page_bg_generated_v6b.jpg?t=1447363632"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/323000/page_bg_generated_v6b.jpg?t=1447363632",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

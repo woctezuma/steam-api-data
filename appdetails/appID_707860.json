@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     204482
@@ -140,11 +142,6 @@
       "id": 9,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/707860/ss_a64a9697690283139fd260738e8d6a3dbbdb3aa9.600x338.jpg?t=1516113850",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/707860/ss_a64a9697690283139fd260738e8d6a3dbbdb3aa9.1920x1080.jpg?t=1516113850"
-    },
-    {
-      "id": 10,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/707860/?t=1516113850",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/707860/?t=1516113850"
     }
   ],
   "movies": [
@@ -170,5 +167,9 @@
     "url": "powerfactorygame.com",
     "email": "mail@powerfactorygame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/707860/page_bg_generated_v6b.jpg?t=1516113850"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/707860/page_bg_generated_v6b.jpg?t=1516113850",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

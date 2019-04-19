@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     90109,
@@ -157,6 +159,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433021/ss_f52c4db6b770d9a36fcc0bb715fc3e571e89c0f6.1920x1080.jpg?t=1492398799"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jan, 2016"
@@ -165,5 +170,9 @@
     "url": "http://www.dancingdragongames.com/",
     "email": "phil.hamilton@dancingdragongames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/433021/page_bg_generated_v6b.jpg?t=1492398799"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/433021/page_bg_generated_v6b.jpg?t=1492398799",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

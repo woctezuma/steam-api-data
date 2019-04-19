@@ -11,16 +11,16 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/568500/header.jpg?t=1483733955",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> XP, Vista, Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> 1,8GHz<br></li><li><strong>Memory:</strong> 500 MB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> XP, Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> 2GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+    "minimum": "<strong>\ucd5c\uc18c:</strong><br><ul class=\"bb_ul\"><li><strong>\uc6b4\uc601\uccb4\uc81c:</strong> XP, Vista, Windows 7, Windows 8, Windows 10<br></li><li><strong>\ud504\ub85c\uc138\uc11c:</strong> 1,8GHz<br></li><li><strong>\uba54\ubaa8\ub9ac:</strong> 500 MB RAM<br></li><li><strong>\uc800\uc7a5\uacf5\uac04:</strong> 100 MB \uc0ac\uc6a9 \uac00\ub2a5 \uacf5\uac04</li></ul>",
+    "recommended": "<strong>\uad8c\uc7a5:</strong><br><ul class=\"bb_ul\"><li><strong>\uc6b4\uc601\uccb4\uc81c:</strong> XP, Windows 7, Windows 8, Windows 10<br></li><li><strong>\ud504\ub85c\uc138\uc11c:</strong> 2GHz<br></li><li><strong>\uba54\ubaa8\ub9ac:</strong> 1 GB RAM<br></li><li><strong>\ub124\ud2b8\uc6cc\ud06c:</strong> \ucd08\uace0\uc18d \uc778\ud130\ub137 \uc5f0\uacb0<br></li><li><strong>\uc800\uc7a5\uacf5\uac04:</strong> 100 MB \uc0ac\uc6a9 \uac00\ub2a5 \uacf5\uac04</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 500 MB RAM</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 1 GB RAM</li></ul>"
+    "minimum": "<strong>\ucd5c\uc18c:</strong><br><ul class=\"bb_ul\"><li><strong>\uba54\ubaa8\ub9ac:</strong> 500 MB RAM</li></ul>",
+    "recommended": "<strong>\uad8c\uc7a5:</strong><br><ul class=\"bb_ul\"><li><strong>\uba54\ubaa8\ub9ac:</strong> 1 GB RAM</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 1,8GHz<br></li><li><strong>Memory:</strong> 500 MB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+    "minimum": "<strong>\ucd5c\uc18c:</strong><br><ul class=\"bb_ul\"><li><strong>\ud504\ub85c\uc138\uc11c:</strong> 1,8GHz<br></li><li><strong>\uba54\ubaa8\ub9ac:</strong> 500 MB RAM<br></li><li><strong>\uc800\uc7a5\uacf5\uac04:</strong> 100 MB \uc0ac\uc6a9 \uac00\ub2a5 \uacf5\uac04</li></ul>",
+    "recommended": "<strong>\uad8c\uc7a5:</strong><br><ul class=\"bb_ul\"><li><strong>\ud504\ub85c\uc138\uc11c:</strong> 2GHz<br></li><li><strong>\uba54\ubaa8\ub9ac:</strong> 1 GB RAM<br></li><li><strong>\ub124\ud2b8\uc6cc\ud06c:</strong> \ucd08\uace0\uc18d \uc778\ud130\ub137 \uc5f0\uacb0<br></li><li><strong>\uc800\uc7a5\uacf5\uac04:</strong> 100 MB \uc0ac\uc6a9 \uac00\ub2a5 \uacf5\uac04</li></ul>"
   },
   "developers": [
     "Teawork Dev"
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 89,
-    "discount_percent": 55
+    "final": 199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     143825
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 143825,
-          "percent_savings_text": "-55%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Atomic Reconstruction - <span class=\"discount_original_price\">1,99\u20ac</span> 0,89\u20ac",
+          "option_text": "Atomic Reconstruction - 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 89
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -165,5 +167,9 @@
     "url": "",
     "email": "support@teawork.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/568500/page_bg_generated_v6b.jpg?t=1483733955"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/568500/page_bg_generated_v6b.jpg?t=1483733955",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

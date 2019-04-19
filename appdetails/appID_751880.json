@@ -11,7 +11,7 @@
     "appid": "588690",
     "name": "Peace, Death!"
   },
-  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, Portuguese-Brazil<strong>*</strong>, Ukrainian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish<strong>*</strong>, Korean<strong>*</strong>, Romanian<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Ukrainian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Spain<strong>*</strong>, Korean<strong>*</strong>, Romanian<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/751880/header.jpg?t=1513110967",
   "website": "http://peacedeath.cc",
   "pc_requirements": {
@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 149,
-    "discount_percent": 50
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     220993
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 220993,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Peace, Death! Hand of F - <span class=\"discount_original_price\">2,99\u20ac</span> 1,49\u20ac",
+          "option_text": "Peace, Death! Hand of F - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 149
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -151,5 +153,9 @@
     "url": "http://peacedeath.cc",
     "email": "peacedeath.cc@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/751880/page_bg_generated_v6b.jpg?t=1513110967"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/751880/page_bg_generated_v6b.jpg?t=1513110967",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

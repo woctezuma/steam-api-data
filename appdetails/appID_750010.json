@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     220236
@@ -149,6 +151,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Mar, 2018"
@@ -157,5 +162,12 @@
     "url": "https://www.bucketheadentertainment.com/",
     "email": "wiseguy@bucketheadentertainment.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/750010/page_bg_generated_v6b.jpg?t=1521821753"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/750010/page_bg_generated_v6b.jpg?t=1521821753",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

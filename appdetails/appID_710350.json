@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     205353
@@ -138,6 +140,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Sep, 2017"
@@ -146,5 +151,9 @@
     "url": "http://spaceships.cool",
     "email": "pentadact+heatsigsupport@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/710350/page_bg_generated_v6b.jpg?t=1506013249"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/710350/page_bg_generated_v6b.jpg?t=1506013249",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

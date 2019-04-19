@@ -11,8 +11,8 @@
     "appid": "392000",
     "name": "TRON RUN/r"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Portuguese-Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/486770/header.jpg?t=1464909432",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/486770/header.jpg?t=1542764714",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8 64-bit<br></li><li><strong>Processor:</strong> Quad-core Intel or AMD, 2.5 GHz or faster<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 compatible graphics card<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     109635
@@ -98,10 +100,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/486770/ss_12fa05874e34af4d93824930a274af26e525e62f.600x338.jpg?t=1464909432",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/486770/ss_12fa05874e34af4d93824930a274af26e525e62f.1920x1080.jpg?t=1464909432"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/486770/ss_12fa05874e34af4d93824930a274af26e525e62f.600x338.jpg?t=1542764714",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/486770/ss_12fa05874e34af4d93824930a274af26e525e62f.1920x1080.jpg?t=1542764714"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Jun, 2016"
@@ -110,5 +115,9 @@
     "url": "http://help.disney.com/en_US/Games/Steam",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/486770/page_bg_generated_v6b.jpg?t=1464909432"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/486770/page_bg_generated_v6b.jpg?t=1542764714",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

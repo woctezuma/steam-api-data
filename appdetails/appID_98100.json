@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     11076
@@ -63,7 +65,7 @@
   },
   "metacritic": {
     "score": 62,
-    "url": "http://www.metacritic.com/game/pc/trauma?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/trauma?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -118,7 +120,10 @@
     }
   ],
   "recommendations": {
-    "total": 569
+    "total": 197
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -128,5 +133,9 @@
     "url": "http://www.traumagame.com",
     "email": "info@traumagame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/98100/page_bg_generated_v6b.jpg?t=1447354498"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/98100/page_bg_generated_v6b.jpg?t=1447354498",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

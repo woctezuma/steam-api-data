@@ -12,7 +12,7 @@
     "appid": "664430",
     "name": "WWE 2K18"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Arabic<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/706090/header.jpg?t=1511287217",
   "website": null,
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     203781
@@ -146,6 +148,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/706090/ss_fe40c942436684bb3e350a81b3dce97a5a6455eb.1920x1080.jpg?t=1511287217"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Nov, 2017"
@@ -154,5 +159,9 @@
     "url": "support.2k.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/706090/page_bg_generated_v6b.jpg?t=1511287217"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/706090/page_bg_generated_v6b.jpg?t=1511287217",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

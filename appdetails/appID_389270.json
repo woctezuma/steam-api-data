@@ -1,15 +1,15 @@
 {
   "type": "game",
-  "name": "Through Abandoned",
+  "name": "Through Abandoned: The Underground City",
   "steam_appid": 389270,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<h1>The sequel release</h1><p>Hi.<br><br>Through Abandoned 2. The Forest is live now.<br><br>You can buy it here: <a href=\"http://store.steampowered.com/app/513340?beta=0\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/513340?beta=0</a></a><br><br>Or buy bundle with both parts: <a href=\"http://store.steampowered.com/bundle/1219/\" target=\"_blank\" rel=\"noreferrer\"  >http://store.steampowered.com/bundle/1219/</a></a></p><br><h1>About the Game</h1>Abandoned is the first part of big story about parallel worlds. Those worlds are very strange, because people left them forever. So, you should explore those worlds and find your brother who dedicate his life for finding out the way to Abandoned and disappeared there.<br>Russian version included.<br><br>Through Abandoned 2. The Forest is live now.<br>You can buy it here: <a href=\"http://store.steampowered.com/app/513340?beta=0\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >http://store.steampowered.com/app/513340?beta=0</a></a><br>Or buy bundle with both parts: <a href=\"http://store.steampowered.com/bundle/1219/\" target=\"_blank\" rel=\"noreferrer\"  >http://store.steampowered.com/bundle/1219/</a></a>",
-  "about_the_game": "Abandoned is the first part of big story about parallel worlds. Those worlds are very strange, because people left them forever. So, you should explore those worlds and find your brother who dedicate his life for finding out the way to Abandoned and disappeared there.<br>Russian version included.<br><br>Through Abandoned 2. The Forest is live now.<br>You can buy it here: <a href=\"http://store.steampowered.com/app/513340?beta=0\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_2\" >http://store.steampowered.com/app/513340?beta=0</a></a><br>Or buy bundle with both parts: <a href=\"http://store.steampowered.com/bundle/1219/\" target=\"_blank\" rel=\"noreferrer\"  >http://store.steampowered.com/bundle/1219/</a></a>",
-  "short_description": "It\u2019s the first game of Abandoned series. Classical point and click game. You try to find your twin-brother who dissapeared in the huge and mysterious place called Abandoned.",
-  "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/389270/header.jpg?t=1470783889",
-  "website": "http://krutovig.com/abandoned1/",
+  "detailed_description": "Through Abandoned: The Underground City is the first part of a big story about parallel worlds. Those worlds are very strange, because people left them forever. You should explore those worlds and find your brother who dedicated his life to find a way into Abandoned and disappeared there.<br />\r\n<br />\r\nThrough Abandoned: The Underground City is a classical point and click adventure. Solve puzzles and play mini-games, look for items and find a way to use them, explore, enjoy the story and try to escape.",
+  "about_the_game": "Through Abandoned: The Underground City is the first part of a big story about parallel worlds. Those worlds are very strange, because people left them forever. You should explore those worlds and find your brother who dedicated his life to find a way into Abandoned and disappeared there.<br />\r\n<br />\r\nThrough Abandoned: The Underground City is a classical point and click adventure. Solve puzzles and play mini-games, look for items and find a way to use them, explore, enjoy the story and try to escape.",
+  "short_description": "It\u2019s the first game of Through Abandoned series, classical point and click game. You try to find your twin-brother who disappeared in a huge and mysterious place called Abandoned.",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Norwegian<strong>*</strong>, Portuguese<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Swedish<strong>*</strong>, Thai<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Vietnamese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/389270/header.jpg?t=1554237136",
+  "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Windows 7 or latest<br></li><li><strong>Processor:</strong> 2.33 Ghz or faster x86-compatible processor, or Intel Atom 1.6 Ghz or faster processor for netbook classes devices<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong> 115 MB available space</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 1024 MB RAM</li></ul>"
@@ -17,16 +17,18 @@
   "mac_requirements": [],
   "linux_requirements": [],
   "developers": [
-    "Krutovig"
+    "Igor Krutov"
   ],
   "publishers": [
-    "Krutovig"
+    "Kiss Publishing Ltd"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     74002
@@ -34,7 +36,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Through Abandoned",
+      "title": "Buy Through Abandoned: The Underground City",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -45,7 +47,7 @@
           "packageid": 74002,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Abandoned - 0,99\u20ac",
+          "option_text": "Through Abandoned: The Underground City - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -63,6 +65,14 @@
     {
       "id": 2,
       "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    },
+    {
+      "id": 29,
+      "description": "Steam Trading Cards"
     }
   ],
   "genres": [
@@ -78,52 +88,83 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_8b2ff262cec92cf8f1a8d7cc2991ef24e6550586.600x338.jpg?t=1470783889",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_8b2ff262cec92cf8f1a8d7cc2991ef24e6550586.1920x1080.jpg?t=1470783889"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_1b4d5ccfe92f8a6844280934245544a8edb16cf3.600x338.jpg?t=1554237136",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_1b4d5ccfe92f8a6844280934245544a8edb16cf3.1920x1080.jpg?t=1554237136"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_63bc8ccff819c5504597c348d26170b3f2036273.600x338.jpg?t=1470783889",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_63bc8ccff819c5504597c348d26170b3f2036273.1920x1080.jpg?t=1470783889"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_ea2944945d280b00b281083a007aceda2e009821.600x338.jpg?t=1554237136",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_ea2944945d280b00b281083a007aceda2e009821.1920x1080.jpg?t=1554237136"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_88b46514245e0d56599c88dcde8bf8e9f287e787.600x338.jpg?t=1470783889",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_88b46514245e0d56599c88dcde8bf8e9f287e787.1920x1080.jpg?t=1470783889"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_ab61c886f958f475597ba5fd8a500fc22bbe46c2.600x338.jpg?t=1554237136",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_ab61c886f958f475597ba5fd8a500fc22bbe46c2.1920x1080.jpg?t=1554237136"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_e7afb2efc1345b717b7ada3b60978a4817d55d49.600x338.jpg?t=1470783889",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_e7afb2efc1345b717b7ada3b60978a4817d55d49.1920x1080.jpg?t=1470783889"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_5a6254cfe1cb15069f00e99300227f8600933708.600x338.jpg?t=1554237136",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_5a6254cfe1cb15069f00e99300227f8600933708.1920x1080.jpg?t=1554237136"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_10bc02d7ee0eb678fb418777720a1dc39cb73329.600x338.jpg?t=1470783889",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_10bc02d7ee0eb678fb418777720a1dc39cb73329.1920x1080.jpg?t=1470783889"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_0b432e535fddd90620c91108be70b8928e3360d4.600x338.jpg?t=1554237136",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_0b432e535fddd90620c91108be70b8928e3360d4.1920x1080.jpg?t=1554237136"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_f7a846a9392e9bbe8e8648a6f93ee6977ac69fc8.600x338.jpg?t=1554237136",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389270/ss_f7a846a9392e9bbe8e8648a6f93ee6977ac69fc8.1920x1080.jpg?t=1554237136"
     }
   ],
   "movies": [
     {
-      "id": 256655027,
-      "name": "Abandoned, the main trailer",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256655027/movie.293x165.jpg?t=1460981904",
+      "id": 256742813,
+      "name": "Update 1.01 release trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256742813/movie.293x165.jpg?t=1549934881",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256655027/movie480.webm?t=1460981904",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256655027/movie_max.webm?t=1460981904"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256742813/movie480.webm?t=1549934881",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256742813/movie_max.webm?t=1549934881"
       },
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 142
+  "achievements": {
+    "total": 5,
+    "highlighted": [
+      {
+        "name": "First door",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/389270/33cf0b86f28da46ba6bcbd807cb889d82275653e.jpg"
+      },
+      {
+        "name": "Out of the mine",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/389270/2977d47e4a6e18f1a3c3bd012fba794662603cef.jpg"
+      },
+      {
+        "name": "Pyramide puzzle",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/389270/b1db9339b6a3b2a7aed3b2df8da5dda837cfa42e.jpg"
+      },
+      {
+        "name": "Subway",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/389270/7081dcb02a60711a4cc21ca8500449e4d5a5f815.jpg"
+      },
+      {
+        "name": "Secrets",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/389270/38f7c649e963fe24f3b08b0df44544d3b2763276.jpg"
+      }
+    ]
   },
   "release_date": {
     "coming_soon": false,
     "date": "22 Jul, 2015"
   },
   "support_info": {
-    "url": "http://krutovig.com/",
-    "email": "krutovhomestyle@gmail.com"
+    "url": "",
+    "email": "igor@krutovig.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389270/page_bg_generated_v6b.jpg?t=1470783889"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389270/page_bg_generated_v6b.jpg?t=1554237136",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

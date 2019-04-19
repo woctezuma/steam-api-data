@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     164060
@@ -219,5 +221,9 @@
     "url": "http://www.boxplosion.xyz",
     "email": "x@boxplosion.xyz"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/612840/page_bg_generated_v6b.jpg?t=1516214087"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/612840/page_bg_generated_v6b.jpg?t=1516214087",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

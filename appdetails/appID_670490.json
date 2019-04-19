@@ -11,12 +11,12 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/670490/header.jpg?t=1511532474",
   "website": "http://darkcrossgames.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / Windows 8<br></li><li><strong>Processor:</strong> 2 GHz Intel Dual Core processor 64bit<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB DirectX 9.0c compatible card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / Windows 8<br></li><li><strong>Processor:</strong> Intel Core i5 processor (or greater) 64bit<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB DirectX 10 compatible card<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Besturingssysteem:</strong> Windows 7 / Windows 8<br></li><li><strong>Processor:</strong> 2 GHz Intel Dual Core processor 64bit<br></li><li><strong>Geheugen:</strong> 4 GB RAM<br></li><li><strong>Grafische kaart:</strong> 512 MB DirectX 9.0c compatible card<br></li><li><strong>DirectX:</strong> Versie 9.0c<br></li><li><strong>Opslagruimte:</strong> 2 GB beschikbare ruimte</li></ul>",
+    "recommended": "<strong>Aanbevolen:</strong><br><ul class=\"bb_ul\"><li><strong>Besturingssysteem:</strong> Windows 7 / Windows 8<br></li><li><strong>Processor:</strong> Intel Core i5 processor (or greater) 64bit<br></li><li><strong>Geheugen:</strong> 8 GB RAM<br></li><li><strong>Grafische kaart:</strong> 512 MB DirectX 10 compatible card<br></li><li><strong>DirectX:</strong> Versie 10<br></li><li><strong>Opslagruimte:</strong> 2 GB beschikbare ruimte</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.12<br></li><li><strong>Processor:</strong> 2,5 GHz Core i7<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel iris Pro<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Mac's with Metal support // MacBook (2015 and later) \u00b7  [MacBook Pro 2011 + eGPU]</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.13<br></li><li><strong>Processor:</strong> 2.6 GHz Core i7<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 450<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Mac computers that support Metal</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Besturingssysteem:</strong> macOS 10.12<br></li><li><strong>Processor:</strong> 2,5 GHz Core i7<br></li><li><strong>Geheugen:</strong> 4 GB RAM<br></li><li><strong>Grafische kaart:</strong> Intel iris Pro<br></li><li><strong>Opslagruimte:</strong> 2 GB beschikbare ruimte<br></li><li><strong>Aanvullende opmerkingen:</strong> Mac's with Metal support // MacBook (2015 and later) \u00b7  [MacBook Pro 2011 + eGPU]</li></ul>",
+    "recommended": "<strong>Aanbevolen:</strong><br><ul class=\"bb_ul\"><li><strong>Besturingssysteem:</strong> macOS 10.13<br></li><li><strong>Processor:</strong> 2.6 GHz Core i7<br></li><li><strong>Geheugen:</strong> 8 GB RAM<br></li><li><strong>Grafische kaart:</strong> Radeon Pro 450<br></li><li><strong>Opslagruimte:</strong> 2 GB beschikbare ruimte<br></li><li><strong>Aanvullende opmerkingen:</strong> Mac computers that support Metal</li></ul>"
   },
   "linux_requirements": [],
   "developers": [
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     190716
@@ -180,6 +182,9 @@
       "highlight": true
     }
   ],
+  "recommendations": {
+    "total": 105
+  },
   "achievements": {
     "total": 0
   },
@@ -191,5 +196,9 @@
     "url": "http://darkcrossgames.com/#contact",
     "email": "support@darkcrossgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/670490/page_bg_generated_v6b.jpg?t=1511532474"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/670490/page_bg_generated_v6b.jpg?t=1511532474",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

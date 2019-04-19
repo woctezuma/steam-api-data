@@ -26,9 +26,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 300,
+    "final": 300,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,--\u20ac"
   },
   "packages": [
     123092
@@ -47,11 +49,11 @@
           "packageid": 123092,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Your Star - 3,99\u20ac",
+          "option_text": "Your Star - 3,--\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 300
         }
       ]
     }
@@ -255,5 +257,11 @@
     "url": "http://www.natahem.com",
     "email": "natahem@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/520080/page_bg_generated_v6b.jpg?t=1494279880"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/520080/page_bg_generated_v6b.jpg?t=1494279880",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": "The game does not contain any explicite nude or violent picture, but some of the talks between characters describe sexual violence. "
+  }
 }

@@ -11,7 +11,7 @@
     "appid": "115300",
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3"
   },
-  "supported_languages": "English<strong>*</strong>, German, French, Italian, Spanish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German, French, Italian, Spanish - Spain<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/42698/header.jpg?t=1463442118",
   "website": "http://www.callofduty.com",
   "pc_requirements": {
@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 1399,
     "final": 1399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "13,99\u20ac"
   },
   "packages": [
     17225,
@@ -146,6 +148,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Oct, 2012"
@@ -154,5 +159,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42698/page_bg_generated_v6b.jpg?t=1463442118"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42698/page_bg_generated_v6b.jpg?t=1463442118",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

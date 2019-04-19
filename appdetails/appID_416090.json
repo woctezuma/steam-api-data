@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     83833
@@ -360,5 +362,9 @@
     "url": "http://xiotex-studios.com",
     "email": "byron@xiotex-studios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416090/page_bg_generated_v6b.jpg?t=1482013804"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416090/page_bg_generated_v6b.jpg?t=1482013804",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

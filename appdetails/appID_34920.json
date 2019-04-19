@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Razor2: Hidden Skies Razor2: Hidden Skies is a top view shooter. The game has the style of successful classic arcade games, while using the latest technology to create great visuals and effects.  An old-school game with all new technology. Razor2 has easy gameplay, while challenging your skills with hundreds of enemies and bullets threatening you all the time. The soundtrack is another great feature, Razor2 uses classic orchestrated music, composed especially for the game. <br>\t\t\t\t\tRazor2 includes ten achievements and world records. Do your best, and place your name on the best players ranking.  Play hard to win titles such as the Destructor, shooting down 4000 enemies, or the &quot;almost impossible&quot; Ace Pilot, completing the game without using any continues.<br>\t\t\t\t\t<strong>Key features:</strong><br>\t\t\t\t\t<ul class=\"bb_ul\"><li>Shoot them up (shmup)<br>\t\t\t\t\t</li><li>Eight levels<br>\t\t\t\t\t</li><li>Fifty different enemy waves<br>\t\t\t\t\t</li><li>Incredible Boss fights<br>\t\t\t\t\t</li><li>Weapons and equipment upgrades<br>\t\t\t\t\t</li><li>Three difficulty levels<br>\t\t\t\t\t</li><li>World and local Records<br>\t\t\t\t\t</li><li>Ten medals and achievements<br>\t\t\t\t\t</li><li>Great graphics, art and shaders<br>\t\t\t\t\t</li><li>Easy and amazing gameplay<br>\t\t\t\t\t</li><li>Awesome orchestrated music<br>\t\t\t\t\t</li></ul>",
   "about_the_game": "Razor2: Hidden Skies Razor2: Hidden Skies is a top view shooter. The game has the style of successful classic arcade games, while using the latest technology to create great visuals and effects.  An old-school game with all new technology. Razor2 has easy gameplay, while challenging your skills with hundreds of enemies and bullets threatening you all the time. The soundtrack is another great feature, Razor2 uses classic orchestrated music, composed especially for the game. <br>\t\t\t\t\tRazor2 includes ten achievements and world records. Do your best, and place your name on the best players ranking.  Play hard to win titles such as the Destructor, shooting down 4000 enemies, or the &quot;almost impossible&quot; Ace Pilot, completing the game without using any continues.<br>\t\t\t\t\t<strong>Key features:</strong><br>\t\t\t\t\t<ul class=\"bb_ul\"><li>Shoot them up (shmup)<br>\t\t\t\t\t</li><li>Eight levels<br>\t\t\t\t\t</li><li>Fifty different enemy waves<br>\t\t\t\t\t</li><li>Incredible Boss fights<br>\t\t\t\t\t</li><li>Weapons and equipment upgrades<br>\t\t\t\t\t</li><li>Three difficulty levels<br>\t\t\t\t\t</li><li>World and local Records<br>\t\t\t\t\t</li><li>Ten medals and achievements<br>\t\t\t\t\t</li><li>Great graphics, art and shaders<br>\t\t\t\t\t</li><li>Easy and amazing gameplay<br>\t\t\t\t\t</li><li>Awesome orchestrated music<br>\t\t\t\t\t</li></ul>",
-  "short_description": "",
+  "short_description": "Razor2: Hidden Skies Razor2: Hidden Skies is a top view shooter. The game has the style of successful classic arcade games, while using the latest technology to create great visuals and effects. An old-school game with all new technology.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/34920/header.jpg?t=1447353252",
   "website": "http://www.invent4.com/razor2",
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 99,
+    "discount_percent": 90,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     4747
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 4747,
-          "percent_savings_text": "",
+          "percent_savings_text": "-90%",
           "percent_savings": 0,
-          "option_text": "Razor2: Hidden Skies - 9,99\u20ac",
+          "option_text": "Razor2: Hidden Skies - <span class=\"discount_original_price\">9,99\u20ac</span> 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -67,7 +69,7 @@
   },
   "metacritic": {
     "score": 61,
-    "url": "http://www.metacritic.com/game/pc/razor-2-hidden-skies?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/razor-2-hidden-skies?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -214,7 +216,7 @@
     }
   ],
   "recommendations": {
-    "total": 201
+    "total": 107
   },
   "achievements": {
     "total": 10,
@@ -269,5 +271,9 @@
     "url": "",
     "email": "sup@invent4.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/34920/page_bg_generated_v6b.jpg?t=1447353252"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/34920/page_bg_generated_v6b.jpg?t=1447353252",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

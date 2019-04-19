@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Welcome to helm! Steam and Metal \u2014 scroll shooter in the steampunk world. Hordes of steam enemies and huge bosses are waiting to be destroyed. Spectacular levels of handcrafted pixels waiting for someone to pass through them. Scoundrels have killed the professor and stolen his blueprints. Only his brave daughter in an experimental steamdriven aircraft is able to avenge her father's death. When there are too many enemies \u2014 just shoot 'em all up!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/bb.png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/little_delta_1.png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/garg.png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/steam_e_(4).png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/panzer_evil_man.png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/zep_morgenstern.png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/mg_effect_explosion4_08.png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/deltahopter_2.png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/cfriend1.png?t=1498061859\" >",
   "about_the_game": "Welcome to helm! Steam and Metal \u2014 scroll shooter in the steampunk world. Hordes of steam enemies and huge bosses are waiting to be destroyed. Spectacular levels of handcrafted pixels waiting for someone to pass through them. Scoundrels have killed the professor and stolen his blueprints. Only his brave daughter in an experimental steamdriven aircraft is able to avenge her father's death. When there are too many enemies \u2014 just shoot 'em all up!<br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/bb.png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/little_delta_1.png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/garg.png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/steam_e_(4).png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/panzer_evil_man.png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/zep_morgenstern.png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/mg_effect_explosion4_08.png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/deltahopter_2.png?t=1498061859\" > <img src=\"https://steamcdn-a.akamaihd.net/steam/apps/335010/extras/cfriend1.png?t=1498061859\" >",
-  "short_description": "Welcome to helm! Steam and Metal \u2014 scroll shooter in the steampunk world. Hordes of steam enemies and huge bosses are waiting to be destroyed. Spectacular levels of handcrafted pixels waiting for someone to pass through them. When there are too many enemies \u2014 just shoot 'em all up!<br><img src=\"{STEAM_APP_IMAGE}/extras/bb.png\" crossorigin=\"anonymous\">",
+  "short_description": "Welcome to helm! Steam and Metal \u2014 scroll shooter in the steampunk world. Hordes of steam enemies and huge bosses are waiting to be destroyed. Spectacular levels of handcrafted pixels waiting for someone to pass through them. When there are too many enemies \u2014 just shoot 'em all up!",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/335010/header.jpg?t=1498061859",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP / Vista / 7<br></li><li><strong>Processor:</strong> Intel Core2 Duo / Athron64 X2<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> Graphics card supporting shader 2.0 or higher, 1280x720<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP / Vista / 7<br></li><li><strong>\u30d7\u30ed\u30bb\u30c3\u30b5\u30fc:</strong> Intel Core2 Duo / Athron64 X2<br></li><li><strong>\u30e1\u30e2\u30ea\u30fc:</strong> 1024 MB RAM<br></li><li><strong>\u30b0\u30e9\u30d5\u30a3\u30c3\u30af:</strong> Graphics card supporting shader 2.0 or higher, 1280x720<br></li><li><strong>\u30b9\u30c8\u30ec\u30fc\u30b8:</strong> 250 MB \u5229\u7528\u53ef\u80fd</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     55278
@@ -229,5 +231,9 @@
     "url": "",
     "email": "maltakreuz@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/335010/page_bg_generated_v6b.jpg?t=1498061859"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/335010/page_bg_generated_v6b.jpg?t=1498061859",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

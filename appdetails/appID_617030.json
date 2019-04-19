@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     165478
@@ -238,7 +240,7 @@
     }
   ],
   "recommendations": {
-    "total": 139
+    "total": 145
   },
   "achievements": {
     "total": 19,
@@ -293,5 +295,9 @@
     "url": "http://www.codebulletus.com/",
     "email": "codebullet@protonmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/617030/page_bg_generated_v6b.jpg?t=1509400785"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/617030/page_bg_generated_v6b.jpg?t=1509400785",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

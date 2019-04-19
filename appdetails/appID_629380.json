@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Navigate through space and successfully land your spacecraft without crashing. Cosmic Pioneer is heavily inspired by the classic Moon Lander game.  <br />\r\nThe player traverses the galaxy and in order to stock up on fuel and equipment, has to land on every planet he passes. Each planet has unique features - <br />\r\nsome have stronger gravitational fields, winds, asteroids, or more inaccessible terrain. Since every level is randomly generated, the game will always <br />\r\nkeep you on your toes. The longer your voyage lasts, the tougher it becomes. <br />\r\n<br />\r\nChoose between different pilots with distinct spaceships to accommodate your playstyle. As you explore the galaxy, you might encounter various alien creatures that will offer upgrades and bonuses to your vessel. Be smart about your choices! Your adventure might come to a premature end if you end up without fuel mid-flight. Discover how long you can last in the cold vastness of space and aim for the high score!<br />\r\n<br />\r\nCosmic Pioneer is a simple yet addictive game. There is no big intro, no cutscenes... Just gameplay. The perfect game when you have some time to kill <br />\r\nwhile waiting for your ranked match to start or your raid party to group up.",
   "about_the_game": "Navigate through space and successfully land your spacecraft without crashing. Cosmic Pioneer is heavily inspired by the classic Moon Lander game.  <br />\r\nThe player traverses the galaxy and in order to stock up on fuel and equipment, has to land on every planet he passes. Each planet has unique features - <br />\r\nsome have stronger gravitational fields, winds, asteroids, or more inaccessible terrain. Since every level is randomly generated, the game will always <br />\r\nkeep you on your toes. The longer your voyage lasts, the tougher it becomes. <br />\r\n<br />\r\nChoose between different pilots with distinct spaceships to accommodate your playstyle. As you explore the galaxy, you might encounter various alien creatures that will offer upgrades and bonuses to your vessel. Be smart about your choices! Your adventure might come to a premature end if you end up without fuel mid-flight. Discover how long you can last in the cold vastness of space and aim for the high score!<br />\r\n<br />\r\nCosmic Pioneer is a simple yet addictive game. There is no big intro, no cutscenes... Just gameplay. The perfect game when you have some time to kill <br />\r\nwhile waiting for your ranked match to start or your raid party to group up.",
-  "short_description": "Navigate through space and successfully land your spacecraft without crashing. Cosmic Pioneer is heavily inspired by the classic Moon Lander game. <br />\r\nTraverses the galaxy made of randomly generated levels filled with various hazards, keep track of your ships condition and aim for the highest score.",
+  "short_description": "Navigate through space and successfully land your spacecraft without crashing. Cosmic Pioneer is heavily inspired by the classic Moon Lander game. Traverses the galaxy made of randomly generated levels filled with various hazards, keep track of your ships condition and aim for the highest score.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/629380/header.jpg?t=1496850808",
   "website": null,
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     171127
@@ -136,6 +138,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Jun, 2017"
@@ -144,5 +149,9 @@
     "url": "http://amaterasusoftware.com",
     "email": "amaterasu.software@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/629380/page_bg_generated_v6b.jpg?t=1496850808"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/629380/page_bg_generated_v6b.jpg?t=1496850808",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

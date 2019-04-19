@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     88051
@@ -141,7 +143,7 @@
     }
   ],
   "recommendations": {
-    "total": 954
+    "total": 912
   },
   "achievements": {
     "total": 45,
@@ -196,5 +198,9 @@
     "url": "http://www.softstar.com.tw/CSCenter/Trouble.aspx",
     "email": "service@softstargames.com.tw"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/427030/page_bg_generated_v6b.jpg?t=1456393985"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/427030/page_bg_generated_v6b.jpg?t=1456393985",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

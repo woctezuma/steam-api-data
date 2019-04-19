@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Enjoy Antaloor apart from visuals: with the <strong>Two Worlds II: Echoes of the Dark Past Soundtrack</strong>! The epic, atmospherically toned music will be a feast for your ears.<h2 class=\"bb_tag\"><strong>PLAYLIST</strong></h2><br><ul class=\"bb_ul\"><li>01. Memories 1 - Black Rumors -- [01:49]<br></li><li>02. Memories 2 - Entanglement -- [01:55]<br></li><li>03. Memories 3 - Bloody Resurection -- [01:51]<br></li><li>04. Memories 4 - Soulless Expectation -- [02:01]<br></li><li>05. Scraps of Dignity 1 - A Sudden Stampede -- [01:52]<br></li><li>06. Scraps of Dignity 2 - Guilt Trip -- [01:52]<br></li><li>07. Scraps of Dignity 3 - Traces Of Consciousness -- [01:52]<br></li><li>08. Welter Hope 1 - Flutter Ash -- [02:13]<br></li><li>09. Welter Hope 2 - Flashes of Cleansing -- [02:14]<br></li><li>10. Welter Hope 3 - Reborn by Himself -- [02:14]<br></li><li>11. The Will to Survive 1 - Seductive Dignity -- [01:28]<br></li><li>12. The Will to Survive 2 - Never too Late -- [01:28]<br></li><li>13. The Will to Survive 3 - Self-Awareness -- [01:28]<br></li><li>14. The Lost Temple - Weapons on fire -- [01:08]<br></li><li>15. Bonus Track: Call of the Tenebrae - Main theme  -- [03:47]</li></ul><br>Soundtrack composed by Dominika Barabas and Goran Bastinac.",
   "about_the_game": "Enjoy Antaloor apart from visuals: with the <strong>Two Worlds II: Echoes of the Dark Past Soundtrack</strong>! The epic, atmospherically toned music will be a feast for your ears.<h2 class=\"bb_tag\"><strong>PLAYLIST</strong></h2><br><ul class=\"bb_ul\"><li>01. Memories 1 - Black Rumors -- [01:49]<br></li><li>02. Memories 2 - Entanglement -- [01:55]<br></li><li>03. Memories 3 - Bloody Resurection -- [01:51]<br></li><li>04. Memories 4 - Soulless Expectation -- [02:01]<br></li><li>05. Scraps of Dignity 1 - A Sudden Stampede -- [01:52]<br></li><li>06. Scraps of Dignity 2 - Guilt Trip -- [01:52]<br></li><li>07. Scraps of Dignity 3 - Traces Of Consciousness -- [01:52]<br></li><li>08. Welter Hope 1 - Flutter Ash -- [02:13]<br></li><li>09. Welter Hope 2 - Flashes of Cleansing -- [02:14]<br></li><li>10. Welter Hope 3 - Reborn by Himself -- [02:14]<br></li><li>11. The Will to Survive 1 - Seductive Dignity -- [01:28]<br></li><li>12. The Will to Survive 2 - Never too Late -- [01:28]<br></li><li>13. The Will to Survive 3 - Self-Awareness -- [01:28]<br></li><li>14. The Lost Temple - Weapons on fire -- [01:08]<br></li><li>15. Bonus Track: Call of the Tenebrae - Main theme  -- [03:47]</li></ul><br>Soundtrack composed by Dominika Barabas and Goran Bastinac.",
-  "short_description": "Enjoy Antaloor apart from visuals: with the <strong>Two Worlds II: Echoes of the Dark Past Soundtrack</strong>! The epic, atmospherically toned music will be a feast for your ears.",
+  "short_description": "Enjoy Antaloor apart from visuals: with the Two Worlds II: Echoes of the Dark Past Soundtrack! The epic, atmospherically toned music will be a feast for your ears.",
   "fullgame": {
     "appid": "7520",
     "name": "Two Worlds II HD"
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 399,
-    "final": 279,
-    "discount_percent": 30
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     230418
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 230418,
-          "percent_savings_text": "-30%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Two Worlds II - EotDP Soundtrack - <span class=\"discount_original_price\">3,99\u20ac</span> 2,79\u20ac",
+          "option_text": "Two Worlds II - EotDP Soundtrack - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 279
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -100,6 +102,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/771200/ss_58195bf47dee02913044478144f941d4f209d6ad.1920x1080.jpg?t=1514476481"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Dec, 2017"
@@ -108,5 +113,13 @@
     "url": "http://www.topware.com",
     "email": "support@topware.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771200/page_bg_generated_v6b.jpg?t=1514476481"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771200/page_bg_generated_v6b.jpg?t=1514476481",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

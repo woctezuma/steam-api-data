@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 699,
-    "final": 699,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     195762
@@ -48,11 +50,11 @@
           "packageid": 195762,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Super Blockbreak 3D - 6,99\u20ac",
+          "option_text": "Super Blockbreak 3D - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 699
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -226,5 +228,9 @@
     "url": "",
     "email": "rcookman@outlook.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/684470/page_bg_generated_v6b.jpg?t=1501322948"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/684470/page_bg_generated_v6b.jpg?t=1501322948",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

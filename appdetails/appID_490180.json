@@ -5,9 +5,9 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>If you ever played the game &quot;Snake&quot; on your early model Nokia cellphone, then you're familiar with &quot;Nibbler,&quot; the original &quot;snake&quot; game. MAN VS SNAKE tells the story of Tim McVey who, in 1984, on a single quarter (and over 44 hours of non-stop play) was the first person in history to score over one billion points on a video game. 25 years later, rumors of a higher score surface online, attributed to Italian kickboxing champion Enrico Zanetti. This calls into question everything Tim McVey has believed for decades and forces him to make a decision: either set a new world record, or risk losing his legacy forever.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>If you ever played the game &quot;Snake&quot; on your early model Nokia cellphone, then you're familiar with &quot;Nibbler,&quot; the original &quot;snake&quot; game. MAN VS SNAKE tells the story of Tim McVey who, in 1984, on a single quarter (and over 44 hours of non-stop play) was the first person in history to score over one billion points on a video game. 25 years later, rumors of a higher score surface online, attributed to Italian kickboxing champion Enrico Zanetti. This calls into question everything Tim McVey has believed for decades and forces him to make a decision: either set a new world record, or risk losing his legacy forever.",
   "about_the_game": "If you ever played the game &quot;Snake&quot; on your early model Nokia cellphone, then you're familiar with &quot;Nibbler,&quot; the original &quot;snake&quot; game. MAN VS SNAKE tells the story of Tim McVey who, in 1984, on a single quarter (and over 44 hours of non-stop play) was the first person in history to score over one billion points on a video game. 25 years later, rumors of a higher score surface online, attributed to Italian kickboxing champion Enrico Zanetti. This calls into question everything Tim McVey has believed for decades and forces him to make a decision: either set a new world record, or risk losing his legacy forever.",
-  "short_description": "In 1984, on a single quarter (and over 44 hours of non-stop play), Tim McVey became the first person in history to score over one billion points on a video game. 25 years later, rumors of a higher score surface online, attributed to Italian kickboxing champion Enrico Zanetti. An out-of-shape Tim is forced to make a decision: either set a new world record, or risk losing his legacy forever.",
+  "short_description": "In 1984, on a single quarter (and over 44 hours of non-stop play), Tim McVey became the first person in history to score over one billion points on a video game. 25 years later, rumors of a higher score surface online, attributed to Italian kickboxing champion Enrico Zanetti.",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     110884,
@@ -131,6 +133,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Jun, 2016"
@@ -139,5 +144,9 @@
     "url": "",
     "email": "stephen@filmbuff.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/490180/page_bg_generated_v6b.jpg?t=1473895978"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/490180/page_bg_generated_v6b.jpg?t=1473895978",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

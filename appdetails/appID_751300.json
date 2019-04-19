@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     220799
@@ -120,5 +122,9 @@
     "url": "http://www.amgakuin.co.jp/amg-games/",
     "email": "amggames@amgakuin.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/751300/page_bg_generated_v6b.jpg?t=1517455119"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/751300/page_bg_generated_v6b.jpg?t=1517455119",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Spikit is a bullet hell game developed by a single developer, Igor Petrovi\u0107. With a soundtrack composed by Dario Male\u0161evi\u0107. In this game, the player will have to dodge a constant barrage of spikes coming from the side of the screen. Not only will the player have to evade the spikes currently on the screen, but they will also need to keep an eye out on the next wave of spikes and position themselves accordingly. <br />\r\n<br />\r\nThe longer the player manages to stay alive, the higher their end-score will be, with difficulty gradually increasing as time passes. As the game progresses, there will also be the chance of a box appearing. Boxes are the 'currency' of the game - collecting enough of them allows the purchase of new skins and themes, both mostly aesthetical features.",
   "about_the_game": "Spikit is a bullet hell game developed by a single developer, Igor Petrovi\u0107. With a soundtrack composed by Dario Male\u0161evi\u0107. In this game, the player will have to dodge a constant barrage of spikes coming from the side of the screen. Not only will the player have to evade the spikes currently on the screen, but they will also need to keep an eye out on the next wave of spikes and position themselves accordingly. <br />\r\n<br />\r\nThe longer the player manages to stay alive, the higher their end-score will be, with difficulty gradually increasing as time passes. As the game progresses, there will also be the chance of a box appearing. Boxes are the 'currency' of the game - collecting enough of them allows the purchase of new skins and themes, both mostly aesthetical features.",
-  "short_description": "Spikit is a bullet hell game developed by a single developer, Igor Petrovi\u0107. With a soundtrack composed by Dario Male\u0161evi\u0107. In this game, the player will have to dodge a constant barrage of spikes coming from the side of the screen. Not only will the player have to evade the spikes currently on the screen, but they will also need to keep an eye out on the next wave of spikes and position themselves accordingly.",
+  "short_description": "Spikit is a bullet hell game developed by a single developer, Igor Petrovi\u0107. With a soundtrack composed by Dario Male\u0161evi\u0107. In this game, the player will have to dodge a constant barrage of spikes coming from the side of the screen.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/509110/header.jpg?t=1490540140",
   "website": "http://www.backtobasicsgaming.com/",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     117805
@@ -136,7 +138,7 @@
     }
   ],
   "recommendations": {
-    "total": 338
+    "total": 172
   },
   "achievements": {
     "total": 6,
@@ -175,5 +177,9 @@
     "url": "http://www.backtobasicsgaming.com/#!contact/c6th",
     "email": "Dan@BackToBasicsGaming.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/509110/page_bg_generated_v6b.jpg?t=1490540140"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/509110/page_bg_generated_v6b.jpg?t=1490540140",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>The new arsenal is here! Rediscover Burning Retribution using new weapons and gadgets in the single-player mode or with your friends.</p>\n\t\t\t\t\t\t<h2>Key Features:</h2><ul>\n\t\t\t\t\t\t<li><strong>Advanced Beam Cannon:</strong> Raw power at the tip of your finger. A controllable, continuously emitting purple beam of energy is designed to lead enemies or opponents with ease and burn them to ashes.\n\t\t\t\t\t\t<li><strong>Repair Gun:</strong> Lose your Friendly Tank no more! This amazing tech repairs and resurrects friendly units and co-op buddies on the go!\n\t\t\t\t\t\t<li><strong>Booster:</strong> Grab your booster and become a hasty nemesis to your foes! Strap this baby on to go supersonic, outrun projectiles and outmaneuver your enemies and opponents.</ul>",
   "about_the_game": "<p>The new arsenal is here! Rediscover Burning Retribution using new weapons and gadgets in the single-player mode or with your friends.</p>\n\t\t\t\t\t\t<h2>Key Features:</h2><ul>\n\t\t\t\t\t\t<li><strong>Advanced Beam Cannon:</strong> Raw power at the tip of your finger. A controllable, continuously emitting purple beam of energy is designed to lead enemies or opponents with ease and burn them to ashes.\n\t\t\t\t\t\t<li><strong>Repair Gun:</strong> Lose your Friendly Tank no more! This amazing tech repairs and resurrects friendly units and co-op buddies on the go!\n\t\t\t\t\t\t<li><strong>Booster:</strong> Grab your booster and become a hasty nemesis to your foes! Strap this baby on to go supersonic, outrun projectiles and outmaneuver your enemies and opponents.</ul>",
-  "short_description": "",
+  "short_description": "The new arsenal is here! Rediscover Burning Retribution using new weapons and gadgets in the single-player mode or with your friends. Key Features: Advanced Beam Cannon: Raw power at the tip of your finger.",
   "fullgame": {
     "appid": "96200",
     "name": "Steel Storm: Burning Retribution"
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     12306
@@ -174,5 +176,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/202650/page_bg_generated_v6b.jpg?t=1447354962"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/202650/page_bg_generated_v6b.jpg?t=1447354962",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -4,17 +4,20 @@
   "steam_appid": 793350,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "Swarmlake is a challenging, small FPS about fighting 10,000 enemies at once, with the only goal of beating your highscore.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/793350/extras/Swarmlake_shoot.jpg?t=1523693891\" ><br><br><ul class=\"bb_ul\"><li>Simple: Collect shards from the ever-growing swarm to score<br></li><li>Vertical: Shoot into the ground or close enemies to fly skywards<br></li><li>Handcrafted: Custom-built, optimized engine and original theme song<br></li><li>Intense: Music visualization and 10,000 enemies in an infinite arena<br></li><li>Challenging: Highscore achievements and daily resetting leaderboard<br></li><li>Fun: Tight controls, instant action, fair enemies and no randomness</li></ul>",
-  "about_the_game": "Swarmlake is a challenging, small FPS about fighting 10,000 enemies at once, with the only goal of beating your highscore.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/793350/extras/Swarmlake_shoot.jpg?t=1523693891\" ><br><br><ul class=\"bb_ul\"><li>Simple: Collect shards from the ever-growing swarm to score<br></li><li>Vertical: Shoot into the ground or close enemies to fly skywards<br></li><li>Handcrafted: Custom-built, optimized engine and original theme song<br></li><li>Intense: Music visualization and 10,000 enemies in an infinite arena<br></li><li>Challenging: Highscore achievements and daily resetting leaderboard<br></li><li>Fun: Tight controls, instant action, fair enemies and no randomness</li></ul>",
-  "short_description": "Swarmlake is a challenging, small FPS about fighting 10,000 enemies at once, with the only goal of beating your highscore.",
-  "supported_languages": "English, French, Italian, German, Spanish, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese, Portuguese-Brazil, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/793350/header.jpg?t=1523693891",
+  "controller_support": "full",
+  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/793350/extras/Swarmlake_shoot.gif?t=1554722859\" ><br><br>Dance with billions of enemies in the ultra-intense shooter Swarmlake.<br><br><ul class=\"bb_ul\"><li>Vertical: Reach massive altitude by jumping off enemies<br></li><li>Explosive: Collide with bombs to trigger huge explosions<br></li><li>Simple: Collect shards from the ever growing swarm to score<br></li><li>Hand-crafted: Custom-made ultra-optimized engine and original music<br></li><li>Intense: Up to 20,000+ enemies simultaneously in an infinite space<br></li><li>Fun: Addictive score-chasing with extremely responsive controls</li></ul>",
+  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/793350/extras/Swarmlake_shoot.gif?t=1554722859\" ><br><br>Dance with billions of enemies in the ultra-intense shooter Swarmlake.<br><br><ul class=\"bb_ul\"><li>Vertical: Reach massive altitude by jumping off enemies<br></li><li>Explosive: Collide with bombs to trigger huge explosions<br></li><li>Simple: Collect shards from the ever growing swarm to score<br></li><li>Hand-crafted: Custom-made ultra-optimized engine and original music<br></li><li>Intense: Up to 20,000+ enemies simultaneously in an infinite space<br></li><li>Fun: Addictive score-chasing with extremely responsive controls</li></ul>",
+  "short_description": "Dance with billions of enemies in the ultra-intense shooter Swarmlake.",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Spanish - Latin America, Vietnamese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/793350/header.jpg?t=1554722859",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista<br></li><li><strong>Processor:</strong> Intel Core i3-550 @ 3.0 GHz / AMD FX 4100 @ 3.6 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GT 240 / AMD Radeon HD 4670 / Intel HD Graphics 4000<br></li><li><strong>Storage:</strong> 17 MB available space<br></li><li><strong>Additional Notes:</strong> OpenGL 3.3+</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista<br></li><li><strong>Processor:</strong> Intel Core i3 / AMD A6 @ 2.4GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GT 240 / AMD Radeon HD 4670 / Intel HD Graphics 4000<br></li><li><strong>Storage:</strong> 14 MB available space<br></li><li><strong>Additional Notes:</strong> OpenGL 3.3+</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5 / AMD FX @ 2.4GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 470 / AMD Radeon HD 6870<br></li><li><strong>Storage:</strong> 14 MB available space<br></li><li><strong>Additional Notes:</strong> OpenGL 3.3+</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
+  "legal_notice": "Swarmlake \u00a9 Dominique Grieshofer 2018 \u2013 2019",
   "developers": [
     "Dominique Grieshofer"
   ],
@@ -25,7 +28,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     240331
@@ -68,6 +73,18 @@
       "description": "Steam Achievements"
     },
     {
+      "id": 28,
+      "description": "Full controller support"
+    },
+    {
+      "id": 29,
+      "description": "Steam Trading Cards"
+    },
+    {
+      "id": 23,
+      "description": "Steam Cloud"
+    },
+    {
       "id": 25,
       "description": "Steam Leaderboards"
     }
@@ -89,107 +106,102 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_fe2102211bca1c672f1bf77d1cb2b4ee3a502dbf.600x338.jpg?t=1523693891",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_fe2102211bca1c672f1bf77d1cb2b4ee3a502dbf.1920x1080.jpg?t=1523693891"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_829e26f00abd991d4a352f6efbdce0b97a227fee.600x338.jpg?t=1554722859",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_829e26f00abd991d4a352f6efbdce0b97a227fee.1920x1080.jpg?t=1554722859"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_aa14469463b2fc521fdcf0293330e5583da9b013.600x338.jpg?t=1523693891",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_aa14469463b2fc521fdcf0293330e5583da9b013.1920x1080.jpg?t=1523693891"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_10735990f48ac4d4df4df17027af7316347a236d.600x338.jpg?t=1554722859",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_10735990f48ac4d4df4df17027af7316347a236d.1920x1080.jpg?t=1554722859"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_10735990f48ac4d4df4df17027af7316347a236d.600x338.jpg?t=1523693891",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_10735990f48ac4d4df4df17027af7316347a236d.1920x1080.jpg?t=1523693891"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_ba6f6c208496f45d0667635ff4a0bb6df8355232.600x338.jpg?t=1554722859",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_ba6f6c208496f45d0667635ff4a0bb6df8355232.1920x1080.jpg?t=1554722859"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_a7ae69d8638e61d66fa6f4218bf4616ed8cd98c1.600x338.jpg?t=1523693891",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_a7ae69d8638e61d66fa6f4218bf4616ed8cd98c1.1920x1080.jpg?t=1523693891"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_a04bddc9d32854968001fbf539b0909c22cf3527.600x338.jpg?t=1554722859",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_a04bddc9d32854968001fbf539b0909c22cf3527.1920x1080.jpg?t=1554722859"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_cacfaa8d28cd17e073ad0af38e7554a9ac6c3017.600x338.jpg?t=1523693891",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_cacfaa8d28cd17e073ad0af38e7554a9ac6c3017.1920x1080.jpg?t=1523693891"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_c3af48c382d8ed9b52db4d2f889aa4dd93feff0c.600x338.jpg?t=1554722859",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_c3af48c382d8ed9b52db4d2f889aa4dd93feff0c.1920x1080.jpg?t=1554722859"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_a90f2f9ff2678b9c90cb38122e144a7c30f39866.600x338.jpg?t=1523693891",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_a90f2f9ff2678b9c90cb38122e144a7c30f39866.1920x1080.jpg?t=1523693891"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_b9046bb1ebc7f6d2caf1b8c4cf95c4fd492f68ea.600x338.jpg?t=1554722859",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_b9046bb1ebc7f6d2caf1b8c4cf95c4fd492f68ea.1920x1080.jpg?t=1554722859"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_3280e215c315e87715c62140a1a7607fb6242cd8.600x338.jpg?t=1523693891",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_3280e215c315e87715c62140a1a7607fb6242cd8.1920x1080.jpg?t=1523693891"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_c9c469b8079b73aeb289e702a908de82f438bea3.600x338.jpg?t=1554722859",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_c9c469b8079b73aeb289e702a908de82f438bea3.1920x1080.jpg?t=1554722859"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_92ed4cf30f820a72c293ada9a285cd9d4310c0d1.600x338.jpg?t=1523693891",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_92ed4cf30f820a72c293ada9a285cd9d4310c0d1.1920x1080.jpg?t=1523693891"
-    },
-    {
-      "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_7fcd95eee26226f0eab3a386a6cc579f899a3b6f.600x338.jpg?t=1523693891",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_7fcd95eee26226f0eab3a386a6cc579f899a3b6f.1920x1080.jpg?t=1523693891"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_d81bb0b4b1c6397b45bcdc2dacbcf7adb4ebeabb.600x338.jpg?t=1554722859",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793350/ss_d81bb0b4b1c6397b45bcdc2dacbcf7adb4ebeabb.1920x1080.jpg?t=1554722859"
     }
   ],
   "movies": [
     {
-      "id": 256711110,
+      "id": 256746732,
       "name": "Swarmlake Trailer",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256711110/movie.293x165.jpg?t=1520648046",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256746732/movie.293x165.jpg?t=1553948947",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256711110/movie480.webm?t=1520648046",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256711110/movie_max.webm?t=1520648046"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256746732/movie480.webm?t=1553948947",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256746732/movie_max.webm?t=1553948947"
       },
       "highlight": true
     }
   ],
   "recommendations": {
-    "total": 174
+    "total": 743
   },
   "achievements": {
-    "total": 26,
+    "total": 27,
     "highlighted": [
       {
         "name": "100",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/4ea32c75e5b355c63df578b28327401c5a0da0bc.jpg"
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/159b5315e14a8a68eb950c808b51171e05d77ef0.jpg"
       },
       {
         "name": "200",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/5c41b2a63772f79e046aee88d1d35e7cb15f1fba.jpg"
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/71d3f1539da8a3ff2cb5f70e781410e64b69808a.jpg"
       },
       {
         "name": "300",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/3d3c2f912f8ae32431a94b34604393f5158ca957.jpg"
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/aace28c3896e032c51c0cc6354673d044a25abbe.jpg"
       },
       {
         "name": "400",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/9c87c5780d1e7f81892f0216ed50c1314f22fa8a.jpg"
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/3962ee8268bcc0fe75e2fbdc7d5fdba5de1c2e07.jpg"
       },
       {
         "name": "500",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/71412eaf28b584a67e71eb483e7b677cc3744458.jpg"
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/9a7d416878ee2f8528402bba091a8b1b72a0457a.jpg"
       },
       {
         "name": "600",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/7a829108d8976365abcb3b39275d8e1faa93445f.jpg"
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/7b790c4772ce2f1321458f62c350c563624f16b1.jpg"
+      },
+      {
+        "name": "700",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/b96ad639a914f3e02fe0c19d7fb0d37fbb9d464d.jpg"
       },
       {
         "name": "800",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/f4635ce270dba3da39376cf41a9dd84a707efba9.jpg"
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/6db9a213c53507d629627575c31ea9f5d7abacbe.jpg"
+      },
+      {
+        "name": "900",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/f76d13c048aecc43ba89717dff6219a4da685d7f.jpg"
       },
       {
         "name": "1,000",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/920314b79c124193b67b0f6fa3e896368f737e8a.jpg"
-      },
-      {
-        "name": "1,500",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/3499b9b41f0892033652253697581392c650d443.jpg"
-      },
-      {
-        "name": "2,000",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/21ebd5741e76eeae856d9e950922f9d4001586c4.jpg"
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/793350/2ddb1dffaa5303c4c34d96bfde20c08fbe5609ed.jpg"
       }
     ]
   },
@@ -201,5 +213,9 @@
     "url": "",
     "email": "contact@refunctgame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793350/page_bg_generated_v6b.jpg?t=1523693891"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793350/page_bg_generated_v6b.jpg?t=1554722859",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

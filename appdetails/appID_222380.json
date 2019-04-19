@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "<p>Hunt down the evil \"Big Mama\" Grimmoc in this all new chapter. Assemble your team and revisit the stunning realms of Ancaria!\n</p>\n\n<p>The battle has been won, but the war is not over yet! \"Big Mama\", the malodorous leader of the evil Grimmoc has escaped with the stolen Seraphim artifact into the menacing jungles of Ancaria! Bring \"Big Mama\" to justice and retrieve the valuable item. Gather together once again, combine your friend's skills and  enjoy this enthralling new chapter of Sacred Citadel.\n</p>\n\n",
   "about_the_game": "<p>Hunt down the evil \"Big Mama\" Grimmoc in this all new chapter. Assemble your team and revisit the stunning realms of Ancaria!\n</p>\n\n<p>The battle has been won, but the war is not over yet! \"Big Mama\", the malodorous leader of the evil Grimmoc has escaped with the stolen Seraphim artifact into the menacing jungles of Ancaria! Bring \"Big Mama\" to justice and retrieve the valuable item. Gather together once again, combine your friend's skills and  enjoy this enthralling new chapter of Sacred Citadel.\n</p>\n\n",
-  "short_description": "",
+  "short_description": "Hunt down the evil \"Big Mama\" Grimmoc in this all new chapter. Assemble your team and revisit the stunning realms of Ancaria! The battle has been won, but the war is not over yet! \"Big Mama\", the malodorous leader of the evil Grimmoc has escaped with the stolen Seraphim artifact into the menacing jungles of Ancaria!",
   "fullgame": {
     "appid": "207930",
     "name": "Sacred Citadel"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French, Italian, Spanish, Russian, Japanese, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French, Italian, Spanish - Spain, Russian, Japanese, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/222380/header.jpg?t=1447356786",
   "website": "http://www.sacred-world.com/",
   "pc_requirements": {
@@ -30,11 +30,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    27182,
-    67170
+    27182
   ],
   "package_groups": [
     {
@@ -55,16 +56,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 199
-        },
-        {
-          "packageid": 67170,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Sacred Franchise Pack - 36,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 3699
         }
       ]
     }
@@ -121,6 +112,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/222380/ss_b97cb9c77fbd9da552bf50c3d12a4252f1f1f577.1920x1080.jpg?t=1447356786"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Apr, 2013"
@@ -129,5 +123,9 @@
     "url": "http://www.deepsilver.com/us/support/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/222380/page_bg_generated_v6b.jpg?t=1447356786"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/222380/page_bg_generated_v6b.jpg?t=1447356786",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

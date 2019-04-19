@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 1099,
     "final": 1099,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,99\u20ac"
   },
   "packages": [
     91971
@@ -138,7 +140,7 @@
     }
   ],
   "recommendations": {
-    "total": 193
+    "total": 206
   },
   "achievements": {
     "total": 33,
@@ -193,5 +195,9 @@
     "url": "",
     "email": "pixeltrickerygames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437250/page_bg_generated_v6b.jpg?t=1487077207"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437250/page_bg_generated_v6b.jpg?t=1487077207",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

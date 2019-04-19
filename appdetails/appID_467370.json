@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/467370/extras/escapethis.png?t=1467769015\" ><h2 class=\"bb_tag\"><strong>Escape This</strong></h2> is a casual puzzle game where the main objective is for the player to complete the given stage. <br>Each stage is selected at random.<br><br>All maps can be edited and you are also able to create your own unique maps and share them with the rest of the community.<br><br><strong>Can you escape?</strong>",
   "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/467370/extras/escapethis.png?t=1467769015\" ><h2 class=\"bb_tag\"><strong>Escape This</strong></h2> is a casual puzzle game where the main objective is for the player to complete the given stage. <br>Each stage is selected at random.<br><br>All maps can be edited and you are also able to create your own unique maps and share them with the rest of the community.<br><br><strong>Can you escape?</strong>",
-  "short_description": "<h2 class=\"bb_tag\"><strong>Escape This</strong></h2> is a casual puzzle game.",
+  "short_description": "Escape This is a casual puzzle game.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/467370/header.jpg?t=1467769015",
   "website": "http://fourwingedstudio.com/escape-this/",
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     102912
@@ -130,9 +132,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 485
-  },
   "achievements": {
     "total": 5,
     "highlighted": [
@@ -166,5 +165,9 @@
     "url": "fourwingedstudio.com",
     "email": "admin@fourwingedstudio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467370/page_bg_generated_v6b.jpg?t=1467769015"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467370/page_bg_generated_v6b.jpg?t=1467769015",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

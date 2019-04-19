@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Grimm episode 19 - Mulan",
   "about_the_game": "Grimm episode 19 - Mulan",
-  "short_description": "",
+  "short_description": "Grimm episode 19 - Mulan",
   "fullgame": {
     "appid": "252150",
     "name": "Grimm"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     33730,
@@ -141,5 +143,9 @@
     "url": "http://support.spicyhorse.com",
     "email": "support@spicyhorsegames.zendesk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261408/page_bg_generated_v6b.jpg?t=1447359316"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261408/page_bg_generated_v6b.jpg?t=1447359316",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

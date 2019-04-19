@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "This DLC includes a soundtrack to the game RunRabbitRun. It was composed by a great person, Nikita Voznesenskiy, aka Spaceman. And this nickname really suits him. If you need a proof, just listen to the album he's been working on for a year and a half.<br />\r\nApart of original tracks featured in RunRabbitRun, this pack includes a few more tracks composed for the game, which were not used in the final build for some reason. However we find them terrific - aggressive, varied and stirring.<br />\r\nJust check it yourself =)",
   "about_the_game": "This DLC includes a soundtrack to the game RunRabbitRun. It was composed by a great person, Nikita Voznesenskiy, aka Spaceman. And this nickname really suits him. If you need a proof, just listen to the album he's been working on for a year and a half.<br />\r\nApart of original tracks featured in RunRabbitRun, this pack includes a few more tracks composed for the game, which were not used in the final build for some reason. However we find them terrific - aggressive, varied and stirring.<br />\r\nJust check it yourself =)",
-  "short_description": "This DLC includes a soundtrack to the game RunRabbitRun. It was composed by a great person, Nikita Voznesenskiy, aka Spaceman. And this nickname really suits him. If you need a proof, just listen to the album he's been working on for a year and a half.<br />\r\nApart of original tracks featured in RunRabbitRun, this pack includes a few more tracks composed for the game, which were not used in the final build for some reason. However we find them terrific - aggressive, varied and stirring.",
+  "short_description": "This DLC includes a soundtrack to the game RunRabbitRun. It was composed by a great person, Nikita Voznesenskiy, aka Spaceman. And this nickname really suits him. If you need a proof, just listen to the album he's been working on for a year and a half.",
   "fullgame": {
     "appid": "409560",
     "name": "Run Rabbit Run"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     96596
@@ -155,5 +157,9 @@
     "url": "http://absolutist.com/",
     "email": "support@absolutist.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/450070/page_bg_generated_v6b.jpg?t=1459442005"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/450070/page_bg_generated_v6b.jpg?t=1459442005",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

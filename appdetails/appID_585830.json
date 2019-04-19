@@ -4,17 +4,14 @@
   "steam_appid": 585830,
   "required_age": 0,
   "is_free": false,
-  "dlc": [
-    845980
-  ],
-  "detailed_description": "<h1>New DLC Available</h1><p><a href=\"http://store.steampowered.com/app/845980/Ninja_Stealth_2__Golden_Edition/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/845980/Ninja_Stealth_2__Golden_Edition/</a></a></p><br><h1>About the Game</h1>Ninja Stealth 2 is the sequel of Ninja Stealth - A.I. Revolution, now as a RPG with more puzzles than sensors.<h2 class=\"bb_tag\"><strong><u>The Game:</u></strong></h2><ul class=\"bb_ul\"><li>38 new levels to explore<br></li><li>The final part of the story<br></li><li>New puzzles<br></li><li>2 different endings, your choices will decide which one you will see!<br></li><li>And a radioactive dog as your friend...</li></ul>",
+  "detailed_description": "Ninja Stealth 2 is the sequel of Ninja Stealth - A.I. Revolution, now as a RPG with more puzzles than sensors.<h2 class=\"bb_tag\"><strong><u>The Game:</u></strong></h2><ul class=\"bb_ul\"><li>38 new levels to explore<br></li><li>The final part of the story<br></li><li>New puzzles<br></li><li>2 different endings, your choices will decide which one you will see!<br></li><li>And a radioactive dog as your friend...</li></ul>",
   "about_the_game": "Ninja Stealth 2 is the sequel of Ninja Stealth - A.I. Revolution, now as a RPG with more puzzles than sensors.<h2 class=\"bb_tag\"><strong><u>The Game:</u></strong></h2><ul class=\"bb_ul\"><li>38 new levels to explore<br></li><li>The final part of the story<br></li><li>New puzzles<br></li><li>2 different endings, your choices will decide which one you will see!<br></li><li>And a radioactive dog as your friend...</li></ul>",
   "short_description": "Ninja Stealth 2 is the sequel of Ninja Stealth - A.I. Revolution, now as a RPG with more puzzles than sensors.",
-  "supported_languages": "English, Portuguese-Brazil",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/585830/header.jpg?t=1523565905",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/585830/header.jpg?t=1552380483",
   "website": "https://scjogos.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae XP or higher<br></li><li><strong>Processor:</strong> 1.6 GHz or higher<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> Integrated</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2Ghz+<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -26,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 49,
-    "discount_percent": 75
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     151357,
@@ -46,23 +45,23 @@
       "subs": [
         {
           "packageid": 151357,
-          "percent_savings_text": "-75%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Ninja Stealth 2 - <span class=\"discount_original_price\">1,99\u20ac</span> 0,49\u20ac",
+          "option_text": "Ninja Stealth 2 - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 49
+          "price_in_cents_with_discount": 79
         },
         {
           "packageid": 230469,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Ninja Stealth 2 - Commercial License - 2,99\u20ac",
+          "option_text": "Ninja Stealth 2 - Commercial License - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -92,45 +91,61 @@
   ],
   "genres": [
     {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
       "id": "23",
       "description": "Indie"
+    },
+    {
+      "id": "3",
+      "description": "RPG"
+    },
+    {
+      "id": "2",
+      "description": "Strategy"
     }
   ],
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_4e8c8a65be453800269eaab5f8f792456282921a.600x338.jpg?t=1523565905",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_4e8c8a65be453800269eaab5f8f792456282921a.1920x1080.jpg?t=1523565905"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_4e8c8a65be453800269eaab5f8f792456282921a.600x338.jpg?t=1552380483",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_4e8c8a65be453800269eaab5f8f792456282921a.1920x1080.jpg?t=1552380483"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_465a84b7fb7eb90ec2f301feb9e9c022898350fd.600x338.jpg?t=1523565905",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_465a84b7fb7eb90ec2f301feb9e9c022898350fd.1920x1080.jpg?t=1523565905"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_465a84b7fb7eb90ec2f301feb9e9c022898350fd.600x338.jpg?t=1552380483",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_465a84b7fb7eb90ec2f301feb9e9c022898350fd.1920x1080.jpg?t=1552380483"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_20648d230d923b2cf7896d92b91d5668f71a6fdd.600x338.jpg?t=1523565905",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_20648d230d923b2cf7896d92b91d5668f71a6fdd.1920x1080.jpg?t=1523565905"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_20648d230d923b2cf7896d92b91d5668f71a6fdd.600x338.jpg?t=1552380483",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_20648d230d923b2cf7896d92b91d5668f71a6fdd.1920x1080.jpg?t=1552380483"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_521ba00964ca0be93b23cd1098e40fb006e11e7c.600x338.jpg?t=1523565905",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_521ba00964ca0be93b23cd1098e40fb006e11e7c.1920x1080.jpg?t=1523565905"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_521ba00964ca0be93b23cd1098e40fb006e11e7c.600x338.jpg?t=1552380483",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_521ba00964ca0be93b23cd1098e40fb006e11e7c.1920x1080.jpg?t=1552380483"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_b21e8a371caa1fb73107a265faaeb459d2d59d62.600x338.jpg?t=1523565905",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_b21e8a371caa1fb73107a265faaeb459d2d59d62.1920x1080.jpg?t=1523565905"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_b21e8a371caa1fb73107a265faaeb459d2d59d62.600x338.jpg?t=1552380483",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_b21e8a371caa1fb73107a265faaeb459d2d59d62.1920x1080.jpg?t=1552380483"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_05e69f83960d0e1d664f58db1b831bc08a093595.600x338.jpg?t=1523565905",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_05e69f83960d0e1d664f58db1b831bc08a093595.1920x1080.jpg?t=1523565905"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_05e69f83960d0e1d664f58db1b831bc08a093595.600x338.jpg?t=1552380483",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_05e69f83960d0e1d664f58db1b831bc08a093595.1920x1080.jpg?t=1552380483"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_3cc5abcc705397ceb95ca12325406114cacf7ee8.600x338.jpg?t=1523565905",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_3cc5abcc705397ceb95ca12325406114cacf7ee8.1920x1080.jpg?t=1523565905"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_3cc5abcc705397ceb95ca12325406114cacf7ee8.600x338.jpg?t=1552380483",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/585830/ss_3cc5abcc705397ceb95ca12325406114cacf7ee8.1920x1080.jpg?t=1552380483"
     }
   ],
   "movies": [
@@ -145,8 +160,11 @@
       "highlight": true
     }
   ],
+  "recommendations": {
+    "total": 144
+  },
   "achievements": {
-    "total": 10,
+    "total": 5000,
     "highlighted": [
       {
         "name": "Pee!",
@@ -198,5 +216,9 @@
     "url": "https://scjogos.com",
     "email": "suporte@scjogos.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/585830/page_bg_generated_v6b.jpg?t=1523565905"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/585830/page_bg_generated_v6b.jpg?t=1552380483",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

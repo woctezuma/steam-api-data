@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "You will receive the following additional items:<br />\r\n<br />\r\n- Exclusive avatar clothing (1 gold hat, leather top,leather trousers/skirt and fancy boots)<br />\r\n- Exclusive humming bird<br />\r\n- Exclusive clubs (1 putter and chipper)<br />\r\n- 3 exclusive gold surfaces in the Course Creator<br />\r\n- Exclusive gold metal in Course Creator<br />\r\n- 2 gold statues in Course Creator",
   "about_the_game": "You will receive the following additional items:<br />\r\n<br />\r\n- Exclusive avatar clothing (1 gold hat, leather top,leather trousers/skirt and fancy boots)<br />\r\n- Exclusive humming bird<br />\r\n- Exclusive clubs (1 putter and chipper)<br />\r\n- 3 exclusive gold surfaces in the Course Creator<br />\r\n- Exclusive gold metal in Course Creator<br />\r\n- 2 gold statues in Course Creator",
-  "short_description": "",
+  "short_description": "You will receive the following additional items: - Exclusive avatar clothing (1 gold hat, leather top,leather trousers/skirt and fancy boots) - Exclusive humming bird - Exclusive clubs (1 putter and chipper) - 3 exclusive gold surfaces in the Course Creator - Exclusive gold metal in Course Creator - 2 gold statues in Course Creator",
   "fullgame": {
     "appid": "272890",
     "name": "Vertiginous Golf"
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     67640
@@ -106,6 +108,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/316590/ss_75afde7cd084c866b5e3a2d2934af585aa25c729.1920x1080.jpg?t=1482539483"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 May, 2015"
@@ -114,5 +119,9 @@
     "url": "http://verti-golf.com",
     "email": "support@surpriseattack.com.au"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/316590/page_bg_generated_v6b.jpg?t=1482539483"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/316590/page_bg_generated_v6b.jpg?t=1482539483",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

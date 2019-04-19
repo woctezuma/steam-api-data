@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     222659
@@ -91,6 +93,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/755370/ss_360fefa82a481d03b106e6fa785802c300aae792.1920x1080.jpg?t=1522759724"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Dec, 2017"
@@ -99,5 +104,9 @@
     "url": "",
     "email": "contact@smart-junior-academy.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/755370/page_bg_generated_v6b.jpg?t=1522759724"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/755370/page_bg_generated_v6b.jpg?t=1522759724",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

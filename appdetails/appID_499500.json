@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Tracklist:<br />\r\n<br />\r\nAXYOS (OST) - Main Theme<br />\r\nAXYOS (OST) - Cross Fire<br />\r\nAXYOS (OST) - Sniper In Action",
   "about_the_game": "Tracklist:<br />\r\n<br />\r\nAXYOS (OST) - Main Theme<br />\r\nAXYOS (OST) - Cross Fire<br />\r\nAXYOS (OST) - Sniper In Action",
-  "short_description": "",
+  "short_description": "Tracklist: AXYOS (OST) - Main Theme AXYOS (OST) - Cross Fire AXYOS (OST) - Sniper In Action",
   "fullgame": {
     "appid": "318100",
     "name": "AXYOS"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     114367
@@ -122,5 +124,9 @@
     "url": "https://axyosgames.com",
     "email": "Support@AxyosGames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499500/page_bg_generated_v6b.jpg?t=1520338116"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499500/page_bg_generated_v6b.jpg?t=1520338116",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

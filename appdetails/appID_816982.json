@@ -12,7 +12,7 @@
     "appid": "518060",
     "name": "Chess Ultra"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Dutch, Russian, Portuguese-Brazil",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Russian, Portuguese - Brazil",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/816982/header.jpg?t=1522934568",
   "website": "http://playchessultra.com",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     250107
@@ -177,6 +179,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816982/ss_f54b041710a5419b94facd7a94e5fd00f5e48da1.1920x1080.jpg?t=1522934568"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Apr, 2018"
@@ -185,5 +190,9 @@
     "url": "http://www.ripstone.com",
     "email": "support@ripstone.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/816982/page_bg_generated_v6b.jpg?t=1522934568"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/816982/page_bg_generated_v6b.jpg?t=1522934568",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

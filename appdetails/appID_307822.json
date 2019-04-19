@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<h2 class=\"bb_tag\">DLC Bundle #3 contains the following items (which were formerly sold separately):</h2> <br><strong>Top-Breeder Pack</strong> Contains 2 Stardust Claws, 2 Mithril Beast Claws+, 2 Beast King Fangs+, and 2 Stardust Claws+. Your monster will look nice and pretty with this wonderful new items!<br><br><strong>Carrot-and-Stick Pack</strong> Contains 1 S. V. Rouge, 1 Princess Bustier, and 1 Princess's Tiara. There's no doubt this is going to get punished by the princess. Probably shouldn't have forced her to put on that bustier...<br><br><strong>Playful Cat Pack</strong> Contains 1 Legendary Cat's Paw, 1 Sigil Wing, 1 Hiyokomaki, and 1 Demon Frame. Meow! Meow! Meoooow! I love cats... Really. I love it when they toy with me...<br><br><strong>Additional-Points Pack 3</strong> Contains 500,000G, 250,000EP, 500PP, and 5,000TP. This package will make you feel generous all the time.<br><br><strong>Jack Pack DLC</strong> Contains 1 Mugen's Craw, 1 Sarnga, 1 Soul Sucker, 1 Sanctuary, 1 Extra Heal, 1 Resurrection, 1 HP Up+, and 1 Resist Ailments+. It contains only one of each because most of them are sharp objects. The rest of the package is...up to your imagination.",
   "about_the_game": "<h2 class=\"bb_tag\">DLC Bundle #3 contains the following items (which were formerly sold separately):</h2> <br><strong>Top-Breeder Pack</strong> Contains 2 Stardust Claws, 2 Mithril Beast Claws+, 2 Beast King Fangs+, and 2 Stardust Claws+. Your monster will look nice and pretty with this wonderful new items!<br><br><strong>Carrot-and-Stick Pack</strong> Contains 1 S. V. Rouge, 1 Princess Bustier, and 1 Princess's Tiara. There's no doubt this is going to get punished by the princess. Probably shouldn't have forced her to put on that bustier...<br><br><strong>Playful Cat Pack</strong> Contains 1 Legendary Cat's Paw, 1 Sigil Wing, 1 Hiyokomaki, and 1 Demon Frame. Meow! Meow! Meoooow! I love cats... Really. I love it when they toy with me...<br><br><strong>Additional-Points Pack 3</strong> Contains 500,000G, 250,000EP, 500PP, and 5,000TP. This package will make you feel generous all the time.<br><br><strong>Jack Pack DLC</strong> Contains 1 Mugen's Craw, 1 Sarnga, 1 Soul Sucker, 1 Sanctuary, 1 Extra Heal, 1 Resurrection, 1 HP Up+, and 1 Resist Ailments+. It contains only one of each because most of them are sharp objects. The rest of the package is...up to your imagination.",
-  "short_description": "<h2 class=\"bb_tag\">DLC Bundle #3</h2>Top-Breeder Pack<br>Carrot-and-Stick Pack<br>Playful-Cat Pack<br>Additional-Points Pack 3<br>Jack Pack",
+  "short_description": "DLC Bundle #3Top-Breeder PackCarrot-and-Stick PackPlayful-Cat PackAdditional-Points Pack 3Jack Pack",
   "fullgame": {
     "appid": "237890",
     "name": "Agarest: Generations of War"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     45958
@@ -116,6 +118,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/307822/ss_b132eb18aa61dcce9fcbf59b2c8c25087e48a704.1920x1080.jpg?t=1447362328"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Jun, 2014"
@@ -124,5 +129,9 @@
     "url": "",
     "email": "support@ghostlight.uk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/307822/page_bg_generated_v6b.jpg?t=1447362328"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/307822/page_bg_generated_v6b.jpg?t=1447362328",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

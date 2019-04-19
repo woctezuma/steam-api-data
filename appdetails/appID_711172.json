@@ -12,7 +12,7 @@
     "appid": "493900",
     "name": "Dungeons 3"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Simplified Chinese, Russian<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong>, Czech<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Simplified Chinese, Russian<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/711172/header.jpg?t=1519740843",
   "website": "http://www.kalypsomedia.com",
   "pc_requirements": {
@@ -36,8 +36,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 249,
+    "discount_percent": 50,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     205645
@@ -54,13 +56,13 @@
       "subs": [
         {
           "packageid": 205645,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Dungeons 3 - Once Upon A Time - 4,99\u20ac",
+          "option_text": "Dungeons 3 - Once Upon A Time - <span class=\"discount_original_price\">4,99\u20ac</span> 2,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 249
         }
       ]
     }
@@ -194,6 +196,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Feb, 2018"
@@ -202,5 +207,9 @@
     "url": "http://www.kalypsomedia.com/",
     "email": "support@kalypsomedia.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/711172/page_bg_generated_v6b.jpg?t=1519740843"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/711172/page_bg_generated_v6b.jpg?t=1519740843",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

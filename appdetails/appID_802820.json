@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Experience the highs, the lows, and the victories in this in depth look at the world of rapid video game development as Game Jam The Movie follows 12 teams through a 48 hr game development competition sponsored by tech moguls. The winners earn a VIP trip to IndieCade to showcase their games and meet industry titans...(Playstation, Oculus, Cartoon Network).",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Experience the highs, the lows, and the victories in this in depth look at the world of rapid video game development as Game Jam The Movie follows 12 teams through a 48 hr game development competition sponsored by tech moguls. The winners earn a VIP trip to IndieCade to showcase their games and meet industry titans...(Playstation, Oculus, Cartoon Network).",
   "about_the_game": "Experience the highs, the lows, and the victories in this in depth look at the world of rapid video game development as Game Jam The Movie follows 12 teams through a 48 hr game development competition sponsored by tech moguls. The winners earn a VIP trip to IndieCade to showcase their games and meet industry titans...(Playstation, Oculus, Cartoon Network).",
   "short_description": "Game Jam The Movie follows 12 teams through a 48 hr game development competition sponsored by tech moguls.",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     244401,
@@ -154,6 +156,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Mar, 2018"
@@ -162,5 +167,9 @@
     "url": "httP://devolverdigitalfilms.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/802820/page_bg_generated_v6b.jpg?t=1521134842"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/802820/page_bg_generated_v6b.jpg?t=1521134842",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This pack includes 3 new weapons: TMP (9mm, full auto), Beretta 93DA (10mm, full auto) and Colt 1911 (.45).<br />\r\nAfter installing DLC you will find new guns in your game inventory.",
   "about_the_game": "This pack includes 3 new weapons: TMP (9mm, full auto), Beretta 93DA (10mm, full auto) and Colt 1911 (.45).<br />\r\nAfter installing DLC you will find new guns in your game inventory.",
-  "short_description": "This pack includes 3 new weapons: TMP (9mm, full auto), Beretta 93DA (10mm, full auto) and Colt 1911 (.45).<br />\r\nAfter installing DLC you will find new guns in your game inventory.",
+  "short_description": "This pack includes 3 new weapons: TMP (9mm, full auto), Beretta 93DA (10mm, full auto) and Colt 1911 (.45). After installing DLC you will find new guns in your game inventory.",
   "fullgame": {
     "appid": "332790",
     "name": "Darkness Assault"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     67325
@@ -105,5 +107,9 @@
     "url": "",
     "email": "admin@blacklimestudio.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/369610/page_bg_generated_v6b.jpg?t=1447374194"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/369610/page_bg_generated_v6b.jpg?t=1447374194",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

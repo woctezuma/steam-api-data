@@ -7,7 +7,7 @@
   "detailed_description": "All Hallow\u2019s Eve is upon us, and the royal court is eager to celebrate! Help the Queen and her loyal assistant Jack decorate the palace garden in time for the Halloween celebrations. Customize your garden, and unlock delightfully eerie new items to place within it. <br />\r\n<br />\r\nPlay over 130 levels, collect special jewels and purchase plants and decorations to design the spookiest Halloween garden ever!<br />\r\n<br />\r\nNight fell, sending shivers down your spine. Will you persist? The Queen counts on your Match 3 bravery!<br />\r\n<br />\r\n- Fully customizable gardens<br />\r\n- Many Halloween decorations to choose<br />\r\n- Visit your garden at night!",
   "about_the_game": "All Hallow\u2019s Eve is upon us, and the royal court is eager to celebrate! Help the Queen and her loyal assistant Jack decorate the palace garden in time for the Halloween celebrations. Customize your garden, and unlock delightfully eerie new items to place within it. <br />\r\n<br />\r\nPlay over 130 levels, collect special jewels and purchase plants and decorations to design the spookiest Halloween garden ever!<br />\r\n<br />\r\nNight fell, sending shivers down your spine. Will you persist? The Queen counts on your Match 3 bravery!<br />\r\n<br />\r\n- Fully customizable gardens<br />\r\n- Many Halloween decorations to choose<br />\r\n- Visit your garden at night!",
   "short_description": "Night fell, sending shivers down your spine. Will you persist? The Queen counts on your Match 3 bravery!",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Dutch, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Dutch, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/726100/header.jpg?t=1512717634",
   "website": null,
   "pc_requirements": {
@@ -29,10 +29,13 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
-    211500
+    211500,
+    310155
   ],
   "package_groups": [
     {
@@ -48,7 +51,17 @@
           "packageid": 211500,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Queen's Gartden: Halloween - 6,99\u20ac",
+          "option_text": "Queen's Garden: Halloween - 6,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 699
+        },
+        {
+          "packageid": 310155,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Queen's Garden: Halloween - Commercial License - 6,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -131,6 +144,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Dec, 2017"
@@ -139,5 +155,9 @@
     "url": "http://www.sevensails.com.br",
     "email": "contact@sevensails.com.br"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/726100/page_bg_generated_v6b.jpg?t=1512717634"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/726100/page_bg_generated_v6b.jpg?t=1512717634",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

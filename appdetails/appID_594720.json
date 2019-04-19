@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     155300
@@ -131,6 +133,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Mar, 2017"
@@ -139,5 +144,9 @@
     "url": "",
     "email": "simprosestudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/594720/page_bg_generated_v6b.jpg?t=1489189017"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/594720/page_bg_generated_v6b.jpg?t=1489189017",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

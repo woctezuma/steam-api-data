@@ -11,16 +11,16 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/528790/header.jpg?t=1475317188",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 and 8<br></li><li><strong>Processor:</strong> Intel I5-4590/AMD<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970/AM<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li>Syst\u00e8me d'exploitation et processeur 64 bits n\u00e9cessaires<br></li><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7 and 8<br></li><li><strong>Processeur\u00a0:</strong> Intel I5-4590/AMD<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 4 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> NVIDIA GTX 970/AM<br></li><li><strong>Espace disque\u00a0:</strong> 600 MB d'espace disque disponible</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li>Syst\u00e8me d'exploitation et processeur 64 bits n\u00e9cessaires</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li>Syst\u00e8me d'exploitation et processeur 64 bits n\u00e9cessaires</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li>Syst\u00e8me d'exploitation et processeur 64 bits n\u00e9cessaires</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li>Syst\u00e8me d'exploitation et processeur 64 bits n\u00e9cessaires</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li>Syst\u00e8me d'exploitation et processeur 64 bits n\u00e9cessaires</li></ul>"
   },
   "legal_notice": "Development : Fran\u00e7ois Bouille <br />\r\nPhotogrammetry : Fran\u00e7ois BOUILLE and Quentin De Cagny<br />\r\nMusic : Regis Daniel",
   "developers": [
@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     127104
@@ -52,11 +54,11 @@
           "packageid": 127104,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Oneiric Sculptures - Rodin - 4,99\u20ac",
+          "option_text": "Oneiric Sculptures - Rodin - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -125,6 +127,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Sep, 2016"
@@ -133,5 +138,9 @@
     "url": "",
     "email": "francois.bouille@wanadoo.fr"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/528790/page_bg_generated_v6b.jpg?t=1475317188"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/528790/page_bg_generated_v6b.jpg?t=1475317188",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Pepe Porcupine</strong> works the nightshift in a warehouse and needs your help! Each night his job is to move crates into position in a confined area with the least amount of work. Inspired by the Japanese game of Sokoban, which is a transport puzzle, in which boxes or crates are pushed about in a warehouse, your task is to correctly position crates with the least amount of pushes and moves. Played from a top-down perspective on a board of squares, crates can be shifted horizontally or vertically into empty squares, but never through walls or obstacles. Crates cannot be pulled, adding to the fun, and unless you help Pepe complete all 254 puzzles, he\u2019ll be stuck at the warehouse forever!<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li>254 mind-bending puzzle challenges<br></li><li>Undo-feature when you make mistakes<br></li><li>\u201cHead Scratcher\u201d mode and \u201cHead Banger\u201d mode!<br></li><li>Great graphics and fun animations</li></ul>",
   "about_the_game": "<strong>Pepe Porcupine</strong> works the nightshift in a warehouse and needs your help! Each night his job is to move crates into position in a confined area with the least amount of work. Inspired by the Japanese game of Sokoban, which is a transport puzzle, in which boxes or crates are pushed about in a warehouse, your task is to correctly position crates with the least amount of pushes and moves. Played from a top-down perspective on a board of squares, crates can be shifted horizontally or vertically into empty squares, but never through walls or obstacles. Crates cannot be pulled, adding to the fun, and unless you help Pepe complete all 254 puzzles, he\u2019ll be stuck at the warehouse forever!<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li>254 mind-bending puzzle challenges<br></li><li>Undo-feature when you make mistakes<br></li><li>\u201cHead Scratcher\u201d mode and \u201cHead Banger\u201d mode!<br></li><li>Great graphics and fun animations</li></ul>",
-  "short_description": "<strong>Pepe Porcupine</strong> works the nightshift in a warehouse and needs your help! Each night his job is to move crates into position in a confined area with the least amount of work.",
+  "short_description": "Pepe Porcupine works the nightshift in a warehouse and needs your help! Each night his job is to move crates into position in a confined area with the least amount of work.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/487590/header.jpg?t=1478754218",
   "website": "http://www.pepeporcupine.com/",
@@ -25,12 +25,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
-    109885
+    109885,
+    269935
   ],
   "package_groups": [
     {
@@ -46,11 +49,21 @@
           "packageid": 109885,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Pepe Porcupine - 2,99\u20ac",
+          "option_text": "Pepe Porcupine - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 79
+        },
+        {
+          "packageid": 269935,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Pepe Porcupine - Commercial License - 2,39\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -116,6 +129,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Jun, 2016"
@@ -124,5 +140,9 @@
     "url": "http://www.ensenasoft.com",
     "email": "support@ensenasoft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/487590/page_bg_generated_v6b.jpg?t=1478754218"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/487590/page_bg_generated_v6b.jpg?t=1478754218",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

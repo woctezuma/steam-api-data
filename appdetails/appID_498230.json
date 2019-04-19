@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>When a mild-mannered medical officer finds himself deployed to the most worthless stretch of land in the entire galaxy, the last things he expects to find are his patients dead, a poltergeist haunting a robot, a 200-ton tank in the center of a love triangle, and an evil strain of artificial intelligence attempting to enslave all of humanity. Welcome to Blood Gulch.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>When a mild-mannered medical officer finds himself deployed to the most worthless stretch of land in the entire galaxy, the last things he expects to find are his patients dead, a poltergeist haunting a robot, a 200-ton tank in the center of a love triangle, and an evil strain of artificial intelligence attempting to enslave all of humanity. Welcome to Blood Gulch.",
   "about_the_game": "When a mild-mannered medical officer finds himself deployed to the most worthless stretch of land in the entire galaxy, the last things he expects to find are his patients dead, a poltergeist haunting a robot, a 200-ton tank in the center of a love triangle, and an evil strain of artificial intelligence attempting to enslave all of humanity. Welcome to Blood Gulch.",
   "short_description": "When a mild-mannered medical officer finds himself deployed to the most worthless stretch of land in the entire galaxy.",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     113927,
@@ -170,6 +172,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Aug, 2016"
@@ -178,5 +183,9 @@
     "url": "http://www.cinedigm.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498230/page_bg_generated_v6b.jpg?t=1472754059"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498230/page_bg_generated_v6b.jpg?t=1472754059",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -3,17 +3,17 @@
   "name": "Aliens: Colonial Marines Collector's Edition Pack",
   "steam_appid": 219445,
   "required_age": "18",
-  "is_free": false,
+  "is_free": true,
   "controller_support": "full",
   "detailed_description": "The Collector's Edition Pack includes:<ul class=\"bb_ul\"><li>Plasma Pulse Rifle - This special rifle fires charged balls of plasma annihilating any enemies caught in its path.<br></li><li>Sonic Electronic Ball Breakers - Landing on the floor, this special, high-tech grenade bounces several feet into the air before unleashing a large electrical charge that fries anything in the vicinity.<br></li><li>US Colonial Marines Academy firing range - Test your speed and accuracy with any gun in different scenarios &amp; navigate multi-room obstacle courses, set on the U.S.S. Sephora, with enemy and innocent civilians targets.</li></ul>",
   "about_the_game": "The Collector's Edition Pack includes:<ul class=\"bb_ul\"><li>Plasma Pulse Rifle - This special rifle fires charged balls of plasma annihilating any enemies caught in its path.<br></li><li>Sonic Electronic Ball Breakers - Landing on the floor, this special, high-tech grenade bounces several feet into the air before unleashing a large electrical charge that fries anything in the vicinity.<br></li><li>US Colonial Marines Academy firing range - Test your speed and accuracy with any gun in different scenarios &amp; navigate multi-room obstacle courses, set on the U.S.S. Sephora, with enemy and innocent civilians targets.</li></ul>",
-  "short_description": "",
+  "short_description": "The Collector's Edition Pack includes:Plasma Pulse Rifle - This special rifle fires charged balls of plasma annihilating any enemies caught in its path.Sonic Electronic Ball Breakers - Landing on the floor, this special, high-tech grenade bounces several feet into the air before unleashing a large electrical charge that fries anything in...",
   "fullgame": {
     "appid": "49540",
     "name": "Aliens: Colonial Marines Collection"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong>, Russian, Polish<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/219445/header.jpg?t=1447356516",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Russian, Polish<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/219445/header.jpg?t=1528153086",
   "website": "http://www.sega.com/alienscolonialmarines",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Operating System: Windows XP SP3<br>\t</li><li><strong>Processor:</strong> 2 GHz Intel Dual Core Processor<br>\t</li><li><strong>Memory:</strong> 2GB RAM (XP), 2GB RAM (Vista)<br>\t</li><li><strong>Graphics:</strong> NVIDIA GeForce 8500/ATI Radeon HD 2600 (256 minimum)<br>\t</li><li><strong>DirectX\u00ae:</strong> 9.0c<br>\t</li><li><strong>Hard Drive:</strong> 20GB free hard disk space<br>\t</li><li><strong>Sound:</strong> DirectX 9.0c compatible<br>        </li><li><strong>Other Requirements: </strong>Initial installation requires  one-time internet connection for Steam authentication; software  installations required (included with the game) include Steam Client,  DirectX 9, Microsoft .NET 4 Framework, Visual C++ Redistributable 2005,  Visual C++ Redistributable 2008, Visual C++ Redistributable 2010, and  AMD CPU Drivers (XP Only/AMD Only)</li></ul>",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 2999,
     "final": 2999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "29,99\u20ac"
   },
   "packages": [
     116762
@@ -100,10 +102,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/219445/ss_3116b086cd4293dfc4485dd765121bfebe259615.600x338.jpg?t=1447356516",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/219445/ss_3116b086cd4293dfc4485dd765121bfebe259615.1920x1080.jpg?t=1447356516"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/219445/ss_3116b086cd4293dfc4485dd765121bfebe259615.600x338.jpg?t=1528153086",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/219445/ss_3116b086cd4293dfc4485dd765121bfebe259615.1920x1080.jpg?t=1528153086"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 May, 2013"
@@ -112,5 +117,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/219445/page_bg_generated_v6b.jpg?t=1447356516"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/219445/page_bg_generated_v6b.jpg?t=1528153086",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

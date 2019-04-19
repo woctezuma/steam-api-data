@@ -15,7 +15,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/512930/header.jpg?t=1473327763",
   "website": "http://phantaruk.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP; Windows XP Professional Edition; Windows XP Service Pack 1; Windows XP Service Pack 2</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Windows XP; Windows XP Professional Edition; Windows XP Service Pack 1; Windows XP Service Pack 2</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     119429
@@ -101,6 +103,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512930/ss_ae7e64d7cd338196fe14a3442275320dd27ebd09.1920x1080.jpg?t=1473327763"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Sep, 2016"
@@ -109,5 +114,9 @@
     "url": "http://polyslash.com",
     "email": "contact@polyslash.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512930/page_bg_generated_v6b.jpg?t=1473327763"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512930/page_bg_generated_v6b.jpg?t=1473327763",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

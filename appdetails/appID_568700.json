@@ -4,9 +4,9 @@
   "steam_appid": 568700,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "Gun Brothers: Original Soundtrack<br><br>01 Gun Brothers My Night Black 1:47<br>02 Gun Brothers Tavern 1:13<br>03 Gun Brothers Walking Bad 0:51<br>04 Gun Brothers Biologic Attack 0:59<br>05 Gun Brothers Hordes of Shore Fast Loops 0:59<br>06 Gun Brothers Raining Blood 2:01<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/568700/extras/Store07BossImage05.png?t=1492199601\" >",
-  "about_the_game": "Gun Brothers: Original Soundtrack<br><br>01 Gun Brothers My Night Black 1:47<br>02 Gun Brothers Tavern 1:13<br>03 Gun Brothers Walking Bad 0:51<br>04 Gun Brothers Biologic Attack 0:59<br>05 Gun Brothers Hordes of Shore Fast Loops 0:59<br>06 Gun Brothers Raining Blood 2:01<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/568700/extras/Store07BossImage05.png?t=1492199601\" >",
-  "short_description": "",
+  "detailed_description": "Gun Brothers: Original Soundtrack<br><br>01 Gun Brothers My Night Black 1:47<br>02 Gun Brothers Tavern 1:13<br>03 Gun Brothers Walking Bad 0:51<br>04 Gun Brothers Biologic Attack 0:59<br>05 Gun Brothers Hordes of Shore Fast Loops 0:59<br>06 Gun Brothers Raining Blood 2:01<br><br><img src=\"https://media.st.dl.bscstorage.net/steam/apps/568700/extras/Store07BossImage05.png?t=1492199601\" crossorigin=\"anonymous\">",
+  "about_the_game": "Gun Brothers: Original Soundtrack<br><br>01 Gun Brothers My Night Black 1:47<br>02 Gun Brothers Tavern 1:13<br>03 Gun Brothers Walking Bad 0:51<br>04 Gun Brothers Biologic Attack 0:59<br>05 Gun Brothers Hordes of Shore Fast Loops 0:59<br>06 Gun Brothers Raining Blood 2:01<br><br><img src=\"https://media.st.dl.bscstorage.net/steam/apps/568700/extras/Store07BossImage05.png?t=1492199601\" crossorigin=\"anonymous\">",
+  "short_description": "Gun Brothers: Original Soundtrack01 Gun Brothers My Night Black 1:4702 Gun Brothers Tavern 1:1303 Gun Brothers Walking Bad 0:5104 Gun Brothers Biologic Attack 0:5905 Gun Brothers Hordes of Shore Fast Loops 0:5906 Gun Brothers Raining Blood 2:01",
   "fullgame": {
     "appid": "514410",
     "name": "Gun Brothers"
@@ -35,8 +35,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 89,
-    "discount_percent": 10
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     143884
@@ -53,13 +55,13 @@
       "subs": [
         {
           "packageid": 143884,
-          "percent_savings_text": "-10%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Gun Brothers - Original Soundtrack - <span class=\"discount_original_price\">0,99\u20ac</span> 0,89\u20ac",
+          "option_text": "Gun Brothers - Original Soundtrack - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 89
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -131,5 +133,9 @@
     "url": "http://massivegame.tumblr.com/",
     "email": "contact.massivegame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/568700/page_bg_generated_v6b.jpg?t=1492199601"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/568700/page_bg_generated_v6b.jpg?t=1492199601",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

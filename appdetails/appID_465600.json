@@ -1,19 +1,19 @@
 {
   "type": "dlc",
-  "name": "Hero Siege - Zombie Hunter (Skin)",
+  "name": "Skin - Zombie Hunter",
   "steam_appid": 465600,
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
   "detailed_description": "Developing Hero Siege takes alot of time, effort and sleepless nights. Buy us some Energy Drinks and help us with server costs so we can keep on supporting this great game!<br><br>Show your commitment to us and get this awesome skin you can brag about to your friends! You will look like a badass apocalyptic zombie hunter with a crossbow and exclusive arrow skins!<br><br><strong>Disclaimer:</strong> Please understand that this is just a way to donate us money for hard work and support our small studio survive on this economy. If you really want to support us, then please feel free to get the pack!",
   "about_the_game": "Developing Hero Siege takes alot of time, effort and sleepless nights. Buy us some Energy Drinks and help us with server costs so we can keep on supporting this great game!<br><br>Show your commitment to us and get this awesome skin you can brag about to your friends! You will look like a badass apocalyptic zombie hunter with a crossbow and exclusive arrow skins!<br><br><strong>Disclaimer:</strong> Please understand that this is just a way to donate us money for hard work and support our small studio survive on this economy. If you really want to support us, then please feel free to get the pack!",
-  "short_description": "",
+  "short_description": "Developing Hero Siege takes alot of time, effort and sleepless nights. Buy us some Energy Drinks and help us with server costs so we can keep on supporting this great game!Show your commitment to us and get this awesome skin you can brag about to your friends!",
   "fullgame": {
     "appid": "269210",
     "name": "Hero Siege"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/465600/header.jpg?t=1513339085",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/465600/header.jpg?t=1545226221",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> Same as base game</li></ul>",
@@ -36,9 +36,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     102211
@@ -46,7 +48,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Hero Siege - Zombie Hunter (Skin)",
+      "title": "Buy Skin - Zombie Hunter",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -57,11 +59,11 @@
           "packageid": 102211,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Zombie Hunter Marksman (or ''Buy us Energy Drinks'') Supporter Pack - 1,99\u20ac",
+          "option_text": "Zombie Hunter Marksman (or ''Buy us Energy Drinks'') Supporter Pack - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -138,8 +140,8 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/465600/ss_df042e1cf2b532a0a8d12b31580ee250e9851e0c.600x338.jpg?t=1513339085",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/465600/ss_df042e1cf2b532a0a8d12b31580ee250e9851e0c.1920x1080.jpg?t=1513339085"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/465600/ss_df042e1cf2b532a0a8d12b31580ee250e9851e0c.600x338.jpg?t=1545226221",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/465600/ss_df042e1cf2b532a0a8d12b31580ee250e9851e0c.1920x1080.jpg?t=1545226221"
     }
   ],
   "achievements": {
@@ -153,5 +155,9 @@
     "url": "http://panicartstudios.com",
     "email": "panicartstudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/465600/page_bg_generated_v6b.jpg?t=1513339085"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/465600/page_bg_generated_v6b.jpg?t=1545226221",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

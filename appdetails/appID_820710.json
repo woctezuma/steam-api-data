@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     251646
@@ -152,5 +154,9 @@
     "url": "",
     "email": "mikema0429@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/820710/page_bg_generated_v6b.jpg?t=1523055791"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/820710/page_bg_generated_v6b.jpg?t=1523055791",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -4,9 +4,9 @@
   "steam_appid": 525221,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<h2 class=\"bb_tag\">The Knight mask has arrived!</h2>By purchasing this DLC you will be able to use the 2 variations of the Knight mask.<br><br>Try on these unique masks and set yourself apart in battle!<br><br>Please update to the latest version of the game in order to purchase DLC<br><a href=\"http://store.steampowered.com/bundle/1507/\" target=\"_blank\" rel=\"noreferrer\"  >&gt;Check Here</a></a>",
-  "about_the_game": "<h2 class=\"bb_tag\">The Knight mask has arrived!</h2>By purchasing this DLC you will be able to use the 2 variations of the Knight mask.<br><br>Try on these unique masks and set yourself apart in battle!<br><br>Please update to the latest version of the game in order to purchase DLC<br><a href=\"http://store.steampowered.com/bundle/1507/\" target=\"_blank\" rel=\"noreferrer\"  >&gt;Check Here</a></a>",
-  "short_description": "<h2 class=\"bb_tag\">The Knight mask has arrived!</h2>By purchasing this DLC you will be able to use the 2 variations of the Knight mask.<br><br>Try on these unique masks and set yourself apart in battle!",
+  "detailed_description": "<h2 class=\"bb_tag\">The Knight mask has arrived!</h2>By purchasing this DLC you will be able to use the 2 variations of the Knight mask.<br><br>Try on these unique masks and set yourself apart in battle!<br><br>Please update to the latest version of the game in order to purchase DLC<br><a href=\"http://store.steampowered.com/bundle/1507/\" target=\"_blank\" rel=\"noreferrer\"  >&gt;Check Here</a>",
+  "about_the_game": "<h2 class=\"bb_tag\">The Knight mask has arrived!</h2>By purchasing this DLC you will be able to use the 2 variations of the Knight mask.<br><br>Try on these unique masks and set yourself apart in battle!<br><br>Please update to the latest version of the game in order to purchase DLC<br><a href=\"http://store.steampowered.com/bundle/1507/\" target=\"_blank\" rel=\"noreferrer\"  >&gt;Check Here</a>",
+  "short_description": "The Knight mask has arrived!By purchasing this DLC you will be able to use the 2 variations of the Knight mask.Try on these unique masks and set yourself apart in battle!",
   "fullgame": {
     "appid": "503340",
     "name": "Dig 4 Destruction"
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     125364
@@ -133,5 +135,9 @@
     "url": "http://colopl.co.jp/en/products/vr/vrd4d.php",
     "email": "d4d@colopl.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/525221/page_bg_generated_v6b.jpg?t=1473929854"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/525221/page_bg_generated_v6b.jpg?t=1473929854",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

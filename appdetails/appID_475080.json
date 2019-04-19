@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Action, adventure and exploration! <br />\r\nDescend into the darkness below and find the treasure. <br />\r\nFall too far and die so grab onto walls with your climbing axe. <br />\r\n<br />\r\n&quot;Twitch gameplay&quot; fast paced real-time action. <br />\r\n<br />\r\nControls are simple: inventory buttons, movement, jump and hit. Gamepad support.",
   "about_the_game": "Action, adventure and exploration! <br />\r\nDescend into the darkness below and find the treasure. <br />\r\nFall too far and die so grab onto walls with your climbing axe. <br />\r\n<br />\r\n&quot;Twitch gameplay&quot; fast paced real-time action. <br />\r\n<br />\r\nControls are simple: inventory buttons, movement, jump and hit. Gamepad support.",
-  "short_description": "Action, adventure and exploration! <br />\r\nDescend into the darkness below and find the treasure.",
+  "short_description": "Action, adventure and exploration! Descend into the darkness below and find the treasure.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/475080/header.jpg?t=1478067134",
   "website": null,
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     105598
@@ -164,6 +166,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jul, 2016"
@@ -172,5 +177,9 @@
     "url": "",
     "email": "nickyho81@outlook.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/475080/page_bg_generated_v6b.jpg?t=1478067134"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/475080/page_bg_generated_v6b.jpg?t=1478067134",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

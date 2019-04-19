@@ -15,7 +15,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/540040/header.jpg?t=1498144991",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8.1/10<br></li><li><strong>Processor:</strong> Intel Core i3 2GHz or higher<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 8.1 capable GPU<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> DirectSound-compatible sound card</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7/8.1/10<br></li><li><strong>Processeur\u00a0:</strong> Intel Core i3 2GHz or higher<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 MB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> DirectX 8.1 capable GPU<br></li><li><strong>Espace disque\u00a0:</strong> 4 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> DirectSound-compatible sound card</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     132332
@@ -132,6 +134,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/540040/ss_5f00dacb6f9d5a2221b8e83e987f1e64698e97ff.1920x1080.jpg?t=1498144991"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Oct, 2016"
@@ -140,5 +145,9 @@
     "url": "",
     "email": "games@degica.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/540040/page_bg_generated_v6b.jpg?t=1498144991"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/540040/page_bg_generated_v6b.jpg?t=1498144991",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

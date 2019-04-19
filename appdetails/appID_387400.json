@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     73225
@@ -181,5 +183,9 @@
     "url": "www.brink3d.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/387400/page_bg_generated_v6b.jpg?t=1458185549"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/387400/page_bg_generated_v6b.jpg?t=1458185549",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

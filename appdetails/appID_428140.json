@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     88437
@@ -120,5 +122,9 @@
     "url": "http://www.davioware.com/forum/",
     "email": "davioware@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/428140/page_bg_generated_v6b.jpg?t=1453348018"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/428140/page_bg_generated_v6b.jpg?t=1453348018",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

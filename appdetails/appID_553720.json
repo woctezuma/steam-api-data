@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "The original soundtracks for  Imprisoned Light composed by Imaginite Games Studio<br />\r\n<br />\r\n01 - Sanctuary 1<br />\r\n02 - Sanctuary 2<br />\r\n03 - Sanctuary 3<br />\r\n04 - Catacombs 1<br />\r\n05 - Catacombs 2<br />\r\n06 - Catacombs 3<br />\r\n07 - Limbo1<br />\r\n08 - Limbo2<br />\r\n09 - Limbo3<br />\r\n10 - Shores of Damned 1<br />\r\n11 - Shores of Damned 2<br />\r\n12 - Shores of Damned 3<br />\r\n13 - Hell...The Prison 1<br />\r\n14 - Hell...The Prison 2<br />\r\n15 - Hell...The Prison 3<br />\r\n16 - Main Menu<br />\r\n17 - Credits <br />\r\n18 - Kill or Be Killed",
   "about_the_game": "The original soundtracks for  Imprisoned Light composed by Imaginite Games Studio<br />\r\n<br />\r\n01 - Sanctuary 1<br />\r\n02 - Sanctuary 2<br />\r\n03 - Sanctuary 3<br />\r\n04 - Catacombs 1<br />\r\n05 - Catacombs 2<br />\r\n06 - Catacombs 3<br />\r\n07 - Limbo1<br />\r\n08 - Limbo2<br />\r\n09 - Limbo3<br />\r\n10 - Shores of Damned 1<br />\r\n11 - Shores of Damned 2<br />\r\n12 - Shores of Damned 3<br />\r\n13 - Hell...The Prison 1<br />\r\n14 - Hell...The Prison 2<br />\r\n15 - Hell...The Prison 3<br />\r\n16 - Main Menu<br />\r\n17 - Credits <br />\r\n18 - Kill or Be Killed",
-  "short_description": "The original soundtracks for  Imprisoned Light composed by Imaginite Games Studio",
+  "short_description": "The original soundtracks for Imprisoned Light composed by Imaginite Games Studio",
   "fullgame": {
     "appid": "540100",
     "name": "Imprisoned Light"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     137693
@@ -215,5 +217,9 @@
     "url": "http://www.imaginitesoft.com",
     "email": "store@imaginitesoft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/553720/page_bg_generated_v6b.jpg?t=1478677306"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/553720/page_bg_generated_v6b.jpg?t=1478677306",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Star Fields is a casual, arcade style game with strategy and shooter elements.<br>Simple, fast paced game-play, enjoy the original electronic/progressive/synth/retrowave soundtrack or import your own mp3s and listen to them while you play!<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\">    <li>Simple, fast paced game-play - Collect rings of the same colour to boost your score<br>Collect power ups.<br>    </li><li>Original electronic/progressive/synth/retrowave soundtrack.<br>    </li><li>Import your own mp3s and listen to them in game!<br>    </li><li>Online leaderboards.</li></ul>",
   "about_the_game": "Star Fields is a casual, arcade style game with strategy and shooter elements.<br>Simple, fast paced game-play, enjoy the original electronic/progressive/synth/retrowave soundtrack or import your own mp3s and listen to them while you play!<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\">    <li>Simple, fast paced game-play - Collect rings of the same colour to boost your score<br>Collect power ups.<br>    </li><li>Original electronic/progressive/synth/retrowave soundtrack.<br>    </li><li>Import your own mp3s and listen to them in game!<br>    </li><li>Online leaderboards.</li></ul>",
-  "short_description": "Star Fields is a casual, arcade style game with strategy and shooter elements.<br />\r\nSimple, fast paced game-play, enjoy the original electronic/progressive/synth/retrowave soundtrack or import your own mp3s and listen to them while you play!",
+  "short_description": "Star Fields is a casual, arcade style game with strategy and shooter elements. Simple, fast paced game-play, enjoy the original electronic/progressive/synth/retrowave soundtrack or import your own mp3s and listen to them while you play!",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/499420/header.jpg?t=1470512879",
   "website": "http://www.backtobasicsgaming.com/",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     114316
@@ -117,6 +119,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Aug, 2016"
@@ -125,5 +130,9 @@
     "url": "http://www.backtobasicsgaming.com/",
     "email": "Dan@BackToBasicsGaming.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499420/page_bg_generated_v6b.jpg?t=1470512879"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499420/page_bg_generated_v6b.jpg?t=1470512879",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     59985,
@@ -164,7 +166,10 @@
     }
   ],
   "recommendations": {
-    "total": 1056
+    "total": 1096
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -174,5 +179,9 @@
     "url": "http://forum.11bitstudios.com/",
     "email": "support@11bitstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/348040/page_bg_generated_v6b.jpg?t=1447368592"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/348040/page_bg_generated_v6b.jpg?t=1447368592",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,7 +11,7 @@
     "appid": "286300",
     "name": "Algo Bot"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Spanish, Polish, Russian, Italian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Polish, Russian, Italian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/799710/header.jpg?t=1521648344",
   "website": "http://www.indiedb.com/games/algo-bot",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     243139
@@ -111,18 +113,11 @@
       "id": 3,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/799710/ss_d7badef8b91f088b433561fe892aa4f7faad1706.600x338.jpg?t=1521648344",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/799710/ss_d7badef8b91f088b433561fe892aa4f7faad1706.1920x1080.jpg?t=1521648344"
-    },
-    {
-      "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/799710/?t=1521648344",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/799710/?t=1521648344"
-    },
-    {
-      "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/799710/?t=1521648344",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/799710/?t=1521648344"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Feb, 2018"
@@ -131,5 +126,9 @@
     "url": "",
     "email": "contact@fishingcactus.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/799710/page_bg_generated_v6b.jpg?t=1521648344"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/799710/page_bg_generated_v6b.jpg?t=1521648344",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

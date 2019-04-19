@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     208781
@@ -148,6 +150,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Dec, 2017"
@@ -156,5 +161,9 @@
     "url": "https://www.parizagames.com",
     "email": "support@parizagames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/719840/page_bg_generated_v6b.jpg?t=1513234852"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/719840/page_bg_generated_v6b.jpg?t=1513234852",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

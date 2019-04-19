@@ -30,10 +30,12 @@
     "currency": "EUR",
     "initial": 249,
     "final": 249,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
-    "51384"
+    51384
   ],
   "package_groups": [
     {
@@ -46,7 +48,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "51384",
+          "packageid": 51384,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "The Shopkeeper - 2,49\u20ac",
@@ -122,9 +124,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 132
-  },
   "achievements": {
     "total": 10,
     "highlighted": [
@@ -178,5 +177,9 @@
     "url": "http://www.mastertronic.com/support",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/324610/page_bg_generated_v6b.jpg?t=1496987866"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/324610/page_bg_generated_v6b.jpg?t=1496987866",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

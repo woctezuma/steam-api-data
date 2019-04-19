@@ -15,16 +15,16 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/774111/header.jpg?t=1513976232",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> Directx 9.0 compatible Sound Card</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> Directx 9.0 compatible Sound Card</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> Directx 9.0 compatible Sound Card</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> Directx 9.0 compatible Sound Card</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> Directx 9.0 compatible Sound Card</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> Directx 9.0 compatible Sound Card</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> Directx 9.0 compatible Sound Card</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> Directx 9.0 compatible Sound Card</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Sound Card:</strong> compatible Sound Card</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Sound Card:</strong> compatible Sound Card</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Sound Card:</strong> compatible Sound Card</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> any<br></li><li><strong>Processor:</strong> any<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>Sound Card:</strong> compatible Sound Card</li></ul>"
   },
   "developers": [
     "Edward D-tech"
@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     232006
@@ -116,5 +118,9 @@
     "url": "http://mult-art.ru",
     "email": "sergiopoverony@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/774111/page_bg_generated_v6b.jpg?t=1513976232"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/774111/page_bg_generated_v6b.jpg?t=1513976232",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

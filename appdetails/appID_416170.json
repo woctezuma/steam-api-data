@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     83859
@@ -147,8 +149,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 258
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -158,5 +160,9 @@
     "url": "http://hotleadgame.com/",
     "email": "thrillpillgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416170/page_bg_generated_v6b.jpg?t=1453651381"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416170/page_bg_generated_v6b.jpg?t=1453651381",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

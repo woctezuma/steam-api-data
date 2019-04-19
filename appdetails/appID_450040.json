@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     96587
@@ -288,5 +290,9 @@
     "url": "http://www.mergegames.com",
     "email": "support@mergegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/450040/page_bg_generated_v6b.jpg?t=1486678576"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/450040/page_bg_generated_v6b.jpg?t=1486678576",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

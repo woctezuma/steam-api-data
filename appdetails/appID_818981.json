@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1099,
-    "final": 1099,
-    "discount_percent": 0
+    "initial": 899,
+    "final": 899,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     250948
@@ -51,11 +53,11 @@
           "packageid": 250948,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC - TE3-1072 - 10,99\u20ac",
+          "option_text": "TANE DLC - TE3-1072 - 8,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1099
+          "price_in_cents_with_discount": 899
         }
       ]
     }
@@ -158,6 +160,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Mar, 2018"
@@ -166,5 +171,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/818981/page_bg_generated_v6b.jpg?t=1520490390"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/818981/page_bg_generated_v6b.jpg?t=1520490390",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

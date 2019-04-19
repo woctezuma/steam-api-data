@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     208742
@@ -53,11 +55,11 @@
           "packageid": 208742,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Card City Nights 2 - Soundtrack - 3,99\u20ac",
+          "option_text": "Card City Nights 2 - Soundtrack - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -106,6 +108,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/719710/ss_e9586ccb0740be463e618c461b800cba78555269.1920x1080.jpg?t=1506003898"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Sep, 2017"
@@ -114,5 +119,9 @@
     "url": "http://www.cardcitynights.com",
     "email": "support@ludosity.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/719710/page_bg_generated_v6b.jpg?t=1506003898"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/719710/page_bg_generated_v6b.jpg?t=1506003898",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

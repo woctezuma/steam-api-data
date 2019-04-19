@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "DLC &quot;Researcher&quot; for MMOG &quot;Astro Lords: Oort Cloud&quot;<br><br>Get your research to the next level with a new DLC package &quot;Researcher&quot;<br>This package will improve your research in the Oort cloud.<br><br><i> The package includes artifact and runes. [/ i]</i>",
   "about_the_game": "DLC &quot;Researcher&quot; for MMOG &quot;Astro Lords: Oort Cloud&quot;<br><br>Get your research to the next level with a new DLC package &quot;Researcher&quot;<br>This package will improve your research in the Oort cloud.<br><br><i> The package includes artifact and runes. [/ i]</i>",
-  "short_description": "DLC &quot;Researcher&quot; for MMOG &quot;Astro Lords: Oort Cloud&quot;<br><br>Get your research to the next level with a new DLC package &quot;Researcher&quot;<br>This package will improve your research in the Oort cloud.<br><br><i> The package includes artifact and runes. [/ i]</i>",
+  "short_description": "DLC &quot;Researcher&quot; for MMOG &quot;Astro Lords: Oort Cloud&quot;Get your research to the next level with a new DLC package &quot;Researcher&quot;This package will improve your research in the Oort cloud. The package includes artifact and runes.",
   "fullgame": {
     "appid": "385530",
     "name": "\u0410\u0441\u0442\u0440\u043e\u043b\u043e\u0440\u0434\u044b: \u041e\u0431\u043b\u0430\u043a\u043e \u041e\u043e\u0440\u0442\u0430"
@@ -23,7 +23,7 @@
   "linux_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 LTS<br></li><li><strong>Processor:</strong> 2 GHZ Dual Core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 6800 or ATI Radeon x1950 256Mb and higher<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
   },
-  "legal_notice": "\u00a9 2016 ARATOG LLC \u00a9 TARTEZAL HOLDINGS LTD.<br>Astro Lords is registered trademark. All rights reserved.<br><br>END USER LICENSE AGREEMENT: <a href=\"https://steamcommunity.com/linkfilter/?url=http://astrolords.com/eula\" target=\"_blank\" rel=\"noopener\"  >http://astrolords.com/eula</a></a>",
+  "legal_notice": "\u00a9 2016 ARATOG LLC \u00a9 TARTEZAL HOLDINGS LTD.<br>Astro Lords is registered trademark. All rights reserved.<br><br>END USER LICENSE AGREEMENT: <a href=\"https://steamcommunity.com/linkfilter/?url=http://astrolords.com/eula\" target=\"_blank\" rel=\"noopener\"  >http://astrolords.com/eula</a>",
   "developers": [
     "Aratog LLC"
   ],
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 2299,
     "final": 2299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "22,99\u20ac"
   },
   "packages": [
     109087
@@ -151,5 +153,9 @@
     "url": "http://astrolords.ru/support",
     "email": "support@astrolords.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/485170/page_bg_generated_v6b.jpg?t=1464875099"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/485170/page_bg_generated_v6b.jpg?t=1464875099",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

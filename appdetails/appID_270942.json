@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     36037,
@@ -53,41 +55,41 @@
           "packageid": 36037,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Axis Game Factory's AGFPRO BattleMat Multi-Player DLC - 14,99\u20ac",
+          "option_text": "Axis Game Factory's AGFPRO BattleMat Multi-Player DLC - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 819
         },
         {
           "packageid": 54333,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Axis Game Factory's AGFPRO + BattleMat Multiplayer DLC - 27,99\u20ac",
+          "option_text": "Axis Game Factory's AGFPRO + BattleMat Multiplayer DLC - 12,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2799
+          "price_in_cents_with_discount": 1249
         },
         {
           "packageid": 44668,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Axis Game Factory's AGFPRO + Zombie FPS + Fantasy Side-Scroller Player + BattleMat Multi-Player DLC - 41,99\u20ac",
+          "option_text": "Axis Game Factory's AGFPRO + Zombie FPS + Fantasy Side-Scroller Player + BattleMat Multi-Player DLC - 29,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 4199
+          "price_in_cents_with_discount": 2999
         },
         {
           "packageid": 54346,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Axis Game Factory's AGFPRO + Premium + BattleMat Multiplayer - 92,99\u20ac",
+          "option_text": "Axis Game Factory's AGFPRO + Premium + BattleMat Multiplayer - 33,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 9299
+          "price_in_cents_with_discount": 3399
         }
       ]
     }
@@ -220,5 +222,9 @@
     "url": "http://www.axisgamefactoryllc.com/forum/agf-battlemat-support-forums/",
     "email": "admin@axisgamefactoryllc.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/270942/page_bg_generated_v6b.jpg?t=1447359830"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/270942/page_bg_generated_v6b.jpg?t=1447359830",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

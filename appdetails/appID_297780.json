@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 74,
-    "discount_percent": 85
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     43156
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 43156,
-          "percent_savings_text": "-85%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Speed Kills Original Soundtrack - <span class=\"discount_original_price\">4,99\u20ac</span> 0,74\u20ac",
+          "option_text": "Speed Kills Original Soundtrack - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 74
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -100,6 +102,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/297780/ss_834fb1693cd74b80fe19a8e3f296dc99df66d14a.1920x1080.jpg?t=1447361621"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 May, 2014"
@@ -108,5 +113,9 @@
     "url": "http://holywarp.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/297780/page_bg_generated_v6b.jpg?t=1447361621"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/297780/page_bg_generated_v6b.jpg?t=1447361621",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

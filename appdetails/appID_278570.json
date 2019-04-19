@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     38036,
@@ -166,7 +168,7 @@
     }
   ],
   "recommendations": {
-    "total": 271
+    "total": 155
   },
   "achievements": {
     "total": 7,
@@ -209,5 +211,9 @@
     "url": "",
     "email": "cs-row@degica.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/278570/page_bg_generated_v6b.jpg?t=1447360369"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/278570/page_bg_generated_v6b.jpg?t=1447360369",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

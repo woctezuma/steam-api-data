@@ -16,10 +16,10 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/619940/header.jpg?t=1492783441",
   "website": "http://www.everything-game.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7</li></ul>"
+    "minimum": "<strong>Minimi:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema operativo:</strong> Windows 7</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.8</li></ul>"
+    "minimum": "<strong>Minimi:</strong><br><ul class=\"bb_ul\"><li><strong>Sistema operativo:</strong> OS X 10.8</li></ul>"
   },
   "linux_requirements": [],
   "legal_notice": "\u00a9 Ben Lukas Boysen",
@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 699,
-    "final": 237,
-    "discount_percent": 66
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     166450
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 166450,
-          "percent_savings_text": "-66%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Everything OST - <span class=\"discount_original_price\">6,99\u20ac</span> 2,37\u20ac",
+          "option_text": "Everything OST - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 237
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -125,6 +127,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/619940/ss_e43cccbda321868bcf6803715b7849526e31836d.1920x1080.jpg?t=1492783441"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Apr, 2017"
@@ -133,5 +138,9 @@
     "url": "http://www.everything-game.com/",
     "email": "everything@davidoreilly.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/619940/page_bg_generated_v6b.jpg?t=1492783441"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/619940/page_bg_generated_v6b.jpg?t=1492783441",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

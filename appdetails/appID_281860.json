@@ -14,7 +14,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/281860/header.jpg?t=1450301946",
   "website": "http://ALLTYNEX.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows 2000 / XP / Vista / 7 / 8<br></li><li><strong>Processor:</strong> Intel Pentium4 1.4GHz or better<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 8.1 or above and Direct3D with 64MB or more of VRAM<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound-compatible Sound Card</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows 2000 / XP / Vista / 7 / 8<br></li><li><strong>\u30d7\u30ed\u30bb\u30c3\u30b5\u30fc:</strong> Intel Pentium4 1.4GHz or better<br></li><li><strong>\u30e1\u30e2\u30ea\u30fc:</strong> 128 MB RAM<br></li><li><strong>\u30b0\u30e9\u30d5\u30a3\u30c3\u30af:</strong> DirectX 8.1 or above and Direct3D with 64MB or more of VRAM<br></li><li><strong>\u30b9\u30c8\u30ec\u30fc\u30b8:</strong> 200 MB \u5229\u7528\u53ef\u80fd<br></li><li><strong>\u30b5\u30a6\u30f3\u30c9\u30ab\u30fc\u30c9:</strong> DirectSound-compatible Sound Card</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     38728,
@@ -182,8 +184,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 171
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -193,5 +195,9 @@
     "url": "",
     "email": "info@nyu-media.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/281860/page_bg_generated_v6b.jpg?t=1450301946"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/281860/page_bg_generated_v6b.jpg?t=1450301946",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

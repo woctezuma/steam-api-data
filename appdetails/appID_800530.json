@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 39,
+    "discount_percent": 90,
+    "initial_formatted": "3,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     243465,
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 243465,
-          "percent_savings_text": "",
+          "percent_savings_text": "-90%",
           "percent_savings": 0,
-          "option_text": "Ninja jump - 0,99\u20ac",
+          "option_text": "Ninja jump - <span class=\"discount_original_price\">3,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 39
         }
       ]
     },
@@ -68,10 +70,10 @@
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "1 Month(s) @ 0,79\u20ac/Month",
-          "option_description": "<p class=\"game_purchase_subscription\">0,99\u20ac at checkout, auto-renewed every 1 month(s) at 0,79\u20ac.</p>",
+          "option_description": "<p class=\"game_purchase_subscription\">3,99\u20ac at checkout, auto-renewed every 1 month(s) at 0,79\u20ac.</p>",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -147,5 +149,9 @@
     "url": "",
     "email": "77davud77@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/800530/page_bg_generated_v6b.jpg?t=1519810555"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/800530/page_bg_generated_v6b.jpg?t=1519810555",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,7 +11,7 @@
     "appid": "570970",
     "name": "ARENA an Age of Barbarians story"
   },
-  "supported_languages": "English<strong>*</strong>, Italian, Spanish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, Italian, Spanish - Spain<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/747180/header.jpg?t=1510320208",
   "website": "http://www.criansoft.com/age-of-barbarian-arena.html",
   "pc_requirements": {
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     219317
@@ -166,6 +168,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Nov, 2017"
@@ -174,5 +179,13 @@
     "url": "http://www.criansoft.com",
     "email": "criansoft@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/747180/page_bg_generated_v6b.jpg?t=1510320208"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/747180/page_bg_generated_v6b.jpg?t=1510320208",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

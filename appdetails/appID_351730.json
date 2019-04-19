@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     61225
@@ -162,9 +164,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 123
-  },
   "achievements": {
     "total": 30,
     "highlighted": [
@@ -218,5 +217,9 @@
     "url": "https://www.facebook.com/OnMyOwn.Game?ref=br_tf",
     "email": "onmyowngame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/351730/page_bg_generated_v6b.jpg?t=1456520740"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/351730/page_bg_generated_v6b.jpg?t=1456520740",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

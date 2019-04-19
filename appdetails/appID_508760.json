@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     117660
@@ -234,5 +236,9 @@
     "url": "http://whiterabbitgames.hu",
     "email": "info@whiterabbitgames.hu"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/508760/page_bg_generated_v6b.jpg?t=1491219099"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/508760/page_bg_generated_v6b.jpg?t=1491219099",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

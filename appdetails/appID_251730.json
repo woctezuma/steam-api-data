@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 2199,
     "final": 2199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "21,99\u20ac"
   },
   "packages": [
     30765,
@@ -153,7 +155,7 @@
     }
   ],
   "recommendations": {
-    "total": 2099
+    "total": 1640
   },
   "achievements": {
     "total": 60,
@@ -208,5 +210,9 @@
     "url": "http://www.grimrock.net/forum/",
     "email": "feedback@almosthumangames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/251730/page_bg_generated_v6b.jpg?t=1447358653"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/251730/page_bg_generated_v6b.jpg?t=1447358653",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -4,7 +4,7 @@
   "steam_appid": 440760,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<h1>Now Available</h1><p><a href=\"http://store.steampowered.com/app/603190/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/603190/</a></a></p><br><h1>Now Available</h1><p><a href=\"http://store.steampowered.com/app/654770/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >http://store.steampowered.com/app/654770/</a></a></p><br><h1>About the Game</h1>Cube Destroyer is a top-down shooter with a dynamic gameplay. <br>Dodge bullets and destroy enemies. <br>Factories at the different levels are continuously producing enemies. <br>You must destroy the factories before the enemies surround you.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>75 levels<br></li><li>Dynamic gameplay<br></li><li>Minimalist graphics</li></ul>",
+  "detailed_description": "<h1>Now Available</h1><p><a href=\"http://store.steampowered.com/app/603190/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/603190/</a></p><br><h1>Now Available</h1><p><a href=\"http://store.steampowered.com/app/654770/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >http://store.steampowered.com/app/654770/</a></p><br><h1>About the Game</h1>Cube Destroyer is a top-down shooter with a dynamic gameplay. <br>Dodge bullets and destroy enemies. <br>Factories at the different levels are continuously producing enemies. <br>You must destroy the factories before the enemies surround you.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>75 levels<br></li><li>Dynamic gameplay<br></li><li>Minimalist graphics</li></ul>",
   "about_the_game": "Cube Destroyer is a top-down shooter with a dynamic gameplay. <br>Dodge bullets and destroy enemies. <br>Factories at the different levels are continuously producing enemies. <br>You must destroy the factories before the enemies surround you.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>75 levels<br></li><li>Dynamic gameplay<br></li><li>Minimalist graphics</li></ul>",
   "short_description": "Cube Destroyer is a top-down shooter with a dynamic gameplay.",
   "supported_languages": "English, Russian",
@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 119,
-    "final": 119,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     93190
@@ -45,11 +47,11 @@
           "packageid": 93190,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Cube Destroyer - 1,19\u20ac",
+          "option_text": "Cube Destroyer - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 119
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -124,7 +126,7 @@
     }
   ],
   "recommendations": {
-    "total": 1074
+    "total": 973
   },
   "achievements": {
     "total": 0
@@ -137,5 +139,9 @@
     "url": "",
     "email": "freedomizestudio@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/440760/page_bg_generated_v6b.jpg?t=1516981371"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/440760/page_bg_generated_v6b.jpg?t=1516981371",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

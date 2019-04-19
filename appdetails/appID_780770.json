@@ -11,7 +11,7 @@
     "appid": "582660",
     "name": "Black Desert Online"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Spanish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/780770/header.jpg?t=1519946983",
   "website": "https://www.blackdesertonline.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1000,
     "final": 1000,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,--\u20ac"
   },
   "packages": [
     235164,
@@ -195,6 +197,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/780770/ss_061e203381c17fa2d3b1d898789d539e744a3954.1920x1080.jpg?t=1519946983"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Jan, 2018"
@@ -203,5 +208,9 @@
     "url": "https://blackdesert.zendesk.com/",
     "email": "support@blackdesert.zendesk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/780770/page_bg_generated_v6b.jpg?t=1519946983"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/780770/page_bg_generated_v6b.jpg?t=1519946983",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

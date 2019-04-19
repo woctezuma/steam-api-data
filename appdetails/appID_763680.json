@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 1249,
+    "final": 1249,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,49\u20ac"
   },
   "packages": [
     225719,
@@ -47,11 +49,11 @@
           "packageid": 225719,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Miney Company: A Data Racket - 14,99\u20ac",
+          "option_text": "Miney Company: A Data Racket - 12,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 1249
         }
       ]
     },
@@ -164,7 +166,7 @@
     }
   ],
   "achievements": {
-    "total": 15,
+    "total": 17,
     "highlighted": [
       {
         "name": "Good to Go",
@@ -216,5 +218,9 @@
     "url": "http://www.MineyCompany.com",
     "email": "mineycompany@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/763680/page_bg_generated_v6b.jpg?t=1519333487"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/763680/page_bg_generated_v6b.jpg?t=1519333487",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

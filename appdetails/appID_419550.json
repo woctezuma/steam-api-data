@@ -5,8 +5,8 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Learn how to sculpt and render an Axehead demon bust using ZBrush, Keyshot and Photoshop. This video tutorial covers every step of the process and shows you how to create the final image using various techniques. This tutorial was recorded live with voice-over. <br><br>Average knowledge of ZBrush, Photoshop and Keyshot required.<br><br>Latest ZBrush UI configs available at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.dominicqwek.com/tutorials\" target=\"_blank\" rel=\"noopener\"  >http://www.dominicqwek.com/tutorials</a></a><br><br>Chapter 1 - Sculpting Primary Forms<br>Chapter 2 - Sculpting Final Detail<br>Chapter 3 - Lighting &amp; Rendering<br>Chapter 4 - Compositing In Photoshop<br><br>Files:<br>Keyshot bip file with SSS shaders set up<br>ZBrush Decimated ZTL<br>PSD with working layers at 1k resolution<br>4 hi-res texture maps used <br>ZBrush UI",
-  "about_the_game": "Learn how to sculpt and render an Axehead demon bust using ZBrush, Keyshot and Photoshop. This video tutorial covers every step of the process and shows you how to create the final image using various techniques. This tutorial was recorded live with voice-over. <br><br>Average knowledge of ZBrush, Photoshop and Keyshot required.<br><br>Latest ZBrush UI configs available at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.dominicqwek.com/tutorials\" target=\"_blank\" rel=\"noopener\"  >http://www.dominicqwek.com/tutorials</a></a><br><br>Chapter 1 - Sculpting Primary Forms<br>Chapter 2 - Sculpting Final Detail<br>Chapter 3 - Lighting &amp; Rendering<br>Chapter 4 - Compositing In Photoshop<br><br>Files:<br>Keyshot bip file with SSS shaders set up<br>ZBrush Decimated ZTL<br>PSD with working layers at 1k resolution<br>4 hi-res texture maps used <br>ZBrush UI",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Learn how to sculpt and render an Axehead demon bust using ZBrush, Keyshot and Photoshop. This video tutorial covers every step of the process and shows you how to create the final image using various techniques. This tutorial was recorded live with voice-over. <br><br>Average knowledge of ZBrush, Photoshop and Keyshot required.<br><br>Latest ZBrush UI configs available at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.dominicqwek.com/tutorials\" target=\"_blank\" rel=\"noopener\"  >http://www.dominicqwek.com/tutorials</a><br><br>Chapter 1 - Sculpting Primary Forms<br>Chapter 2 - Sculpting Final Detail<br>Chapter 3 - Lighting &amp; Rendering<br>Chapter 4 - Compositing In Photoshop<br><br>Files:<br>Keyshot bip file with SSS shaders set up<br>ZBrush Decimated ZTL<br>PSD with working layers at 1k resolution<br>4 hi-res texture maps used <br>ZBrush UI",
+  "about_the_game": "Learn how to sculpt and render an Axehead demon bust using ZBrush, Keyshot and Photoshop. This video tutorial covers every step of the process and shows you how to create the final image using various techniques. This tutorial was recorded live with voice-over. <br><br>Average knowledge of ZBrush, Photoshop and Keyshot required.<br><br>Latest ZBrush UI configs available at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.dominicqwek.com/tutorials\" target=\"_blank\" rel=\"noopener\"  >http://www.dominicqwek.com/tutorials</a><br><br>Chapter 1 - Sculpting Primary Forms<br>Chapter 2 - Sculpting Final Detail<br>Chapter 3 - Lighting &amp; Rendering<br>Chapter 4 - Compositing In Photoshop<br><br>Files:<br>Keyshot bip file with SSS shaders set up<br>ZBrush Decimated ZTL<br>PSD with working layers at 1k resolution<br>4 hi-res texture maps used <br>ZBrush UI",
   "short_description": "Learn how to create an Axehead demon bust using ZBrush, Keyshot and Photoshop. This tutorial covers every step of the process and was recorded live with voice-over. Certain parts are fast forwarded due to repetition.",
   "fullgame": {
     "appid": null,
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     85115
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Dec, 2015"
@@ -127,5 +132,9 @@
     "url": "",
     "email": "creatureworkshop1@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/419550/page_bg_generated_v6b.jpg?t=1449079246"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/419550/page_bg_generated_v6b.jpg?t=1449079246",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

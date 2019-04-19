@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Agent Awesome -- a brand new strategy game for PC and Mac -- is the debut title from Chaos Industries. As Agent A., you must use your tactical expertise to plan the perfect strategy and storm through the building of your former employer, Engineering Vicious Ideas Labs (E.V.I.L.).<br><br>Each of the 12 levels has been designed with both a combat and a stealth approach in mind -- and both styles bring the same rewards. Agent Awesome offers deep tactical gameplay that mixes elements of the tower offense and stealth genres.<br><br>Play as the title character who -- after a night out with his pal, Michael Anger -- gets drunk-dared into showing he is the ultimate badass by storming and eliminating all the middle management of his former employer, E.V.I.L.<br><br>You must clear all 12 floors of the building while fighting or dodging hilarious enemies such as flying sharks and kombat koalas. Everything in the game has been tailored with the objective of making the player crack a smile.<br><br>Get ready for:<br>12 levels of <strong>pure awesomeness</strong>!<br>Explosions, bullets, action, murder . . . and <strong>koalas</strong>!<br>Deep tactical gameplay<br>Kill everyone . . . or not! It\u00b4s your choice. (Gamers <strong>love</strong> choices!)<br>Lots and lots of <strong>weapons</strong> . . . and they\u2019re <strong>upgradable</strong>!<br>Everything, literally<strong> everything</strong> will make you laugh. (We are cool like that!)<br><br>Designed by <strong>Chaos Industries</strong> and developed by <strong>Chundos Studio</strong>, Agent Awesome will become your new favorite game.",
   "about_the_game": "Agent Awesome -- a brand new strategy game for PC and Mac -- is the debut title from Chaos Industries. As Agent A., you must use your tactical expertise to plan the perfect strategy and storm through the building of your former employer, Engineering Vicious Ideas Labs (E.V.I.L.).<br><br>Each of the 12 levels has been designed with both a combat and a stealth approach in mind -- and both styles bring the same rewards. Agent Awesome offers deep tactical gameplay that mixes elements of the tower offense and stealth genres.<br><br>Play as the title character who -- after a night out with his pal, Michael Anger -- gets drunk-dared into showing he is the ultimate badass by storming and eliminating all the middle management of his former employer, E.V.I.L.<br><br>You must clear all 12 floors of the building while fighting or dodging hilarious enemies such as flying sharks and kombat koalas. Everything in the game has been tailored with the objective of making the player crack a smile.<br><br>Get ready for:<br>12 levels of <strong>pure awesomeness</strong>!<br>Explosions, bullets, action, murder . . . and <strong>koalas</strong>!<br>Deep tactical gameplay<br>Kill everyone . . . or not! It\u00b4s your choice. (Gamers <strong>love</strong> choices!)<br>Lots and lots of <strong>weapons</strong> . . . and they\u2019re <strong>upgradable</strong>!<br>Everything, literally<strong> everything</strong> will make you laugh. (We are cool like that!)<br><br>Designed by <strong>Chaos Industries</strong> and developed by <strong>Chundos Studio</strong>, Agent Awesome will become your new favorite game.",
-  "short_description": "<i>Agent Awesome</i> is a humorous strategy game in which you will have to help Agent A plan the perfect strategy to take down E.V.I.L., all of this in order to win a drunk dare. Awesome, right?",
+  "short_description": "Agent Awesome is a humorous strategy game in which you will have to help Agent A plan the perfect strategy to take down E.V.I.L., all of this in order to win a drunk dare. Awesome, right?",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/345220/header.jpg?t=1458319902",
   "website": "http://www.chaosindustries.com.mx",
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "final": 99,
+    "discount_percent": 50,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     59012
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 59012,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Agent Awesome - 1,99\u20ac",
+          "option_text": "Agent Awesome - <span class=\"discount_original_price\">1,99\u20ac</span> 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -155,9 +157,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 662
-  },
   "achievements": {
     "total": 39,
     "highlighted": [
@@ -211,5 +210,9 @@
     "url": "",
     "email": "contacto@chaosindustries.com.mx"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/345220/page_bg_generated_v6b.jpg?t=1458319902"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/345220/page_bg_generated_v6b.jpg?t=1458319902",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

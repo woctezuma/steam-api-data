@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     130640
@@ -71,7 +73,7 @@
   },
   "metacritic": {
     "score": 76,
-    "url": "http://www.metacritic.com/game/pc/clustertruck?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/clustertruck?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -183,7 +185,7 @@
     }
   ],
   "recommendations": {
-    "total": 4258
+    "total": 3977
   },
   "achievements": {
     "total": 19,
@@ -238,5 +240,9 @@
     "url": "http://landfall.se/contact/",
     "email": "support@landfall.se"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/397950/page_bg_generated_v6b.jpg?t=1490728172"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/397950/page_bg_generated_v6b.jpg?t=1490728172",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

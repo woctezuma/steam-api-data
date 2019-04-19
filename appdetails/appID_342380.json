@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     57744
@@ -160,7 +162,10 @@
     }
   ],
   "recommendations": {
-    "total": 1932
+    "total": 1474
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -170,5 +175,12 @@
     "url": "",
     "email": "support@winged-cloud.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/342380/page_bg_generated_v6b.jpg?t=1485964942"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/342380/page_bg_generated_v6b.jpg?t=1485964942",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

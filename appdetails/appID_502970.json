@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 349,
-    "discount_percent": 30
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     115668,
@@ -50,23 +52,23 @@
       "subs": [
         {
           "packageid": 115668,
-          "percent_savings_text": "-30%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Two Worlds II - Echoes of the Dark Past - <span class=\"discount_original_price\">4,99\u20ac</span> 3,49\u20ac",
+          "option_text": "Two Worlds II - Echoes of the Dark Past - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 349
+          "price_in_cents_with_discount": 499
         },
         {
           "packageid": 183896,
-          "percent_savings_text": "-35%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Two Worlds II Season Pass - <span class=\"discount_original_price\">39,99\u20ac</span> 25,99\u20ac",
+          "option_text": "Two Worlds II Season Pass - 39,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2599
+          "price_in_cents_with_discount": 3999
         }
       ]
     }
@@ -152,6 +154,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/502970/ss_cc039740314feacec35e6b1bb42383417e82751b.1920x1080.jpg?t=1512667424"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Dec, 2017"
@@ -160,5 +165,13 @@
     "url": "http://www.topware.com",
     "email": "support@topware.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502970/page_bg_generated_v6b.jpg?t=1512667424"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502970/page_bg_generated_v6b.jpg?t=1512667424",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

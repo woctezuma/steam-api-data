@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     251845
@@ -48,11 +50,11 @@
           "packageid": 251845,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Light - 1,99\u20ac",
+          "option_text": "Light - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -64,7 +66,7 @@
   },
   "metacritic": {
     "score": 49,
-    "url": "http://www.metacritic.com/game/pc/light?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/light?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -121,6 +123,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Apr, 2018"
@@ -129,5 +134,9 @@
     "url": "",
     "email": "lightsteamsuppport@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/821260/page_bg_generated_v6b.jpg?t=1522955786"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/821260/page_bg_generated_v6b.jpg?t=1522955786",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

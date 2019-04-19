@@ -8,7 +8,7 @@
   "about_the_game": "Terraform is a relaxing turn based puzzle game set in the future. Alter over 200 planets to allow settlements and forests to survive. Planets are made of hexagonal tiles that can be altered using many different tools and weather conditions. Use rain weather to fill a dried out lake with water, hot weather to prevent forests from expanding too far or burn them down, spread deserts and more.<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>220 Planets to solve!<br></li><li>13 unique hexagon tiles, including mountains, water, soil, forests, deserts, settlements and volcanoes<br></li><li>4 weather types! Fair, rain, hot, and snow!<br></li><li>13 different tools to alter the environment, including forest seeds, settlers and asteroids<br></li><li>Level Editor<br></li><li>Steam workshop integration. Make, share, download and play community planets<br></li><li>Turn-based gameplay. Sit back, relax and think about your next move<br></li><li>Natural disasters like forest fires and hurricanes<br></li><li>Take yourself through University, your first job and finally take down the big corporations by yourself<br></li><li>Terraform ratings and online leaderboards. Clear levels more effectively to increase your score</li></ul><br>Create Natural disasters like forest fires and hurricanes and use them to Terraform planets to reach your goal of becoming the most renown Terraformer in the Galaxy.<br>Different tools can be used like, shovels to dig a path for water to flow, plants to create forests, asteroids to create huge craters to fill with water, the windwaker to change the wind direction and many more.<br>Compare your Terraform rating with others online. On each level you can see what the best online record is as well as upload your total score and compare on the leader-boards.",
   "short_description": "Terraform is a relaxing turn based puzzle game set in the future. Alter over 200 planets to allow settlements and forests to survive. Planets are made of hexagonal tiles that can be altered using many different tools and weather conditions.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201cIf you're looking for a very challenging game, and you don't immediately balk at the idea of a mobile game being ported to Steam, I would suggest trying it out.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://infiniteindie.com/6415/terraform-mobile-game-thats-better-pc\" target=\"_blank\" rel=\"noopener\"  >Infinite Indie</a></a><br>",
+  "reviews": "\u201cIf you're looking for a very challenging game, and you don't immediately balk at the idea of a mobile game being ported to Steam, I would suggest trying it out.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://infiniteindie.com/6415/terraform-mobile-game-thats-better-pc\" target=\"_blank\" rel=\"noopener\"  >Infinite Indie</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/347790/header.jpg?t=1447368616",
   "website": "http://holgerssonentertainment.com/games/terraform/terraform.html",
   "pc_requirements": {
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 59,
-    "discount_percent": 80
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     60025
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 60025,
-          "percent_savings_text": "-80%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Terraform - <span class=\"discount_original_price\">2,99\u20ac</span> 0,59\u20ac",
+          "option_text": "Terraform - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 59
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -198,5 +200,9 @@
     "url": "http://www.holgerssonentertainment.com/contact.html",
     "email": "contact@holgerssonentertainment.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/347790/page_bg_generated_v6b.jpg?t=1447368616"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/347790/page_bg_generated_v6b.jpg?t=1447368616",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

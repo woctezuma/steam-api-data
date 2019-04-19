@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Block Blowout</strong> offers original brick-breaker arcade action inspired by the timeless classic. Blast your way through 84 challenging levels and collect useful upgrades and weapons of mass-destruction. Rockets and lasers help clear the screen, but watch out, as those are limited in numbers. Cool upgrades such as fireballs, extra lives, wider bats and nukes are available. You can even unleash your creative powers by designing your very own levels using the intuitive built-in level designer.<h2 class=\"bb_tag\">KEY FEATURES</h2><ul class=\"bb_ul\"><li>84 Challenging levels<br></li><li>Built-in level designer<br></li><li>Rockets &amp; Lasers<br></li><li>Collectible upgrades</li></ul>",
   "about_the_game": "<strong>Block Blowout</strong> offers original brick-breaker arcade action inspired by the timeless classic. Blast your way through 84 challenging levels and collect useful upgrades and weapons of mass-destruction. Rockets and lasers help clear the screen, but watch out, as those are limited in numbers. Cool upgrades such as fireballs, extra lives, wider bats and nukes are available. You can even unleash your creative powers by designing your very own levels using the intuitive built-in level designer.<h2 class=\"bb_tag\">KEY FEATURES</h2><ul class=\"bb_ul\"><li>84 Challenging levels<br></li><li>Built-in level designer<br></li><li>Rockets &amp; Lasers<br></li><li>Collectible upgrades</li></ul>",
-  "short_description": "<strong>Block Blowout</strong> offers original brick-breaker arcade action inspired by the timeless classic. Blast your way through 84 challenging levels and collect useful upgrades and weapons of mass-destruction.",
+  "short_description": "Block Blowout offers original brick-breaker arcade action inspired by the timeless classic. Blast your way through 84 challenging levels and collect useful upgrades and weapons of mass-destruction.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/542730/header.jpg?t=1478752269",
   "website": "http://www.ensenasoft.com",
@@ -25,12 +25,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
-    133565
+    133565,
+    269946
   ],
   "package_groups": [
     {
@@ -46,11 +49,21 @@
           "packageid": 133565,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Block Blowout - 1,99\u20ac",
+          "option_text": "Block Blowout - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 79
+        },
+        {
+          "packageid": 269946,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Block Blowout - Commercial License - 1,59\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -135,6 +148,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Oct, 2016"
@@ -143,5 +159,9 @@
     "url": "http://www.ensenasoft.com",
     "email": "support@ensenasoft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/542730/page_bg_generated_v6b.jpg?t=1478752269"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/542730/page_bg_generated_v6b.jpg?t=1478752269",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     242510
@@ -128,5 +130,9 @@
     "url": "https://www.sorcererspath.com/contact/",
     "email": "support@sorcererspath.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/798360/page_bg_generated_v6b.jpg?t=1520236907"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/798360/page_bg_generated_v6b.jpg?t=1520236907",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

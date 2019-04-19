@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     69996,
@@ -49,21 +51,21 @@
           "packageid": 69996,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TIMEframe Soundtrack - 3,99\u20ac",
+          "option_text": "TIMEframe Soundtrack - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 239
         },
         {
           "packageid": 71445,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TIMEframe Deluxe Edition - Includes Soundtrack - 9,99\u20ac",
+          "option_text": "TIMEframe Deluxe Edition - Includes Soundtrack - 6,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 659
         }
       ]
     }
@@ -108,5 +110,9 @@
     "url": "",
     "email": "support@randomseedgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/377170/page_bg_generated_v6b.jpg?t=1478024423"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/377170/page_bg_generated_v6b.jpg?t=1478024423",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

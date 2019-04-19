@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     120759
@@ -145,6 +147,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Aug, 2016"
@@ -153,5 +158,9 @@
     "url": "",
     "email": "glorybyexamplegame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/516450/page_bg_generated_v6b.jpg?t=1488941464"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/516450/page_bg_generated_v6b.jpg?t=1488941464",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "An awesome way to show your support for Quintet. The trio ship was originally for Kickstarter backers. Several players requested being able to access this ship as well. Trio access gives you everything the regular upgrade gives you (additional scenarios and the ability to create your own) and access to all 5 Trio ships.",
   "about_the_game": "An awesome way to show your support for Quintet. The trio ship was originally for Kickstarter backers. Several players requested being able to access this ship as well. Trio access gives you everything the regular upgrade gives you (additional scenarios and the ability to create your own) and access to all 5 Trio ships.",
-  "short_description": "Access to all 5 Trio ships as well as everything included in the regular upgrade (scenarios, website features, etc.)",
+  "short_description": "Access to all 5 Trio ships as well as everything included in the regular upgrade (scenarios, website features, etc.",
   "fullgame": {
     "appid": "340350",
     "name": "Quintet"
   },
-  "supported_languages": "English, Italian, Spanish",
+  "supported_languages": "English, Italian, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/368401/header.jpg?t=1447373889",
   "website": "http://quintet.us",
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     66928
@@ -141,5 +143,9 @@
     "url": "http://quintet.us",
     "email": "carmine@quintet.us"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/368401/page_bg_generated_v6b.jpg?t=1447373889"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/368401/page_bg_generated_v6b.jpg?t=1447373889",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

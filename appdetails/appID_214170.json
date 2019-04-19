@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 49,
-    "discount_percent": 90
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     15345,
@@ -46,33 +48,33 @@
       "subs": [
         {
           "packageid": 15345,
-          "percent_savings_text": "-90%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Divine Divinity - <span class=\"discount_original_price\">4,99\u20ac</span> 0,49\u20ac",
+          "option_text": "Divine Divinity - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 49
+          "price_in_cents_with_discount": 499
         },
         {
           "packageid": 17798,
-          "percent_savings_text": "-90%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Divinity Anthology - <span class=\"discount_original_price\">29,99\u20ac</span> 2,99\u20ac",
+          "option_text": "Divinity Anthology - 29,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 2999
         },
         {
           "packageid": 207168,
-          "percent_savings_text": "-15%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Divinity: Original Sin 2 - Eternal Edition - <span class=\"discount_original_price\">89,99\u20ac</span> 76,49\u20ac",
+          "option_text": "Divinity: Original Sin 2 - Eternal Edition - 89,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 7649
+          "price_in_cents_with_discount": 8999
         }
       ]
     }
@@ -84,7 +86,7 @@
   },
   "metacritic": {
     "score": 81,
-    "url": "http://www.metacritic.com/game/pc/divine-divinity?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/divine-divinity?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -161,7 +163,10 @@
     }
   ],
   "recommendations": {
-    "total": 1333
+    "total": 1349
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -171,5 +176,9 @@
     "url": "",
     "email": "support@larian.com  "
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214170/page_bg_generated_v6b.jpg?t=1447355993"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214170/page_bg_generated_v6b.jpg?t=1447355993",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

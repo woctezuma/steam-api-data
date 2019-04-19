@@ -8,8 +8,8 @@
   "detailed_description": "Staxel is a creative farming and village life game with a cast of quirky characters. Build your farmhouse, help villagers, take to the wilds to fish or hunt for bugs, and grow a variety of crops in your backyard. If you\u2019re feeling social, you can even invite your friends over to share in the fun!<h2 class=\"bb_tag\">Experience Village Life</h2><br>In Staxel, you\u2019re tasked with restoring the farm to its former glory as the newest resident in a budding village. While they may have their quirks, the other residents will help you get settled in. Return the favour and help the village flourish!<br><br>When you\u2019re not hanging out with your newfound friends or working on your farm, you could be pursuing a new hobby, completing one of many collections, spending your hard-earned money on precious seeds, or lending a hand and making your mark on the town!<h2 class=\"bb_tag\">Nurture Your Farm</h2><br>Put down your roots and settle into life as a newcomer to the village. Starting out with a run-down, old home and farmland reclaimed by the wilderness, it\u2019s up to you to turn the place around. Plant seeds, carefully tend to your crops, take care of your animals, and expand your farm. Don\u2019t forget: take care of your farm, and your farm will take care of you!<h2 class=\"bb_tag\">Share the Fun!</h2><br>Working a farm on the outskirts of an unfamiliar village can get lonely, so why not invite your friends to hang out? Staxel was designed with multiplayer in mind from day one, so team up and get your buddies working those fields! You can share a farm with your friends or become neighbours in Staxel\u2019s vast world.<h2 class=\"bb_tag\">Customise Your World</h2><br>Staxel\u2019s voxel-based sandbox world lets you alter your surroundings however you like, and with a rich selection of in-game materials and an intuitive approach to modding, you can truly create your own unique world within the game.<br><br>Will you grow the village while keeping its rustic charm, or take it in an entirely new direction? Perhaps you\u2019d rather leave the village and focus on your own projects? It\u2019s all up to you, and your creativity is exactly the tool for the job!",
   "about_the_game": "Staxel is a creative farming and village life game with a cast of quirky characters. Build your farmhouse, help villagers, take to the wilds to fish or hunt for bugs, and grow a variety of crops in your backyard. If you\u2019re feeling social, you can even invite your friends over to share in the fun!<h2 class=\"bb_tag\">Experience Village Life</h2><br>In Staxel, you\u2019re tasked with restoring the farm to its former glory as the newest resident in a budding village. While they may have their quirks, the other residents will help you get settled in. Return the favour and help the village flourish!<br><br>When you\u2019re not hanging out with your newfound friends or working on your farm, you could be pursuing a new hobby, completing one of many collections, spending your hard-earned money on precious seeds, or lending a hand and making your mark on the town!<h2 class=\"bb_tag\">Nurture Your Farm</h2><br>Put down your roots and settle into life as a newcomer to the village. Starting out with a run-down, old home and farmland reclaimed by the wilderness, it\u2019s up to you to turn the place around. Plant seeds, carefully tend to your crops, take care of your animals, and expand your farm. Don\u2019t forget: take care of your farm, and your farm will take care of you!<h2 class=\"bb_tag\">Share the Fun!</h2><br>Working a farm on the outskirts of an unfamiliar village can get lonely, so why not invite your friends to hang out? Staxel was designed with multiplayer in mind from day one, so team up and get your buddies working those fields! You can share a farm with your friends or become neighbours in Staxel\u2019s vast world.<h2 class=\"bb_tag\">Customise Your World</h2><br>Staxel\u2019s voxel-based sandbox world lets you alter your surroundings however you like, and with a rich selection of in-game materials and an intuitive approach to modding, you can truly create your own unique world within the game.<br><br>Will you grow the village while keeping its rustic charm, or take it in an entirely new direction? Perhaps you\u2019d rather leave the village and focus on your own projects? It\u2019s all up to you, and your creativity is exactly the tool for the job!",
   "short_description": "Grow your farm, meet the villagers, and join your friends online in building your world.",
-  "supported_languages": "English, French, German, Japanese, Simplified Chinese, Spanish, Portuguese-Brazil, Russian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/405710/header.jpg?t=1520028731",
+  "supported_languages": "English, French, German, Japanese, Simplified Chinese, Spanish - Spain, Portuguese - Brazil, Russian, Dutch",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/405710/header_alt_assets_4.jpg?t=1555000142",
   "website": "http://playstaxel.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 SP1 (64bit)<br></li><li><strong>Processor:</strong> Intel Core i5 @ 2Ghz (or equivalent)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce GTX 660 1GB / AMD Radeon HD 7850 1GB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 12 GB available space</li></ul>",
@@ -32,8 +32,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1999,
-    "final": 1999,
-    "discount_percent": 0
+    "final": 1499,
+    "discount_percent": 25,
+    "initial_formatted": "19,99\u20ac",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     79745
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 79745,
-          "percent_savings_text": "",
+          "percent_savings_text": "-25%",
           "percent_savings": 0,
-          "option_text": "Staxel - 19,99\u20ac",
+          "option_text": "Staxel - <span class=\"discount_original_price\">19,99\u20ac</span> 14,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1999
+          "price_in_cents_with_discount": 1499
         }
       ]
     }
@@ -96,6 +98,10 @@
       "description": "Full controller support"
     },
     {
+      "id": 29,
+      "description": "Steam Trading Cards"
+    },
+    {
       "id": 30,
       "description": "Steam Workshop"
     }
@@ -112,73 +118,89 @@
     {
       "id": "28",
       "description": "Simulation"
-    },
-    {
-      "id": "70",
-      "description": "Early Access"
     }
   ],
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_5755d33c2deec66a0e60c6581d12d0090bca1942.600x338.jpg?t=1520028731",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_5755d33c2deec66a0e60c6581d12d0090bca1942.1920x1080.jpg?t=1520028731"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_5755d33c2deec66a0e60c6581d12d0090bca1942.600x338.jpg?t=1555000142",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_5755d33c2deec66a0e60c6581d12d0090bca1942.1920x1080.jpg?t=1555000142"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_c18300a0707afa7932cfca6aefd27d71a0626d36.600x338.jpg?t=1520028731",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_c18300a0707afa7932cfca6aefd27d71a0626d36.1920x1080.jpg?t=1520028731"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_e4cff4eb2284a05c02056216b254c104cac993a0.600x338.jpg?t=1555000142",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_e4cff4eb2284a05c02056216b254c104cac993a0.1920x1080.jpg?t=1555000142"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_8555059322d118b6665f1ddde6eaa987c54b2f31.600x338.jpg?t=1520028731",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_8555059322d118b6665f1ddde6eaa987c54b2f31.1920x1080.jpg?t=1520028731"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_c18300a0707afa7932cfca6aefd27d71a0626d36.600x338.jpg?t=1555000142",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_c18300a0707afa7932cfca6aefd27d71a0626d36.1920x1080.jpg?t=1555000142"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_6924012b5cf125a5f5090def097a5dc96edeae3d.600x338.jpg?t=1520028731",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_6924012b5cf125a5f5090def097a5dc96edeae3d.1920x1080.jpg?t=1520028731"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_8555059322d118b6665f1ddde6eaa987c54b2f31.600x338.jpg?t=1555000142",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_8555059322d118b6665f1ddde6eaa987c54b2f31.1920x1080.jpg?t=1555000142"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_0ecce009dd1933903622e399e065a2766cd80f5b.600x338.jpg?t=1520028731",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_0ecce009dd1933903622e399e065a2766cd80f5b.1920x1080.jpg?t=1520028731"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_6924012b5cf125a5f5090def097a5dc96edeae3d.600x338.jpg?t=1555000142",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_6924012b5cf125a5f5090def097a5dc96edeae3d.1920x1080.jpg?t=1555000142"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_8291941a7da7cdecd8c69a1c84c2db653193c55b.600x338.jpg?t=1520028731",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_8291941a7da7cdecd8c69a1c84c2db653193c55b.1920x1080.jpg?t=1520028731"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_f170c2c9039a86e47cc78bc19b25da2ffba5c412.600x338.jpg?t=1555000142",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_f170c2c9039a86e47cc78bc19b25da2ffba5c412.1920x1080.jpg?t=1555000142"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_e6e992d79cd87aa4fadccfab6771ceb52edbec61.600x338.jpg?t=1520028731",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_e6e992d79cd87aa4fadccfab6771ceb52edbec61.1920x1080.jpg?t=1520028731"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_e6e992d79cd87aa4fadccfab6771ceb52edbec61.600x338.jpg?t=1555000142",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_e6e992d79cd87aa4fadccfab6771ceb52edbec61.1920x1080.jpg?t=1555000142"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_8291941a7da7cdecd8c69a1c84c2db653193c55b.600x338.jpg?t=1555000142",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_8291941a7da7cdecd8c69a1c84c2db653193c55b.1920x1080.jpg?t=1555000142"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_0ecce009dd1933903622e399e065a2766cd80f5b.600x338.jpg?t=1555000142",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/405710/ss_0ecce009dd1933903622e399e065a2766cd80f5b.1920x1080.jpg?t=1555000142"
     }
   ],
   "movies": [
     {
-      "id": 256706166,
-      "name": "Launch Trailer",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256706166/movie.293x165.jpg?t=1516224694",
+      "id": 256747746,
+      "name": "Staxel Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256747746/movie.293x165.jpg?t=1554996647",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256706166/movie480.webm?t=1516224694",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256706166/movie_max.webm?t=1516224694"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256747746/movie480.webm?t=1554996647",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256747746/movie_max.webm?t=1554996647"
       },
       "highlight": true
     },
     {
-      "id": 256690007,
-      "name": "Summer",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256690007/movie.293x165.jpg?t=1499885298",
+      "id": 256706166,
+      "name": "Launch Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256706166/movie.293x165.jpg?t=1554994816",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256690007/movie480.webm?t=1499885298",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256690007/movie_max.webm?t=1499885298"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256706166/movie480.webm?t=1554994816",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256706166/movie_max.webm?t=1554994816"
+      },
+      "highlight": true
+    },
+    {
+      "id": 256723203,
+      "name": "Friendship Update Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256723203/movie.293x165.jpg?t=1532096177",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256723203/movie480.webm?t=1532096177",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256723203/movie_max.webm?t=1532096177"
       },
       "highlight": true
     }
   ],
   "recommendations": {
-    "total": 1003
+    "total": 1148
   },
   "achievements": {
     "total": 23,
@@ -227,11 +249,15 @@
   },
   "release_date": {
     "coming_soon": false,
-    "date": "23 Jan, 2018"
+    "date": "11 Apr, 2019"
   },
   "support_info": {
-    "url": "http://forums.playstaxel.com/",
-    "email": "team@playstaxel.com"
+    "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1620515354",
+    "email": "support@playstaxel.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/405710/page_bg_generated_v6b.jpg?t=1520028731"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/405710/page_bg_generated_v6b.jpg?t=1555000142",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

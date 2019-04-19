@@ -12,7 +12,7 @@
     "appid": "300610",
     "name": "Pure Pool"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Dutch, Portuguese, Portuguese-Brazil, Russian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Portuguese, Portuguese - Brazil, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/362360/header.jpg?t=1506939619",
   "website": "http://www.ripstone.com/",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     65019
@@ -154,11 +156,6 @@
       "id": 8,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362360/ss_b513c5ee2e1837559fc9afca28e85ed6f6531bf3.600x338.jpg?t=1506939619",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362360/ss_b513c5ee2e1837559fc9afca28e85ed6f6531bf3.1920x1080.jpg?t=1506939619"
-    },
-    {
-      "id": 9,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362360/?t=1506939619",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362360/?t=1506939619"
     }
   ],
   "movies": [
@@ -173,6 +170,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Oct, 2015"
@@ -181,5 +181,9 @@
     "url": "http://www.ripstone.com/",
     "email": "info@voofoostudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/362360/page_bg_generated_v6b.jpg?t=1506939619"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/362360/page_bg_generated_v6b.jpg?t=1506939619",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

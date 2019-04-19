@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     65776
@@ -151,7 +153,10 @@
     }
   ],
   "recommendations": {
-    "total": 287
+    "total": 169
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -161,5 +166,9 @@
     "url": "http://www.playshop.pl",
     "email": "pomoc@playshop.pl"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/364940/page_bg_generated_v6b.jpg?t=1447373007"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/364940/page_bg_generated_v6b.jpg?t=1447373007",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

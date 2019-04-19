@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     72490
@@ -138,7 +140,7 @@
     }
   ],
   "recommendations": {
-    "total": 835
+    "total": 749
   },
   "achievements": {
     "total": 6,
@@ -177,5 +179,9 @@
     "url": "http://rainbowtrain.eu",
     "email": "maciej@rainbowtrain.eu"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367570/page_bg_generated_v6b.jpg?t=1468254920"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367570/page_bg_generated_v6b.jpg?t=1468254920",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

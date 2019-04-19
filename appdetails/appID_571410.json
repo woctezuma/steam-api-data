@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     145052
@@ -122,6 +124,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/571410/ss_8b0a2fca7c7b3e46924c9ec673d935498e5d8be2.1920x1080.jpg?t=1482249329"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Dec, 2016"
@@ -130,5 +135,9 @@
     "url": "http://www.daedalicsupport.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/571410/page_bg_generated_v6b.jpg?t=1482249329"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/571410/page_bg_generated_v6b.jpg?t=1482249329",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

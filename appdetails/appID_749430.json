@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     220059
@@ -127,6 +129,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Dec, 2017"
@@ -135,5 +140,9 @@
     "url": "",
     "email": "StackerGameSteam@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/749430/page_bg_generated_v6b.jpg?t=1513125802"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/749430/page_bg_generated_v6b.jpg?t=1513125802",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

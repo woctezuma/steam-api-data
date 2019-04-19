@@ -12,7 +12,7 @@
   "about_the_game": "<h2 class=\"bb_tag\">About the game</h2><br><strong>Heckabomb</strong> is a twin-stick shooter for Windows. Works great with any controller. Supports mouse+keys play too. It has varied levels based in a circular arena and a host of upgradeable stats including bullet spread, rate of fire, turbo boosters and magnetic collectors. There are six varied add-on weapons too, including a chain-lightning gun, bullet-reflecting satellites and a rapid-fire swirly thing! (a legal requirement of any arcade shooter) Loads of different of enemies, including huge boss warships, missile batteries, tractor beams and a deadly enemy ace pilot will challenge your arcade reflexes and endurance.<br><br><ul class=\"bb_ul\"><li>Twin-stick (controller or mouse+keys)<br></li><li>Visually intense, massive explosions, huge debris clouds, trails everywhere<br></li><li>Spectacular arcade soundtrack<br></li><li>Campaign mode, Survival Mode, Hardcore Mode, AI Duel Challenge<br></li><li>Online hiscores</li></ul><h2 class=\"bb_tag\">Your planet is dead</h2><br>The Heckabomber is a doomsday weapon, the only thing that survived the destruction of your home planet by the alien armada. Loaded with devastating planet-destroying bombs, you'll fight across the Universe. Seek out enemy worlds to obliterate, crush their defenders, crack their planet and harvest the remains for construction materials to upgrade your ship and continue your rampage.<h2 class=\"bb_tag\">Asteroids</h2><br>Asteroids exist throughout the Universe and are often the leftovers of planet formation. With Heckabombs detonating across the galaxy, asteroids are often the leftovers of planet destruction too! Mining them for resources allows you to build new weapons, upgrade equipment and resupply smartbombs.<br><br>Every second level you'll race to harvest asteroids before the blast wave reaches you from the planet you just blew up!<h2 class=\"bb_tag\">Planets</h2><br>After charging up on ship upgrades, you'll take on aggressive enemy ships, crash through their defensive lines and try to get close enough to their planet to drop a single, devastating Heckabomb onto it.<br><br>Enemies come in various shapes and sizes from tiny fast-moving divebombers to massive lumbering tractor-beam transports that'll try to pin you down for other enemies to shoot.<h2 class=\"bb_tag\">Warships</h2><br>Every 10th level, you'll face increasingly huge enemy Warships. Each one carries a unique bonus upgrade that you can only get if you choose to engage the Warship rather than steer clear of it's deadly weapons and fighter launch bay.<h2 class=\"bb_tag\">Hardcore</h2><br>In Hardcore mode you get no continues and enemy accuracy, rate of fire and bullet speed all increase substantially. One life only, extra challenging fights, vie for a place on the elite hiscore table.<h2 class=\"bb_tag\">Casual</h2><br>Casual mode unlocks when you complete just one level of the main campaign. It offers a lot less challenge and a lot more salvage loot, making for a relaxing shoot-em-up ride up through the game as far as the first Warship encounter. Practice your moves in relative safety, or just watch the pretty explosions.<h2 class=\"bb_tag\">Survival</h2><br>Unlocking the bonus Survival Mode gives you a huge upgrade budget to customize your ship just once then hurls you into an endless battle against increasingly ferocious odds and a limitless armada of enemy Warships.<h2 class=\"bb_tag\">Duel</h2><br>Face the elite enemy ace pilot in the campaign and you'll unlock the bonus Duel Mode where you can challenge the ace alone (with his 5 elite henchmen... hey, he is a bad guy!)",
   "short_description": "Explosive twin stick shooter. Lots of upgrades. Full controller support. Awesome soundtrack.",
   "supported_languages": "English",
-  "reviews": "\u201cPossibly one of the best Shoot 'Em ups ever\u201d<br>79/100 \u2013 <a href=\"https://twitter.com/EliteGamerHaven/status/570656415024599041\" target=\"_blank\" rel=\"noreferrer\"  >Gamers Haven</a></a><br><br>\u201cA game everyone should own\u201d<br>87/100 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.modvive.com/2015/02/27/heckabomb-review-asteroids-2-0/\" target=\"_blank\" rel=\"noopener\"  >Modvive</a></a><br>",
+  "reviews": "\u201cPossibly one of the best Shoot 'Em ups ever\u201d<br>79/100 \u2013 <a href=\"https://twitter.com/EliteGamerHaven/status/570656415024599041\" target=\"_blank\" rel=\"noreferrer\"  >Gamers Haven</a><br><br>\u201cA game everyone should own\u201d<br>87/100 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.modvive.com/2015/02/27/heckabomb-review-asteroids-2-0/\" target=\"_blank\" rel=\"noopener\"  >Modvive</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/344300/header.jpg?t=1447367672",
   "website": "http://allicorn.com/heckabomb",
   "pc_requirements": {
@@ -31,10 +31,12 @@
     "currency": "EUR",
     "initial": 549,
     "final": 549,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,49\u20ac"
   },
   "packages": [
-    "58639"
+    58639
   ],
   "package_groups": [
     {
@@ -47,7 +49,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "58639",
+          "packageid": 58639,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Heckabomb - 5,49\u20ac",
@@ -175,9 +177,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 222
-  },
   "achievements": {
     "total": 46,
     "highlighted": [
@@ -231,5 +230,9 @@
     "url": "http://allicorn.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/344300/page_bg_generated_v6b.jpg?t=1447367672"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/344300/page_bg_generated_v6b.jpg?t=1447367672",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

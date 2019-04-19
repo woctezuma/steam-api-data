@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 449,
+    "final": 449,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,49\u20ac"
   },
   "packages": [
     1079
@@ -46,11 +48,11 @@
           "packageid": 1079,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Space Trader: Merchant Marine - 4,99\u20ac",
+          "option_text": "Space Trader: Merchant Marine - 4,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 449
         }
       ]
     }
@@ -170,7 +172,7 @@
     }
   ],
   "recommendations": {
-    "total": 603
+    "total": 419
   },
   "achievements": {
     "total": 40,
@@ -225,5 +227,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/11240/page_bg_generated_v6b.jpg?t=1511279025"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/11240/page_bg_generated_v6b.jpg?t=1511279025",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

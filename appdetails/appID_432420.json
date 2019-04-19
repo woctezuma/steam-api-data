@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     89910
@@ -217,5 +219,9 @@
     "url": "http://ludoria.net",
     "email": "contact@ludoria.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/432420/page_bg_generated_v6b.jpg?t=1495291563"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/432420/page_bg_generated_v6b.jpg?t=1495291563",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

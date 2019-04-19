@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\"><strong>A breath-taking space exploration experience in Virtual Reality</strong></h2><br>Compatible with HTC Vive,  Oculus CV1 and DK2.<br><br>Discovering Space 2 is all about exploration. There\u2019s no action, shooting or explosions, just sightseeing, discovery and relaxation on an epic scale.<br><br><i>Calming, wondrous and adventurous.</i><br><br><ul class=\"bb_ul\">    <li>Take control of your ship, or follow a tour, and immerse yourself in a journey through the Solar System.<br>    </li><li>Feel the awesomeness and remoteness of deep space.<br>    </li><li>Experience the mood and atmosphere of worlds far away from home.<br>    </li><li>Explore at your own pace, and learn about what you see.<br>    </li><li>Come back with a new sense of amazement of what is out there.</li></ul><br><br>Built from the ground up for VR, you have a small space ship and the entire Solar System to explore. <br><br>The end result is an experience that conveys the scale, awe and feeling of planetary exploration, in a fully immersive way.  You really feel like you are there, and it is at times breath-taking.   You can travel vast distances, view the planets (and their moons) from afar, execute some close fly-bys and plunge through their atmosphere down to the surface.  Along the way you can listen to on-board commentary that adjusts its content depending on whether you take your time, or just dive straight in.<br><br><strong>Key Features</strong><br><br><ul class=\"bb_ul\"><li>Vast expanse of the Solar System to explore.<br></li><li>Easy to use tour mode.<br></li><li>Easy to use flight controls and navigation.<br></li><li>Seamless and continuous travel from deep space down to the planetary surfaces.<br></li><li>Planets modelled to true scale.<br></li><li>Planets rendered using custom shaders that go beyond simple texture mapping.<br></li><li>Procedurally generated terrain and procedural and multi-layered textures to enhance the planet surfaces.<br></li><li>Planetary atmospheres enclothe the planets, providing striking sunrise and sunset vistas and re-entry effects.<br><br></li><li>Simple navigation system allows you to easily fly to your desired target destination.<br></li><li>Jump gates / hyperspace to allow quick jump to distant systems.<br></li><li>Near speed of light effects \u2013 Red shift, view contraction and \u201cheadlight\u201d<br><br></li><li>Capture your view with in-game snapshots at the touch of a button.</li></ul><br><br>Fly your ship with either an xbox / gamepad style controller, or &quot;use the force&quot; with HTC Vive wands.  <br><br>Note: Oculus touch controller not yet fully supported",
   "about_the_game": "<h2 class=\"bb_tag\"><strong>A breath-taking space exploration experience in Virtual Reality</strong></h2><br>Compatible with HTC Vive,  Oculus CV1 and DK2.<br><br>Discovering Space 2 is all about exploration. There\u2019s no action, shooting or explosions, just sightseeing, discovery and relaxation on an epic scale.<br><br><i>Calming, wondrous and adventurous.</i><br><br><ul class=\"bb_ul\">    <li>Take control of your ship, or follow a tour, and immerse yourself in a journey through the Solar System.<br>    </li><li>Feel the awesomeness and remoteness of deep space.<br>    </li><li>Experience the mood and atmosphere of worlds far away from home.<br>    </li><li>Explore at your own pace, and learn about what you see.<br>    </li><li>Come back with a new sense of amazement of what is out there.</li></ul><br><br>Built from the ground up for VR, you have a small space ship and the entire Solar System to explore. <br><br>The end result is an experience that conveys the scale, awe and feeling of planetary exploration, in a fully immersive way.  You really feel like you are there, and it is at times breath-taking.   You can travel vast distances, view the planets (and their moons) from afar, execute some close fly-bys and plunge through their atmosphere down to the surface.  Along the way you can listen to on-board commentary that adjusts its content depending on whether you take your time, or just dive straight in.<br><br><strong>Key Features</strong><br><br><ul class=\"bb_ul\"><li>Vast expanse of the Solar System to explore.<br></li><li>Easy to use tour mode.<br></li><li>Easy to use flight controls and navigation.<br></li><li>Seamless and continuous travel from deep space down to the planetary surfaces.<br></li><li>Planets modelled to true scale.<br></li><li>Planets rendered using custom shaders that go beyond simple texture mapping.<br></li><li>Procedurally generated terrain and procedural and multi-layered textures to enhance the planet surfaces.<br></li><li>Planetary atmospheres enclothe the planets, providing striking sunrise and sunset vistas and re-entry effects.<br><br></li><li>Simple navigation system allows you to easily fly to your desired target destination.<br></li><li>Jump gates / hyperspace to allow quick jump to distant systems.<br></li><li>Near speed of light effects \u2013 Red shift, view contraction and \u201cheadlight\u201d<br><br></li><li>Capture your view with in-game snapshots at the touch of a button.</li></ul><br><br>Fly your ship with either an xbox / gamepad style controller, or &quot;use the force&quot; with HTC Vive wands.  <br><br>Note: Oculus touch controller not yet fully supported",
-  "short_description": "Discovering Space 2 is all about exploration. There\u2019s no action, shooting or explosions, just sightseeing, discovery and relaxation on an epic scale.<br><br><i>Calming, wondrous and adventurous.</i>",
+  "short_description": "Discovering Space 2 is all about exploration. There\u2019s no action, shooting or explosions, just sightseeing, discovery and relaxation on an epic scale.Calming, wondrous and adventurous.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/496740/header.jpg?t=1489180048",
   "website": "http://discoveringvr.com/",
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     113378
@@ -222,6 +224,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Mar, 2017"
@@ -230,5 +235,9 @@
     "url": "http://www.discoveringvr.com",
     "email": "support@discoveringvr.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/496740/page_bg_generated_v6b.jpg?t=1489180048"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/496740/page_bg_generated_v6b.jpg?t=1489180048",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

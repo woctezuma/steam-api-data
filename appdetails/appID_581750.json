@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This game has been in development for over a year and will always be free. Donations are our only source of income. If you would like to support the project then please consider buying the donation DLC to help us. Donation DLCs will unlock Special Events and items in the game! <br />\r\n<br />\r\nThis DLC Pack adds the following new Items to your game<br />\r\n<br />\r\n- Inferno Paladin Weapon <br />\r\n- Shiva Armour<br />\r\n- 5 x Mega Life Up<br />\r\n<br />\r\n+ Extra Items (That are yet to be confirmed) In Future Updates",
   "about_the_game": "This game has been in development for over a year and will always be free. Donations are our only source of income. If you would like to support the project then please consider buying the donation DLC to help us. Donation DLCs will unlock Special Events and items in the game! <br />\r\n<br />\r\nThis DLC Pack adds the following new Items to your game<br />\r\n<br />\r\n- Inferno Paladin Weapon <br />\r\n- Shiva Armour<br />\r\n- 5 x Mega Life Up<br />\r\n<br />\r\n+ Extra Items (That are yet to be confirmed) In Future Updates",
-  "short_description": "This DLC Pack adds the following new Items to your game<br />\r\n<br />\r\n- Inferno Paladin Weapon <br />\r\n- Shiva Armour<br />\r\n- 5 x Mega Life Up<br />\r\n<br />\r\n+ Extra Items (That are yet to be confirmed) In Future Updates",
+  "short_description": "This DLC Pack adds the following new Items to your game - Inferno Paladin Weapon - Shiva Armour - 5 x Mega Life Up + Extra Items (That are yet to be confirmed) In Future Updates",
   "fullgame": {
     "appid": "448570",
     "name": "Origin Of Destiny: Crimson Awakening"
@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1099,
-    "final": 1099,
-    "discount_percent": 0
+    "initial": 899,
+    "final": 899,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     149219
@@ -49,11 +51,11 @@
           "packageid": 149219,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Origin Of Destiny - Donation #2 - 10,99\u20ac",
+          "option_text": "Origin Of Destiny - Donation #2 - 8,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1099
+          "price_in_cents_with_discount": 899
         }
       ]
     }
@@ -143,5 +145,9 @@
     "url": "https://cloudthewolf.com",
     "email": "help@networkstudios.on.spiceworks.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/581750/page_bg_generated_v6b.jpg?t=1499966569"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/581750/page_bg_generated_v6b.jpg?t=1499966569",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

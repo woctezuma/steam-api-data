@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     146418,
@@ -220,5 +222,9 @@
     "url": "http://tpotstudio.net",
     "email": "contact@tpotstudio.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/574890/page_bg_generated_v6b.jpg?t=1499111782"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/574890/page_bg_generated_v6b.jpg?t=1499111782",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

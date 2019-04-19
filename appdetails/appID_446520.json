@@ -12,7 +12,7 @@
     "appid": "405310",
     "name": "LEGO\u00ae MARVEL's Avengers"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Danish, Dutch, Polish, Portuguese-Brazil<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Danish, Dutch, Polish, Portuguese - Brazil<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/446520/header.jpg?t=1464126518",
   "website": "http://videogames.lego.com/",
   "pc_requirements": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     95353
@@ -110,6 +112,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/446520/ss_f812ad795f58ad1556d2d14682ba4dc5406f1ee1.1920x1080.jpg?t=1464126518"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 May, 2016"
@@ -118,5 +123,9 @@
     "url": "http://support.wbgames.com",
     "email": "support@wbgames.com or Wbgames.intsupport@warnerbros.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/446520/page_bg_generated_v6b.jpg?t=1464126518"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/446520/page_bg_generated_v6b.jpg?t=1464126518",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

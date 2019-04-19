@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\">Features:</h2>\u2605Collect bombs, power-ups and gain power from the heavens. <br>\u2605Level up and grow more powerful - Level up by...... you guessed it! Blowing stuff up! <br>\u2605Build up awesome bomb-combos. <br>\u2605Progress through different levels by completing the requirements.",
   "about_the_game": "<h2 class=\"bb_tag\">Features:</h2>\u2605Collect bombs, power-ups and gain power from the heavens. <br>\u2605Level up and grow more powerful - Level up by...... you guessed it! Blowing stuff up! <br>\u2605Build up awesome bomb-combos. <br>\u2605Progress through different levels by completing the requirements.",
-  "short_description": "In the life of every Clergy Priest, there comes a moment when it turns out that there is no other solution than.... to just drop bombs everywhere and blow everything up... <br />\r\nClergy Splode is a fast paced, casual-arcade game.",
+  "short_description": "In the life of every Clergy Priest, there comes a moment when it turns out that there is no other solution than.... to just drop bombs everywhere and blow everything up... Clergy Splode is a fast paced, casual-arcade game.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/403900/header.jpg?t=1447378111",
   "website": "http://www.backtobasicsgaming.com/",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     79065
@@ -118,7 +120,10 @@
     }
   ],
   "recommendations": {
-    "total": 410
+    "total": 219
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -128,5 +133,9 @@
     "url": "http://www.backtobasicsgaming.com/",
     "email": "Dan@BackToBasicsGaming.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403900/page_bg_generated_v6b.jpg?t=1447378111"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403900/page_bg_generated_v6b.jpg?t=1447378111",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

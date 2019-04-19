@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     127396
@@ -145,11 +147,6 @@
       "id": 14,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/529700/ss_70c1a8a237214140b75c1706a4bc197b5491f719.600x338.jpg?t=1520623761",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/529700/ss_70c1a8a237214140b75c1706a4bc197b5491f719.1920x1080.jpg?t=1520623761"
-    },
-    {
-      "id": 15,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/529700/?t=1520623761",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/529700/?t=1520623761"
     }
   ],
   "movies": [
@@ -164,6 +161,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Dec, 2016"
@@ -172,5 +172,9 @@
     "url": "http://support.encore.com",
     "email": "support@encore.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/529700/page_bg_generated_v6b.jpg?t=1520623761"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/529700/page_bg_generated_v6b.jpg?t=1520623761",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

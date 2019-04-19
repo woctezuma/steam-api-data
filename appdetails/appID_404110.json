@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In this tutorial I go through some of my processes and thoughts on how to get faster at modelling in Modo. I go through in detail how to set up hotkeys, how to set up hotkeys within specific tools, how to create Macros and piemenus aswell as editing config files and creating your own self-contained configsetups. I also talk a bit about what I do to find new ways of getting faster, and ironing out slow parts of my modelling process.\r\n\r\n48 min narrated video\r\n\r\nAlso included are an example selfcontained config from the video and an example hotkey config file",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In this tutorial I go through some of my processes and thoughts on how to get faster at modelling in Modo. I go through in detail how to set up hotkeys, how to set up hotkeys within specific tools, how to create Macros and piemenus aswell as editing config files and creating your own self-contained configsetups. I also talk a bit about what I do to find new ways of getting faster, and ironing out slow parts of my modelling process.\r\n\r\n48 min narrated video\r\n\r\nAlso included are an example selfcontained config from the video and an example hotkey config file",
   "about_the_game": "In this tutorial I go through some of my processes and thoughts on how to get faster at modelling in Modo. I go through in detail how to set up hotkeys, how to set up hotkeys within specific tools, how to create Macros and piemenus aswell as editing config files and creating your own self-contained configsetups. I also talk a bit about what I do to find new ways of getting faster, and ironing out slow parts of my modelling process.<br />\r\n<br />\r\n48 min narrated video<br />\r\n<br />\r\nAlso included are an example selfcontained config from the video and an example hotkey config file",
   "short_description": "In this tutorial I go through some of the ways to get faster at modelling in Modo and some of the tools available to speed up your workflow.",
   "fullgame": {
@@ -34,10 +34,12 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
-    "79154"
+    79154
   ],
   "package_groups": [
     {
@@ -50,7 +52,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "79154",
+          "packageid": 79154,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Working Faster in Modo - 9,99\u20ac",
@@ -116,6 +118,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Oct, 2015"
@@ -124,5 +129,9 @@
     "url": "",
     "email": "contact@torfrick.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404110/page_bg_generated_v6b.jpg?t=1447378131"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404110/page_bg_generated_v6b.jpg?t=1447378131",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

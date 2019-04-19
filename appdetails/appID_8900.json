@@ -12,10 +12,10 @@
     "name": "Freedom Force"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/8900/header.jpg?t=1447352163",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/8900/header.jpg?t=1526518912",
   "website": null,
   "pc_requirements": {
-    "minimum": "<ul>\n\t<li><strong>OS:</strong> Windows XP/Vista</li>\n\t<li><strong>Processor:</strong> 600 MHz or faster Intel Pentium III or AMD Athlon processor</li>\n\t<li><strong>Memory:</strong> 128 MB or more RAM</li>\n\t<li><strong>Graphics:</strong> 32 MB or greater supported Direct3D capable video card with DirectX 8.1 compatible driver</li>\n\t<li><strong>Hard Drive:</strong> 570 MB or more free hard disk space plus space for saved games</li>\n\t<li><strong>Sound:</strong> Environmental Audio capable sound card</li>\n</ul>\n"
+    "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Vista<br>\t</li><li><strong>Processor:</strong> 600 MHz or faster Intel Pentium III or AMD Athlon processor<br>\t</li><li><strong>Memory:</strong> 128 MB or more RAM<br>\t</li><li><strong>Graphics:</strong> 32 MB or greater supported Direct3D capable video card with DirectX 8.1 compatible driver<br>\t</li><li><strong>Hard Drive:</strong> 570 MB or more free hard disk space plus space for saved games<br>\t</li><li><strong>Sound:</strong> Environmental Audio capable sound card</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -23,7 +23,7 @@
     "Irrational Games"
   ],
   "publishers": [
-    "2K Games"
+    "2K"
   ],
   "package_groups": [],
   "platforms": {
@@ -50,14 +50,17 @@
   ],
   "genres": [
     {
-      "id": "2",
-      "description": "Strategy"
-    },
-    {
       "id": "3",
       "description": "RPG"
+    },
+    {
+      "id": "2",
+      "description": "Strategy"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 May, 2009"
@@ -66,5 +69,9 @@
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

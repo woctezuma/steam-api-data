@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The Special Edition Extras for Gunpoint include:<br><ul class=\"bb_ul\"><li><strong>The Soundtrack:</strong> Includes all of the game's noir-inspired spy music in high quality MP3 format.<br></li><li><strong>Developer Commentary:</strong> When enabled, you'll find little sprites of Gunpoint's developers on every mission. Talk to us to hear a little about our thinking behind the design (Tom), the art (John), and the music (Ryan).</li></ul><strong>Caution:</strong> shooting a developer while he's talking ends his current commentary track. This kills the developer.",
   "about_the_game": "The Special Edition Extras for Gunpoint include:<br><ul class=\"bb_ul\"><li><strong>The Soundtrack:</strong> Includes all of the game's noir-inspired spy music in high quality MP3 format.<br></li><li><strong>Developer Commentary:</strong> When enabled, you'll find little sprites of Gunpoint's developers on every mission. Talk to us to hear a little about our thinking behind the design (Tom), the art (John), and the music (Ryan).</li></ul><strong>Caution:</strong> shooting a developer while he's talking ends his current commentary track. This kills the developer.",
-  "short_description": "",
+  "short_description": "The Special Edition Extras for Gunpoint include:The Soundtrack: Includes all of the game's noir-inspired spy music in high quality MP3 format.Developer Commentary: When enabled, you'll find little sprites of Gunpoint's developers on every mission.",
   "fullgame": {
     "appid": "206190",
     "name": "Gunpoint"
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 700,
     "final": 700,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,--\u20ac"
   },
   "packages": [
     30312
@@ -121,6 +123,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/206193/ss_bafecfec9c0096d94c04619e8d04ea7278294302.1920x1080.jpg?t=1447358433"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": ""
@@ -129,5 +134,9 @@
     "url": "",
     "email": "frans.kasper@abstractiongames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/206193/page_bg_generated_v6b.jpg?t=1447358433"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/206193/page_bg_generated_v6b.jpg?t=1447358433",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

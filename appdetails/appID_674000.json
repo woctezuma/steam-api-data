@@ -12,7 +12,7 @@
     "appid": "423810",
     "name": "Marooners"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Dutch, Polish, Portuguese, Portuguese-Brazil, Russian, Simplified Chinese, Arabic, Japanese, Korean, Thai, Turkish",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Polish, Portuguese, Portuguese - Brazil, Russian, Simplified Chinese, Arabic, Japanese, Korean, Thai, Turkish",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/674000/header.jpg?t=1500541495",
   "website": "http://www.MaroonersGame.com",
   "pc_requirements": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     191870
@@ -171,5 +173,9 @@
     "url": "http://www.MaroonersGame.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/674000/page_bg_generated_v6b.jpg?t=1500541495"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/674000/page_bg_generated_v6b.jpg?t=1500541495",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

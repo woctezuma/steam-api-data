@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>When Jack Tramiel invented Commodore in the 1970\u2019s, he envisioned computing for the masses and not just the upper classes. Spearheading the personal technology revolution and combatting giants like Apple and IBM, Commodore became a household name by changing the way in which we interact, create and play with computers. From the advent of the groundbreaking Atari and Tetris games to the evolution of contemporary technological design, 8 Bit Generation dives into the home computer explosion and explores Commodore\u2019s key role in shaping the future in which we now live.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>When Jack Tramiel invented Commodore in the 1970\u2019s, he envisioned computing for the masses and not just the upper classes. Spearheading the personal technology revolution and combatting giants like Apple and IBM, Commodore became a household name by changing the way in which we interact, create and play with computers. From the advent of the groundbreaking Atari and Tetris games to the evolution of contemporary technological design, 8 Bit Generation dives into the home computer explosion and explores Commodore\u2019s key role in shaping the future in which we now live.",
   "about_the_game": "When Jack Tramiel invented Commodore in the 1970\u2019s, he envisioned computing for the masses and not just the upper classes. Spearheading the personal technology revolution and combatting giants like Apple and IBM, Commodore became a household name by changing the way in which we interact, create and play with computers. From the advent of the groundbreaking Atari and Tetris games to the evolution of contemporary technological design, 8 Bit Generation dives into the home computer explosion and explores Commodore\u2019s key role in shaping the future in which we now live.",
   "short_description": "8bit Generation is a labor of love, from people who love the 8bit era, for people who are passionate or simply curious about it.",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     119110,
@@ -164,6 +166,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Dec, 2016"
@@ -172,5 +177,9 @@
     "url": "http://WWW.COMMODOREWARS.COM",
     "email": "8BIT@BONDINFLUENCE.COM"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512010/page_bg_generated_v6b.jpg?t=1482362230"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512010/page_bg_generated_v6b.jpg?t=1482362230",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

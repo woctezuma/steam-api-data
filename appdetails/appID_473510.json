@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     105074
@@ -152,6 +154,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 May, 2016"
@@ -160,5 +165,9 @@
     "url": "http://nodzigames.wix.com/store",
     "email": "nodzigames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/473510/page_bg_generated_v6b.jpg?t=1469464084"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/473510/page_bg_generated_v6b.jpg?t=1469464084",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

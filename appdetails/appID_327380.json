@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     52502,
@@ -179,6 +181,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Oct, 2014"
@@ -187,5 +192,9 @@
     "url": "http://www.nightdivestudios.com/?utm_source=steampowered.com&amp;utm_medium=product&amp;utm_campaign=support%20-%20sid%20meier's%20pirates",
     "email": "daniel@nightdivestudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/327380/page_bg_generated_v6b.jpg?t=1466791089"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/327380/page_bg_generated_v6b.jpg?t=1466791089",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     47614
@@ -138,7 +140,10 @@
     }
   ],
   "recommendations": {
-    "total": 396
+    "total": 315
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -148,5 +153,9 @@
     "url": "http://www.arcsystemworks.jp/steam/en/contact_02.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/314030/page_bg_generated_v6b.jpg?t=1483724562"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/314030/page_bg_generated_v6b.jpg?t=1483724562",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

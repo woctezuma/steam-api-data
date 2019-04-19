@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     111214
@@ -153,9 +155,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 101
-  },
   "achievements": {
     "total": 27,
     "highlighted": [
@@ -209,5 +208,9 @@
     "url": "http://ballistastudios.net/",
     "email": "contact@ballistastudios.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/491160/page_bg_generated_v6b.jpg?t=1479052977"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/491160/page_bg_generated_v6b.jpg?t=1479052977",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

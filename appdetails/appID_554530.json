@@ -7,28 +7,31 @@
   "dlc": [
     696300
   ],
-  "detailed_description": "<strong>Get <strong>CRACKHEAD</strong> and enter in the ultimate 2D arcanoid game challenge.</strong> Exclusive to steam with unique and fun game modes including a <strong>LEVEL EDITOR</strong> can you complete each mode and hold the CRACKHEAD title?",
-  "about_the_game": "<strong>Get <strong>CRACKHEAD</strong> and enter in the ultimate 2D arcanoid game challenge.</strong> Exclusive to steam with unique and fun game modes including a <strong>LEVEL EDITOR</strong> can you complete each mode and hold the CRACKHEAD title?",
-  "short_description": "<strong>Come play the trip of your life.</strong> Or make it!",
+  "detailed_description": "<strong>Get CRACKHEAD and enter the ultimate 2D breakout challenge.</strong> Exclusive to Steam with unique and fun game modes including a level editor.<br>Can you complete each game mode without cracking your head?",
+  "about_the_game": "<strong>Get CRACKHEAD and enter the ultimate 2D breakout challenge.</strong> Exclusive to Steam with unique and fun game modes including a level editor.<br>Can you complete each game mode without cracking your head?",
+  "short_description": "Come play the trip of your life. Or make it!",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/554530/header.jpg?t=1514447811",
-  "website": "https://steamcommunity.com/groups/KevJacksonProduction",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/554530/header.jpg?t=1532548730",
+  "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows vista<br></li><li><strong>Processor:</strong> 1.6ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 256mb<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or above<br></li><li><strong>Processor:</strong> 1.2 Ghz or faster<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 128 MB video memory<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> optional</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or above<br></li><li><strong>Processor:</strong> 1.5 Ghz or faster<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB video memory<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> onboard</li></ul>"
   },
   "mac_requirements": [],
-  "linux_requirements": [],
-  "developers": [
-    "Kev Jackson"
-  ],
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14 or above<br></li><li><strong>Processor:</strong> 1.2 Ghz or faster<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL-capable graphics card with valid driver<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> optional</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16 or above<br></li><li><strong>Processor:</strong> 1.5 Ghz or faster<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL-capable graphics card with valid driver<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> onboard</li></ul>"
+  },
   "publishers": [
-    "Kev Jackson"
+    "Displacement Studios"
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     138250
@@ -47,11 +50,11 @@
           "packageid": 138250,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "CRACKHEAD - 0,99\u20ac",
+          "option_text": "CRACKHEAD - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -59,7 +62,7 @@
   "platforms": {
     "windows": true,
     "mac": false,
-    "linux": false
+    "linux": true
   },
   "categories": [
     {
@@ -67,12 +70,8 @@
       "description": "Single-player"
     },
     {
-      "id": 9,
-      "description": "Co-op"
-    },
-    {
-      "id": 39,
-      "description": "Local Co-op"
+      "id": 37,
+      "description": "Local Multi-Player"
     },
     {
       "id": 24,
@@ -93,6 +92,14 @@
   ],
   "genres": [
     {
+      "id": "73",
+      "description": "Violent"
+    },
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
       "id": "4",
       "description": "Casual"
     },
@@ -104,63 +111,60 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_543e7d5090d7e18c0a4db8c07e4c84145500adb1.600x338.jpg?t=1514447811",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_543e7d5090d7e18c0a4db8c07e4c84145500adb1.1920x1080.jpg?t=1514447811"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_543e7d5090d7e18c0a4db8c07e4c84145500adb1.600x338.jpg?t=1532548730",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_543e7d5090d7e18c0a4db8c07e4c84145500adb1.1920x1080.jpg?t=1532548730"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_226b66e3a070bce8f2efb18dcf663ea40e979aad.600x338.jpg?t=1514447811",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_226b66e3a070bce8f2efb18dcf663ea40e979aad.1920x1080.jpg?t=1514447811"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_226b66e3a070bce8f2efb18dcf663ea40e979aad.600x338.jpg?t=1532548730",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_226b66e3a070bce8f2efb18dcf663ea40e979aad.1920x1080.jpg?t=1532548730"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_c5b7b89d052be319740b54e554b2ad82f3d0b83d.600x338.jpg?t=1514447811",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_c5b7b89d052be319740b54e554b2ad82f3d0b83d.1920x1080.jpg?t=1514447811"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_c5b7b89d052be319740b54e554b2ad82f3d0b83d.600x338.jpg?t=1532548730",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_c5b7b89d052be319740b54e554b2ad82f3d0b83d.1920x1080.jpg?t=1532548730"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_d723d41d1727d5f03e772682cbe205854d8f7284.600x338.jpg?t=1514447811",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_d723d41d1727d5f03e772682cbe205854d8f7284.1920x1080.jpg?t=1514447811"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_d723d41d1727d5f03e772682cbe205854d8f7284.600x338.jpg?t=1532548730",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/554530/ss_d723d41d1727d5f03e772682cbe205854d8f7284.1920x1080.jpg?t=1532548730"
     }
   ],
   "movies": [
     {
       "id": 256686334,
       "name": "chn",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256686334/movie.293x165.jpg?t=1499788497",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256686334/movie.293x165.jpg?t=1527722032",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256686334/movie480.webm?t=1499788497",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256686334/movie_max.webm?t=1499788497"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256686334/movie480.webm?t=1527722032",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256686334/movie_max.webm?t=1527722032"
       },
       "highlight": true
     },
     {
       "id": 256704702,
       "name": "cht2",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256704702/movie.293x165.jpg?t=1514447804",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256704702/movie.293x165.jpg?t=1527722039",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256704702/movie480.webm?t=1514447804",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256704702/movie_max.webm?t=1514447804"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256704702/movie480.webm?t=1527722039",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256704702/movie_max.webm?t=1527722039"
       },
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 866
-  },
   "achievements": {
     "total": 8,
     "highlighted": [
       {
-        "name": "Game Successfully Launched",
+        "name": "BRAVO",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/554530/e9492e95b811ddf6cbdee21094595eb6d0c7f5d3.jpg"
       },
       {
-        "name": "You Cracked a Block",
+        "name": "CRACK EM",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/554530/78a7d6f8dc10ae6e9a204f2217de124488740a35.jpg"
       },
       {
-        "name": "You Finished A Level",
+        "name": "Finnish Finisher",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/554530/809b639c8673fe7d3a61845db60bfc2079730e4e.jpg"
       },
       {
@@ -168,19 +172,19 @@
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/554530/64bd6e72aa35a881cdf29595e4efb644594be251.jpg"
       },
       {
-        "name": "Overdose mode Completed",
+        "name": "CRACKHEAD #1",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/554530/2abae0a5a6337ef51a79cc6025e6d5f3baa44285.jpg"
       },
       {
-        "name": "2 Player VS Mode Winner",
+        "name": "Multiplayer Winner",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/554530/6e264c722674efd882313043c6e0436a460137c6.jpg"
       },
       {
-        "name": "2 Player VS Ai Winner",
+        "name": "A.I. Winner",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/554530/802406386f00a743eddfe81b5d97bca593874a0a.jpg"
       },
       {
-        "name": "You Have Reached 1000 Points",
+        "name": "I surived in CRACKHEAD!",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/554530/89bf01f916d020d715b18328b53436bb5d83eb8c.jpg"
       }
     ]
@@ -190,8 +194,15 @@
     "date": "10 Nov, 2016"
   },
   "support_info": {
-    "url": "https://steamcommunity.com/groups/KevJacksonProduction",
-    "email": "kevj1988@hotmail.com"
+    "url": "http://www.displacementstudios.com",
+    "email": "support@displacementstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/554530/page_bg_generated_v6b.jpg?t=1514447811"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/554530/page_bg_generated_v6b.jpg?t=1532548730",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

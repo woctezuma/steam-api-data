@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     134543
@@ -110,11 +112,6 @@
       "id": 3,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/545700/ss_6eabcec4df67d0a75e2e6d8615ab26c840412a5a.600x338.jpg?t=1484064189",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/545700/ss_6eabcec4df67d0a75e2e6d8615ab26c840412a5a.1920x1080.jpg?t=1484064189"
-    },
-    {
-      "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/545700/?t=1484064189",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/545700/?t=1484064189"
     }
   ],
   "movies": [
@@ -146,5 +143,9 @@
     "url": "http://www.backtobasicsgaming.com/",
     "email": "Dan@BackToBasicsGaming.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/545700/page_bg_generated_v6b.jpg?t=1484064189"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/545700/page_bg_generated_v6b.jpg?t=1484064189",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

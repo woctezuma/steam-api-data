@@ -1,19 +1,19 @@
 {
   "type": "dlc",
-  "name": "Hero Siege - Maniac Viking (Skin)",
+  "name": "Skin - Maniac Viking",
   "steam_appid": 520320,
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
   "detailed_description": "Ever wanted to use a huge sledgehammer to destroy your foes while having a maniac murderer mask on your face? Well now its possible! <br />\r\n<br />\r\nThis DLC unlocks you the Maniac Viking -skin + the Maniac mask for any class in game.",
   "about_the_game": "Ever wanted to use a huge sledgehammer to destroy your foes while having a maniac murderer mask on your face? Well now its possible! <br />\r\n<br />\r\nThis DLC unlocks you the Maniac Viking -skin + the Maniac mask for any class in game.",
-  "short_description": "",
+  "short_description": "Ever wanted to use a huge sledgehammer to destroy your foes while having a maniac murderer mask on your face? Well now its possible! This DLC unlocks you the Maniac Viking -skin + the Maniac mask for any class in game.",
   "fullgame": {
     "appid": "269210",
     "name": "Hero Siege"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/520320/header.jpg?t=1513339247",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/520320/header.jpg?t=1544520190",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> Same as main game</li></ul>"
@@ -33,9 +33,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     123285
@@ -43,7 +45,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Hero Siege - Maniac Viking (Skin)",
+      "title": "Buy Skin - Maniac Viking",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -54,11 +56,11 @@
           "packageid": 123285,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Maniac Viking - 1,99\u20ac",
+          "option_text": "Maniac Viking - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -135,15 +137,18 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/520320/ss_b2d09671d5c4f9e9efba71bce2df653e8c9188b0.600x338.jpg?t=1513339247",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/520320/ss_b2d09671d5c4f9e9efba71bce2df653e8c9188b0.1920x1080.jpg?t=1513339247"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/520320/ss_b2d09671d5c4f9e9efba71bce2df653e8c9188b0.600x338.jpg?t=1544520190",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/520320/ss_b2d09671d5c4f9e9efba71bce2df653e8c9188b0.1920x1080.jpg?t=1544520190"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/520320/ss_e7edc31949c29f992782ef52666874bad5a7653b.600x338.jpg?t=1513339247",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/520320/ss_e7edc31949c29f992782ef52666874bad5a7653b.1920x1080.jpg?t=1513339247"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/520320/ss_e7edc31949c29f992782ef52666874bad5a7653b.600x338.jpg?t=1544520190",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/520320/ss_e7edc31949c29f992782ef52666874bad5a7653b.1920x1080.jpg?t=1544520190"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Sep, 2016"
@@ -152,5 +157,9 @@
     "url": "http://panicartstudios.com",
     "email": "panicartstudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/520320/page_bg_generated_v6b.jpg?t=1513339247"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/520320/page_bg_generated_v6b.jpg?t=1544520190",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

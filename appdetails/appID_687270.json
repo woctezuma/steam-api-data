@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     196786
@@ -203,5 +205,9 @@
     "url": "https://www.facebook.com/ExplodingTuba/",
     "email": "explodingtuba@support.assembla.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/687270/page_bg_generated_v6b.jpg?t=1511240342"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/687270/page_bg_generated_v6b.jpg?t=1511240342",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

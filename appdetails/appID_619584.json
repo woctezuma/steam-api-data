@@ -12,7 +12,7 @@
     "appid": "304530",
     "name": "Agents of Mayhem"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Korean, Polish, Portuguese-Brazil, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/619584/header.jpg?t=1506622529",
   "website": null,
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     166334
@@ -158,6 +160,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Sep, 2017"
@@ -166,5 +171,9 @@
     "url": "helpcenter.deepsilver.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/619584/page_bg_generated_v6b.jpg?t=1506622529"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/619584/page_bg_generated_v6b.jpg?t=1506622529",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

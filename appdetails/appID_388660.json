@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "You are the captain of the SSC Tarvotan, a small scale exploration spacecraft created with humanity's most cutting edge technology.  Our home solar system has mysteriously fallen out of balance, and you are humanity's only chance of surviving.  In order to escape the ongoing dangers, you must find and balance resources to remain one step ahead of your ultimate demise.  Planets are burning by the hour\u2026 can you escape the Milky Way to explore other sectors of our universe?  Can you survive long enough to restore balance to the universe?<br><br><br><u><strong>Game Features:</strong></u><br><br><br><strong>Materials</strong><br><br>Earn 'Materials' through-out each solar-sector to trade with other roaming ships throughout the universe.  <br><br><strong>Trading</strong><br><br>Make trades and purchase goods to stay alive.  Need to escape quickly? Save time to buy yourself the best chance to survive until the end. <br><br><strong>Quests</strong><br><br>Complete 'Quests' and manage your relationships with other factions and ships that roam the universe.  Make important choices and decisions that lead you on to the next sector.  The rewards may be more than you expect.<br><br><strong>Faction Relations</strong><br><br>Make and break alliances though integrity or devious backstabbing.  Weigh your options to determine the best allies you can have, but be careful - you can make enemies that will hunt you down as well!<br><br><strong>Combat System</strong><br><br>You are not the only ship roaming the universe.  Many others seek safety and refuge and will do anything to protect themselves.  Upgrade your ship with the most powerful weaponry to ensure your survival.<br><strong><br>Tech Tree</strong><br><br>Research the newest technology with science points to make the SSC Tarvotan more efficient and functional.  Over time, you can alter the ship to match your play style!<br><br><strong>Ever-Changing Pacing</strong><br><br>Each and every solar sector provides a unique challenge and a unique set of characteristics.  Adapt and survive long enough to discover what is required to establish a future for humanity. <br><br><strong>And More!</strong><br><br>There are many other secrets and features to discover and play with in Project Tarvotan.  Not two playthroughs will be the same!  Will you be able to survive until the end?  Will you be able to save and determine the final outcome to the universe?",
   "about_the_game": "You are the captain of the SSC Tarvotan, a small scale exploration spacecraft created with humanity's most cutting edge technology.  Our home solar system has mysteriously fallen out of balance, and you are humanity's only chance of surviving.  In order to escape the ongoing dangers, you must find and balance resources to remain one step ahead of your ultimate demise.  Planets are burning by the hour\u2026 can you escape the Milky Way to explore other sectors of our universe?  Can you survive long enough to restore balance to the universe?<br><br><br><u><strong>Game Features:</strong></u><br><br><br><strong>Materials</strong><br><br>Earn 'Materials' through-out each solar-sector to trade with other roaming ships throughout the universe.  <br><br><strong>Trading</strong><br><br>Make trades and purchase goods to stay alive.  Need to escape quickly? Save time to buy yourself the best chance to survive until the end. <br><br><strong>Quests</strong><br><br>Complete 'Quests' and manage your relationships with other factions and ships that roam the universe.  Make important choices and decisions that lead you on to the next sector.  The rewards may be more than you expect.<br><br><strong>Faction Relations</strong><br><br>Make and break alliances though integrity or devious backstabbing.  Weigh your options to determine the best allies you can have, but be careful - you can make enemies that will hunt you down as well!<br><br><strong>Combat System</strong><br><br>You are not the only ship roaming the universe.  Many others seek safety and refuge and will do anything to protect themselves.  Upgrade your ship with the most powerful weaponry to ensure your survival.<br><strong><br>Tech Tree</strong><br><br>Research the newest technology with science points to make the SSC Tarvotan more efficient and functional.  Over time, you can alter the ship to match your play style!<br><br><strong>Ever-Changing Pacing</strong><br><br>Each and every solar sector provides a unique challenge and a unique set of characteristics.  Adapt and survive long enough to discover what is required to establish a future for humanity. <br><br><strong>And More!</strong><br><br>There are many other secrets and features to discover and play with in Project Tarvotan.  Not two playthroughs will be the same!  Will you be able to survive until the end?  Will you be able to save and determine the final outcome to the universe?",
-  "short_description": "Project Tarvotan allows you to explore the depths of the Milky Way and local universe.  Use your wit and resources at hand to plan out your path through each sector.  Your demise lurks around every decision.  Can you survive long enough and restore balance to the universe?",
+  "short_description": "Project Tarvotan allows you to explore the depths of the Milky Way and local universe. Use your wit and resources at hand to plan out your path through each sector. Your demise lurks around every decision. Can you survive long enough and restore balance to the universe?",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/388660/header.jpg?t=1503634407",
   "website": "http://www.JDRumble.com/",
@@ -27,8 +27,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "final": 49,
+    "discount_percent": 75,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "0,49\u20ac"
   },
   "packages": [
     73642
@@ -45,13 +47,13 @@
       "subs": [
         {
           "packageid": 73642,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "Project Tarvotan - 1,99\u20ac",
+          "option_text": "Project Tarvotan - <span class=\"discount_original_price\">1,99\u20ac</span> 0,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 49
         }
       ]
     }
@@ -164,6 +166,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Sep, 2015"
@@ -172,5 +177,9 @@
     "url": "http://www.jdrumble.com/support",
     "email": "support@jdrumble.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/388660/page_bg_generated_v6b.jpg?t=1503634407"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/388660/page_bg_generated_v6b.jpg?t=1503634407",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     250057
@@ -52,11 +54,11 @@
           "packageid": 250057,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Night of the Shrub Part 1 - 1,99\u20ac",
+          "option_text": "Night of the Shrub Part 1 - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -162,5 +164,9 @@
     "url": "",
     "email": "olkiou@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/816840/page_bg_generated_v6b.jpg?t=1522796658"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/816840/page_bg_generated_v6b.jpg?t=1522796658",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

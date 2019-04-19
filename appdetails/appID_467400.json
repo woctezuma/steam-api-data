@@ -8,7 +8,7 @@
   "about_the_game": "Re-live the early days of space flight in Go For Launch: Mercury, the first in a series of games exploring the early days of space flight.<br><br>With full integration for either a standard computer monitor or full VR via a headset GFL:Mercury will take you on the ultimate adventure into space and let you re-live the exact experiences of those early pioneers, the Mercury Seven.<h2 class=\"bb_tag\">key Features</h2><br>Full support for Oculus Rift (CV1 and DK2) and HTC Vive (with full motion control).<br><br>7 Fully functioning, interactive spacecraft interiors and exteriors.  Each individually crafted to accurately portray the changes in design and loadout.<br><br>7 Complete playable missions from the mercury program (including the cancelled Freedom 7II)<br><br>Detailed models of the Atlas and Redstone rockets on historically accurate launch pads (and the ability to witness test launches from the ground!).<br><br>A full scale recreation of earth as seen from low orbit.<br><br>A virtual recreation of mission control including control room, spacecraft hangar and pilot's office.<br><br>GFL: Mercury is being designed from the ground up to be as authentic and accurate as possible.  It is our hope to offer it as an educational product as well as an entertainment project, suitable for use by schools and colleges to educate and engage students in the fields of astronomy, spaceflight and history.",
   "short_description": "Re-live the early days of spaceflight in the accurate, detailed and exciting simulation of the Mercury spacecraft.",
   "supported_languages": "English",
-  "reviews": "\u201cDoesn't it look really rather good!\u201d<br><a href=\"https://www.youtube.com/watch?v=sEAYakClECU\" target=\"_blank\" rel=\"noreferrer\"  >Scott Manley</a></a><br>",
+  "reviews": "\u201cDoesn't it look really rather good!\u201d<br><a href=\"https://www.youtube.com/watch?v=sEAYakClECU\" target=\"_blank\" rel=\"noreferrer\"  >Scott Manley</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/467400/header.jpg?t=1512947125",
   "website": "http://goforlaunch.co.uk",
   "pc_requirements": {
@@ -37,12 +37,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1699,
-    "final": 1699,
-    "discount_percent": 0
+    "initial": 1599,
+    "final": 1599,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "15,99\u20ac"
   },
   "packages": [
-    102921
+    102921,
+    267201
   ],
   "package_groups": [
     {
@@ -58,8 +61,29 @@
           "packageid": 102921,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Go For Launch: Mercury - 16,99\u20ac",
+          "option_text": "Go For Launch: Mercury - 15,99\u20ac",
           "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 1599
+        }
+      ]
+    },
+    {
+      "name": "subscriptions",
+      "title": "Buy Go For Launch: Mercury Subscription Plan",
+      "description": "To be billed on a recurring basis.",
+      "selection_text": "Select a subscription plan",
+      "save_text": "",
+      "display_type": "1",
+      "is_recurring_subscription": "true",
+      "subs": [
+        {
+          "packageid": 267201,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "1 Month(s) @ 13,99\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">16,99\u20ac at checkout, auto-renewed every 1 month(s) at 13,99\u20ac.</p>",
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 1699
@@ -136,16 +160,6 @@
       "id": 7,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/467400/ss_17d30170fbb9427b25b36a2b4e3a9e613cae170b.600x338.jpg?t=1512947125",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467400/ss_17d30170fbb9427b25b36a2b4e3a9e613cae170b.1920x1080.jpg?t=1512947125"
-    },
-    {
-      "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/467400/?t=1512947125",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467400/?t=1512947125"
-    },
-    {
-      "id": 9,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/467400/?t=1512947125",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467400/?t=1512947125"
     }
   ],
   "movies": [
@@ -160,6 +174,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Oct, 2017"
@@ -168,5 +185,9 @@
     "url": "",
     "email": "admin@goforlaunch.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467400/page_bg_generated_v6b.jpg?t=1512947125"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467400/page_bg_generated_v6b.jpg?t=1512947125",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

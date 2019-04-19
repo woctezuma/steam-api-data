@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This product is token module containing tokens for use with the Fantasy Ground virtual tabletop. Upon activating the module, the tokens will appear in your Token box for use throughout your game.<br><br>This token pack contains 25 new character tokens for use as monsters.<br><br><ul class=\"bb_ul\"><li>Animal_Huskie<br></li><li>Animal_Skunk<br></li><li>DevilDog<br></li><li>Dragon_Red<br></li><li>Drake_Blue<br></li><li>Druid_Doe<br></li><li>Eye_Creeper<br></li><li>Infected_Zombie2A1<br></li><li>Infected_Zombie2<br></li><li>Infected_Zombie3<br></li><li>Infected_Zombie4<br></li><li>Infected_ZombieA1<br></li><li>Infected_Zombie<br></li><li>Lamia<br></li><li>Pixie<br></li><li>ReefPincher<br></li><li>Scarecrow<br></li><li>Siren<br></li><li>ThinkTank2<br></li><li>ThinkTank<br></li><li>Vampire<br></li><li>Vrock<br></li><li>White_Gecko<br></li><li>Wraith</li></ul>",
   "about_the_game": "This product is token module containing tokens for use with the Fantasy Ground virtual tabletop. Upon activating the module, the tokens will appear in your Token box for use throughout your game.<br><br>This token pack contains 25 new character tokens for use as monsters.<br><br><ul class=\"bb_ul\"><li>Animal_Huskie<br></li><li>Animal_Skunk<br></li><li>DevilDog<br></li><li>Dragon_Red<br></li><li>Drake_Blue<br></li><li>Druid_Doe<br></li><li>Eye_Creeper<br></li><li>Infected_Zombie2A1<br></li><li>Infected_Zombie2<br></li><li>Infected_Zombie3<br></li><li>Infected_Zombie4<br></li><li>Infected_ZombieA1<br></li><li>Infected_Zombie<br></li><li>Lamia<br></li><li>Pixie<br></li><li>ReefPincher<br></li><li>Scarecrow<br></li><li>Siren<br></li><li>ThinkTank2<br></li><li>ThinkTank<br></li><li>Vampire<br></li><li>Vrock<br></li><li>White_Gecko<br></li><li>Wraith</li></ul>",
-  "short_description": "This token pack contains 25 new character tokens for use as monsters.<br />\r\n<br />\r\nThis product is token module containing tokens for use with the Fantasy Ground virtual tabletop. Upon activating the module, the tokens will appear in your Token box for use throughout your game.",
+  "short_description": "This token pack contains 25 new character tokens for use as monsters. This product is token module containing tokens for use with the Fantasy Ground virtual tabletop. Upon activating the module, the tokens will appear in your Token box for use throughout your game.",
   "fullgame": {
     "appid": "252690",
     "name": "Fantasy Grounds"
@@ -20,7 +20,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "(c) Tokens and images 2015 Devin Night. All Rights Reserved.<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2015 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a></a> for more product information.",
+  "legal_notice": "(c) Tokens and images 2015 Devin Night. All Rights Reserved.<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2015 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a> for more product information.",
   "developers": [
     "SmiteWorks USA, LLC"
   ],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     74110
@@ -103,6 +105,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389922/ss_c88200150ff8a2b7204cb5107e6e2a115c8afadf.1920x1080.jpg?t=1447377262"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Jul, 2015"
@@ -111,5 +116,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389922/page_bg_generated_v6b.jpg?t=1447377262"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389922/page_bg_generated_v6b.jpg?t=1447377262",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

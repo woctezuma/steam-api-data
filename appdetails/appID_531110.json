@@ -11,7 +11,7 @@
   "about_the_game": "Battles of Norghan is a unique gladiatorial management and strategy game where you not only must recruit, train, and equip fantasy gladiators, but also control them on a tactical grid in turn-based combat as your team fights their way to the top division. This game has a lot of depth and replayability.<br />\r\n<br />\r\nImagine a football manager game with fantasy world creatures such as orcs, drakes and minotaurs and turn-based strategy battles instead of football matches.<br />\r\n<br />\r\nRecruit mercenaries from 22 different fantasy races and classes and manage dozens of fighters as they battle in a variety of different terrains against easy to highly intelligent AI or other player-controlled clans. <br />\r\nTrain and hone each fighter\u2019s skill through monthly training as well as directly in combat. Build secondary skills such as dodging, shield blocking and dual wielding as well as attributes such as strength, intelligence, hit points, and magic points. There are 200 items and 42 spells available to equip your gladiators, including armors, bows, weapons, magical staves, and more! As each combatant grows with your clan they will age as well and eventually retire. Careful planning and management of your clan can ensure you never have an off season.<br />\r\n<br />\r\nOriginal release dates outside Steam: V.1.0 in August 2005. Version 1.12 in October 11 2016.",
   "short_description": "Battles of Norghan is a unique gladiatorial management and strategy game where you not only must recruit, train, and equip fantasy gladiators, but also control them on a tactical grid in turn-based combat.",
   "supported_languages": "English",
-  "reviews": "\u201cI found that this game held its place on my hard drive week after week (and still does) and I'd come back to it again and again.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://www.rpgwatch.com/articles/battles-of-norghan-review-436.html\" target=\"_blank\" rel=\"noopener\"  >RPGWatch</a></a><br>",
+  "reviews": "\u201cI found that this game held its place on my hard drive week after week (and still does) and I'd come back to it again and again.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://www.rpgwatch.com/articles/battles-of-norghan-review-436.html\" target=\"_blank\" rel=\"noopener\"  >RPGWatch</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/531110/header.jpg?t=1517496312",
   "website": "http://www.battlesofnorghan.com/",
   "pc_requirements": {
@@ -28,8 +28,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 499,
-    "discount_percent": 50
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     128038
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 128038,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Battles of Norghan - <span class=\"discount_original_price\">9,99\u20ac</span> 4,99\u20ac",
+          "option_text": "Battles of Norghan - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -186,5 +188,9 @@
     "url": "http://www.mitorahgames.com/Contact-Mitorah-Games.html",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/531110/page_bg_generated_v6b.jpg?t=1517496312"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/531110/page_bg_generated_v6b.jpg?t=1517496312",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

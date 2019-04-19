@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In part I of this tutorial I build the base of the truck in Zbrush using references and discuss hard surface techniques and various tricks used in the pipeline for look development. In part II of this tutorial I add a hookloader to the back of the truck and continue adding other details in Zbrush. I discuss my decisions and strategies regarding design and explain my thinking process when building realistic mechanisms. In part III ( the final part) of this tutorial I talk about texturing and rendering in Keyshot 5 and finalizing the image in Photoshop.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In part I of this tutorial I build the base of the truck in Zbrush using references and discuss hard surface techniques and various tricks used in the pipeline for look development. In part II of this tutorial I add a hookloader to the back of the truck and continue adding other details in Zbrush. I discuss my decisions and strategies regarding design and explain my thinking process when building realistic mechanisms. In part III ( the final part) of this tutorial I talk about texturing and rendering in Keyshot 5 and finalizing the image in Photoshop.",
   "about_the_game": "In part I of this tutorial I build the base of the truck in Zbrush using references and discuss hard surface techniques and various tricks used in the pipeline for look development. In part II of this tutorial I add a hookloader to the back of the truck and continue adding other details in Zbrush. I discuss my decisions and strategies regarding design and explain my thinking process when building realistic mechanisms. In part III ( the final part) of this tutorial I talk about texturing and rendering in Keyshot 5 and finalizing the image in Photoshop.",
   "short_description": "I build a truck in Zbrush using references and discuss hard surface techniques and various tricks used in the pipeline for look development",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     78683
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Oct, 2015"
@@ -127,5 +132,9 @@
     "url": "www.kirillmadethis.com",
     "email": "2dgeek@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/402730/page_bg_generated_v6b.jpg?t=1447378036"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/402730/page_bg_generated_v6b.jpg?t=1447378036",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

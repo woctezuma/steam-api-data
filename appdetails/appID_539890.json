@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Adds the 'Captivating Dancer' costume set to the Dressing Room.<br />\r\nThis set includes:<br />\r\n\u2022'Dancer's Garb' outfit<br />\r\n\u2022'Dancer's Veil' accessory<br />\r\n\u2022'Fan of Happiness' item.",
   "about_the_game": "Adds the 'Captivating Dancer' costume set to the Dressing Room.<br />\r\nThis set includes:<br />\r\n\u2022'Dancer's Garb' outfit<br />\r\n\u2022'Dancer's Veil' accessory<br />\r\n\u2022'Fan of Happiness' item.",
-  "short_description": "Adds the 'Captivating Dancer' costume set to the Dressing Room.<br />\r\nThis set includes:<br />\r\n\u2022'Dancer's Garb' outfit<br />\r\n\u2022'Dancer's Veil' accessory<br />\r\n\u2022'Fan of Happiness' item.",
+  "short_description": "Adds the 'Captivating Dancer' costume set to the Dressing Room. This set includes: \u2022'Dancer's Garb' outfit \u2022'Dancer's Veil' accessory \u2022'Fan of Happiness' item.",
   "fullgame": {
     "appid": "511740",
     "name": "Gal*Gun: Double Peace"
@@ -15,8 +15,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/539890/header.jpg?t=1504883038",
   "website": "http://www.gal-gun.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3-550 / AMD Phenom II X4 964<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTS 450 / ATI Radeon HD 5870<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-4460<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 750<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processeur\u00a0:</strong> Intel Core i3-550 / AMD Phenom II X4 964<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 6 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> NVIDIA GeForce GTS 450 / ATI Radeon HD 5870<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0c<br></li><li><strong>Espace disque\u00a0:</strong> 10 GB d'espace disque disponible</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processeur\u00a0:</strong> Intel Core i5-4460<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 8 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> NVIDIA GeForce GTX 750<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0c<br></li><li><strong>Espace disque\u00a0:</strong> 10 GB d'espace disque disponible</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     132287
@@ -111,6 +113,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/539890/ss_a503006113740da6f9fadeb562faa11c6bce6626.1920x1080.jpg?t=1504883038"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Nov, 2016"
@@ -119,5 +124,9 @@
     "url": "http://www.pqube.co.uk/",
     "email": "support@pqube.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/539890/page_bg_generated_v6b.jpg?t=1504883038"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/539890/page_bg_generated_v6b.jpg?t=1504883038",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Vision Runner</strong> is a First Person Parkour game currently in development with Unreal Engine 4.<br><br>The concept of Vision Runner is the Build, Share &amp; Play principle. You got the opportunity to make your own maps/parkour\u2019s with the In-Game map editor and then sharing them by uploading it automatically after the press of a button to our servers. Then all players can download and play the map in a race against the clock from the map browser or as we call it \u201cParkour Central\u201d.<br><br>The Editor is easy to use, since we\u2019ve made it completely grid-based. Players can simply place Blocks or Objects on the floor or other blocks.<h2 class=\"bb_tag\">Early Access Features</h2><ul class=\"bb_ul\"><li>In-Game map editor with basic features and map sharing<br></li><li>Parkour Central (map browser)<br></li><li>Playing maps from us or other players against the time.<br></li><li>Basic parkour movement: climbing, sliding, wall running, jump over</li></ul><h2 class=\"bb_tag\">Planned Features</h2><ul class=\"bb_ul\"><li>Multiplayer<br></li><li>More Game Modes like Trick Running<br></li><li>Various Textures for Objects<br></li><li>More Content for the Editor<br></li><li>More Tricks<br></li><li>Various Characters<br></li><li>Weather<br></li><li>Map Locations<br></li><li>Mini-Story Creator*</li></ul><br>*Low Priority",
   "about_the_game": "<strong>Vision Runner</strong> is a First Person Parkour game currently in development with Unreal Engine 4.<br><br>The concept of Vision Runner is the Build, Share &amp; Play principle. You got the opportunity to make your own maps/parkour\u2019s with the In-Game map editor and then sharing them by uploading it automatically after the press of a button to our servers. Then all players can download and play the map in a race against the clock from the map browser or as we call it \u201cParkour Central\u201d.<br><br>The Editor is easy to use, since we\u2019ve made it completely grid-based. Players can simply place Blocks or Objects on the floor or other blocks.<h2 class=\"bb_tag\">Early Access Features</h2><ul class=\"bb_ul\"><li>In-Game map editor with basic features and map sharing<br></li><li>Parkour Central (map browser)<br></li><li>Playing maps from us or other players against the time.<br></li><li>Basic parkour movement: climbing, sliding, wall running, jump over</li></ul><h2 class=\"bb_tag\">Planned Features</h2><ul class=\"bb_ul\"><li>Multiplayer<br></li><li>More Game Modes like Trick Running<br></li><li>Various Textures for Objects<br></li><li>More Content for the Editor<br></li><li>More Tricks<br></li><li>Various Characters<br></li><li>Weather<br></li><li>Map Locations<br></li><li>Mini-Story Creator*</li></ul><br>*Low Priority",
-  "short_description": "<strong>Vision Runner</strong> is a First Person Parkour game with an In-Game map editor. Build and Share your parkours or play parkours from other players.",
+  "short_description": "Vision Runner is a First Person Parkour game with an In-Game map editor. Build and Share your parkours or play parkours from other players.",
   "supported_languages": "English<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/429480/header.jpg?t=1493674541",
   "website": "http://www.snowbit.at",
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     88908
@@ -172,5 +174,9 @@
     "url": "http://www.snowbit.at/support",
     "email": "support@snowbit.at"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/429480/page_bg_generated_v6b.jpg?t=1493674541"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/429480/page_bg_generated_v6b.jpg?t=1493674541",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

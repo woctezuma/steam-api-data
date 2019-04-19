@@ -10,7 +10,7 @@
   "short_description": "",
   "fullgame": {
     "appid": "446790",
-    "name": "Diluvion"
+    "name": "Diluvion: Resubmerged"
   },
   "supported_languages": "English<strong>*</strong>, French, German, Russian, Polish<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/578030/header.jpg?t=1505119642",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     147573
@@ -109,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/578030/ss_676b421c287dadd341f446b6c183b8140c62ec66.1920x1080.jpg?t=1505119642"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Feb, 2017"
@@ -117,5 +122,9 @@
     "url": "",
     "email": "support@arachnidgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/578030/page_bg_generated_v6b.jpg?t=1505119642"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/578030/page_bg_generated_v6b.jpg?t=1505119642",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

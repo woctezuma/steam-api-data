@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 61,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     235869
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 235869,
-          "percent_savings_text": "",
+          "percent_savings_text": "-61%",
           "percent_savings": 0,
-          "option_text": "Tinja - 0,99\u20ac",
+          "option_text": "Tinja - <span class=\"discount_original_price\">0,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -114,6 +116,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Feb, 2018"
@@ -122,5 +127,9 @@
     "url": "http://www.dagestantechnology.ru/",
     "email": "dagestan.technology@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/782320/page_bg_generated_v6b.jpg?t=1519399302"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/782320/page_bg_generated_v6b.jpg?t=1519399302",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

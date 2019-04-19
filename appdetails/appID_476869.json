@@ -32,8 +32,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "final": 239,
+    "discount_percent": 20,
+    "initial_formatted": "2,99\u20ac",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     106231
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 106231,
-          "percent_savings_text": "",
+          "percent_savings_text": "-20%",
           "percent_savings": 0,
-          "option_text": "Megadimension Neptunia VII Party Character [Million Arthur] - 2,99\u20ac",
+          "option_text": "Megadimension Neptunia VII Party Character [Million Arthur] - <span class=\"discount_original_price\">2,99\u20ac</span> 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -179,6 +181,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/476869/ss_94bd7b8db7e15d38bbf492d224d5ca785b6fe68c.1920x1080.jpg?t=1467748634"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jul, 2016"
@@ -187,5 +192,9 @@
     "url": "http://ideafintl.com/contact.php",
     "email": "pcsupport@ideafintl.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/476869/page_bg_generated_v6b.jpg?t=1467748634"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/476869/page_bg_generated_v6b.jpg?t=1467748634",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

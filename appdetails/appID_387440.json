@@ -11,19 +11,19 @@
     "appid": "386360",
     "name": "SMITE\u00ae"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Spanish, Polish, Russian<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/387440/header.jpg?t=1517852951",
+  "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Polish, Russian<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/387440/header.jpg?t=1541696905",
   "website": "http://smitegame.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2, Windows Vista or Windows 7<br></li><li><strong>Processor:</strong> Core 2 Duo 2.4 GHz or Althon X2 2.7 GHz<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong> ATI or Nvidia graphics card with 512MB video ram or better and Shader Model 3.0+ support. (ATI Radeon 3870 or higher, Nvidia GeForce 8800 GT or higher)<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit: Vista, Win 7, Win 8<br></li><li><strong>Processor:</strong> Intel Core i5-750, 2.67 GHz / AMD Phenom II X4 965, 3.4 GHz<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 560 / AMD Radeon HD 6950 or better with 768 MB+ of VRAM (DirectX 11 Compatible)<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-bit or newer<br></li><li><strong>Processor:</strong> Core 2 Duo 2.4 GHz or Athlon X2 2.7 GHz<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce 8800 GT<br></li><li><strong>Storage:</strong> 30 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8/10 64-bit (latest Service Pack)<br></li><li><strong>Processor:</strong> Intel Core i5 or AMD Phenom II X3, 2.8 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 660 or ATI Radeon HD 7950<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 30 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>"
   },
   "mac_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.10<br></li><li><strong>Processor:</strong> Core 2 Duo 2.4 GHz or Althon X2 2.7 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> ATI or Nvidia graphics card with 512MB video ram or better and Shader Model 3.0+ support. (ATI Radeon 3870 or higher, Nvidia GeForce 8800 GT or higher)<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.10<br></li><li><strong>Processor:</strong> Intel Core i5-750, 2.67 GHz / AMD Phenom II X4 965, 3.4 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 560 / AMD Radeon HD 6950 or better with 768 MB+ of VRAM (DirectX 11 Compatible)<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>"
   },
   "linux_requirements": [],
-  "legal_notice": "\u00a9 2015 Hi-Rez Studios, Inc. All rights reserved. SMITE and Hi-Rez Studios are trademarks or registered trademarks of Hi-Rez Studios, Inc. in the United States and other countries. All trademarks referenced herein are the properties of their respective owners. The trademarks of Hi-Rez Studios, Inc. and others may not be used without the prior written consent of the trademark owner.<br><br>For information about online services, fees, restrictions, or software license terms that may apply to this game, including the relevant Online Privacy Policy, Online Terms of Service and Use, and End User License Agreement (\"EULA\"), please visit <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.hirezstudios.com\" target=\"_blank\" rel=\"noopener\"  >http://www.hirezstudios.com</a></a>.",
+  "legal_notice": "\u00a9 2015 Hi-Rez Studios, Inc. All rights reserved. SMITE and Hi-Rez Studios are trademarks or registered trademarks of Hi-Rez Studios, Inc. in the United States and other countries. All trademarks referenced herein are the properties of their respective owners. The trademarks of Hi-Rez Studios, Inc. and others may not be used without the prior written consent of the trademark owner.",
   "developers": [
     "Hi-Rez Studios"
   ],
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 2399,
     "final": 2399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "23,99\u20ac"
   },
   "packages": [
     73233
@@ -98,13 +100,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/387440/ss_127ea0511f0125d159a54495b094675a9ff7b6c8.600x338.jpg?t=1517852951",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/387440/ss_127ea0511f0125d159a54495b094675a9ff7b6c8.1920x1080.jpg?t=1517852951"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/387440/ss_127ea0511f0125d159a54495b094675a9ff7b6c8.600x338.jpg?t=1541696905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/387440/ss_127ea0511f0125d159a54495b094675a9ff7b6c8.1920x1080.jpg?t=1541696905"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/387440/ss_8d28d98185e7dfde5ea53e827e26fcb499798ec6.600x338.jpg?t=1517852951",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/387440/ss_8d28d98185e7dfde5ea53e827e26fcb499798ec6.1920x1080.jpg?t=1517852951"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/387440/ss_8d28d98185e7dfde5ea53e827e26fcb499798ec6.600x338.jpg?t=1541696905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/387440/ss_8d28d98185e7dfde5ea53e827e26fcb499798ec6.1920x1080.jpg?t=1541696905"
     }
   ],
   "movies": [
@@ -120,7 +122,10 @@
     }
   ],
   "recommendations": {
-    "total": 621
+    "total": 591
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -130,5 +135,9 @@
     "url": "http://hi-rez.custhelp.com/",
     "email": "smitesupport@hirezstudios.com \u200b"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/387440/page_bg_generated_v6b.jpg?t=1517852951"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/387440/page_bg_generated_v6b.jpg?t=1541696905",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Populate the waters in your city with brand new vessels! Five new waterbuses offer speed, capacity and will surely have your passengers in awe as they sail out of the depots.\u00a0<br><br><ul class=\"bb_ul\"><li> Donau Trooper: It's a bit clunky looking, but don't let that deceive you! The Trooper has superb capacity and tirelessly works any route you assign it to<br></li><li> Toyoka 350: The catamaran hulled Toyoka 350 might look a bit dated, but underneath the surface there's plenty of room for passengers. It might not excel in other areas, but when capacity is important, the 350 is a great choice<br></li><li> Triore:  This super futuristic vessel is the answer to all your needs. It's very fast and still doesn't consume a lot of energy, so it will perfectly serve those busy but eco-friendly passengers<br></li><li> Stingray Peter: The Stingray Peter is a must when you have very demanding passengers who prize comfort above all else. It's very well set up for passengers, barely needs any maintenance and is also quite fast. Everything you need in the same package!<br></li><li> Ciapada State: While the Ciapada does consume quite a bit of fuel on short trips, it's a well-rounded vessel and is fairly fast and comfortable for passengers. A great vehicle for most routes!</li></ul>",
   "about_the_game": "Populate the waters in your city with brand new vessels! Five new waterbuses offer speed, capacity and will surely have your passengers in awe as they sail out of the depots.\u00a0<br><br><ul class=\"bb_ul\"><li> Donau Trooper: It's a bit clunky looking, but don't let that deceive you! The Trooper has superb capacity and tirelessly works any route you assign it to<br></li><li> Toyoka 350: The catamaran hulled Toyoka 350 might look a bit dated, but underneath the surface there's plenty of room for passengers. It might not excel in other areas, but when capacity is important, the 350 is a great choice<br></li><li> Triore:  This super futuristic vessel is the answer to all your needs. It's very fast and still doesn't consume a lot of energy, so it will perfectly serve those busy but eco-friendly passengers<br></li><li> Stingray Peter: The Stingray Peter is a must when you have very demanding passengers who prize comfort above all else. It's very well set up for passengers, barely needs any maintenance and is also quite fast. Everything you need in the same package!<br></li><li> Ciapada State: While the Ciapada does consume quite a bit of fuel on short trips, it's a well-rounded vessel and is fairly fast and comfortable for passengers. A great vehicle for most routes!</li></ul>",
-  "short_description": "",
+  "short_description": "Populate the waters in your city with brand new vessels! Five new waterbuses offer speed, capacity and will surely have your passengers in awe as they sail out of the depots.\u00a0 Donau Trooper: It's a bit clunky looking, but don't let that deceive you!",
   "fullgame": {
     "appid": "225420",
     "name": "Cities in Motion 2"
@@ -28,12 +28,12 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    29246,
-    35268,
-    35269
+    29246
   ],
   "package_groups": [
     {
@@ -54,26 +54,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 499
-        },
-        {
-          "packageid": 35268,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Cities in Motion 2 Collection - 36,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 3699
-        },
-        {
-          "packageid": 35269,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Cities in Motion 1 and 2 Collection - 84,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 8499
         }
       ]
     }
@@ -196,6 +176,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/225428/ss_30b1634c6df5a9f29db05622a29e65bab9643436.1920x1080.jpg?t=1447358290"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Jul, 2013"
@@ -204,5 +187,9 @@
     "url": "www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/225428/page_bg_generated_v6b.jpg?t=1447358290"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/225428/page_bg_generated_v6b.jpg?t=1447358290",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

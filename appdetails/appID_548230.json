@@ -7,9 +7,9 @@
   "controller_support": "full",
   "detailed_description": "<h1>A note from the developer:</h1><p>// SPINGUN has arrived! I put my heart into the game, and I sincerely hope you enjoy it. Have fun! I plan on doing updates every few weeks based on player feedback, so if you experience any issues, or just have a cool new idea for the game, I'm always listening! <br>- Andrew</p><br><h1>About the Game</h1><h2 class=\"bb_tag\"><strong>SPINGUN</strong> is a &quot;manic two-button arcade shooter&quot;. Two buttons. One spaceship. Zero chance to survive.</h2><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/548230/extras/controls-forsteamstore-kb.png?t=1481744368\" ><br><br>Goliath is attacking your planet, but you've heroically stayed behind with your ship so your family can evacuate. SPIN and GUN your way to victory.<br><br>Fly and steer with either single button, or press both buttons at once to fire your ship\u2019s powerful blaster gun. Grab powerups to launch missiles, plasma balls, and flames at your foes. Blast em to bits quick to repair your ship. How long can you fight them off?",
   "about_the_game": "<h2 class=\"bb_tag\"><strong>SPINGUN</strong> is a &quot;manic two-button arcade shooter&quot;. Two buttons. One spaceship. Zero chance to survive.</h2><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/548230/extras/controls-forsteamstore-kb.png?t=1481744368\" ><br><br>Goliath is attacking your planet, but you've heroically stayed behind with your ship so your family can evacuate. SPIN and GUN your way to victory.<br><br>Fly and steer with either single button, or press both buttons at once to fire your ship\u2019s powerful blaster gun. Grab powerups to launch missiles, plasma balls, and flames at your foes. Blast em to bits quick to repair your ship. How long can you fight them off?",
-  "short_description": "<h2 class=\"bb_tag\"><strong>SPINGUN</strong> is a &quot;manic two-button arcade shooter&quot;. Two buttons. One spaceship. Zero chance to survive.</h2>",
+  "short_description": "SPINGUN is a &quot;manic two-button arcade shooter&quot;. Two buttons. One spaceship. Zero chance to survive.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201cBeautifully designed\u201d<br><a href=\"http://toucharcade.com/2016/10/21/spingun-review/\" target=\"_blank\" rel=\"noreferrer\"  >TouchArcade</a></a><br><br>\u201cIntense\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.supergamedroid.com/2016/10/08/intense-new-arcade-shooter-spingun-rolls-onto-android/\" target=\"_blank\" rel=\"noopener\"  >SuperGameDroid</a></a><br>",
+  "reviews": "\u201cBeautifully designed\u201d<br><a href=\"http://toucharcade.com/2016/10/21/spingun-review/\" target=\"_blank\" rel=\"noreferrer\"  >TouchArcade</a><br><br>\u201cIntense\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.supergamedroid.com/2016/10/08/intense-new-arcade-shooter-spingun-rolls-onto-android/\" target=\"_blank\" rel=\"noopener\"  >SuperGameDroid</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/548230/header.jpg?t=1481744368",
   "website": "http://fermentergames.com/spingun",
   "pc_requirements": {
@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 79,
-    "discount_percent": 60
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     135487
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 135487,
-          "percent_savings_text": "-60%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "SPINGUN - <span class=\"discount_original_price\">1,99\u20ac</span> 0,79\u20ac",
+          "option_text": "SPINGUN - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 79
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -203,5 +205,9 @@
     "url": "http://fermentergames.com/contact",
     "email": "andrew@fermentergames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548230/page_bg_generated_v6b.jpg?t=1481744368"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548230/page_bg_generated_v6b.jpg?t=1481744368",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

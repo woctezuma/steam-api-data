@@ -4,11 +4,11 @@
   "steam_appid": 710780,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "Easy clicker when you need to jump from one platform to another and try to do your best score.  You can choose more than 15 skins for your character. Every 15 minutes you can get reward.",
-  "about_the_game": "Easy clicker when you need to jump from one platform to another and try to do your best score.  You can choose more than 15 skins for your character. Every 15 minutes you can get reward.",
-  "short_description": "Time killer for you. Easy game with nice graphics and lovely music. You can choose more than 15 skins for your character. Every 15 minutes you can get reward.",
+  "detailed_description": "Tap to jump on moving platforms and travel the sky. Don\u2019t fall, it hurts! Seriously!!<br />\r\n<br />\r\nFEATURES:<br />\r\n- Addictive one-touch gameplay.<br />\r\n- 30 built-in characters with cute blocky style.<br />\r\n- Daily reward system.<br />\r\n- Easy achievments<br />\r\n- Custom achievements",
+  "about_the_game": "Tap to jump on moving platforms and travel the sky. Don\u2019t fall, it hurts! Seriously!!<br />\r\n<br />\r\nFEATURES:<br />\r\n- Addictive one-touch gameplay.<br />\r\n- 30 built-in characters with cute blocky style.<br />\r\n- Daily reward system.<br />\r\n- Easy achievments<br />\r\n- Custom achievements",
+  "short_description": "Sky Jump is a gorgeous, addictive game that will keep the player entertained for hours.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/710780/header.jpg?t=1516476772",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/710780/header.jpg?t=1548793688",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows xp sp2<br></li><li><strong>Processor:</strong> Pentium\u00ae 4 1.5 GHz / Athlon\u00ae XP<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> GeForce 210 590Mhz<br></li><li><strong>DirectX:</strong> Version 5.2<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
@@ -25,10 +25,13 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 49,
-    "discount_percent": 51
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
+    272735,
     205497
   ],
   "package_groups": [
@@ -42,14 +45,24 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": 205497,
-          "percent_savings_text": "-51%",
+          "packageid": 272735,
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Sky Fall - <span class=\"discount_original_price\">0,99\u20ac</span> 0,49\u20ac",
+          "option_text": "Sky Jump - Commercial License - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 49
+          "price_in_cents_with_discount": 79
+        },
+        {
+          "packageid": 205497,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Sky Fall - 0,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -67,6 +80,10 @@
     {
       "id": 22,
       "description": "Steam Achievements"
+    },
+    {
+      "id": 23,
+      "description": "Steam Cloud"
     }
   ],
   "genres": [
@@ -86,38 +103,38 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_a9288ea58d765fa2999061f57e52f4112122c1cc.600x338.jpg?t=1516476772",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_a9288ea58d765fa2999061f57e52f4112122c1cc.1920x1080.jpg?t=1516476772"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_b7aa55dd7288de91e342cdbb2d12d2c10cf7d5f4.600x338.jpg?t=1548793688",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_b7aa55dd7288de91e342cdbb2d12d2c10cf7d5f4.1920x1080.jpg?t=1548793688"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_e5684d1e6bb766a73eeb9ed0c812eb88fb48c453.600x338.jpg?t=1516476772",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_e5684d1e6bb766a73eeb9ed0c812eb88fb48c453.1920x1080.jpg?t=1516476772"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_42cc002012f9da583dc01f52bd1ed95e2162e51e.600x338.jpg?t=1548793688",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_42cc002012f9da583dc01f52bd1ed95e2162e51e.1920x1080.jpg?t=1548793688"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_b41a7e8937e1f92a23599dc4ea3899ddfc65c7d0.600x338.jpg?t=1516476772",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_b41a7e8937e1f92a23599dc4ea3899ddfc65c7d0.1920x1080.jpg?t=1516476772"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_ac36cfc65ba55297fecbde45bdf6babbfd23406e.600x338.jpg?t=1548793688",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_ac36cfc65ba55297fecbde45bdf6babbfd23406e.1920x1080.jpg?t=1548793688"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_d245a3db4f2a73d73781c2c4a5527ec5f81016d7.600x338.jpg?t=1516476772",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_d245a3db4f2a73d73781c2c4a5527ec5f81016d7.1920x1080.jpg?t=1516476772"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_ee6efa9205015090fc15c50e84e1e5f081bb1bce.600x338.jpg?t=1548793688",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_ee6efa9205015090fc15c50e84e1e5f081bb1bce.1920x1080.jpg?t=1548793688"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_ec845e9191a7ff1d39590aacc25adf45a49d22c0.600x338.jpg?t=1516476772",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_ec845e9191a7ff1d39590aacc25adf45a49d22c0.1920x1080.jpg?t=1516476772"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_d7302d26db8fc37c74f5c76987fdbae1a61ff617.600x338.jpg?t=1548793688",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/710780/ss_d7302d26db8fc37c74f5c76987fdbae1a61ff617.1920x1080.jpg?t=1548793688"
     }
   ],
   "movies": [
     {
-      "id": 256694590,
-      "name": "Sky Jump",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256694590/movie.293x165.jpg?t=1504987368",
+      "id": 256741697,
+      "name": "Sky jump",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256741697/movie.293x165.jpg?t=1548793679",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256694590/movie480.webm?t=1504987368",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256694590/movie_max.webm?t=1504987368"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256741697/movie480.webm?t=1548793679",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256741697/movie_max.webm?t=1548793679"
       },
       "highlight": true
     }
@@ -175,5 +192,9 @@
     "url": "",
     "email": "zzz4354zzz4354hhhhhh@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/710780/page_bg_generated_v6b.jpg?t=1516476772"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/710780/page_bg_generated_v6b.jpg?t=1548793688",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

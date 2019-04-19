@@ -11,7 +11,7 @@
     "appid": "290790",
     "name": "Grey Goo"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German<strong>*</strong>, Spanish, Portuguese-Brazil, Russian, Polish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German<strong>*</strong>, Spanish - Spain, Portuguese - Brazil, Russian, Polish<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/357180/header.jpg?t=1447370991",
   "website": "http://www.greybox.com/greygoo/en/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     70919,
@@ -169,6 +171,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/357180/ss_457a1236b4de9130c3a00363b65359e9f3fd3bc7.1920x1080.jpg?t=1447370991"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Jun, 2015"
@@ -177,5 +182,9 @@
     "url": "http://greybox.zendesk.com",
     "email": "support@greybox.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/357180/page_bg_generated_v6b.jpg?t=1447370991"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/357180/page_bg_generated_v6b.jpg?t=1447370991",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

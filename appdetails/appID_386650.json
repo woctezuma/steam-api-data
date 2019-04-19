@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     72998
@@ -218,7 +220,7 @@
     }
   ],
   "recommendations": {
-    "total": 123
+    "total": 105
   },
   "achievements": {
     "total": 37,
@@ -273,5 +275,9 @@
     "url": "http://forum.dungeonsandrobots.com",
     "email": "glowgamesinfo@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/386650/page_bg_generated_v6b.jpg?t=1479048638"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/386650/page_bg_generated_v6b.jpg?t=1479048638",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

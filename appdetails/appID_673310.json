@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     191658
@@ -252,5 +254,9 @@
     "url": "http://adamwaste.com/",
     "email": "info@blackturn.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/673310/page_bg_generated_v6b.jpg?t=1519986739"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/673310/page_bg_generated_v6b.jpg?t=1519986739",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 449,
+    "final": 449,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,49\u20ac"
   },
   "packages": [
     213625
@@ -49,11 +51,11 @@
           "packageid": 213625,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Riskers Soundtrack - 4,99\u20ac",
+          "option_text": "Riskers Soundtrack - 4,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 449
         }
       ]
     }
@@ -106,6 +108,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/732120/ss_1a1d2dc5ab152dd08ade1cdafeecdf3c256d5fd9.1920x1080.jpg?t=1508361121"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Oct, 2017"
@@ -114,5 +119,9 @@
     "url": "",
     "email": "support@meridian4.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/732120/page_bg_generated_v6b.jpg?t=1508361121"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/732120/page_bg_generated_v6b.jpg?t=1508361121",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

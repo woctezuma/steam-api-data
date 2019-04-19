@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     52295
@@ -185,7 +187,7 @@
     }
   ],
   "recommendations": {
-    "total": 162
+    "total": 129
   },
   "achievements": {
     "total": 51,
@@ -240,5 +242,9 @@
     "url": "http://flyinginteractive.com/",
     "email": "contact@flyinginteractive.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/326720/page_bg_generated_v6b.jpg?t=1478035923"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/326720/page_bg_generated_v6b.jpg?t=1478035923",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

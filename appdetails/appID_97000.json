@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     8535
@@ -70,7 +72,7 @@
   },
   "metacritic": {
     "score": 72,
-    "url": "http://www.metacritic.com/game/pc/solar-2?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/solar-2?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -152,7 +154,7 @@
     }
   ],
   "recommendations": {
-    "total": 1638
+    "total": 1126
   },
   "achievements": {
     "total": 25,
@@ -207,5 +209,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/97000/page_bg_generated_v6b.jpg?t=1447354312"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/97000/page_bg_generated_v6b.jpg?t=1447354312",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

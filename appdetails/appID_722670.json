@@ -4,11 +4,11 @@
   "steam_appid": 722670,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "Please make sure your computer supports unicode.<h2 class=\"bb_tag\">This Is A Chinese Chess Game.</h2>To win the game, you need to kill the enemy's general, that is , to achieve &quot;Checkmate&quot;.<br>The current game version contain the following features:<br>Basic scene with Chessboard, pieces, and some furniture~<br>The &quot;Artificial Idiot&quot; support on single player so that you can play with computer AI.<br>Steam achievements system...<br>With Steam Workshop, you can create and upload your own AI design and scenes.<h2 class=\"bb_tag\">And More Features to Be Added In the Future...</h2><br>Contact via QQ<br>QQ group\uff1a678755273  password\uff1a\u4e2d\u56fd\u8c61\u68cb",
-  "about_the_game": "Please make sure your computer supports unicode.<h2 class=\"bb_tag\">This Is A Chinese Chess Game.</h2>To win the game, you need to kill the enemy's general, that is , to achieve &quot;Checkmate&quot;.<br>The current game version contain the following features:<br>Basic scene with Chessboard, pieces, and some furniture~<br>The &quot;Artificial Idiot&quot; support on single player so that you can play with computer AI.<br>Steam achievements system...<br>With Steam Workshop, you can create and upload your own AI design and scenes.<h2 class=\"bb_tag\">And More Features to Be Added In the Future...</h2><br>Contact via QQ<br>QQ group\uff1a678755273  password\uff1a\u4e2d\u56fd\u8c61\u68cb",
+  "detailed_description": "Please make sure your computer supports unicode.<h2 class=\"bb_tag\">This Is A Chinese Chess Game.</h2>To win the game, you need to kill the enemy's general, that is , to achieve &quot;Checkmate&quot;.<br>The current game version contain the following features:<br>Basic scene with Chessboard, pieces, and some furniture~<br>The &quot;Artificial Idiot&quot; support on single player so that you can play with computer AI.<br>Steam achievements system...<br>With Steam Workshop, you can create and upload your own AI design and scenes.<br>Multiplayer through internet (because there aren't many players, you may need a friend to start a match)<br><br>Contact via QQ<br>QQ group\uff1a678755273",
+  "about_the_game": "Please make sure your computer supports unicode.<h2 class=\"bb_tag\">This Is A Chinese Chess Game.</h2>To win the game, you need to kill the enemy's general, that is , to achieve &quot;Checkmate&quot;.<br>The current game version contain the following features:<br>Basic scene with Chessboard, pieces, and some furniture~<br>The &quot;Artificial Idiot&quot; support on single player so that you can play with computer AI.<br>Steam achievements system...<br>With Steam Workshop, you can create and upload your own AI design and scenes.<br>Multiplayer through internet (because there aren't many players, you may need a friend to start a match)<br><br>Contact via QQ<br>QQ group\uff1a678755273",
   "short_description": "The most popular Chinese board game.",
   "supported_languages": "Simplified Chinese, Traditional Chinese, English, Russian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/722670/header.jpg?t=1523002204",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/722670/header.jpg?t=1534966959",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 7800GT<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
@@ -25,12 +25,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 799,
+    "final": 799,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
-    209990
+    209990,
+    299695
   ],
   "package_groups": [
     {
@@ -46,11 +49,32 @@
           "packageid": 209990,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "\u4e2d\u56fd\u8c61\u68cb - 9,99\u20ac",
+          "option_text": "\u4e2d\u56fd\u8c61\u68cb - 7,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 799
+        }
+      ]
+    },
+    {
+      "name": "subscriptions",
+      "title": "Buy Chinese Chess/ Elephant Game: \u8c61\u68cb/ \u4e2d\u56fd\u8c61\u68cb/ \u4e2d\u570b\u8c61\u68cb Subscription Plan",
+      "description": "To be billed on a recurring basis.",
+      "selection_text": "Select a subscription plan",
+      "save_text": "",
+      "display_type": "1",
+      "is_recurring_subscription": "true",
+      "subs": [
+        {
+          "packageid": 299695,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "1 Month(s) @ 0,79\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">8,19\u20ac at checkout, auto-renewed every 1 month(s) at 0,79\u20ac.</p>",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -80,6 +104,10 @@
     {
       "id": 30,
       "description": "Steam Workshop"
+    },
+    {
+      "id": 18,
+      "description": "Partial Controller Support"
     },
     {
       "id": 23,
@@ -115,83 +143,83 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_8f8447c2763f9a35c777fbd7654d2cddb6690e1e.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_8f8447c2763f9a35c777fbd7654d2cddb6690e1e.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_8f8447c2763f9a35c777fbd7654d2cddb6690e1e.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_8f8447c2763f9a35c777fbd7654d2cddb6690e1e.1920x1080.jpg?t=1534966959"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_91d13a69683d930d91186e216192b416dce0cb6a.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_91d13a69683d930d91186e216192b416dce0cb6a.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_91d13a69683d930d91186e216192b416dce0cb6a.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_91d13a69683d930d91186e216192b416dce0cb6a.1920x1080.jpg?t=1534966959"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_3006bca12d3aa0f7ffb16d52c98d2beb2fa8e4f2.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_3006bca12d3aa0f7ffb16d52c98d2beb2fa8e4f2.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_3006bca12d3aa0f7ffb16d52c98d2beb2fa8e4f2.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_3006bca12d3aa0f7ffb16d52c98d2beb2fa8e4f2.1920x1080.jpg?t=1534966959"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_499453b4a0ac269ac34ccad449235e756d3963fb.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_499453b4a0ac269ac34ccad449235e756d3963fb.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_499453b4a0ac269ac34ccad449235e756d3963fb.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_499453b4a0ac269ac34ccad449235e756d3963fb.1920x1080.jpg?t=1534966959"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_a3f0d2c952e2bb45d146f19e51fd5a055fa5b5f9.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_a3f0d2c952e2bb45d146f19e51fd5a055fa5b5f9.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_a3f0d2c952e2bb45d146f19e51fd5a055fa5b5f9.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_a3f0d2c952e2bb45d146f19e51fd5a055fa5b5f9.1920x1080.jpg?t=1534966959"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_dc00f6942a1bc7ccfda8055a2a7c755d624729fd.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_dc00f6942a1bc7ccfda8055a2a7c755d624729fd.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_dc00f6942a1bc7ccfda8055a2a7c755d624729fd.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_dc00f6942a1bc7ccfda8055a2a7c755d624729fd.1920x1080.jpg?t=1534966959"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_1ba4dd52ac181a3af4cc983369e4f06ff8b64b75.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_1ba4dd52ac181a3af4cc983369e4f06ff8b64b75.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_1ba4dd52ac181a3af4cc983369e4f06ff8b64b75.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_1ba4dd52ac181a3af4cc983369e4f06ff8b64b75.1920x1080.jpg?t=1534966959"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_efdd6bb0631b79573936f3b6cb663ce4369e7aa6.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_efdd6bb0631b79573936f3b6cb663ce4369e7aa6.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_efdd6bb0631b79573936f3b6cb663ce4369e7aa6.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_efdd6bb0631b79573936f3b6cb663ce4369e7aa6.1920x1080.jpg?t=1534966959"
     },
     {
       "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_1e77e6953c3fe0bb2cc151abd8d517563b77ac7c.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_1e77e6953c3fe0bb2cc151abd8d517563b77ac7c.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_1e77e6953c3fe0bb2cc151abd8d517563b77ac7c.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_1e77e6953c3fe0bb2cc151abd8d517563b77ac7c.1920x1080.jpg?t=1534966959"
     },
     {
       "id": 9,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_66c31a03828ccf06d71a40e12b5ec24a36898a0d.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_66c31a03828ccf06d71a40e12b5ec24a36898a0d.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_66c31a03828ccf06d71a40e12b5ec24a36898a0d.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_66c31a03828ccf06d71a40e12b5ec24a36898a0d.1920x1080.jpg?t=1534966959"
     },
     {
       "id": 10,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_1e531fad4ee87c950565a181033a5586a68714ea.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_1e531fad4ee87c950565a181033a5586a68714ea.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_1e531fad4ee87c950565a181033a5586a68714ea.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_1e531fad4ee87c950565a181033a5586a68714ea.1920x1080.jpg?t=1534966959"
     },
     {
       "id": 11,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_9dc0c6f64785be5bcc15f8a34fd189be7f4f4810.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_9dc0c6f64785be5bcc15f8a34fd189be7f4f4810.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_9dc0c6f64785be5bcc15f8a34fd189be7f4f4810.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_9dc0c6f64785be5bcc15f8a34fd189be7f4f4810.1920x1080.jpg?t=1534966959"
     },
     {
       "id": 12,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_28861c3c83abc653a84dfa5f34b4032ed7592322.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_28861c3c83abc653a84dfa5f34b4032ed7592322.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_28861c3c83abc653a84dfa5f34b4032ed7592322.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_28861c3c83abc653a84dfa5f34b4032ed7592322.1920x1080.jpg?t=1534966959"
     },
     {
       "id": 13,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_3ea59d023952f3105ec39db0b9aa5b5a625ceec0.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_3ea59d023952f3105ec39db0b9aa5b5a625ceec0.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_3ea59d023952f3105ec39db0b9aa5b5a625ceec0.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_3ea59d023952f3105ec39db0b9aa5b5a625ceec0.1920x1080.jpg?t=1534966959"
     },
     {
       "id": 14,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_6e02ac16412479dd7fc4832efe09198bbca37360.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_6e02ac16412479dd7fc4832efe09198bbca37360.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_6e02ac16412479dd7fc4832efe09198bbca37360.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_6e02ac16412479dd7fc4832efe09198bbca37360.1920x1080.jpg?t=1534966959"
     },
     {
       "id": 15,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_bbf2f80107bf1536b908467c012d44945e353bdb.600x338.jpg?t=1523002204",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_bbf2f80107bf1536b908467c012d44945e353bdb.1920x1080.jpg?t=1523002204"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_bbf2f80107bf1536b908467c012d44945e353bdb.600x338.jpg?t=1534966959",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/722670/ss_bbf2f80107bf1536b908467c012d44945e353bdb.1920x1080.jpg?t=1534966959"
     }
   ],
   "movies": [
@@ -216,6 +244,9 @@
       "highlight": true
     }
   ],
+  "recommendations": {
+    "total": 116
+  },
   "achievements": {
     "total": 14,
     "highlighted": [
@@ -269,5 +300,9 @@
     "url": "",
     "email": "alicemagic@foxmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/722670/page_bg_generated_v6b.jpg?t=1523002204"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/722670/page_bg_generated_v6b.jpg?t=1534966959",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

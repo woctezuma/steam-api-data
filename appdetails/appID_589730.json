@@ -5,11 +5,14 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
+  "dlc": [
+    733400
+  ],
   "detailed_description": "<h1>Update Notes</h1><p>v1.2:\r\n\r\nFixes:\r\n\r\n- Some fixes regarding Input\r\n- Fix for initial continue load, the last played level will now load automatically without needing to select it.\r\n- Some loading fixes were implemented.\r\n- Some smaller additional fixes.\r\n\r\nAdditions:\r\n\r\n-An in-game Graphics/Resolution menu has been added.\r\n\r\nPossible Issues:\r\n\r\n- Some sounds tweaks\r\n- Some graphical tweaks\r\n- Linux distros that arent officially supported might still have input/menu issues\r\n\r\nNext Update:\r\n\r\n- VR support for Oculus Rift and HTC Vive.\r\n- Audio Menu\r\n- Any necessary fixes\r\n- Some tweaks and refinements</p><br><h1>About the Game</h1>Manipulate time to your will at any moment to solve challenges, avoid deadly traps and make it to the end of this strange journey.\r\n\r\nTyd wag vir Niemand is an indie abstract adventure filled with mystical environments that will put your abilities to the test and engage you in a world of mystery and wonder.\r\n\r\nFeatures:\r\n\r\n-Large, abstract environments\r\n-Fun, tricky obstacles\r\n-Exploration\r\n-Platforming\r\n-Traps",
   "about_the_game": "Manipulate time to your will at any moment to solve challenges, avoid deadly traps and make it to the end of this strange journey.<br />\r\n<br />\r\nTyd wag vir Niemand is an indie abstract adventure filled with mystical environments that will put your abilities to the test and engage you in a world of mystery and wonder.<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n-Large, abstract environments<br />\r\n-Fun, tricky obstacles<br />\r\n-Exploration<br />\r\n-Platforming<br />\r\n-Traps",
   "short_description": "Manipulate time to your will at any moment to solve challenges, avoid deadly traps and make it to the end of this strange journey.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/589730/header.jpg?t=1504044331",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/589730/header.jpg?t=1528397799",
   "website": "http://www.skobbejakgames.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 32-bit<br></li><li><strong>Processor:</strong> Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 8800 OR ATI Radeon HD 3870 OR equivalent/higher<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> Direct X compatible</li></ul>",
@@ -39,8 +42,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 449,
+    "discount_percent": 55,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "4,49\u20ac"
   },
   "packages": [
     152621
@@ -57,13 +62,13 @@
       "subs": [
         {
           "packageid": 152621,
-          "percent_savings_text": "",
+          "percent_savings_text": "-55%",
           "percent_savings": 0,
-          "option_text": "Tyd wag vir Niemand - 9,99\u20ac",
+          "option_text": "Tyd wag vir Niemand - <span class=\"discount_original_price\">9,99\u20ac</span> 4,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 449
         }
       ]
     }
@@ -79,8 +84,16 @@
       "description": "Single-player"
     },
     {
+      "id": 22,
+      "description": "Steam Achievements"
+    },
+    {
       "id": 28,
       "description": "Full controller support"
+    },
+    {
+      "id": 29,
+      "description": "Steam Trading Cards"
     }
   ],
   "genres": [
@@ -96,33 +109,33 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_806b150bbd7977ee07d2b0a5f7e1b384a86a7d9b.600x338.jpg?t=1504044331",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_806b150bbd7977ee07d2b0a5f7e1b384a86a7d9b.1920x1080.jpg?t=1504044331"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_806b150bbd7977ee07d2b0a5f7e1b384a86a7d9b.600x338.jpg?t=1528397799",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_806b150bbd7977ee07d2b0a5f7e1b384a86a7d9b.1920x1080.jpg?t=1528397799"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_17c5a4d8727aa4370353c998bed209a885a5b9e6.600x338.jpg?t=1504044331",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_17c5a4d8727aa4370353c998bed209a885a5b9e6.1920x1080.jpg?t=1504044331"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_17c5a4d8727aa4370353c998bed209a885a5b9e6.600x338.jpg?t=1528397799",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_17c5a4d8727aa4370353c998bed209a885a5b9e6.1920x1080.jpg?t=1528397799"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_9392654309b491e900a851accb8c96a8df70f69b.600x338.jpg?t=1504044331",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_9392654309b491e900a851accb8c96a8df70f69b.1920x1080.jpg?t=1504044331"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_9392654309b491e900a851accb8c96a8df70f69b.600x338.jpg?t=1528397799",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_9392654309b491e900a851accb8c96a8df70f69b.1920x1080.jpg?t=1528397799"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_30865fb93c2df27e05bd5c82f488fe48eab00b3a.600x338.jpg?t=1504044331",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_30865fb93c2df27e05bd5c82f488fe48eab00b3a.1920x1080.jpg?t=1504044331"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_30865fb93c2df27e05bd5c82f488fe48eab00b3a.600x338.jpg?t=1528397799",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_30865fb93c2df27e05bd5c82f488fe48eab00b3a.1920x1080.jpg?t=1528397799"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_d6f1dfabc2a7205e283523e2a62bcc09fd484a5d.600x338.jpg?t=1504044331",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_d6f1dfabc2a7205e283523e2a62bcc09fd484a5d.1920x1080.jpg?t=1504044331"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_d6f1dfabc2a7205e283523e2a62bcc09fd484a5d.600x338.jpg?t=1528397799",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_d6f1dfabc2a7205e283523e2a62bcc09fd484a5d.1920x1080.jpg?t=1528397799"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_81de15b7df2c7cb1f52e6a800220c91b41a99c47.600x338.jpg?t=1504044331",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_81de15b7df2c7cb1f52e6a800220c91b41a99c47.1920x1080.jpg?t=1504044331"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_81de15b7df2c7cb1f52e6a800220c91b41a99c47.600x338.jpg?t=1528397799",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/589730/ss_81de15b7df2c7cb1f52e6a800220c91b41a99c47.1920x1080.jpg?t=1528397799"
     }
   ],
   "movies": [
@@ -200,5 +213,9 @@
     "url": "https://www.skobbejakgames.com/contact/",
     "email": "skobbejakgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589730/page_bg_generated_v6b.jpg?t=1504044331"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589730/page_bg_generated_v6b.jpg?t=1528397799",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

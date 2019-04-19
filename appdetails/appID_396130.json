@@ -5,9 +5,9 @@
   "required_age": "17",
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>The meek shall inherit the earth. Wrong. Not in the bleak near-future of the second of three Mad Max movies.\r\n\r\nMel Gibson stars in the film that made him an international superstar as Max, a former cop reduced to scavenging for gasoline--the\r\ndecaying world's most prized commodity--as he cruises the barren, post-apocalyptic Outback along highways crawling with human\r\nvermin.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>The meek shall inherit the earth. Wrong. Not in the bleak near-future of the second of three Mad Max movies.\r\n\r\nMel Gibson stars in the film that made him an international superstar as Max, a former cop reduced to scavenging for gasoline--the\r\ndecaying world's most prized commodity--as he cruises the barren, post-apocalyptic Outback along highways crawling with human\r\nvermin.",
   "about_the_game": "The meek shall inherit the earth. Wrong. Not in the bleak near-future of the second of three Mad Max movies.<br />\r\n<br />\r\nMel Gibson stars in the film that made him an international superstar as Max, a former cop reduced to scavenging for gasoline--the<br />\r\ndecaying world's most prized commodity--as he cruises the barren, post-apocalyptic Outback along highways crawling with human<br />\r\nvermin.",
-  "short_description": "Mad Max joins forces with nuclear holocaust survivors to defend an oil refinery under siege from a ferocious, marauding horde that<br />\r\nplunders the land for gasoline.",
+  "short_description": "Mad Max joins forces with nuclear holocaust survivors to defend an oil refinery under siege from a ferocious, marauding horde that plunders the land for gasoline.",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     77418
@@ -151,6 +153,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Aug, 2015"
@@ -159,5 +164,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396130/page_bg_generated_v6b.jpg?t=1507330677"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396130/page_bg_generated_v6b.jpg?t=1507330677",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

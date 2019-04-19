@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>The omens of the Battle of the Gods have been many, signaling the impending fight for supremacy over all other gods of Egypt. And of course, Assil will be caught in the middle of it all again. Together with his girlfriend Thara, he will have to prevent the sinister Seth from winning the battle and subjecting Egypt to his regime of terror. With the typical Ankh humour, numerous bizarre characters and gags by the wagonload, Ankh - Battle Of The Gods is again a candidate for the adventure gaming throne.</p>\n\t\t\t\t<p>Battle Of The Gods feature several new locations, including Luxor, the gambling capital of ancient Egypt. And an unexpected trip takes Assil to a far-away, exotic location, where he will have to deal with the entirely unfamiliar conventions of its native people. The new Ankh features even more detailed character models and smoother animations.</p>",
   "about_the_game": "<p>The omens of the Battle of the Gods have been many, signaling the impending fight for supremacy over all other gods of Egypt. And of course, Assil will be caught in the middle of it all again. Together with his girlfriend Thara, he will have to prevent the sinister Seth from winning the battle and subjecting Egypt to his regime of terror. With the typical Ankh humour, numerous bizarre characters and gags by the wagonload, Ankh - Battle Of The Gods is again a candidate for the adventure gaming throne.</p>\n\t\t\t\t<p>Battle Of The Gods feature several new locations, including Luxor, the gambling capital of ancient Egypt. And an unexpected trip takes Assil to a far-away, exotic location, where he will have to deal with the entirely unfamiliar conventions of its native people. The new Ankh features even more detailed character models and smoother animations.</p>",
-  "short_description": "",
+  "short_description": "The omens of the Battle of the Gods have been many, signaling the impending fight for supremacy over all other gods of Egypt. And of course, Assil will be caught in the middle of it all again. Together with his girlfriend Thara, he will have to prevent the sinister Seth from winning the battle and subjecting Egypt to his regime of terror.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/12450/header.jpg?t=1447352266",
   "website": "http://www.ankh-game.com/",
@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 199,
+    "discount_percent": 80,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     1690,
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 1690,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "Ankh 3: Battle of the Gods - 9,99\u20ac",
+          "option_text": "Ankh 3: Battle of the Gods - <span class=\"discount_original_price\">9,99\u20ac</span> 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 199
         },
         {
           "packageid": 1691,
@@ -134,6 +136,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/12450/0000009111.1920x1080.jpg?t=1447352266"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Jun, 2009"
@@ -142,5 +147,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/12450/page_bg_generated_v6b.jpg?t=1447352266"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/12450/page_bg_generated_v6b.jpg?t=1447352266",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

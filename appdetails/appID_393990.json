@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 87,
+    "final": 87,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,87\u20ac"
   },
   "packages": [
     75522
@@ -50,11 +52,11 @@
           "packageid": 75522,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Kaiju-A-GoGo: Shrubby Zombie Plant Skin - 0,99\u20ac",
+          "option_text": "Kaiju-A-GoGo: Shrubby Zombie Plant Skin - 0,87\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 87
         }
       ]
     }
@@ -137,6 +139,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/393990/ss_72e5b0ff42da8bf6ffb6099004b0f01cf88ff394.1920x1080.jpg?t=1447377508"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Aug, 2015"
@@ -145,5 +150,9 @@
     "url": "http://www.kerberos-productions.com/forums/viewforum.php?f=82",
     "email": "contact@kerberos-productions.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/393990/page_bg_generated_v6b.jpg?t=1447377508"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/393990/page_bg_generated_v6b.jpg?t=1447377508",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

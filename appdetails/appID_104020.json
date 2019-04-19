@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     13287,
@@ -132,9 +134,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 125
-  },
   "achievements": {
     "total": 19,
     "highlighted": [
@@ -188,5 +187,9 @@
     "url": "http://www.cobramobile.com/support/",
     "email": "support@cobramobile.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/104020/page_bg_generated_v6b.jpg?t=1447355249"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/104020/page_bg_generated_v6b.jpg?t=1447355249",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

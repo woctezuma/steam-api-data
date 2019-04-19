@@ -12,7 +12,7 @@
     "appid": "339690",
     "name": "Paperbound"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Dutch, Polish, Portuguese-Brazil, Portuguese, Swedish",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Polish, Portuguese - Brazil, Portuguese, Swedish",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/430250/header.jpg?t=1458103714",
   "website": "http://www.PaperboundGame.com",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     89235,
@@ -150,5 +152,9 @@
     "url": "http://www.PaperboundGame.com",
     "email": "support@DissidentLogic.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/430250/page_bg_generated_v6b.jpg?t=1458103714"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/430250/page_bg_generated_v6b.jpg?t=1458103714",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

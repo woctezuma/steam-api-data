@@ -11,8 +11,8 @@
     "appid": "770400",
     "name": "Fairy of the treasures"
   },
-  "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/816050/header.jpg?t=1521958662",
+  "supported_languages": "English, Simplified Chinese, Russian",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/816050/header.jpg?t=1548689554",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows XP/Vista/7/8/10 (32 bit or 64 bit)<br></li><li><strong>Processor:</strong> 1Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> DirectX\u00ae 9 Compatible Graphics Card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
@@ -29,7 +29,40 @@
   "publishers": [
     "JustE Publishing"
   ],
-  "package_groups": [],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 99,
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
+  },
+  "packages": [
+    249759
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Fairy of the treasures - Sylvia story",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 249759,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Fairy of the treasures - Sylvia story - 0,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 99
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": true,
@@ -62,32 +95,36 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_bd169ab07c845033be3e5aea0a29e5dfbd7d1f9e.600x338.jpg?t=1521958662",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_bd169ab07c845033be3e5aea0a29e5dfbd7d1f9e.1920x1080.jpg?t=1521958662"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_bd169ab07c845033be3e5aea0a29e5dfbd7d1f9e.600x338.jpg?t=1548689554",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_bd169ab07c845033be3e5aea0a29e5dfbd7d1f9e.1920x1080.jpg?t=1548689554"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_ac44ad3eec2d4c1b5bded5903165d6f4bf65a881.600x338.jpg?t=1521958662",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_ac44ad3eec2d4c1b5bded5903165d6f4bf65a881.1920x1080.jpg?t=1521958662"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_ac44ad3eec2d4c1b5bded5903165d6f4bf65a881.600x338.jpg?t=1548689554",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_ac44ad3eec2d4c1b5bded5903165d6f4bf65a881.1920x1080.jpg?t=1548689554"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_88507e5ef406320a3193800a0e567c0a077869a6.600x338.jpg?t=1521958662",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_88507e5ef406320a3193800a0e567c0a077869a6.1920x1080.jpg?t=1521958662"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_88507e5ef406320a3193800a0e567c0a077869a6.600x338.jpg?t=1548689554",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_88507e5ef406320a3193800a0e567c0a077869a6.1920x1080.jpg?t=1548689554"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_74ac255fe6e819e6bcbb321324082aab07a23f30.600x338.jpg?t=1521958662",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_74ac255fe6e819e6bcbb321324082aab07a23f30.1920x1080.jpg?t=1521958662"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_74ac255fe6e819e6bcbb321324082aab07a23f30.600x338.jpg?t=1548689554",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816050/ss_74ac255fe6e819e6bcbb321324082aab07a23f30.1920x1080.jpg?t=1548689554"
     }
   ],
   "release_date": {
-    "coming_soon": true,
-    "date": "18 Mar, 2020"
+    "coming_soon": false,
+    "date": "24 May, 2018"
   },
   "support_info": {
     "url": "",
     "email": "alexandrtikhonov42@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/816050/page_bg_generated_v6b.jpg?t=1521958662"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/816050/page_bg_generated_v6b.jpg?t=1548689554",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

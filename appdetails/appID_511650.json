@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1899,
     "final": 1899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "18,99\u20ac"
   },
   "packages": [
     223452
@@ -136,6 +138,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/511650/ss_f31f70bd54dce555ff13afa53775e226d31e12e4.1920x1080.jpg?t=1479204985"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Aug, 2016"
@@ -144,5 +149,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/511650/page_bg_generated_v6b.jpg?t=1479204985"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/511650/page_bg_generated_v6b.jpg?t=1479204985",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

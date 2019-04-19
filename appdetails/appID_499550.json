@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     114382
@@ -113,5 +115,9 @@
     "url": "http://www.starrealms.com/contact-us/",
     "email": "support@starrealms.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499550/page_bg_generated_v6b.jpg?t=1467840676"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499550/page_bg_generated_v6b.jpg?t=1467840676",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

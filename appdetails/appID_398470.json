@@ -12,8 +12,8 @@
     "appid": "354160",
     "name": "WRC 5 FIA World Rally Championship"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Polish, Portuguese, Russian<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/398470/header.jpg?t=1449859961",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish, Portuguese, Russian<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/398470/header.jpg?t=1538040081",
   "website": "http://www.wrcthegame.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae 7<br></li><li><strong>Processor:</strong> Intel\u00ae Core i3 / AMD Phenom\u2122 II X2<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u00ae 9800 GTX / AMD Radeon\u2122 HD 5750<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 25 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Soundcard</li></ul>",
@@ -23,7 +23,7 @@
   "linux_requirements": [],
   "legal_notice": "WRC 5 FIA WORLD RALLY CHAMPIONSHIP \u00a9 2015 published by Bigben Interactive S.A. and developed by Kylotonn Games. All rights reserved. An official product of the FIA World Rally Championship, under licence of the WRC Promoter GmbH and the F\u00e9d\u00e9ration Internationale de l\u2019Automobile. Manufacturers, cars, names, brands and associated imagery featured in this game are trademarks and/or copyrighted materials of their respective owners. \u201cWRC\u201d and the WRC logo are registered trademarks of the F\u00e9d\u00e9ration Internationale de l\u2019Automobile. All rights reserved.",
   "developers": [
-    "Kylotonn Racing Games"
+    "KT Racing"
   ],
   "publishers": [
     "Bigben Interactive",
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     77012
@@ -105,10 +107,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/398470/ss_b8375f56a7763db5301d3e1ec6acb4ed15071b66.600x338.jpg?t=1449859961",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/398470/ss_b8375f56a7763db5301d3e1ec6acb4ed15071b66.1920x1080.jpg?t=1449859961"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/398470/ss_b8375f56a7763db5301d3e1ec6acb4ed15071b66.600x338.jpg?t=1538040081",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/398470/ss_b8375f56a7763db5301d3e1ec6acb4ed15071b66.1920x1080.jpg?t=1538040081"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Dec, 2015"
@@ -117,5 +122,9 @@
     "url": "http://www.bigben-interactive.co.uk/support",
     "email": "hotline@bigben.fr"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/398470/page_bg_generated_v6b.jpg?t=1449859961"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/398470/page_bg_generated_v6b.jpg?t=1538040081",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

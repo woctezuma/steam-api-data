@@ -15,13 +15,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/533230/header.jpg?t=1475853062",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 85 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 85 MB d'espace disque disponible</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 85 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 85 MB d'espace disque disponible</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 85 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 85 MB d'espace disque disponible</li></ul>"
   },
   "developers": [
     "RuVe Game Studio"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     129005
@@ -109,5 +111,9 @@
     "url": "",
     "email": "contact@ruvesoftware.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/533230/page_bg_generated_v6b.jpg?t=1475853062"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/533230/page_bg_generated_v6b.jpg?t=1475853062",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

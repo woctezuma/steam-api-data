@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This DLC will add, or change, nothing to the game. But if you like <i>In the Darkness of the Sea</i> and wish to give a little something, you can buy this DLC.",
   "about_the_game": "This DLC will add, or change, nothing to the game. But if you like <i>In the Darkness of the Sea</i> and wish to give a little something, you can buy this DLC.",
-  "short_description": "This DLC will add, or change, nothing to the game. But if you like <i>In the Darkness of the Sea</i> and wish to give a little something, you can buy this DLC.",
+  "short_description": "This DLC will add, or change, nothing to the game. But if you like In the Darkness of the Sea and wish to give a little something, you can buy this DLC.",
   "fullgame": {
     "appid": "587840",
     "name": "In the Darkness of the Sea"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     152019
@@ -101,5 +103,9 @@
     "url": "",
     "email": "olivier.leclair93@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/587890/page_bg_generated_v6b.jpg?t=1485989533"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/587890/page_bg_generated_v6b.jpg?t=1485989533",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

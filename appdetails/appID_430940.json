@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     89502
@@ -109,5 +111,9 @@
     "url": "http://www.pixelbarrage.com/contact.html",
     "email": "productservice@pixelbarrage.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/430940/page_bg_generated_v6b.jpg?t=1450911436"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/430940/page_bg_generated_v6b.jpg?t=1450911436",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

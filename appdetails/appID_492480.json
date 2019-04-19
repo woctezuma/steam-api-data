@@ -11,7 +11,7 @@
     "appid": "353640",
     "name": "Train Valley"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Czech, Polish, Portuguese-Brazil, Russian, Romanian, Japanese, Simplified Chinese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Czech, Polish, Portuguese - Brazil, Russian, Romanian, Japanese, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/492480/header.jpg?t=1508926893",
   "website": "http://train-valley.com/",
   "pc_requirements": {
@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     111685
@@ -124,5 +126,9 @@
     "url": "http://train-valley.com/contact/",
     "email": "info@flazm.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492480/page_bg_generated_v6b.jpg?t=1508926893"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492480/page_bg_generated_v6b.jpg?t=1508926893",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

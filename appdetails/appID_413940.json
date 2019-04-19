@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>60 minute video process on how you can improve your sense of visual design with better understanding and application of my favorite tools for design.\r\n\r\nLayer Caking\r\nRules of Three\r\nCounter Balance\r\n\r\nAlso I'll touch on other basic design stuff that you should keep in mind such as unity, variety, texture, values, etc.\r\n\r\nOn top of all that I'll give you some things you can practice to get better at design.\r\n\r\nThis package includes\r\n\r\n-HIRES JPEG PSD\r\n-PDF file of design wiki\r\n-Photoshop tools.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>60 minute video process on how you can improve your sense of visual design with better understanding and application of my favorite tools for design.\r\n\r\nLayer Caking\r\nRules of Three\r\nCounter Balance\r\n\r\nAlso I'll touch on other basic design stuff that you should keep in mind such as unity, variety, texture, values, etc.\r\n\r\nOn top of all that I'll give you some things you can practice to get better at design.\r\n\r\nThis package includes\r\n\r\n-HIRES JPEG PSD\r\n-PDF file of design wiki\r\n-Photoshop tools.",
   "about_the_game": "60 minute video process on how you can improve your sense of visual design with better understanding and application of my favorite tools for design.<br />\r\n<br />\r\nLayer Caking<br />\r\nRules of Three<br />\r\nCounter Balance<br />\r\n<br />\r\nAlso I'll touch on other basic design stuff that you should keep in mind such as unity, variety, texture, values, etc.<br />\r\n<br />\r\nOn top of all that I'll give you some things you can practice to get better at design.<br />\r\n<br />\r\nThis package includes<br />\r\n<br />\r\n-HIRES JPEG PSD<br />\r\n-PDF file of design wiki<br />\r\n-Photoshop tools.",
   "short_description": "This is a video process on how to improve your sense of visual design.",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     83021
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Nov, 2015"
@@ -127,5 +132,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413940/page_bg_generated_v6b.jpg?t=1447968385"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413940/page_bg_generated_v6b.jpg?t=1447968385",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

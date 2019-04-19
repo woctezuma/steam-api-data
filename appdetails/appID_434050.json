@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     90500
@@ -62,7 +64,7 @@
   },
   "metacritic": {
     "score": 72,
-    "url": "http://www.metacritic.com/game/pc/duke-nukem-3d-20th-anniversary-world-tour?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/duke-nukem-3d-20th-anniversary-world-tour?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -154,7 +156,7 @@
     }
   ],
   "recommendations": {
-    "total": 621
+    "total": 881
   },
   "achievements": {
     "total": 27,
@@ -209,5 +211,12 @@
     "url": "http://gearboxpublishing.com",
     "email": "http://gearboxpublishing.com/support"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/434050/page_bg_generated_v6b.jpg?t=1518545464"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/434050/page_bg_generated_v6b.jpg?t=1518545464",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

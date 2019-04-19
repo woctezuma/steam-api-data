@@ -26,9 +26,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 400,
+    "final": 400,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,--\u20ac"
   },
   "packages": [
     190580
@@ -47,11 +49,11 @@
           "packageid": 190580,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "SuperLuminauts - 4,99\u20ac",
+          "option_text": "SuperLuminauts - 4,--\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 400
         }
       ]
     }
@@ -128,6 +130,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Aug, 2017"
@@ -136,5 +141,9 @@
     "url": "",
     "email": "help.lampfire@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/670080/page_bg_generated_v6b.jpg?t=1504240057"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/670080/page_bg_generated_v6b.jpg?t=1504240057",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

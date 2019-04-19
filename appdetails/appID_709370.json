@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     205047
@@ -131,6 +133,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Sep, 2017"
@@ -139,5 +144,9 @@
     "url": "http://www.beboldco.com",
     "email": "info@beboldco.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/709370/page_bg_generated_v6b.jpg?t=1505748324"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/709370/page_bg_generated_v6b.jpg?t=1505748324",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

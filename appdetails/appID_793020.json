@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     240187
@@ -102,5 +104,9 @@
     "url": "https://pagodagames.net/",
     "email": "info@pagodagames.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793020/page_bg_generated_v6b.jpg?t=1521078792"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793020/page_bg_generated_v6b.jpg?t=1521078792",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

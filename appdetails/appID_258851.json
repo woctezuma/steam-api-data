@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Hive - The Ladybug is an expansion piece for the core Hive game.<br />\r\n<br />\r\nThe Ladybug adds some new tactics to traditional Hive.  The Ladybug works as kind of a cross between a Spider and a Beetle.  They are able to climb up on top of the hive for 2 spaces before they must ascend back down to the main level.  This allows you to move quickly and easily across the hive in ways your previously couldn't to allow you to sneak up on your opponent!<br />\r\n<br />\r\nYou can use the Ladybug in all of the game modes available in the core Hive game, including online, local, and games against the computer.  You can also earn new achievements that can only be granted using the Ladybug!",
   "about_the_game": "Hive - The Ladybug is an expansion piece for the core Hive game.<br />\r\n<br />\r\nThe Ladybug adds some new tactics to traditional Hive.  The Ladybug works as kind of a cross between a Spider and a Beetle.  They are able to climb up on top of the hive for 2 spaces before they must ascend back down to the main level.  This allows you to move quickly and easily across the hive in ways your previously couldn't to allow you to sneak up on your opponent!<br />\r\n<br />\r\nYou can use the Ladybug in all of the game modes available in the core Hive game, including online, local, and games against the computer.  You can also earn new achievements that can only be granted using the Ladybug!",
-  "short_description": "",
+  "short_description": "Hive - The Ladybug is an expansion piece for the core Hive game. The Ladybug adds some new tactics to traditional Hive. The Ladybug works as kind of a cross between a Spider and a Beetle. They are able to climb up on top of the hive for 2 spaces before they must ascend back down to the main level.",
   "fullgame": {
     "appid": "251210",
     "name": "Hive"
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     32842,
@@ -192,5 +194,9 @@
     "url": "http://bluelinegamestudios.com",
     "email": "support@bluelinegamestudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/258851/page_bg_generated_v6b.jpg?t=1483560603"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/258851/page_bg_generated_v6b.jpg?t=1483560603",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "<p>Convert all uncommon, rare, and mythic rare cards in \u201cBerserker Rage\u201d red and green deck to premium foil cards. Additional content for Magic 2013. Requires Deck Pack 2.\n</p>\n",
   "about_the_game": "<p>Convert all uncommon, rare, and mythic rare cards in \u201cBerserker Rage\u201d red and green deck to premium foil cards. Additional content for Magic 2013. Requires Deck Pack 2.\n</p>\n",
-  "short_description": "",
+  "short_description": "Convert all uncommon, rare, and mythic rare cards in \u201cBerserker Rage\u201d red and green deck to premium foil cards. Additional content for Magic 2013. Requires Deck Pack 2.",
   "fullgame": {
     "appid": "97330",
     "name": "Magic: The Gathering - Duels of the Planeswalkers 2013"
   },
-  "supported_languages": "English, French, German, Italian, Japanese, Korean, Portuguese-Brazil, Russian, Spanish",
+  "supported_languages": "English, French, German, Italian, Japanese, Korean, Portuguese - Brazil, Russian, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/208838/header.jpg?t=1447357179",
   "website": "http://www.wizards.com/magic/digital/duelsoftheplaneswalkers.aspx",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     18623,
@@ -141,6 +143,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/208838/ss_47351a2e16120e28fa72d6e39ace725993f5233b.1920x1080.jpg?t=1447357179"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Dec, 2012"
@@ -149,5 +154,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/208838/page_bg_generated_v6b.jpg?t=1447357179"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/208838/page_bg_generated_v6b.jpg?t=1447357179",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

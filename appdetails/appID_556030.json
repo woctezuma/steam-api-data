@@ -12,7 +12,7 @@
     "appid": "314790",
     "name": "Silence"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French, Italian, Spanish, Portuguese-Brazil, Simplified Chinese<strong>*</strong>, Japanese, Korean, Russian, Polish<strong>*</strong>, Greek<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French, Italian, Spanish - Spain, Portuguese - Brazil, Simplified Chinese<strong>*</strong>, Japanese, Korean, Russian, Polish<strong>*</strong>, Greek<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/556030/header.jpg?t=1479229168",
   "website": "http://www.daedalic.de/",
   "pc_requirements": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     138888
@@ -110,6 +112,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/556030/ss_dff497f61bde91414a1100d4ec6399c380a38dd4.1920x1080.jpg?t=1479229168"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Nov, 2016"
@@ -118,5 +123,9 @@
     "url": "http://www.daedalicsupport.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/556030/page_bg_generated_v6b.jpg?t=1479229168"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/556030/page_bg_generated_v6b.jpg?t=1479229168",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

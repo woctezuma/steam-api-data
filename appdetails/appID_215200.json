@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Digital Extras Includes:<br>Making Of Booklet<br>Making Of A Character Video<br>Soundtrack (all mp3):<br><ul class=\"bb_ul\"><li>Overture<br></li><li>The Artefact of Destiny<br></li><li>Wilbur's Theme<br></li><li>Ivo's Action Theme<br></li><li>The Evil<br></li><li>Undeads<br></li><li>Orcs<br></li><li>Mage Tower<br></li><li>Seastone<br></li><li>Song of Death<br></li><li>Mummy<br></li><li>Main Title<br></li><li>Sunken Temple<br></li><li>The Hall of the Mountain Dwarfs<br></li><li>Trailer<br></li><li>Love_Theme<br></li><li>Eerie Background<br></li><li>Seastone Sad<br></li><li>Shaman<br></li><li>Escape<br></li><li>Cannon Launch<br></li><li>The Book of Unwritten Tales Suite<br>Note: Digital Extras will be located at Program files -&gt; Steam -&gt; Steamapps -&gt; Common -&gt; The Book of Unwritten Tales -&gt; Digital Extras</li></ul>",
   "about_the_game": "Digital Extras Includes:<br>Making Of Booklet<br>Making Of A Character Video<br>Soundtrack (all mp3):<br><ul class=\"bb_ul\"><li>Overture<br></li><li>The Artefact of Destiny<br></li><li>Wilbur's Theme<br></li><li>Ivo's Action Theme<br></li><li>The Evil<br></li><li>Undeads<br></li><li>Orcs<br></li><li>Mage Tower<br></li><li>Seastone<br></li><li>Song of Death<br></li><li>Mummy<br></li><li>Main Title<br></li><li>Sunken Temple<br></li><li>The Hall of the Mountain Dwarfs<br></li><li>Trailer<br></li><li>Love_Theme<br></li><li>Eerie Background<br></li><li>Seastone Sad<br></li><li>Shaman<br></li><li>Escape<br></li><li>Cannon Launch<br></li><li>The Book of Unwritten Tales Suite<br>Note: Digital Extras will be located at Program files -&gt; Steam -&gt; Steamapps -&gt; Common -&gt; The Book of Unwritten Tales -&gt; Digital Extras</li></ul>",
-  "short_description": "",
+  "short_description": "Digital Extras Includes:Making Of BookletMaking Of A Character VideoSoundtrack (all mp3):OvertureThe Artefact of DestinyWilbur's ThemeIvo's Action ThemeThe EvilUndeadsOrcsMage TowerSeastoneSong of DeathMummyMain TitleSunken TempleThe Hall of the Mountain DwarfsTrailerLove_ThemeEerie BackgroundSeastone SadShamanEscapeCannon LaunchThe Book ",
   "fullgame": {
     "appid": "215160",
     "name": "The Book of Unwritten Tales"
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 249,
+    "discount_percent": 75,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     15891,
@@ -46,33 +48,33 @@
       "subs": [
         {
           "packageid": 15891,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "The Book of Unwritten Tales Digital Extras - 9,99\u20ac",
+          "option_text": "The Book of Unwritten Tales Digital Extras - <span class=\"discount_original_price\">9,99\u20ac</span> 2,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 249
         },
         {
           "packageid": 15892,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "The Book of Unwritten Tales Digital Deluxe Edition - 24,99\u20ac",
+          "option_text": "The Book of Unwritten Tales Digital Deluxe Edition - <span class=\"discount_original_price\">24,99\u20ac</span> 6,24\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2499
+          "price_in_cents_with_discount": 624
         },
         {
           "packageid": 59923,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "The Book of Unwritten Tales Collection - 69,99\u20ac",
+          "option_text": "The Book of Unwritten Tales Collection - <span class=\"discount_original_price\">69,99\u20ac</span> 13,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 6999
+          "price_in_cents_with_discount": 1399
         }
       ]
     }
@@ -101,6 +103,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/215200/ss_c9776b14eacf9aa1d2f5dae3f198cddfa355de55.1920x1080.jpg?t=1471949099"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Jul, 2012"
@@ -109,5 +114,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/215200/page_bg_generated_v6b.jpg?t=1471949099"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/215200/page_bg_generated_v6b.jpg?t=1471949099",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

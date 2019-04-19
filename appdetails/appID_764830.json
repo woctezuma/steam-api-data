@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     226121,
@@ -66,8 +68,8 @@
           "packageid": 235307,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "1 Month(s) @ 6,99\u20ac/Month",
-          "option_description": "<p class=\"game_purchase_subscription\">6,99\u20ac at checkout, auto-renewed every 1 month(s) at 6,99\u20ac.</p>",
+          "option_text": "1 Month(s) @ 0,79\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">6,99\u20ac at checkout, auto-renewed every 1 month(s) at 0,79\u20ac.</p>",
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 699
@@ -235,5 +237,9 @@
     "url": "",
     "email": "info@vrena.cz"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/764830/page_bg_generated_v6b.jpg?t=1515339750"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/764830/page_bg_generated_v6b.jpg?t=1515339750",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

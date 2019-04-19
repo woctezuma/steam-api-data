@@ -11,54 +11,23 @@
     "appid": "291480",
     "name": "Warface"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Polish<strong>*</strong>, Spanish, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/720450/header.jpg?t=1513326318",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Polish<strong>*</strong>, Spanish - Spain, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/720450/header.jpg?t=1548787884",
   "website": "https://wf.my.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Windows Vista<br></li><li><strong>Processor:</strong> Intel/AMD Dual-Core 2.0 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8600 GT 256MB / AMD ATI Radeon X1950 256MB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 9 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> Intel Core2Duo E6-series / Athlon64 X2 6400+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 9600GT 512MB / AMD Radeon HD 4830 512MB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 9 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> Intel/AMD Dual-Core 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8600 GT 256MB / AMD ATI Radeon X1950 256MB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> Intel Core2Duo E6-series / Athlon64 X2 6400+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 9600GT 512MB / AMD Radeon HD 4830 512MB<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card with latest drivers</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "\u00a9 2017 Crytek GmbH ('Crytek'). Published by My.com B.V. All rights reserved. All trademarks are the property of their respective owners.",
+  "legal_notice": "\u00a9 2017-2018 Mail.Ru LLC. Published by My.com B.V. All rights reserved. All trademarks are the property of their respective owners.",
   "developers": [
-    "Crytek"
+    "My.com"
   ],
   "publishers": [
     "My.com"
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 2299,
-    "final": 2299,
-    "discount_percent": 0
-  },
-  "packages": [
-    208999
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy Warface - Defender Pack",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 208999,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Warface - Defender Pack - 22,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2299
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -70,12 +39,20 @@
       "description": "Multi-player"
     },
     {
+      "id": 36,
+      "description": "Online Multi-Player"
+    },
+    {
       "id": 20,
       "description": "MMO"
     },
     {
       "id": 9,
       "description": "Co-op"
+    },
+    {
+      "id": 38,
+      "description": "Online Co-op"
     },
     {
       "id": 21,
@@ -111,40 +88,43 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_b7b74830aee4d9d9a5c08d69fd0b662fd2dc0e34.600x338.jpg?t=1513326318",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_b7b74830aee4d9d9a5c08d69fd0b662fd2dc0e34.1920x1080.jpg?t=1513326318"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_b7b74830aee4d9d9a5c08d69fd0b662fd2dc0e34.600x338.jpg?t=1548787884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_b7b74830aee4d9d9a5c08d69fd0b662fd2dc0e34.1920x1080.jpg?t=1548787884"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_434dafe408ee07108aaca6e043b342692f3b1ce4.600x338.jpg?t=1513326318",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_434dafe408ee07108aaca6e043b342692f3b1ce4.1920x1080.jpg?t=1513326318"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_434dafe408ee07108aaca6e043b342692f3b1ce4.600x338.jpg?t=1548787884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_434dafe408ee07108aaca6e043b342692f3b1ce4.1920x1080.jpg?t=1548787884"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_3c28e01e0a3e47f9826c4c2580d1bb3b31222c89.600x338.jpg?t=1513326318",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_3c28e01e0a3e47f9826c4c2580d1bb3b31222c89.1920x1080.jpg?t=1513326318"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_3c28e01e0a3e47f9826c4c2580d1bb3b31222c89.600x338.jpg?t=1548787884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_3c28e01e0a3e47f9826c4c2580d1bb3b31222c89.1920x1080.jpg?t=1548787884"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_72a04e7b8eab570f5bed6487fe88dfb840e84503.600x338.jpg?t=1513326318",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_72a04e7b8eab570f5bed6487fe88dfb840e84503.1920x1080.jpg?t=1513326318"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_72a04e7b8eab570f5bed6487fe88dfb840e84503.600x338.jpg?t=1548787884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_72a04e7b8eab570f5bed6487fe88dfb840e84503.1920x1080.jpg?t=1548787884"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_d18bcefe450e332ef1dd8359506dc0c076dee67a.600x338.jpg?t=1513326318",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_d18bcefe450e332ef1dd8359506dc0c076dee67a.1920x1080.jpg?t=1513326318"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_d18bcefe450e332ef1dd8359506dc0c076dee67a.600x338.jpg?t=1548787884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_d18bcefe450e332ef1dd8359506dc0c076dee67a.1920x1080.jpg?t=1548787884"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_10c2f28175522889abe916ebc472da9699104cf2.600x338.jpg?t=1513326318",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_10c2f28175522889abe916ebc472da9699104cf2.1920x1080.jpg?t=1513326318"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_10c2f28175522889abe916ebc472da9699104cf2.600x338.jpg?t=1548787884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_10c2f28175522889abe916ebc472da9699104cf2.1920x1080.jpg?t=1548787884"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_2c365f37bc19b96970e6458a444be2c99c84f448.600x338.jpg?t=1513326318",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_2c365f37bc19b96970e6458a444be2c99c84f448.1920x1080.jpg?t=1513326318"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_2c365f37bc19b96970e6458a444be2c99c84f448.600x338.jpg?t=1548787884",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/720450/ss_2c365f37bc19b96970e6458a444be2c99c84f448.1920x1080.jpg?t=1548787884"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Oct, 2017"
@@ -153,5 +133,9 @@
     "url": "http://support.my.com/games/kb/WF",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/720450/page_bg_generated_v6b.jpg?t=1513326318"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/720450/page_bg_generated_v6b.jpg?t=1548787884",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

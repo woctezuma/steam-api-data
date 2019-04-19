@@ -11,7 +11,7 @@
     "appid": "298630",
     "name": "The Escapists"
   },
-  "supported_languages": "English, French, German, Spanish, Polish, Russian, Italian",
+  "supported_languages": "English, French, German, Spanish - Spain, Polish, Russian, Italian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/349350/header.jpg?t=1512480445",
   "website": null,
   "pc_requirements": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     60428
@@ -150,6 +152,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Apr, 2015"
@@ -158,5 +163,9 @@
     "url": "",
     "email": "help@team17support.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/349350/page_bg_generated_v6b.jpg?t=1512480445"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/349350/page_bg_generated_v6b.jpg?t=1512480445",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

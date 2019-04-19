@@ -15,10 +15,10 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/530770/header.jpg?t=1476969787",
   "website": "http://nomadgames.co.uk/talismanheresy/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.0GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 1280x768 resolution on board graphics<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> On board</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7<br></li><li><strong>Processeur\u00a0:</strong> 2.0GHz Dual Core<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> 1280x768 resolution on board graphics<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0<br></li><li><strong>Espace disque\u00a0:</strong> 1 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> On board</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.8<br></li><li><strong>Processor:</strong> 2.0GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 1280x768 resolution on board graphics<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> On board</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> 10.8<br></li><li><strong>Processeur\u00a0:</strong> 2.0GHz Dual Core<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> 1280x768 resolution on board graphics<br></li><li><strong>Espace disque\u00a0:</strong> 1 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> On board</li></ul>"
   },
   "linux_requirements": [],
   "legal_notice": "Talisman: The Horus Heresy (c) Copyright Games Workshop Limited 2016. The Talisman: The Horus Heresy logo, Talisman, the Talisman logo, The Horus Heresy Eye logo, GW, Games Workshop, Space Marine, 40k, Warhammer, Warhammer 40,000, 40,000, the 'Aquila' Double-headed Eagle logo, and all associated logos, illustrations, images, names, creatures, races, vehicles, locations, weapons, characters, and the distinctive likeness thereof, are either (r) or TM, and/or (c) Games Workshop Limited, variably registered around the world, and used under licence. Nomad Games is the registered trademark of Nomad Games Limited. All Rights Reserved to their respective owners.",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     127922
@@ -183,6 +185,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Oct, 2016"
@@ -191,5 +196,9 @@
     "url": "http://www.nomadgames.co.uk/support/",
     "email": "support@nomadgames.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/530770/page_bg_generated_v6b.jpg?t=1476969787"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/530770/page_bg_generated_v6b.jpg?t=1476969787",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

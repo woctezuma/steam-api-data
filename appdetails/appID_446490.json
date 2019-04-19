@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 149,
+    "discount_percent": 70,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "1,49\u20ac"
   },
   "packages": [
     95344
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 95344,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Rail Cargo Simulator - 4,99\u20ac",
+          "option_text": "Rail Cargo Simulator - <span class=\"discount_original_price\">4,99\u20ac</span> 1,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 149
         }
       ]
     }
@@ -139,6 +141,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Jun, 2016"
@@ -147,5 +152,9 @@
     "url": "",
     "email": "support@uieg.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/446490/page_bg_generated_v6b.jpg?t=1465307624"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/446490/page_bg_generated_v6b.jpg?t=1465307624",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

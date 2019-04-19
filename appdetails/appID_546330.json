@@ -9,7 +9,7 @@
   "about_the_game": "Now introducing the Windows version of the highly popular Space Mouse by Japan\u2019s first star game designer, Takanari Suzuki!<br />\r\n<br />\r\n<br />\r\n2016 marks the 35th anniversary of the introduction of Space Mouse, and to commemorate this occasion, Mindware Co., Ltd is releasing a compilation of five games that includes two ports of the original version, two MZ-700-style arrange version, and an NES-style arrange version! <br />\r\n<br />\r\n<br />\r\nThe NES arranged version includes dramatic enhancements similar to our previous release, Cosmic Cavern 3671 (http://store.steampowered.com/app/496980/), drawing this fun from the past and adding new and interesting improvements.<br />\r\n<br />\r\n<br />\r\nProduct includes:<br />\r\n<br />\r\n<br />\r\nArranged Version in the style of the NES<br />\r\nArranged Version in the style of the MZ-700+PCG<br />\r\nArranged Version in the style of the MZ-700<br />\r\nPort of the PC-8001+PCG version<br />\r\nPort of the original PC-8001 version<br />\r\n<br />\r\n<br />\r\nSpace Mouse was first published for the PC-8001 in the October 1981 issue of engineering magazine I/O, where it was very highly rated and eventually ported to a wide range of personal computers of that era. This pioneering work is a very early example of vertical scrolling in a videogame. <br />\r\n<br />\r\n<br />\r\nIn this maze game, you must guide Alice to the top of the building before her oxygen supply runs out and without being caught by the vicious Space Mice! Power-ups allow her to punch through brick walls and send those interstellar vermin flying!<br />\r\n<br />\r\n<br />\r\nThis simple, but deep gameplay still keeps players coming back for more, core qualities common to any classic and hasn\u2019t faded even after 35 years. We hope you will enjoy Space Mouse for many years to come!",
   "short_description": "Guide Alice, cat astronaut extraordinaire, to the top of the building without being caught by the vicious Space Mice. The original version of this vertically-scrolling maze game was released in September 1981 for the PC-8001. It was designed by Takanari Suzuki, Japan\u2019s first star game creator.",
   "supported_languages": "English, Japanese",
-  "reviews": "\u201cEven though it was developed on very primitive hardware, Space Mouse is still a remarkable achievement in game design. The challenge isn't just in having quick reflexes, but also in planning ahead, reading situations, and knowing when to move. It's a uniquely rewarding jolt of arcade action, and the effective presentation lends everything the right amount of charm. This is a fine blast from the past that'll satisfy anyone with an open mind.\u201d<br>7/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.cubed3.com/review/3278/1/space-mouse-35th-anniversary-edition-pc.html\" target=\"_blank\" rel=\"noopener\"  >Cubed3</a></a><br>",
+  "reviews": "\u201cEven though it was developed on very primitive hardware, Space Mouse is still a remarkable achievement in game design. The challenge isn't just in having quick reflexes, but also in planning ahead, reading situations, and knowing when to move. It's a uniquely rewarding jolt of arcade action, and the effective presentation lends everything the right amount of charm. This is a fine blast from the past that'll satisfy anyone with an open mind.\u201d<br>7/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.cubed3.com/review/3278/1/space-mouse-35th-anniversary-edition-pc.html\" target=\"_blank\" rel=\"noopener\"  >Cubed3</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/546330/header.jpg?t=1479102010",
   "website": "http://www.pinball.co.jp/games/SpaceMouse/",
   "pc_requirements": {
@@ -27,8 +27,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 374,
+    "discount_percent": 25,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "3,74\u20ac"
   },
   "packages": [
     134766
@@ -45,13 +47,13 @@
       "subs": [
         {
           "packageid": 134766,
-          "percent_savings_text": "",
+          "percent_savings_text": "-25%",
           "percent_savings": 0,
-          "option_text": "SPACE MOUSE - 4,99\u20ac",
+          "option_text": "SPACE MOUSE - <span class=\"discount_original_price\">4,99\u20ac</span> 3,74\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 374
         }
       ]
     }
@@ -209,5 +211,9 @@
     "url": "http://www.pinball.co.jp/games/SpaceMouse/",
     "email": "albert@pinball.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/546330/page_bg_generated_v6b.jpg?t=1479102010"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/546330/page_bg_generated_v6b.jpg?t=1479102010",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

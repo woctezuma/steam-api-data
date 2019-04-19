@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     93986
@@ -148,6 +150,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 May, 2016"
@@ -156,5 +161,9 @@
     "url": "",
     "email": "support@strategyfirst.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/443070/page_bg_generated_v6b.jpg?t=1500923549"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/443070/page_bg_generated_v6b.jpg?t=1500923549",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

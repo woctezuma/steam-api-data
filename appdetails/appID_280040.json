@@ -12,13 +12,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/280040/header.jpg?t=1447360452",
   "website": "http://www.wizardslizard.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Hardware accelerated graphics with dedicated memory<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Windows XP<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> 2 GHz Dual Core<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 2 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> Hardware accelerated graphics with dedicated memory<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 150 MB</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.7<br></li><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Hardware accelerated graphics with dedicated memory<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> OS X 10.7<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> 2 GHz Dual Core<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 2 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> Hardware accelerated graphics with dedicated memory<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 150 MB</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Hardware accelerated graphics with dedicated memory<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> 2 GHz Dual Core<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 2 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> Hardware accelerated graphics with dedicated memory<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 150 MB</li></ul>"
   },
   "developers": [
     "Lost Decade Games"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     38385
@@ -135,7 +137,7 @@
     }
   ],
   "recommendations": {
-    "total": 403
+    "total": 232
   },
   "achievements": {
     "total": 20,
@@ -190,5 +192,9 @@
     "url": "http://www.lostdecadegames.com/support/",
     "email": "hello@lostdecadegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/280040/page_bg_generated_v6b.jpg?t=1447360452"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/280040/page_bg_generated_v6b.jpg?t=1447360452",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

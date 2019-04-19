@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 79,
     "final": 79,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     261431
@@ -109,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838251/ss_ae740e05b8ba6e69125a1c2e3643758073ea9e5c.1920x1080.jpg?t=1522942228"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Apr, 2018"
@@ -117,5 +122,9 @@
     "url": "https://www.choiceofgames.com/contact-us/",
     "email": "support-openseason-steam@choiceofgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/838251/page_bg_generated_v6b.jpg?t=1522942228"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/838251/page_bg_generated_v6b.jpg?t=1522942228",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

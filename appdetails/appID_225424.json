@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Want more buses? Here they are! The Bus Mania pack offers five all-new bus type vehicles to spice up the game. Try out these modern vehicles to make the most of your routes, or build new lines with brand new vehicles for the citizens to marvel at.<br><br><ul class=\"bb_ul\"><li> Pavlov Arriva: Do you have a line with hard to please customers? Pavlov Arriva is small, smart and very comfortable to ride. Passengers are sure to flock to this one!<br></li><li> Comet Sun: Pretty average in every way. Not the best slogan, but the Sun is a well-rounded vehicle with decent capacity and speed. Decent for almost any route!<br></li><li> Maurice Automaton: When your maintenance capacity is under a lot of stress, Maurice Automaton is the vehicle to choose. It has a sturdy structure and a low maintenance need, making it perfect for busy inner city routes with short intervals<br></li><li> Arnauld 202: Need more capacity? The Arnauld 202 has lots of room and then some! It's very slow, but with the large capacity still very useful for routes with lots of passengers<br></li><li> Stern-Berger ProTerra: Not many passengers fit into a Stern-Berger ProTerra, but its energy consumption is so low it basically runs on air! This small but powerful vehicle is the top of the line when it comes to eco-friendly inventions</li></ul>",
   "about_the_game": "Want more buses? Here they are! The Bus Mania pack offers five all-new bus type vehicles to spice up the game. Try out these modern vehicles to make the most of your routes, or build new lines with brand new vehicles for the citizens to marvel at.<br><br><ul class=\"bb_ul\"><li> Pavlov Arriva: Do you have a line with hard to please customers? Pavlov Arriva is small, smart and very comfortable to ride. Passengers are sure to flock to this one!<br></li><li> Comet Sun: Pretty average in every way. Not the best slogan, but the Sun is a well-rounded vehicle with decent capacity and speed. Decent for almost any route!<br></li><li> Maurice Automaton: When your maintenance capacity is under a lot of stress, Maurice Automaton is the vehicle to choose. It has a sturdy structure and a low maintenance need, making it perfect for busy inner city routes with short intervals<br></li><li> Arnauld 202: Need more capacity? The Arnauld 202 has lots of room and then some! It's very slow, but with the large capacity still very useful for routes with lots of passengers<br></li><li> Stern-Berger ProTerra: Not many passengers fit into a Stern-Berger ProTerra, but its energy consumption is so low it basically runs on air! This small but powerful vehicle is the top of the line when it comes to eco-friendly inventions</li></ul>",
-  "short_description": "",
+  "short_description": "Want more buses? Here they are! The Bus Mania pack offers five all-new bus type vehicles to spice up the game. Try out these modern vehicles to make the most of your routes, or build new lines with brand new vehicles for the citizens to marvel at. Pavlov Arriva: Do you have a line with hard to please customers?",
   "fullgame": {
     "appid": "225420",
     "name": "Cities in Motion 2"
@@ -37,12 +37,12 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    28595,
-    35268,
-    35269
+    28595
   ],
   "package_groups": [
     {
@@ -63,26 +63,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 499
-        },
-        {
-          "packageid": 35268,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Cities in Motion 2 Collection - 36,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 3699
-        },
-        {
-          "packageid": 35269,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Cities in Motion 1 and 2 Collection - 84,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 8499
         }
       ]
     }
@@ -197,6 +177,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/225424/ss_b298a6f820fc5168c474c582373ff12f3be01e6b.1920x1080.jpg?t=1447358041"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Jun, 2013"
@@ -205,5 +188,9 @@
     "url": "www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/225424/page_bg_generated_v6b.jpg?t=1447358041"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/225424/page_bg_generated_v6b.jpg?t=1447358041",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

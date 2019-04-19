@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 2799,
-    "final": 2799,
-    "discount_percent": 0
+    "initial": 2499,
+    "final": 2499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "24,99\u20ac"
   },
   "packages": [
     40164
@@ -49,11 +51,11 @@
           "packageid": 40164,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Backstage Pass - 27,99\u20ac",
+          "option_text": "Backstage Pass - 24,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2799
+          "price_in_cents_with_discount": 2499
         }
       ]
     }
@@ -147,7 +149,7 @@
     }
   ],
   "recommendations": {
-    "total": 184
+    "total": 157
   },
   "achievements": {
     "total": 20,
@@ -202,5 +204,9 @@
     "url": "",
     "email": "soymilk.pudding@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/288220/page_bg_generated_v6b.jpg?t=1471933424"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/288220/page_bg_generated_v6b.jpg?t=1471933424",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

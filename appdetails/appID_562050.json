@@ -7,16 +7,20 @@
   "controller_support": "full",
   "detailed_description": "In this colorful game you need to tilt the field to move liquids to exits, dying them to different colors and even splitting apart.<br>Game has fascinatingly realistic liquid physics and graphics setting the tone, Liquid Pinball challenges players to conquer 60 levels in 5 scenarios of varying difficulty.<br><br>While game have a pinball word in its name, it has almost no connection to well-known game machines - there are no rubber rings and flippers and no metal ball to play. Instead you have some amount of water on a metal field with obstacles and special points for exits and coloring. <br><br>It could not be obvious from the description but exits only accept liquid of specific color so most of the time your task is to split the water to several parts, dye it and move to the exit avoiding black holes and open field boundaries. All movement is performed by tilting the game field.<h2 class=\"bb_tag\">Key features</h2><ul class=\"bb_ul\"><li>60 levels of varying difficulty in 5 scenarios; <br></li><li>realistic fluid animation and physics; <br></li><li>challenging puzzles;<br></li><li>controller support</li></ul>",
   "about_the_game": "In this colorful game you need to tilt the field to move liquids to exits, dying them to different colors and even splitting apart.<br>Game has fascinatingly realistic liquid physics and graphics setting the tone, Liquid Pinball challenges players to conquer 60 levels in 5 scenarios of varying difficulty.<br><br>While game have a pinball word in its name, it has almost no connection to well-known game machines - there are no rubber rings and flippers and no metal ball to play. Instead you have some amount of water on a metal field with obstacles and special points for exits and coloring. <br><br>It could not be obvious from the description but exits only accept liquid of specific color so most of the time your task is to split the water to several parts, dye it and move to the exit avoiding black holes and open field boundaries. All movement is performed by tilting the game field.<h2 class=\"bb_tag\">Key features</h2><ul class=\"bb_ul\"><li>60 levels of varying difficulty in 5 scenarios; <br></li><li>realistic fluid animation and physics; <br></li><li>challenging puzzles;<br></li><li>controller support</li></ul>",
-  "short_description": "In this colorful game you need to tilt the field to move liquids to exits, dying them to different colors and even splitting apart. <br />\r\nGame has fascinatingly realistic liquid physics and graphics setting the tone, Liquid Pinball challenges players to conquer 60 levels in 5 scenarios of varying difficulty.",
+  "short_description": "In this colorful game you need to tilt the field to move liquids to exits, dying them to different colors and even splitting apart. Game has fascinatingly realistic liquid physics and graphics setting the tone, Liquid Pinball challenges players to conquer 60 levels in 5 scenarios of varying difficulty.",
   "supported_languages": "English, Russian, Ukrainian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/562050/header.jpg?t=1480443528",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/562050/header.jpg?t=1531926406",
   "website": "http://steamcommunity.com/groups/RunServer",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> Pentium III, 500Mhz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 1.1 Capable Video with 512MB VRAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 50 MB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> .Net Framework 2.0-4.5+</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Pentium IV<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 Capable Video<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 50 MB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> .Net Framework 2.0-4.5+</li></ul>"
   },
-  "mac_requirements": [],
-  "linux_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.9<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+  },
   "developers": [
     "RunServer"
   ],
@@ -27,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     141202
@@ -57,8 +63,8 @@
   ],
   "platforms": {
     "windows": true,
-    "mac": false,
-    "linux": false
+    "mac": true,
+    "linux": true
   },
   "categories": [
     {
@@ -95,38 +101,38 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_46d3d73e76b734781179d024ae768d6a42d79257.600x338.jpg?t=1480443528",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_46d3d73e76b734781179d024ae768d6a42d79257.1920x1080.jpg?t=1480443528"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_46d3d73e76b734781179d024ae768d6a42d79257.600x338.jpg?t=1531926406",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_46d3d73e76b734781179d024ae768d6a42d79257.1920x1080.jpg?t=1531926406"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_9f02e1fcba0a1e36cb05e8bba6bc16ea2a138c0b.600x338.jpg?t=1480443528",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_9f02e1fcba0a1e36cb05e8bba6bc16ea2a138c0b.1920x1080.jpg?t=1480443528"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_9f02e1fcba0a1e36cb05e8bba6bc16ea2a138c0b.600x338.jpg?t=1531926406",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_9f02e1fcba0a1e36cb05e8bba6bc16ea2a138c0b.1920x1080.jpg?t=1531926406"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_6b674c1aef1a32b42f0ecd3e2f6e17b79db4ce94.600x338.jpg?t=1480443528",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_6b674c1aef1a32b42f0ecd3e2f6e17b79db4ce94.1920x1080.jpg?t=1480443528"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_6b674c1aef1a32b42f0ecd3e2f6e17b79db4ce94.600x338.jpg?t=1531926406",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_6b674c1aef1a32b42f0ecd3e2f6e17b79db4ce94.1920x1080.jpg?t=1531926406"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_1c722df3049bcb27409fc59d13bfbe5b1d3cc66c.600x338.jpg?t=1480443528",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_1c722df3049bcb27409fc59d13bfbe5b1d3cc66c.1920x1080.jpg?t=1480443528"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_1c722df3049bcb27409fc59d13bfbe5b1d3cc66c.600x338.jpg?t=1531926406",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_1c722df3049bcb27409fc59d13bfbe5b1d3cc66c.1920x1080.jpg?t=1531926406"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_646e075868a7b167bf9ced5031b23a1ab1fda5ce.600x338.jpg?t=1480443528",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_646e075868a7b167bf9ced5031b23a1ab1fda5ce.1920x1080.jpg?t=1480443528"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_646e075868a7b167bf9ced5031b23a1ab1fda5ce.600x338.jpg?t=1531926406",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_646e075868a7b167bf9ced5031b23a1ab1fda5ce.1920x1080.jpg?t=1531926406"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_929ef4e615f176c38d2024e8bcc3a3762ead1751.600x338.jpg?t=1480443528",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_929ef4e615f176c38d2024e8bcc3a3762ead1751.1920x1080.jpg?t=1480443528"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_929ef4e615f176c38d2024e8bcc3a3762ead1751.600x338.jpg?t=1531926406",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_929ef4e615f176c38d2024e8bcc3a3762ead1751.1920x1080.jpg?t=1531926406"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_8cf8ba6980160c11bbf281afd91e1aaea0c23aef.600x338.jpg?t=1480443528",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_8cf8ba6980160c11bbf281afd91e1aaea0c23aef.1920x1080.jpg?t=1480443528"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_8cf8ba6980160c11bbf281afd91e1aaea0c23aef.600x338.jpg?t=1531926406",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562050/ss_8cf8ba6980160c11bbf281afd91e1aaea0c23aef.1920x1080.jpg?t=1531926406"
     }
   ],
   "movies": [
@@ -194,5 +200,9 @@
     "url": "http://runserver.net/support/fluids",
     "email": "fluids@runserver.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562050/page_bg_generated_v6b.jpg?t=1480443528"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562050/page_bg_generated_v6b.jpg?t=1531926406",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

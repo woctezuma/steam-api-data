@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li> Randomly generated environments. <br></li><li> Car upgrades/customization. <br></li><li> Character upgrades. <br></li><li> Power-ups <br></li><li> Character mode / car driving mode <br></li><li> Many cars to choose from <br></li><li> Comic book style cinematics </li></ul><br><br>Kivi, Toilet and Shotgun is being developed by 16bit Nights and published by Back To Basics Gaming.",
   "about_the_game": "<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li> Randomly generated environments. <br></li><li> Car upgrades/customization. <br></li><li> Character upgrades. <br></li><li> Power-ups <br></li><li> Character mode / car driving mode <br></li><li> Many cars to choose from <br></li><li> Comic book style cinematics </li></ul><br><br>Kivi, Toilet and Shotgun is being developed by 16bit Nights and published by Back To Basics Gaming.",
-  "short_description": "Kivi, Toilet and Shotgun is a single player top down action game where your goal is to <br />\r\nreach the end of the desert by avoiding all kinds of obstacles and fighting the desert <br />\r\nraiders. Go up against foes in your vehicle and on foot. Take on powerful bosses, but make sure you're quipped for the fight!",
+  "short_description": "Kivi, Toilet and Shotgun is a single player top down action game where your goal is to reach the end of the desert by avoiding all kinds of obstacles and fighting the desert raiders. Go up against foes in your vehicle and on foot. Take on powerful bosses, but make sure you're quipped for the fight!",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/428950/header.jpg?t=1452868649",
   "website": "http://www.backtobasicsgaming.com/",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     88760
@@ -156,7 +158,10 @@
     }
   ],
   "recommendations": {
-    "total": 448
+    "total": 202
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -166,5 +171,9 @@
     "url": "http://www.backtobasicsgaming.com/",
     "email": "Dan@BackToBasicsGaming.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/428950/page_bg_generated_v6b.jpg?t=1452868649"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/428950/page_bg_generated_v6b.jpg?t=1452868649",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

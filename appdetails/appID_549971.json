@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     136154
@@ -137,6 +139,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/549971/ss_e32fefa45c67462ddb78c5785262da7555bbb172.1920x1080.jpg?t=1502957355"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Dec, 2016"
@@ -145,5 +150,9 @@
     "url": "",
     "email": "support@3division.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/549971/page_bg_generated_v6b.jpg?t=1502957355"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/549971/page_bg_generated_v6b.jpg?t=1502957355",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

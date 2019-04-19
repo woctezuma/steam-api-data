@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 249,
+    "discount_percent": 75,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     1876
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 1876,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "Space Quest\u2122 Collection - 9,99\u20ac",
+          "option_text": "Space Quest\u2122 Collection - <span class=\"discount_original_price\">9,99\u20ac</span> 2,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 249
         }
       ]
     }
@@ -105,7 +107,7 @@
     }
   ],
   "recommendations": {
-    "total": 173
+    "total": 138
   },
   "achievements": {
     "total": 0
@@ -118,5 +120,9 @@
     "url": "http://support.activision.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/10110/page_bg_generated_v6b.jpg?t=1472516706"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/10110/page_bg_generated_v6b.jpg?t=1472516706",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

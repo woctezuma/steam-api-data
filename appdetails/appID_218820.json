@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     29345,
@@ -76,7 +78,7 @@
   },
   "metacritic": {
     "score": 76,
-    "url": "http://www.metacritic.com/game/pc/mercenary-kings?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/mercenary-kings?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -219,7 +221,7 @@
     }
   ],
   "recommendations": {
-    "total": 1986
+    "total": 1064
   },
   "achievements": {
     "total": 26,
@@ -274,5 +276,9 @@
     "url": "http://tributegames.com",
     "email": "info@tributegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/218820/page_bg_generated_v6b.jpg?t=1517939314"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/218820/page_bg_generated_v6b.jpg?t=1517939314",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

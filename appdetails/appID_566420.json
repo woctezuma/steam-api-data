@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     143167
@@ -181,6 +183,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Oct, 2017"
@@ -189,5 +194,9 @@
     "url": "http://www.marinatide.com/",
     "email": "support@viistopro.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/566420/page_bg_generated_v6b.jpg?t=1508454783"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/566420/page_bg_generated_v6b.jpg?t=1508454783",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

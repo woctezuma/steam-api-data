@@ -13,13 +13,13 @@
     "name": "Layers of Fear"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/550210/header.jpg?t=1477690890",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/550210/header.jpg?t=1545238309",
   "website": "http://layersoffear.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core2 Quad Q8400<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 560 1GB / Radeon R7 250X 1GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> A good set of headphones :)</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.10, 10.11 or 10.12<br></li><li><strong>Processor:</strong> 2.3GHz Intel Core i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon HD 5770 1GB VRAM / Nvidia GeForce 750M / Intel HD 6100<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> Keep the lights low or off :)</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.12 (Sierra)<br></li><li><strong>Processor:</strong> 2.3GHz Intel Core i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon HD 5770 1GB VRAM / Nvidia GeForce 750M / Intel HD 6100<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> Keep the lights low or off :)</li></ul>"
   },
   "linux_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Steam OS, Ubuntu 14.04 and 15.10<br></li><li><strong>Processor:</strong> Intel Core i5 3470<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 660 Ti 2GB<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> You may need your toy penguin around...you know...to lighten the mood 0.0</li></ul>"
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     136227
@@ -95,8 +97,8 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/550210/ss_587f7377519569e40370bbc9c2be5c0eb4574b69.600x338.jpg?t=1477690890",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/550210/ss_587f7377519569e40370bbc9c2be5c0eb4574b69.1920x1080.jpg?t=1477690890"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/550210/ss_587f7377519569e40370bbc9c2be5c0eb4574b69.600x338.jpg?t=1545238309",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/550210/ss_587f7377519569e40370bbc9c2be5c0eb4574b69.1920x1080.jpg?t=1545238309"
     }
   ],
   "achievements": {
@@ -110,5 +112,9 @@
     "url": "http://support.aspyr.com",
     "email": "support@aspyr.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/550210/page_bg_generated_v6b.jpg?t=1477690890"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/550210/page_bg_generated_v6b.jpg?t=1545238309",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

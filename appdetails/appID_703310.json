@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     202777
@@ -61,7 +63,7 @@
   },
   "metacritic": {
     "score": 74,
-    "url": "http://www.metacritic.com/game/pc/hidden-dangerous?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/hidden-dangerous?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -202,6 +204,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Dec, 2017"
@@ -210,5 +215,9 @@
     "url": "support.2k.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/703310/page_bg_generated_v6b.jpg?t=1516142157"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/703310/page_bg_generated_v6b.jpg?t=1516142157",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

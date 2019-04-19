@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     206905
@@ -112,6 +114,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/714760/ss_0a3aa7b60cf76815c6464523ba81d04774b0a383.1920x1080.jpg?t=1508386294"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Oct, 2017"
@@ -120,5 +125,9 @@
     "url": "https://jackboxgames.zendesk.com/home",
     "email": "support@jackboxgames.zendesk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/714760/page_bg_generated_v6b.jpg?t=1508386294"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/714760/page_bg_generated_v6b.jpg?t=1508386294",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     172389
@@ -119,11 +121,6 @@
       "id": 9,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/632750/ss_f53ffe92320a1d508b352d3974d55a006e0b8ec6.600x338.jpg?t=1495094119",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/632750/ss_f53ffe92320a1d508b352d3974d55a006e0b8ec6.1920x1080.jpg?t=1495094119"
-    },
-    {
-      "id": 10,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/632750/?t=1495094119",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/632750/?t=1495094119"
     }
   ],
   "movies": [
@@ -138,6 +135,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 May, 2017"
@@ -146,5 +146,9 @@
     "url": "",
     "email": "zeldein@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/632750/page_bg_generated_v6b.jpg?t=1495094119"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/632750/page_bg_generated_v6b.jpg?t=1495094119",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

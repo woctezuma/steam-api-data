@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "AI for more demanding players. DLC covers all three stages of the Chess game: opening, middlegame and endgame.<br><br><strong>Opening Book</strong> is based on more than 300k grandmaster games and it takes result of each game into account. Algorithm is also focused on strong diversity and it makes moves with occurrence probability, so almost every game is different, while keeping high level of play.<br><br><strong>Middlegame</strong> algorithm for levels 8, 9 and 10 differs mostly in depth calculation. It also takes clock settings into account.<br><br><strong>Endgame</strong> stage uses so called SYGYZY tables, which makes AI play extremely precise.",
   "about_the_game": "AI for more demanding players. DLC covers all three stages of the Chess game: opening, middlegame and endgame.<br><br><strong>Opening Book</strong> is based on more than 300k grandmaster games and it takes result of each game into account. Algorithm is also focused on strong diversity and it makes moves with occurrence probability, so almost every game is different, while keeping high level of play.<br><br><strong>Middlegame</strong> algorithm for levels 8, 9 and 10 differs mostly in depth calculation. It also takes clock settings into account.<br><br><strong>Endgame</strong> stage uses so called SYGYZY tables, which makes AI play extremely precise.",
-  "short_description": "AI for more demanding players. DLC covers all three stages of the Chess game: opening, middlegame and endgame.<br><br><strong>Opening Book</strong> is based on more than 300k grandmaster games and it takes result of each game into account. Algorithm is also focused on strong diversity and it makes moves with occurrence probability, so almost every game is different, while keeping high level of play.",
+  "short_description": "AI for more demanding players. DLC covers all three stages of the Chess game: opening, middlegame and endgame.Opening Book is based on more than 300k grandmaster games and it takes result of each game into account.",
   "fullgame": {
     "appid": "631660",
     "name": "Immersion Chess"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     196473
@@ -129,5 +131,9 @@
     "url": "",
     "email": "support.ich@immersion.pl"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/686350/page_bg_generated_v6b.jpg?t=1504687598"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/686350/page_bg_generated_v6b.jpg?t=1504687598",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

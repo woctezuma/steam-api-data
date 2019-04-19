@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "This DLC will add the following items:<br />\r\n\u30fbChange Dungeon: Rebeat Resort<br />\r\n\u30fbPlan: V Crystal Ring<br />\r\n\u30fbPlan: Vita Ring<br />\r\n\u30fbPlan: LL Ring<br />\r\n\u30fbPlan: Pop-up Ring<br />\r\n\u30fbKey Fragment<br />\r\n<br />\r\nIt will also add the following content:<br />\r\n\u30fbIncrease level cap by 300<br />\r\n\u30fbA new Colosseum battle is available",
   "about_the_game": "This DLC will add the following items:<br />\r\n\u30fbChange Dungeon: Rebeat Resort<br />\r\n\u30fbPlan: V Crystal Ring<br />\r\n\u30fbPlan: Vita Ring<br />\r\n\u30fbPlan: LL Ring<br />\r\n\u30fbPlan: Pop-up Ring<br />\r\n\u30fbKey Fragment<br />\r\n<br />\r\nIt will also add the following content:<br />\r\n\u30fbIncrease level cap by 300<br />\r\n\u30fbA new Colosseum battle is available",
-  "short_description": "This DLC will add the following items:<br />\r\n\u30fbChange Dungeon: Rebeat Resort<br />\r\n\u30fbPlan: V Crystal Ring<br />\r\n\u30fbPlan: Vita Ring<br />\r\n\u30fbPlan: LL Ring<br />\r\n\u30fbPlan: Pop-up Ring<br />\r\n\u30fbKey Fragment<br />\r\n<br />\r\nIt will also add the following content:<br />\r\n\u30fbIncrease level cap by 300<br />\r\n\u30fbA new Colosseum battle is available",
+  "short_description": "This DLC will add the following items: \u30fbChange Dungeon: Rebeat Resort \u30fbPlan: V Crystal Ring \u30fbPlan: Vita Ring \u30fbPlan: LL Ring \u30fbPlan: Pop-up Ring \u30fbKey Fragment It will also add the following content: \u30fbIncrease level cap by 300 \u30fbA new Colosseum battle is available",
   "fullgame": {
     "appid": "351710",
     "name": "Hyperdimension Neptunia Re;Birth2: Sisters Generation / \u8d85\u6b21\u6b21\u5143\u30b2\u30a4\u30e0 \u30cd\u30d7\u30c6\u30e5\u30fc\u30ccRe;Birth2 / \u8d85\u6b21\u6b21\u5143\u904a\u6232 \u6230\u6a5f\u5c11\u5973 \u91cd\u751f2"
@@ -34,8 +34,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 79,
+    "discount_percent": 20,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     62277
@@ -52,13 +54,13 @@
       "subs": [
         {
           "packageid": 62277,
-          "percent_savings_text": "",
+          "percent_savings_text": "-20%",
           "percent_savings": 0,
-          "option_text": "Hyperdimension Neptunia Re;Birth2 Additional Content Pack 1 - 0,99\u20ac",
+          "option_text": "Hyperdimension Neptunia Re;Birth2 Additional Content Pack 1 - <span class=\"discount_original_price\">0,99\u20ac</span> 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -113,6 +115,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/354464/ss_67bc36eaef13f4853ab1d3f66496b2c79c7d0bae.1920x1080.jpg?t=1518547457"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 May, 2015"
@@ -121,5 +126,9 @@
     "url": "ideafintl.com/contact/steam",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/354464/page_bg_generated_v6b.jpg?t=1518547457"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/354464/page_bg_generated_v6b.jpg?t=1518547457",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

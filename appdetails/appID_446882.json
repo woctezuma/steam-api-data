@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "\u25a0Package configuration<br><ul class=\"bb_ul\"><li>100 Gold<br></li><li>10,000 Ghem<br></li><li>5\u2605 Emma Card x1<br></li><li>Affection Medal \u2605 x1<br></li><li>Bomb x10<br></li><li>Stamina x3</li></ul>*You can check in Gift Box",
   "about_the_game": "\u25a0Package configuration<br><ul class=\"bb_ul\"><li>100 Gold<br></li><li>10,000 Ghem<br></li><li>5\u2605 Emma Card x1<br></li><li>Affection Medal \u2605 x1<br></li><li>Bomb x10<br></li><li>Stamina x3</li></ul>*You can check in Gift Box",
-  "short_description": "\u25a0Package configuration<br><ul class=\"bb_ul\"><li>100 Gold<br></li><li>10,000 Ghem<br></li><li>5\u2605 Emma Card x1<br></li><li>Affection Medal \u2605 x1<br></li><li>Bomb x10<br></li><li>Stamina x3</li></ul>*You can check in Gift Box",
+  "short_description": "\u25a0Package configuration100 Gold10,000 Ghem5\u2605 Emma Card x1Affection Medal \u2605 x1Bomb x10Stamina x3*You can check in Gift Box",
   "fullgame": {
     "appid": "440810",
     "name": "1943 Megami Strike"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     95464
@@ -138,5 +140,9 @@
     "url": "www.facebook.com/1943AirStrike",
     "email": "service@gameus.co.kr"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/446882/page_bg_generated_v6b.jpg?t=1458703541"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/446882/page_bg_generated_v6b.jpg?t=1458703541",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

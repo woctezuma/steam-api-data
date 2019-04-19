@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     115888
@@ -150,6 +152,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Aug, 2016"
@@ -158,5 +163,9 @@
     "url": "https://pathlessgames.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/503710/page_bg_generated_v6b.jpg?t=1482443906"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/503710/page_bg_generated_v6b.jpg?t=1482443906",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -12,8 +12,8 @@
     "appid": "252950",
     "name": "Rocket League\u00ae"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Dutch, Portuguese, Japanese, Korean, Russian, Turkish",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/457198/header.jpg?t=1480461924",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Portuguese, Japanese, Korean, Russian, Turkish",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/457198/header.jpg?t=1531336009",
   "website": "http://www.rocketleaguegame.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Newer<br></li><li><strong>Processor:</strong> 2.4 GHz Dual core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 260 or ATI 4850<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
@@ -37,8 +37,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "final": 119,
+    "discount_percent": 40,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "1,19\u20ac"
   },
   "packages": [
     99219
@@ -55,13 +57,13 @@
       "subs": [
         {
           "packageid": 99219,
-          "percent_savings_text": "",
+          "percent_savings_text": "-40%",
           "percent_savings": 0,
-          "option_text": "Rocket League\u00ae - Marauder - 1,99\u20ac",
+          "option_text": "Rocket League\u00ae - Marauder - <span class=\"discount_original_price\">1,99\u20ac</span> 1,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 119
         }
       ]
     }
@@ -138,12 +140,15 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/457198/ss_057c1a71d44a4e76f61f17848f43d0a1ed316484.600x338.jpg?t=1480461924",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/457198/ss_057c1a71d44a4e76f61f17848f43d0a1ed316484.1920x1080.jpg?t=1480461924"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/457198/ss_057c1a71d44a4e76f61f17848f43d0a1ed316484.600x338.jpg?t=1531336009",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/457198/ss_057c1a71d44a4e76f61f17848f43d0a1ed316484.1920x1080.jpg?t=1531336009"
     }
   ],
   "recommendations": {
-    "total": 226
+    "total": 213
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -153,5 +158,9 @@
     "url": "http://psyonix.com/forum/viewforum.php?f=34",
     "email": "rlsupport@psyonix.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/457198/page_bg_generated_v6b.jpg?t=1480461924"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/457198/page_bg_generated_v6b.jpg?t=1531336009",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

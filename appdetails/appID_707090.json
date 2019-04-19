@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     204128
@@ -96,6 +98,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/707090/ss_4a010fd2b1060ea578c5db9a5f30c2f4c34514c3.1920x1080.jpg?t=1506381054"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Sep, 2017"
@@ -104,5 +109,9 @@
     "url": "http://forums.obsidian.net/forum/116-pathfinder-adventures-technical-support-spoiler-warning/",
     "email": "support@obsidian.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/707090/page_bg_generated_v6b.jpg?t=1506381054"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/707090/page_bg_generated_v6b.jpg?t=1506381054",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

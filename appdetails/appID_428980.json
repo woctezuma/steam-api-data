@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Ethereal Legends is a modern indie action RPG, built (<i>mostly</i>) by one person in Unreal Engine 4 for PC, PlayStation 4, and Xbox One.<br><br>A powerful foe has descended upon the world of Arcadia. The Ethereal Knights, protectors of the realm, have nearly all been destroyed. <br><br>Only you remain.<br><br>Enter the portal and defend the Ethereal Realms from the evil which plagues them. Battle deadly monsters and huge bosses, wield numerous weapons, cast powerful spells, solve challenging puzzles, and use all the tools at your disposal to put an end to the madness.<h2 class=\"bb_tag\">Active Combat</h2>Your combat style is determined by the spells, weapons, and armor you choose to equip. With 3 distinct weapon types and a great number of spells, items, and armor pieces to choose from, you are provided with countless options to defeat your enemies.<h2 class=\"bb_tag\">Environment Puzzles</h2>A plethora of brain teasers awaits deep within the darkest corners of Arcadia. Explore and interact with the world around you to unlock new paths and discover secrets hidden in the Ethereal Realms.<h2 class=\"bb_tag\">Epic High Fantasy</h2>A pure story of good versus evil. Explore gorgeous elemental locales reaching into the sky and beyond. Battle massive enemies, experience the powerful soundtrack, and enjoy a beautifully rendered fantasy world powered by Unreal Engine 4.<h2 class=\"bb_tag\">Open Source</h2>Want to build your own game, based on <i>Ethereal Legends</i>? You can! The C++ code used to create this game can be found on Github, under the open source Apache 2.0 license. Maybe you simply want to help make <i>Ethereal</i> better. This is the place to start!  I welcome all contributions, and successful pull requests will have their author credited in-game.<h2 class=\"bb_tag\">Nvidia Ansel Support</h2>Nvidia Ansel is an amazing photography feature built into to <i>Ethereal Legends</i>.  Ansel allows players with Nvidia GeForce GTX 650 or better graphics cards to take beautiful high resolution or 360 degree screenshots while in game.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/428980/extras/ansel-small.png?t=1493157482\" >",
   "about_the_game": "Ethereal Legends is a modern indie action RPG, built (<i>mostly</i>) by one person in Unreal Engine 4 for PC, PlayStation 4, and Xbox One.<br><br>A powerful foe has descended upon the world of Arcadia. The Ethereal Knights, protectors of the realm, have nearly all been destroyed. <br><br>Only you remain.<br><br>Enter the portal and defend the Ethereal Realms from the evil which plagues them. Battle deadly monsters and huge bosses, wield numerous weapons, cast powerful spells, solve challenging puzzles, and use all the tools at your disposal to put an end to the madness.<h2 class=\"bb_tag\">Active Combat</h2>Your combat style is determined by the spells, weapons, and armor you choose to equip. With 3 distinct weapon types and a great number of spells, items, and armor pieces to choose from, you are provided with countless options to defeat your enemies.<h2 class=\"bb_tag\">Environment Puzzles</h2>A plethora of brain teasers awaits deep within the darkest corners of Arcadia. Explore and interact with the world around you to unlock new paths and discover secrets hidden in the Ethereal Realms.<h2 class=\"bb_tag\">Epic High Fantasy</h2>A pure story of good versus evil. Explore gorgeous elemental locales reaching into the sky and beyond. Battle massive enemies, experience the powerful soundtrack, and enjoy a beautifully rendered fantasy world powered by Unreal Engine 4.<h2 class=\"bb_tag\">Open Source</h2>Want to build your own game, based on <i>Ethereal Legends</i>? You can! The C++ code used to create this game can be found on Github, under the open source Apache 2.0 license. Maybe you simply want to help make <i>Ethereal</i> better. This is the place to start!  I welcome all contributions, and successful pull requests will have their author credited in-game.<h2 class=\"bb_tag\">Nvidia Ansel Support</h2>Nvidia Ansel is an amazing photography feature built into to <i>Ethereal Legends</i>.  Ansel allows players with Nvidia GeForce GTX 650 or better graphics cards to take beautiful high resolution or 360 degree screenshots while in game.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/428980/extras/ansel-small.png?t=1493157482\" >",
-  "short_description": "A powerful foe has descended upon the world of Arcadia. The Ethereal Knights, protectors of the realm, have nearly all been destroyed. <br />\r\n<br />\r\nOnly you remain.<br />\r\n<br />\r\nEnter the portal and defend the Ethereal Realms from the evil which plagues them.",
+  "short_description": "A powerful foe has descended upon the world of Arcadia. The Ethereal Knights, protectors of the realm, have nearly all been destroyed. Only you remain. Enter the portal and defend the Ethereal Realms from the evil which plagues them.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/428980/header.jpg?t=1493157482",
   "website": "http://www.ethereallegends.com",
@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     88769
@@ -226,5 +228,9 @@
     "url": "http://www.soverance.com/about",
     "email": "info@soverance.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/428980/page_bg_generated_v6b.jpg?t=1493157482"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/428980/page_bg_generated_v6b.jpg?t=1493157482",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

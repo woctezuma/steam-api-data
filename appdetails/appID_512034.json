@@ -11,11 +11,11 @@
     "appid": "289070",
     "name": "Sid Meier\u2019s Civilization\u00ae VI"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese-Brazil, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/512034/header.jpg?t=1489515191",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/512034/header.jpg?t=1550120666",
   "website": "http://www.civilization.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7x64 / Windows 8.1x64 / Windows 10x64<br></li><li><strong>Processor:</strong> Intel Core i3 2.5 Ghz or AMD Phenom II 2.6 Ghz or greater<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1 GB &amp; AMD 5570 or nVidia 450<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 12 GB available space</li></ul>",
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7x64 / Windows 8.1x64 / Windows 10x64<br></li><li><strong>Processor:</strong> Intel Core i3 2.5 Ghz or AMD Phenom II 2.6 Ghz or greater<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1 GB &amp; AMD 5570 or nVidia 450 or Intel Integrated Graphics 530<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 12 GB available space</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7x64 / Windows 8.1x64 / Windows 10x64<br></li><li><strong>Processor:</strong> Fourth Generation Intel Core i5 2.5 Ghz or AMD FX8350 4.0 Ghz or greater<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 2GB &amp; AMD 7970 or nVidia 770 or greater<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 12 GB available space</li></ul>"
   },
   "mac_requirements": {
@@ -28,21 +28,26 @@
   },
   "legal_notice": "\u00a92017 Take-Two Interactive Software and its subsidiaries. Sid Meier\u2019s Civilization, Civilization, Civ, 2K, Firaxis Games, Take-Two Interactive Software and their respective logos are all trademarks of Take-Two Interactive Software, Inc. All other marks and trademarks are the property of their respective owners. All rights reserved.",
   "developers": [
-    "Firaxis",
-    "Aspyr (Mac, Linux)"
+    "Firaxis Games",
+    "Aspyr (Mac)",
+    "Aspyr (Linux)"
   ],
   "publishers": [
     "2K",
-    "Aspyr (Mac, Linux)"
+    "Aspyr (Mac)",
+    "Aspyr (Linux)"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    119128
+    119128,
+    123216
   ],
   "package_groups": [
     {
@@ -63,6 +68,16 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 499
+        },
+        {
+          "packageid": 123216,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Sid Meier's Civilization VI - Digital Deluxe - 79,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 7999
         }
       ]
     }
@@ -111,28 +126,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_c26d2ec3a4d9839086c4041613ffca82c0f76f58.600x338.jpg?t=1489515191",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_c26d2ec3a4d9839086c4041613ffca82c0f76f58.1920x1080.jpg?t=1489515191"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_c26d2ec3a4d9839086c4041613ffca82c0f76f58.600x338.jpg?t=1550120666",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_c26d2ec3a4d9839086c4041613ffca82c0f76f58.1920x1080.jpg?t=1550120666"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_c45953239b265d49516ae9bf4c06dc8f1ee63125.600x338.jpg?t=1489515191",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_c45953239b265d49516ae9bf4c06dc8f1ee63125.1920x1080.jpg?t=1489515191"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_c45953239b265d49516ae9bf4c06dc8f1ee63125.600x338.jpg?t=1550120666",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_c45953239b265d49516ae9bf4c06dc8f1ee63125.1920x1080.jpg?t=1550120666"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_d5bd4676ef51e86abde0f082cb79136342d8f16f.600x338.jpg?t=1489515191",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_d5bd4676ef51e86abde0f082cb79136342d8f16f.1920x1080.jpg?t=1489515191"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_d5bd4676ef51e86abde0f082cb79136342d8f16f.600x338.jpg?t=1550120666",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_d5bd4676ef51e86abde0f082cb79136342d8f16f.1920x1080.jpg?t=1550120666"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_da0b7e8bca46455e724f80f0ba1d893efa92b4e8.600x338.jpg?t=1489515191",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_da0b7e8bca46455e724f80f0ba1d893efa92b4e8.1920x1080.jpg?t=1489515191"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_da0b7e8bca46455e724f80f0ba1d893efa92b4e8.600x338.jpg?t=1550120666",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_da0b7e8bca46455e724f80f0ba1d893efa92b4e8.1920x1080.jpg?t=1550120666"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_e0d2ebe1ccf6366bb2b075bc2943064570737713.600x338.jpg?t=1489515191",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_e0d2ebe1ccf6366bb2b075bc2943064570737713.1920x1080.jpg?t=1489515191"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_e0d2ebe1ccf6366bb2b075bc2943064570737713.600x338.jpg?t=1550120666",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512034/ss_e0d2ebe1ccf6366bb2b075bc2943064570737713.1920x1080.jpg?t=1550120666"
     }
   ],
   "movies": [
@@ -148,15 +163,22 @@
     }
   ],
   "recommendations": {
-    "total": 752
+    "total": 667
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
     "date": "23 Feb, 2017"
   },
   "support_info": {
-    "url": "http://support.2k.com",
+    "url": "support.2k.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512034/page_bg_generated_v6b.jpg?t=1489515191"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512034/page_bg_generated_v6b.jpg?t=1550120666",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

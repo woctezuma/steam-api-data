@@ -5,9 +5,9 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>By 2017, the app market will be valued at $77 Billion. Over 80% of all these developers are male. The Technovation Challenge aims to change that by empowering girls worldwide to develop apps for an international competition. From rural Moldova to urban Brazil to suburban Massachusetts, CODE_GIRL follows teams from around the world who dream of holding their own in the world\u2019s fastest-growing industry. The winning team gets $10K to complete development and release their app on the market, but every team discovers something valuable along the way.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>By 2017, the app market will be valued at $77 Billion. Over 80% of all these developers are male. The Technovation Challenge aims to change that by empowering girls worldwide to develop apps for an international competition. From rural Moldova to urban Brazil to suburban Massachusetts, CODE_GIRL follows teams from around the world who dream of holding their own in the world\u2019s fastest-growing industry. The winning team gets $10K to complete development and release their app on the market, but every team discovers something valuable along the way.",
   "about_the_game": "By 2017, the app market will be valued at $77 Billion. Over 80% of all these developers are male. The Technovation Challenge aims to change that by empowering girls worldwide to develop apps for an international competition. From rural Moldova to urban Brazil to suburban Massachusetts, CODE_GIRL follows teams from around the world who dream of holding their own in the world\u2019s fastest-growing industry. The winning team gets $10K to complete development and release their app on the market, but every team discovers something valuable along the way.",
-  "short_description": "By 2017, the app market will be valued at $77 Billion. Over 80% of app developers are male. The Technovation Challenge aims to change that by empowering girls worldwide to develop apps for an international competition with a $10K prize. From rural Moldova to urban Brazil to suburban Massachusetts, CODE_GIRL follows teams from around the world who dream of making their mark in the coding world.",
+  "short_description": "By 2017, the app market will be valued at $77 Billion. Over 80% of app developers are male. The Technovation Challenge aims to change that by empowering girls worldwide to develop apps for an international competition with a $10K prize.",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     83327,
@@ -139,6 +141,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Nov, 2015"
@@ -147,5 +152,9 @@
     "url": "",
     "email": "stephen@filmbuff.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/414750/page_bg_generated_v6b.jpg?t=1447378693"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/414750/page_bg_generated_v6b.jpg?t=1447378693",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

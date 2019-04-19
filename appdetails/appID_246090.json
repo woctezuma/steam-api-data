@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     56887,
@@ -78,7 +80,7 @@
   },
   "metacritic": {
     "score": 49,
-    "url": "http://www.metacritic.com/game/pc/spacebase-df-9?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/spacebase-df-9?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -173,7 +175,10 @@
     }
   ],
   "recommendations": {
-    "total": 3691
+    "total": 3038
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -183,5 +188,9 @@
     "url": "http://www.doublefine.com/forums/",
     "email": "support@doublefine.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/246090/page_bg_generated_v6b.jpg?t=1479171211"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/246090/page_bg_generated_v6b.jpg?t=1479171211",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

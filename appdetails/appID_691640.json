@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 699,
-    "final": 699,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     198270
@@ -44,11 +46,11 @@
           "packageid": 198270,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "RoadRunner VR - 6,99\u20ac",
+          "option_text": "RoadRunner VR - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 699
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -121,6 +123,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Oct, 2017"
@@ -129,5 +134,9 @@
     "url": "http://hotknife.co.uk",
     "email": "andrew.whitney@hotknife.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/691640/page_bg_generated_v6b.jpg?t=1508142961"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/691640/page_bg_generated_v6b.jpg?t=1508142961",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

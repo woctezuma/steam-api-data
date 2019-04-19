@@ -11,7 +11,7 @@
     "appid": "304050",
     "name": "Trove"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, German, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/807020/header.jpg?t=1519148134",
   "website": "http://www.trionworlds.com/trove/?affiliateId=251",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     246020
@@ -132,6 +134,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/807020/ss_6b5a0e328aa75df91c700ec14847030d94468598.1920x1080.jpg?t=1519148134"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Feb, 2018"
@@ -140,5 +145,9 @@
     "url": "https://support.trionworlds.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/807020/page_bg_generated_v6b.jpg?t=1519148134"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/807020/page_bg_generated_v6b.jpg?t=1519148134",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

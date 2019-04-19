@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Fight to survive in extraterrestrial environments while scavenging weapons and ammo.<h2 class=\"bb_tag\">Horde Mode</h2>Defeat waves of enemies to earn money in order to upgrade your weapons.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>Upgrade/Salvage weapons<br></li><li>Experience being other planets/moons including Low Gravity<br></li><li>Realistic weapon interaction<br></li><li>Scavenge weapons/ammo with procedural spawning<br></li><li>Ammo belt for storing ammo and grabbing magazines<br></li><li>Weapon holsters for storing weapons<br></li><li>Touch pad locomotion<br></li><li>Haptic feedback when touching interactable objects<br></li><li>High definition textures and graphics with the power of Unity 5</li></ul>",
   "about_the_game": "Fight to survive in extraterrestrial environments while scavenging weapons and ammo.<h2 class=\"bb_tag\">Horde Mode</h2>Defeat waves of enemies to earn money in order to upgrade your weapons.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>Upgrade/Salvage weapons<br></li><li>Experience being other planets/moons including Low Gravity<br></li><li>Realistic weapon interaction<br></li><li>Scavenge weapons/ammo with procedural spawning<br></li><li>Ammo belt for storing ammo and grabbing magazines<br></li><li>Weapon holsters for storing weapons<br></li><li>Touch pad locomotion<br></li><li>Haptic feedback when touching interactable objects<br></li><li>High definition textures and graphics with the power of Unity 5</li></ul>",
-  "short_description": "Fight to survive in extraterrestrial environments while scavenging weapons and ammo.<br />\r\nDefeat waves of enemies to earn money in order to upgrade your weapons in Horde Mode.",
+  "short_description": "Fight to survive in extraterrestrial environments while scavenging weapons and ammo. Defeat waves of enemies to earn money in order to upgrade your weapons in Horde Mode.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/686640/header.jpg?t=1505498717",
   "website": null,
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1599,
-    "final": 1119,
-    "discount_percent": 30
+    "final": 1599,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "15,99\u20ac"
   },
   "packages": [
     196588,
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 196588,
-          "percent_savings_text": "-30%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Space Panic Arena - <span class=\"discount_original_price\">15,99\u20ac</span> 11,19\u20ac",
+          "option_text": "Space Panic Arena - 15,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1119
+          "price_in_cents_with_discount": 1599
         }
       ]
     },
@@ -407,5 +409,9 @@
     "url": "",
     "email": "support@xefier.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/686640/page_bg_generated_v6b.jpg?t=1505498717"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/686640/page_bg_generated_v6b.jpg?t=1505498717",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

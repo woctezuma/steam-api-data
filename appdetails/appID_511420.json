@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     118899
@@ -51,11 +53,11 @@
           "packageid": 118899,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Aleph Null - 3,99\u20ac",
+          "option_text": "Aleph Null - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -128,6 +130,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Aug, 2016"
@@ -136,5 +141,9 @@
     "url": "",
     "email": "spaaacedeveloper@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/511420/page_bg_generated_v6b.jpg?t=1477078242"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/511420/page_bg_generated_v6b.jpg?t=1477078242",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

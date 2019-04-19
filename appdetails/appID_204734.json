@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     17667
@@ -148,6 +150,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Oct, 2012"
@@ -156,5 +161,9 @@
     "url": "http://forums.fatshark.se/forumdisplay.php?fid=61",
     "email": "krater_support@fatshark.se"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/204734/page_bg_generated_v6b.jpg?t=1447356734"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/204734/page_bg_generated_v6b.jpg?t=1447356734",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>For over a decade, the hapless, helpless and occasionally hopeless anti-heroes of the Halo universe have fumbled their way from one adventure to another. But now that they have been shipwrecked, they will have to work together to survive their greatest foe of all\u2026 themselves. Once again the misfits from Blood Gulch find themselves stuck in the most worthless piece of real estate in the galaxy, or so they think. When dark forces align against them, they realize there\u2019s a lot more at stake than just being rescued. And to survive, they might have to do what they do worst\u2026 fight.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>For over a decade, the hapless, helpless and occasionally hopeless anti-heroes of the Halo universe have fumbled their way from one adventure to another. But now that they have been shipwrecked, they will have to work together to survive their greatest foe of all\u2026 themselves. Once again the misfits from Blood Gulch find themselves stuck in the most worthless piece of real estate in the galaxy, or so they think. When dark forces align against them, they realize there\u2019s a lot more at stake than just being rescued. And to survive, they might have to do what they do worst\u2026 fight.",
   "about_the_game": "For over a decade, the hapless, helpless and occasionally hopeless anti-heroes of the Halo universe have fumbled their way from one adventure to another. But now that they have been shipwrecked, they will have to work together to survive their greatest foe of all\u2026 themselves. Once again the misfits from Blood Gulch find themselves stuck in the most worthless piece of real estate in the galaxy, or so they think. When dark forces align against them, they realize there\u2019s a lot more at stake than just being rescued. And to survive, they might have to do what they do worst\u2026 fight.",
   "short_description": "For over a decade, the hapless, helpless and occasionally hopeless anti-heroes of the Halo universe have fumbled their way from one adventure to another. But now that they have been shipwrecked, they will have to work together to survive their greatest foe of all\u2026 themselves.",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     114207,
@@ -170,6 +172,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Aug, 2016"
@@ -178,5 +183,9 @@
     "url": "http://www.cinedigm.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499130/page_bg_generated_v6b.jpg?t=1472754838"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/499130/page_bg_generated_v6b.jpg?t=1472754838",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

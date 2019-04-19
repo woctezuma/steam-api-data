@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     101771
@@ -175,6 +177,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Apr, 2016"
@@ -183,5 +188,9 @@
     "url": "http://www.initiagame.com",
     "email": "support@initiagame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/463920/page_bg_generated_v6b.jpg?t=1462012439"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/463920/page_bg_generated_v6b.jpg?t=1462012439",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -4,16 +4,18 @@
   "steam_appid": 95700,
   "required_age": 0,
   "is_free": true,
-  "detailed_description": "<p><strong>The Cat and the Coup</strong> is a documentary game in which you play the cat of Dr. Mohammed Mossadegh, the first democratically elected Prime Minister of Iran. During the summer of 1953, the CIA engineered a coup to bring about his downfall. As a player, you coax Mossadegh back through significant events of his life by knocking objects off of shelves, scattering his papers, jumping on his lap and scratching him.</p>",
-  "about_the_game": "<p><strong>The Cat and the Coup</strong> is a documentary game in which you play the cat of Dr. Mohammed Mossadegh, the first democratically elected Prime Minister of Iran. During the summer of 1953, the CIA engineered a coup to bring about his downfall. As a player, you coax Mossadegh back through significant events of his life by knocking objects off of shelves, scattering his papers, jumping on his lap and scratching him.</p>",
-  "short_description": "",
-  "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/95700/header.jpg?t=1447354298",
+  "detailed_description": "In The Cat and the Coup, you play the cat of Dr. Mohammed Mossadegh, the first democratically elected Prime Minister of Iran. During the summer of 1953, the CIA engineered a coup to bring about his downfall. As a player, you coax Mossadegh back through significant events of his life by knocking objects off shelves, scattering his papers, and scratching him.<br />\r\nThe game, situated within the traditions of Persian miniature art form and cold war foreign policy, asks players to consider their connection to Iranian history. The Cat and the Coup is both about the relationship between the Western video game player and Mossadegh and, by extension, the United States and Iran. It lays a foundation for today\u2019s critical question -- how do the people know when their democracy is threatened?",
+  "about_the_game": "In The Cat and the Coup, you play the cat of Dr. Mohammed Mossadegh, the first democratically elected Prime Minister of Iran. During the summer of 1953, the CIA engineered a coup to bring about his downfall. As a player, you coax Mossadegh back through significant events of his life by knocking objects off shelves, scattering his papers, and scratching him.<br />\r\nThe game, situated within the traditions of Persian miniature art form and cold war foreign policy, asks players to consider their connection to Iranian history. The Cat and the Coup is both about the relationship between the Western video game player and Mossadegh and, by extension, the United States and Iran. It lays a foundation for today\u2019s critical question -- how do the people know when their democracy is threatened?",
+  "short_description": "In The Cat and the Coup, you play the cat of Dr. Mohammed Mossadegh, the first democratically elected Prime Minister of Iran. During the summer of 1953, the CIA engineered a coup to bring about his downfall.",
+  "supported_languages": "English, French, Spanish - Latin America",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/95700/header.jpg?t=1553475273",
   "website": "http://www.thecatandthecoup.com",
   "pc_requirements": {
-    "minimum": "<ul>\n\t\t\t\t\t\t<li><strong>OS: Windows\u00ae 7/Vista/XP</strong> \n\t\t\t\t\t\t<li><strong>Processor: 2.0 GHz</strong> \n\t\t\t\t\t\t<li><strong>Memory: 2GB RAM</strong>\n\t\t\t\t\t\t<li><strong>Hard Disk Space: 87 MB</strong> \t\n\t\t\t\t\t\t<li><strong>Video Card: nVidia or ATI accelerated 3D video card</strong> \n\t\t\t\t\t\t<li><strong>DirectX&reg;: 9.0c</strong> \n\t\t\t\t\t\t</ul>"
+    "minimum": "<ul class=\"bb_ul\"><li><strong>OS: Windows 10</strong> <br>\t\t\t<br></li><li><strong>Memory: 4GB RAM</strong><br>\t\t\t\t\t\t<br></li><li><strong>Dedicated Video Card</strong> \t\t\t\t\t<br>\t\t\t\t\t\t</li></ul>"
   },
-  "mac_requirements": [],
+  "mac_requirements": {
+    "minimum": "<ul class=\"bb_ul\"><li><strong>OSX 10.10</strong> <br>\t\t\t<br></li><li><strong>Memory: 4GB RAM</strong><br>\t\t\t\t\t\t<br></li><li><strong>Dedicated Video Card</strong> \t\t\t\t\t<br>\t\t\t\t\t\t</li></ul>"
+  },
   "linux_requirements": [],
   "developers": [
     "Peter Brinson and Kurosh ValaNejad"
@@ -24,16 +26,24 @@
   "package_groups": [],
   "platforms": {
     "windows": true,
-    "mac": false,
+    "mac": true,
     "linux": false
   },
   "categories": [
     {
       "id": 2,
       "description": "Single-player"
+    },
+    {
+      "id": 18,
+      "description": "Partial Controller Support"
     }
   ],
   "genres": [
+    {
+      "id": "37",
+      "description": "Free to Play"
+    },
     {
       "id": "23",
       "description": "Indie"
@@ -42,57 +52,64 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_bf2509ebc646edcd93d222466e1025b8e7f944c2.600x338.jpg?t=1447354298",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_bf2509ebc646edcd93d222466e1025b8e7f944c2.1920x1080.jpg?t=1447354298"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_bf9628b643b65cbbeca0b983b1c84f9623c583a3.600x338.jpg?t=1553475273",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_bf9628b643b65cbbeca0b983b1c84f9623c583a3.1920x1080.jpg?t=1553475273"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_887e623a471737388abb4ec68e625be6ac8c349d.600x338.jpg?t=1447354298",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_887e623a471737388abb4ec68e625be6ac8c349d.1920x1080.jpg?t=1447354298"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_ed907b6c4eb9f42e6f8cd4d2e9c98c930319f2a8.600x338.jpg?t=1553475273",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_ed907b6c4eb9f42e6f8cd4d2e9c98c930319f2a8.1920x1080.jpg?t=1553475273"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_34d705753b9ac03c147e0a0f746a0504299b8db7.600x338.jpg?t=1447354298",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_34d705753b9ac03c147e0a0f746a0504299b8db7.1920x1080.jpg?t=1447354298"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_61ae2e74792a734fc21e86e95264aaaa4b97cce6.600x338.jpg?t=1553475273",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_61ae2e74792a734fc21e86e95264aaaa4b97cce6.1920x1080.jpg?t=1553475273"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_a4fd24b88860b80dd7d40a5cd2e57df226d3195f.600x338.jpg?t=1447354298",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_a4fd24b88860b80dd7d40a5cd2e57df226d3195f.1920x1080.jpg?t=1447354298"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_b23b0269c17c424dbc37c94278a9cb2010db547b.600x338.jpg?t=1553475273",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_b23b0269c17c424dbc37c94278a9cb2010db547b.1920x1080.jpg?t=1553475273"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_725ad8db89ff36b0914a235f97e02bcab2337cd4.600x338.jpg?t=1447354298",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_725ad8db89ff36b0914a235f97e02bcab2337cd4.1920x1080.jpg?t=1447354298"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_1be3c05d5614bfb2a28d7ddd938e913c82849523.600x338.jpg?t=1553475273",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_1be3c05d5614bfb2a28d7ddd938e913c82849523.1920x1080.jpg?t=1553475273"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_3147dd66df1d8863059788c6386f68675b2f6a34.600x338.jpg?t=1447354298",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_3147dd66df1d8863059788c6386f68675b2f6a34.1920x1080.jpg?t=1447354298"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_47488f21bed99e1917022a1c67a2560b37c0b8c4.600x338.jpg?t=1553475273",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_47488f21bed99e1917022a1c67a2560b37c0b8c4.1920x1080.jpg?t=1553475273"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_0a7e821d532c22887043ba47ede510c36c04571a.600x338.jpg?t=1447354298",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_0a7e821d532c22887043ba47ede510c36c04571a.1920x1080.jpg?t=1447354298"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_6950d448f79d80575a89615b6d0db2d2653b77ad.600x338.jpg?t=1553475273",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_6950d448f79d80575a89615b6d0db2d2653b77ad.1920x1080.jpg?t=1553475273"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_3272ec9937d9ee549b2c754a00266df78dd2dca5.600x338.jpg?t=1447354298",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_3272ec9937d9ee549b2c754a00266df78dd2dca5.1920x1080.jpg?t=1447354298"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_bd3ccde3055ded6e612b21d8a1ced08971872a2b.600x338.jpg?t=1553475273",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_bd3ccde3055ded6e612b21d8a1ced08971872a2b.1920x1080.jpg?t=1553475273"
     },
     {
       "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_883fba770c201fede67b8b4bb59de25386e4d1bd.600x338.jpg?t=1447354298",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_883fba770c201fede67b8b4bb59de25386e4d1bd.1920x1080.jpg?t=1447354298"
-    },
-    {
-      "id": 9,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_527dcee4c2b0eed3d922e9ffb1b8f873a0279fd1.600x338.jpg?t=1447354298",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_527dcee4c2b0eed3d922e9ffb1b8f873a0279fd1.1920x1080.jpg?t=1447354298"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_35b2fa11ca01041f861485b4400bb26c0731086c.600x338.jpg?t=1553475273",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/95700/ss_35b2fa11ca01041f861485b4400bb26c0731086c.1920x1080.jpg?t=1553475273"
     }
   ],
-  "recommendations": {
-    "total": 830
+  "movies": [
+    {
+      "id": 80909,
+      "name": "The Cat and the Coup Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/80909/movie.293x165.jpg?t=1553475262",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/80909/movie480.webm?t=1553475262",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/80909/movie_max.webm?t=1553475262"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -102,5 +119,9 @@
     "url": "",
     "email": "peterbrinson@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/95700/page_bg_generated_v6b.jpg?t=1447354298"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/95700/page_bg_generated_v6b.jpg?t=1553475273",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

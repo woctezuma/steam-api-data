@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     120741
@@ -51,11 +53,11 @@
           "packageid": 120741,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Mallow Drops Original Soundtrack - 3,99\u20ac",
+          "option_text": "Mallow Drops Original Soundtrack - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -116,5 +118,9 @@
     "url": "http://www.gritfish.net",
     "email": "support@gritfish.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/516380/page_bg_generated_v6b.jpg?t=1478201675"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/516380/page_bg_generated_v6b.jpg?t=1478201675",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

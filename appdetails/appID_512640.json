@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     119336
@@ -146,8 +148,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 112
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -157,5 +159,9 @@
     "url": "http://www.rpgstudios.co.uk/",
     "email": "support@rpgstudios.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512640/page_bg_generated_v6b.jpg?t=1510075731"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512640/page_bg_generated_v6b.jpg?t=1510075731",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

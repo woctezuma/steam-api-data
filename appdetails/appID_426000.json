@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     87583
@@ -145,7 +147,7 @@
     }
   ],
   "recommendations": {
-    "total": 3345
+    "total": 2922
   },
   "achievements": {
     "total": 16,
@@ -200,5 +202,12 @@
     "url": "http://steamcommunity.com/app/426000/discussions/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/426000/page_bg_generated_v6b.jpg?t=1461512901"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/426000/page_bg_generated_v6b.jpg?t=1461512901",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

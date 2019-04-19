@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Unlock the beach bikini for your main character!",
   "about_the_game": "Unlock the beach bikini for your main character!",
-  "short_description": "",
+  "short_description": "Unlock the beach bikini for your main character!",
   "fullgame": {
     "appid": "383080",
     "name": "Sakura Clicker"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     74517
@@ -85,6 +87,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/390654/ss_4cbc0f39bd2151f2ae873951004fa2069bb9637a.1920x1080.jpg?t=1485965238"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Jul, 2015"
@@ -93,5 +98,12 @@
     "url": "",
     "email": "support@winged-cloud.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/390654/page_bg_generated_v6b.jpg?t=1485965238"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/390654/page_bg_generated_v6b.jpg?t=1485965238",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

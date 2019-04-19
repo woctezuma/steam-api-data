@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Squads of corn flakes captured the plants and produced their clones.<br />\r\nOnly you can stop them!<br />\r\n<br />\r\nKill them, as well as their bosses.<br />\r\nFind new weapons and open new levels.<br />\r\nAnd all this in the style of old games!<br />\r\n<br />\r\nFeatures: <br />\r\n- Many hours of gameplay<br />\r\n- Unique locations and enemies.<br />\r\n- Hardcore gameplay<br />\r\n- Nostalgia for old games",
   "about_the_game": "Squads of corn flakes captured the plants and produced their clones.<br />\r\nOnly you can stop them!<br />\r\n<br />\r\nKill them, as well as their bosses.<br />\r\nFind new weapons and open new levels.<br />\r\nAnd all this in the style of old games!<br />\r\n<br />\r\nFeatures: <br />\r\n- Many hours of gameplay<br />\r\n- Unique locations and enemies.<br />\r\n- Hardcore gameplay<br />\r\n- Nostalgia for old games",
-  "short_description": "Squads of corn flakes captured the plants and produced their clones.<br />\r\nOnly you can stop them!",
+  "short_description": "Squads of corn flakes captured the plants and produced their clones. Only you can stop them!",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/604160/header.jpg?t=1520017366",
   "website": null,
@@ -21,8 +21,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 61,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     158992
@@ -39,13 +41,13 @@
       "subs": [
         {
           "packageid": 158992,
-          "percent_savings_text": "",
+          "percent_savings_text": "-61%",
           "percent_savings": 0,
-          "option_text": "\u0421ornflakes: Reloading - 0,99\u20ac",
+          "option_text": "Co-Co CORN MAFIA - <span class=\"discount_original_price\">0,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -133,12 +135,8 @@
     }
   ],
   "achievements": {
-    "total": 1000,
+    "total": 4,
     "highlighted": [
-      {
-        "name": "FULL POWER",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/604160/169b97a61b07b707238deec49ebc5b84a0aac218.jpg"
-      },
       {
         "name": "Evil is bored",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/604160/4d4ab68822bba6699980f7e241a3bd782d4d62d8.jpg"
@@ -154,26 +152,6 @@
       {
         "name": "Evil is near",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/604160/3a1434eb80384ca7460e60abf8f766e70bc2318c.jpg"
-      },
-      {
-        "name": "errfw9mxtc",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/604160/b829bd21776c578ac6ba8ffb3d3daf851c96560b.jpg"
-      },
-      {
-        "name": "hyq2ohlbb4",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/604160/b829bd21776c578ac6ba8ffb3d3daf851c96560b.jpg"
-      },
-      {
-        "name": "in4r0rvjkg",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/604160/c27d705c1fb3e6bb6068b3d04905b3967d1e0d99.jpg"
-      },
-      {
-        "name": "7gabxmws9s",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/604160/c27d705c1fb3e6bb6068b3d04905b3967d1e0d99.jpg"
-      },
-      {
-        "name": "5kb8g7kxkw",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/604160/b829bd21776c578ac6ba8ffb3d3daf851c96560b.jpg"
       }
     ]
   },
@@ -185,5 +163,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/604160/page_bg_generated_v6b.jpg?t=1520017366"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/604160/page_bg_generated_v6b.jpg?t=1520017366",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

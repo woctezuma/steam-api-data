@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This DLC contacins 3 original Soundtracks for Germ Wars game, made by Edwin Pickett, including:<br><ul class=\"bb_ul\"><li>Germ Wars - Coded To Kill<br></li><li>Germ Wars - Lymphnode Police Departmant<br></li><li>Germ Wars - Neutralize Infection</li></ul>",
   "about_the_game": "This DLC contacins 3 original Soundtracks for Germ Wars game, made by Edwin Pickett, including:<br><ul class=\"bb_ul\"><li>Germ Wars - Coded To Kill<br></li><li>Germ Wars - Lymphnode Police Departmant<br></li><li>Germ Wars - Neutralize Infection</li></ul>",
-  "short_description": "",
+  "short_description": "This DLC contacins 3 original Soundtracks for Germ Wars game, made by Edwin Pickett, including:Germ Wars - Coded To KillGerm Wars - Lymphnode Police DepartmantGerm Wars - Neutralize Infection",
   "fullgame": {
     "appid": "557680",
     "name": "Germ Wars"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     141112
@@ -105,5 +107,9 @@
     "url": "https://www.facebook.com/svarogstudios/",
     "email": "svarogstudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/561800/page_bg_generated_v6b.jpg?t=1488189956"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/561800/page_bg_generated_v6b.jpg?t=1488189956",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

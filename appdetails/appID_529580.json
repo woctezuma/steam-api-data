@@ -7,8 +7,8 @@
   "controller_support": "full",
   "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/529580/extras/reviews1_ENG.jpg?t=1480505154\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/529580/extras/reviews2_ENG.jpg?t=1480505154\" ><br><br>Kyurinaga's Revenge is a 2D-based game with lots of platforming, action and puzzles. Battle alongside our two heroes: The samurai Kaoru Tamanegi and the street fighter Broccoli Joe all across the Feudal Japan in their new adventure!<br><br>You can switch between characters at any point but bear in mind that, even if you are a lone wolf, you'll still need to combine both heroes in order to overcome all the enemies and puzzles that Kyurinaga is going to throw at you. Or you can also partner up with a friend and bring the Shogunate down in our co-op mode.",
   "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/529580/extras/reviews1_ENG.jpg?t=1480505154\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/529580/extras/reviews2_ENG.jpg?t=1480505154\" ><br><br>Kyurinaga's Revenge is a 2D-based game with lots of platforming, action and puzzles. Battle alongside our two heroes: The samurai Kaoru Tamanegi and the street fighter Broccoli Joe all across the Feudal Japan in their new adventure!<br><br>You can switch between characters at any point but bear in mind that, even if you are a lone wolf, you'll still need to combine both heroes in order to overcome all the enemies and puzzles that Kyurinaga is going to throw at you. Or you can also partner up with a friend and bring the Shogunate down in our co-op mode.",
-  "short_description": "3D platforming with high doses of action.<br />\r\nLots of challenging puzzles and frenetic combat.<br />\r\nNew characters and enemies.<br />\r\nPlay solo or with a friend in a local co-op mode.<br />\r\nA 2D cartoonish and engaging living world, set in the Feudal Japan.<br />\r\nSamurais, ninjas, ronins and more!",
-  "supported_languages": "English, Spanish, Japanese",
+  "short_description": "3D platforming with high doses of action. Lots of challenging puzzles and frenetic combat. New characters and enemies. Play solo or with a friend in a local co-op mode. A 2D cartoonish and engaging living world, set in the Feudal Japan. Samurais, ninjas, ronins and more!",
+  "supported_languages": "English, Spanish - Spain, Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/529580/header.jpg?t=1480505154",
   "website": "http://www.recotech.es",
   "pc_requirements": {
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "final": 479,
+    "discount_percent": 40,
+    "initial_formatted": "7,99\u20ac",
+    "final_formatted": "4,79\u20ac"
   },
   "packages": [
     127360
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 127360,
-          "percent_savings_text": "",
+          "percent_savings_text": "-40%",
           "percent_savings": 0,
-          "option_text": "Kyurinaga's Revenge - 7,99\u20ac",
+          "option_text": "Kyurinaga's Revenge - <span class=\"discount_original_price\">7,99\u20ac</span> 4,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 479
         }
       ]
     }
@@ -202,5 +204,9 @@
     "url": "http://www.recotech.es",
     "email": "soporte@recotech.es"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/529580/page_bg_generated_v6b.jpg?t=1480505154"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/529580/page_bg_generated_v6b.jpg?t=1480505154",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

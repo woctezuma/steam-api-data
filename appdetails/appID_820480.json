@@ -4,11 +4,12 @@
   "steam_appid": 820480,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "Dead Shot Heroes is an FPS MOBA style game designed for VR but compatible with non-VR. <br>There are two teams that try to push forward through enemy lines and destroy the enemy base. It is up to you to help your team.<br>Gain experience and money to improve your character and unlock new skills.<br>Collect bonuses to earn more health or ammunition.<br>Precise aiming and speed will decide who will be the best.<br>This game supports VR and non VR so you can play with your friends that don't have any VR headset.<br><br>Refer to the official guide for more details<br><a href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=1327732253\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://steamcommunity.com/sharedfiles/filedetails/?id=1327732253</a></a>",
-  "about_the_game": "Dead Shot Heroes is an FPS MOBA style game designed for VR but compatible with non-VR. <br>There are two teams that try to push forward through enemy lines and destroy the enemy base. It is up to you to help your team.<br>Gain experience and money to improve your character and unlock new skills.<br>Collect bonuses to earn more health or ammunition.<br>Precise aiming and speed will decide who will be the best.<br>This game supports VR and non VR so you can play with your friends that don't have any VR headset.<br><br>Refer to the official guide for more details<br><a href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=1327732253\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >http://steamcommunity.com/sharedfiles/filedetails/?id=1327732253</a></a>",
+  "controller_support": "full",
+  "detailed_description": "Dead Shot Heroes is an FPS MOBA style game designed for VR but compatible with non-VR.<br>There are two teams that try to push forward through enemy lines and destroy the enemy base.<h2 class=\"bb_tag\">Game features</h2><ul class=\"bb_ul\"><li>Play against AI ( different difficulties are available )<br></li><li>Play in VR or non-VR<br></li><li>Choose between multiple heroes<br></li><li>Gain experience to unlock new abilities<br></li><li>Be fast, be dead shot accurate<br></li><li>Earn experience for each game to gain level, place on global ranking board and unlock new customizations ( Work in progress )</li></ul><br><br>Refer to the official guide for more details<br><a href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=1327732253\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://steamcommunity.com/sharedfiles/filedetails/?id=1327732253</a>",
+  "about_the_game": "Dead Shot Heroes is an FPS MOBA style game designed for VR but compatible with non-VR.<br>There are two teams that try to push forward through enemy lines and destroy the enemy base.<h2 class=\"bb_tag\">Game features</h2><ul class=\"bb_ul\"><li>Play against AI ( different difficulties are available )<br></li><li>Play in VR or non-VR<br></li><li>Choose between multiple heroes<br></li><li>Gain experience to unlock new abilities<br></li><li>Be fast, be dead shot accurate<br></li><li>Earn experience for each game to gain level, place on global ranking board and unlock new customizations ( Work in progress )</li></ul><br><br>Refer to the official guide for more details<br><a href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=1327732253\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >http://steamcommunity.com/sharedfiles/filedetails/?id=1327732253</a>",
   "short_description": "FPS MOBA designed for VR compatible with non VR",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/820480/header.jpg?t=1522793105",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/820480/header.jpg?t=1552402977",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 10<br></li><li><strong>Processor:</strong> CPU: Intel i5-4590, AMD FX 8350 equivalent or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 1060/970, AMD Radeon R9 290 equivalent or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
@@ -29,7 +30,40 @@
       "description": ""
     }
   ],
-  "package_groups": [],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
+  },
+  "packages": [
+    251556
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Dead Shot Heroes",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 251556,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Dead Shot Heroes - 8,19\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 819
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": true,
@@ -45,12 +79,20 @@
       "description": "Multi-player"
     },
     {
+      "id": 9,
+      "description": "Co-op"
+    },
+    {
       "id": 38,
       "description": "Online Co-op"
     },
     {
       "id": 27,
       "description": "Cross-Platform Multiplayer"
+    },
+    {
+      "id": 28,
+      "description": "Full controller support"
     }
   ],
   "genres": [
@@ -59,66 +101,83 @@
       "description": "Action"
     },
     {
-      "id": "70",
-      "description": "Early Access"
+      "id": "23",
+      "description": "Indie"
     }
   ],
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_dbd779e3005ba48c479124107951eee10bf7b0c6.600x338.jpg?t=1522793105",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_dbd779e3005ba48c479124107951eee10bf7b0c6.1920x1080.jpg?t=1522793105"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_856220cb9d8f1a97efc78b36c38857100aa955d2.600x338.jpg?t=1552402977",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_856220cb9d8f1a97efc78b36c38857100aa955d2.1920x1080.jpg?t=1552402977"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_191017ff6f68ae8b7151e3b974980cbb15da7367.600x338.jpg?t=1522793105",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_191017ff6f68ae8b7151e3b974980cbb15da7367.1920x1080.jpg?t=1522793105"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_84ddc3574813745a8df409f13a9615d56b8acb00.600x338.jpg?t=1552402977",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_84ddc3574813745a8df409f13a9615d56b8acb00.1920x1080.jpg?t=1552402977"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_027f1c3a7748ea6fba37a3170df6811be95a967c.600x338.jpg?t=1522793105",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_027f1c3a7748ea6fba37a3170df6811be95a967c.1920x1080.jpg?t=1522793105"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_8eddc7f5203e7c69d2f15581741282dd07521435.600x338.jpg?t=1552402977",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_8eddc7f5203e7c69d2f15581741282dd07521435.1920x1080.jpg?t=1552402977"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_ecf874f115f388a0e9b35e640bb0f85048d02b1b.600x338.jpg?t=1522793105",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_ecf874f115f388a0e9b35e640bb0f85048d02b1b.1920x1080.jpg?t=1522793105"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_905339ad7a5c50c0040552dc2f3a2660a56e3d3c.600x338.jpg?t=1552402977",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_905339ad7a5c50c0040552dc2f3a2660a56e3d3c.1920x1080.jpg?t=1552402977"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_64dd4a53f53c0f821838c376827da4748121bcbd.600x338.jpg?t=1522793105",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_64dd4a53f53c0f821838c376827da4748121bcbd.1920x1080.jpg?t=1522793105"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_272f94f02873b004afd5acdf1faa8bfbcdbf45f6.600x338.jpg?t=1552402977",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_272f94f02873b004afd5acdf1faa8bfbcdbf45f6.1920x1080.jpg?t=1552402977"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_dc61fcd58931300b846eb9a9fe7aeb60a44e6cfc.600x338.jpg?t=1552402977",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_dc61fcd58931300b846eb9a9fe7aeb60a44e6cfc.1920x1080.jpg?t=1552402977"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_1e398022ebbdf402e11b2f8008d26c5f462ff8c9.600x338.jpg?t=1552402977",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820480/ss_1e398022ebbdf402e11b2f8008d26c5f462ff8c9.1920x1080.jpg?t=1552402977"
     }
   ],
   "movies": [
     {
-      "id": 256710758,
-      "name": "Dead Shot Heroes",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256710758/movie.293x165.jpg?t=1520893075",
+      "id": 256738909,
+      "name": "Full release trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256738909/movie.293x165.jpg?t=1545265081",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256710758/movie480.webm?t=1520893075",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256710758/movie_max.webm?t=1520893075"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256738909/movie480.webm?t=1545265081",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256738909/movie_max.webm?t=1545265081"
       },
       "highlight": true
     },
     {
-      "id": 256711198,
-      "name": "Demo gameplay",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256711198/movie.293x165.jpg?t=1520893088",
+      "id": 256734036,
+      "name": "Update 0.7.2",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256734036/movie.293x165.jpg?t=1541115532",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256711198/movie480.webm?t=1520893088",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256711198/movie_max.webm?t=1520893088"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256734036/movie480.webm?t=1541115532",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256734036/movie_max.webm?t=1541115532"
       },
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
-    "coming_soon": true,
-    "date": "Spring 2018"
+    "coming_soon": false,
+    "date": "20 Dec, 2018"
   },
   "support_info": {
     "url": "",
     "email": "martin.kutlak@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/820480/page_bg_generated_v6b.jpg?t=1522793105"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/820480/page_bg_generated_v6b.jpg?t=1552402977",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

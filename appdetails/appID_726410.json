@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     211602
@@ -139,5 +141,9 @@
     "url": "",
     "email": "support@skyboxlabs.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/726410/page_bg_generated_v6b.jpg?t=1510595104"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/726410/page_bg_generated_v6b.jpg?t=1510595104",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

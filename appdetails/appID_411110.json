@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     81929
@@ -93,6 +95,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/411110/ss_e8a33596dace9b757de7e08629d2519916a57804.1920x1080.jpg?t=1449147828"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Nov, 2015"
@@ -101,5 +106,9 @@
     "url": "http://pinkappgames.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/411110/page_bg_generated_v6b.jpg?t=1449147828"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/411110/page_bg_generated_v6b.jpg?t=1449147828",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

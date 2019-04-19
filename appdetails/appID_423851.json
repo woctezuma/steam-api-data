@@ -12,7 +12,7 @@
     "appid": "274940",
     "name": "Depth"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Polish, Portuguese-Brazil, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/423851/header.jpg?t=1450307739",
   "website": "http://www.depthgame.com",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     86837,
@@ -163,6 +165,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/423851/ss_9a302938a1ae1108ae2524183973575c5aa33493.1920x1080.jpg?t=1450307739"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Dec, 2015"
@@ -171,5 +176,12 @@
     "url": "http://www.depthgame.com",
     "email": "support@digitalconfectioners.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/423851/page_bg_generated_v6b.jpg?t=1450307739"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/423851/page_bg_generated_v6b.jpg?t=1450307739",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

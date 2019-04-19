@@ -13,7 +13,7 @@
     "name": "Realities"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/708622/header.jpg?t=1523405519",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/708622/header.jpg?t=1524762649",
   "website": "http://realities.io",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8<br></li><li><strong>Processor:</strong> Intel i5-4590 or similar<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Geforce GTX 970 or similar<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
@@ -28,7 +28,32 @@
   "publishers": [
     ""
   ],
-  "package_groups": [],
+  "packages": [
+    204744
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Realities - Beelitz Heilst\u00e4tten",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 204744,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Realities - Beelitz Heilst\u00e4tten - Free",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": true,
+          "price_in_cents_with_discount": 0
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -73,28 +98,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_6c3ffc749b23f39e448baabf13621f2cd250b2ec.600x338.jpg?t=1523405519",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_6c3ffc749b23f39e448baabf13621f2cd250b2ec.1920x1080.jpg?t=1523405519"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_6c3ffc749b23f39e448baabf13621f2cd250b2ec.600x338.jpg?t=1524762649",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_6c3ffc749b23f39e448baabf13621f2cd250b2ec.1920x1080.jpg?t=1524762649"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_f75936beea7e9a499779e26b553f85c8f71204c6.600x338.jpg?t=1523405519",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_f75936beea7e9a499779e26b553f85c8f71204c6.1920x1080.jpg?t=1523405519"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_f75936beea7e9a499779e26b553f85c8f71204c6.600x338.jpg?t=1524762649",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_f75936beea7e9a499779e26b553f85c8f71204c6.1920x1080.jpg?t=1524762649"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_902447d13efada8e48540ce054e574ffde6dab3b.600x338.jpg?t=1523405519",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_902447d13efada8e48540ce054e574ffde6dab3b.1920x1080.jpg?t=1523405519"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_902447d13efada8e48540ce054e574ffde6dab3b.600x338.jpg?t=1524762649",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_902447d13efada8e48540ce054e574ffde6dab3b.1920x1080.jpg?t=1524762649"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_1fca7ed052b803df5cd1b6c467890fd89ac82696.600x338.jpg?t=1523405519",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_1fca7ed052b803df5cd1b6c467890fd89ac82696.1920x1080.jpg?t=1523405519"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_1fca7ed052b803df5cd1b6c467890fd89ac82696.600x338.jpg?t=1524762649",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_1fca7ed052b803df5cd1b6c467890fd89ac82696.1920x1080.jpg?t=1524762649"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_a4bf2ec9fb1a8323dc7ba1bc17e909d7b487bf17.600x338.jpg?t=1523405519",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_a4bf2ec9fb1a8323dc7ba1bc17e909d7b487bf17.1920x1080.jpg?t=1523405519"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_a4bf2ec9fb1a8323dc7ba1bc17e909d7b487bf17.600x338.jpg?t=1524762649",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/708622/ss_a4bf2ec9fb1a8323dc7ba1bc17e909d7b487bf17.1920x1080.jpg?t=1524762649"
     }
   ],
   "release_date": {
@@ -105,5 +130,9 @@
     "url": "",
     "email": "support@realities.io"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/708622/page_bg_generated_v6b.jpg?t=1523405519"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/708622/page_bg_generated_v6b.jpg?t=1524762649",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

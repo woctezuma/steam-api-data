@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "A super weapon that can only be used by Wing Divers with mastery of the Psionic Link. Discharges a ball of energy that stays in the air and homes in on all targets in its vicinity. One shot won't do much, but this weapon can launch continuous attacks, which is almost always very effective. Press and hold the attack button to increase the throwing distance, and release it to discharge. (The path is indicated by a red line.)",
   "about_the_game": "A super weapon that can only be used by Wing Divers with mastery of the Psionic Link. Discharges a ball of energy that stays in the air and homes in on all targets in its vicinity. One shot won't do much, but this weapon can launch continuous attacks, which is almost always very effective. Press and hold the attack button to increase the throwing distance, and release it to discharge. (The path is indicated by a red line.)",
-  "short_description": "A super weapon that can only be used by Wing Divers with mastery of the Psionic Link.  Press and hold the attack button to increase the throwing distance, and release it to discharge. (The path is indicated by a red line.)",
+  "short_description": "A super weapon that can only be used by Wing Divers with mastery of the Psionic Link. Press and hold the attack button to increase the throwing distance, and release it to discharge. (The path is indicated by a red line.",
   "fullgame": {
     "appid": "410320",
     "name": "EARTH DEFENSE FORCE 4.1 The Shadow of New Despair"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     101709
@@ -122,6 +124,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464202/ss_483bd1e9425eac3425daf36ff94111fb5c84371c.1920x1080.jpg?t=1478761871"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Jul, 2016"
@@ -130,5 +135,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/464202/page_bg_generated_v6b.jpg?t=1478761871"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/464202/page_bg_generated_v6b.jpg?t=1478761871",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

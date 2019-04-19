@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 329,
     "final": 329,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     171283
@@ -143,6 +145,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Oct, 2017"
@@ -151,5 +156,9 @@
     "url": "http://www.hugebangbang.com",
     "email": "contact@palominostudio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/619670/page_bg_generated_v6b.jpg?t=1521455032"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/619670/page_bg_generated_v6b.jpg?t=1521455032",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

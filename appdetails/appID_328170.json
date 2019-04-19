@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The aerofly RC 7 Professional Edition includes the following new features compared to the Standard Edition:<br><br><ul class=\"bb_ul\"><li>Over 130 new and unique RC models<br></li><li>Over 30 new sceneries from various places around the world<br></li><li>Recording/Playback feature<br></li><li>Heli Trainer<br></li><li>Models are instantly scaleable<br></li><li>Multiplayer capability with Voice chat</li></ul><h2 class=\"bb_tag\">EDITION COMPARISON OVERVIEW</h2><br>To see the differences of all three editions, have a look at the following table:<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/328170/extras/steam_compare_en.png?t=1447364173\" >",
   "about_the_game": "The aerofly RC 7 Professional Edition includes the following new features compared to the Standard Edition:<br><br><ul class=\"bb_ul\"><li>Over 130 new and unique RC models<br></li><li>Over 30 new sceneries from various places around the world<br></li><li>Recording/Playback feature<br></li><li>Heli Trainer<br></li><li>Models are instantly scaleable<br></li><li>Multiplayer capability with Voice chat</li></ul><h2 class=\"bb_tag\">EDITION COMPARISON OVERVIEW</h2><br>To see the differences of all three editions, have a look at the following table:<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/328170/extras/steam_compare_en.png?t=1447364173\" >",
-  "short_description": "The aerofly RC 7 Professional Edition upgrade includes the following new features compared to the Standard Edition:<br><br><ul class=\"bb_ul\"><li>Over 130 new and unique RC models<br></li><li>Over 30 new sceneries from various places around the world<br></li><li>Recording/Playback feature<br></li><li>Heli Trainer<br></li><li>Models are instantly scaleable<br></li><li>Multiplayer capability with Voice chat</li></ul>",
+  "short_description": "The aerofly RC 7 Professional Edition upgrade includes the following new features compared to the Standard Edition:Over 130 new and unique RC modelsOver 30 new sceneries from various places around the worldRecording/Playback featureHeli TrainerModels are instantly scaleableMultiplayer capability with Voice chat",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -30,11 +30,13 @@
     "currency": "EUR",
     "initial": 9999,
     "final": 9999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "99,99\u20ac"
   },
   "packages": [
     52744,
-    "54400"
+    54400
   ],
   "package_groups": [
     {
@@ -57,7 +59,7 @@
           "price_in_cents_with_discount": 9999
         },
         {
-          "packageid": "54400",
+          "packageid": 54400,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "aerofly RC 7 Professional Edition Upgrade - 54,99\u20ac",
@@ -211,6 +213,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Nov, 2014"
@@ -219,5 +224,9 @@
     "url": "www.aeroflyrc.com/support",
     "email": "support@aeroflyrc.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/328170/page_bg_generated_v6b.jpg?t=1447364173"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/328170/page_bg_generated_v6b.jpg?t=1447364173",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

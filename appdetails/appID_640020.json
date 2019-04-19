@@ -15,8 +15,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/640020/header.jpg?t=1495543228",
   "website": "http://fruitbatfactory.com/chuusotsu/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, 7, 8, or 10<br></li><li><strong>Processor:</strong> Intel Pentium III 800MHz or higher<br></li><li><strong>Graphics:</strong> 1280x720 Display or higher<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectSound compatible sound card</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, or 10<br></li><li><strong>Processor:</strong> Pentium III 2GHz or higher<br></li><li><strong>Graphics:</strong> 1280x720 Display or higher<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> DirectSound compatible sound card</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Windows Vista, 7, 8, or 10<br></li><li><strong>Prozessor:</strong> Intel Pentium III 800MHz or higher<br></li><li><strong>Grafik:</strong> 1280x720 Display or higher<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Speicherplatz:</strong> 2 GB verf\u00fcgbarer Speicherplatz<br></li><li><strong>Soundkarte:</strong> DirectSound compatible sound card</li></ul>",
+    "recommended": "<strong>Empfohlen:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Windows 7, 8, or 10<br></li><li><strong>Prozessor:</strong> Pentium III 2GHz or higher<br></li><li><strong>Grafik:</strong> 1280x720 Display or higher<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Speicherplatz:</strong> 3 GB verf\u00fcgbarer Speicherplatz<br></li><li><strong>Soundkarte:</strong> DirectSound compatible sound card</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -56,6 +56,9 @@
       "description": "Indie"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 May, 2017"
@@ -64,5 +67,9 @@
     "url": "http://fruitbatfactory.com/",
     "email": "support@fruitbatfactory.com"
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

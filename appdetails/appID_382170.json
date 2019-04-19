@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     71624,
@@ -64,11 +66,11 @@
           "packageid": 72419,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Always The Same Blue Sky... + Soundtrack - 3,65\u20ac",
+          "option_text": "Always The Same Blue Sky... + Soundtrack - 2,89\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 365
+          "price_in_cents_with_discount": 289
         }
       ]
     }
@@ -133,5 +135,9 @@
     "url": "http://alwaysthesamebluesky.com/",
     "email": "alwaysthesamebluesky@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/382170/page_bg_generated_v6b.jpg?t=1447376782"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/382170/page_bg_generated_v6b.jpg?t=1447376782",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     73803
@@ -146,6 +148,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389250/ss_0d13e20e7c3e986f56aa182803026d78bfc7754e.1920x1080.jpg?t=1447377224"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Aug, 2015"
@@ -154,5 +159,9 @@
     "url": "",
     "email": "support@1cpublishing.eu"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389250/page_bg_generated_v6b.jpg?t=1447377224"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389250/page_bg_generated_v6b.jpg?t=1447377224",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

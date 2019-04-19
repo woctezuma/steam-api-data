@@ -12,7 +12,7 @@
     "name": "Into the Breach"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/807320/header.jpg?t=1519743660",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/807320/header.jpg?t=1533834157",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 150 MB available space</li></ul>"
@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     246103
@@ -48,18 +50,18 @@
           "packageid": 246103,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Into the Breach Soundtrack - 5,99\u20ac",
+          "option_text": "Into the Breach Soundtrack - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 499
         }
       ]
     }
   ],
   "platforms": {
     "windows": true,
-    "mac": false,
+    "mac": true,
     "linux": false
   },
   "categories": [
@@ -93,10 +95,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/807320/ss_f7187b2bfbf2d74e9058f0cb1a80b7daf100dacf.600x338.jpg?t=1519743660",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/807320/ss_f7187b2bfbf2d74e9058f0cb1a80b7daf100dacf.1920x1080.jpg?t=1519743660"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/807320/ss_f7187b2bfbf2d74e9058f0cb1a80b7daf100dacf.600x338.jpg?t=1533834157",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/807320/ss_f7187b2bfbf2d74e9058f0cb1a80b7daf100dacf.1920x1080.jpg?t=1533834157"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Feb, 2018"
@@ -105,5 +110,9 @@
     "url": "http://www.subsetgames.com",
     "email": "contact@subsetgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/807320/page_bg_generated_v6b.jpg?t=1519743660"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/807320/page_bg_generated_v6b.jpg?t=1533834157",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

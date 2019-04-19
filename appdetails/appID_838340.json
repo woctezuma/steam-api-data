@@ -4,31 +4,67 @@
   "steam_appid": 838340,
   "required_age": 0,
   "is_free": false,
+  "dlc": [
+    861120
+  ],
   "detailed_description": "Visual novel, ADV, slice of life, mystical, drama, romance, boys love<br />\r\n<br />\r\nSudden tragic event shook up Yun\u2019s routine: his friend is balancing between life and death. Doctors are not being supportive, not to mention that something feels shady. Would young man be able to help Max through?<br />\r\n<br />\r\n- Diverse CGs<br />\r\n- More than 15 music themes<br />\r\n- Each ending has its own melody<br />\r\n- Secret bonuses, opened after main story<br />\r\n- Precious romantic scenes",
   "about_the_game": "Visual novel, ADV, slice of life, mystical, drama, romance, boys love<br />\r\n<br />\r\nSudden tragic event shook up Yun\u2019s routine: his friend is balancing between life and death. Doctors are not being supportive, not to mention that something feels shady. Would young man be able to help Max through?<br />\r\n<br />\r\n- Diverse CGs<br />\r\n- More than 15 music themes<br />\r\n- Each ending has its own melody<br />\r\n- Secret bonuses, opened after main story<br />\r\n- Precious romantic scenes",
   "short_description": "Sudden tragic event shook up Yun\u2019s routine: his friend is balancing between life and death. Doctors are not being supportive, not to mention that something feels shady. Would young man be able to help Max through?",
   "supported_languages": "English, Russian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/838340/header.jpg?t=1523065998",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/838340/header.jpg?t=1552633725",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1.4GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, 8.1, 10<br></li><li><strong>Processor:</strong> 2GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> 1.4GHZ<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> 1.4GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> 2GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Core 4.2<br></li><li><strong>Processor:</strong> 1.44GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Core 4.2<br></li><li><strong>Processor:</strong> 1.4GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Core 4.2<br></li><li><strong>Processor:</strong> 2GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
   },
   "developers": [
     "Team Spieluhr"
   ],
   "publishers": [
-    "Team Spieluhr"
+    " Team Spieluhr"
   ],
-  "package_groups": [],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
+  },
+  "packages": [
+    261465
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy May",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 261465,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "May - 3,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 399
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": true,
@@ -38,13 +74,13 @@
     {
       "id": 2,
       "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
     }
   ],
   "genres": [
-    {
-      "id": "72",
-      "description": "Nudity"
-    },
     {
       "id": "4",
       "description": "Casual"
@@ -57,28 +93,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_1444170695e5a954487495a472a2572373531e9e.600x338.jpg?t=1523065998",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_1444170695e5a954487495a472a2572373531e9e.1920x1080.jpg?t=1523065998"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_c18cd7f8eb9c9c7da37ce3746df450075681cf7e.600x338.jpg?t=1552633725",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_c18cd7f8eb9c9c7da37ce3746df450075681cf7e.1920x1080.jpg?t=1552633725"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_f0ff3ba44fe492cd0fc63225d40c5fa22e8c2a70.600x338.jpg?t=1523065998",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_f0ff3ba44fe492cd0fc63225d40c5fa22e8c2a70.1920x1080.jpg?t=1523065998"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_63500a9f0d979d70faf257a3ea172b3cb27763d7.600x338.jpg?t=1552633725",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_63500a9f0d979d70faf257a3ea172b3cb27763d7.1920x1080.jpg?t=1552633725"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_ef9117a43a8d5b1564c2007125b1840a130c2e92.600x338.jpg?t=1523065998",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_ef9117a43a8d5b1564c2007125b1840a130c2e92.1920x1080.jpg?t=1523065998"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_19ccf17751d679825c1bcd4e9e9aa82c2e7ba4a5.600x338.jpg?t=1552633725",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_19ccf17751d679825c1bcd4e9e9aa82c2e7ba4a5.1920x1080.jpg?t=1552633725"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_85c2476f24239a4080f6bc27009d4a412c75d6e7.600x338.jpg?t=1523065998",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_85c2476f24239a4080f6bc27009d4a412c75d6e7.1920x1080.jpg?t=1523065998"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_8f8da5a0c5c7cfb1338bb126dd582b4d3e018b67.600x338.jpg?t=1552633725",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_8f8da5a0c5c7cfb1338bb126dd582b4d3e018b67.1920x1080.jpg?t=1552633725"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_65681a31e3a03783f7b3dee38e85b39c58e46a75.600x338.jpg?t=1523065998",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_65681a31e3a03783f7b3dee38e85b39c58e46a75.1920x1080.jpg?t=1523065998"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_b81f545090a74740ca09b7d737f3709f66b51df0.600x338.jpg?t=1552633725",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838340/ss_b81f545090a74740ca09b7d737f3709f66b51df0.1920x1080.jpg?t=1552633725"
     }
   ],
   "movies": [
@@ -93,13 +129,62 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 10,
+    "highlighted": [
+      {
+        "name": "Employee of the month",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/838340/42ca238914d7c02417262380675243198fa83681.jpg"
+      },
+      {
+        "name": "The First Kiss",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/838340/5cbe2b12667498dbf316253dc3556e21799600b7.jpg"
+      },
+      {
+        "name": "Illusion",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/838340/4054e1d3cf89340d25261d8afec03425d0ff3fc0.jpg"
+      },
+      {
+        "name": "Alone",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/838340/f6b7c07eff1633e952c005ec6bbfd395e2190b64.jpg"
+      },
+      {
+        "name": "Sins",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/838340/30c53883a04fd3247e8648ea69d23b783555951e.jpg"
+      },
+      {
+        "name": "Charlatan tales",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/838340/9f39dd08c2543fa9e27cef15f3da360b89b20a9b.jpg"
+      },
+      {
+        "name": "May",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/838340/3bab95874502725a332e6a02c1d9261fcccb1b8f.jpg"
+      },
+      {
+        "name": "Willow",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/838340/6033a079a5a9ffa320e1e3f88194950c60d5e39f.jpg"
+      },
+      {
+        "name": "Paper airplane",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/838340/d6d3cf611aa0dc75669bc245b5ee6e047ef82aba.jpg"
+      },
+      {
+        "name": "Together",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/838340/84dec8485794995e3d1be21c8cc1dd626dc57975.jpg"
+      }
+    ]
+  },
   "release_date": {
-    "coming_soon": true,
-    "date": "Spring"
+    "coming_soon": false,
+    "date": "10 May, 2018"
   },
   "support_info": {
     "url": "",
     "email": "team.spieluhr@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/838340/page_bg_generated_v6b.jpg?t=1523065998"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/838340/page_bg_generated_v6b.jpg?t=1552633725",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

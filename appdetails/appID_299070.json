@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 199,
+    "discount_percent": 80,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     43578
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 43578,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "Warrior Kings: Battles - 9,99\u20ac",
+          "option_text": "Warrior Kings: Battles - <span class=\"discount_original_price\">9,99\u20ac</span> 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -61,7 +63,7 @@
   },
   "metacritic": {
     "score": 64,
-    "url": "http://www.metacritic.com/game/pc/warrior-kings-battles?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/warrior-kings-battles?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -114,6 +116,12 @@
       "highlight": true
     }
   ],
+  "recommendations": {
+    "total": 103
+  },
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 May, 2014"
@@ -122,5 +130,9 @@
     "url": "",
     "email": "support@strategyfirst.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/299070/page_bg_generated_v6b.jpg?t=1447361715"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/299070/page_bg_generated_v6b.jpg?t=1447361715",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

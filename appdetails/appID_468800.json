@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 119,
+    "discount_percent": 70,
+    "initial_formatted": "3,99\u20ac",
+    "final_formatted": "1,19\u20ac"
   },
   "packages": [
     103481
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 103481,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Arkshot - 4,99\u20ac",
+          "option_text": "Arkshot - <span class=\"discount_original_price\">3,99\u20ac</span> 1,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 119
         }
       ]
     }
@@ -156,8 +158,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 107
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -167,5 +169,9 @@
     "url": "http://www.codeavarice.com/contact.html",
     "email": "mike@codeavarice.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/468800/page_bg_generated_v6b.jpg?t=1463682679"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/468800/page_bg_generated_v6b.jpg?t=1463682679",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -23,7 +23,7 @@
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.6.8 or newer<br></li><li><strong>Processor:</strong> 2.0 GHz processor or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0 compatible video adapter<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> A sound card is required for voice communication using external programs like Google Hangouts, Skype or Discord.<br></li><li><strong>Additional Notes:</strong> This product uses a wine wrapper to simplify installation</li></ul>"
   },
   "linux_requirements": [],
-  "legal_notice": "Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2015 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a></a> for more product information.<br><br>Dungeons & Dragons, its logo, Forgotten Realms, Sword Coast Adventurer's Guide, and D&D are trademarks of Wizards of the Coast LLC and are used with permission. \u00a9 2015 Wizards of the Coast. All rights reserved.",
+  "legal_notice": "Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2015 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a> for more product information.<br><br>Dungeons & Dragons, its logo, Forgotten Realms, Sword Coast Adventurer's Guide, and D&D are trademarks of Wizards of the Coast LLC and are used with permission. \u00a9 2015 Wizards of the Coast. All rights reserved.",
   "developers": [
     "SmiteWorks USA, LLC"
   ],
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     91286
@@ -141,6 +143,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/436250/ss_8a29bdd0058ce6106f3ee34604a8ad58602f4de1.1920x1080.jpg?t=1505067684"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Jan, 2016"
@@ -149,5 +154,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/436250/page_bg_generated_v6b.jpg?t=1505067684"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/436250/page_bg_generated_v6b.jpg?t=1505067684",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

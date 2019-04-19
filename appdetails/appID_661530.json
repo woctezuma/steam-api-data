@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     187528
@@ -44,11 +46,11 @@
           "packageid": 187528,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Gold Rush In The Oort Cloud - 5,99\u20ac",
+          "option_text": "Gold Rush In The Oort Cloud - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -143,5 +145,9 @@
     "url": "https://www.facebook.com/WTFOMGames",
     "email": "mail67845@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/661530/page_bg_generated_v6b.jpg?t=1499291371"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/661530/page_bg_generated_v6b.jpg?t=1499291371",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

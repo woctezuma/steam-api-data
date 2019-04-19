@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     82809
@@ -99,6 +101,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/413330/ss_506fbd3e02da5f2f0545b02512f683e54153bcc2.1920x1080.jpg?t=1449508076"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Dec, 2015"
@@ -107,5 +112,9 @@
     "url": "http://www.ekuatorgames.com/contact/",
     "email": "help@digitaltribegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413330/page_bg_generated_v6b.jpg?t=1449508076"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413330/page_bg_generated_v6b.jpg?t=1449508076",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

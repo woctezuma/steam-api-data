@@ -1,18 +1,18 @@
 {
   "type": "dlc",
-  "name": "Simple Story - Alex: Beer Factory Donation for developer",
+  "name": "Simple Story Alex - Good Day",
   "steam_appid": 827600,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<strong> This DLC is a donation for the developer. It won`t add or change anything in a game.</strong><br><br>I do not hope that my games will bring me stable income or change my life. I just want to bring my stories to everyone who interested.<br>I really need a large sum of money, not for beer, but for expensive surgical operations instead. I hope what this DLC help me to collect at least part of this sum. I myself probably will never collect such a sum in my life. I have no illusion, but I want to be optimistic.<br><br>50% money from this DLC, will go to my surgical operations.<br>50% money will go to orphanages in Latvia (I will make photo-video reports and post them on the game forum).<br><br>If a miracle happens and the money for the operation will be collected, then all 100% of the sales will go to charity.",
-  "about_the_game": "<strong> This DLC is a donation for the developer. It won`t add or change anything in a game.</strong><br><br>I do not hope that my games will bring me stable income or change my life. I just want to bring my stories to everyone who interested.<br>I really need a large sum of money, not for beer, but for expensive surgical operations instead. I hope what this DLC help me to collect at least part of this sum. I myself probably will never collect such a sum in my life. I have no illusion, but I want to be optimistic.<br><br>50% money from this DLC, will go to my surgical operations.<br>50% money will go to orphanages in Latvia (I will make photo-video reports and post them on the game forum).<br><br>If a miracle happens and the money for the operation will be collected, then all 100% of the sales will go to charity.",
-  "short_description": "This DLC is just a donation to the developer. It will not add or change anything to the game.",
+  "detailed_description": "<strong>This DLC adds to the game additional episode with short story, which takes place long before the events of the original game.<br>We will be able to see the happy Alex who does not yet drink and has a loving and caring wife.<br><br>How to start this DLC:<br>After installing DLC, you will need to load 16 save file in the main game Simple Story - Alex.</strong>",
+  "about_the_game": "<strong>This DLC adds to the game additional episode with short story, which takes place long before the events of the original game.<br>We will be able to see the happy Alex who does not yet drink and has a loving and caring wife.<br><br>How to start this DLC:<br>After installing DLC, you will need to load 16 save file in the main game Simple Story - Alex.</strong>",
+  "short_description": "This is a new story content.",
   "fullgame": {
     "appid": "814200",
     "name": "Simple Story - Alex"
   },
   "supported_languages": "English, Russian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/827600/header.jpg?t=1521660467",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/827600/header.jpg?t=1549577539",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows (32-bit/64-bit)<br></li><li><strong>Processor:</strong> Intel Pentium III 800 MHz<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound Compatible</li></ul>"
@@ -20,43 +20,12 @@
   "mac_requirements": [],
   "linux_requirements": [],
   "developers": [
-    "\u041a\u0438\u041a\u043e Donations"
+    "\u041a\u0438\u041a\u043e"
   ],
   "publishers": [
-    "\u041a\u0438\u041a\u043e Donations"
+    "\u041a\u0438\u041a\u043e"
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 4599,
-    "final": 4599,
-    "discount_percent": 0
-  },
-  "packages": [
-    254502
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy Simple Story - Alex: Beer Factory Donation for developer",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 254502,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Simple Story - Alex: Beer Factory Donation for developer - 45,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4599
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -85,8 +54,8 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/827600/ss_80a95cb28a79a69676aaa32fe71393d7f017541c.600x338.jpg?t=1521660467",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/827600/ss_80a95cb28a79a69676aaa32fe71393d7f017541c.1920x1080.jpg?t=1521660467"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/827600/ss_ba7b4025daef4201d5fff909c32045d82d480ac6.600x338.jpg?t=1549577539",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/827600/ss_ba7b4025daef4201d5fff909c32045d82d480ac6.1920x1080.jpg?t=1549577539"
     }
   ],
   "release_date": {
@@ -97,5 +66,9 @@
     "url": "",
     "email": "vidon@inbox.lv"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/827600/page_bg_generated_v6b.jpg?t=1521660467"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/827600/page_bg_generated_v6b.jpg?t=1549577539",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

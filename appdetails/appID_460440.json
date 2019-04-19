@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "All tracks are MP3's and will most likely be downloaded to a location like this: C:\\Program Files (x86)\\Steam\\steamapps\\common\\Little Walker - Soundtrack<br />\r\n<br />\r\n1. Boppin' (Title Screen) 1:01<br />\r\n2. Whistlin' 1:46<br />\r\n3. Waterin' Hole 0:30<br />\r\n4. The Plunge 1:36<br />\r\n5. Funky Sunshine 1:20<br />\r\n6. Desert Trek 0:48<br />\r\n7. Snow Top 1:30<br />\r\n8. Dungeon Creep 1:05<br />\r\n9. Boss Battle 1:00<br />\r\n10. Ghost Battle 1:04<br />\r\n11. Home at Last 1:21<br />\r\n12. Reklaw 0:14",
   "about_the_game": "All tracks are MP3's and will most likely be downloaded to a location like this: C:\\Program Files (x86)\\Steam\\steamapps\\common\\Little Walker - Soundtrack<br />\r\n<br />\r\n1. Boppin' (Title Screen) 1:01<br />\r\n2. Whistlin' 1:46<br />\r\n3. Waterin' Hole 0:30<br />\r\n4. The Plunge 1:36<br />\r\n5. Funky Sunshine 1:20<br />\r\n6. Desert Trek 0:48<br />\r\n7. Snow Top 1:30<br />\r\n8. Dungeon Creep 1:05<br />\r\n9. Boss Battle 1:00<br />\r\n10. Ghost Battle 1:04<br />\r\n11. Home at Last 1:21<br />\r\n12. Reklaw 0:14",
-  "short_description": "It's the music from the game, silly! (Mp3 format)",
+  "short_description": "It's the music from the game, silly!",
   "fullgame": {
     "appid": "448500",
     "name": "Lil' Walker"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     100280
@@ -113,5 +115,9 @@
     "url": "",
     "email": "blakefix@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/460440/page_bg_generated_v6b.jpg?t=1518795139"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/460440/page_bg_generated_v6b.jpg?t=1518795139",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

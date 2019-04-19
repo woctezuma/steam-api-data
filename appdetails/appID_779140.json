@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 899,
-    "final": 899,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     234455
@@ -44,11 +46,11 @@
           "packageid": 234455,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Outrealm - 8,99\u20ac",
+          "option_text": "Outrealm - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 899
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -178,5 +180,9 @@
     "url": "https://nicholas-thandi.com/outrealm/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/779140/page_bg_generated_v6b.jpg?t=1517898160"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/779140/page_bg_generated_v6b.jpg?t=1517898160",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

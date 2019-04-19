@@ -11,7 +11,7 @@
     "appid": null,
     "name": "Uninitialized"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Hungarian, Russian, Turkish, Czech, Portuguese-Brazil, Dutch, Polish",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Hungarian, Russian, Turkish, Czech, Portuguese - Brazil, Dutch, Polish",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/372870/header.jpg?t=1487889485",
   "website": "http://car.playway.com",
   "pc_requirements": [],
@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     68549,
@@ -157,6 +159,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 May, 2015"
@@ -165,5 +170,9 @@
     "url": "http://www.playway.com",
     "email": "help@playway.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/372870/page_bg_generated_v6b.jpg?t=1487889485"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/372870/page_bg_generated_v6b.jpg?t=1487889485",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 299,
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     115138
@@ -45,11 +47,11 @@
           "packageid": 115138,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "My Own Pet - 5,99\u20ac",
+          "option_text": "My Own Pet - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -135,6 +137,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Jul, 2016"
@@ -143,5 +148,9 @@
     "url": "http://support.jdmsoftware.net",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501420/page_bg_generated_v6b.jpg?t=1471295088"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501420/page_bg_generated_v6b.jpg?t=1471295088",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

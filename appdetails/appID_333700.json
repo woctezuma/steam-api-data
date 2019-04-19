@@ -37,9 +37,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     54798,
@@ -59,21 +61,21 @@
           "packageid": 54798,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Chucks Challenge 3D: Happy Holidays DLC - 0,99\u20ac",
+          "option_text": "Chucks Challenge 3D: Happy Holidays DLC - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         },
         {
           "packageid": 39893,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Chuck's Challenge 3D: Game, Soundtrack & DLC Bundle - 6,99\u20ac",
+          "option_text": "Chuck's Challenge 3D: Game, Soundtrack & DLC Bundle - 5,69\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 699
+          "price_in_cents_with_discount": 569
         }
       ]
     }
@@ -235,5 +237,9 @@
     "url": "https://getsatisfaction.com/chuckschallenge",
     "email": "hello@niffler.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/333700/page_bg_generated_v6b.jpg?t=1447365138"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/333700/page_bg_generated_v6b.jpg?t=1447365138",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

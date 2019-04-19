@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     55270
@@ -160,6 +162,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Dec, 2014"
@@ -168,5 +173,9 @@
     "url": "https://twitter.com/ryanjavanshir",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/334980/page_bg_generated_v6b.jpg?t=1504322012"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/334980/page_bg_generated_v6b.jpg?t=1504322012",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

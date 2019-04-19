@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     249811
@@ -170,5 +172,9 @@
     "url": "http://diggidy.net/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/816200/page_bg_generated_v6b.jpg?t=1521810792"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/816200/page_bg_generated_v6b.jpg?t=1521810792",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>The Official Two Worlds Stratgegy Guide - STRAIGHT FROM THE DEVELOPERS!</strong><br><br>Aye, friend... the world of Antaloor is indeed enormous... but don't worry - you can't get lost!<br>With the Official Strategy Guide for Two Worlds you'll<br>- never miss out one single adventure<br>- solve the trickiest of quests<br>- find the weak spots of your strongest opponents!<br><br>There are countless monsters, sophisticated quests and a multitude of hidden Specials waiting to be discovered - by you! This book is a must for all &quot;Two Worlds&quot; fans who want to get the most out of this unbelievable RPG - in 368 pages, each with a wealth of insider information straight from the developers themselves, you'll learn everything you ever wanted to know about the fantastic land of Antaloor - opponents' values, maps, hidden items, you name it.... it's all in there!<br><br><strong>This is every hero's dream! </strong><h2 class=\"bb_tag\">Features </h2><ul class=\"bb_ul\"><li><strong><i>The &quot;Who's Who&quot; of Antaloor:</i></strong> Get to know your friends and your foes - and all the Questgivers<br></li><li><strong><i>All values at a glance:</i></strong> Detailed weapons statistics - with a picture of every weapon<br></li><li><strong><i>Zoom into Antaloor:</i></strong> Detailed maps with lots of pointers and locations<br></li><li><strong><i>Total Overview:</i></strong> The Quest Index helps you target specific solution methods - every time!<br></li><li><strong><i>Complete Bestiarium:</i></strong> Inside information on your opponents' classes - including their strengths and weaknesses!<br></li><li><strong><i>Become a Potions Professional:</i></strong> Take an informative trip into the secret world of Alchemy!</li></ul>",
   "about_the_game": "<strong>The Official Two Worlds Stratgegy Guide - STRAIGHT FROM THE DEVELOPERS!</strong><br><br>Aye, friend... the world of Antaloor is indeed enormous... but don't worry - you can't get lost!<br>With the Official Strategy Guide for Two Worlds you'll<br>- never miss out one single adventure<br>- solve the trickiest of quests<br>- find the weak spots of your strongest opponents!<br><br>There are countless monsters, sophisticated quests and a multitude of hidden Specials waiting to be discovered - by you! This book is a must for all &quot;Two Worlds&quot; fans who want to get the most out of this unbelievable RPG - in 368 pages, each with a wealth of insider information straight from the developers themselves, you'll learn everything you ever wanted to know about the fantastic land of Antaloor - opponents' values, maps, hidden items, you name it.... it's all in there!<br><br><strong>This is every hero's dream! </strong><h2 class=\"bb_tag\">Features </h2><ul class=\"bb_ul\"><li><strong><i>The &quot;Who's Who&quot; of Antaloor:</i></strong> Get to know your friends and your foes - and all the Questgivers<br></li><li><strong><i>All values at a glance:</i></strong> Detailed weapons statistics - with a picture of every weapon<br></li><li><strong><i>Zoom into Antaloor:</i></strong> Detailed maps with lots of pointers and locations<br></li><li><strong><i>Total Overview:</i></strong> The Quest Index helps you target specific solution methods - every time!<br></li><li><strong><i>Complete Bestiarium:</i></strong> Inside information on your opponents' classes - including their strengths and weaknesses!<br></li><li><strong><i>Become a Potions Professional:</i></strong> Take an informative trip into the secret world of Alchemy!</li></ul>",
-  "short_description": "Aye, friend... the world of Antaloor is indeed enormous... but don't worry - you can't get lost! With the Official Strategy Guide for Two Worlds - directly from the developers - you'll never miss out one single adventure, solve the trickiest of quests and  find the weak spots of your strongest opponents! This is every hero's dream!",
+  "short_description": "Aye, friend... the world of Antaloor is indeed enormous... but don't worry - you can't get lost! With the Official Strategy Guide for Two Worlds - directly from the developers - you'll never miss out one single adventure, solve the trickiest of quests and find the weak spots of your strongest opponents! This is every hero's dream!",
   "fullgame": {
     "appid": "1930",
     "name": "Two Worlds Epic Edition"
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 149,
-    "discount_percent": 85
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     44122
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 44122,
-          "percent_savings_text": "-85%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Two Worlds Strategy Guide - <span class=\"discount_original_price\">9,99\u20ac</span> 1,49\u20ac",
+          "option_text": "Two Worlds Strategy Guide - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 149
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -156,6 +158,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/301210/ss_46267197eee78b237b11786876fa9a9739c41a4a.1920x1080.jpg?t=1447361857"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 May, 2015"
@@ -164,5 +169,9 @@
     "url": "http://www.2-worlds.com/confirm.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/301210/page_bg_generated_v6b.jpg?t=1447361857"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/301210/page_bg_generated_v6b.jpg?t=1447361857",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

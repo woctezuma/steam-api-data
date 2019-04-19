@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     242672
@@ -167,5 +169,9 @@
     "url": "http://www.rcmadiax.com",
     "email": "bossguy@rcmadiax.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/798720/page_bg_generated_v6b.jpg?t=1519949227"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/798720/page_bg_generated_v6b.jpg?t=1519949227",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

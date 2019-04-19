@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     226924
@@ -125,6 +127,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Dec, 2017"
@@ -133,5 +138,9 @@
     "url": "",
     "email": "erosvr.contact@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/767130/page_bg_generated_v6b.jpg?t=1514224782"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/767130/page_bg_generated_v6b.jpg?t=1514224782",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The SciFi Interior Model Pack provides all the props and textures you need to create your own high-tech sci-fi game environments.  All content is ready to use with Leadwerks Game Engine, with no tweaking or adjusting required.  Objects are designed to be easily aligned so you can build your scene quickly and revise it as often as you like.  The included objects can be reused in many different ways to create a variety of science-fiction themed environments.<h2 class=\"bb_tag\">Contents</h2><ul class=\"bb_ul\"><li>25 environment models including panels, pipes, supports, machinery, with predefined physics shapes for each object.<br></li><li>56 materials with 1024x1024 textures, including model skins, with diffuse, normal, and specular maps for each.</li></ul><ul class=\"bb_ul\"><li>Example scenes to demonstrate usage and provide ideas.</li></ul><h2 class=\"bb_tag\">Installing the DLC</h2>To install this DLC, select the &quot;Workshop &gt; Browse Workshop&quot; (or &quot;Manage AddOns&quot; in Linux) menu in the main window.  Select the &quot;Subscribed&quot; tab and choose this DLC in the list.  Press the Install button, and the DLC contents will be added to your current project.",
   "about_the_game": "The SciFi Interior Model Pack provides all the props and textures you need to create your own high-tech sci-fi game environments.  All content is ready to use with Leadwerks Game Engine, with no tweaking or adjusting required.  Objects are designed to be easily aligned so you can build your scene quickly and revise it as often as you like.  The included objects can be reused in many different ways to create a variety of science-fiction themed environments.<h2 class=\"bb_tag\">Contents</h2><ul class=\"bb_ul\"><li>25 environment models including panels, pipes, supports, machinery, with predefined physics shapes for each object.<br></li><li>56 materials with 1024x1024 textures, including model skins, with diffuse, normal, and specular maps for each.</li></ul><ul class=\"bb_ul\"><li>Example scenes to demonstrate usage and provide ideas.</li></ul><h2 class=\"bb_tag\">Installing the DLC</h2>To install this DLC, select the &quot;Workshop &gt; Browse Workshop&quot; (or &quot;Manage AddOns&quot; in Linux) menu in the main window.  Select the &quot;Subscribed&quot; tab and choose this DLC in the list.  Press the Install button, and the DLC contents will be added to your current project.",
-  "short_description": "The SciFi Interior Construction Kit provides all the props and textures you need to create your own spooky sci-fi game environments.  All content is ready to use with Leadwerks Game Engine, with no tweaking or adjusting required.  Objects are designed to be easily aligned so you can build your scene quickly and revise it as often as you like.",
+  "short_description": "The SciFi Interior Construction Kit provides all the props and textures you need to create your own spooky sci-fi game environments. All content is ready to use with Leadwerks Game Engine, with no tweaking or adjusting required.",
   "fullgame": {
     "appid": "251810",
     "name": "Leadwerks Game Engine"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     48090
@@ -160,5 +162,9 @@
     "url": "http://www.leadwerks.com/werkspace/page/Company/contact",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/315490/page_bg_generated_v6b.jpg?t=1462402108"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/315490/page_bg_generated_v6b.jpg?t=1462402108",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

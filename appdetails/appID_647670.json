@@ -3,12 +3,12 @@
   "name": "Grand Expanse",
   "steam_appid": 647670,
   "required_age": 0,
-  "is_free": true,
-  "detailed_description": "Transport yourself to another world in this surreal mobile VR music video for Martina Sorbara and The Tiny Sun's track \u201cGrand Expanse&quot;. The project was co-developed by Tendril and Drew Lightfoot (of Someplace Nice) as a design-driven VR music video in early 2015 for Samsung Gear. The dreamlike experience was created by using a combination of beautifully constructed 3D + 2D assets. The finishing touch was our heroine Martina Sorbara\u2019s performance, captured live as point cloud data that was then projected into the 360-degree animated wonderland \u2014 culminating in an immersive \u2018grand expanse\u2019.",
-  "about_the_game": "Transport yourself to another world in this surreal mobile VR music video for Martina Sorbara and The Tiny Sun's track \u201cGrand Expanse&quot;. The project was co-developed by Tendril and Drew Lightfoot (of Someplace Nice) as a design-driven VR music video in early 2015 for Samsung Gear. The dreamlike experience was created by using a combination of beautifully constructed 3D + 2D assets. The finishing touch was our heroine Martina Sorbara\u2019s performance, captured live as point cloud data that was then projected into the 360-degree animated wonderland \u2014 culminating in an immersive \u2018grand expanse\u2019.",
+  "is_free": false,
+  "detailed_description": "Transport yourself to another world in this surreal mobile VR music video for Martina Sorbara and The Tiny Sun's track \u201cGrand Expanse&quot;. The project was co-developed by Tendril and Drew Lightfoot (of Someplace Nice) as a design-driven VR music video in early 2015 for Samsung Gear. The dreamlike experience was created by using a combination of beautifully constructed 3D + 2D assets. The finishing touch was our heroine Martina Sorbara\u2019s performance, captured live as point cloud data that was then projected into the 360-degree animated wonderland \u2014 culminating in an immersive \u2018grand expanse\u2019. Built to be an age-neutral and inclusive experience, the participant needs only to gently move their head around in order to calmly interact with this ethereal space.",
+  "about_the_game": "Transport yourself to another world in this surreal mobile VR music video for Martina Sorbara and The Tiny Sun's track \u201cGrand Expanse&quot;. The project was co-developed by Tendril and Drew Lightfoot (of Someplace Nice) as a design-driven VR music video in early 2015 for Samsung Gear. The dreamlike experience was created by using a combination of beautifully constructed 3D + 2D assets. The finishing touch was our heroine Martina Sorbara\u2019s performance, captured live as point cloud data that was then projected into the 360-degree animated wonderland \u2014 culminating in an immersive \u2018grand expanse\u2019. Built to be an age-neutral and inclusive experience, the participant needs only to gently move their head around in order to calmly interact with this ethereal space.",
   "short_description": "Grand Expanse is a VR music video for Martina Sorbara and The Tiny Sun's track \u201cGrand Expanse",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/647670/header.jpg?t=1508946153",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/647670/header.jpg?t=1553903866",
   "website": "http://grandexpanse.tendril.ca/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8, windows 8.1, windows 10<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvideo GeForce GTX 780<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
@@ -22,7 +22,40 @@
   "publishers": [
     "Tendril Studio"
   ],
-  "package_groups": [],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
+  },
+  "packages": [
+    353067
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Grand Expanse",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 353067,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Grand Expanse - 0,79\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 79
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -41,28 +74,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_65b605398045a66954daba98ad6721b0cbcf6b90.600x338.jpg?t=1508946153",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_65b605398045a66954daba98ad6721b0cbcf6b90.1920x1080.jpg?t=1508946153"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_65b605398045a66954daba98ad6721b0cbcf6b90.600x338.jpg?t=1553903866",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_65b605398045a66954daba98ad6721b0cbcf6b90.1920x1080.jpg?t=1553903866"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_6deaf77fc57a873c8abb83fb47a94b3d6c63e233.600x338.jpg?t=1508946153",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_6deaf77fc57a873c8abb83fb47a94b3d6c63e233.1920x1080.jpg?t=1508946153"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_6deaf77fc57a873c8abb83fb47a94b3d6c63e233.600x338.jpg?t=1553903866",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_6deaf77fc57a873c8abb83fb47a94b3d6c63e233.1920x1080.jpg?t=1553903866"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_1b57d2ef943abb2f79d9b3534bec9518e63a36a2.600x338.jpg?t=1508946153",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_1b57d2ef943abb2f79d9b3534bec9518e63a36a2.1920x1080.jpg?t=1508946153"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_1b57d2ef943abb2f79d9b3534bec9518e63a36a2.600x338.jpg?t=1553903866",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_1b57d2ef943abb2f79d9b3534bec9518e63a36a2.1920x1080.jpg?t=1553903866"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_1258b7af01c985c721e21d98506a36837a14097a.600x338.jpg?t=1508946153",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_1258b7af01c985c721e21d98506a36837a14097a.1920x1080.jpg?t=1508946153"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_1258b7af01c985c721e21d98506a36837a14097a.600x338.jpg?t=1553903866",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_1258b7af01c985c721e21d98506a36837a14097a.1920x1080.jpg?t=1553903866"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_d0057d81bd86b8fa56dc84e7b28e51b78138e4df.600x338.jpg?t=1508946153",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_d0057d81bd86b8fa56dc84e7b28e51b78138e4df.1920x1080.jpg?t=1508946153"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_d0057d81bd86b8fa56dc84e7b28e51b78138e4df.600x338.jpg?t=1553903866",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647670/ss_d0057d81bd86b8fa56dc84e7b28e51b78138e4df.1920x1080.jpg?t=1553903866"
     }
   ],
   "movies": [
@@ -77,6 +110,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Aug, 2017"
@@ -85,5 +121,9 @@
     "url": "http://tendril.ca",
     "email": "Molly@tendril.ca"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/647670/page_bg_generated_v6b.jpg?t=1508946153"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/647670/page_bg_generated_v6b.jpg?t=1553903866",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

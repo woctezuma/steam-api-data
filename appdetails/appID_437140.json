@@ -11,7 +11,7 @@
     "appid": "312370",
     "name": "Warhammer 40,000: Armageddon"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Spanish, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/437140/header.jpg?t=1497966004",
   "website": "http://armageddon.slitherine.com",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     91900
@@ -115,6 +117,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/437140/ss_3d52fa51dbfc627629b09546a0c50d407f09183e.1920x1080.jpg?t=1497966004"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Mar, 2016"
@@ -123,5 +128,9 @@
     "url": "www.slitherine.co.uk",
     "email": "support@slitherine.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437140/page_bg_generated_v6b.jpg?t=1497966004"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437140/page_bg_generated_v6b.jpg?t=1497966004",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

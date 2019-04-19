@@ -31,10 +31,12 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
-    "231840"
+    231840
   ],
   "package_groups": [
     {
@@ -47,7 +49,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "231840",
+          "packageid": 231840,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "The Legend of Heroes: Trails of Cold Steel II - Shining Pom Bait Value Set 1 - 2,99\u20ac",
@@ -108,6 +110,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/773805/ss_580da5b8f4bf02dae61038a0517c63f91c9e7c4d.1920x1080.jpg?t=1518630743"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Feb, 2018"
@@ -116,5 +121,9 @@
     "url": "",
     "email": "support@xseedgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/773805/page_bg_generated_v6b.jpg?t=1518630743"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/773805/page_bg_generated_v6b.jpg?t=1518630743",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

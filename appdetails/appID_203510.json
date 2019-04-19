@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     13354,
@@ -125,7 +127,10 @@
     }
   ],
   "recommendations": {
-    "total": 626
+    "total": 590
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -135,5 +140,9 @@
     "url": "http://www.carpefulgur.com/",
     "email": "support@carpefulgur.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/203510/page_bg_generated_v6b.jpg?t=1493504179"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/203510/page_bg_generated_v6b.jpg?t=1493504179",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

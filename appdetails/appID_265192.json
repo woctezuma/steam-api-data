@@ -7,21 +7,21 @@
   "controller_support": "full",
   "detailed_description": "Get access to an exclusive bundle of optional in-game consumables that can empower you and hasten your progression through THIEF.<h2 class=\"bb_tag\">The Predator Booster Pack contains the following items:</h2><br><br><ul class=\"bb_ul\"><li> Bow Balancing Level 3 (Massively reduces aiming time)<br></li><li> Sawtooth arrows (10)<br></li><li> Food (10)<br></li><li> Gold (750)</li></ul>",
   "about_the_game": "Get access to an exclusive bundle of optional in-game consumables that can empower you and hasten your progression through THIEF.<h2 class=\"bb_tag\">The Predator Booster Pack contains the following items:</h2><br><br><ul class=\"bb_ul\"><li> Bow Balancing Level 3 (Massively reduces aiming time)<br></li><li> Sawtooth arrows (10)<br></li><li> Food (10)<br></li><li> Gold (750)</li></ul>",
-  "short_description": "",
+  "short_description": "Get access to an exclusive bundle of optional in-game consumables that can empower you and hasten your progression through THIEF.The Predator Booster Pack contains the following items: Bow Balancing Level 3 (Massively reduces aiming time) Sawtooth arrows (10) Food (10) Gold...",
   "fullgame": {
     "appid": "239160",
     "name": "Thief"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong>, Polish, Czech<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/265192/header.jpg?t=1479338725",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish, Czech<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/265192/header.jpg?t=1548685727",
   "website": "http://www.thiefgame.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista with Platform Update for Windows Vista<br></li><li><strong>Processor:</strong> High-Performance Dual Core CPU or Quad Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon 4800 series / Nvidia GTS 250<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8<br></li><li><strong>Processor:</strong> AMD FX 8000 series or better / Intel Quad i7 Core CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon HD R9 series or better / Nvdia GTX 660 series or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.10.5<br></li><li><strong>Processor:</strong> 1.8 GHz<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> 1 GB*<br></li><li><strong>Storage:</strong> 30 MB available space<br></li><li><strong>Additional Notes:</strong> * Nvidia 6xx series, AMD 5000 series or Intel Iris Pro required.</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.11.1<br></li><li><strong>Processor:</strong> 2.4 GHz<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong> 2 GB*<br></li><li><strong>Storage:</strong> 30 MB available space<br></li><li><strong>Additional Notes:</strong> * Nvidia 6xx series, AMD 5000 series or Intel Iris Pro required.</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.10.5<br></li><li><strong>Processor:</strong> 1.8 GHz<br></li><li><strong>Memory:</strong> 4 MB RAM<br></li><li><strong>Graphics:</strong> 1 GB*<br></li><li><strong>Storage:</strong> 30 MB available space<br></li><li><strong>Additional Notes:</strong> <ul class=\"bb_ul\"> <li> * Nvidia 6xx series, AMD 5000 series or Intel Iris Pro required. </li><li> * Due to a graphics card driver issue, Thief is not supported on AMD graphics cards in macOS 10.12 Sierra and later </li></ul></li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.11.1<br></li><li><strong>Processor:</strong> 2.4 GHz<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong> 2 GB*<br></li><li><strong>Storage:</strong> 30 MB available space<br></li><li><strong>Additional Notes:</strong> <ul class=\"bb_ul\"> <li> * Nvidia 6xx series, AMD 5000 series or Intel Iris Pro required. </li><li> * Due to a graphics card driver issue, Thief is not supported on AMD graphics cards in macOS 10.12 Sierra and later </li></ul></li></ul>"
   },
   "linux_requirements": [],
   "legal_notice": "Thief \u00a9 2014 Square Enix Ltd. All rights reserved. Developed by Eidos-Montr\u00e9al. THIEF, the THIEF logo, EIDOS-MONTR\u00c9AL and the EIDOS logo are trademarks of Square Enix Ltd. SQUARE ENIX and the SQUARE ENIX logo are trademarks or registered trademarks of Square Enix Holdings Co., Ltd. All other trademarks are the property of their respective owners.",
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     34587,
@@ -128,20 +130,23 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/265192/ss_3538ca547fd567ef524baeaa271d998e47dee711.600x338.jpg?t=1479338725",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/265192/ss_3538ca547fd567ef524baeaa271d998e47dee711.1920x1080.jpg?t=1479338725"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/265192/ss_3538ca547fd567ef524baeaa271d998e47dee711.600x338.jpg?t=1548685727",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/265192/ss_3538ca547fd567ef524baeaa271d998e47dee711.1920x1080.jpg?t=1548685727"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/265192/ss_c0f5650efcd6c934e8b2cbc38faf8639ffc5eb7e.600x338.jpg?t=1479338725",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/265192/ss_c0f5650efcd6c934e8b2cbc38faf8639ffc5eb7e.1920x1080.jpg?t=1479338725"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/265192/ss_c0f5650efcd6c934e8b2cbc38faf8639ffc5eb7e.600x338.jpg?t=1548685727",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/265192/ss_c0f5650efcd6c934e8b2cbc38faf8639ffc5eb7e.1920x1080.jpg?t=1548685727"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/265192/ss_e144f5e91e85556594b585fa67c3aab7d25b23fb.600x338.jpg?t=1479338725",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/265192/ss_e144f5e91e85556594b585fa67c3aab7d25b23fb.1920x1080.jpg?t=1479338725"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/265192/ss_e144f5e91e85556594b585fa67c3aab7d25b23fb.600x338.jpg?t=1548685727",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/265192/ss_e144f5e91e85556594b585fa67c3aab7d25b23fb.1920x1080.jpg?t=1548685727"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Feb, 2014"
@@ -150,5 +155,9 @@
     "url": "http://sqex.to/steamsupport",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/265192/page_bg_generated_v6b.jpg?t=1479338725"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/265192/page_bg_generated_v6b.jpg?t=1548685727",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

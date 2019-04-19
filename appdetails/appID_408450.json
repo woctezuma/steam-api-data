@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     80865,
@@ -63,11 +65,11 @@
           "packageid": 80886,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Last Days of Spring Visual Novel + Soundtrack - 3,99\u20ac",
+          "option_text": "Last Days of Spring Visual Novel + Soundtrack - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -108,5 +110,9 @@
     "url": "http://sapphiredragonproductions.com/",
     "email": "admin@sapphiredragonproductions.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/408450/page_bg_generated_v6b.jpg?t=1478032495"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/408450/page_bg_generated_v6b.jpg?t=1478032495",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

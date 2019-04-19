@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Originally exclusive to Kickstarter Backers, this is now available to everyone.<br />\r\n<br />\r\nContains 5 original manga chapters each by a different artist.",
   "about_the_game": "Originally exclusive to Kickstarter Backers, this is now available to everyone.<br />\r\n<br />\r\nContains 5 original manga chapters each by a different artist.",
-  "short_description": "Originally exclusive to Kickstarter Backers, this is now available to everyone.<br />\r\n<br />\r\nContains 5 original manga chapters each by a different artist.",
+  "short_description": "Originally exclusive to Kickstarter Backers, this is now available to everyone. Contains 5 original manga chapters each by a different artist.",
   "fullgame": {
     "appid": "324160",
     "name": "CLANNAD"
@@ -27,10 +27,12 @@
     "Sekai Project"
   ],
   "price_overview": {
-    "currency": "USD",
+    "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     122095
@@ -49,7 +51,7 @@
           "packageid": 122095,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "CLANNAD - Anthology Manga - $12.99",
+          "option_text": "CLANNAD - Anthology Manga - 12,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -90,13 +92,20 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/519110/ss_76a062c78415426c1cedce3985f0c6652be95257.1920x1080.jpg?t=1490989272"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
-    "date": "Mar 31, 2017"
+    "date": "31 Mar, 2017"
   },
   "support_info": {
     "url": "",
     "email": "support@sekaiproject.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519110/page_bg_generated_v6b.jpg?t=1490989272"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519110/page_bg_generated_v6b.jpg?t=1490989272",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

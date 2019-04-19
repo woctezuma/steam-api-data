@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Animal Pack #1 unlocks the Animal Pack #1 creatures in the game ANIMALITY<br />\r\n<br />\r\n\u2605 Crocodile<br />\r\n\u2605 Hippo<br />\r\n\u2605 Hamster<br />\r\n\u2605 Monkey<br />\r\n\u2605 Rhino<br />\r\n\u2605 Penguin",
   "about_the_game": "Animal Pack #1 unlocks the Animal Pack #1 creatures in the game ANIMALITY<br />\r\n<br />\r\n\u2605 Crocodile<br />\r\n\u2605 Hippo<br />\r\n\u2605 Hamster<br />\r\n\u2605 Monkey<br />\r\n\u2605 Rhino<br />\r\n\u2605 Penguin",
-  "short_description": "Animal Pack #1 unlocks the Animal Pack #1 creatures in the game ANIMALITY<br />\r\n<br />\r\n\u2605 Crocodile<br />\r\n\u2605 Hippo<br />\r\n\u2605 Hamster<br />\r\n\u2605 Monkey<br />\r\n\u2605 Rhino<br />\r\n\u2605 Penguin",
+  "short_description": "Animal Pack #1 unlocks the Animal Pack #1 creatures in the game ANIMALITY \u2605 Crocodile \u2605 Hippo \u2605 Hamster \u2605 Monkey \u2605 Rhino \u2605 Penguin",
   "fullgame": {
     "appid": "576470",
     "name": "ANIMALITY"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     146965
@@ -126,5 +128,9 @@
     "url": "",
     "email": "lee@phatphrogstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576520/page_bg_generated_v6b.jpg?t=1486051183"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576520/page_bg_generated_v6b.jpg?t=1486051183",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

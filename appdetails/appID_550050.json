@@ -4,8 +4,8 @@
   "steam_appid": 550050,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/550050/extras/DLC_Info_EN.png?t=1480067214\" ><h2 class=\"bb_tag\">VIP PACK</h2><br>Play Kuboom like BOSS!<br><br><ul class=\"bb_ul\"><li>Life time VIP<br></li><li>Secret weapons included<br></li><li>Secret skins</li></ul>",
-  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/550050/extras/DLC_Info_EN.png?t=1480067214\" ><h2 class=\"bb_tag\">VIP PACK</h2><br>Play Kuboom like BOSS!<br><br><ul class=\"bb_ul\"><li>Life time VIP<br></li><li>Secret weapons included<br></li><li>Secret skins</li></ul>",
+  "detailed_description": "<img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/550050/extras/DLC_Info_EN.png?t=1480067214\" crossorigin=\"anonymous\"><h2 class=\"bb_tag\">VIP PACK</h2><br>Play Kuboom like BOSS!<br><br><ul class=\"bb_ul\"><li>Life time VIP<br></li><li>Secret weapons included<br></li><li>Secret skins</li></ul>",
+  "about_the_game": "<img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/550050/extras/DLC_Info_EN.png?t=1480067214\" crossorigin=\"anonymous\"><h2 class=\"bb_tag\">VIP PACK</h2><br>Play Kuboom like BOSS!<br><br><ul class=\"bb_ul\"><li>Life time VIP<br></li><li>Secret weapons included<br></li><li>Secret skins</li></ul>",
   "short_description": "Play Kuboom like BOSS!",
   "fullgame": {
     "appid": "513000",
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     136178
@@ -143,5 +145,9 @@
     "url": "http://nobodyshot.com/",
     "email": "mail@nobodyshot.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/550050/page_bg_generated_v6b.jpg?t=1480067214"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/550050/page_bg_generated_v6b.jpg?t=1480067214",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

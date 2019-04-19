@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     190422
@@ -110,6 +112,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/669590/ss_a1ac8ad653507928dfa98511f501fe61362e9df5.1920x1080.jpg?t=1506958337"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Jul, 2017"
@@ -118,5 +123,9 @@
     "url": "https://greenmangaming.zendesk.com/hc/en-us/requests/new",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/669590/page_bg_generated_v6b.jpg?t=1506958337"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/669590/page_bg_generated_v6b.jpg?t=1506958337",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

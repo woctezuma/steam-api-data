@@ -15,7 +15,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/551790/header.jpg?t=1491982840",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> XP/Vista/7/8.1/10<br></li><li><strong>Processor:</strong> Intel Core 2 Duo equivalent or higher<br></li><li><strong>Memory:</strong> 1536 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Geforce7600 equivalent or higher<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 7 GB available space<br></li><li><strong>Sound Card:</strong> Support for PCM playback<br></li><li><strong>Additional Notes:</strong> Pixel Shader 2.0 or higher (GeForce/Radeon)</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> XP/Vista/7/8.1/10<br></li><li><strong>Processeur\u00a0:</strong> Intel Core 2 Duo equivalent or higher<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1536 MB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> NVIDIA Geforce7600 equivalent or higher<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0c<br></li><li><strong>Espace disque\u00a0:</strong> 7 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> Support for PCM playback<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Pixel Shader 2.0 or higher (GeForce/Radeon)</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     136959
@@ -147,6 +149,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Dec, 2016"
@@ -155,5 +160,12 @@
     "url": "",
     "email": "ask@frontwing.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/551790/page_bg_generated_v6b.jpg?t=1491982840"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/551790/page_bg_generated_v6b.jpg?t=1491982840",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     41081
@@ -138,7 +140,10 @@
     }
   ],
   "recommendations": {
-    "total": 309
+    "total": 290
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -148,5 +153,9 @@
     "url": "http://www.finalhoursoftitanfall.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/292060/page_bg_generated_v6b.jpg?t=1447361130"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/292060/page_bg_generated_v6b.jpg?t=1447361130",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

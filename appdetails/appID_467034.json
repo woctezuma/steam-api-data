@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Includes the costume items 'GaGaGa Ribbon' and 'Golden GaGaGa Ribbon.'",
   "about_the_game": "Includes the costume items 'GaGaGa Ribbon' and 'Golden GaGaGa Ribbon.'",
-  "short_description": "Includes the costume items 'GaGaGa Ribbon' and 'Golden GaGaGa Ribbon.'",
+  "short_description": "Includes the costume items 'GaGaGa Ribbon' and 'Golden GaGaGa Ribbon.",
   "fullgame": {
     "appid": "446390",
     "name": "Onechanbara Z2: Chaos"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     102729
@@ -109,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467034/ss_d4eedba149b02713a82ac800e1f849191f67957a.1920x1080.jpg?t=1466042830"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jun, 2016"
@@ -117,5 +122,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467034/page_bg_generated_v6b.jpg?t=1466042830"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467034/page_bg_generated_v6b.jpg?t=1466042830",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

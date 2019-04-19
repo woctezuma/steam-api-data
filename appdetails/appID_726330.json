@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     211577
@@ -44,11 +46,11 @@
           "packageid": 211577,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Ocean's Crabellum - 0,99\u20ac",
+          "option_text": "Ocean's Crabellum - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -189,5 +191,9 @@
     "url": "",
     "email": "crabellum@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/726330/page_bg_generated_v6b.jpg?t=1508843604"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/726330/page_bg_generated_v6b.jpg?t=1508843604",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

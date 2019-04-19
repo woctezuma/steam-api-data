@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     114812
@@ -147,6 +149,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Dec, 2016"
@@ -155,5 +160,9 @@
     "url": "http://www.midastouchgame.com/contact.html",
     "email": "support@midastouchgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/500480/page_bg_generated_v6b.jpg?t=1485504623"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/500480/page_bg_generated_v6b.jpg?t=1485504623",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

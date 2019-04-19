@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 3699,
     "final": 3699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "36,99\u20ac"
   },
   "packages": [
     139660
@@ -119,6 +121,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/558130/ss_01fe4f469536df1ac34d0f0ace9183df7fe280bc.1920x1080.jpg?t=1479951932"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Nov, 2016"
@@ -127,5 +132,9 @@
     "url": "https://neople.zendesk.com/hc/en-us/requests/new",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/558130/page_bg_generated_v6b.jpg?t=1479951932"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/558130/page_bg_generated_v6b.jpg?t=1479951932",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

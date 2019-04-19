@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     103112
@@ -164,6 +166,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 May, 2016"
@@ -172,5 +177,9 @@
     "url": "",
     "email": "yutput1@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467910/page_bg_generated_v6b.jpg?t=1464124508"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467910/page_bg_generated_v6b.jpg?t=1464124508",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -25,10 +25,13 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
-    242126
+    242126,
+    336765
   ],
   "package_groups": [
     {
@@ -45,6 +48,16 @@
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Fantasy Mosaics 21: On the Movie Set - 6,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 699
+        },
+        {
+          "packageid": 336765,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Fantasy Mosaics 21: On the Movie Set - Commercial License - 6,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -117,6 +130,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Feb, 2018"
@@ -125,5 +141,9 @@
     "url": "http://www.matchgems.com",
     "email": "andyforsaken@yahoo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/797300/page_bg_generated_v6b.jpg?t=1519727408"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/797300/page_bg_generated_v6b.jpg?t=1519727408",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

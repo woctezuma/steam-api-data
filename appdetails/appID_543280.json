@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Create music - with lasers in VR !</strong><br><br>Play on a simulation of the Laser Harp from the 80's, with original samples taken from an Elka Synthex for an authentic experience.<br><br>Change octaves and scales from the controller to provide a full keyboard from C1 to D4 that you can control on-the-fly, this is a close simulation - including the limitations of that original 1980s system with just a few tweaks for convenience (the original didn't have multi-coloured lasers!) .  This is aimed at enthusiasts so isn't a game, just your opportunity to play a Laser Harp.<br><br><strong>*** Tracked Controller Support Note ***</strong><br>The controls are optimised for the HTC Vive however Occulus Touch controllers do work, improvements to customise the UI and responsiveness for starting the Memory Game mode will be in a future update along with Touch controller specific instructions.",
   "about_the_game": "<strong>Create music - with lasers in VR !</strong><br><br>Play on a simulation of the Laser Harp from the 80's, with original samples taken from an Elka Synthex for an authentic experience.<br><br>Change octaves and scales from the controller to provide a full keyboard from C1 to D4 that you can control on-the-fly, this is a close simulation - including the limitations of that original 1980s system with just a few tweaks for convenience (the original didn't have multi-coloured lasers!) .  This is aimed at enthusiasts so isn't a game, just your opportunity to play a Laser Harp.<br><br><strong>*** Tracked Controller Support Note ***</strong><br>The controls are optimised for the HTC Vive however Occulus Touch controllers do work, improvements to customise the UI and responsiveness for starting the Memory Game mode will be in a future update along with Touch controller specific instructions.",
-  "short_description": "Simulation of the Laser Harp used from the 80's, with original samples taken from an Elka Synthex for the authentic experience.<br />\r\nChange octaves and scales to provide a full keyboard, this is a close simulation including the limitations of that original system.",
+  "short_description": "Simulation of the Laser Harp used from the 80's, with original samples taken from an Elka Synthex for the authentic experience. Change octaves and scales to provide a full keyboard, this is a close simulation including the limitations of that original system.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/543280/header.jpg?t=1483968811",
   "website": "https://geekyleek.com/",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     133770
@@ -118,6 +120,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Nov, 2016"
@@ -126,5 +131,9 @@
     "url": "https://geekyleek.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/543280/page_bg_generated_v6b.jpg?t=1483968811"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/543280/page_bg_generated_v6b.jpg?t=1483968811",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

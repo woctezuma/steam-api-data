@@ -11,7 +11,7 @@
     "appid": "306020",
     "name": "Bloons TD 5"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Danish, Finnish, Japanese, Korean, Norwegian, Portuguese-Brazil, Russian, Swedish, Turkish",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Danish, Finnish, Japanese, Korean, Norwegian, Portuguese - Brazil, Russian, Swedish, Turkish",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/820232/header.jpg?t=1522426076",
   "website": "http://ninjakiwi.com",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     251433
@@ -136,6 +138,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820232/ss_308f7c0516a33dbd9bebedce70c6584f743cfa3c.1920x1080.jpg?t=1522426076"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Mar, 2018"
@@ -144,5 +149,9 @@
     "url": "http://support.ninjakiwi.com",
     "email": "support@ninjakiwi.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/820232/page_bg_generated_v6b.jpg?t=1522426076"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/820232/page_bg_generated_v6b.jpg?t=1522426076",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

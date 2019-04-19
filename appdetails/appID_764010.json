@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     225850
@@ -117,6 +119,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Dec, 2017"
@@ -125,5 +130,9 @@
     "url": "",
     "email": "support@runserver.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/764010/page_bg_generated_v6b.jpg?t=1513972039"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/764010/page_bg_generated_v6b.jpg?t=1513972039",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Add action game and mahjong game, then do not divide by 2!<br />\r\nA game that forcibly merged action game and mahjong appeared!<br />\r\nOf course, since it is Mahjong, up to 4 players are allowed.<br />\r\nHands that cannot be made normally can dramatically be made, every player can become a winner, and gameplay is excellent too!<br />\r\nA lot of new strategies that were not in Mahjong are included, so a new page...even a new chapter is added to the history of Mahjong!",
   "about_the_game": "Add action game and mahjong game, then do not divide by 2!<br />\r\nA game that forcibly merged action game and mahjong appeared!<br />\r\nOf course, since it is Mahjong, up to 4 players are allowed.<br />\r\nHands that cannot be made normally can dramatically be made, every player can become a winner, and gameplay is excellent too!<br />\r\nA lot of new strategies that were not in Mahjong are included, so a new page...even a new chapter is added to the history of Mahjong!",
-  "short_description": "Don't draw the tiles you want! Push and get them!<br />\r\nA new mahjong game that goes beyond mahjong, a mah-jong game that will play the most exciting and make the biggest noise ever in history, is here at last!",
+  "short_description": "Don't draw the tiles you want! Push and get them! A new mahjong game that goes beyond mahjong, a mah-jong game that will play the most exciting and make the biggest noise ever in history, is here at last!",
   "supported_languages": "Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/575810/header.jpg?t=1487937560",
   "website": "http://pinball.co.jp/games/AM4P/",
@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 749,
+    "discount_percent": 25,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "7,49\u20ac"
   },
   "packages": [
     146741
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 146741,
-          "percent_savings_text": "",
+          "percent_savings_text": "-25%",
           "percent_savings": 0,
-          "option_text": "\uff14\u4eba\u6253\u3061\u30a2\u30af\u30b7\u30e7\u30f3\u9ebb\u96c0 / ACTION MAHJONG - 9,99\u20ac",
+          "option_text": "\uff14\u4eba\u6253\u3061\u30a2\u30af\u30b7\u30e7\u30f3\u9ebb\u96c0 / ACTION MAHJONG - <span class=\"discount_original_price\">9,99\u20ac</span> 7,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 749
         }
       ]
     }
@@ -199,5 +201,9 @@
     "url": "http://pinball.co.jp",
     "email": "albert@pinball.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/575810/page_bg_generated_v6b.jpg?t=1487937560"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/575810/page_bg_generated_v6b.jpg?t=1487937560",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

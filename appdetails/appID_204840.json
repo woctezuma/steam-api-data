@@ -1,14 +1,19 @@
 {
-  "type": "game",
+  "type": "video",
   "name": "Babel Rising",
   "steam_appid": 204840,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "Babel Rising lets you play as a God and use your powers to prevent humans from building the Tower of Babel. Hurl bolts of lightning, cause massive earthquakes, or unleash gigantic floods upon the Babylonians.<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li><strong>Prevent the Rise of Babylon</strong><br><br>Prevent humans from building three different towers of Babel throughout different historic eras, in 15 single-player missions across 4 game modes.<br></li><li><strong>Babylon Will Perish</strong><br><br>Thwart a wide variety of Babylonians united in their desire to build the tower, always looking for the quickest path to the top. Workers carry stones, priests protect workers from spells, and siege towers help them access upper levels faster.<br></li><li><strong>You are in Control of the Elements</strong><br><br>Unleash devastating elemental attacks based on fire, water, earth and air, each with a unique effect depending on the target. Throw fireballs, release tornadoes, rain meteors, and much more. As you progress, your powers become deadlier and more powerful than ever.<br></li><li><strong>Battle with or Against Friends</strong><br><br>Enjoy competitive and cooperative multiplayer modes.</li></ul>",
+  "controller_support": "full",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Babel Rising lets you play as a God and use your powers to prevent humans from building the Tower of Babel. Hurl bolts of lightning, cause massive earthquakes, or unleash gigantic floods upon the Babylonians.<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li><strong>Prevent the Rise of Babylon</strong><br><br>Prevent humans from building three different towers of Babel throughout different historic eras, in 15 single-player missions across 4 game modes.<br></li><li><strong>Babylon Will Perish</strong><br><br>Thwart a wide variety of Babylonians united in their desire to build the tower, always looking for the quickest path to the top. Workers carry stones, priests protect workers from spells, and siege towers help them access upper levels faster.<br></li><li><strong>You are in Control of the Elements</strong><br><br>Unleash devastating elemental attacks based on fire, water, earth and air, each with a unique effect depending on the target. Throw fireballs, release tornadoes, rain meteors, and much more. As you progress, your powers become deadlier and more powerful than ever.<br></li><li><strong>Battle with or Against Friends</strong><br><br>Enjoy competitive and cooperative multiplayer modes.</li></ul>",
   "about_the_game": "Babel Rising lets you play as a God and use your powers to prevent humans from building the Tower of Babel. Hurl bolts of lightning, cause massive earthquakes, or unleash gigantic floods upon the Babylonians.<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li><strong>Prevent the Rise of Babylon</strong><br><br>Prevent humans from building three different towers of Babel throughout different historic eras, in 15 single-player missions across 4 game modes.<br></li><li><strong>Babylon Will Perish</strong><br><br>Thwart a wide variety of Babylonians united in their desire to build the tower, always looking for the quickest path to the top. Workers carry stones, priests protect workers from spells, and siege towers help them access upper levels faster.<br></li><li><strong>You are in Control of the Elements</strong><br><br>Unleash devastating elemental attacks based on fire, water, earth and air, each with a unique effect depending on the target. Throw fireballs, release tornadoes, rain meteors, and much more. As you progress, your powers become deadlier and more powerful than ever.<br></li><li><strong>Battle with or Against Friends</strong><br><br>Enjoy competitive and cooperative multiplayer modes.</li></ul>",
   "short_description": "Use your powers to prevent humans from building the Tower of Babel. Hurl bolts of lightning, cause massive earthquakes, or unleash gigantic floods!",
-  "supported_languages": "English, French, German, Italian, Portuguese-Brazil, Russian, Spanish",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/204840/header.jpg?t=1447355180",
+  "fullgame": {
+    "appid": null,
+    "name": "Uninitialized"
+  },
+  "supported_languages": "English, French, German, Italian, Portuguese - Brazil, Russian, Spanish - Spain",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/204840/header.jpg?t=1542216282",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae XP (SP3), Windows\u00ae Vista (SP2), Windows\u00ae 7 (SP1)<br>\t</li><li><strong>Processor:</strong> 3.4 GHz Intel\u00ae Pentium\u00ae D 945  or AMD\u00ae Athlon\u2122 64 X2 3800+  2.0Ghz or faster<br>\t</li><li><strong>Memory:</strong> 1 GB Windows XP / 1.5 GB Windows\u00ae Vista, Windows\u00ae 7 <br>\t</li><li><strong>Graphics:</strong> 128 MB DirectX\u00ae 9.0-compliant card with Shader Model 3.0 or higher (see supported list)<br>\t</li><li><strong>DirectX\u00ae:</strong> 9.0<br>\t</li><li><strong>Hard Drive:</strong> 500 MB or more<br>\t</li><li><strong>Sound:</strong> DirectX\u00ae 9.0 compatible<br>\t<strong>Supported Video Cards at Time of Release:</strong><br><br>\tATI Radeon HD 2600XT / 3000 / 4000 / 5000 / 6000 / 7000 series<br><br>\tNvidia GeForce 7600GS / 8 / 9 / 100 / 200 / 400 / 500 / 600 series<br><br>\tLaptop versions of these cards may work but are NOT supported. These chipsets are the only ones that will run this game.</li></ul>",
@@ -30,9 +35,17 @@
   "platforms": {
     "windows": true,
     "mac": true,
-    "linux": false
+    "linux": true
   },
   "categories": [
+    {
+      "id": 28,
+      "description": "Full controller support"
+    },
+    {
+      "id": 33,
+      "description": "Native Steam Controller Support"
+    },
     {
       "id": 2,
       "description": "Single-player"
@@ -67,33 +80,33 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_d6a9b04eebbae0164b01ed885e0506c5bcd30a5d.600x338.jpg?t=1447355180",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_d6a9b04eebbae0164b01ed885e0506c5bcd30a5d.1920x1080.jpg?t=1447355180"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_d6a9b04eebbae0164b01ed885e0506c5bcd30a5d.600x338.jpg?t=1542216282",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_d6a9b04eebbae0164b01ed885e0506c5bcd30a5d.1920x1080.jpg?t=1542216282"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_749010e9a2a4efce9d118e422956cc4dabefdeda.600x338.jpg?t=1447355180",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_749010e9a2a4efce9d118e422956cc4dabefdeda.1920x1080.jpg?t=1447355180"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_749010e9a2a4efce9d118e422956cc4dabefdeda.600x338.jpg?t=1542216282",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_749010e9a2a4efce9d118e422956cc4dabefdeda.1920x1080.jpg?t=1542216282"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_0ca9b7bc5f85311eefdd26db501378d4aeeb3a99.600x338.jpg?t=1447355180",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_0ca9b7bc5f85311eefdd26db501378d4aeeb3a99.1920x1080.jpg?t=1447355180"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_0ca9b7bc5f85311eefdd26db501378d4aeeb3a99.600x338.jpg?t=1542216282",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_0ca9b7bc5f85311eefdd26db501378d4aeeb3a99.1920x1080.jpg?t=1542216282"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_c48ca51b566243437ec3767cf561a7a5561c20d8.600x338.jpg?t=1447355180",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_c48ca51b566243437ec3767cf561a7a5561c20d8.1920x1080.jpg?t=1447355180"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_c48ca51b566243437ec3767cf561a7a5561c20d8.600x338.jpg?t=1542216282",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_c48ca51b566243437ec3767cf561a7a5561c20d8.1920x1080.jpg?t=1542216282"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_83e5da0bbc664743eb8c10800655e870fcf579e4.600x338.jpg?t=1447355180",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_83e5da0bbc664743eb8c10800655e870fcf579e4.1920x1080.jpg?t=1447355180"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_83e5da0bbc664743eb8c10800655e870fcf579e4.600x338.jpg?t=1542216282",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_83e5da0bbc664743eb8c10800655e870fcf579e4.1920x1080.jpg?t=1542216282"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_51df52080b9fae640612f7b1d9f82bc60ff12e64.600x338.jpg?t=1447355180",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_51df52080b9fae640612f7b1d9f82bc60ff12e64.1920x1080.jpg?t=1447355180"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_51df52080b9fae640612f7b1d9f82bc60ff12e64.600x338.jpg?t=1542216282",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/204840/ss_51df52080b9fae640612f7b1d9f82bc60ff12e64.1920x1080.jpg?t=1542216282"
     }
   ],
   "achievements": {
@@ -149,5 +162,9 @@
     "url": "https://support.ubi.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/204840/page_bg_generated_v6b.jpg?t=1447355180"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/204840/page_bg_generated_v6b.jpg?t=1542216282",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     134540
@@ -125,7 +127,7 @@
     }
   ],
   "recommendations": {
-    "total": 416
+    "total": 439
   },
   "achievements": {
     "total": 6,
@@ -164,5 +166,9 @@
     "url": "http://www.gamebra.in",
     "email": "junus.ayyildiz@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/545690/page_bg_generated_v6b.jpg?t=1517166985"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/545690/page_bg_generated_v6b.jpg?t=1517166985",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

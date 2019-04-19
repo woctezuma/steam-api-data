@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     89984
@@ -102,5 +104,9 @@
     "url": "http://xinoro.net",
     "email": "steam-support@xinoro.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/432650/page_bg_generated_v6b.jpg?t=1452232563"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/432650/page_bg_generated_v6b.jpg?t=1452232563",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

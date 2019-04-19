@@ -11,8 +11,8 @@
     "appid": "363890",
     "name": "RPG Maker MV"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Portuguese-Brazil, Russian, Japanese, Korean, Traditional Chinese, Arabic, Simplified Chinese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/703460/header.jpg?t=1522820897",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Japanese, Korean, Traditional Chinese, Arabic, Simplified Chinese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/703460/header.jpg?t=1525931567",
   "website": "http://www.rpgmakerweb.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processor:</strong> PC with 1.0GHz Intel\u00ae Pentium\u00ae III equivalent or higher processor<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> 1024x768 or better video resolution<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound-compatible sound card<br></li><li><strong>Additional Notes:</strong> 1024x768 or better video resolution</li></ul>"
@@ -23,18 +23,20 @@
   "linux_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 or Steam OS 2.0 (64 bit)<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Additional Notes:</strong> Editor best in Desktop mode (Steam OS)</li></ul>"
   },
-  "legal_notice": "\u00a92017 KADOKAWA CORPORATION",
+  "legal_notice": "\u00a92017 bitter sweet entertainment",
   "developers": [
-    "Bittersweet Entertainment"
+    "bitter sweet entertainment"
   ],
   "publishers": [
     "Degica"
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1299,
-    "final": 1299,
-    "discount_percent": 0
+    "initial": 1249,
+    "final": 1249,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,49\u20ac"
   },
   "packages": [
     202838
@@ -53,11 +55,11 @@
           "packageid": 202838,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "RPG Maker MV - Cinematic Drums - 12,99\u20ac",
+          "option_text": "RPG Maker MV - Cinematic Drums - 12,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1299
+          "price_in_cents_with_discount": 1249
         }
       ]
     }
@@ -94,8 +96,8 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/703460/ss_b10a46bf6f8fb9add298b0931ca050810a0df052.600x338.jpg?t=1522820897",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/703460/ss_b10a46bf6f8fb9add298b0931ca050810a0df052.1920x1080.jpg?t=1522820897"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/703460/ss_b10a46bf6f8fb9add298b0931ca050810a0df052.600x338.jpg?t=1525931567",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/703460/ss_b10a46bf6f8fb9add298b0931ca050810a0df052.1920x1080.jpg?t=1525931567"
     }
   ],
   "movies": [
@@ -110,6 +112,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Nov, 2017"
@@ -118,5 +123,9 @@
     "url": "http://www.rpgmakerweb.com/support",
     "email": "support@rpgmakerweb.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/703460/page_bg_generated_v6b.jpg?t=1522820897"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/703460/page_bg_generated_v6b.jpg?t=1525931567",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

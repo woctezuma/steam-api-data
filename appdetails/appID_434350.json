@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     90610
@@ -113,6 +115,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/434350/ss_3c2d2179ce19e808f525fbdfad241eccc5981269.1920x1080.jpg?t=1479395415"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Mar, 2016"
@@ -121,5 +126,9 @@
     "url": "",
     "email": "tanya@kitfoxgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/434350/page_bg_generated_v6b.jpg?t=1479395415"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/434350/page_bg_generated_v6b.jpg?t=1479395415",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

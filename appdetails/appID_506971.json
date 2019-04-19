@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Fear not, the dark, ashen one.  <br />\r\nThe Ringed City is the final DLC pack for Dark Souls III \u2013 an award-winning, genre-defining Golden Joystick Awards 2016 Game of the year RPG.  Journey to the world\u2019s end to search for the Ringed City and encounter new lands, new bosses, new enemies with new armor, magic and items.  Experience the epic final chapter of a dark world that could only be created by the mind of Hidetaka Miyazaki.       <br />\r\nA New World.  One Last Journey.",
   "about_the_game": "Fear not, the dark, ashen one.  <br />\r\nThe Ringed City is the final DLC pack for Dark Souls III \u2013 an award-winning, genre-defining Golden Joystick Awards 2016 Game of the year RPG.  Journey to the world\u2019s end to search for the Ringed City and encounter new lands, new bosses, new enemies with new armor, magic and items.  Experience the epic final chapter of a dark world that could only be created by the mind of Hidetaka Miyazaki.       <br />\r\nA New World.  One Last Journey.",
-  "short_description": "The Ringed City is the final Dark Souls III expansion.  Journey to the world\u2019s end to search for the Ringed City and encounter new lands, new bosses, new enemies with new armor, magic and items.",
+  "short_description": "The Ringed City is the final Dark Souls III expansion. Journey to the world\u2019s end to search for the Ringed City and encounter new lands, new bosses, new enemies with new armor, magic and items.",
   "fullgame": {
     "appid": "374320",
     "name": "DARK SOULS\u2122 III"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Polish, Russian, Portuguese-Brazil, Simplified Chinese, Traditional Chinese, Japanese, Korean<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Russian, Portuguese - Brazil, Simplified Chinese, Traditional Chinese, Japanese, Korean<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/506971/header.jpg?t=1490652156",
   "website": null,
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     117010
@@ -156,28 +158,31 @@
       "highlight": true
     },
     {
-      "id": 256678378,
-      "name": "Pre-order trailer [PEGI]",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256678378/movie.293x165.jpg?t=1485213428",
+      "id": 256678379,
+      "name": "Pre-order trailer [UNRATED]",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256678379/movie.293x165.jpg?t=1485213439",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256678378/movie480.webm?t=1485213428",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256678378/movie_max.webm?t=1485213428"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256678379/movie480.webm?t=1485213439",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256678379/movie_max.webm?t=1485213439"
       },
       "highlight": true
     },
     {
-      "id": 256679307,
-      "name": "VIDEO 2 PEGI",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256679307/movie.293x165.jpg?t=1486655979",
+      "id": 256679306,
+      "name": "VIDEO 2 UNRATED",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256679306/movie.293x165.jpg?t=1486655970",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256679307/movie480.webm?t=1486655979",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256679307/movie_max.webm?t=1486655979"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256679306/movie480.webm?t=1486655970",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256679306/movie_max.webm?t=1486655970"
       },
       "highlight": true
     }
   ],
   "recommendations": {
-    "total": 2202
+    "total": 1830
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -187,5 +192,9 @@
     "url": "http://www.bandainamcogames.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/506971/page_bg_generated_v6b.jpg?t=1490652156"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/506971/page_bg_generated_v6b.jpg?t=1490652156",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

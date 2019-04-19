@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     132395
@@ -112,6 +114,51 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 20,
+    "highlighted": [
+      {
+        "name": "Aim True",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/540230/3c5024c513df893e8be511ed163c681369316709.jpg"
+      },
+      {
+        "name": "Steady under fire",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/540230/ae0c158bcaad9aa3bd37cb8c219121f068a68547.jpg"
+      },
+      {
+        "name": "Nerves of steel",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/540230/e56086cae002629fee65ada9fd93f3de7cd6bfb2.jpg"
+      },
+      {
+        "name": "Cool Head",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/540230/03228a5bf9d0d76b9e4df04b87ca08feb674c143.jpg"
+      },
+      {
+        "name": "Cool under fire",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/540230/b447dbeedde5ff26449c24abd93425adac6fb57f.jpg"
+      },
+      {
+        "name": "Hold your ground",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/540230/88886fb0ad938b044b11ca210d1618c3cb1a3b5d.jpg"
+      },
+      {
+        "name": "On a roll",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/540230/12cebac3090a0e682e4eeea8e44d5a83382f3e52.jpg"
+      },
+      {
+        "name": "Courage under fire",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/540230/2ad1c3bbe5935107331d9e2a330915a8452e8f23.jpg"
+      },
+      {
+        "name": "True Grit",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/540230/96efed1f518f2a9a54583d75b7d248625e20fd3d.jpg"
+      },
+      {
+        "name": "Hard at it",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/540230/8d1c861f0b73fc99b3d0234171cfc32287b2d6d4.jpg"
+      }
+    ]
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Feb, 2017"
@@ -120,5 +167,9 @@
     "url": "",
     "email": "support@hexwar.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/540230/page_bg_generated_v6b.jpg?t=1486004471"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/540230/page_bg_generated_v6b.jpg?t=1486004471",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

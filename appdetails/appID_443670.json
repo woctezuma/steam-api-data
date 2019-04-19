@@ -11,8 +11,8 @@
     "appid": "9850",
     "name": "Codename: Panzers - Cold War"
   },
-  "supported_languages": "English, French, German, Spanish, Italian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/443670/header.jpg?t=1471957040",
+  "supported_languages": "English, French, German, Spanish - Spain, Italian",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/443670/header.jpg?t=1531221753",
   "website": "http://www.codenamepanzers.com",
   "pc_requirements": {
     "minimum": "<ul class=\"bb_ul\"><li><strong>Operating System: </strong>Microsoft\u00ae Windows\u00ae XP SP2/Vista\u00ae<br>\t\t\t\t\t</li><li><strong>Processor: </strong>Intel\u00ae Core\u21222 Duo 1.8 GHz or AMD Athlon\u2122 X2 +4400 or faster<br>\t\t\t\t\t</li><li><strong>Memory: </strong>XP 1 GB RAM - Vista 2GB RAM<br>\t\t\t\t\t</li><li><strong>Hard Disk Space: </strong>5GB Available<br>\t\t\t\t\t</li><li><strong>Video Card: </strong>ATI Radeon X800 or NVIDIA GeForce 6800 or faster<br>\t\t\t\t\t</li><li><strong>Sound Card: </strong>DirectX 9.0c-compatible sound card<br>                    \t\t\t</li><li><strong>DirectX\u00ae Version: </strong>9.0c compatible, 32 bits, multi-core<br>                    \t\t</li></ul>"
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 74,
-    "discount_percent": 75
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     94216,
@@ -49,23 +51,23 @@
       "subs": [
         {
           "packageid": 94216,
-          "percent_savings_text": "-75%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Codename Panzers Cold War Soundtrack - <span class=\"discount_original_price\">2,99\u20ac</span> 0,74\u20ac",
+          "option_text": "Codename Panzers Cold War Soundtrack - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 74
+          "price_in_cents_with_discount": 299
         },
         {
           "packageid": 92888,
-          "percent_savings_text": "-80%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Codename: Panzers Bundle - <span class=\"discount_original_price\">29,99\u20ac</span> 5,99\u20ac",
+          "option_text": "Codename: Panzers Bundle - 29,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 2999
         }
       ]
     }
@@ -102,10 +104,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/443670/ss_601ad99a084a01b4274f319cd7839dafcd452cce.600x338.jpg?t=1471957040",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/443670/ss_601ad99a084a01b4274f319cd7839dafcd452cce.1920x1080.jpg?t=1471957040"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/443670/ss_601ad99a084a01b4274f319cd7839dafcd452cce.600x338.jpg?t=1531221753",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/443670/ss_601ad99a084a01b4274f319cd7839dafcd452cce.1920x1080.jpg?t=1531221753"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Feb, 2016"
@@ -114,5 +119,9 @@
     "url": "http://support.atari.com/?/Knowledgebase/List",
     "email": "support@quanticlab.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/443670/page_bg_generated_v6b.jpg?t=1471957040"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/443670/page_bg_generated_v6b.jpg?t=1531221753",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

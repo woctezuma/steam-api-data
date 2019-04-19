@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "A collection of 18 songs from Hearts of Iron II, composed by Andreas Waldetoft, to accompany the game play of Hearts of Iron III. With over an hour of music, these songs play during key moments to enhance the  mood and feel of the game.<br><br><strong>The Good Fight</strong><br><br>Songs which will play when you are at war, creating a vibrant feel of large conflict.<br><ul class=\"bb_ul\"><li>Lullaby of War<br></li><li>Overture<br></li><li>WAR<br></li><li>Hoilero<br></li><li>Suite no. 1<br></li><li>The Front<br></li><li>Achtung Panzer<br></li><li>Japanese Spirit<br></li><li>Kriegsgewitter<br></li><li>Rise and Fall of Evil</li></ul><strong>Peace In Our Time</strong><br><br>Music of peace , although these songs play during peace time, the threat of war always looms in the distance.<br><ul class=\"bb_ul\"><li>Happy March<br></li><li>Russian Adagio<br></li><li>Russian Variations<br></li><li>State of Grace<br></li><li>Suite no. 2</li></ul><strong>The Allies of the West</strong><br><br>Music of peace in the West, where British and American democracies prepare for the coming fight for freedom.<br><ul class=\"bb_ul\"><li>Air Borne<br></li><li>Leaving Shore<br></li><li>Montgomery\u2019s March<br></li><li>The RAF</li></ul>",
   "about_the_game": "A collection of 18 songs from Hearts of Iron II, composed by Andreas Waldetoft, to accompany the game play of Hearts of Iron III. With over an hour of music, these songs play during key moments to enhance the  mood and feel of the game.<br><br><strong>The Good Fight</strong><br><br>Songs which will play when you are at war, creating a vibrant feel of large conflict.<br><ul class=\"bb_ul\"><li>Lullaby of War<br></li><li>Overture<br></li><li>WAR<br></li><li>Hoilero<br></li><li>Suite no. 1<br></li><li>The Front<br></li><li>Achtung Panzer<br></li><li>Japanese Spirit<br></li><li>Kriegsgewitter<br></li><li>Rise and Fall of Evil</li></ul><strong>Peace In Our Time</strong><br><br>Music of peace , although these songs play during peace time, the threat of war always looms in the distance.<br><ul class=\"bb_ul\"><li>Happy March<br></li><li>Russian Adagio<br></li><li>Russian Variations<br></li><li>State of Grace<br></li><li>Suite no. 2</li></ul><strong>The Allies of the West</strong><br><br>Music of peace in the West, where British and American democracies prepare for the coming fight for freedom.<br><ul class=\"bb_ul\"><li>Air Borne<br></li><li>Leaving Shore<br></li><li>Montgomery\u2019s March<br></li><li>The RAF</li></ul>",
-  "short_description": "",
+  "short_description": "A collection of 18 songs from Hearts of Iron II, composed by Andreas Waldetoft, to accompany the game play of Hearts of Iron III. With over an hour of music, these songs play during key moments to enhance the mood and feel of the game.The Good FightSongs which will play when you are at war, creating a vibrant feel of large conflict.",
   "fullgame": {
     "appid": "42903",
     "name": "Hearts of Iron III: For the Motherland"
@@ -29,12 +29,12 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    16650,
-    29531,
-    37223
+    16650
   ],
   "package_groups": [
     {
@@ -55,26 +55,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 499
-        },
-        {
-          "packageid": 29531,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron 3 DLC Collection - 29,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2999
-        },
-        {
-          "packageid": 37223,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron Collection III (Jan 2014) - 41,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4199
         }
       ]
     }
@@ -160,6 +140,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/214981/ss_7d66f10bb17becba842ee7abdfe974af01051ae3.1920x1080.jpg?t=1447356082"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Sep, 2012"
@@ -168,5 +151,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214981/page_bg_generated_v6b.jpg?t=1447356082"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214981/page_bg_generated_v6b.jpg?t=1447356082",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

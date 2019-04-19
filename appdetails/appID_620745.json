@@ -33,8 +33,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 79,
+    "discount_percent": 20,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     166759
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 166759,
-          "percent_savings_text": "",
+          "percent_savings_text": "-20%",
           "percent_savings": 0,
-          "option_text": "Superdimension Neptune VS Sega Hard Girls - Segami's Astral Brave - 0,99\u20ac",
+          "option_text": "Superdimension Neptune VS Sega Hard Girls - Segami's Astral Brave - <span class=\"discount_original_price\">0,99\u20ac</span> 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -116,6 +118,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/620745/ss_229944e4bb726f8536a8635d0f7bd9b40aebd06f.1920x1080.jpg?t=1497288652"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Jun, 2017"
@@ -124,5 +129,9 @@
     "url": "http://ideafintl.com/steam.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620745/page_bg_generated_v6b.jpg?t=1497288652"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620745/page_bg_generated_v6b.jpg?t=1497288652",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     134733
@@ -139,5 +141,9 @@
     "url": "http://www.mdlabgames.com",
     "email": "office@mdlabgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/546240/page_bg_generated_v6b.jpg?t=1478357495"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/546240/page_bg_generated_v6b.jpg?t=1478357495",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

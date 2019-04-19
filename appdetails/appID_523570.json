@@ -29,10 +29,12 @@
     "Uborm"
   ],
   "price_overview": {
-    "currency": "USD",
+    "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     124697
@@ -51,7 +53,7 @@
           "packageid": 124697,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "AcrossFlash - $2.99",
+          "option_text": "AcrossFlash - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -124,13 +126,20 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
-    "date": "Aug 31, 2016"
+    "date": "31 Aug, 2016"
   },
   "support_info": {
     "url": "http://www.uborm.com/",
     "email": "info@uborm.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/523570/page_bg_generated_v6b.jpg?t=1473413864"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/523570/page_bg_generated_v6b.jpg?t=1473413864",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

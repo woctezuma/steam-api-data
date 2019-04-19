@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     52171
@@ -170,5 +172,11 @@
     "url": "http://www.facebook.com/narrowmonolith",
     "email": "narrowmonolithgames@live.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/326420/page_bg_generated_v6b.jpg?t=1447363980"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/326420/page_bg_generated_v6b.jpg?t=1447363980",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

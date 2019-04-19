@@ -12,7 +12,7 @@
     "appid": "237930",
     "name": "Transistor"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Polish, Portuguese-Brazil, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/299240/header.jpg?t=1455076004",
   "website": "http://www.supergiantgames.com/",
   "pc_requirements": {
@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     43631
@@ -50,11 +52,11 @@
           "packageid": 43631,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Transistor Soundtrack - 9,99\u20ac",
+          "option_text": "Transistor Soundtrack - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -108,7 +110,10 @@
     }
   ],
   "recommendations": {
-    "total": 299
+    "total": 321
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -118,5 +123,9 @@
     "url": "http://supergiantgames.com/index.php/contact/",
     "email": "support@supergiantgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/299240/page_bg_generated_v6b.jpg?t=1455076004"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/299240/page_bg_generated_v6b.jpg?t=1455076004",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The official Soundtrack of SpellForce 2 - Demons of the Past contains the following tracks in mp3 format:<br />\r\n<br />\r\n01 - Danger in the fields <br />\r\n02 - Demons of the past <br />\r\n03 - Frozen <br />\r\n04 - Heroes<br />\r\n05 - Mysteriousness<br />\r\n06 - Occultism <br />\r\n07 - Realm of the gods <br />\r\n08 - Romantic <br />\r\n09 - Shalibar<br />\r\n10 - Stormtroopers <br />\r\n11 - The Citadel<br />\r\n12 - The World of Zarach<br />\r\n13 - Venus Island<br />\r\n14 - Village <br />\r\n<br />\r\nComposer: Josef Altersberger",
   "about_the_game": "The official Soundtrack of SpellForce 2 - Demons of the Past contains the following tracks in mp3 format:<br />\r\n<br />\r\n01 - Danger in the fields <br />\r\n02 - Demons of the past <br />\r\n03 - Frozen <br />\r\n04 - Heroes<br />\r\n05 - Mysteriousness<br />\r\n06 - Occultism <br />\r\n07 - Realm of the gods <br />\r\n08 - Romantic <br />\r\n09 - Shalibar<br />\r\n10 - Stormtroopers <br />\r\n11 - The Citadel<br />\r\n12 - The World of Zarach<br />\r\n13 - Venus Island<br />\r\n14 - Village <br />\r\n<br />\r\nComposer: Josef Altersberger",
-  "short_description": "",
+  "short_description": "The official Soundtrack of SpellForce 2 - Demons of the Past contains the following tracks in mp3 format: 01 - Danger in the fields 02 - Demons of the past 03 - Frozen 04 - Heroes 05 - Mysteriousness 06 - Occultism 07 - Realm of the gods 08 - Romantic 09 - Shalibar 10 - Stormtroopers 11 - The Citadel 12 - The World of Zarach 13 - Venus Is",
   "fullgame": {
     "appid": "245050",
     "name": "SpellForce 2 - Demons of the Past"
@@ -29,12 +29,13 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     36849,
-    36850,
-    36855
+    36850
   ],
   "package_groups": [
     {
@@ -50,7 +51,7 @@
           "packageid": 36849,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Spellforce 2 - Demons of the Past - Soundtrack - 4,99\u20ac",
+          "option_text": "SpellForce 2 - Demons of the Past - Soundtrack - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -65,16 +66,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 2299
-        },
-        {
-          "packageid": 36855,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "SpellForce Complete - 59,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 5999
         }
       ]
     }
@@ -131,6 +122,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/273290/ss_6bb983f433c5df4f43c110cae0b33a245a7574f1.1920x1080.jpg?t=1471945270"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Jan, 2014"
@@ -139,5 +133,9 @@
     "url": "",
     "email": "support@quanticlab.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/273290/page_bg_generated_v6b.jpg?t=1471945270"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/273290/page_bg_generated_v6b.jpg?t=1471945270",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

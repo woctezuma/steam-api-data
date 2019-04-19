@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     181457
@@ -143,8 +145,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 126
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -154,5 +156,9 @@
     "url": "acuzeenterprise.com",
     "email": "contact@acuzeenterprise.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/646100/page_bg_generated_v6b.jpg?t=1506519460"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/646100/page_bg_generated_v6b.jpg?t=1506519460",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

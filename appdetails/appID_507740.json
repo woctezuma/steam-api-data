@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>This is a tutorial on how to improve your line art. \r\n\r\nThe topics that covered: \r\n- The purpose of Line art.\r\n- The power of implied line.\r\n- Line thickness importance.\r\n- Overlapping Lines.\r\n- Thick to thin Lines.\r\n- Going in stages depending on skill level.\r\n- Timing yourself to focus on weakness.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>This is a tutorial on how to improve your line art. \r\n\r\nThe topics that covered: \r\n- The purpose of Line art.\r\n- The power of implied line.\r\n- Line thickness importance.\r\n- Overlapping Lines.\r\n- Thick to thin Lines.\r\n- Going in stages depending on skill level.\r\n- Timing yourself to focus on weakness.",
   "about_the_game": "This is a tutorial on how to improve your line art. <br />\r\n<br />\r\nThe topics that covered: <br />\r\n- The purpose of Line art.<br />\r\n- The power of implied line.<br />\r\n- Line thickness importance.<br />\r\n- Overlapping Lines.<br />\r\n- Thick to thin Lines.<br />\r\n- Going in stages depending on skill level.<br />\r\n- Timing yourself to focus on weakness.",
   "short_description": "Tutorial on improving your line art.",
   "fullgame": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     117275
@@ -112,5 +114,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/507740/page_bg_generated_v6b.jpg?t=1475518380"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/507740/page_bg_generated_v6b.jpg?t=1475518380",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

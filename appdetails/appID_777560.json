@@ -6,7 +6,7 @@
   "is_free": true,
   "detailed_description": "&quot;You are in a closed space craft. Your aim is to survive even though you defeat other passengers.&quot;<br />\r\n<br />\r\nThis is a multiplayer battle royal type FPS game that is casual and easy to play.<br />\r\n<br />\r\nThe aim of the game is to survive and defeat other players as many as possible.<br />\r\n<br />\r\nAs enemy players cannot easily be identified visually because of  optical camouflage, try to spot the locations of your enemies, relying on the mini map.<br />\r\n<br />\r\nThe number of bullets is limited, and the amount of oxygen for you to be active in the space craft is also limited.<br />\r\nFor you to survive longer than your enemies do, you need to collect bullet units and oxygen units that are regularly installed.<br />\r\nCollect them by checking the mini map that is displayed at the bottom right corner of the screen.<br />\r\n<br />\r\nKey WSAD: Move forth / back / left / right<br />\r\nMouse: Change left / right up / down<br />\r\nMouse left click: Shoot a bullet",
   "about_the_game": "&quot;You are in a closed space craft. Your aim is to survive even though you defeat other passengers.&quot;<br />\r\n<br />\r\nThis is a multiplayer battle royal type FPS game that is casual and easy to play.<br />\r\n<br />\r\nThe aim of the game is to survive and defeat other players as many as possible.<br />\r\n<br />\r\nAs enemy players cannot easily be identified visually because of  optical camouflage, try to spot the locations of your enemies, relying on the mini map.<br />\r\n<br />\r\nThe number of bullets is limited, and the amount of oxygen for you to be active in the space craft is also limited.<br />\r\nFor you to survive longer than your enemies do, you need to collect bullet units and oxygen units that are regularly installed.<br />\r\nCollect them by checking the mini map that is displayed at the bottom right corner of the screen.<br />\r\n<br />\r\nKey WSAD: Move forth / back / left / right<br />\r\nMouse: Change left / right up / down<br />\r\nMouse left click: Shoot a bullet",
-  "short_description": "&quot;You are in a closed space craft. Your aim is to survive even though you defeat other passengers.&quot;",
+  "short_description": "&quot;You are in a closed space craft. Your aim is to survive even though you defeat other passengers.",
   "supported_languages": "English, Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/777560/header.jpg?t=1516956015",
   "website": "http://tsukinowa.xof.jp",
@@ -21,7 +21,32 @@
   "publishers": [
     "Tsukinowa App."
   ],
-  "package_groups": [],
+  "packages": [
+    311709
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy INVISIBLE",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 311709,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "INVISIBLE - Commercial License (Free) - Free",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": true,
+          "price_in_cents_with_discount": 99
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -151,5 +176,9 @@
     "url": "http://tsukinowa.xof.jp",
     "email": "tsukinowa@xof.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/777560/page_bg_generated_v6b.jpg?t=1516956015"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/777560/page_bg_generated_v6b.jpg?t=1516956015",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

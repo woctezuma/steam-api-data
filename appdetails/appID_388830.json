@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     73688
@@ -132,6 +134,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 May, 2016"
@@ -140,5 +145,9 @@
     "url": "",
     "email": "support@i-ozo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/388830/page_bg_generated_v6b.jpg?t=1463566211"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/388830/page_bg_generated_v6b.jpg?t=1463566211",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

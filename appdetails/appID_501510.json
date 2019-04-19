@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     115165
@@ -118,6 +120,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501510/ss_000871662634558ebf55519371d276c23eb447f3.1920x1080.jpg?t=1505119757"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Jul, 2016"
@@ -126,5 +131,9 @@
     "url": "www.vilemonarch.com",
     "email": "support@vilemonarch.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501510/page_bg_generated_v6b.jpg?t=1505119757"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501510/page_bg_generated_v6b.jpg?t=1505119757",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

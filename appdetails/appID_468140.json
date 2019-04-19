@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Change the <strong>Super Dungeon Bros</strong> ingame music to suit your mood, with the <strong>3-Pack Soundtrack Bundle</strong>. This includes the <strong>Dubstep</strong>, <strong>80's</strong> and <strong>Heavy Metal Soundtrack</strong>.",
   "about_the_game": "Change the <strong>Super Dungeon Bros</strong> ingame music to suit your mood, with the <strong>3-Pack Soundtrack Bundle</strong>. This includes the <strong>Dubstep</strong>, <strong>80's</strong> and <strong>Heavy Metal Soundtrack</strong>.",
-  "short_description": "Change the <strong>Super Dungeon Bros</strong> ingame music to suit your mood, with the <strong>3-Pack Soundtrack Bundle</strong>. This includes the <strong>Dubstep</strong>, <strong>80's</strong> and <strong>Heavy Metal Soundtrack</strong>.",
+  "short_description": "Change the Super Dungeon Bros ingame music to suit your mood, with the 3-Pack Soundtrack Bundle. This includes the Dubstep, 80's and Heavy Metal Soundtrack.",
   "fullgame": {
     "appid": "306000",
     "name": "Super Dungeon Bros"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish<strong>*</strong>, Polish, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/468140/header.jpg?t=1479283691",
   "website": "http://www.superdungeonbros.com",
   "pc_requirements": {
@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     103204
@@ -180,6 +182,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/468140/ss_b234b60feeb9371b0275333f59a4c38595d05a8f.1920x1080.jpg?t=1479283691"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Nov, 2016"
@@ -188,5 +193,9 @@
     "url": "http://support.wiredproductions.com/sdb/steam",
     "email": "support@wiredproductions.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/468140/page_bg_generated_v6b.jpg?t=1479283691"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/468140/page_bg_generated_v6b.jpg?t=1479283691",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

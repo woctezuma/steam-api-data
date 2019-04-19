@@ -12,7 +12,7 @@
     "name": "Cuphead"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/704710/header.jpg?t=1510282560",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/704710/header.jpg?t=1539968371",
   "website": "http://www.cupheadgame.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> 100 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     203344
@@ -62,7 +64,7 @@
   ],
   "platforms": {
     "windows": true,
-    "mac": false,
+    "mac": true,
     "linux": false
   },
   "categories": [
@@ -88,12 +90,15 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/704710/ss_5014d1e510a653d9e57e8655b6e34d180b2a87b9.600x338.jpg?t=1510282560",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/704710/ss_5014d1e510a653d9e57e8655b6e34d180b2a87b9.1920x1080.jpg?t=1510282560"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/704710/ss_5014d1e510a653d9e57e8655b6e34d180b2a87b9.600x338.jpg?t=1539968371",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/704710/ss_5014d1e510a653d9e57e8655b6e34d180b2a87b9.1920x1080.jpg?t=1539968371"
     }
   ],
   "recommendations": {
-    "total": 110
+    "total": 116
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -103,5 +108,9 @@
     "url": "",
     "email": "support@studiomdhr.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/704710/page_bg_generated_v6b.jpg?t=1510282560"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/704710/page_bg_generated_v6b.jpg?t=1539968371",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

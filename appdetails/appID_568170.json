@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     143733
@@ -152,6 +154,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/568170/ss_e2383cf9cb269cf371bdc8b175e40661f08bf9a7.1920x1080.jpg?t=1481554385"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Dec, 2016"
@@ -160,5 +165,12 @@
     "url": "http://www.ceruleangames.com/",
     "email": "support@ceruleangames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/568170/page_bg_generated_v6b.jpg?t=1481554385"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/568170/page_bg_generated_v6b.jpg?t=1481554385",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

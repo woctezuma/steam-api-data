@@ -15,7 +15,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/383600/header.jpg?t=1447376866",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1.8GHz<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> 128MB OpenGL compatible<br></li><li><strong>Storage:</strong> 60 MB available space<br></li><li><strong>Sound Card:</strong> 16-bit stereo sound</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e\u914d\u7f6e:</strong><br><ul class=\"bb_ul\"><li><strong>\u64cd\u4f5c\u7cfb\u7edf:</strong> Windows XP<br></li><li><strong>\u5904\u7406\u5668:</strong> 1.8GHz<br></li><li><strong>\u5185\u5b58:</strong> 1024 MB RAM<br></li><li><strong>\u56fe\u5f62:</strong> 128MB OpenGL compatible<br></li><li><strong>\u5b58\u50a8\u7a7a\u95f4:</strong> \u9700\u8981 60 MB \u53ef\u7528\u7a7a\u95f4<br></li><li><strong>\u58f0\u5361:</strong> 16-bit stereo sound</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     72080
@@ -118,5 +120,9 @@
     "url": "",
     "email": "support@infinitespacegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/383600/page_bg_generated_v6b.jpg?t=1447376866"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/383600/page_bg_generated_v6b.jpg?t=1447376866",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

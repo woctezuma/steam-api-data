@@ -11,7 +11,7 @@
     "appid": "355060",
     "name": "S\u00e9bastien Loeb Rally EVO"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Polish<strong>*</strong>, Portuguese-Brazil<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/408690/header.jpg?t=1489758496",
   "website": "http://sebastienloebrallyevo.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     80959
@@ -168,6 +170,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Mar, 2016"
@@ -176,5 +181,9 @@
     "url": "http://milestone.it/contacts/support/?lang=en",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/408690/page_bg_generated_v6b.jpg?t=1489758496"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/408690/page_bg_generated_v6b.jpg?t=1489758496",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

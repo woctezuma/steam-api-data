@@ -12,7 +12,7 @@
     "appid": "287700",
     "name": "METAL GEAR SOLID V: THE PHANTOM PAIN"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese<strong>*</strong>, Portuguese-Brazil, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<strong>*</strong>, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/437233/header.jpg?t=1480375157",
   "website": "http://www.metalgearsolid.com",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     91946
@@ -132,6 +134,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/437233/ss_991a9c4a5149f1e7edb1d5a8c61f2714e4d69485.1920x1080.jpg?t=1480375157"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Nov, 2016"
@@ -140,5 +145,9 @@
     "url": "https://www.konami.com/support/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437233/page_bg_generated_v6b.jpg?t=1480375157"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437233/page_bg_generated_v6b.jpg?t=1480375157",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

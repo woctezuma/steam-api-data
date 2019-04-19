@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     184976
@@ -142,6 +144,9 @@
       "highlight": true
     }
   ],
+  "recommendations": {
+    "total": 148
+  },
   "achievements": {
     "total": 10,
     "highlighted": [
@@ -195,5 +200,13 @@
     "url": "http://the-last-sovereign.blogspot.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/655770/page_bg_generated_v6b.jpg?t=1500071021"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/655770/page_bg_generated_v6b.jpg?t=1500071021",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

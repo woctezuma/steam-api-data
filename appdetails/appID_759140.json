@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     224062
@@ -110,6 +112,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/759140/ss_a118af023b42e3098c0c0c1861951cc77f4c413f.1920x1080.jpg?t=1513332015"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Dec, 2017"
@@ -118,5 +123,9 @@
     "url": "http://www.purrfectdate.co.uk/",
     "email": "support@purrfectdate.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/759140/page_bg_generated_v6b.jpg?t=1513332015"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/759140/page_bg_generated_v6b.jpg?t=1513332015",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

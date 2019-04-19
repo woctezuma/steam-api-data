@@ -11,7 +11,7 @@
     "appid": "241910",
     "name": "Goodbye Deponia"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, Russian, French, Polish, Italian<strong>*</strong>, Spanish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, Russian, French, Polish, Italian<strong>*</strong>, Spanish - Spain<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/476940/header.jpg?t=1478167943",
   "website": "http://www.deponia.de/en",
   "pc_requirements": {
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     106258
@@ -127,6 +129,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/476940/ss_f59fc03847d88444a33b9af6ed02ffe96510e195.1920x1080.jpg?t=1478167943"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 May, 2016"
@@ -135,5 +140,9 @@
     "url": "http://forum.daedalic.de/",
     "email": "support@daedalic.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/476940/page_bg_generated_v6b.jpg?t=1478167943"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/476940/page_bg_generated_v6b.jpg?t=1478167943",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     208883
@@ -116,6 +118,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Sep, 2017"
@@ -124,5 +129,9 @@
     "url": "https://horizonstreetview.wordpress.com/2017/05/06/new-virtual-reality-application-rome-circus-maximus-chariot-race/",
     "email": "vicente.rosell@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/657780/page_bg_generated_v6b.jpg?t=1506489801"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/657780/page_bg_generated_v6b.jpg?t=1506489801",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

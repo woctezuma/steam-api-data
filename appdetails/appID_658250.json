@@ -7,8 +7,8 @@
   "detailed_description": "The X army has invaded our territory, we need to fight against them to protect our land, our country and our freedom.<h2 class=\"bb_tag\">Xtrike</h2><br>Xtrike is a shoot'em up game integrated with action real-time strategies. Players need to produce battle units and also control heroes to destroy incoming enemies.<h2 class=\"bb_tag\">Game Features </h2><br><strong>Gameplay:</strong><br>Xtrike is a shooting game similar to traditional shooting games but also includes tactics.<br>You'll have a complete arsenal at the beginning of each stage, but you'll need funds to build battle units, while funds increase as time flows. You may increase productivity by investing your funds. <br>Use arrow keys and AD to control the hero movement, space to jump;<br>Use mouse and number keys to invest the productivity or build battle units.<br><br><strong>Settings:</strong><br>Configure display, volume, and language settings.",
   "about_the_game": "The X army has invaded our territory, we need to fight against them to protect our land, our country and our freedom.<h2 class=\"bb_tag\">Xtrike</h2><br>Xtrike is a shoot'em up game integrated with action real-time strategies. Players need to produce battle units and also control heroes to destroy incoming enemies.<h2 class=\"bb_tag\">Game Features </h2><br><strong>Gameplay:</strong><br>Xtrike is a shooting game similar to traditional shooting games but also includes tactics.<br>You'll have a complete arsenal at the beginning of each stage, but you'll need funds to build battle units, while funds increase as time flows. You may increase productivity by investing your funds. <br>Use arrow keys and AD to control the hero movement, space to jump;<br>Use mouse and number keys to invest the productivity or build battle units.<br><br><strong>Settings:</strong><br>Configure display, volume, and language settings.",
   "short_description": "Xtrike is a shoot'em up game integrated with action real-time strategies. Players need to produce battle units and also control heroes to destroy incoming enemies.",
-  "supported_languages": "English, Simplified Chinese, French, Japanese, Russian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/658250/header.jpg?t=1506254462",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/658250/header.jpg?t=1548899709",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.0 Ghz i5 or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     186082
@@ -69,6 +71,14 @@
     {
       "id": 2,
       "description": "Single-player"
+    },
+    {
+      "id": 1,
+      "description": "Multi-player"
+    },
+    {
+      "id": 36,
+      "description": "Online Multi-Player"
     }
   ],
   "genres": [
@@ -88,47 +98,38 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_2b8466832611410f75a397f74162eccf076be55b.600x338.jpg?t=1506254462",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_2b8466832611410f75a397f74162eccf076be55b.1920x1080.jpg?t=1506254462"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_97c5e49e735ad41cb096ee53048838d7eeb71f01.600x338.jpg?t=1548899709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_97c5e49e735ad41cb096ee53048838d7eeb71f01.1920x1080.jpg?t=1548899709"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_4c5c457bd78697b3f36284e4854b0f878f657b8c.600x338.jpg?t=1506254462",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_4c5c457bd78697b3f36284e4854b0f878f657b8c.1920x1080.jpg?t=1506254462"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_8d5ca5dc51e0c8f939594de1bbbf1f3c904e4446.600x338.jpg?t=1548899709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_8d5ca5dc51e0c8f939594de1bbbf1f3c904e4446.1920x1080.jpg?t=1548899709"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_959f49b396b29d1168aee3464d759a1ff91e2940.600x338.jpg?t=1506254462",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_959f49b396b29d1168aee3464d759a1ff91e2940.1920x1080.jpg?t=1506254462"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_9e5be1295565b1f2f3af094f7897d3b3c0fbe827.600x338.jpg?t=1548899709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_9e5be1295565b1f2f3af094f7897d3b3c0fbe827.1920x1080.jpg?t=1548899709"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_4170cd1e72e92c9cf34734bde73d694cba73f0eb.600x338.jpg?t=1506254462",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_4170cd1e72e92c9cf34734bde73d694cba73f0eb.1920x1080.jpg?t=1506254462"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_9abb89ffaa250d9ceea4a25b0039203b2bb38a0a.600x338.jpg?t=1548899709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_9abb89ffaa250d9ceea4a25b0039203b2bb38a0a.1920x1080.jpg?t=1548899709"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_7e48e1aaddfebccc6800740cb06a6774b663eea4.600x338.jpg?t=1506254462",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_7e48e1aaddfebccc6800740cb06a6774b663eea4.1920x1080.jpg?t=1506254462"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_3cb18a88d489ea6d4f89507450875ec174d5ea85.600x338.jpg?t=1548899709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_3cb18a88d489ea6d4f89507450875ec174d5ea85.1920x1080.jpg?t=1548899709"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_29d81cf9970b25d7968ab095c4f3c3671d605dbd.600x338.jpg?t=1506254462",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_29d81cf9970b25d7968ab095c4f3c3671d605dbd.1920x1080.jpg?t=1506254462"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_9bf999c4242feef758ae135ab648d7c0ea0f4dba.600x338.jpg?t=1548899709",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/658250/ss_9bf999c4242feef758ae135ab648d7c0ea0f4dba.1920x1080.jpg?t=1548899709"
     }
   ],
-  "movies": [
-    {
-      "id": 256687788,
-      "name": "Xtrike",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256687788/movie.293x165.jpg?t=1503800942",
-      "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256687788/movie480.webm?t=1503800942",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256687788/movie_max.webm?t=1503800942"
-      },
-      "highlight": true
-    }
-  ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Aug, 2017"
@@ -137,5 +138,9 @@
     "url": "http://twitter.com/WhiteWoodCity",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/658250/page_bg_generated_v6b.jpg?t=1506254462"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/658250/page_bg_generated_v6b.jpg?t=1548899709",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

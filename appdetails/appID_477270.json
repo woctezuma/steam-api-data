@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     106371
@@ -128,7 +130,10 @@
     }
   ],
   "recommendations": {
-    "total": 476
+    "total": 520
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -138,5 +143,9 @@
     "url": "https://lightbladevr.mazebert.com",
     "email": "lightbladevr@mazebert.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/477270/page_bg_generated_v6b.jpg?t=1470089258"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/477270/page_bg_generated_v6b.jpg?t=1470089258",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

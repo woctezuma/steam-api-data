@@ -4,11 +4,15 @@
   "steam_appid": 526290,
   "required_age": 0,
   "is_free": false,
+  "dlc": [
+    876400,
+    876401
+  ],
   "detailed_description": "MY FIGHT - a computer game in the fighting game genre , performed in the best traditions of the genre . It allows players to fight for their favorite bloggers and show everyone how much he is cool , but the game , meanwhile , will record the results and compare them with other players !<br />\r\n<br />\r\nBefore you have a wide variety of arenas to battle , flexible game setup , local and network multiplayer !<br />\r\nIn the near future will be able to visually arrange characters to your taste !<br />\r\n<br />\r\n - Your TrisPix_Studio",
   "about_the_game": "MY FIGHT - a computer game in the fighting game genre , performed in the best traditions of the genre . It allows players to fight for their favorite bloggers and show everyone how much he is cool , but the game , meanwhile , will record the results and compare them with other players !<br />\r\n<br />\r\nBefore you have a wide variety of arenas to battle , flexible game setup , local and network multiplayer !<br />\r\nIn the near future will be able to visually arrange characters to your taste !<br />\r\n<br />\r\n - Your TrisPix_Studio",
   "short_description": "MY FIGHT - a computer game in the fighting game genre , performed in the best traditions of the genre . It allows players to fight for their favorite bloggers and show everyone how much he is cool , but the game , meanwhile , will record the results and compare them with other players !",
   "supported_languages": "Russian<strong>*</strong>, English<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/526290/header.jpg?t=1496417292",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/526290/header.jpg?t=1528225518",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, Windows 7, Windows 8<br></li><li><strong>Processor:</strong> Intel Core Duo, 2.4 GHz / AMD Athlon X2, 2.8 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8800 GTS / AMD Radeon 3850<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
@@ -26,7 +30,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     125992
@@ -45,7 +51,7 @@
           "packageid": 125992,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "MY FIGHT - 3,99\u20ac",
+          "option_text": "MY FIGHT 2019 - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -85,6 +91,14 @@
       "description": "Steam Trading Cards"
     },
     {
+      "id": 35,
+      "description": "In-App Purchases"
+    },
+    {
+      "id": 18,
+      "description": "Partial Controller Support"
+    },
+    {
       "id": 23,
       "description": "Steam Cloud"
     }
@@ -97,47 +111,43 @@
     {
       "id": "23",
       "description": "Indie"
-    },
-    {
-      "id": "70",
-      "description": "Early Access"
     }
   ],
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_637da5dc2d88a8f6367ce2aae689df1dfcb5a93c.600x338.jpg?t=1496417292",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_637da5dc2d88a8f6367ce2aae689df1dfcb5a93c.1920x1080.jpg?t=1496417292"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_637da5dc2d88a8f6367ce2aae689df1dfcb5a93c.600x338.jpg?t=1528225518",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_637da5dc2d88a8f6367ce2aae689df1dfcb5a93c.1920x1080.jpg?t=1528225518"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_f5b0c47b3cc3e7e8fa9c7effbcb2622811886bca.600x338.jpg?t=1496417292",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_f5b0c47b3cc3e7e8fa9c7effbcb2622811886bca.1920x1080.jpg?t=1496417292"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_f5b0c47b3cc3e7e8fa9c7effbcb2622811886bca.600x338.jpg?t=1528225518",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_f5b0c47b3cc3e7e8fa9c7effbcb2622811886bca.1920x1080.jpg?t=1528225518"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_d64b9929cc0fb6a611d82bce06342cfc91d64644.600x338.jpg?t=1496417292",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_d64b9929cc0fb6a611d82bce06342cfc91d64644.1920x1080.jpg?t=1496417292"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_d64b9929cc0fb6a611d82bce06342cfc91d64644.600x338.jpg?t=1528225518",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_d64b9929cc0fb6a611d82bce06342cfc91d64644.1920x1080.jpg?t=1528225518"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_f200a47f633302729e3c1ad416bb80d03202dca8.600x338.jpg?t=1496417292",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_f200a47f633302729e3c1ad416bb80d03202dca8.1920x1080.jpg?t=1496417292"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_f200a47f633302729e3c1ad416bb80d03202dca8.600x338.jpg?t=1528225518",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_f200a47f633302729e3c1ad416bb80d03202dca8.1920x1080.jpg?t=1528225518"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_4cd937f60e671fd66ff83eeacc3329e7ea61c63f.600x338.jpg?t=1496417292",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_4cd937f60e671fd66ff83eeacc3329e7ea61c63f.1920x1080.jpg?t=1496417292"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_4cd937f60e671fd66ff83eeacc3329e7ea61c63f.600x338.jpg?t=1528225518",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_4cd937f60e671fd66ff83eeacc3329e7ea61c63f.1920x1080.jpg?t=1528225518"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_bfb6a22eaf3b4d85e8957c8044f05ca7519f71ef.600x338.jpg?t=1496417292",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_bfb6a22eaf3b4d85e8957c8044f05ca7519f71ef.1920x1080.jpg?t=1496417292"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_bfb6a22eaf3b4d85e8957c8044f05ca7519f71ef.600x338.jpg?t=1528225518",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_bfb6a22eaf3b4d85e8957c8044f05ca7519f71ef.1920x1080.jpg?t=1528225518"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_b8db13ed89fd70ff749569aa8e9245c77ccad2dd.600x338.jpg?t=1496417292",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_b8db13ed89fd70ff749569aa8e9245c77ccad2dd.1920x1080.jpg?t=1496417292"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_b8db13ed89fd70ff749569aa8e9245c77ccad2dd.600x338.jpg?t=1528225518",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/526290/ss_b8db13ed89fd70ff749569aa8e9245c77ccad2dd.1920x1080.jpg?t=1528225518"
     }
   ],
   "movies": [
@@ -219,11 +229,15 @@
   },
   "release_date": {
     "coming_soon": false,
-    "date": "4 Oct, 2016"
+    "date": "22 May, 2018"
   },
   "support_info": {
     "url": "",
     "email": "trispixstudio@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/526290/page_bg_generated_v6b.jpg?t=1496417292"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/526290/page_bg_generated_v6b.jpg?t=1528225518",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

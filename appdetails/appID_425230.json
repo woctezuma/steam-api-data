@@ -26,10 +26,12 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    "87315"
+    87315
   ],
   "package_groups": [
     {
@@ -42,7 +44,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "87315",
+          "packageid": 87315,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Sword 'N' Board - 4,99\u20ac",
@@ -159,6 +161,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Jan, 2016"
@@ -167,5 +172,9 @@
     "url": "",
     "email": "rbusey@stuffedcastlestudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/425230/page_bg_generated_v6b.jpg?t=1454090494"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/425230/page_bg_generated_v6b.jpg?t=1454090494",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

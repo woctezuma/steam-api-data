@@ -34,12 +34,14 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     84853,
-    "84849",
-    "87567"
+    84849,
+    87567
   ],
   "package_groups": [
     {
@@ -62,7 +64,7 @@
           "price_in_cents_with_discount": 799
         },
         {
-          "packageid": "84849",
+          "packageid": 84849,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Superfight: The Orange Deck - 1,99\u20ac",
@@ -72,7 +74,7 @@
           "price_in_cents_with_discount": 199
         },
         {
-          "packageid": "87567",
+          "packageid": 87567,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Superfight: The Red Deck - 1,99\u20ac",
@@ -186,6 +188,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jun, 2015"
@@ -194,5 +199,9 @@
     "url": "http://www.berserk-games.com/forum",
     "email": "berserkgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367330/page_bg_generated_v6b.jpg?t=1478647778"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367330/page_bg_generated_v6b.jpg?t=1478647778",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

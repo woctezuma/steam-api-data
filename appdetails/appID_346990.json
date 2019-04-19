@@ -35,11 +35,13 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     59639,
-    "67989"
+    67989
   ],
   "package_groups": [
     {
@@ -62,7 +64,7 @@
           "price_in_cents_with_discount": 499
         },
         {
-          "packageid": "67989",
+          "packageid": 67989,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Son of Nor Gold Edition - 22,99\u20ac",
@@ -146,6 +148,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/346990/ss_35685dbf56f97b14cbec32beb2497fa00616aaf7.1920x1080.jpg?t=1447368303"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Apr, 2015"
@@ -154,5 +159,9 @@
     "url": "http://sonofnor.com",
     "email": "support@stillalive-studios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/346990/page_bg_generated_v6b.jpg?t=1447368303"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/346990/page_bg_generated_v6b.jpg?t=1447368303",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

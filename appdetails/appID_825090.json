@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 3499,
     "final": 3499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "34,99\u20ac"
   },
   "packages": [
     253321
@@ -167,6 +169,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Apr, 2018"
@@ -175,5 +180,9 @@
     "url": "http://support.my.com/games/kb/SF/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/825090/page_bg_generated_v6b.jpg?t=1523531332"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/825090/page_bg_generated_v6b.jpg?t=1523531332",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

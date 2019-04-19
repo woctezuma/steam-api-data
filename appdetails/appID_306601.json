@@ -11,7 +11,7 @@
     "appid": "288060",
     "name": "Whispering Willows"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Polish, Portuguese-Brazil, Russian, Simplified Chinese, Ukrainian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Ukrainian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/306601/header.jpg?t=1518401295",
   "website": "http://www.akuparagames.com/game/whispering-willows",
   "pc_requirements": {
@@ -32,12 +32,14 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
-    "47607"
+    47607
   ],
   "package_groups": [
     {
@@ -50,14 +52,14 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "47607",
+          "packageid": 47607,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Whispering Willows - Soundtrack & Art Book - 4,99\u20ac",
+          "option_text": "Whispering Willows - Soundtrack & Art Book - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -169,5 +171,9 @@
     "url": "http://www.akuparagames.com/contact/",
     "email": "support@akuparagames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/306601/page_bg_generated_v6b.jpg?t=1518401295"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/306601/page_bg_generated_v6b.jpg?t=1518401295",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

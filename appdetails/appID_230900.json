@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>Be warned, Succubus and Warlock! A new deliciously deadly duo enters the dungeon \u2013 one whose reflection you cannot see along with one you shouldn't ogle except in a mirror. The Vampire may seem like an easy target, but a word of advice: don\u2019t snuggle with her undead poodle! And the Medusa has returned to Ardania with a vengeance. Rub her scales just right and she will silently slither up on your enemies and fill them with quarrels!\n</p>\n\n",
   "about_the_game": "<p>Be warned, Succubus and Warlock! A new deliciously deadly duo enters the dungeon \u2013 one whose reflection you cannot see along with one you shouldn't ogle except in a mirror. The Vampire may seem like an easy target, but a word of advice: don\u2019t snuggle with her undead poodle! And the Medusa has returned to Ardania with a vengeance. Rub her scales just right and she will silently slither up on your enemies and fill them with quarrels!\n</p>\n\n",
-  "short_description": "",
+  "short_description": "Be warned, Succubus and Warlock! A new deliciously deadly duo enters the dungeon \u2013 one whose reflection you cannot see along with one you shouldn't ogle except in a mirror. The Vampire may seem like an easy target, but a word of advice: don\u2019t snuggle with her undead poodle! And the Medusa has returned to Ardania with a vengeance.",
   "fullgame": {
     "appid": "202130",
     "name": "Impire"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     26236
@@ -147,6 +149,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/230900/ss_ca031fab6786bd06c804e57c1713dd3b9dbedd25.1920x1080.jpg?t=1447357343"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Mar, 2013"
@@ -155,5 +160,9 @@
     "url": "www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/230900/page_bg_generated_v6b.jpg?t=1447357343"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/230900/page_bg_generated_v6b.jpg?t=1447357343",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

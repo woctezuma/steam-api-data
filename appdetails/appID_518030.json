@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     121298
@@ -163,7 +165,10 @@
     }
   ],
   "recommendations": {
-    "total": 1890
+    "total": 2832
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -173,5 +178,9 @@
     "url": "",
     "email": "contacts@aimhero.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/518030/page_bg_generated_v6b.jpg?t=1522503726"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/518030/page_bg_generated_v6b.jpg?t=1522503726",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

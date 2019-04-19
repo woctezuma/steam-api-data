@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "The Steam Starter Pack is designed to get you started right in Star Trek Timelines. Start your game off with <strong>TEN 10x Premium Packs</strong> - that's 100 Rare or better crew or schematics - plus <strong>500,000 credits</strong>, <strong>700 Dilithium</strong>, and 500 VIP points and Bonus Dilithium based on your current VIP level! Use your credits and Dilithium to purchase new packs in the game, or upgrade your crew so they're even more powerful. <u>Get started the right way!</u> <br><br><br>NOTE: DLC will be automatically added to your game the next time you log in after purchase. If you wish to add DLC to an existing STT account, please start STT in Steam and log into your existing account before purchasing DLC.",
   "about_the_game": "The Steam Starter Pack is designed to get you started right in Star Trek Timelines. Start your game off with <strong>TEN 10x Premium Packs</strong> - that's 100 Rare or better crew or schematics - plus <strong>500,000 credits</strong>, <strong>700 Dilithium</strong>, and 500 VIP points and Bonus Dilithium based on your current VIP level! Use your credits and Dilithium to purchase new packs in the game, or upgrade your crew so they're even more powerful. <u>Get started the right way!</u> <br><br><br>NOTE: DLC will be automatically added to your game the next time you log in after purchase. If you wish to add DLC to an existing STT account, please start STT in Steam and log into your existing account before purchasing DLC.",
-  "short_description": "<strong>TEN 10x Premium Packs</strong>, plus <strong>500,000 credits</strong>, <strong>700 Dilithium</strong> and 500 VIP points!",
+  "short_description": "TEN 10x Premium Packs, plus 500,000 credits, 700 Dilithium and 500 VIP points!",
   "fullgame": {
     "appid": "600750",
     "name": "Star Trek Timelines"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Spanish, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/668710/header.jpg?t=1500487353",
   "website": "https://www.disruptorbeam.com/games/star-trek-timelines/",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     190112
@@ -130,6 +132,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/668710/ss_b4f3336cfd2d0780e59ab1669e54edb5cdf5da4d.1920x1080.jpg?t=1500487353"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Jul, 2017"
@@ -138,5 +143,9 @@
     "url": "https://www.disruptorbeam.com/support/",
     "email": "support@disruptorbeam.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/668710/page_bg_generated_v6b.jpg?t=1500487353"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/668710/page_bg_generated_v6b.jpg?t=1500487353",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

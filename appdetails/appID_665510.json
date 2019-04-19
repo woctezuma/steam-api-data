@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     189007
@@ -131,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/665510/ss_cff2b5b644bf40c5967e0fdea9e526d1d3bc1d5d.1920x1080.jpg?t=1498755237"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Jun, 2017"
@@ -139,5 +144,9 @@
     "url": "http://www.impossiblemystery.com",
     "email": "support@impossiblemystery.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/665510/page_bg_generated_v6b.jpg?t=1498755237"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/665510/page_bg_generated_v6b.jpg?t=1498755237",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

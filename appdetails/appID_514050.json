@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     119883
@@ -151,6 +153,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Aug, 2016"
@@ -159,5 +164,9 @@
     "url": "http://retroism.com/contact/",
     "email": "support@retroism.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/514050/page_bg_generated_v6b.jpg?t=1471627200"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/514050/page_bg_generated_v6b.jpg?t=1471627200",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

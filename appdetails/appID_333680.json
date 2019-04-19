@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     54793
@@ -118,5 +120,9 @@
     "url": "http://visit-ultraworld.com/help/",
     "email": "contact@visit-ultraworld.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/333680/page_bg_generated_v6b.jpg?t=1462749660"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/333680/page_bg_generated_v6b.jpg?t=1462749660",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

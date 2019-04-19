@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Includes the costume items 'Ponytail Wig' and 'Blonde Ponytail Wig.'",
   "about_the_game": "Includes the costume items 'Ponytail Wig' and 'Blonde Ponytail Wig.'",
-  "short_description": "Includes the costume items 'Ponytail Wig' and 'Blonde Ponytail Wig.'",
+  "short_description": "Includes the costume items 'Ponytail Wig' and 'Blonde Ponytail Wig.",
   "fullgame": {
     "appid": "446390",
     "name": "Onechanbara Z2: Chaos"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     102732
@@ -109,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467035/ss_be6781f00a1e702b410735078fb1d5179fb9fffb.1920x1080.jpg?t=1466053069"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jun, 2016"
@@ -117,5 +122,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467035/page_bg_generated_v6b.jpg?t=1466053069"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467035/page_bg_generated_v6b.jpg?t=1466053069",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

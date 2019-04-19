@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     65147
@@ -223,5 +225,9 @@
     "url": "",
     "email": "support@rokapublish.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/362830/page_bg_generated_v6b.jpg?t=1516800312"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/362830/page_bg_generated_v6b.jpg?t=1516800312",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,8 +11,8 @@
     "appid": "285010",
     "name": "Pixel Puzzles: UndeadZ"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/464730/header.jpg?t=1508271353",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/464730/header.jpg?t=1544285234",
   "website": "http://decayinglogic.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 100 MB available space</li></ul>",
@@ -25,13 +25,15 @@
     "DL Softworks"
   ],
   "publishers": [
-    "KISS ltd"
+    "DL Softworks"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "final": 49,
+    "discount_percent": 75,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "0,49\u20ac"
   },
   "packages": [
     101928
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 101928,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "Pixel Puzzles: UndeadZ - Original Soundtrack - 1,99\u20ac",
+          "option_text": "Pixel Puzzles: UndeadZ - Original Soundtrack - <span class=\"discount_original_price\">1,99\u20ac</span> 0,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 49
         }
       ]
     }
@@ -99,10 +101,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/464730/ss_c385630b1f74728ae4053059ccc698844eb71b84.600x338.jpg?t=1508271353",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464730/ss_c385630b1f74728ae4053059ccc698844eb71b84.1920x1080.jpg?t=1508271353"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/464730/ss_c385630b1f74728ae4053059ccc698844eb71b84.600x338.jpg?t=1544285234",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464730/ss_c385630b1f74728ae4053059ccc698844eb71b84.1920x1080.jpg?t=1544285234"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Apr, 2016"
@@ -111,5 +116,9 @@
     "url": "http://decayinglogic.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/464730/page_bg_generated_v6b.jpg?t=1508271353"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/464730/page_bg_generated_v6b.jpg?t=1544285234",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

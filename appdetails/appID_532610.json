@@ -15,11 +15,11 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/532610/header.jpg?t=1475791293",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP / Vista / 7<br></li><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Graphics:</strong> 1280x720p minimum resolution, recommended dedicated graphics card and 16x9 resolution.<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Additional Notes:</strong> Resolutions other than 16x9 and also portrait view monitors have been known to cause UI scaling issues.</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP / Vista / 7<br></li><li><strong>Processeur\u00a0:</strong> 2 GHz Dual Core<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 MB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> 1280x720p minimum resolution, recommended dedicated graphics card and 16x9 resolution.<br></li><li><strong>Espace disque\u00a0:</strong> 300 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Resolutions other than 16x9 and also portrait view monitors have been known to cause UI scaling issues.</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any<br></li><li><strong>Processor:</strong> 2 GHz Dual Core<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Graphics:</strong> 1280x720p minimum resolution, recommended dedicated graphics card and 16x9 resolution.<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Additional Notes:</strong> Resolutions other than 16x9 and also portrait view monitors have been known to cause UI scaling issues.</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Any<br></li><li><strong>Processeur\u00a0:</strong> 2 GHz Dual Core<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 MB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> 1280x720p minimum resolution, recommended dedicated graphics card and 16x9 resolution.<br></li><li><strong>Espace disque\u00a0:</strong> 300 MB d'espace disque disponible<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> Resolutions other than 16x9 and also portrait view monitors have been known to cause UI scaling issues.</li></ul>"
   },
   "developers": [
     "Innuendo Squad Studios"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     128786
@@ -99,5 +101,9 @@
     "url": "",
     "email": "eduardo@innuendosquadstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/532610/page_bg_generated_v6b.jpg?t=1475791293"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/532610/page_bg_generated_v6b.jpg?t=1475791293",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

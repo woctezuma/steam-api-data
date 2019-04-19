@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Soundtrack for RPS Runner.<br />\r\n<br />\r\nTracks as follows:<br />\r\n<br />\r\n-8-bit loop<br />\r\n-ChipChippy<br />\r\n-Chippy Cloud Kid<br />\r\n-Elevator Music<br />\r\n-Fear and Horror<br />\r\n-Gasoline Rainbows<br />\r\n-Up to no Good<br />\r\n-Vanguard Bouncy<br />\r\n<br />\r\nThe sound track is available in the DLC folder in your RPS Runner game folder.<br />\r\nTo unlock the achievement, go to RPS Runner folder in Steamapps &gt; DLC &gt; DLC achievement unlocker and open the Steam unlocker executable.",
   "about_the_game": "Soundtrack for RPS Runner.<br />\r\n<br />\r\nTracks as follows:<br />\r\n<br />\r\n-8-bit loop<br />\r\n-ChipChippy<br />\r\n-Chippy Cloud Kid<br />\r\n-Elevator Music<br />\r\n-Fear and Horror<br />\r\n-Gasoline Rainbows<br />\r\n-Up to no Good<br />\r\n-Vanguard Bouncy<br />\r\n<br />\r\nThe sound track is available in the DLC folder in your RPS Runner game folder.<br />\r\nTo unlock the achievement, go to RPS Runner folder in Steamapps &gt; DLC &gt; DLC achievement unlocker and open the Steam unlocker executable.",
-  "short_description": "Soundtrack for RPS Runner.<br />\r\n<br />\r\n8 Tracks.",
+  "short_description": "Soundtrack for RPS Runner. 8 Tracks.",
   "fullgame": {
     "appid": "654670",
     "name": "RPS Runner"
@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 66,
-    "discount_percent": 33
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     186229
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 186229,
-          "percent_savings_text": "-33%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "RPS Runner: Soundtrack - <span class=\"discount_original_price\">0,99\u20ac</span> 0,66\u20ac",
+          "option_text": "RPS Runner: Soundtrack - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 66
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -111,5 +113,9 @@
     "url": "https://thugnificentreviews.wordpress.com/",
     "email": "thugnificentreviews@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/658410/page_bg_generated_v6b.jpg?t=1502093616"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/658410/page_bg_generated_v6b.jpg?t=1502093616",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

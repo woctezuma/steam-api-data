@@ -33,8 +33,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 79,
+    "discount_percent": 20,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     87922
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 87922,
-          "percent_savings_text": "",
+          "percent_savings_text": "-20%",
           "percent_savings": 0,
-          "option_text": "Hyperdevotion Noire - Ultimate Blanc Set - 0,99\u20ac",
+          "option_text": "Hyperdevotion Noire - Ultimate Blanc Set - <span class=\"discount_original_price\">0,99\u20ac</span> 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -94,6 +96,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/426922/ss_2d7d2db5443e285faa93b62ed3d9f6507cb157bb.1920x1080.jpg?t=1466717577"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Apr, 2016"
@@ -102,5 +107,9 @@
     "url": "http://ideafintl.com/contact.php",
     "email": "pcsupport@ideafintl.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/426922/page_bg_generated_v6b.jpg?t=1466717577"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/426922/page_bg_generated_v6b.jpg?t=1466717577",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

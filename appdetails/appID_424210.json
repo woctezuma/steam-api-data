@@ -37,11 +37,13 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     86962,
-    "87099"
+    87099
   ],
   "package_groups": [
     {
@@ -64,7 +66,7 @@
           "price_in_cents_with_discount": 999
         },
         {
-          "packageid": "87099",
+          "packageid": 87099,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "SodaCity Deluxe Edition - 11,99\u20ac",
@@ -231,5 +233,9 @@
     "url": "",
     "email": "contact@tochasstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/424210/page_bg_generated_v6b.jpg?t=1463798422"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/424210/page_bg_generated_v6b.jpg?t=1463798422",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

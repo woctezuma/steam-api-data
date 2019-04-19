@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Get ready to pack your gear and fly off into the wilderness of the endless plains!<br><br>As the busy operator of a hangar and runway in the heart of a region like the Serengeti, there are countless ways to earn a living. As an \u2018old school\u2019 bush pilot, you must undertake challenging jobs to make the lives of both tourists and locals a lot easier. Fight bush fires, transport goods, find missing people &amp; items, serve as a first responder &amp; wildlife preservationist, or simply take some snapshots of archaeological finds.<br><br>At the beginning, you must make do with small planes - but with increased success you will be able to upgrade your craft, buy more powerful machinery, and accept more lucrative missions. However, you must be careful - all machines have to be maintained properly and improved in order to operate efficiently.<br><br>The accurate handling and realistic physics combine with full controller support to provide you with complete control over your aircraft. So get into the cockpit, head out to the Steppe, and indulge your passions \u2013 in \u2018Aviator: Bush Pilot\u2019.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Vast and detailed 3D-scenarios across a wide range of landscapes<br></li><li>A variety of airplane models to choose from<br></li><li>Diverse array of challenging missions and tasks<br></li><li>Maintain and upgrade aircraft<br></li><li>Cockpit camera with instrument gauges and steering<br></li><li>Accurate and intuitive handling and an easy-to-use tutorial<br></li><li>Full controller support</li></ul>",
   "about_the_game": "Get ready to pack your gear and fly off into the wilderness of the endless plains!<br><br>As the busy operator of a hangar and runway in the heart of a region like the Serengeti, there are countless ways to earn a living. As an \u2018old school\u2019 bush pilot, you must undertake challenging jobs to make the lives of both tourists and locals a lot easier. Fight bush fires, transport goods, find missing people &amp; items, serve as a first responder &amp; wildlife preservationist, or simply take some snapshots of archaeological finds.<br><br>At the beginning, you must make do with small planes - but with increased success you will be able to upgrade your craft, buy more powerful machinery, and accept more lucrative missions. However, you must be careful - all machines have to be maintained properly and improved in order to operate efficiently.<br><br>The accurate handling and realistic physics combine with full controller support to provide you with complete control over your aircraft. So get into the cockpit, head out to the Steppe, and indulge your passions \u2013 in \u2018Aviator: Bush Pilot\u2019.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Vast and detailed 3D-scenarios across a wide range of landscapes<br></li><li>A variety of airplane models to choose from<br></li><li>Diverse array of challenging missions and tasks<br></li><li>Maintain and upgrade aircraft<br></li><li>Cockpit camera with instrument gauges and steering<br></li><li>Accurate and intuitive handling and an easy-to-use tutorial<br></li><li>Full controller support</li></ul>",
-  "short_description": "As the busy operator of a hangar and runway in the heart of a region like the Serengeti, there are countless ways to earn a living. As an \u2018old school\u2019 bush pilot, you must undertake challenging jobs to make the lives of both tourists and locals a lot easier. Fight bush fires, transport goods, find missing people &amp; items, serve as a first responder &amp; wildlife preservationist, or simply take some snapshots of archaeological finds.",
+  "short_description": "As the busy operator of a hangar and runway in the heart of a region like the Serengeti, there are countless ways to earn a living. As an \u2018old school\u2019 bush pilot, you must undertake challenging jobs to make the lives of both tourists and locals a lot easier.",
   "supported_languages": "English, German",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/273830/header.jpg?t=1479842635",
   "website": "http://www.uieg.de/",
@@ -27,8 +27,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 299,
+    "discount_percent": 70,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     37009
@@ -45,13 +47,13 @@
       "subs": [
         {
           "packageid": 37009,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Aviator - Bush Pilot - 9,99\u20ac",
+          "option_text": "Aviator - Bush Pilot - <span class=\"discount_original_price\">9,99\u20ac</span> 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -220,5 +222,9 @@
     "url": "http://www.uieg.de/",
     "email": "support@uieg.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/273830/page_bg_generated_v6b.jpg?t=1479842635"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/273830/page_bg_generated_v6b.jpg?t=1479842635",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

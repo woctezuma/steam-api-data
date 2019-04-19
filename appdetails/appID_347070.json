@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     59661
@@ -142,6 +144,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/347070/ss_0d38f2e20028d11eb48818e0e4ef2458f1aa7b50.1920x1080.jpg?t=1461848426"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Feb, 2015"
@@ -150,5 +155,9 @@
     "url": "http://www.risingstargames.com",
     "email": "support@risingstargames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/347070/page_bg_generated_v6b.jpg?t=1461848426"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/347070/page_bg_generated_v6b.jpg?t=1461848426",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

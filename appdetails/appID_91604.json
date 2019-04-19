@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Ever wanted to enjoy the music of Sanctum without having to fend off hundreds of monsters on the side? Well, here's your chance! Composed by Coffee Stain Studio's very own Gustaf Tivander, the Sanctum soundtrack is now available due to popular demand. Comprising of eleven beautifully remastered tracks (and one bonus song), the Sanctum soundtrack is an exquisite collection of soft, soothing tunes and heart-pumping electronic battle music.<br>\t\t\t\t\t\t<strong>The Soundtrack comes in 128 kbps MP3 and uncompressed WAV for those who demand higher quality.  Songs will be placed in your Sanctum folder in the Steam Directory:<br><br>\t\t\t\t\t\t...Steam\\steamapps\\common\\Sanctum\\Soundtrack</strong>",
   "about_the_game": "Ever wanted to enjoy the music of Sanctum without having to fend off hundreds of monsters on the side? Well, here's your chance! Composed by Coffee Stain Studio's very own Gustaf Tivander, the Sanctum soundtrack is now available due to popular demand. Comprising of eleven beautifully remastered tracks (and one bonus song), the Sanctum soundtrack is an exquisite collection of soft, soothing tunes and heart-pumping electronic battle music.<br>\t\t\t\t\t\t<strong>The Soundtrack comes in 128 kbps MP3 and uncompressed WAV for those who demand higher quality.  Songs will be placed in your Sanctum folder in the Steam Directory:<br><br>\t\t\t\t\t\t...Steam\\steamapps\\common\\Sanctum\\Soundtrack</strong>",
-  "short_description": "",
+  "short_description": "Ever wanted to enjoy the music of Sanctum without having to fend off hundreds of monsters on the side? Well, here's your chance! Composed by Coffee Stain Studio's very own Gustaf Tivander, the Sanctum soundtrack is now available due to popular demand.",
   "fullgame": {
     "appid": "91600",
     "name": "Sanctum"
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 499,
-    "discount_percent": 50
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     11134
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 11134,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Sanctum: Official Soundtrack - <span class=\"discount_original_price\">9,99\u20ac</span> 4,99\u20ac",
+          "option_text": "Sanctum: Official Soundtrack - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -84,6 +86,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Aug, 2011"
@@ -92,5 +97,9 @@
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

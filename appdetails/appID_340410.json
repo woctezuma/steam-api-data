@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     57139
@@ -182,6 +184,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Feb, 2015"
@@ -190,5 +195,9 @@
     "url": "http://www.ghostmachinevr.com/#!superbike-tt/c34s",
     "email": "support@ghostmachinevr.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340410/page_bg_generated_v6b.jpg?t=1447366575"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340410/page_bg_generated_v6b.jpg?t=1447366575",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

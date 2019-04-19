@@ -1,6 +1,6 @@
 {
   "type": "game",
-  "name": "College Daze",
+  "name": "Sunny Daze",
   "steam_appid": 467700,
   "required_age": 0,
   "is_free": false,
@@ -8,13 +8,17 @@
   "about_the_game": "Your final year was supposed to be an easy time, studying and preparing for the end of year finals. But when your best friend involves you in a crazy experiment your life is turned upside down, unexpected consequences ensue leading to a chaotic final year.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>A cute and fun, well written storyline.<br></li><li>Multiple routes and choices that affect the endings.<br></li><li>High quality characters, backgrounds and CG Scenes.<br></li><li>1080p window &amp; full screen options.<br></li><li>Multiple save slots and full VN functions.</li></ul>",
   "short_description": "Your final year was supposed to be an easy time, studying and preparing for the end of year finals. But when your best friend involves you in a crazy experiment your life is turned upside down, unexpected consequences ensue leading to a chaotic final year.",
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/467700/header.jpg?t=1516931732",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/467700/header.jpg?t=1554142190",
   "website": "http://dharker.studio",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 1920x1080<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
   },
-  "mac_requirements": [],
-  "linux_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X version Leopard 10.5.8 or later<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 1920x1080<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 1920x1080<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+  },
   "legal_notice": "Dharker Studios Ltd \u00a92016+",
   "developers": [
     "Dharker Studio"
@@ -25,8 +29,8 @@
   "package_groups": [],
   "platforms": {
     "windows": true,
-    "mac": false,
-    "linux": false
+    "mac": true,
+    "linux": true
   },
   "categories": [
     {
@@ -39,14 +43,6 @@
     }
   ],
   "genres": [
-    {
-      "id": "71",
-      "description": "Sexual Content"
-    },
-    {
-      "id": "72",
-      "description": "Nudity"
-    },
     {
       "id": "25",
       "description": "Adventure"
@@ -63,37 +59,41 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_9aab75ff879f756f090a2ef0f53917dadd9dac7b.600x338.jpg?t=1516931732",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_9aab75ff879f756f090a2ef0f53917dadd9dac7b.1920x1080.jpg?t=1516931732"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_9aab75ff879f756f090a2ef0f53917dadd9dac7b.600x338.jpg?t=1554142190",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_9aab75ff879f756f090a2ef0f53917dadd9dac7b.1920x1080.jpg?t=1554142190"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_050430ab27679baf00c2446e151d62f783e9dec1.600x338.jpg?t=1516931732",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_050430ab27679baf00c2446e151d62f783e9dec1.1920x1080.jpg?t=1516931732"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_050430ab27679baf00c2446e151d62f783e9dec1.600x338.jpg?t=1554142190",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_050430ab27679baf00c2446e151d62f783e9dec1.1920x1080.jpg?t=1554142190"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_b6ad9f0d1469047a80d18cde2cd6f6c94dbc1a0a.600x338.jpg?t=1516931732",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_b6ad9f0d1469047a80d18cde2cd6f6c94dbc1a0a.1920x1080.jpg?t=1516931732"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_b6ad9f0d1469047a80d18cde2cd6f6c94dbc1a0a.600x338.jpg?t=1554142190",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_b6ad9f0d1469047a80d18cde2cd6f6c94dbc1a0a.1920x1080.jpg?t=1554142190"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_455fbd471bd77d93005b581c45d409c879929688.600x338.jpg?t=1516931732",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_455fbd471bd77d93005b581c45d409c879929688.1920x1080.jpg?t=1516931732"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_455fbd471bd77d93005b581c45d409c879929688.600x338.jpg?t=1554142190",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_455fbd471bd77d93005b581c45d409c879929688.1920x1080.jpg?t=1554142190"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_7b59fe9bf3f29acdc188cddf7d1c14c89438b6ce.600x338.jpg?t=1516931732",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_7b59fe9bf3f29acdc188cddf7d1c14c89438b6ce.1920x1080.jpg?t=1516931732"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_7b59fe9bf3f29acdc188cddf7d1c14c89438b6ce.600x338.jpg?t=1554142190",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467700/ss_7b59fe9bf3f29acdc188cddf7d1c14c89438b6ce.1920x1080.jpg?t=1554142190"
     }
   ],
   "release_date": {
     "coming_soon": true,
-    "date": "Nov 2018"
+    "date": "Oct 2019"
   },
   "support_info": {
     "url": "http://Dharker.Studio",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467700/page_bg_generated_v6b.jpg?t=1516931732"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467700/page_bg_generated_v6b.jpg?t=1554142190",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

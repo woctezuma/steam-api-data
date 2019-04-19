@@ -12,7 +12,7 @@
     "appid": "356790",
     "name": "Galacide"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese<strong>*</strong>, Portuguese-Brazil<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Swedish<strong>*</strong>, Thai<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Swedish<strong>*</strong>, Thai<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/500910/header.jpg?t=1515170483",
   "website": "http://www.Galacide.com",
   "pc_requirements": {
@@ -37,9 +37,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     114955
@@ -58,11 +60,11 @@
           "packageid": 114955,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Galacide Soundtrack - 2,99\u20ac",
+          "option_text": "Galacide Soundtrack - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -123,6 +125,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/500910/ss_2e2506b763b8d7666340d8390dc9acd1689f3a6a.1920x1080.jpg?t=1515170483"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Jul, 2016"
@@ -131,5 +136,9 @@
     "url": "http://www.galacide.com",
     "email": "support@punyhumangames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/500910/page_bg_generated_v6b.jpg?t=1515170483"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/500910/page_bg_generated_v6b.jpg?t=1515170483",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

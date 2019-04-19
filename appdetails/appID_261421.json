@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The Goatperson DLC adds a new playable class to Desktop Dungeons' already large roster of characters. The Goatperson is a throwback to roguelike gameplay of yesteryear, answering the oft-asked question &quot;What would Desktop Dungeons be like if you had to eat food like regular roguelikes?&quot;, the less-oft-asked question &quot;What do Goatpeople eat anyways?&quot; and the briefly-asked &quot;Why did we just switch gods?&quot;.<br />\n<br />\nThis DLC also contains a new building, the aptly named Goat Glade, which houses a useful Item Lottery for players with more gold than sense, as well as a series of unique Triple Quests that pit players against three randomly generated dungeons in a row (reminiscent of the infamous campaign in the Desktop Dungeons alpha). Each Triple Quest reveals new knowledge about the world of Desktop Dungeons.",
   "about_the_game": "The Goatperson DLC adds a new playable class to Desktop Dungeons' already large roster of characters. The Goatperson is a throwback to roguelike gameplay of yesteryear, answering the oft-asked question &quot;What would Desktop Dungeons be like if you had to eat food like regular roguelikes?&quot;, the less-oft-asked question &quot;What do Goatpeople eat anyways?&quot; and the briefly-asked &quot;Why did we just switch gods?&quot;.<br />\n<br />\nThis DLC also contains a new building, the aptly named Goat Glade, which houses a useful Item Lottery for players with more gold than sense, as well as a series of unique Triple Quests that pit players against three randomly generated dungeons in a row (reminiscent of the infamous campaign in the Desktop Dungeons alpha). Each Triple Quest reveals new knowledge about the world of Desktop Dungeons.",
-  "short_description": "",
+  "short_description": "The Goatperson DLC adds a new playable class to Desktop Dungeons' already large roster of characters. The Goatperson is a throwback to roguelike gameplay of yesteryear, answering the oft-asked question &quot;What would Desktop Dungeons be like if you had to eat food like regular roguelikes?",
   "fullgame": {
     "appid": "226620",
     "name": "Desktop Dungeons"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     33750
@@ -127,6 +129,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/261421/ss_f4292b7e4c7c7922351152b85fa524b7e185271a.1920x1080.jpg?t=1447359321"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Nov, 2013"
@@ -135,5 +140,9 @@
     "url": "http://www.qcfdesign.com/forum",
     "email": "info@qcfdesign.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261421/page_bg_generated_v6b.jpg?t=1447359321"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261421/page_bg_generated_v6b.jpg?t=1447359321",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

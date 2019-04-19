@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     63425
@@ -172,6 +174,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Oct, 2016"
@@ -180,5 +185,9 @@
     "url": "http://www.roguecontinuum.com/",
     "email": "contact@rocktasticgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/357700/page_bg_generated_v6b.jpg?t=1475596040"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/357700/page_bg_generated_v6b.jpg?t=1475596040",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     182699
@@ -131,5 +133,9 @@
     "url": "http://desertowlgames.uservoice.com",
     "email": "support@desertowlgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/649431/page_bg_generated_v6b.jpg?t=1501609323"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/649431/page_bg_generated_v6b.jpg?t=1501609323",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

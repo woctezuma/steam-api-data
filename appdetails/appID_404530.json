@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     79345
@@ -194,10 +196,10 @@
     }
   ],
   "recommendations": {
-    "total": 235
+    "total": 288
   },
   "achievements": {
-    "total": 53,
+    "total": 72,
     "highlighted": [
       {
         "name": "Allied",
@@ -249,5 +251,9 @@
     "url": "http://www.voxelturf.net",
     "email": "voxelturf.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404530/page_bg_generated_v6b.jpg?t=1505200953"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404530/page_bg_generated_v6b.jpg?t=1505200953",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

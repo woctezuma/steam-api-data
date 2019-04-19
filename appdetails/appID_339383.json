@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 2799,
     "final": 2799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "27,99\u20ac"
   },
   "packages": [
     56757
@@ -196,6 +198,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/339383/ss_32e6356b2e69cedd0ad518ffc189ce8c2ae4974f.1920x1080.jpg?t=1490961003"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Feb, 2015"
@@ -204,5 +209,9 @@
     "url": "https://aerosoft.zendesk.com/anonymous_requests/new",
     "email": "https://aerosoft.zendesk.com/anonymous_requests/new"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/339383/page_bg_generated_v6b.jpg?t=1490961003"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/339383/page_bg_generated_v6b.jpg?t=1490961003",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

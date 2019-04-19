@@ -12,16 +12,16 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/340360/header.jpg?t=1464656230",
   "website": "http://tot.jhuhman.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or Later<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Pixel Shader 2.0<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Java 1.6</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or Later<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Pixel Shader 2.0<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Java 1.6</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or Later<br></li><li><strong>Minne:</strong> 1 GB RAM<br></li><li><strong>Grafikk:</strong> Pixel Shader 2.0<br></li><li><strong>Lagring:</strong> 200 MB tilgjengelig plass<br></li><li><strong>Tilleggsmerknader:</strong> Java 1.6</li></ul>",
+    "recommended": "<strong>Anbefalt:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or Later<br></li><li><strong>Minne:</strong> 1 GB RAM<br></li><li><strong>Grafikk:</strong> Pixel Shader 2.0<br></li><li><strong>Lagring:</strong> 200 MB tilgjengelig plass<br></li><li><strong>Tilleggsmerknader:</strong> Java 1.6</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.7 or Later<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Pixel Shader 2.0<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Java 1.6</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.7 or Later<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Pixel Shader 2.0<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Java 1.6</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.7 or Later<br></li><li><strong>Minne:</strong> 1 GB RAM<br></li><li><strong>Grafikk:</strong> Pixel Shader 2.0<br></li><li><strong>Lagring:</strong> 200 MB tilgjengelig plass<br></li><li><strong>Tilleggsmerknader:</strong> Java 1.6</li></ul>",
+    "recommended": "<strong>Anbefalt:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.7 or Later<br></li><li><strong>Minne:</strong> 1 GB RAM<br></li><li><strong>Grafikk:</strong> Pixel Shader 2.0<br></li><li><strong>Lagring:</strong> 200 MB tilgjengelig plass<br></li><li><strong>Tilleggsmerknader:</strong> Java 1.6</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 or Later<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Pixel Shader 2.0<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Java 1.6</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 or Later<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Pixel Shader 2.0<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Java 1.6</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 or Later<br></li><li><strong>Minne:</strong> 1 GB RAM<br></li><li><strong>Grafikk:</strong> Pixel Shader 2.0<br></li><li><strong>Lagring:</strong> 200 MB tilgjengelig plass<br></li><li><strong>Tilleggsmerknader:</strong> Java 1.6</li></ul>",
+    "recommended": "<strong>Anbefalt:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 or Later<br></li><li><strong>Minne:</strong> 1 GB RAM<br></li><li><strong>Grafikk:</strong> Pixel Shader 2.0<br></li><li><strong>Lagring:</strong> 200 MB tilgjengelig plass<br></li><li><strong>Tilleggsmerknader:</strong> Java 1.6</li></ul>"
   },
   "developers": [
     "Jake Huhman"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     57109
@@ -180,7 +182,7 @@
     }
   ],
   "recommendations": {
-    "total": 218
+    "total": 163
   },
   "achievements": {
     "total": 20,
@@ -235,5 +237,9 @@
     "url": "",
     "email": "support@jhuhman.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340360/page_bg_generated_v6b.jpg?t=1464656230"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340360/page_bg_generated_v6b.jpg?t=1464656230",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

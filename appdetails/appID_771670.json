@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 252,
     "final": 252,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,52\u20ac"
   },
   "packages": [
     230733,
@@ -145,6 +147,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Jan, 2018"
@@ -153,5 +158,9 @@
     "url": "",
     "email": "youngwoo221@naver.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771670/page_bg_generated_v6b.jpg?t=1516003914"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771670/page_bg_generated_v6b.jpg?t=1516003914",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

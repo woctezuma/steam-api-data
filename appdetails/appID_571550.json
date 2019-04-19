@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Hawk and his friends have sworn to defend their village because the king was too weak to do it. In this game you\u2019ll be leading Hawk and his party to protect the kingdom, you can choose how to do it and the End depends on that very choice. There are many classes and allies, use them wisely and think of the best strategy for the sake of the kingdom.",
   "about_the_game": "Hawk and his friends have sworn to defend their village because the king was too weak to do it. In this game you\u2019ll be leading Hawk and his party to protect the kingdom, you can choose how to do it and the End depends on that very choice. There are many classes and allies, use them wisely and think of the best strategy for the sake of the kingdom.",
-  "short_description": "Hawk and his friends have sworn to defend their village because the king was too weak to do it. In this game you\u2019ll be leading Hawk and his party to protect the kingdom, you can choose how to do it and the End depends on that very choice. There are many classes and allies, use them wisely and think of the best strategy for the sake of the kingdom.",
+  "short_description": "Hawk and his friends have sworn to defend their village because the king was too weak to do it. In this game you\u2019ll be leading Hawk and his party to protect the kingdom, you can choose how to do it and the End depends on that very choice.",
   "supported_languages": "English, French",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/571550/header.jpg?t=1483385754",
   "website": null,
@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 399,
-    "final": 119,
-    "discount_percent": 70
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     145100
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 145100,
-          "percent_savings_text": "-70%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Hawks Tactical - <span class=\"discount_original_price\">3,99\u20ac</span> 1,19\u20ac",
+          "option_text": "Hawks Tactical - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 119
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -132,6 +134,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Jan, 2017"
@@ -140,5 +145,9 @@
     "url": "",
     "email": "lys.brothers@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/571550/page_bg_generated_v6b.jpg?t=1483385754"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/571550/page_bg_generated_v6b.jpg?t=1483385754",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

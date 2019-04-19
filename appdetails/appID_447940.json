@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     95822
@@ -117,9 +119,6 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/447940/ss_560a722fbd750cef98e33ea5a4cffd312f38f31a.1920x1080.jpg?t=1498319146"
     }
   ],
-  "recommendations": {
-    "total": 365
-  },
   "achievements": {
     "total": 0
   },
@@ -131,5 +130,9 @@
     "url": "",
     "email": "henridevdeveloper@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447940/page_bg_generated_v6b.jpg?t=1498319146"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447940/page_bg_generated_v6b.jpg?t=1498319146",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

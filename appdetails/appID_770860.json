@@ -8,14 +8,20 @@
   "about_the_game": "Explore the surreal archipelago of the celtic otherworld Annwn (ann-oon), evading the sweeping gaze of the Watchmen. Hurl your soul from one totem to another in search of answers. Manipulate the environment to progress, but beware of disrupting the balance of light and darkness...<br><br>Annwn is an abstract stealth strategy game about making decisions under pressure, played across a series of bleak and lonely procedural islands.<br><br>You are a disembodied soul, able to dissolve and recreate elements of this mist-shrouded archipelago. Absorb the energy of trees and rocks, and use it to create totems which you can possess...anywhere that you can see the floor. Pump more energy into a totem to raise it higher before transferring your soul to it. Ascend the hills but watch out for the slowly revolving Watcher, who will try to redistribute your precious energy across the landscape. Find clues to the fate of your lost love hidden around the landscape before ascending to absorb the Watcher itself and move on.<br><br><ul class=\"bb_ul\"><li>Infinite variety of procedural islands.<br></li><li>Improve your abilities by absorbing Watchers.<br></li><li>Campaign arcs deliver stories of love, loss, life and death.<br></li><li>Other, undocumented mysteries await in the Otherworld...</li></ul>",
   "short_description": "Annwn is an abstract stealth strategy game of tension and relief, across a series of mysterious procedural islands.",
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/770860/header.jpg?t=1522788930",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/770860/header.jpg?t=1555293368",
   "website": "http://annwngame.uk",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Shader level 5.0<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Shader level 5.0<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Shader level 5.0<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Any<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Shader level 5.0<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
   },
-  "mac_requirements": [],
-  "linux_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
   "developers": [
     "Quantum Soup Studios"
   ],
@@ -28,7 +34,40 @@
       "description": ""
     }
   ],
-  "package_groups": [],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 1249,
+    "final": 999,
+    "discount_percent": 20,
+    "initial_formatted": "12,49\u20ac",
+    "final_formatted": "9,99\u20ac"
+  },
+  "packages": [
+    230122
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Annwn: the Otherworld",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 230122,
+          "percent_savings_text": "-20%",
+          "percent_savings": 0,
+          "option_text": "Annwn: The Otherworld - <span class=\"discount_original_price\">12,49\u20ac</span> 9,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 999
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -49,69 +88,83 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_d12c2db9ef0aa3ce6f00e05b414d18fa16cd0b7a.600x338.jpg?t=1522788930",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_d12c2db9ef0aa3ce6f00e05b414d18fa16cd0b7a.1920x1080.jpg?t=1522788930"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_f35ba88c7b5a6d5490762024146159071eb09b78.600x338.jpg?t=1555293368",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_f35ba88c7b5a6d5490762024146159071eb09b78.1920x1080.jpg?t=1555293368"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_47d71b564957aa421a907a8ed87b33ae04ded194.600x338.jpg?t=1522788930",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_47d71b564957aa421a907a8ed87b33ae04ded194.1920x1080.jpg?t=1522788930"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_01f8b4d0c3a612600c5162d70ad976b581d0ff5f.600x338.jpg?t=1555293368",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_01f8b4d0c3a612600c5162d70ad976b581d0ff5f.1920x1080.jpg?t=1555293368"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_740336d4b92e74dd45f11d7c3db860125497c707.600x338.jpg?t=1522788930",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_740336d4b92e74dd45f11d7c3db860125497c707.1920x1080.jpg?t=1522788930"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_06edc838c14f65f832a3392b5bd6bbd77d39e233.600x338.jpg?t=1555293368",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_06edc838c14f65f832a3392b5bd6bbd77d39e233.1920x1080.jpg?t=1555293368"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_49bb82cf3e80ac0c7eb44b1856732fd049f3a4db.600x338.jpg?t=1522788930",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_49bb82cf3e80ac0c7eb44b1856732fd049f3a4db.1920x1080.jpg?t=1522788930"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_47d71b564957aa421a907a8ed87b33ae04ded194.600x338.jpg?t=1555293368",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_47d71b564957aa421a907a8ed87b33ae04ded194.1920x1080.jpg?t=1555293368"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_3ffc2b9804c824d3bcac41703d21c0817adaec66.600x338.jpg?t=1522788930",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_3ffc2b9804c824d3bcac41703d21c0817adaec66.1920x1080.jpg?t=1522788930"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_b4070c861635b2bfd40273d7518dd3f16409907e.600x338.jpg?t=1555293368",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_b4070c861635b2bfd40273d7518dd3f16409907e.1920x1080.jpg?t=1555293368"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_259f953574e0638d3860685d9a59541c9d4ab22c.600x338.jpg?t=1522788930",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_259f953574e0638d3860685d9a59541c9d4ab22c.1920x1080.jpg?t=1522788930"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_ee05e069f4aa5d10ec9f7fc1b9650523608926c1.600x338.jpg?t=1555293368",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_ee05e069f4aa5d10ec9f7fc1b9650523608926c1.1920x1080.jpg?t=1555293368"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_aa9436dc8467fb723a27c87db65cd6d80b954c58.600x338.jpg?t=1522788930",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_aa9436dc8467fb723a27c87db65cd6d80b954c58.1920x1080.jpg?t=1522788930"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_740336d4b92e74dd45f11d7c3db860125497c707.600x338.jpg?t=1555293368",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_740336d4b92e74dd45f11d7c3db860125497c707.1920x1080.jpg?t=1555293368"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_57147392726d50953916dfaaebfb8187c993923b.600x338.jpg?t=1522788930",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_57147392726d50953916dfaaebfb8187c993923b.1920x1080.jpg?t=1522788930"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_869ca27e780788d3b521eed203e5abf2cad4fcdc.600x338.jpg?t=1555293368",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_869ca27e780788d3b521eed203e5abf2cad4fcdc.1920x1080.jpg?t=1555293368"
     },
     {
       "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_6576f2cc55d835a99d886e498f3b0707945744a8.600x338.jpg?t=1522788930",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_6576f2cc55d835a99d886e498f3b0707945744a8.1920x1080.jpg?t=1522788930"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_2d1b3ccc88178b8ec4ec04df42b412b0fc580430.600x338.jpg?t=1555293368",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_2d1b3ccc88178b8ec4ec04df42b412b0fc580430.1920x1080.jpg?t=1555293368"
+    },
+    {
+      "id": 9,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_b8d7baaa771a3c76a52aeaa0d1b422b95bbe89f6.600x338.jpg?t=1555293368",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_b8d7baaa771a3c76a52aeaa0d1b422b95bbe89f6.1920x1080.jpg?t=1555293368"
+    },
+    {
+      "id": 10,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_d12c2db9ef0aa3ce6f00e05b414d18fa16cd0b7a.600x338.jpg?t=1555293368",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/770860/ss_d12c2db9ef0aa3ce6f00e05b414d18fa16cd0b7a.1920x1080.jpg?t=1555293368"
     }
   ],
   "movies": [
     {
       "id": 256705253,
       "name": "Teaser Trailer",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256705253/movie.293x165.jpg?t=1515541217",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256705253/movie.293x165.jpg?t=1554332735",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256705253/movie480.webm?t=1515541217",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256705253/movie_max.webm?t=1515541217"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256705253/movie480.webm?t=1554332735",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256705253/movie_max.webm?t=1554332735"
       },
       "highlight": true
     }
   ],
   "release_date": {
-    "coming_soon": true,
-    "date": "May 2018"
+    "coming_soon": false,
+    "date": "14 Apr, 2019"
   },
   "support_info": {
     "url": "",
     "email": "support@quantum-soup.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/770860/page_bg_generated_v6b.jpg?t=1522788930"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/770860/page_bg_generated_v6b.jpg?t=1555293368",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     224917
@@ -121,6 +123,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Mar, 2018"
@@ -129,5 +134,9 @@
     "url": "http://steamcommunity.com/groups/Atriagames",
     "email": "xdgonx@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/761410/page_bg_generated_v6b.jpg?t=1522077382"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/761410/page_bg_generated_v6b.jpg?t=1522077382",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

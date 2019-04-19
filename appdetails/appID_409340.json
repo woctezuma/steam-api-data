@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     81245
@@ -167,9 +169,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 105
-  },
   "achievements": {
     "total": 5,
     "highlighted": [
@@ -203,5 +202,9 @@
     "url": "",
     "email": "oblionstudio@hotmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/409340/page_bg_generated_v6b.jpg?t=1491916821"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/409340/page_bg_generated_v6b.jpg?t=1491916821",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

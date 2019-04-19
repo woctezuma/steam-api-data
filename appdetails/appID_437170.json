@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     91909
@@ -186,6 +188,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Jan, 2016"
@@ -194,5 +199,9 @@
     "url": "http://z3roram.com/index.php/amazing-adventures-of-ash",
     "email": "info@z3roram.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437170/page_bg_generated_v6b.jpg?t=1453572673"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437170/page_bg_generated_v6b.jpg?t=1453572673",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

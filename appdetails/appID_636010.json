@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     174737
@@ -139,6 +141,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Jul, 2017"
@@ -147,5 +152,9 @@
     "url": "",
     "email": "support@rokapublish.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/636010/page_bg_generated_v6b.jpg?t=1516878809"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/636010/page_bg_generated_v6b.jpg?t=1516878809",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

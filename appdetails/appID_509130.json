@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     117811
@@ -173,6 +175,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Feb, 2017"
@@ -181,5 +186,9 @@
     "url": "http://rc-airsim.com",
     "email": "tim@fabricated-reality.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/509130/page_bg_generated_v6b.jpg?t=1488252836"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/509130/page_bg_generated_v6b.jpg?t=1488252836",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

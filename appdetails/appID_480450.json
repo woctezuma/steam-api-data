@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     107507
@@ -134,7 +136,7 @@
     }
   ],
   "recommendations": {
-    "total": 237
+    "total": 229
   },
   "achievements": {
     "total": 11,
@@ -189,5 +191,9 @@
     "url": "",
     "email": "rimplydev@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/480450/page_bg_generated_v6b.jpg?t=1482400679"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/480450/page_bg_generated_v6b.jpg?t=1482400679",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

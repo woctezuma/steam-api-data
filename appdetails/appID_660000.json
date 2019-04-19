@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Daniel K. Inouye International Airport, also known as Honolulu International Airport [PHNL]for Tower!2011:SE<br><br>Honolulu International Airport is one of the busiest airport in the United States, with a traffic exceeding 20 million passengers a year.<br>The airport is served by 27 international and domestic carriers, three inter island airlines, and four commuter airlines. Main hub for Hawaiian Airlines, the biggest Hawaii-based airline.<br>PHNL has four active runways. The principal runway designated (8R/26L), also known as the Reef Runway, was the world`s first major runway constructed entirely offshore. <br>Completed in 1977, the Reef Runway was a designated alternate landing site for the Space Shuttle.",
   "about_the_game": "Daniel K. Inouye International Airport, also known as Honolulu International Airport [PHNL]for Tower!2011:SE<br><br>Honolulu International Airport is one of the busiest airport in the United States, with a traffic exceeding 20 million passengers a year.<br>The airport is served by 27 international and domestic carriers, three inter island airlines, and four commuter airlines. Main hub for Hawaiian Airlines, the biggest Hawaii-based airline.<br>PHNL has four active runways. The principal runway designated (8R/26L), also known as the Reef Runway, was the world`s first major runway constructed entirely offshore. <br>Completed in 1977, the Reef Runway was a designated alternate landing site for the Space Shuttle.",
-  "short_description": "Daniel K. Inouye International Airport is an airport DLC for Tower!2011:SE",
+  "short_description": "Daniel K. Inouye International Airport is an airport DLC for Tower!",
   "fullgame": {
     "appid": "620570",
     "name": "Tower!2011:SE"
@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     186841
@@ -129,5 +131,9 @@
     "url": "http://forum.simflight.com/forum/170-atc-simulators/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/660000/page_bg_generated_v6b.jpg?t=1498466650"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/660000/page_bg_generated_v6b.jpg?t=1498466650",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

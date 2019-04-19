@@ -6,7 +6,7 @@
   "is_free": true,
   "detailed_description": "In this tug-of-war, casual defense game\uff0c you play Leonidas who is the hero-king of Sparta,  against hordes of attacking zombies in Thermopylae. Recruit allies and build defenses to stop them!<br />\r\n<br />\r\n\u25cf Leonidas actually learned magic, very useful, very powerful, very funny.<br />\r\n\u25cf A wide variety of allies to summon including swordsmen, Royal Guards, archers, witches and more.<br />\r\n\u25cf More flexible combination of tactics.<br />\r\n\u25cf Special supply system.<br />\r\n\u25cf 60 waves in classic mode, and after accomplished difficulty will increase.<br />\r\n\u25cf 3 kinds of endless mode, wilder, more fun.<br />\r\n\u25cf Beautiful graphics, epic battle.",
   "about_the_game": "In this tug-of-war, casual defense game\uff0c you play Leonidas who is the hero-king of Sparta,  against hordes of attacking zombies in Thermopylae. Recruit allies and build defenses to stop them!<br />\r\n<br />\r\n\u25cf Leonidas actually learned magic, very useful, very powerful, very funny.<br />\r\n\u25cf A wide variety of allies to summon including swordsmen, Royal Guards, archers, witches and more.<br />\r\n\u25cf More flexible combination of tactics.<br />\r\n\u25cf Special supply system.<br />\r\n\u25cf 60 waves in classic mode, and after accomplished difficulty will increase.<br />\r\n\u25cf 3 kinds of endless mode, wilder, more fun.<br />\r\n\u25cf Beautiful graphics, epic battle.",
-  "short_description": "In this tug-of-war, casual defense game\uff0c you play Leonidas who is the hero-king of Sparta,  against hordes of attacking zombies in Thermopylae. Recruit allies and build defenses to stop them!",
+  "short_description": "In this tug-of-war, casual defense game\uff0c you play Leonidas who is the hero-king of Sparta, against hordes of attacking zombies in Thermopylae. Recruit allies and build defenses to stop them!",
   "supported_languages": "English, Traditional Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/340460/header.jpg?t=1523722124",
   "website": null,
@@ -25,7 +25,32 @@
   "publishers": [
     "Lei"
   ],
-  "package_groups": [],
+  "packages": [
+    299104
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Spartans Vs Zombies Defense",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 299104,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Spartans Vs Zombies Defense - Commercial License (Free) - Free",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": true,
+          "price_in_cents_with_discount": 0
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": true,
@@ -102,9 +127,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 723
-  },
   "achievements": {
     "total": 8,
     "highlighted": [
@@ -150,5 +172,9 @@
     "url": "https://www.facebook.com/SVZDef",
     "email": "yfcgamestudio@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340460/page_bg_generated_v6b.jpg?t=1523722124"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340460/page_bg_generated_v6b.jpg?t=1523722124",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

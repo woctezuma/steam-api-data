@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     74741
@@ -153,6 +155,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Jul, 2015"
@@ -161,5 +166,9 @@
     "url": "https://reddit.com/r/phanomgames",
     "email": "phanomgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/391410/page_bg_generated_v6b.jpg?t=1486386494"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/391410/page_bg_generated_v6b.jpg?t=1486386494",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

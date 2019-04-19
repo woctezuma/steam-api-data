@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     82872
@@ -144,5 +146,9 @@
     "url": "http://www.zombieplaygroundgame.com/forum/",
     "email": "support@stealthstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413570/page_bg_generated_v6b.jpg?t=1500307564"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413570/page_bg_generated_v6b.jpg?t=1500307564",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,13 +6,13 @@
   "is_free": false,
   "detailed_description": "New weapons are added to the game.<br />\r\nAt the Blacksmith, select Buy Weapons to obtain powerful weapons for the applicable characters.<br />\r\n<br />\r\n\u25bcApplicable characters:<br />\r\nGinchiyo Tachibana / Muneshige Tachibana / Toyohisa Shimazu / Yoshihiro Shimazu / Motochika Chosokabe / Gracia / Mitsuhide Akechi / Koshosho / Kojiro Sasaki / Musashi Miyamoto",
   "about_the_game": "New weapons are added to the game.<br />\r\nAt the Blacksmith, select Buy Weapons to obtain powerful weapons for the applicable characters.<br />\r\n<br />\r\n\u25bcApplicable characters:<br />\r\nGinchiyo Tachibana / Muneshige Tachibana / Toyohisa Shimazu / Yoshihiro Shimazu / Motochika Chosokabe / Gracia / Mitsuhide Akechi / Koshosho / Kojiro Sasaki / Musashi Miyamoto",
-  "short_description": "New weapons are added to the game.<br />\r\nAt the Blacksmith, select Buy Weapons to obtain powerful weapons for the applicable characters.<br />\r\n<br />\r\n\u25bcApplicable characters:<br />\r\nGinchiyo Tachibana / Muneshige Tachibana / Toyohisa Shimazu / Yoshihiro Shimazu / Motochika Chosokabe / Gracia / Mitsuhide Akechi / Koshosho / Kojiro Sasaki / Musashi Miyamoto",
+  "short_description": "New weapons are added to the game. At the Blacksmith, select Buy Weapons to obtain powerful weapons for the applicable characters. \u25bcApplicable characters: Ginchiyo Tachibana / Muneshige Tachibana / Toyohisa Shimazu / Yoshihiro Shimazu / Motochika Chosokabe / Gracia / Mitsuhide Akechi / Koshosho / Kojiro Sasaki / Musashi...",
   "fullgame": {
     "appid": "595740",
     "name": "SAMURAI WARRIORS: Spirit of Sanada"
   },
   "supported_languages": "English, Traditional Chinese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/595756/header.jpg?t=1507077650",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/595756/header.jpg?t=1550185856",
   "website": "http://www.koeitecmoamerica.com/spiritofsanada/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows\u00ae 7, Windows\u00ae 8.1, Windows\u00ae 10 (64bit required)<br></li><li><strong>Processor:</strong> Core i7 870<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Geforce GTS 450 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 27 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c over<br></li><li><strong>Additional Notes:</strong> 640\u00d7480 pixel over, High Color, VRAM 1GB over</li></ul>",
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     155908
@@ -101,15 +103,18 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/595756/ss_bdc9f29fcfb076ea9cc9f1496352bb799b1f7961.600x338.jpg?t=1507077650",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/595756/ss_bdc9f29fcfb076ea9cc9f1496352bb799b1f7961.1920x1080.jpg?t=1507077650"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/595756/ss_bdc9f29fcfb076ea9cc9f1496352bb799b1f7961.600x338.jpg?t=1550185856",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/595756/ss_bdc9f29fcfb076ea9cc9f1496352bb799b1f7961.1920x1080.jpg?t=1550185856"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/595756/ss_7c0464b62d31b0ef3082e7a3419360c80c3c67b6.600x338.jpg?t=1507077650",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/595756/ss_7c0464b62d31b0ef3082e7a3419360c80c3c67b6.1920x1080.jpg?t=1507077650"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/595756/ss_7c0464b62d31b0ef3082e7a3419360c80c3c67b6.600x338.jpg?t=1550185856",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/595756/ss_7c0464b62d31b0ef3082e7a3419360c80c3c67b6.1920x1080.jpg?t=1550185856"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Jun, 2017"
@@ -118,5 +123,9 @@
     "url": "https://koeitecmo.info/inquiry/kta/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/595756/page_bg_generated_v6b.jpg?t=1507077650"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/595756/page_bg_generated_v6b.jpg?t=1550185856",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

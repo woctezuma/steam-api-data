@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "final": 389,
+    "discount_percent": 35,
+    "initial_formatted": "5,99\u20ac",
+    "final_formatted": "3,89\u20ac"
   },
   "packages": [
     121229
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 121229,
-          "percent_savings_text": "",
+          "percent_savings_text": "-35%",
           "percent_savings": 0,
-          "option_text": "Caesar 3 - 5,99\u20ac",
+          "option_text": "Caesar 3 - <span class=\"discount_original_price\">5,99\u20ac</span> 3,89\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 389
         }
       ]
     }
@@ -104,7 +106,10 @@
     }
   ],
   "recommendations": {
-    "total": 269
+    "total": 313
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -114,5 +119,9 @@
     "url": "https://support.activision.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/517790/page_bg_generated_v6b.jpg?t=1472585834"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/517790/page_bg_generated_v6b.jpg?t=1472585834",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

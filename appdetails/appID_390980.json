@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     74626
@@ -48,11 +50,11 @@
           "packageid": 74626,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Executive Assault - Soundtrack - 4,99\u20ac",
+          "option_text": "Executive Assault - Soundtrack - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -97,6 +99,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/390980/ss_c3935cbc1f41984cfa6407a31007e852b334708c.1920x1080.jpg?t=1447377341"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Aug, 2015"
@@ -105,5 +110,9 @@
     "url": "www.executiveassault.com",
     "email": "heskethr1@executiveassault.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/390980/page_bg_generated_v6b.jpg?t=1447377341"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/390980/page_bg_generated_v6b.jpg?t=1447377341",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

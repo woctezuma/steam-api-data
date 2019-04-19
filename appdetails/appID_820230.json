@@ -11,7 +11,7 @@
     "appid": "306020",
     "name": "Bloons TD 5"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Danish, Finnish, Japanese, Korean, Norwegian, Portuguese-Brazil, Russian, Swedish, Turkish",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Danish, Finnish, Japanese, Korean, Norwegian, Portuguese - Brazil, Russian, Swedish, Turkish",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/820230/header.jpg?t=1523865835",
   "website": "http://ninjakiwi.com",
   "pc_requirements": {
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 119,
-    "discount_percent": 40
+    "final": 199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     251427
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 251427,
-          "percent_savings_text": "-40%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Bloons TD 5 - Navy Monkey Buccaneer Skin - <span class=\"discount_original_price\">1,99\u20ac</span> 1,19\u20ac",
+          "option_text": "Bloons TD 5 - Navy Monkey Buccaneer Skin - 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 119
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -136,6 +138,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/820230/ss_ee2a7020b174ff0b8ade2799b80e108639afc02e.1920x1080.jpg?t=1523865835"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Apr, 2018"
@@ -144,5 +149,9 @@
     "url": "http://support.ninjakiwi.com",
     "email": "support@ninjakiwi.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/820230/page_bg_generated_v6b.jpg?t=1523865835"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/820230/page_bg_generated_v6b.jpg?t=1523865835",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

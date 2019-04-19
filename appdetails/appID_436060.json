@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     91204
@@ -192,5 +194,9 @@
     "url": "http://www.happoly.com/",
     "email": "appsupport@happoly.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/436060/page_bg_generated_v6b.jpg?t=1471545851"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/436060/page_bg_generated_v6b.jpg?t=1471545851",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

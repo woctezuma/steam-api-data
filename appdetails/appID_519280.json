@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>This a 1 hour video discussing different ways I like to approach studying art. A lot of times as beginners, its easy to simply copy things instead of breaking them down and fully understanding what we are seeing. I am guilty of this as well. This video explains some of the things I do to study more efficiently!!",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>This a 1 hour video discussing different ways I like to approach studying art. A lot of times as beginners, its easy to simply copy things instead of breaking them down and fully understanding what we are seeing. I am guilty of this as well. This video explains some of the things I do to study more efficiently!!",
   "about_the_game": "This a 1 hour video discussing different ways I like to approach studying art. A lot of times as beginners, its easy to simply copy things instead of breaking them down and fully understanding what we are seeing. I am guilty of this as well. This video explains some of the things I do to study more efficiently!!",
   "short_description": "This is a video that discusses different ways to approach studying art.",
   "fullgame": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     122185
@@ -104,6 +106,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/519280/ss_f269112b8cc07d02313e8860dfa5f295ece03d57.1920x1080.jpg?t=1474403091"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Sep, 2016"
@@ -112,5 +117,9 @@
     "url": "",
     "email": "KdChock@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519280/page_bg_generated_v6b.jpg?t=1474403091"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519280/page_bg_generated_v6b.jpg?t=1474403091",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

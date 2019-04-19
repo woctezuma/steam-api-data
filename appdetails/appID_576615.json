@@ -15,13 +15,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/576615/header.jpg?t=1515421953",
   "website": "http://dharker.studio",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 1920x1080<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Windows XP<br></li><li><strong>Prozessor:</strong> 1.66 Ghz<br></li><li><strong>Arbeitsspeicher:</strong> 1 GB RAM<br></li><li><strong>Grafik:</strong> 1920x1080<br></li><li><strong>Speicherplatz:</strong> 500 MB verf\u00fcgbarer Speicherplatz</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X version Leopard 10.5.8 or later<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 1920x1080<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> OS X version Leopard 10.5.8 or later<br></li><li><strong>Prozessor:</strong> 1.66 Ghz<br></li><li><strong>Arbeitsspeicher:</strong> 1 GB RAM<br></li><li><strong>Grafik:</strong> 1920x1080<br></li><li><strong>Speicherplatz:</strong> 500 MB verf\u00fcgbarer Speicherplatz</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 1920x1080<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Ubuntu 12.04<br></li><li><strong>Prozessor:</strong> 1.66 Ghz<br></li><li><strong>Arbeitsspeicher:</strong> 1 GB RAM<br></li><li><strong>Grafik:</strong> 1920x1080<br></li><li><strong>Speicherplatz:</strong> 500 MB verf\u00fcgbarer Speicherplatz</li></ul>"
   },
   "legal_notice": "Dharker Studios Ltd \u00a92016+",
   "developers": [
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 239,
     "final": 239,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     147007
@@ -140,6 +142,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/576615/ss_9111943ef92d547a3de363cb3700901665121715.1920x1080.jpg?t=1515421953"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Nov, 2017"
@@ -148,5 +153,12 @@
     "url": "http://Dharker.Studio",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576615/page_bg_generated_v6b.jpg?t=1515421953"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576615/page_bg_generated_v6b.jpg?t=1515421953",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

@@ -12,7 +12,7 @@
     "appid": "288470",
     "name": "Fable Anniversary"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Japanese<strong>*</strong>, Korean, Portuguese-Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean, Portuguese - Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/315151/header.jpg?t=1447362779",
   "website": "http://www.lionhead.com/games/fable-anniversary/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     47959
@@ -128,6 +130,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/315151/ss_bd4fd18d2c1e97add040123d74eb26f4399ca08c.1920x1080.jpg?t=1447362779"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Sep, 2014"
@@ -136,5 +141,9 @@
     "url": "http://forum.lionhead.com/yaf_topics4_Fable-Anniversary.aspx",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/315151/page_bg_generated_v6b.jpg?t=1447362779"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/315151/page_bg_generated_v6b.jpg?t=1447362779",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

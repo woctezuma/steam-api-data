@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "Throw on your combat gear and add a weapon to your arsenal with the Explosive Combat Pack. The M2 Grenade Launcher sends a plethora of mass explosions right at your enemy, and the Future Soldier Outfit is  perfect for any battle.",
   "about_the_game": "Throw on your combat gear and add a weapon to your arsenal with the Explosive Combat Pack. The M2 Grenade Launcher sends a plethora of mass explosions right at your enemy, and the Future Soldier Outfit is  perfect for any battle.",
-  "short_description": "",
+  "short_description": "Throw on your combat gear and add a weapon to your arsenal with the Explosive Combat Pack. The M2 Grenade Launcher sends a plethora of mass explosions right at your enemy, and the Future Soldier Outfit is perfect for any battle.",
   "fullgame": {
     "appid": "55230",
     "name": "Saints Row: The Third"
   },
-  "supported_languages": "Czech, Dutch, English, French, German, Italian, Polish, Russian, Spanish",
+  "supported_languages": "Czech, Dutch, English, French, German, Italian, Polish, Russian, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/55387/header.jpg?t=1479293092",
   "website": "http://www.saintsrow.com/",
   "pc_requirements": {
@@ -33,12 +33,14 @@
     "currency": "EUR",
     "initial": 149,
     "final": 149,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,49\u20ac"
   },
   "packages": [
     12492,
     14758,
-    "17933"
+    17933
   ],
   "package_groups": [
     {
@@ -71,7 +73,7 @@
           "price_in_cents_with_discount": 399
         },
         {
-          "packageid": "17933",
+          "packageid": 17933,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Saints Row: The Third - The Full Package - 14,99\u20ac",
@@ -147,6 +149,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/55387/ss_9fdd7ac4eff0c3a1a5997c4aee6297f5d7bc2e14.1920x1080.jpg?t=1479293092"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Dec, 2011"
@@ -155,5 +160,11 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/55387/page_bg_generated_v6b.jpg?t=1479293092"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/55387/page_bg_generated_v6b.jpg?t=1479293092",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

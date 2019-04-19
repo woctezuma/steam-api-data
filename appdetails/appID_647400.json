@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\">Flood of Light Soundtrack contains 12 tracks.</h2><br>01.\tPeach Flower Garden<br>02.\tCity Control Center<br>03.\tStar Light Dome Hotel<br>04.\tNo.19 Railway Lotus Kitchen Station<br>05.\tBlue Light Center<br>06.\tObsidian Factory<br>07.\tLife and Energy Lab<br>08.\tResidential Area<br>09.\tGlory of the Galaxy<br>10.\tRAIN BGM<br>11.\tMonsoon<br>12.\tFlood of Light<br><br>Bit rate: 160 kbps <br>Format: MP3<br>Title: F.O.L. OST<br>Composer: Xiaofei Ma<br>Year of issue: 2017",
   "about_the_game": "<h2 class=\"bb_tag\">Flood of Light Soundtrack contains 12 tracks.</h2><br>01.\tPeach Flower Garden<br>02.\tCity Control Center<br>03.\tStar Light Dome Hotel<br>04.\tNo.19 Railway Lotus Kitchen Station<br>05.\tBlue Light Center<br>06.\tObsidian Factory<br>07.\tLife and Energy Lab<br>08.\tResidential Area<br>09.\tGlory of the Galaxy<br>10.\tRAIN BGM<br>11.\tMonsoon<br>12.\tFlood of Light<br><br>Bit rate: 160 kbps <br>Format: MP3<br>Title: F.O.L. OST<br>Composer: Xiaofei Ma<br>Year of issue: 2017",
-  "short_description": "Flood of Light Soundtrack contains 12 tracks.<br />\r\nBit rate: 160 kbps <br />\r\nFormat: MP3<br />\r\nTitle: Flood of Light Soundtrack<br />\r\nComposer: Xiaofei Ma<br />\r\nYear of issue: 2017",
+  "short_description": "Flood of Light Soundtrack contains 12 tracks. Bit rate: 160 kbps Format: MP3 Title: Flood of Light Soundtrack Composer: Xiaofei Ma Year of issue:...",
   "fullgame": {
     "appid": "606480",
     "name": "Flood of Light"
@@ -33,10 +33,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    "181973"
+    181973
   ],
   "package_groups": [
     {
@@ -49,7 +51,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "181973",
+          "packageid": 181973,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Flood of Light Soundtrack - 1,99\u20ac",
@@ -122,5 +124,9 @@
     "url": "http://www.irisloft.com/en/",
     "email": "support@irisloft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/647400/page_bg_generated_v6b.jpg?t=1497611889"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/647400/page_bg_generated_v6b.jpg?t=1497611889",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

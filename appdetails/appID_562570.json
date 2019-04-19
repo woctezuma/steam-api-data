@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 119,
-    "discount_percent": 60
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     141456
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 141456,
-          "percent_savings_text": "-60%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Access Denied - <span class=\"discount_original_price\">2,99\u20ac</span> 1,19\u20ac",
+          "option_text": "Access Denied - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 119
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -127,7 +129,7 @@
     }
   ],
   "recommendations": {
-    "total": 121
+    "total": 123
   },
   "achievements": {
     "total": 7,
@@ -170,5 +172,9 @@
     "url": "http://statelysnail.com/",
     "email": "support@statelysnail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562570/page_bg_generated_v6b.jpg?t=1481935925"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562570/page_bg_generated_v6b.jpg?t=1481935925",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

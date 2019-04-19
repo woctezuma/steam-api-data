@@ -4,6 +4,9 @@
   "steam_appid": 778570,
   "required_age": 0,
   "is_free": false,
+  "dlc": [
+    838920
+  ],
   "detailed_description": "<strong>Bustories - A Bus Travel Simulator.</strong><br><br>A small visual novel about bus trips and conversation with different companions, whom you see for the first and last time in your life. <br><br>Every new trip is slightly different from the previous one.<br><br>March. Evening. It was already dark outside. I'm on the bus home, with a disgusting mood. I look out the window, listen to music. I'm sorting through the concept for a new game. And at some point I realized that no one had yet done a bus travel simulator, where you are the passenger. Yes, the passenger, not the driver. Immediately I took out the phone, and began to write the ideas. <br><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/778570/extras/One.jpg?t=1523685272\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/778570/extras/Two.jpg?t=1523685272\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/778570/extras/Three.jpg?t=1523685272\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/778570/extras/Four.jpg?t=1523685272\" >",
   "about_the_game": "<strong>Bustories - A Bus Travel Simulator.</strong><br><br>A small visual novel about bus trips and conversation with different companions, whom you see for the first and last time in your life. <br><br>Every new trip is slightly different from the previous one.<br><br>March. Evening. It was already dark outside. I'm on the bus home, with a disgusting mood. I look out the window, listen to music. I'm sorting through the concept for a new game. And at some point I realized that no one had yet done a bus travel simulator, where you are the passenger. Yes, the passenger, not the driver. Immediately I took out the phone, and began to write the ideas. <br><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/778570/extras/One.jpg?t=1523685272\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/778570/extras/Two.jpg?t=1523685272\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/778570/extras/Three.jpg?t=1523685272\" ><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/778570/extras/Four.jpg?t=1523685272\" >",
   "short_description": "A small visual novel about bus trips and conversation with different companions, whom you see for the first and last time in your life.",
@@ -22,7 +25,40 @@
   "publishers": [
     "Nikita P."
   ],
-  "package_groups": [],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
+  },
+  "packages": [
+    234189
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Bustories",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 234189,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Bustories - 3,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 399
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -160,11 +196,15 @@
   },
   "release_date": {
     "coming_soon": false,
-    "date": "13 Apr, 2018"
+    "date": "19 Apr, 2018"
   },
   "support_info": {
     "url": "https://twitter.com/JustAGameMaker",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/778570/page_bg_generated_v6b.jpg?t=1523685272"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/778570/page_bg_generated_v6b.jpg?t=1523685272",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

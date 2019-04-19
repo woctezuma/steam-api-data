@@ -11,7 +11,7 @@
     "appid": "72850",
     "name": "The Elder Scrolls V: Skyrim"
   },
-  "supported_languages": "English, French, German, Italian, Spanish, Japanese, Czech, Polish, Russian",
+  "supported_languages": "English, French, German, Italian, Spanish - Spain, Japanese, Czech, Polish, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/226880/header.jpg?t=1493767875",
   "website": "http://elderscrolls.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     19132
@@ -66,7 +68,7 @@
   },
   "metacritic": {
     "score": 83,
-    "url": "http://www.metacritic.com/game/pc/the-elder-scrolls-v-skyrim---dragonborn?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/the-elder-scrolls-v-skyrim---dragonborn?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -163,7 +165,10 @@
     }
   ],
   "recommendations": {
-    "total": 1661
+    "total": 1177
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -173,5 +178,11 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/226880/page_bg_generated_v6b.jpg?t=1493767875"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/226880/page_bg_generated_v6b.jpg?t=1493767875",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

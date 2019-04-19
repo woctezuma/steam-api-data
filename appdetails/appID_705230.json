@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     203504
@@ -158,6 +160,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Sep, 2017"
@@ -166,5 +171,9 @@
     "url": "",
     "email": "reclusegames385@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/705230/page_bg_generated_v6b.jpg?t=1506330526"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/705230/page_bg_generated_v6b.jpg?t=1506330526",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

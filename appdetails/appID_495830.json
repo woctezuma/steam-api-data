@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     113005
@@ -129,6 +131,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Aug, 2016"
@@ -137,5 +142,9 @@
     "url": "http://endlesslabyrinthvr.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/495830/page_bg_generated_v6b.jpg?t=1470663125"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/495830/page_bg_generated_v6b.jpg?t=1470663125",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

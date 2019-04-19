@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Give your chess board a steampowered twist with this Steampunk game pack. Inspired by Victoria era science fiction, this pack features a steampunk Zeppelin and set of splendid chess pieces.",
   "about_the_game": "Give your chess board a steampowered twist with this Steampunk game pack. Inspired by Victoria era science fiction, this pack features a steampunk Zeppelin and set of splendid chess pieces.",
-  "short_description": "Give your chess board a steampowered twist with this Steampunk game pack. Inspired by Victoria era science fiction, this pack features a steampunk Zeppelin and set of splendid chess pieces",
+  "short_description": "Give your chess board a steampowered twist with this Steampunk game pack. Inspired by Victoria era science fiction, this pack features a steampunk Zeppelin and set of splendid chess...",
   "fullgame": {
     "appid": "300630",
     "name": "Pure Chess Grandmaster Edition"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Dutch, Portuguese, Russian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Portuguese, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/330950/header.jpg?t=1506939273",
   "website": "http://purechess.com",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     53683
@@ -143,13 +145,11 @@
       "id": 5,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/330950/ss_4365534c5b272832cb98414b8c675e69c80ec829.600x338.jpg?t=1506939273",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/330950/ss_4365534c5b272832cb98414b8c675e69c80ec829.1920x1080.jpg?t=1506939273"
-    },
-    {
-      "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/330950/?t=1506939273",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/330950/?t=1506939273"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Nov, 2016"
@@ -158,5 +158,9 @@
     "url": "http://ripstone.com",
     "email": "support@ripstone.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/330950/page_bg_generated_v6b.jpg?t=1506939273"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/330950/page_bg_generated_v6b.jpg?t=1506939273",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

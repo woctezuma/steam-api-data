@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "",
   "about_the_game": "",
-  "short_description": "&quot;Any time that I am not actively hitting the keyboard I am wasting time.&quot;",
+  "short_description": "&quot;Any time that I am not actively hitting the keyboard I am wasting time.",
   "fullgame": {
     "appid": "631780",
     "name": "Amnesia Fortnight"
@@ -25,10 +25,12 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
-    "181270"
+    181270
   ],
   "package_groups": [
     {
@@ -41,7 +43,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "181270",
+          "packageid": 181270,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Amnesia Fortnight 2017 - 9,99\u20ac",
@@ -68,6 +70,9 @@
       "description": "Native Steam Controller Support"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 May, 2017"
@@ -76,5 +81,9 @@
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -4,7 +4,7 @@
   "steam_appid": 816770,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<h1>MyLevels</h1><p>If you want to make your own levels for the game you can find a tutorial on how to do so here.<br><br><a href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=1329729628\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://steamcommunity.com/sharedfiles/filedetails/?id=1329729628</a></a></p><br><h1>About the Game</h1>The Four Colour Theorem is a game of competitive colouring in. Challenge yourself to colour in the pictures so that none of the colours touch. Then when you can do this try for the top score!<br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li> 50 handcrafted levels that range from completely simple to fiendishly difficult.<br><br></li><li> Create your own levels and share them with friends using the MyLevels folder.<br><br></li><li> Play with a deep mathematical problem which is easy to learn but hard to master.<br><br></li><li> Rage over the frustration of trying to colour the last tile!</li></ul><br>This is my first game and it's based on The Four Colour Theorem, an interesting mathematical result. It's a new kind of puzzle, suitable for all ages and all languages. The game currently doesn't have any sound.<br><br>I hope you enjoy the game.",
+  "detailed_description": "<h1>MyLevels</h1><p>If you want to make your own levels for the game you can find a tutorial on how to do so here.<br><br><a href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=1329729628\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://steamcommunity.com/sharedfiles/filedetails/?id=1329729628</a></p><br><h1>About the Game</h1>The Four Colour Theorem is a game of competitive colouring in. Challenge yourself to colour in the pictures so that none of the colours touch. Then when you can do this try for the top score!<br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li> 50 handcrafted levels that range from completely simple to fiendishly difficult.<br><br></li><li> Create your own levels and share them with friends using the MyLevels folder.<br><br></li><li> Play with a deep mathematical problem which is easy to learn but hard to master.<br><br></li><li> Rage over the frustration of trying to colour the last tile!</li></ul><br>This is my first game and it's based on The Four Colour Theorem, an interesting mathematical result. It's a new kind of puzzle, suitable for all ages and all languages. The game currently doesn't have any sound.<br><br>I hope you enjoy the game.",
   "about_the_game": "The Four Colour Theorem is a game of competitive colouring in. Challenge yourself to colour in the pictures so that none of the colours touch. Then when you can do this try for the top score!<br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li> 50 handcrafted levels that range from completely simple to fiendishly difficult.<br><br></li><li> Create your own levels and share them with friends using the MyLevels folder.<br><br></li><li> Play with a deep mathematical problem which is easy to learn but hard to master.<br><br></li><li> Rage over the frustration of trying to colour the last tile!</li></ul><br>This is my first game and it's based on The Four Colour Theorem, an interesting mathematical result. It's a new kind of puzzle, suitable for all ages and all languages. The game currently doesn't have any sound.<br><br>I hope you enjoy the game.",
   "short_description": "The Four Colour Theorem is a game of competitive colouring in. Challenge yourself to colour in the pictures so that none of the colours touch. Then when you can do this try for the top score!",
   "supported_languages": "English",
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     250024
@@ -118,6 +120,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Mar, 2018"
@@ -126,5 +131,9 @@
     "url": "",
     "email": "thefourcolourtheorem@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/816770/page_bg_generated_v6b.jpg?t=1522707989"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/816770/page_bg_generated_v6b.jpg?t=1522707989",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

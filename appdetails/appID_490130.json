@@ -5,9 +5,9 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>After Steven Spielberg's classic film was released almost 35 years ago, three 11-year-old boys from Mississippi set out on what would become a 7-year-long labor of love and tribute to their favorite film: a faithful, shot-for-shot adaptation of the action adventure film. They finished every scene...except one; the film's explosive airplane set piece. Over two decades later, the trio reunited with the original cast members from their childhood in order to complete their masterpiece. Featuring interviews with John Rhys Davies, Eli Roth and more, RAIDERS! is the story of the project\u2019s culmination, chronicling the friends' dedication to their artistic vision\u2014mixed in with some movie magic\u2014to create the greatest fan film ever made.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>After Steven Spielberg's classic film was released almost 35 years ago, three 11-year-old boys from Mississippi set out on what would become a 7-year-long labor of love and tribute to their favorite film: a faithful, shot-for-shot adaptation of the action adventure film. They finished every scene...except one; the film's explosive airplane set piece. Over two decades later, the trio reunited with the original cast members from their childhood in order to complete their masterpiece. Featuring interviews with John Rhys Davies, Eli Roth and more, RAIDERS! is the story of the project\u2019s culmination, chronicling the friends' dedication to their artistic vision\u2014mixed in with some movie magic\u2014to create the greatest fan film ever made.",
   "about_the_game": "After Steven Spielberg's classic film was released almost 35 years ago, three 11-year-old boys from Mississippi set out on what would become a 7-year-long labor of love and tribute to their favorite film: a faithful, shot-for-shot adaptation of the action adventure film. They finished every scene...except one; the film's explosive airplane set piece. Over two decades later, the trio reunited with the original cast members from their childhood in order to complete their masterpiece. Featuring interviews with John Rhys Davies, Eli Roth and more, RAIDERS! is the story of the project\u2019s culmination, chronicling the friends' dedication to their artistic vision\u2014mixed in with some movie magic\u2014to create the greatest fan film ever made.",
-  "short_description": "After seeing \u2018Raiders of the Lost Ark\u2019 almost 35 years ago, three 11-year-old boys from Mississippi spent 7 years on a faithful, shot-for-shot adaptation of the classic action adventure film. They finished every scene, except one; the film's explosive airplane set piece. Over two decades later, the trio reunited with the original cast members from their childhood to complete their masterpiece.",
+  "short_description": "After seeing \u2018Raiders of the Lost Ark\u2019 almost 35 years ago, three 11-year-old boys from Mississippi spent 7 years on a faithful, shot-for-shot adaptation of the classic action adventure film. They finished every scene, except one; the film's explosive airplane set piece.",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -39,7 +39,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     110870,
@@ -136,6 +138,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jun, 2016"
@@ -144,5 +149,9 @@
     "url": "",
     "email": "stephen@filmbuff.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/490130/page_bg_generated_v6b.jpg?t=1483728245"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/490130/page_bg_generated_v6b.jpg?t=1483728245",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

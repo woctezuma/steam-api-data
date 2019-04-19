@@ -34,8 +34,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 149,
-    "discount_percent": 50
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     224308
@@ -52,13 +54,13 @@
       "subs": [
         {
           "packageid": 224308,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Reigns: Her Majesty Soundtrack - <span class=\"discount_original_price\">2,99\u20ac</span> 1,49\u20ac",
+          "option_text": "Reigns: Her Majesty Soundtrack - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 149
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -99,6 +101,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/759680/ss_df89dfc0f42796ff783f4f98eb37cb5a8fd50472.1920x1080.jpg?t=1512621380"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Dec, 2017"
@@ -107,5 +112,9 @@
     "url": "http://www.reignsgame.com",
     "email": "contact@nerial.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/759680/page_bg_generated_v6b.jpg?t=1512621380"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/759680/page_bg_generated_v6b.jpg?t=1512621380",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

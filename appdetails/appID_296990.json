@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     42874
@@ -154,6 +156,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 May, 2014"
@@ -162,5 +167,9 @@
     "url": "",
     "email": "support@breachandclear.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/296990/page_bg_generated_v6b.jpg?t=1505119787"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/296990/page_bg_generated_v6b.jpg?t=1505119787",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     212310
@@ -50,11 +52,11 @@
           "packageid": 212310,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "NASCAR Heat 2 - October Jumbo Expansion - 9,99\u20ac",
+          "option_text": "NASCAR Heat 2 - October Jumbo Expansion - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -111,6 +113,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/728460/ss_b71508030e5bda19470160bb6dc9ab0614ca2174.1920x1080.jpg?t=1510269867"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Oct, 2017"
@@ -119,5 +124,9 @@
     "url": "nascarheat.com/support",
     "email": "customersupport@704games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/728460/page_bg_generated_v6b.jpg?t=1510269867"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/728460/page_bg_generated_v6b.jpg?t=1510269867",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

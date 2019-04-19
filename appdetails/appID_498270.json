@@ -5,9 +5,9 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>The Blood Gulch Chronicles conclude with the usual gang of luckless troops - joined by a mysterious stranger, a half-alien child and a crashed ship. Together, they discover a hidden world that could finally answer the question, &quot;Why are we here?&quot;",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>The Blood Gulch Chronicles conclude with the usual gang of luckless troops - joined by a mysterious stranger, a half-alien child and a crashed ship. Together, they discover a hidden world that could finally answer the question, &quot;Why are we here?&quot;",
   "about_the_game": "The Blood Gulch Chronicles conclude with the usual gang of luckless troops - joined by a mysterious stranger, a half-alien child and a crashed ship. Together, they discover a hidden world that could finally answer the question, &quot;Why are we here?&quot;",
-  "short_description": "The Blood Gulch Chronicles conclude with the usual gang of luckless troops - joined by a mysterious stranger, a half-alien child and a crashed ship. Together, they discover a hidden world that could finally answer the question, &quot;Why are we here?&quot;",
+  "short_description": "The Blood Gulch Chronicles conclude with the usual gang of luckless troops - joined by a mysterious stranger, a half-alien child and a crashed ship. Together, they discover a hidden world that could finally answer the question, &quot;Why are we here?",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     113942,
@@ -170,6 +172,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Aug, 2016"
@@ -178,5 +183,9 @@
     "url": "http://www.cinedigm.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498270/page_bg_generated_v6b.jpg?t=1472754323"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498270/page_bg_generated_v6b.jpg?t=1472754323",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

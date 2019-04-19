@@ -11,7 +11,7 @@
   ],
   "detailed_description": "A legend reborn as Realms of Arkania: Blade of Destiny returns!<br><br>Developed by Austrian developer Crafty Studios, Realms of Arkania \u2013 Blade of Destiny is a faithful remake of the 1992 original, adored by a generation of Role Players and one of the most successful RPG\u2019s of the 1990\u2019s.<br><br>Get ready to return to Thorwal, one of the oldest cities of Aventuria. Make sure your wits are sharpened before walking down the small alleys of Thorwal and Prem, and prepare to stop the Orcisch threat while creating a mighty alliance between nations. Featuring a complete visual reimagining along with a comprehensive overhaul of every aspect of the gameplay, Realms of Arkania \u2013 Blade of Destiny is set to captivate a 21st century audience of new and old fans alike. <br><br>Old school RPG at its best \u2013 for the Fans of REAL RPG games.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>Remake of the first part of Realms of Arkania<br></li><li>Roleplaygame with turn based tactical fights<br></li><li>Cities and dungeons in current real-time-3D<br></li><li>Dozens of talents, fighting skills and magical skills<br></li><li>Authentic realization of the TDE basic rules<br></li><li>Depending on your gaming style \u2013 20 to 80 hours game time</li></ul><h2 class=\"bb_tag\">Revised Edition</h2><ul class=\"bb_ul\"><li>User-Contributed Content<br></li><li>Modding ability<br></li><li>Additional encounters, making Aventuria even more alive<br></li><li>Enhanced Battles<br></li><li>Completely redone graphics<br></li><li>Completely revised and improved User Interface<br></li><li>Extended music selection<br></li><li>Enhanced sound<br></li><li>Steam Achievements, Stats and Cloud<br></li><li>Linux build</li></ul>",
   "about_the_game": "A legend reborn as Realms of Arkania: Blade of Destiny returns!<br><br>Developed by Austrian developer Crafty Studios, Realms of Arkania \u2013 Blade of Destiny is a faithful remake of the 1992 original, adored by a generation of Role Players and one of the most successful RPG\u2019s of the 1990\u2019s.<br><br>Get ready to return to Thorwal, one of the oldest cities of Aventuria. Make sure your wits are sharpened before walking down the small alleys of Thorwal and Prem, and prepare to stop the Orcisch threat while creating a mighty alliance between nations. Featuring a complete visual reimagining along with a comprehensive overhaul of every aspect of the gameplay, Realms of Arkania \u2013 Blade of Destiny is set to captivate a 21st century audience of new and old fans alike. <br><br>Old school RPG at its best \u2013 for the Fans of REAL RPG games.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>Remake of the first part of Realms of Arkania<br></li><li>Roleplaygame with turn based tactical fights<br></li><li>Cities and dungeons in current real-time-3D<br></li><li>Dozens of talents, fighting skills and magical skills<br></li><li>Authentic realization of the TDE basic rules<br></li><li>Depending on your gaming style \u2013 20 to 80 hours game time</li></ul><h2 class=\"bb_tag\">Revised Edition</h2><ul class=\"bb_ul\"><li>User-Contributed Content<br></li><li>Modding ability<br></li><li>Additional encounters, making Aventuria even more alive<br></li><li>Enhanced Battles<br></li><li>Completely redone graphics<br></li><li>Completely revised and improved User Interface<br></li><li>Extended music selection<br></li><li>Enhanced sound<br></li><li>Steam Achievements, Stats and Cloud<br></li><li>Linux build</li></ul>",
-  "short_description": "",
+  "short_description": "A legend reborn as Realms of Arkania: Blade of Destiny returns!Developed by Austrian developer Crafty Studios, Realms of Arkania \u2013 Blade of Destiny is a faithful remake of the 1992 original, adored by a generation of Role Players and one of the most successful RPG\u2019s of the 1990\u2019s.",
   "supported_languages": "English<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/237550/header.jpg?t=1496045210",
   "website": "http://www.realmsofarkania.com",
@@ -37,8 +37,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "final": 749,
+    "discount_percent": 50,
+    "initial_formatted": "14,99\u20ac",
+    "final_formatted": "7,49\u20ac"
   },
   "packages": [
     29104
@@ -55,13 +57,13 @@
       "subs": [
         {
           "packageid": 29104,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Realms of Arkania: Blade of Destiny - 14,99\u20ac",
+          "option_text": "Realms of Arkania: Blade of Destiny - <span class=\"discount_original_price\">14,99\u20ac</span> 7,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 749
         }
       ]
     }
@@ -218,7 +220,7 @@
     }
   ],
   "recommendations": {
-    "total": 289
+    "total": 173
   },
   "achievements": {
     "total": 41,
@@ -273,5 +275,9 @@
     "url": "realmsofarkania.com",
     "email": "support@realmsofarkania.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/237550/page_bg_generated_v6b.jpg?t=1496045210"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/237550/page_bg_generated_v6b.jpg?t=1496045210",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

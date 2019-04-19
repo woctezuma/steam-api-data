@@ -11,7 +11,7 @@
     "appid": "10180",
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2"
   },
-  "supported_languages": "French, German, Italian, Spanish, English",
+  "supported_languages": "French, German, Italian, Spanish - Spain, English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/10195/header.jpg?t=1482215130",
   "website": "http://www.modernwarfare2.com",
   "pc_requirements": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 1399,
     "final": 1399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "13,99\u20ac"
   },
   "packages": [
     4240,
@@ -141,7 +143,10 @@
     }
   ],
   "recommendations": {
-    "total": 120
+    "total": 112
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -151,5 +156,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/10195/page_bg_generated_v6b.jpg?t=1482215130"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/10195/page_bg_generated_v6b.jpg?t=1482215130",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

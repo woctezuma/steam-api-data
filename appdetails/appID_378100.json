@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     70260
@@ -153,9 +155,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 538
-  },
   "achievements": {
     "total": 11,
     "highlighted": [
@@ -209,5 +208,9 @@
     "url": "www.lightningmanmedia.com",
     "email": "lightningmanmedia@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/378100/page_bg_generated_v6b.jpg?t=1469507647"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/378100/page_bg_generated_v6b.jpg?t=1469507647",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

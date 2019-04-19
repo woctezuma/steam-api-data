@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 3199,
-    "final": 3199,
-    "discount_percent": 0
+    "initial": 1249,
+    "final": 1249,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,49\u20ac"
   },
   "packages": [
     246261
@@ -44,11 +46,11 @@
           "packageid": 246261,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Draft Day Sports: College Basketball 2018 - 31,99\u20ac",
+          "option_text": "Draft Day Sports: College Basketball 2018 - 12,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 3199
+          "price_in_cents_with_discount": 1249
         }
       ]
     }
@@ -132,5 +134,9 @@
     "url": "http://www.wolverinestudios.com/support/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/807730/page_bg_generated_v6b.jpg?t=1520973204"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/807730/page_bg_generated_v6b.jpg?t=1520973204",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

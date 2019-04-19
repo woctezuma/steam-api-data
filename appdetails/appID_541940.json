@@ -15,8 +15,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/541940/header.jpg?t=1480356923",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64bit , 8, 8.1 or Windows 10 64bit<br></li><li><strong>Processor:</strong> I5 min. 2.6 GHZ or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Radeon 6850 or better<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> I7 3.5GHZ or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 980 or better<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7 64bit , 8, 8.1 or Windows 10 64bit<br></li><li><strong>Processeur\u00a0:</strong> I5 min. 2.6 GHZ or better<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 4 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> Radeon 6850 or better<br></li><li><strong>DirectX\u00a0:</strong> Version 10<br></li><li><strong>Espace disque\u00a0:</strong> 4 GB d'espace disque disponible</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 10 64bit<br></li><li><strong>Processeur\u00a0:</strong> I7 3.5GHZ or better<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 4 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> Nvidia GTX 980 or better<br></li><li><strong>DirectX\u00a0:</strong> Version 10<br></li><li><strong>Espace disque\u00a0:</strong> 4 GB d'espace disque disponible</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     133302
@@ -160,5 +162,9 @@
     "url": "",
     "email": "info@islandsimulator2016.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/541940/page_bg_generated_v6b.jpg?t=1480356923"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/541940/page_bg_generated_v6b.jpg?t=1480356923",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

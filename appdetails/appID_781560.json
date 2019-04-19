@@ -8,7 +8,7 @@
   "about_the_game": "Runner is a game about simulating flights in space. At the far future space police should be prepared to fight with enemies in stressful conditions. We decided to show you how could one of the exercises look like in this simulator.<br />\r\n<br />\r\nThis game is a classic runner, where you have to dodge obstacles and enemies' fire, collect crystals and climb the leaderboards, beating your own previous achievements.",
   "short_description": "Runner is a game about simulating flights in space. At the far future space police should be prepared to fight with enemies in stressful conditions. We decided to show you how could one of the exercises look like in this simulator.",
   "supported_languages": "English, Simplified Chinese, Russian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/781560/header.jpg?t=1521559765",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/781560/header.jpg?t=1530465905",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft\u00ae Windows\u00ae XP / Vista / 7 or higher<br></li><li><strong>Processor:</strong> Intel Core 2 Duo (or equivalent)<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> with 1024 MB VRAM compatible with DirectX 9<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 240 MB available space<br></li><li><strong>Sound Card:</strong> DirectX\u00ae Compatible</li></ul>"
@@ -16,7 +16,7 @@
   "mac_requirements": [],
   "linux_requirements": [],
   "developers": [
-    "Mannergame"
+    "Clawed Paw"
   ],
   "publishers": [
     "Enjoy Games"
@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 61,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     235527
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 235527,
-          "percent_savings_text": "",
+          "percent_savings_text": "-61%",
           "percent_savings": 0,
-          "option_text": "Runner - 0,99\u20ac",
+          "option_text": "Runner - <span class=\"discount_original_price\">0,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -62,6 +64,10 @@
     {
       "id": 2,
       "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
     },
     {
       "id": 18,
@@ -85,38 +91,38 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_3b3b776f87b580d6796581c2ce849b80e99c90b4.600x338.jpg?t=1521559765",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_3b3b776f87b580d6796581c2ce849b80e99c90b4.1920x1080.jpg?t=1521559765"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_3b3b776f87b580d6796581c2ce849b80e99c90b4.600x338.jpg?t=1530465905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_3b3b776f87b580d6796581c2ce849b80e99c90b4.1920x1080.jpg?t=1530465905"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_83fd5ec1f55fe826eb59073f0efee9c56fc47271.600x338.jpg?t=1521559765",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_83fd5ec1f55fe826eb59073f0efee9c56fc47271.1920x1080.jpg?t=1521559765"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_83fd5ec1f55fe826eb59073f0efee9c56fc47271.600x338.jpg?t=1530465905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_83fd5ec1f55fe826eb59073f0efee9c56fc47271.1920x1080.jpg?t=1530465905"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_d5034396b859719d9a466ce5e799d96face4e005.600x338.jpg?t=1521559765",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_d5034396b859719d9a466ce5e799d96face4e005.1920x1080.jpg?t=1521559765"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_d5034396b859719d9a466ce5e799d96face4e005.600x338.jpg?t=1530465905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_d5034396b859719d9a466ce5e799d96face4e005.1920x1080.jpg?t=1530465905"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_833d2afec85a3510bc97bea03058c83f91c881ec.600x338.jpg?t=1521559765",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_833d2afec85a3510bc97bea03058c83f91c881ec.1920x1080.jpg?t=1521559765"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_833d2afec85a3510bc97bea03058c83f91c881ec.600x338.jpg?t=1530465905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_833d2afec85a3510bc97bea03058c83f91c881ec.1920x1080.jpg?t=1530465905"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_18c51aad8b294c9d78d0a3078979c909efb3ea25.600x338.jpg?t=1521559765",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_18c51aad8b294c9d78d0a3078979c909efb3ea25.1920x1080.jpg?t=1521559765"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_18c51aad8b294c9d78d0a3078979c909efb3ea25.600x338.jpg?t=1530465905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_18c51aad8b294c9d78d0a3078979c909efb3ea25.1920x1080.jpg?t=1530465905"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_099267c6c07338d3d2a8ab896c4c83ded9e979c9.600x338.jpg?t=1521559765",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_099267c6c07338d3d2a8ab896c4c83ded9e979c9.1920x1080.jpg?t=1521559765"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_099267c6c07338d3d2a8ab896c4c83ded9e979c9.600x338.jpg?t=1530465905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_099267c6c07338d3d2a8ab896c4c83ded9e979c9.1920x1080.jpg?t=1530465905"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_4cb6013707d3e001c73820b4fa05845a858ac413.600x338.jpg?t=1521559765",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_4cb6013707d3e001c73820b4fa05845a858ac413.1920x1080.jpg?t=1521559765"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_4cb6013707d3e001c73820b4fa05845a858ac413.600x338.jpg?t=1530465905",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781560/ss_4cb6013707d3e001c73820b4fa05845a858ac413.1920x1080.jpg?t=1530465905"
     }
   ],
   "movies": [
@@ -180,5 +186,9 @@
     "url": "http://www.dagestantechnology.ru/",
     "email": "dagestan.technology@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/781560/page_bg_generated_v6b.jpg?t=1521559765"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/781560/page_bg_generated_v6b.jpg?t=1530465905",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

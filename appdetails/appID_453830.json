@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 49,
-    "discount_percent": 90
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     98009
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 98009,
-          "percent_savings_text": "-90%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Innoquous 5 - <span class=\"discount_original_price\">4,99\u20ac</span> 0,49\u20ac",
+          "option_text": "Innoquous 5 - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 49
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -205,5 +207,9 @@
     "url": "",
     "email": "support@chequered.ink"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/453830/page_bg_generated_v6b.jpg?t=1463122973"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/453830/page_bg_generated_v6b.jpg?t=1463122973",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

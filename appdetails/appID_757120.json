@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     223320
@@ -101,5 +103,9 @@
     "url": "http://www.stephanhaldaman.com/contact.html",
     "email": "haldaman.stephan@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/757120/page_bg_generated_v6b.jpg?t=1511407338"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/757120/page_bg_generated_v6b.jpg?t=1511407338",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

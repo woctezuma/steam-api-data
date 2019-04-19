@@ -35,9 +35,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     63247
@@ -56,11 +58,11 @@
           "packageid": 63247,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Orbit - 0,99\u20ac",
+          "option_text": "Orbit - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -191,6 +193,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Mar, 2015"
@@ -199,5 +204,9 @@
     "url": "http://brainchildstudios.tumblr.com/private/102442984496/tumblr_nexdnqnSky1syyjsn",
     "email": "brainchildstudiosuk@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/356380/page_bg_generated_v6b.jpg?t=1455807252"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/356380/page_bg_generated_v6b.jpg?t=1455807252",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

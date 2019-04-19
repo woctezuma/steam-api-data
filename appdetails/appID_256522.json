@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "<strong>*NOTE* This pack is available in the in-game store under the Marketplace tab.  You are strongly recommended to find the product there and make your purchase from within the game.</strong><br><br>This wagon pack contains a selection of 6 wagons themed around the Pennsylvania Railroad (PRR).  The wagons included are:<br><br><ul class=\"bb_ul\"><li>PRR Boxcar 50ft X58<br></li><li>PRR Hopper 100t<br></li><li>PRR Ore Gondola G39a<br></li><li>PRR Gondola 52ft Empty<br></li><li>PRR Gondola 52ft Lumber<br></li><li>PRR Cabin Car</li></ul>",
   "about_the_game": "<strong>*NOTE* This pack is available in the in-game store under the Marketplace tab.  You are strongly recommended to find the product there and make your purchase from within the game.</strong><br><br>This wagon pack contains a selection of 6 wagons themed around the Pennsylvania Railroad (PRR).  The wagons included are:<br><br><ul class=\"bb_ul\"><li>PRR Boxcar 50ft X58<br></li><li>PRR Hopper 100t<br></li><li>PRR Ore Gondola G39a<br></li><li>PRR Gondola 52ft Empty<br></li><li>PRR Gondola 52ft Lumber<br></li><li>PRR Cabin Car</li></ul>",
-  "short_description": "",
+  "short_description": "*NOTE* This pack is available in the in-game store under the Marketplace tab. You are strongly recommended to find the product there and make your purchase from within the game.This wagon pack contains a selection of 6 wagons themed around the Pennsylvania Railroad (PRR).",
   "fullgame": {
     "appid": "24010",
-    "name": "Train Simulator"
+    "name": "Train Simulator 2019"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Polish, Russian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Polish, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/256522/header.jpg?t=1447359076",
   "website": "http://www.railsimulator.com",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     33805
@@ -131,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/256522/ss_cf57ac9d09bd6f0f9babe8580dfcef0ea351b6f5.1920x1080.jpg?t=1447359076"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Jan, 2009"
@@ -139,5 +144,9 @@
     "url": "http://www.railsimulator.com/support.php",
     "email": "support@railsimulator.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/256522/page_bg_generated_v6b.jpg?t=1447359076"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/256522/page_bg_generated_v6b.jpg?t=1447359076",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

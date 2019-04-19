@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     65055
@@ -166,7 +168,10 @@
     }
   ],
   "recommendations": {
-    "total": 2920
+    "total": 3267
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -176,5 +181,9 @@
     "url": "",
     "email": "support@baremettle.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/362490/page_bg_generated_v6b.jpg?t=1463346240"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/362490/page_bg_generated_v6b.jpg?t=1463346240",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

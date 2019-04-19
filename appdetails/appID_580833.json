@@ -12,7 +12,7 @@
     "appid": "418340",
     "name": "RWBY: Grimm Eclipse"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese, Portuguese-Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/580833/header.jpg?t=1489170810",
   "website": "http://games.roosterteeth.com/portfolio/rwby-ge/",
   "pc_requirements": {
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     148923
@@ -151,6 +153,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/580833/ss_5d8a6d80b87754606aa92746d9650b530229bfce.1920x1080.jpg?t=1489170810"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Mar, 2017"
@@ -159,5 +164,9 @@
     "url": "http://games.roosterteeth.com/support/",
     "email": "gamesupport@roosterteeth.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/580833/page_bg_generated_v6b.jpg?t=1489170810"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/580833/page_bg_generated_v6b.jpg?t=1489170810",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

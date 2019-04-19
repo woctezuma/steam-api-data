@@ -12,8 +12,8 @@
     "appid": "581300",
     "name": "Black Mirror"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German<strong>*</strong>, Spanish, Polish, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/755700/header.jpg?t=1511893691",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German<strong>*</strong>, Spanish - Spain, Polish, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/755700/header.jpg?t=1534404889",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Window 7, 8, 8.1, 10 (64bit)<br></li><li><strong>Processor:</strong> Intel Q9650 / AMD Phenom II X4 940<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX660 / Radeon 7870 - 2GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 11 GB available space</li></ul>",
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     222762
@@ -106,10 +108,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/755700/ss_d47eab76745b6fb132d251e1bb2ad8a2938a48df.600x338.jpg?t=1511893691",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/755700/ss_d47eab76745b6fb132d251e1bb2ad8a2938a48df.1920x1080.jpg?t=1511893691"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/755700/ss_d47eab76745b6fb132d251e1bb2ad8a2938a48df.600x338.jpg?t=1534404889",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/755700/ss_d47eab76745b6fb132d251e1bb2ad8a2938a48df.1920x1080.jpg?t=1534404889"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Nov, 2017"
@@ -118,5 +123,12 @@
     "url": "",
     "email": "support@quanticlab.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/755700/page_bg_generated_v6b.jpg?t=1511893691"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/755700/page_bg_generated_v6b.jpg?t=1534404889",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

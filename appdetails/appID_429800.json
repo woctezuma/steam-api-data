@@ -5,9 +5,9 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>&quot;Thank You For Playing&quot; is a feature-length documentary about the phenomenon of Polish video game magazines in the 90s. It's a nostalgic journey that brings back memories of classic Amiga and PC titles but also tells about the beginnings and specificity of Easter European video game industry. Find out how the developers of &quot;The Witcher&quot;, &quot;This War of Mine&quot; and &quot;The Vanishing of Ethan Carter&quot; begun their careers. \r\n\r\nThe film starts from the very beginnings, when magazine pages were put together with glue and scissors. Every month a few hundred thousand teenagers would rush to newsagents to get their favourite video gaming magazine and read authors, who had at that time a celebrity status. The total circulation numbers of these magazines were one of Europe's highest - they were the equivalent of Internet and social media back then. Despite their tremendous popularity, all of these magazines shut down. What happened?  \r\n\r\nSuccessfully crowdfunded in 2015, &quot;Thank You For Playing&quot; tells a story of five legendary video gaming magazines that emerged in young democratic Poland. Teenagers who put foundations for this industry back then, later became successful producers, developers and entrepreneurs. Through passion, stunning successes and painful defeats they created a legend. From the country of &quot;The Witcher&quot; and &quot;Dying Light&quot;, we are giving you a unique insight into the wild early days of the Polish video gaming industry, accompanied by retro vibe and an extraordinary soundtrack.\r\n\r\nFilm is fully subtitled in English.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>&quot;Thank You For Playing&quot; is a feature-length documentary about the phenomenon of Polish video game magazines in the 90s. It's a nostalgic journey that brings back memories of classic Amiga and PC titles but also tells about the beginnings and specificity of Easter European video game industry. Find out how the developers of &quot;The Witcher&quot;, &quot;This War of Mine&quot; and &quot;The Vanishing of Ethan Carter&quot; begun their careers. \r\n\r\nThe film starts from the very beginnings, when magazine pages were put together with glue and scissors. Every month a few hundred thousand teenagers would rush to newsagents to get their favourite video gaming magazine and read authors, who had at that time a celebrity status. The total circulation numbers of these magazines were one of Europe's highest - they were the equivalent of Internet and social media back then. Despite their tremendous popularity, all of these magazines shut down. What happened?  \r\n\r\nSuccessfully crowdfunded in 2015, &quot;Thank You For Playing&quot; tells a story of five legendary video gaming magazines that emerged in young democratic Poland. Teenagers who put foundations for this industry back then, later became successful producers, developers and entrepreneurs. Through passion, stunning successes and painful defeats they created a legend. From the country of &quot;The Witcher&quot; and &quot;Dying Light&quot;, we are giving you a unique insight into the wild early days of the Polish video gaming industry, accompanied by retro vibe and an extraordinary soundtrack.\r\n\r\nFilm is fully subtitled in English.",
   "about_the_game": "&quot;Thank You For Playing&quot; is a feature-length documentary about the phenomenon of Polish video game magazines in the 90s. It's a nostalgic journey that brings back memories of classic Amiga and PC titles but also tells about the beginnings and specificity of Easter European video game industry. Find out how the developers of &quot;The Witcher&quot;, &quot;This War of Mine&quot; and &quot;The Vanishing of Ethan Carter&quot; begun their careers. <br />\r\n<br />\r\nThe film starts from the very beginnings, when magazine pages were put together with glue and scissors. Every month a few hundred thousand teenagers would rush to newsagents to get their favourite video gaming magazine and read authors, who had at that time a celebrity status. The total circulation numbers of these magazines were one of Europe's highest - they were the equivalent of Internet and social media back then. Despite their tremendous popularity, all of these magazines shut down. What happened?  <br />\r\n<br />\r\nSuccessfully crowdfunded in 2015, &quot;Thank You For Playing&quot; tells a story of five legendary video gaming magazines that emerged in young democratic Poland. Teenagers who put foundations for this industry back then, later became successful producers, developers and entrepreneurs. Through passion, stunning successes and painful defeats they created a legend. From the country of &quot;The Witcher&quot; and &quot;Dying Light&quot;, we are giving you a unique insight into the wild early days of the Polish video gaming industry, accompanied by retro vibe and an extraordinary soundtrack.<br />\r\n<br />\r\nFilm is fully subtitled in English.",
-  "short_description": "Documentary about the <strong>phenomenon</strong> of Polish video game magazines in the 90s. Times when magazine pages were put together with <strong>glue and scissors</strong> and original games were a scarcity. A unique journey to the <strong>classic Amiga and PC titles</strong> accompanied by an extraordinary soundtrack. A<strong> nostalgic story</strong> of passion, carefree youth, great friendships and painful defeats.",
+  "short_description": "Documentary about the phenomenon of Polish video game magazines in the 90s. Times when magazine pages were put together with glue and scissors and original games were a scarcity. A unique journey to the classic Amiga and PC titles accompanied by an extraordinary soundtrack.",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     89024,
@@ -146,6 +148,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Mar, 2016"
@@ -154,5 +159,9 @@
     "url": "http://www.lumafilms.co.uk/",
     "email": "thankyouforplayingdoc@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/429800/page_bg_generated_v6b.jpg?t=1457946191"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/429800/page_bg_generated_v6b.jpg?t=1457946191",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

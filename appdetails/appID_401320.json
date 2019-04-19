@@ -12,7 +12,7 @@
     "appid": "314710",
     "name": "Mighty No. 9"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish, Japanese<strong>*</strong>, Polish, Portuguese-Brazil, Russian, Korean, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Japanese<strong>*</strong>, Polish, Portuguese - Brazil, Russian, Korean, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/401320/header.jpg?t=1477493581",
   "website": "http://www.mightyno9.com",
   "pc_requirements": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     78227
@@ -142,6 +144,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/401320/ss_6f81a4b8e0826a105ddb7680d38fe41f128609ac.1920x1080.jpg?t=1477493581"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Jun, 2016"
@@ -150,5 +155,9 @@
     "url": "helpcenter.deepsilver.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/401320/page_bg_generated_v6b.jpg?t=1477493581"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/401320/page_bg_generated_v6b.jpg?t=1477493581",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

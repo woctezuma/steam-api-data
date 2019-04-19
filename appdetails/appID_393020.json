@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Unlock the demon outfit for your main character!",
   "about_the_game": "Unlock the demon outfit for your main character!",
-  "short_description": "",
+  "short_description": "Unlock the demon outfit for your main character!",
   "fullgame": {
     "appid": "383080",
     "name": "Sakura Clicker"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     75204
@@ -97,6 +99,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/393020/ss_b4c319d4723413177e8f09120af25cdc27432299.1920x1080.jpg?t=1485965296"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Aug, 2015"
@@ -105,5 +110,12 @@
     "url": "",
     "email": "support@winged-cloud.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/393020/page_bg_generated_v6b.jpg?t=1485965296"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/393020/page_bg_generated_v6b.jpg?t=1485965296",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

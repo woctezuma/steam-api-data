@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/504970/extras/580x500.png?t=1469129816\" ><h2 class=\"bb_tag\">Soviet Bloc Edition contains DreamBreak game with good Russian stuffs like:</h2><ul class=\"bb_ul\"><li>Original 19 track soundtrack recorded by Egor Gritsukov (.mp3 &amp; .wav)<br></li><li>Digital art book (.pdf)<br></li><li>Pack of 5 Wallpapers<br></li><li>Walk-through (yeah good luck with that!) in Russian and 'English' (.pdf)</li></ul>",
   "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/504970/extras/580x500.png?t=1469129816\" ><h2 class=\"bb_tag\">Soviet Bloc Edition contains DreamBreak game with good Russian stuffs like:</h2><ul class=\"bb_ul\"><li>Original 19 track soundtrack recorded by Egor Gritsukov (.mp3 &amp; .wav)<br></li><li>Digital art book (.pdf)<br></li><li>Pack of 5 Wallpapers<br></li><li>Walk-through (yeah good luck with that!) in Russian and 'English' (.pdf)</li></ul>",
-  "short_description": "<h2 class=\"bb_tag\">Soviet Bloc Edition contains DreamBreak game with good Russian stuffs like:</h2><ul class=\"bb_ul\"><li>Original 19 track soundtrack recorded by Egor Gritsukov (.mp3 &amp; .wav)<br></li><li>Digital art book (.pdf)<br></li><li>Pack of 5 Wallpapers<br></li><li>Walk-through (yeah good luck with that!) in Russian and 'English' (.pdf)</li></ul>",
+  "short_description": "Soviet Bloc Edition contains DreamBreak game with good Russian stuffs like:Original 19 track soundtrack recorded by Egor Gritsukov (.mp3 &amp; .wav)Digital art book (.pdf)Pack of 5 WallpapersWalk-through (yeah good luck with that!) in Russian and 'English' (.",
   "fullgame": {
     "appid": "443570",
     "name": "DreamBreak"
@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 279,
+    "final": 83,
+    "discount_percent": 70,
+    "initial_formatted": "2,79\u20ac",
+    "final_formatted": "0,83\u20ac"
   },
   "packages": [
     116294
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 116294,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "DreamBreak \u2014 Soviet Bloc Edition Content - 3,99\u20ac",
+          "option_text": "DreamBreak \u2014 Soviet Bloc Edition Content - <span class=\"discount_original_price\">2,79\u20ac</span> 0,83\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 83
         }
       ]
     }
@@ -117,5 +119,9 @@
     "url": "https://twitter.com/aist_games",
     "email": "macder0@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/504970/page_bg_generated_v6b.jpg?t=1469129816"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/504970/page_bg_generated_v6b.jpg?t=1469129816",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

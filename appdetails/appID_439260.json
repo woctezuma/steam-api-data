@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     93850
@@ -101,6 +103,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/439260/ss_e7ba2fc1512bcc0918246a5278bde2052aa1f2d4.1920x1080.jpg?t=1470912270"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Feb, 2016"
@@ -109,5 +114,9 @@
     "url": "http://buttsvr.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/439260/page_bg_generated_v6b.jpg?t=1470912270"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/439260/page_bg_generated_v6b.jpg?t=1470912270",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

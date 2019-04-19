@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     119650
@@ -140,6 +142,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Jan, 2017"
@@ -148,5 +153,9 @@
     "url": "http://aviatorsgame.com",
     "email": "developers@aviatorsgame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/513310/page_bg_generated_v6b.jpg?t=1484853646"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/513310/page_bg_generated_v6b.jpg?t=1484853646",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

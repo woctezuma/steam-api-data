@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "MEMETYPER is a game in which you can check your typing skills. Learn about new memes or try to remember the old ones by typing their title to unlock description in meme encyclopedia.<br>Main features: <br>It is a game about typing<br><ul class=\"bb_ul\"><li> 900 memes are waiting to be typed.<br></li><li> Enlarge your peninsula of typing knowledge.<br></li><li> OVER 18 ACHIEVEMENTS.<br></li><li> Become Doctor of Sciences.<br></li><li> 20 levels<br></li><li> Survive in time<br></li><li> Leaderboard: Be the first to type all memes.<br></li><li> Have fun!</li></ul>",
   "about_the_game": "MEMETYPER is a game in which you can check your typing skills. Learn about new memes or try to remember the old ones by typing their title to unlock description in meme encyclopedia.<br>Main features: <br>It is a game about typing<br><ul class=\"bb_ul\"><li> 900 memes are waiting to be typed.<br></li><li> Enlarge your peninsula of typing knowledge.<br></li><li> OVER 18 ACHIEVEMENTS.<br></li><li> Become Doctor of Sciences.<br></li><li> 20 levels<br></li><li> Survive in time<br></li><li> Leaderboard: Be the first to type all memes.<br></li><li> Have fun!</li></ul>",
-  "short_description": "MEMETYPER is a game in which you can check your typing skills. Learn about new memes or try to remember the old ones by typing their title to unlock description in meme encyclopedia. Have fun :)",
+  "short_description": "MEMETYPER is a game in which you can check your typing skills. Learn about new memes or try to remember the old ones by typing their title to unlock description in meme encyclopedia.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/699940/header.jpg?t=1506496625",
   "website": "http://lab-mobil.com",
@@ -24,13 +24,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
-    236986,
-    "201509"
+    201509,
+    236986
   ],
   "package_groups": [
     {
@@ -43,6 +45,16 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
+          "packageid": 201509,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "MEMETYPER - 0,79\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 79
+        },
+        {
           "packageid": 236986,
           "percent_savings_text": "",
           "percent_savings": 0,
@@ -51,16 +63,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 99
-        },
-        {
-          "packageid": "201509",
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "MEMETYPER - 1,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -190,5 +192,9 @@
     "url": "http://lab-mobil.com",
     "email": "yury-chadaev@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/699940/page_bg_generated_v6b.jpg?t=1506496625"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/699940/page_bg_generated_v6b.jpg?t=1506496625",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

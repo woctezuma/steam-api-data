@@ -28,8 +28,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "final": 41,
+    "discount_percent": 86,
+    "initial_formatted": "2,99\u20ac",
+    "final_formatted": "0,41\u20ac"
   },
   "packages": [
     220233
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 220233,
-          "percent_savings_text": "",
+          "percent_savings_text": "-86%",
           "percent_savings": 0,
-          "option_text": "Infernales Soundtracks - 2,99\u20ac",
+          "option_text": "Infernales Soundtracks - <span class=\"discount_original_price\">2,99\u20ac</span> 0,41\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 41
         }
       ]
     }
@@ -134,5 +136,9 @@
     "url": "",
     "email": "betelgeuze1988@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/750000/page_bg_generated_v6b.jpg?t=1510176997"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/750000/page_bg_generated_v6b.jpg?t=1510176997",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

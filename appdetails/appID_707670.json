@@ -11,7 +11,7 @@
     "appid": "247000",
     "name": "Talisman: Digital Edition"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Polish, Russian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Polish, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/707670/header.jpg?t=1513248842",
   "website": "http://www.nomadgames.co.uk",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     204415
@@ -185,6 +187,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Dec, 2017"
@@ -193,5 +198,9 @@
     "url": "http://www.nomadgames.co.uk/support/",
     "email": "support@nomadgames.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/707670/page_bg_generated_v6b.jpg?t=1513248842"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/707670/page_bg_generated_v6b.jpg?t=1513248842",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

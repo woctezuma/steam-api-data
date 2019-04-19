@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     83940
@@ -133,6 +135,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Dec, 2015"
@@ -141,5 +146,9 @@
     "url": "",
     "email": "support@axedgamestudio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416430/page_bg_generated_v6b.jpg?t=1450460526"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416430/page_bg_generated_v6b.jpg?t=1450460526",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

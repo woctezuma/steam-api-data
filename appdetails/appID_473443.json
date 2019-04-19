@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     105032
@@ -132,6 +134,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/473443/ss_29a164bc0a2ba0e9888278c9b9f7fdea4c68bc98.1920x1080.jpg?t=1468896955"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Jul, 2016"
@@ -140,5 +145,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/473443/page_bg_generated_v6b.jpg?t=1468896955"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/473443/page_bg_generated_v6b.jpg?t=1468896955",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

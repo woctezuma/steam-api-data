@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<h2 class=\"bb_tag\">Donations DLC:</h2>This DLC contains <strong>no data</strong>, and will only unlock an addition Achievement after completing the mission. This mission is available for free to everyone who bought the base game. Buy this DLC only if you want to support the further development of Beyond Enemy Lines. You won't get any special content for buying this DLC.<h2 class=\"bb_tag\"><strong>A brand new mission with around 1h new playtime.</strong></h2><br>Zykov is definitely still in control of his army. He somehow organized his escape and has constantly full control of his business. You need to infiltrate this dome and get as much data as possible. We believe he is still somewhere in this area.<br><br>Your Objectives are:<br><ul class=\"bb_ul\"><li>Infiltrate the dome.<br></li><li>Get as much data as possible.</li></ul>",
   "about_the_game": "<h2 class=\"bb_tag\">Donations DLC:</h2>This DLC contains <strong>no data</strong>, and will only unlock an addition Achievement after completing the mission. This mission is available for free to everyone who bought the base game. Buy this DLC only if you want to support the further development of Beyond Enemy Lines. You won't get any special content for buying this DLC.<h2 class=\"bb_tag\"><strong>A brand new mission with around 1h new playtime.</strong></h2><br>Zykov is definitely still in control of his army. He somehow organized his escape and has constantly full control of his business. You need to infiltrate this dome and get as much data as possible. We believe he is still somewhere in this area.<br><br>Your Objectives are:<br><ul class=\"bb_ul\"><li>Infiltrate the dome.<br></li><li>Get as much data as possible.</li></ul>",
-  "short_description": "<strong>A brand new mission with around 1h new playtime.</strong><br><br>Zykov is definitely still in control of his army. He somehow organized his escape and has constantly full control of his business. You need to infiltrate this dome and get as much data as possible. We believe he is still somewhere in this area.",
+  "short_description": "A brand new mission with around 1h new playtime.Zykov is definitely still in control of his army. He somehow organized his escape and has constantly full control of his business. You need to infiltrate this dome and get as much data as possible. We believe he is still somewhere in this area.",
   "fullgame": {
     "appid": "523610",
     "name": "Beyond Enemy Lines"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     159488
@@ -141,5 +143,9 @@
     "url": "http://polygon-art.com/",
     "email": "contact@polygon-art.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/605050/page_bg_generated_v6b.jpg?t=1497269384"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/605050/page_bg_generated_v6b.jpg?t=1497269384",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

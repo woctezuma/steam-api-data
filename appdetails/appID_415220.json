@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Kaiju-a-gogo is a strategy/action title featuring GIANT MONSTERS. The player takes on the role of a fledgling Mad Scientist who has built the first human-controlled Kaiju in the world. While your rivals race to catch up with your genius and build their own Kaiju to compete with you, you have a five-year-window to use your Kaiju to achieve TOTAL WORLD DOMINATION.",
   "about_the_game": "Kaiju-a-gogo is a strategy/action title featuring GIANT MONSTERS. The player takes on the role of a fledgling Mad Scientist who has built the first human-controlled Kaiju in the world. While your rivals race to catch up with your genius and build their own Kaiju to compete with you, you have a five-year-window to use your Kaiju to achieve TOTAL WORLD DOMINATION.",
-  "short_description": "Choose your giant monster! Tonight it's tricks AND treats as you dress your Kaiju up in its Halloween finest! <br />\r\nTake of the world in style in this light action-strategy game that harkens back to the classic PC monster city-stomping games of yesteryear!",
+  "short_description": "Choose your giant monster! Tonight it's tricks AND treats as you dress your Kaiju up in its Halloween finest! Take of the world in style in this light action-strategy game that harkens back to the classic PC monster city-stomping games of yesteryear!",
   "fullgame": {
     "appid": "333210",
     "name": "Kaiju-A-GoGo"
@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 175,
+    "final": 175,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,75\u20ac"
   },
   "packages": [
     83532
@@ -50,11 +52,11 @@
           "packageid": 83532,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Kaiju-A-GoGo: Halloween Kaiju Skins - 1,99\u20ac",
+          "option_text": "Kaiju-A-GoGo: Halloween Kaiju Skins - 1,75\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 175
         }
       ]
     }
@@ -132,6 +134,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/415220/ss_8b298765f857e587f1171341c2eef6aa9edee32a.1920x1080.jpg?t=1447378712"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Oct, 2015"
@@ -140,5 +145,9 @@
     "url": "http://www.kerberos-productions.com/forums/viewforum.php?f=82",
     "email": "contact@kerberos-productions.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/415220/page_bg_generated_v6b.jpg?t=1447378712"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/415220/page_bg_generated_v6b.jpg?t=1447378712",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

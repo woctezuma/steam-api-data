@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 450,
+    "final": 450,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,50\u20ac"
   },
   "packages": [
     129409
@@ -52,11 +54,11 @@
           "packageid": 129409,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "The Music of Hidden Dimensions 3 - 4,99\u20ac",
+          "option_text": "The Music of Hidden Dimensions 3 - 4,50\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 450
         }
       ]
     }
@@ -109,5 +111,9 @@
     "url": "http://nulll-void.com/forums/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/533840/page_bg_generated_v6b.jpg?t=1476454138"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/533840/page_bg_generated_v6b.jpg?t=1476454138",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

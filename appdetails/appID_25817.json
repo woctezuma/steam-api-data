@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The Music of the World collection contains 21 tracks with over an hour of music. With music inspired from all parts of the world, there are songs for war, peace, trade, the plague and more. Enhance your game with a range of emotional songs inspired by locations all over the globe.<h2 class=\"bb_tag\">Tracks</h2><ul class=\"bb_ul\"><li> A City<br></li><li> Africa<br></li><li> Debt<br></li><li> Decisions<br></li><li> English<br></li><li> Europe<br></li><li> Himalaya<br></li><li> Holy<br></li><li> Impressive<br></li><li> Labour<br></li><li> Morning<br></li><li> New Times<br></li><li> Story of a Nation<br></li><li> The Fields<br></li><li> The Market<br></li><li> The Minich<br></li><li> The Plague<br></li><li> The Royal Court<br></li><li> Wait<br></li><li> War<br></li><li> Wealth</li></ul>",
   "about_the_game": "The Music of the World collection contains 21 tracks with over an hour of music. With music inspired from all parts of the world, there are songs for war, peace, trade, the plague and more. Enhance your game with a range of emotional songs inspired by locations all over the globe.<h2 class=\"bb_tag\">Tracks</h2><ul class=\"bb_ul\"><li> A City<br></li><li> Africa<br></li><li> Debt<br></li><li> Decisions<br></li><li> English<br></li><li> Europe<br></li><li> Himalaya<br></li><li> Holy<br></li><li> Impressive<br></li><li> Labour<br></li><li> Morning<br></li><li> New Times<br></li><li> Story of a Nation<br></li><li> The Fields<br></li><li> The Market<br></li><li> The Minich<br></li><li> The Plague<br></li><li> The Royal Court<br></li><li> Wait<br></li><li> War<br></li><li> Wealth</li></ul>",
-  "short_description": "",
+  "short_description": "The Music of the World collection contains 21 tracks with over an hour of music. With music inspired from all parts of the world, there are songs for war, peace, trade, the plague and more. Enhance your game with a range of emotional songs inspired by locations all over the globe.",
   "fullgame": {
     "appid": "25800",
     "name": "Europa Universalis III Complete"
@@ -31,12 +31,12 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    18551,
-    29116,
-    29112
+    18551
   ],
   "package_groups": [
     {
@@ -57,26 +57,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 499
-        },
-        {
-          "packageid": 29116,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Europa Universalis III DLC Collection - 29,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2999
-        },
-        {
-          "packageid": 29112,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Europa Universalis III Collection - 39,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 3999
         }
       ]
     }
@@ -133,6 +113,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/25817/ss_43a909197bbb16d7b99399b926c8278e6a07c369.1920x1080.jpg?t=1447357122"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Dec, 2012"
@@ -141,5 +124,9 @@
     "url": "http://www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25817/page_bg_generated_v6b.jpg?t=1447357122"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25817/page_bg_generated_v6b.jpg?t=1447357122",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

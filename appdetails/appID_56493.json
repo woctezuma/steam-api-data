@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The Tau Commander is a brand new hero for <strong>Warhammer\u00ae 40,000\u00ae: Dawn of War\u00ae II: Retribution\u2122</strong> and <strong>Warhammer\u00ae 40,000\u00ae: Dawn of War\u00ae II: The Last Stand Alone\u2122</strong>.  The Tau Commander comes with 26 pieces of wargear, 2 achievements, an all new voice and 20 levels of progression. The Tau Commander is an offensively potent hero who can only fire at range and is vulnerable in melee. He can summon one of up to three drones to support his efforts.",
   "about_the_game": "The Tau Commander is a brand new hero for <strong>Warhammer\u00ae 40,000\u00ae: Dawn of War\u00ae II: Retribution\u2122</strong> and <strong>Warhammer\u00ae 40,000\u00ae: Dawn of War\u00ae II: The Last Stand Alone\u2122</strong>.  The Tau Commander comes with 26 pieces of wargear, 2 achievements, an all new voice and 20 levels of progression. The Tau Commander is an offensively potent hero who can only fire at range and is vulnerable in melee. He can summon one of up to three drones to support his efforts.",
-  "short_description": "",
+  "short_description": "The Tau Commander is a brand new hero for Warhammer\u00ae 40,000\u00ae: Dawn of War\u00ae II: Retribution\u2122 and Warhammer\u00ae 40,000\u00ae: Dawn of War\u00ae II: The Last Stand Alone\u2122. The Tau Commander comes with 26 pieces of wargear, 2 achievements, an all new voice and 20 levels of progression.",
   "fullgame": {
     "appid": "56437",
     "name": "Warhammer 40,000: Dawn of War II: Retribution"
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     12034,
@@ -178,6 +180,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Oct, 2011"
@@ -186,5 +191,9 @@
     "url": "https://support.sega.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/56493/page_bg_generated_v6b.jpg?t=1521739249"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/56493/page_bg_generated_v6b.jpg?t=1521739249",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

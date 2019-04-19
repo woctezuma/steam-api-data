@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The Eternal Renown Boost will award +3 Renown per battle, whether won or lost. Your deeds shall be heard far and wide.",
   "about_the_game": "The Eternal Renown Boost will award +3 Renown per battle, whether won or lost. Your deeds shall be heard far and wide.",
-  "short_description": "",
+  "short_description": "The Eternal Renown Boost will award +3 Renown per battle, whether won or lost. Your deeds shall be heard far and wide.",
   "fullgame": {
     "appid": "219340",
     "name": "The Banner Saga: Factions"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     27097
@@ -125,6 +127,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/234024/ss_f3fd65694f6b714b105f1eab0b27adaa65cf6d4a.1920x1080.jpg?t=1478029950"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Apr, 2013"
@@ -133,5 +138,9 @@
     "url": "https://stoicstudio.com/forum",
     "email": "community@stoicstudio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/234024/page_bg_generated_v6b.jpg?t=1478029950"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/234024/page_bg_generated_v6b.jpg?t=1478029950",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

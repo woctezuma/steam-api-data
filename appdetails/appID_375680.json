@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     69435
@@ -129,9 +131,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 296
-  },
   "achievements": {
     "total": 2,
     "highlighted": [
@@ -153,5 +152,9 @@
     "url": "http://www.ineedplay.com",
     "email": "support@ineedplay.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/375680/page_bg_generated_v6b.jpg?t=1495360523"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/375680/page_bg_generated_v6b.jpg?t=1495360523",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

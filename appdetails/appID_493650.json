@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\">Deep Space Dash 2.0 is a 3rd/1st futuristic space runner that will challenge your focus and dexterity.</h2>You are a convict in an intergalactic high-security prison, at an unknown location. <br>casual spacey infinite runner game that will challenge you quite a bit.<br><br>2.0 update removed modes, added achievements, changed complete game overall.<br>features:<br>- 1st/3rd person camera view<br>- transformation tile (allow destroying blockers for some time)<br>- fuel instead of time<br>- shield mechanic<br>- achievements<br>- new environment",
   "about_the_game": "<h2 class=\"bb_tag\">Deep Space Dash 2.0 is a 3rd/1st futuristic space runner that will challenge your focus and dexterity.</h2>You are a convict in an intergalactic high-security prison, at an unknown location. <br>casual spacey infinite runner game that will challenge you quite a bit.<br><br>2.0 update removed modes, added achievements, changed complete game overall.<br>features:<br>- 1st/3rd person camera view<br>- transformation tile (allow destroying blockers for some time)<br>- fuel instead of time<br>- shield mechanic<br>- achievements<br>- new environment",
-  "short_description": "Deep Space Dash is a third person futuristic space runner. <br />\r\nYou are a convict in an intergalactic high-security prison, at an unknown location. <br />\r\nYou have managed to escape your cell but you are lost in a huge maze.",
+  "short_description": "Deep Space Dash is a third person futuristic space runner. You are a convict in an intergalactic high-security prison, at an unknown location. You have managed to escape your cell but you are lost in a huge maze.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/493650/header.jpg?t=1508688799",
   "website": "http://www.backtobasicsgaming.com/",
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     112230
@@ -139,7 +141,7 @@
     }
   ],
   "recommendations": {
-    "total": 269
+    "total": 122
   },
   "achievements": {
     "total": 16,
@@ -194,5 +196,9 @@
     "url": "http://www.backtobasicsgaming.com/",
     "email": "Dan@BackToBasicsGaming.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/493650/page_bg_generated_v6b.jpg?t=1508688799"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/493650/page_bg_generated_v6b.jpg?t=1508688799",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

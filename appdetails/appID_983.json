@@ -1,6 +1,6 @@
 {
   "type": "movie",
-  "name": "Call of Juarez\u2122 Trailer",
+  "name": "Call of Juarez Trailer",
   "steam_appid": 983,
   "required_age": 0,
   "is_free": false,
@@ -8,20 +8,16 @@
   "about_the_game": "",
   "short_description": "",
   "fullgame": {
-    "appid": "3020",
-    "name": "Call of Juarez\u2122"
+    "appid": null,
+    "name": "Uninitialized"
   },
-  "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/983/header.jpg?t=1447351095",
-  "website": "http://callofjuarez.com/",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/983/header.jpg?t=1527515199",
+  "website": null,
   "pc_requirements": [],
   "mac_requirements": [],
   "linux_requirements": [],
-  "developers": [
-    "Techland"
-  ],
   "publishers": [
-    "Techland"
+    ""
   ],
   "package_groups": [],
   "platforms": {
@@ -29,19 +25,29 @@
     "mac": false,
     "linux": false
   },
-  "genres": [
+  "movies": [
     {
-      "id": "1",
-      "description": "Action"
+      "id": 983,
+      "name": "Call of Juarez Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/983/movie.293x165.jpg?t=1527515199",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/983/movie480.webm?t=1527515199",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/983/movie_max.webm?t=1527515199"
+      },
+      "highlight": false
     }
   ],
   "release_date": {
     "coming_soon": false,
-    "date": "8 Nov, 2007"
+    "date": ""
   },
   "support_info": {
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

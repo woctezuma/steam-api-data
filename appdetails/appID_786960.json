@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     237663
@@ -161,6 +163,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Feb, 2018"
@@ -169,5 +174,9 @@
     "url": "",
     "email": "support@taleastudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/786960/page_bg_generated_v6b.jpg?t=1517852208"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/786960/page_bg_generated_v6b.jpg?t=1517852208",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

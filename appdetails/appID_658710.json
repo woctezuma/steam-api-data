@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 2299,
-    "final": 2299,
-    "discount_percent": 0
+    "initial": 2099,
+    "final": 2099,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "20,99\u20ac"
   },
   "packages": [
     186313
@@ -46,11 +48,11 @@
           "packageid": 186313,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Pine Seekers - 22,99\u20ac",
+          "option_text": "Pine Seekers - 20,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2299
+          "price_in_cents_with_discount": 2099
         }
       ]
     }
@@ -203,5 +205,9 @@
     "url": "http://nifty-productions.com/",
     "email": "niftyproductions.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/658710/page_bg_generated_v6b.jpg?t=1502722884"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/658710/page_bg_generated_v6b.jpg?t=1502722884",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

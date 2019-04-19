@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     98352
@@ -131,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/454960/ss_5e012a5a7e74b24bde8b35f199e5d2a0a7905dc9.1920x1080.jpg?t=1478176868"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Mar, 2016"
@@ -139,5 +144,9 @@
     "url": "",
     "email": "support@betadwarf.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/454960/page_bg_generated_v6b.jpg?t=1478176868"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/454960/page_bg_generated_v6b.jpg?t=1478176868",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

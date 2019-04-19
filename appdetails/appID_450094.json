@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Created by Riley D. Owens (aka Darkwoulfe), this product consists of 25 top-down uniquely designed, 3d rendered tokens, depicting both heroes, villains and monsters. You can use these to replace the letter tokens or built-in tokens in many popular adventure modules. Just unlock the encounters and drag these over top or drag them over top of the listing in your combat tracker.<br><br><ul class=\"bb_ul\"><li>Hunter<br></li><li>Archer<br></li><li>Tiefling Wizard<br></li><li>Half-Orc Fighter<br></li><li>Gnomish Casters<br></li><li>Dwarven Cleric<br></li><li>Grey Elf<br></li><li>Gnolls<br></li><li>Vampire<br></li><li>Flesh Golem<br></li><li>Wererats<br></li><li>Eye Tyrant</li></ul><br><strong>Requires:</strong> An active subscription or license of Fantasy Grounds. It will work with any ruleset.",
   "about_the_game": "Created by Riley D. Owens (aka Darkwoulfe), this product consists of 25 top-down uniquely designed, 3d rendered tokens, depicting both heroes, villains and monsters. You can use these to replace the letter tokens or built-in tokens in many popular adventure modules. Just unlock the encounters and drag these over top or drag them over top of the listing in your combat tracker.<br><br><ul class=\"bb_ul\"><li>Hunter<br></li><li>Archer<br></li><li>Tiefling Wizard<br></li><li>Half-Orc Fighter<br></li><li>Gnomish Casters<br></li><li>Dwarven Cleric<br></li><li>Grey Elf<br></li><li>Gnolls<br></li><li>Vampire<br></li><li>Flesh Golem<br></li><li>Wererats<br></li><li>Eye Tyrant</li></ul><br><strong>Requires:</strong> An active subscription or license of Fantasy Grounds. It will work with any ruleset.",
-  "short_description": "<ul class=\"bb_ul\"><li>Hunter<br></li><li>Archer<br></li><li>Tiefling Wizard<br></li><li>Half-Orc Fighter<br></li><li>Gnomish Casters<br></li><li>Dwarven Cleric<br></li><li>Grey Elf<br></li><li>Gnolls<br></li><li>Vampire<br></li><li>Flesh Golem<br></li><li>Wererats<br></li><li>Eye Tyrant</li></ul>",
+  "short_description": "HunterArcherTiefling WizardHalf-Orc FighterGnomish CastersDwarven ClericGrey ElfGnollsVampireFlesh GolemWereratsEye Tyrant",
   "fullgame": {
     "appid": "252690",
     "name": "Fantasy Grounds"
@@ -20,7 +20,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "(c) 2016 Darkwoulfe(Riley Owens) All Rights Reserved<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2016 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a></a> for more product information.",
+  "legal_notice": "(c) 2016 Darkwoulfe(Riley Owens) All Rights Reserved<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2016 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a> for more product information.",
   "developers": [
     "SmiteWorks USA, LLC"
   ],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     96617
@@ -108,6 +110,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/450094/ss_b7969869c7fb8f776b53d57ae8a550df716e5bb9.1920x1080.jpg?t=1456862842"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Mar, 2016"
@@ -116,5 +121,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/450094/page_bg_generated_v6b.jpg?t=1456862842"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/450094/page_bg_generated_v6b.jpg?t=1456862842",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

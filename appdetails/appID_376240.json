@@ -11,7 +11,7 @@
   "about_the_game": "<i>Marooned in an alien, airless wasteland \u2014 your starship fractured \u2014 your crewmates missing. Can an apprentice alchemist learn how to survive?</i><br><br><i>Hadean Lands</i> is interactive fiction \u2014 a classic text adventure. No graphics! No dialogue trees! No point-and-click! You type your commands, and read what happens next.<br><br>(Keyboard controls only. Because you have to type everything. Get it?)<br><br><i>Hadean Lands</i> is a game of alchemy and exploration, with an intricate structure of interlinked puzzles. Every ritual you learn adds a new ability to your toolkit. But every ritual requires a different combination of ingredients, and some ingredients are in desperately short supply.<br><br>The game's sophisticated goal-tracking system permits you to experiment freely! Any ritual you've learned can be performed with a single command. Any puzzle that you've ever solved can be re-solved automatically. Click on the in-game map to travel to any room you're familiar with; the goal system will even find known keys and re-solve intermediate puzzles to get there. But beware: many puzzles have multiple solutions. If the ones you've found don't fit together, you may have to go searching for alternatives...<br><br><i>Repairing an alchemical starship single-handed? Not easy; perhaps impossible. You\u2019ll have to discover the rituals you need, and then search for ingredients, and then improvise and substitute. You\u2019ll have to calcine, distill, dissolve, and precipitate. And somehow, somewhere, you\u2019ll have to figure out what happened and why.</i><br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/376240/extras/map-final-small.jpg?t=1476740406\" >",
   "short_description": "Alchemy, puzzles, and a crashed starship. Old-style interactive fiction \u2014 a classic text adventure. No graphics! No dialogue trees! No point-and-click! You type your commands, and read what happens next.",
   "supported_languages": "English",
-  "reviews": "\u201cThe best video game I played last year is a science-fiction thriller about alchemy, and it has no graphics or sound effects.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.slate.com/articles/technology/bitwise/2015/01/hadean_lands_the_text_only_video_game_shows_how_the_genre_can_be_beautiful.html\" target=\"_blank\" rel=\"noopener\"  >Slate</a></a><br><br>\u201cThe bottom line is that Hadean Lands makes great strides towards perfecting the classic adventure game \u2014 not just the text adventure.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.adventuregamers.com/articles/view/27566\" target=\"_blank\" rel=\"noopener\"  >http://www.adventuregamers.com/articles/view/27566</a></a><br><br>\u201cHadean Lands is one of the most extraordinary pieces of parser IF ever written\u201d<br><a href=\"https://www.rockpapershotgun.com/2016/06/29/hadean-lands/\" target=\"_blank\" rel=\"noreferrer\"  >Rock Paper Shotgun</a></a><br>",
+  "reviews": "\u201cThe best video game I played last year is a science-fiction thriller about alchemy, and it has no graphics or sound effects.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.slate.com/articles/technology/bitwise/2015/01/hadean_lands_the_text_only_video_game_shows_how_the_genre_can_be_beautiful.html\" target=\"_blank\" rel=\"noopener\"  >Slate</a><br><br>\u201cThe bottom line is that Hadean Lands makes great strides towards perfecting the classic adventure game \u2014 not just the text adventure.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.adventuregamers.com/articles/view/27566\" target=\"_blank\" rel=\"noopener\"  >http://www.adventuregamers.com/articles/view/27566</a><br><br>\u201cHadean Lands is one of the most extraordinary pieces of parser IF ever written\u201d<br><a href=\"https://www.rockpapershotgun.com/2016/06/29/hadean-lands/\" target=\"_blank\" rel=\"noreferrer\"  >Rock Paper Shotgun</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/376240/header.jpg?t=1476740406",
   "website": "http://hadeanlands.com/",
   "pc_requirements": {
@@ -23,7 +23,7 @@
   "linux_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> 1GHz<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> Any<br></li><li><strong>Storage:</strong> 60 MB available space</li></ul>"
   },
-  "legal_notice": "Hadean Lands is copyright 2014-6 by <a href=\"https://steamcommunity.com/linkfilter/?url=http://eblong.com/zarf/home.html\" target=\"_blank\" rel=\"noopener\"  >Andrew Plotkin</a></a>.<br>The game was built with <a href=\"https://steamcommunity.com/linkfilter/?url=http://inform7.com/\" target=\"_blank\" rel=\"noopener\"  >Inform 7</a></a>, a free IF development system. Inform 7 was created by Graham Nelson.<br>This playable version is built with <a href=\"https://steamcommunity.com/linkfilter/?url=https://github.com/erkyrath/lectrote\" target=\"_blank\" rel=\"noopener\"  >Lectrote</a></a>, an open-source IF interpreter.",
+  "legal_notice": "Hadean Lands is copyright 2014-6 by <a href=\"https://steamcommunity.com/linkfilter/?url=http://eblong.com/zarf/home.html\" target=\"_blank\" rel=\"noopener\"  >Andrew Plotkin</a>.<br>The game was built with <a href=\"https://steamcommunity.com/linkfilter/?url=http://inform7.com/\" target=\"_blank\" rel=\"noopener\"  >Inform 7</a>, a free IF development system. Inform 7 was created by Graham Nelson.<br>This playable version is built with <a href=\"https://steamcommunity.com/linkfilter/?url=https://github.com/erkyrath/lectrote\" target=\"_blank\" rel=\"noopener\"  >Lectrote</a>, an open-source IF interpreter.",
   "developers": [
     "Zarfhome Software"
   ],
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     69591
@@ -126,6 +128,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Jun, 2016"
@@ -134,5 +139,9 @@
     "url": "http://zarfhome.com/support.html",
     "email": "support@zarfhome.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/376240/page_bg_generated_v6b.jpg?t=1476740406"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/376240/page_bg_generated_v6b.jpg?t=1476740406",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

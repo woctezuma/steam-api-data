@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     67694
@@ -134,7 +136,7 @@
     }
   ],
   "recommendations": {
-    "total": 2318
+    "total": 2098
   },
   "achievements": {
     "total": 10,
@@ -189,5 +191,9 @@
     "url": "http://www.zachtronics.com/support",
     "email": "support@zachtronics.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/370360/page_bg_generated_v6b.jpg?t=1491845789"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/370360/page_bg_generated_v6b.jpg?t=1491845789",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

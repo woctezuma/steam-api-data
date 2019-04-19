@@ -11,20 +11,20 @@
     "appid": "507490",
     "name": "Ashes of the Singularity: Escalation"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German<strong>*</strong>, Spanish, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/649310/header.jpg?t=1505407739",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German<strong>*</strong>, Spanish - Spain, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/649310/header.jpg?t=1549636754",
   "website": "http://www.ashesofthesingularity.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10 / 8.1 / 7<br></li><li><strong>Processor:</strong> Quad-core Intel / AMD Processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> 2 GB GDDR5 NVidia GeForce 660 / AMD R7 360 or better (GeForce 900+ / Radeon 290+ for Vulkan)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card<br></li><li><strong>Additional Notes:</strong> 1920x1080 Display Resolution or Higher</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5 or Equivalent<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> 4 GB GDDR5 NVidia GTX 970 / AMD R9 390 or better<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card<br></li><li><strong>Additional Notes:</strong> 1920x1080 Display Resolution or Higher</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Setzt 64-Bit-Prozessor und -Betriebssystem voraus<br></li><li><strong>Betriebssystem:</strong> 64-bit Windows 10 / 8.1 / 7<br></li><li><strong>Prozessor:</strong> Quad-core Intel / AMD Processor<br></li><li><strong>Arbeitsspeicher:</strong> 6 GB RAM<br></li><li><strong>Grafik:</strong> 2 GB GDDR5 NVidia GeForce 660 / AMD R7 360 or better (GeForce 900+ / Radeon 290+ for Vulkan)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Netzwerk:</strong> Breitband-Internetverbindung<br></li><li><strong>Soundkarte:</strong> DirectX Compatible Sound Card<br></li><li><strong>Zus\u00e4tzliche Anmerkungen:</strong> 1920x1080 Display Resolution or Higher</li></ul>",
+    "recommended": "<strong>Empfohlen:</strong><br><ul class=\"bb_ul\"><li>Setzt 64-Bit-Prozessor und -Betriebssystem voraus<br></li><li><strong>Betriebssystem:</strong> 64-bit Windows 10<br></li><li><strong>Prozessor:</strong> Intel Core i5 or Equivalent<br></li><li><strong>Arbeitsspeicher:</strong> 16 GB RAM<br></li><li><strong>Grafik:</strong> 4 GB GDDR5 NVidia GTX 970 / AMD R9 390 or better<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Netzwerk:</strong> Breitband-Internetverbindung<br></li><li><strong>Soundkarte:</strong> DirectX Compatible Sound Card<br></li><li><strong>Zus\u00e4tzliche Anmerkungen:</strong> 1920x1080 Display Resolution or Higher</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Setzt 64-Bit-Prozessor und -Betriebssystem voraus</li></ul>",
+    "recommended": "<strong>Empfohlen:</strong><br><ul class=\"bb_ul\"><li>Setzt 64-Bit-Prozessor und -Betriebssystem voraus</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Setzt 64-Bit-Prozessor und -Betriebssystem voraus</li></ul>",
+    "recommended": "<strong>Empfohlen:</strong><br><ul class=\"bb_ul\"><li>Setzt 64-Bit-Prozessor und -Betriebssystem voraus</li></ul>"
   },
   "legal_notice": "Copyright \u00a9 2017 Stardock Entertainment and Oxide Games. Ashes of the Singularity and Ashes of the Singularity: Escalation are trademarks of Stardock Entertainment. All rights reserved.",
   "developers": [
@@ -34,32 +34,7 @@
   "publishers": [
     "Stardock Entertainment"
   ],
-  "packages": [
-    220774
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy Ashes of the Singularity: Escalation - Juggernaut DLC",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 220774,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Stardock Pack 2018 - 89,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 8999
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -124,30 +99,33 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_b1444d6e521e1bc5291af5133e8750237af1bbee.600x338.jpg?t=1505407739",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_b1444d6e521e1bc5291af5133e8750237af1bbee.1920x1080.jpg?t=1505407739"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_b1444d6e521e1bc5291af5133e8750237af1bbee.600x338.jpg?t=1549636754",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_b1444d6e521e1bc5291af5133e8750237af1bbee.1920x1080.jpg?t=1549636754"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_8341a88634b67fcad82e853003fe650e36b44a42.600x338.jpg?t=1505407739",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_8341a88634b67fcad82e853003fe650e36b44a42.1920x1080.jpg?t=1505407739"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_8341a88634b67fcad82e853003fe650e36b44a42.600x338.jpg?t=1549636754",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_8341a88634b67fcad82e853003fe650e36b44a42.1920x1080.jpg?t=1549636754"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_3f8dccebb7c7f31a9693252682e6f6732edf0bb9.600x338.jpg?t=1505407739",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_3f8dccebb7c7f31a9693252682e6f6732edf0bb9.1920x1080.jpg?t=1505407739"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_3f8dccebb7c7f31a9693252682e6f6732edf0bb9.600x338.jpg?t=1549636754",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_3f8dccebb7c7f31a9693252682e6f6732edf0bb9.1920x1080.jpg?t=1549636754"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_d2c9def88e37a5617958918d5f6305f80ea4e915.600x338.jpg?t=1505407739",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_d2c9def88e37a5617958918d5f6305f80ea4e915.1920x1080.jpg?t=1505407739"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_d2c9def88e37a5617958918d5f6305f80ea4e915.600x338.jpg?t=1549636754",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_d2c9def88e37a5617958918d5f6305f80ea4e915.1920x1080.jpg?t=1549636754"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_d4ae1c3a0bff3673541cd057a37eda60a611dd08.600x338.jpg?t=1505407739",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_d4ae1c3a0bff3673541cd057a37eda60a611dd08.1920x1080.jpg?t=1505407739"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_d4ae1c3a0bff3673541cd057a37eda60a611dd08.600x338.jpg?t=1549636754",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/649310/ss_d4ae1c3a0bff3673541cd057a37eda60a611dd08.1920x1080.jpg?t=1549636754"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Sep, 2017"
@@ -156,5 +134,9 @@
     "url": "http://www.stardock.com/support/",
     "email": "support@stardock.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/649310/page_bg_generated_v6b.jpg?t=1505407739"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/649310/page_bg_generated_v6b.jpg?t=1549636754",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

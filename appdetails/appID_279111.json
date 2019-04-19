@@ -12,7 +12,7 @@
     "appid": "247950",
     "name": "Sacred 3"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish, Japanese, Polish, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain, Japanese, Polish, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/279111/header.jpg?t=1447360396",
   "website": "http://www.sacred-world.com",
   "pc_requirements": {
@@ -32,12 +32,13 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     38174,
-    67169,
-    67170
+    67169
   ],
   "package_groups": [
     {
@@ -68,16 +69,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 1999
-        },
-        {
-          "packageid": 67170,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Sacred Franchise Pack - 36,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 3699
         }
       ]
     }
@@ -163,6 +154,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/279111/ss_c74b690bd486cd687dfe69c0201292cb592aa3fd.1920x1080.jpg?t=1447360396"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Aug, 2014"
@@ -171,5 +165,9 @@
     "url": "helpcenter.deepsilver.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/279111/page_bg_generated_v6b.jpg?t=1447360396"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/279111/page_bg_generated_v6b.jpg?t=1447360396",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

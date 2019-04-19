@@ -4,10 +4,13 @@
   "steam_appid": 806160,
   "required_age": 0,
   "is_free": false,
+  "dlc": [
+    835480
+  ],
   "detailed_description": "Rabbirun is a casual endless running game where you play as brave rabbit that have to run his entire life. Collect carrots to increase health, avoid enemies and obstacles and dont fall down until you got highest score!<br><br>Features:<br><ul class=\"bb_ul\"><li>Casual one-button gameplay<br></li><li>Simple beautiful graphics<br></li><li>Fall forest aestethic<br></li><li>Good music</li></ul><br>Contact e-mail: <u>contact@palenogames.ru</u>",
   "about_the_game": "Rabbirun is a casual endless running game where you play as brave rabbit that have to run his entire life. Collect carrots to increase health, avoid enemies and obstacles and dont fall down until you got highest score!<br><br>Features:<br><ul class=\"bb_ul\"><li>Casual one-button gameplay<br></li><li>Simple beautiful graphics<br></li><li>Fall forest aestethic<br></li><li>Good music</li></ul><br>Contact e-mail: <u>contact@palenogames.ru</u>",
   "short_description": "Rabbirun is a casual endless running game where you play as brave rabbit that have to run his entire life. Collect carrots to increase health, avoid enemies and obstacles and dont fall down until you got highest score!",
-  "supported_languages": "English, French, Italian, German, Spanish, Russian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/806160/header.jpg?t=1522213856",
   "website": null,
   "pc_requirements": {
@@ -25,12 +28,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 149,
-    "final": 149,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
-    245686
+    245686,
+    314535
   ],
   "package_groups": [
     {
@@ -46,11 +52,21 @@
           "packageid": 245686,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "\ud83d\udc30RabbiruN\ud83d\udc30 - 1,49\u20ac",
+          "option_text": "\ud83d\udc30RabbiruN\ud83d\udc30 - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 149
+          "price_in_cents_with_discount": 79
+        },
+        {
+          "packageid": 314535,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "\ud83d\udc30RabbiruN\ud83d\udc30 - Commercial License - 0,79\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -188,5 +204,9 @@
     "url": "http://palenogames.ru",
     "email": "contact@palenogames.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/806160/page_bg_generated_v6b.jpg?t=1522213856"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/806160/page_bg_generated_v6b.jpg?t=1522213856",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>This tutorial is about how to study better. Learning how to be patient and to be resilient. As well as focusing on what you want to learn, not what you think you need to learn.  We'll also talk about the power of practice.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>This tutorial is about how to study better. Learning how to be patient and to be resilient. As well as focusing on what you want to learn, not what you think you need to learn.  We'll also talk about the power of practice.",
   "about_the_game": "This tutorial is about how to study better. Learning how to be patient and to be resilient. As well as focusing on what you want to learn, not what you think you need to learn.  We'll also talk about the power of practice.",
   "short_description": "This tutorial is on how to study better.",
   "fullgame": {
@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     174406
@@ -53,11 +55,11 @@
           "packageid": 174406,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Robotpencil Presents: Insight: How to Study Better - 5,99\u20ac",
+          "option_text": "Robotpencil Presents: Insight: How to Study Better - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -118,5 +120,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/635130/page_bg_generated_v6b.jpg?t=1495231608"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/635130/page_bg_generated_v6b.jpg?t=1495231608",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

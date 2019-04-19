@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Fantastic Checkers 2</strong> is a modern version of the classic strategy board game set in an extraterrestrial environment! The objective of the game is to capture opponent pieces by diagonally jumping over them to eliminate them from the board. The game features a spinning board with fully animated space monsters on each side. You can play against the computer in three levels of difficulty or take on your friends and family in a local two-player, turn-based bout. You can play in classic top-down 2D mode or opt for the unique 3D mode, and each game presents a random set of playable characters.<h2 class=\"bb_tag\">KEY FEATURES</h2><ul class=\"bb_ul\"><li>3 Levels of difficulty<br></li><li>Local turn-based player-vs-player action<br></li><li>2D &amp; 3D rendered gameplay<br></li><li>Fully animated board pieces<br></li><li>28 adorable monsters included</li></ul>",
   "about_the_game": "<strong>Fantastic Checkers 2</strong> is a modern version of the classic strategy board game set in an extraterrestrial environment! The objective of the game is to capture opponent pieces by diagonally jumping over them to eliminate them from the board. The game features a spinning board with fully animated space monsters on each side. You can play against the computer in three levels of difficulty or take on your friends and family in a local two-player, turn-based bout. You can play in classic top-down 2D mode or opt for the unique 3D mode, and each game presents a random set of playable characters.<h2 class=\"bb_tag\">KEY FEATURES</h2><ul class=\"bb_ul\"><li>3 Levels of difficulty<br></li><li>Local turn-based player-vs-player action<br></li><li>2D &amp; 3D rendered gameplay<br></li><li>Fully animated board pieces<br></li><li>28 adorable monsters included</li></ul>",
-  "short_description": "<strong>Fantastic Checkers 2</strong> is a modern version of the classic strategy board game set in an extraterrestrial environment! The objective of the game is to capture opponent pieces by diagonally jumping over them to eliminate them from the board.",
+  "short_description": "Fantastic Checkers 2 is a modern version of the classic strategy board game set in an extraterrestrial environment! The objective of the game is to capture opponent pieces by diagonally jumping over them to eliminate them from the board.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/514480/header.jpg?t=1478753060",
   "website": "http://www.ensenasoft.com",
@@ -25,12 +25,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
-    120021
+    120021,
+    269951
   ],
   "package_groups": [
     {
@@ -46,11 +49,21 @@
           "packageid": 120021,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Fantastic Checkers 2 - 1,99\u20ac",
+          "option_text": "Fantastic Checkers 2 - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 79
+        },
+        {
+          "packageid": 269951,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Fantastic Checkers 2 - Commercial License - 1,59\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -132,6 +145,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Aug, 2016"
@@ -140,5 +156,9 @@
     "url": "http://www.ensenasoft.com",
     "email": "support@ensenasoft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/514480/page_bg_generated_v6b.jpg?t=1478753060"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/514480/page_bg_generated_v6b.jpg?t=1478753060",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

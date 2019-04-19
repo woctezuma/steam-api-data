@@ -11,13 +11,16 @@
   "about_the_game": "Take charge of a ludus, acquire, train and upgrade gladiators, and pit them against your opponents in bloody arena battles.<br />\r\n<br />\r\nUse strategic political wranglings to win favor from powerful Romans to increase the odds of victory in the arena and elevate your family name, all while trying to keep a group of brutish warriors focused, alive, and victorious.<br />\r\n<br />\r\nDomina is a pixel-art strategy simulation vaguely based on Roman gladiator schools of antiquity.",
   "short_description": "Acquire, train, upgrade, and whip your brutish gladiators towards bloody victory in the ruthless arenas of ancient Rome.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/535230/header.jpg?t=1498071975",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/535230/header.jpg?t=1545277381",
   "website": "http://www.dominagame.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.8 Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 3D Accelerated Card (Not Integrated)<br></li><li><strong>Storage:</strong> 600 MB available space<br></li><li><strong>Sound Card:</strong> Yes.<br></li><li><strong>Additional Notes:</strong> See Game Options &gt; Quality</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7+<br></li><li><strong>Processor:</strong> 3 Ghz+<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 3D Accelerated Card (Not Integrated)<br></li><li><strong>Storage:</strong> 600 MB available space<br></li><li><strong>Sound Card:</strong> Yes.</li></ul>"
   },
-  "mac_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.13<br></li><li><strong>Processor:</strong> 2GHz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.1+<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.13+<br></li><li><strong>Processor:</strong> 2.8GHz+<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.1+<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+  },
   "linux_requirements": [],
   "developers": [
     "DolphinBarn"
@@ -27,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 899,
+    "final": 449,
+    "discount_percent": 50,
+    "initial_formatted": "8,99\u20ac",
+    "final_formatted": "4,49\u20ac"
   },
   "packages": [
     130076
@@ -46,25 +51,25 @@
       "subs": [
         {
           "packageid": 130076,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Domina - 9,99\u20ac",
+          "option_text": "Domina - <span class=\"discount_original_price\">8,99\u20ac</span> 4,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 449
         }
       ]
     }
   ],
   "platforms": {
     "windows": true,
-    "mac": false,
+    "mac": true,
     "linux": false
   },
   "metacritic": {
     "score": 73,
-    "url": "http://www.metacritic.com/game/pc/domina?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/domina?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -78,16 +83,20 @@
     {
       "id": 29,
       "description": "Steam Trading Cards"
+    },
+    {
+      "id": 18,
+      "description": "Partial Controller Support"
     }
   ],
   "genres": [
     {
-      "id": "73",
-      "description": "Violent"
-    },
-    {
       "id": "1",
       "description": "Action"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
     },
     {
       "id": "28",
@@ -101,44 +110,59 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_c3cdc57a9e92f5e77388b4c52dbff772ff14ea0d.600x338.jpg?t=1498071975",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_c3cdc57a9e92f5e77388b4c52dbff772ff14ea0d.1920x1080.jpg?t=1498071975"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_5c5e9e6686c3aa284e56003f03b0e6529ac847fb.600x338.jpg?t=1545277381",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_5c5e9e6686c3aa284e56003f03b0e6529ac847fb.1920x1080.jpg?t=1545277381"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_c4d549e9af447ed61f303a8cd19049725eca7260.600x338.jpg?t=1498071975",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_c4d549e9af447ed61f303a8cd19049725eca7260.1920x1080.jpg?t=1498071975"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_64c40431cc76d714f7bc1f05e23ba00d41f80a30.600x338.jpg?t=1545277381",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_64c40431cc76d714f7bc1f05e23ba00d41f80a30.1920x1080.jpg?t=1545277381"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_92b3237e3a768edabbf7d56bf10e61e06173a7e0.600x338.jpg?t=1498071975",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_92b3237e3a768edabbf7d56bf10e61e06173a7e0.1920x1080.jpg?t=1498071975"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_67f6a76f65ba503841a4274e726f23a76687ca36.600x338.jpg?t=1545277381",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_67f6a76f65ba503841a4274e726f23a76687ca36.1920x1080.jpg?t=1545277381"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_04299833b70d44b29e6c6789e9374d5405547069.600x338.jpg?t=1498071975",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_04299833b70d44b29e6c6789e9374d5405547069.1920x1080.jpg?t=1498071975"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_01592334254f286ed018c6ea1bbb107dabf9425b.600x338.jpg?t=1545277381",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_01592334254f286ed018c6ea1bbb107dabf9425b.1920x1080.jpg?t=1545277381"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_19a3ec5ae6a015b6721be8eb70225ff573905763.600x338.jpg?t=1498071975",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_19a3ec5ae6a015b6721be8eb70225ff573905763.1920x1080.jpg?t=1498071975"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_c4d549e9af447ed61f303a8cd19049725eca7260.600x338.jpg?t=1545277381",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_c4d549e9af447ed61f303a8cd19049725eca7260.1920x1080.jpg?t=1545277381"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_92b3237e3a768edabbf7d56bf10e61e06173a7e0.600x338.jpg?t=1545277381",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_92b3237e3a768edabbf7d56bf10e61e06173a7e0.1920x1080.jpg?t=1545277381"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_259c8943d95260d6c1279743c128c4f67e0ecdc7.600x338.jpg?t=1545277381",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_259c8943d95260d6c1279743c128c4f67e0ecdc7.1920x1080.jpg?t=1545277381"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_987b4fe7038eda76073cac7eb40114e89b1fd80d.600x338.jpg?t=1545277381",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/535230/ss_987b4fe7038eda76073cac7eb40114e89b1fd80d.1920x1080.jpg?t=1545277381"
     }
   ],
   "movies": [
     {
       "id": 256682552,
-      "name": "Launch Trailer",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256682552/movie.293x165.jpg?t=1491214657",
+      "name": "Updated Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256682552/movie.293x165.jpg?t=1545277377",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256682552/movie480.webm?t=1491214657",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256682552/movie_max.webm?t=1491214657"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256682552/movie480.webm?t=1545277377",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256682552/movie_max.webm?t=1545277377"
       },
       "highlight": true
     }
   ],
   "recommendations": {
-    "total": 3767
+    "total": 4206
   },
   "achievements": {
     "total": 34,
@@ -193,5 +217,9 @@
     "url": "http://www.dominagame.com",
     "email": "contact@dolphinbarn.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/535230/page_bg_generated_v6b.jpg?t=1498071975"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/535230/page_bg_generated_v6b.jpg?t=1545277381",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

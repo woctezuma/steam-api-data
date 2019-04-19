@@ -11,7 +11,7 @@
     "appid": "203680",
     "name": "F1 RACE STARS\u2122"
   },
-  "supported_languages": "English, German, French, Italian, Spanish, Japanese, Polish, Portuguese-Brazil",
+  "supported_languages": "English, German, French, Italian, Spanish - Spain, Japanese, Polish, Portuguese - Brazil",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/220811/header.jpg?t=1447356815",
   "website": "http://www.f1racestars.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 449,
     "final": 449,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,49\u20ac"
   },
   "packages": [
     18873
@@ -131,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/220811/ss_03edd525af8233357f6b5874b2e13ad48e73ab04.1920x1080.jpg?t=1447356815"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Jan, 2013"
@@ -139,5 +144,9 @@
     "url": "",
     "email": "UK, US: custservice@codemasters.com; FR: serviceclientele@codemasters.com; DE: kundendienst@codemasters.com; NE: klantenservice@codemasters.nl; ES: es.support@namcobandaipartners.com; IT: it.support@namcobandaipartners.com; PO: pomoc@cdprojekt.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/220811/page_bg_generated_v6b.jpg?t=1447356815"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/220811/page_bg_generated_v6b.jpg?t=1447356815",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

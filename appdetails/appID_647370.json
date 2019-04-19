@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Grip it and rip it with the new DLC, VR Sports - Golf!  Get your daily dose of iron here and wash it down with a nice refreshing Arnold Palmer.  With VR Sports - Golf, you <br />\r\n feel as if you're on the fairway yet don't have to worry about chasing the golf ball(s) into the woods.  Sure, you're inside wearing a VR headset and not in Augusta, but until you get your green jacket, this will have to do. <br />\r\n*Bob Barker fight not included in this DLC*",
   "about_the_game": "Grip it and rip it with the new DLC, VR Sports - Golf!  Get your daily dose of iron here and wash it down with a nice refreshing Arnold Palmer.  With VR Sports - Golf, you <br />\r\n feel as if you're on the fairway yet don't have to worry about chasing the golf ball(s) into the woods.  Sure, you're inside wearing a VR headset and not in Augusta, but until you get your green jacket, this will have to do. <br />\r\n*Bob Barker fight not included in this DLC*",
-  "short_description": "Grip it and rip it with the new DLC, VR Sports - Golf!  Get your daily dose of iron here and wash it down with a nice refreshing Arnold Palmer.  With VR Sports - Golf, you  feel as if you're on the fairway yet don't have to worry about chasing the golf ball(s) into the woods.  Sure, you're inside wearing a VR headset and not in Augusta, but until you get your green jacket, this will have to do. <br />\r\n*Bob Barker fight not included in this DLC*",
+  "short_description": "Grip it and rip it with the new DLC, VR Sports - Golf! Get your daily dose of iron here and wash it down with a nice refreshing Arnold Palmer. With VR Sports - Golf, you feel as if you're on the fairway yet don't have to worry about chasing the golf ball(s) into the woods.",
   "fullgame": {
     "appid": "593240",
     "name": "VR SUPER SPORTS"
@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 449,
-    "discount_percent": 10
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     181961
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 181961,
-          "percent_savings_text": "-10%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "VR SUPER SPORTS - Golf - <span class=\"discount_original_price\">4,99\u20ac</span> 4,49\u20ac",
+          "option_text": "VR SUPER SPORTS - Golf - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 449
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -150,5 +152,9 @@
     "url": "http://sat-box.jp/",
     "email": "satboxuserhelp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/647370/page_bg_generated_v6b.jpg?t=1517530156"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/647370/page_bg_generated_v6b.jpg?t=1517530156",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

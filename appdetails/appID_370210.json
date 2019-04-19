@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     115882
@@ -137,6 +139,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Nov, 2016"
@@ -145,5 +150,9 @@
     "url": "http://firmagame.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/370210/page_bg_generated_v6b.jpg?t=1479488076"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/370210/page_bg_generated_v6b.jpg?t=1479488076",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

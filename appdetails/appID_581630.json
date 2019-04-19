@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     149183
@@ -51,11 +53,11 @@
           "packageid": 149183,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Sword With Sauce: Alpha - 5,99\u20ac",
+          "option_text": "Sword With Sauce: Alpha - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -145,7 +147,7 @@
     }
   ],
   "recommendations": {
-    "total": 3761
+    "total": 4096
   },
   "achievements": {
     "total": 0
@@ -158,5 +160,9 @@
     "url": "http://diatomicgames.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/581630/page_bg_generated_v6b.jpg?t=1521604471"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/581630/page_bg_generated_v6b.jpg?t=1521604471",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

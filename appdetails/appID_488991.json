@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     110366
@@ -127,5 +129,9 @@
     "url": "http://epicgenerator.net/index.php/forum",
     "email": "support@epicgenerator.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/488991/page_bg_generated_v6b.jpg?t=1468858289"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/488991/page_bg_generated_v6b.jpg?t=1468858289",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

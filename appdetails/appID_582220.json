@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1099,
-    "final": 1099,
-    "discount_percent": 0
+    "initial": 899,
+    "final": 899,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     149388
@@ -51,11 +53,11 @@
           "packageid": 149388,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Virtual Idea Area - 10,99\u20ac",
+          "option_text": "Virtual Idea Area - 8,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1099
+          "price_in_cents_with_discount": 899
         }
       ]
     }
@@ -135,6 +137,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Apr, 2017"
@@ -143,5 +148,9 @@
     "url": "",
     "email": "support@virtualideaarea.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/582220/page_bg_generated_v6b.jpg?t=1492178421"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/582220/page_bg_generated_v6b.jpg?t=1492178421",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -15,13 +15,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/643390/header.jpg?t=1506616217",
   "website": "http://www.supergiantgames.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 550 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Speicherplatz:</strong> 550 MB verf\u00fcgbarer Speicherplatz</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 550 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Speicherplatz:</strong> 550 MB verf\u00fcgbarer Speicherplatz</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 550 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Speicherplatz:</strong> 550 MB verf\u00fcgbarer Speicherplatz</li></ul>"
   },
   "legal_notice": "\u00a9 Supergiant Games 2017. All rights reserved.",
   "developers": [
@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     179933
@@ -53,11 +55,11 @@
           "packageid": 179933,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Pyre: Original Soundtrack - 9,99\u20ac",
+          "option_text": "Pyre: Original Soundtrack - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -98,6 +100,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/643390/ss_259c0f5cbefa8bc93e4d6c8da6161d7584450209.1920x1080.jpg?t=1506616217"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Jul, 2017"
@@ -106,5 +111,9 @@
     "url": "http://www.supergiantgames.com/contact/",
     "email": "info@supergiantgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/643390/page_bg_generated_v6b.jpg?t=1506616217"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/643390/page_bg_generated_v6b.jpg?t=1506616217",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

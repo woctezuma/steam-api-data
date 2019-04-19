@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Female Portraits is about 35 minutes long and covers how one can go about painting a female face with a bit more confidence. Here are topics that will be covered.\r\n\r\nWhy are they sometimes more fun\r\n\r\nThe Difficulties of softness\r\n\r\nBelievable features and light make up\r\n\r\nAdd some flavor and mix up the hair",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Female Portraits is about 35 minutes long and covers how one can go about painting a female face with a bit more confidence. Here are topics that will be covered.\r\n\r\nWhy are they sometimes more fun\r\n\r\nThe Difficulties of softness\r\n\r\nBelievable features and light make up\r\n\r\nAdd some flavor and mix up the hair",
   "about_the_game": "Female Portraits is about 35 minutes long and covers how one can go about painting a female face with a bit more confidence. Here are topics that will be covered.<br />\r\n<br />\r\nWhy are they sometimes more fun<br />\r\n<br />\r\nThe Difficulties of softness<br />\r\n<br />\r\nBelievable features and light make up<br />\r\n<br />\r\nAdd some flavor and mix up the hair",
   "short_description": "This is a tutorial on how to go about painting a female face.",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     117377
@@ -107,6 +109,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/508000/ss_b68ab69a2cad0d2e7a3e841caf45e224225d08be.1920x1080.jpg?t=1472241150"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Aug, 2016"
@@ -115,5 +120,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/508000/page_bg_generated_v6b.jpg?t=1472241150"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/508000/page_bg_generated_v6b.jpg?t=1472241150",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

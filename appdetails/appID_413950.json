@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>This video covers the basic things you will need to help you start to understand design! From studying to retaining a solid visual library! Also featuring tools and panels found in the Advance Photoshop 1 video.\r\n\r\nIncludes\r\n-HiRes PSD, JPEG\r\n-Photoshop Tools",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>This video covers the basic things you will need to help you start to understand design! From studying to retaining a solid visual library! Also featuring tools and panels found in the Advance Photoshop 1 video.\r\n\r\nIncludes\r\n-HiRes PSD, JPEG\r\n-Photoshop Tools",
   "about_the_game": "This video covers the basic things you will need to help you start to understand design! From studying to retaining a solid visual library! Also featuring tools and panels found in the Advance Photoshop 1 video.<br />\r\n<br />\r\nIncludes<br />\r\n-HiRes PSD, JPEG<br />\r\n-Photoshop Tools",
   "short_description": "This is a tutorial video that teaches basic things to help you understand design.",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     83025
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Dec, 2015"
@@ -127,5 +132,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413950/page_bg_generated_v6b.jpg?t=1449189098"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413950/page_bg_generated_v6b.jpg?t=1449189098",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

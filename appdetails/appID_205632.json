@@ -11,7 +11,7 @@
     "appid": "57690",
     "name": "Tropico 4"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/205632/header.jpg?t=1447356624",
   "website": "http://www.worldoftropico.com/",
   "pc_requirements": {
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     17593,
@@ -131,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/205632/ss_2de1e0105b109348eae64239df5e21c66ae79743.1920x1080.jpg?t=1447356624"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Oct, 2012"
@@ -139,5 +144,9 @@
     "url": "forum.kalypsomedia.com",
     "email": "support@kalypsomedia.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/205632/page_bg_generated_v6b.jpg?t=1447356624"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/205632/page_bg_generated_v6b.jpg?t=1447356624",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

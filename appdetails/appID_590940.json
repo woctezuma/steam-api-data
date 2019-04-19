@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     153287
@@ -147,5 +149,12 @@
     "url": "http://hentaigamepatch.com/",
     "email": "mail@hentaigamepatch.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/590940/page_bg_generated_v6b.jpg?t=1510385030"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/590940/page_bg_generated_v6b.jpg?t=1510385030",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

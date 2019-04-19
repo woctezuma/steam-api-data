@@ -11,8 +11,8 @@
     "appid": "384680",
     "name": "MechaNika"
   },
-  "supported_languages": "English, Spanish, French, German, Russian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/453260/header.jpg?t=1513967828",
+  "supported_languages": "English, Spanish - Spain, French, German, Russian, Korean, Simplified Chinese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/453260/header.jpg?t=1536831435",
   "website": "http://www.mangoprotocol.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 50 MB available space</li></ul>"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     97803
@@ -89,8 +91,8 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/453260/ss_ec371bb5fb70ce2ec783d29f4990586cdc4a287a.600x338.jpg?t=1513967828",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/453260/ss_ec371bb5fb70ce2ec783d29f4990586cdc4a287a.1920x1080.jpg?t=1513967828"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/453260/ss_ec371bb5fb70ce2ec783d29f4990586cdc4a287a.600x338.jpg?t=1536831435",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/453260/ss_ec371bb5fb70ce2ec783d29f4990586cdc4a287a.1920x1080.jpg?t=1536831435"
     }
   ],
   "release_date": {
@@ -101,5 +103,9 @@
     "url": "http://www.mangoprotocol.com",
     "email": "info@mangoprotocol.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/453260/page_bg_generated_v6b.jpg?t=1513967828"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/453260/page_bg_generated_v6b.jpg?t=1536831435",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

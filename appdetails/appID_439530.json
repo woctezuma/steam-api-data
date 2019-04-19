@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     92759
@@ -159,11 +161,6 @@
       "id": 12,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/439530/ss_028bd6c18641fd13660c7e567055b41605df8909.600x338.jpg?t=1485272380",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/439530/ss_028bd6c18641fd13660c7e567055b41605df8909.1920x1080.jpg?t=1485272380"
-    },
-    {
-      "id": 13,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/439530/?t=1485272380",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/439530/?t=1485272380"
     }
   ],
   "movies": [
@@ -251,5 +248,9 @@
     "url": "http://www.onthelevelgames.com",
     "email": "support@onthelevelgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/439530/page_bg_generated_v6b.jpg?t=1485272380"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/439530/page_bg_generated_v6b.jpg?t=1485272380",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

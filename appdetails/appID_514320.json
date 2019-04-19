@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     119970
@@ -94,6 +96,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/514320/ss_608b546dabfc73a7432ffc0ec55babeea3a071d0.1920x1080.jpg?t=1478747512"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Aug, 2016"
@@ -102,5 +107,9 @@
     "url": "",
     "email": "d-lab@dogenzaka-lab.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/514320/page_bg_generated_v6b.jpg?t=1478747512"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/514320/page_bg_generated_v6b.jpg?t=1478747512",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

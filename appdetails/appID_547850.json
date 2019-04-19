@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     135377
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Oct, 2016"
@@ -127,5 +132,9 @@
     "url": "",
     "email": "contact@thefamily.tv"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/547850/page_bg_generated_v6b.jpg?t=1477626630"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/547850/page_bg_generated_v6b.jpg?t=1477626630",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "<p>The \"Wizard's Survival Kit\" allows you to equip the following items for your character:</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li><strong>Wizard's Hat (item)</strong> - No wizard of note would ever be seen outdoors without one of these pointy hats.\n\t\t\t\t\t\t<li><strong>Sharp Sword (item)</strong> - The instruction reads \u201cstick them with the pointy end\u201d. Good to have in a pinch.\n\t\t\t\t\t\t<li><strong>Staff +1(item)</strong> - Whack your foes over the head, use it to prod mucky waters or lean on it to look cool - the staff +1 let\u2019s you do all of it in style.\n\t\t\t\t\t\t<li><strong>Meteor Shower (new Magick)</strong> - Rain burning rocks down on your enemies. \u2018Nuff said.\n\t\t\t\t\t\t<ul>",
   "about_the_game": "<p>The \"Wizard's Survival Kit\" allows you to equip the following items for your character:</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li><strong>Wizard's Hat (item)</strong> - No wizard of note would ever be seen outdoors without one of these pointy hats.\n\t\t\t\t\t\t<li><strong>Sharp Sword (item)</strong> - The instruction reads \u201cstick them with the pointy end\u201d. Good to have in a pinch.\n\t\t\t\t\t\t<li><strong>Staff +1(item)</strong> - Whack your foes over the head, use it to prod mucky waters or lean on it to look cool - the staff +1 let\u2019s you do all of it in style.\n\t\t\t\t\t\t<li><strong>Meteor Shower (new Magick)</strong> - Rain burning rocks down on your enemies. \u2018Nuff said.\n\t\t\t\t\t\t<ul>",
-  "short_description": "",
+  "short_description": "The \"Wizard's Survival Kit\" allows you to equip the following items for your character: Wizard's Hat (item) - No wizard of note would ever be seen outdoors without one of these pointy hats. Sharp Sword (item) - The instruction reads \u201cstick them with the pointy end\u201d. Good to have in a pinch.",
   "fullgame": {
     "appid": "42910",
     "name": "Magicka"
   },
-  "supported_languages": "English, French, German, Spanish",
+  "supported_languages": "English, French, German, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/73030/header.jpg?t=1447353976",
   "website": "http://www.magickagame.com/",
   "pc_requirements": {
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     7255
@@ -113,6 +115,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/73030/ss_fd7ded2e37f284a7babb5c7368845fb9f2062aef.1920x1080.jpg?t=1447353976"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Mar, 2011"
@@ -121,5 +126,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/73030/page_bg_generated_v6b.jpg?t=1447353976"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/73030/page_bg_generated_v6b.jpg?t=1447353976",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

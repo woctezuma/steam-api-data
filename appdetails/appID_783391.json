@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     236242
@@ -128,6 +130,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/783391/ss_529eed3abcb67005a0f1921327b2c16852608c54.1920x1080.jpg?t=1520027802"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Feb, 2018"
@@ -136,5 +141,11 @@
     "url": "http://www.eastsidegames.com",
     "email": "support@tpbgame.zendesk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/783391/page_bg_generated_v6b.jpg?t=1520027802"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/783391/page_bg_generated_v6b.jpg?t=1520027802",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     12992,
@@ -117,6 +119,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/23550/ss_818f893bd9d1e1d879d135e2e4275337cf11b96b.1920x1080.jpg?t=1478042319"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Dec, 2011"
@@ -125,5 +130,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/23550/page_bg_generated_v6b.jpg?t=1478042319"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/23550/page_bg_generated_v6b.jpg?t=1478042319",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -7,10 +7,10 @@
   "controller_support": "full",
   "detailed_description": "This pack recreates Collet coaches as they appeared under British Railways and GWR operation.<br>The Collet Coaches Pack 02 for Train Simulator includes the following vehicles: <br><ul class=\"bb_ul\"><li>Brake Third<br></li><li>First<br></li><li>Open Restaurant</li></ul>",
   "about_the_game": "This pack recreates Collet coaches as they appeared under British Railways and GWR operation.<br>The Collet Coaches Pack 02 for Train Simulator includes the following vehicles: <br><ul class=\"bb_ul\"><li>Brake Third<br></li><li>First<br></li><li>Open Restaurant</li></ul>",
-  "short_description": "",
+  "short_description": "This pack recreates Collet coaches as they appeared under British Railways and GWR operation.The Collet Coaches Pack 02 for Train Simulator includes the following vehicles: Brake ThirdFirstOpen...",
   "fullgame": {
     "appid": "24010",
-    "name": "Train Simulator"
+    "name": "Train Simulator 2019"
   },
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/295203/header.jpg?t=1468941350",
@@ -32,10 +32,12 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
-    "42438"
+    42438
   ],
   "package_groups": [
     {
@@ -48,7 +50,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "42438",
+          "packageid": 42438,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "TS Marketplace: Collet Coaches Pack 02 - 3,99\u20ac",
@@ -157,6 +159,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/295203/ss_509c0b025774f62af0d08996795359cf3519b833.1920x1080.jpg?t=1468941350"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Jul, 2016"
@@ -165,5 +170,9 @@
     "url": "http://www.railsimulator.com/support.php",
     "email": "support@railsimulator.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/295203/page_bg_generated_v6b.jpg?t=1468941350"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/295203/page_bg_generated_v6b.jpg?t=1468941350",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

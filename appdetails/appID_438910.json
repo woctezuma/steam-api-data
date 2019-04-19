@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     92569
@@ -210,5 +212,9 @@
     "url": "http://splattershmup.rit.edu/",
     "email": "help@magic.rit.edu"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438910/page_bg_generated_v6b.jpg?t=1472659390"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438910/page_bg_generated_v6b.jpg?t=1472659390",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

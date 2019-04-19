@@ -28,8 +28,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 48,
+    "discount_percent": 52,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,48\u20ac"
   },
   "packages": [
     82080
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 82080,
-          "percent_savings_text": "",
+          "percent_savings_text": "-52%",
           "percent_savings": 0,
-          "option_text": "Reveal the Deep - 0,99\u20ac",
+          "option_text": "Reveal the Deep - <span class=\"discount_original_price\">0,99\u20ac</span> 0,48\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 48
         }
       ]
     }
@@ -133,7 +135,7 @@
     }
   ],
   "recommendations": {
-    "total": 1178
+    "total": 1192
   },
   "achievements": {
     "total": 9,
@@ -184,5 +186,9 @@
     "url": "http://www.lazymondaygames.com",
     "email": "lazymondaygames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/411560/page_bg_generated_v6b.jpg?t=1478181761"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/411560/page_bg_generated_v6b.jpg?t=1478181761",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

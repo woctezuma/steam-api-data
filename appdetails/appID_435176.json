@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "The IRFaceRig Seal Of Wisdom DLC contains the Seal of Wisdom Avatar.<br />\r\nAncient knowledge is brought to you by a familiar character.",
   "about_the_game": "The IRFaceRig Seal Of Wisdom DLC contains the Seal of Wisdom Avatar.<br />\r\nAncient knowledge is brought to you by a familiar character.",
-  "short_description": "The IRFaceRig Seal Of Wisdom DLC contains the Seal of Wisdom Avatar.<br />\r\nAncient knowledge is brought to you by a familiar character.",
+  "short_description": "The IRFaceRig Seal Of Wisdom DLC contains the Seal of Wisdom Avatar. Ancient knowledge is brought to you by a familiar character.",
   "fullgame": {
     "appid": "377590",
     "name": "IRFaceRig"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Japanese, Portuguese, Simplified Chinese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/435176/header.jpg?t=1458728661",
   "website": "https://facerig.com/ir/",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     90883
@@ -76,6 +78,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/435176/ss_d8d9a7d358990552f500ac7f6619801d876a189c.1920x1080.jpg?t=1458728661"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Feb, 2016"
@@ -84,5 +89,9 @@
     "url": "https://facerig.com/ir/",
     "email": "info@facerig.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/435176/page_bg_generated_v6b.jpg?t=1458728661"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/435176/page_bg_generated_v6b.jpg?t=1458728661",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

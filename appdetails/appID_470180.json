@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     103925
@@ -131,5 +133,9 @@
     "url": "http://www.revolution60.com",
     "email": "support@giantspacekat.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/470180/page_bg_generated_v6b.jpg?t=1473187357"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/470180/page_bg_generated_v6b.jpg?t=1473187357",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

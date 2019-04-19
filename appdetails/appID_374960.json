@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     69248
@@ -112,6 +114,35 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 6,
+    "highlighted": [
+      {
+        "name": "Nerves of steel",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/374960/12cebac3090a0e682e4eeea8e44d5a83382f3e52.jpg"
+      },
+      {
+        "name": "Courage under fire",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/374960/96efed1f518f2a9a54583d75b7d248625e20fd3d.jpg"
+      },
+      {
+        "name": "True Grit",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/374960/2ad1c3bbe5935107331d9e2a330915a8452e8f23.jpg"
+      },
+      {
+        "name": "Basic Training",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/374960/b447dbeedde5ff26449c24abd93425adac6fb57f.jpg"
+      },
+      {
+        "name": "Hard to beat",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/374960/f866d5e121a2f6aa51582c5d438bcad81740015d.jpg"
+      },
+      {
+        "name": "Hard Elite",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/374960/30e4b797e249b2f97d19f4485c9939d4f7c195d4.jpg"
+      }
+    ]
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Jul, 2017"
@@ -120,5 +151,9 @@
     "url": "",
     "email": "support@hexwar.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/374960/page_bg_generated_v6b.jpg?t=1500662264"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/374960/page_bg_generated_v6b.jpg?t=1500662264",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

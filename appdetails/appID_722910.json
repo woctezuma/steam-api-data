@@ -31,10 +31,13 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    210064
+    210064,
+    285218
   ],
   "package_groups": [
     {
@@ -51,6 +54,16 @@
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "LightTrack - 0,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 99
+        },
+        {
+          "packageid": 285218,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "LightTrack - Commercial License - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -187,5 +200,9 @@
     "url": "",
     "email": "truev@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/722910/page_bg_generated_v6b.jpg?t=1508608566"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/722910/page_bg_generated_v6b.jpg?t=1508608566",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\">Classic tetromino game in VR. </h2>One of the most awaited puzzle classics to be played with motion controls. <br>Cute blocks, vivid colors, high scores, MEGA-mode and more to come.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>Motion gestures controls<br></li><li>Keyboard support (for hardcore players or party coop game)<br></li><li>Classic mechanics<br></li><li>Nice minimalistic graphics<br></li><li>Highscores and leaderboard<br></li><li>Extra modes</li></ul>",
   "about_the_game": "<h2 class=\"bb_tag\">Classic tetromino game in VR. </h2>One of the most awaited puzzle classics to be played with motion controls. <br>Cute blocks, vivid colors, high scores, MEGA-mode and more to come.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>Motion gestures controls<br></li><li>Keyboard support (for hardcore players or party coop game)<br></li><li>Classic mechanics<br></li><li>Nice minimalistic graphics<br></li><li>Highscores and leaderboard<br></li><li>Extra modes</li></ul>",
-  "short_description": "Classic tetromino game in VR. <br />\r\nOne of the most awaited puzzle classics to be played with motion controls. <br />\r\nCute blocks, vivid colors, high scores, MEGA-mode and more to come.",
+  "short_description": "Classic tetromino game in VR. One of the most awaited puzzle classics to be played with motion controls. Cute blocks, vivid colors, high scores, MEGA-mode and more to come.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/748520/header.jpg?t=1511485172",
   "website": null,
@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 899,
-    "final": 305,
-    "discount_percent": 66
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     219775
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 219775,
-          "percent_savings_text": "-66%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Tevris - <span class=\"discount_original_price\">8,99\u20ac</span> 3,05\u20ac",
+          "option_text": "Tevris - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 305
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -132,6 +134,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Nov, 2017"
@@ -140,5 +145,9 @@
     "url": "http://viceage.xyz/#contacts",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/748520/page_bg_generated_v6b.jpg?t=1511485172"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/748520/page_bg_generated_v6b.jpg?t=1511485172",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

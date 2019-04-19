@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     152376,
@@ -151,6 +153,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 May, 2017"
@@ -159,5 +164,9 @@
     "url": "",
     "email": "support@infinite.cz"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/588980/page_bg_generated_v6b.jpg?t=1511366678"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/588980/page_bg_generated_v6b.jpg?t=1511366678",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     143449
@@ -155,11 +157,6 @@
       "id": 9,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/567320/ss_6ff27ce74392e92ddcb83259c11d5c2783433044.600x338.jpg?t=1511330813",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/567320/ss_6ff27ce74392e92ddcb83259c11d5c2783433044.1920x1080.jpg?t=1511330813"
-    },
-    {
-      "id": 10,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/567320/?t=1511330813",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/567320/?t=1511330813"
     }
   ],
   "movies": [
@@ -227,5 +224,9 @@
     "url": "http://2xmilk.co",
     "email": "hi@2xmilk.co"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/567320/page_bg_generated_v6b.jpg?t=1511330813"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/567320/page_bg_generated_v6b.jpg?t=1511330813",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

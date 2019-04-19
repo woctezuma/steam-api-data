@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 299,
-    "discount_percent": 40
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     219287
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 219287,
-          "percent_savings_text": "-40%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Deep Space: Unknown Universe - <span class=\"discount_original_price\">4,99\u20ac</span> 2,99\u20ac",
+          "option_text": "Deep Space: Unknown Universe - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -210,5 +212,9 @@
     "url": "",
     "email": "lorincsoft@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/747090/page_bg_generated_v6b.jpg?t=1512149220"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/747090/page_bg_generated_v6b.jpg?t=1512149220",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,7 +11,7 @@
     "appid": "298110",
     "name": "Far Cry\u00ae 4"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Japanese<strong>*</strong>, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/324344/header.jpg?t=1455815592",
   "website": "http://farcrygame.com",
   "pc_requirements": [],
@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     51272
@@ -143,7 +145,10 @@
     }
   ],
   "recommendations": {
-    "total": 196
+    "total": 236
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -153,5 +158,9 @@
     "url": "https://support.ubi.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/324344/page_bg_generated_v6b.jpg?t=1455815592"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/324344/page_bg_generated_v6b.jpg?t=1455815592",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

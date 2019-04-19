@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     132478
@@ -141,6 +143,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Oct, 2016"
@@ -149,5 +154,9 @@
     "url": "http://arduxim.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/540500/page_bg_generated_v6b.jpg?t=1521908479"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/540500/page_bg_generated_v6b.jpg?t=1521908479",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

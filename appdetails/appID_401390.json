@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Cross of the Dutchman is a project that developed over a long period of time. The project started in 2009, and since that time up until the release in 2015, a lot of artwork and material was produced to create the visuals and style for Cross of the Dutchman. This Artbook is a collection of materials that were produced for the project, and give an insight into the development process.",
   "about_the_game": "Cross of the Dutchman is a project that developed over a long period of time. The project started in 2009, and since that time up until the release in 2015, a lot of artwork and material was produced to create the visuals and style for Cross of the Dutchman. This Artbook is a collection of materials that were produced for the project, and give an insight into the development process.",
-  "short_description": "Cross of the Dutchman is a project that developed over a long period of time. The project started in 2009, and since that time up until the release in 2015, a lot of artwork and material was produced to create the visuals and style for Cross of the Dutchman. This Artbook is a collection of materials that were produced for the project, and give an insight into the development process.",
+  "short_description": "Cross of the Dutchman is a project that developed over a long period of time. The project started in 2009, and since that time up until the release in 2015, a lot of artwork and material was produced to create the visuals and style for Cross of the Dutchman.",
   "fullgame": {
     "appid": "384000",
     "name": "Cross of the Dutchman"
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     78247
@@ -125,5 +127,9 @@
     "url": "www.triangle-studios.com",
     "email": "community@triangle-studios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/401390/page_bg_generated_v6b.jpg?t=1447377949"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/401390/page_bg_generated_v6b.jpg?t=1447377949",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

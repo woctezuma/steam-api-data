@@ -15,12 +15,12 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/549830/header.jpg?t=1482390988",
   "website": "http://www.offworldgames.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP+<br></li><li><strong>Processor:</strong> min. 1 gHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 1024 x 768 resolution<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP+<br></li><li><strong>Processor:</strong> min. 2 gHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 1280 x 1024 resolution<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP+<br></li><li><strong>Processeur\u00a0:</strong> min. 1 gHz<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 512 MB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> 1024 x 768 resolution<br></li><li><strong>Espace disque\u00a0:</strong> 300 MB d'espace disque disponible</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP+<br></li><li><strong>Processeur\u00a0:</strong> min. 2 gHz<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> 1280 x 1024 resolution<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 300 MB d'espace disque disponible</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Yosemite 10.10<br></li><li><strong>Processor:</strong> min. 1 gHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 1024 x 768 resolution<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Yosemite 10.10<br></li><li><strong>Processor:</strong> min. 2 gHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 1280 x 1024 resolution<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Yosemite 10.10<br></li><li><strong>Processeur\u00a0:</strong> min. 1 gHz<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 512 MB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> 1024 x 768 resolution<br></li><li><strong>Espace disque\u00a0:</strong> 300 MB d'espace disque disponible</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Yosemite 10.10<br></li><li><strong>Processeur\u00a0:</strong> min. 2 gHz<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 1 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> 1280 x 1024 resolution<br></li><li><strong>R\u00e9seau\u00a0:</strong> Connexion internet haut d\u00e9bit<br></li><li><strong>Espace disque\u00a0:</strong> 300 MB d'espace disque disponible</li></ul>"
   },
   "linux_requirements": [],
   "developers": [
@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     136108
@@ -52,11 +54,11 @@
           "packageid": 136108,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Reiner Knizia's The Confrontation - Variant Mode DLC - 9,99\u20ac",
+          "option_text": "Reiner Knizia's The Confrontation - Variant Mode DLC - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -145,5 +147,9 @@
     "url": "http://www.offworldgames.com/contact",
     "email": "support@offworldgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/549830/page_bg_generated_v6b.jpg?t=1482390988"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/549830/page_bg_generated_v6b.jpg?t=1482390988",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

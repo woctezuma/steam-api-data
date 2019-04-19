@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     7836,
@@ -81,7 +83,7 @@
   },
   "metacritic": {
     "score": 75,
-    "url": "http://www.metacritic.com/game/pc/the-next-big-thing?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/the-next-big-thing?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -133,7 +135,10 @@
     }
   ],
   "recommendations": {
-    "total": 350
+    "total": 372
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -143,5 +148,9 @@
     "url": "",
     "email": "support@focus-home.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/58570/page_bg_generated_v6b.jpg?t=1447354125"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/58570/page_bg_generated_v6b.jpg?t=1447354125",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

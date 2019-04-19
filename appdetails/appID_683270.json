@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     195247
@@ -170,5 +172,9 @@
     "url": "http://mandragoragames.com",
     "email": "support@themandragora.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/683270/page_bg_generated_v6b.jpg?t=1508708807"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/683270/page_bg_generated_v6b.jpg?t=1508708807",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

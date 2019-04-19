@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 2799,
     "final": 2799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "27,99\u20ac"
   },
   "packages": [
     103739
@@ -65,6 +67,10 @@
     "windows": true,
     "mac": false,
     "linux": false
+  },
+  "metacritic": {
+    "score": 75,
+    "url": "https://www.metacritic.com/game/pc/rick-and-morty-virtual-rick-ality?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -162,7 +168,7 @@
     }
   ],
   "recommendations": {
-    "total": 740
+    "total": 915
   },
   "achievements": {
     "total": 18,
@@ -217,5 +223,12 @@
     "url": "http://www.adultswim.com/games/",
     "email": "adultswimdotcom@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/469610/page_bg_generated_v6b.jpg?t=1510772114"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/469610/page_bg_generated_v6b.jpg?t=1510772114",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

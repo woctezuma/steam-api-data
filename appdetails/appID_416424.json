@@ -12,7 +12,7 @@
     "appid": "349040",
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish<strong>*</strong>, Arabic, Polish, Russian, Portuguese-Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain<strong>*</strong>, Arabic, Polish, Russian, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/416424/header.jpg?t=1503593996",
   "website": "http://www.naruto-videogames.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     83937
@@ -153,7 +155,10 @@
     }
   ],
   "recommendations": {
-    "total": 463
+    "total": 401
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -163,5 +168,9 @@
     "url": "http://www.bandainamcoent.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416424/page_bg_generated_v6b.jpg?t=1503593996"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416424/page_bg_generated_v6b.jpg?t=1503593996",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

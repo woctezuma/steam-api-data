@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 2299,
     "final": 2299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "22,99\u20ac"
   },
   "packages": [
     127436
@@ -176,5 +178,9 @@
     "url": "",
     "email": "games@degica.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/529830/page_bg_generated_v6b.jpg?t=1496366143"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/529830/page_bg_generated_v6b.jpg?t=1496366143",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

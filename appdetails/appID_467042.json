@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Includes the costume items 'Long Ponytail' and 'Golden Long Ponytail.'",
   "about_the_game": "Includes the costume items 'Long Ponytail' and 'Golden Long Ponytail.'",
-  "short_description": "Includes the costume items 'Long Ponytail' and 'Golden Long Ponytail.'",
+  "short_description": "Includes the costume items 'Long Ponytail' and 'Golden Long Ponytail.",
   "fullgame": {
     "appid": "446390",
     "name": "Onechanbara Z2: Chaos"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     102753
@@ -109,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467042/ss_8737caeb8bc85d0379c92cb936f9d4da355ea741.1920x1080.jpg?t=1466042827"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jun, 2016"
@@ -117,5 +122,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467042/page_bg_generated_v6b.jpg?t=1466042827"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467042/page_bg_generated_v6b.jpg?t=1466042827",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

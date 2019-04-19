@@ -11,8 +11,8 @@
     "appid": "363890",
     "name": "RPG Maker MV"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Portuguese-Brazil, Russian, Japanese, Korean, Traditional Chinese, Arabic, Simplified Chinese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/783541/header.jpg?t=1518714178",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Japanese, Korean, Traditional Chinese, Arabic, Simplified Chinese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/783541/header.jpg?t=1529436442",
   "website": "http://www.rpgmakerweb.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processor:</strong> PC with 1.0GHz Intel\u00ae Pentium\u00ae III equivalent or higher processor<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9/OpenGL 4.1 capable GPU<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound-compatible sound card<br></li><li><strong>Additional Notes:</strong> 1024x768 or better video resolution</li></ul>"
@@ -25,7 +25,6 @@
   },
   "legal_notice": "\u00a92017 KADOKAWA CORPORATION./YOJI OJIMA",
   "developers": [
-    "KADOKAWA",
     "Gyrowolf"
   ],
   "publishers": [
@@ -35,7 +34,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     236333
@@ -95,10 +96,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/783541/ss_0ddb0ca6b64415b221a2302951540f285c7a63a5.600x338.jpg?t=1518714178",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/783541/ss_0ddb0ca6b64415b221a2302951540f285c7a63a5.1920x1080.jpg?t=1518714178"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/783541/ss_0ddb0ca6b64415b221a2302951540f285c7a63a5.600x338.jpg?t=1529436442",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/783541/ss_0ddb0ca6b64415b221a2302951540f285c7a63a5.1920x1080.jpg?t=1529436442"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Feb, 2018"
@@ -107,5 +111,9 @@
     "url": "http://www.rpgmakerweb.com/support",
     "email": "support@rpgmakerweb.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/783541/page_bg_generated_v6b.jpg?t=1518714178"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/783541/page_bg_generated_v6b.jpg?t=1529436442",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

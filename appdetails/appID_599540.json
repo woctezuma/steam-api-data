@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1299,
-    "final": 1299,
-    "discount_percent": 0
+    "initial": 999,
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     223457
@@ -51,11 +53,11 @@
           "packageid": 223457,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: Victorian Railways Type 2 DD Class Pack - 12,99\u20ac",
+          "option_text": "TANE DLC: Victorian Railways Type 2 DD Class Pack - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1299
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -131,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/599540/ss_f1d58f557946a835eb7e79fbe76e5665346b9574.1920x1080.jpg?t=1490244279"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Mar, 2017"
@@ -139,5 +144,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/599540/page_bg_generated_v6b.jpg?t=1490244279"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/599540/page_bg_generated_v6b.jpg?t=1490244279",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

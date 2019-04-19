@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>These 16 historically authentic models have new animations for a more realistic and improved game atmosphere. Units are equipped with swords, shields, daggers, armour, chain mails, jerkins, capes, basinets and pig face basinets.</p>\n\t\t\t\t\t\t<h2>Key Features:</h2> \n\t\t\t\t\t\t<p>This spritepack includes 16 new sprites for the Western European Nations in the 15th century of EUIII. There are unique uniforms for:</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>Venice\n\t\t\t\t\t\t<li>France\n\t\t\t\t\t\t<li>Scandinavia \n\t\t\t\t\t\t<li>England\n\t\t\t\t\t\t<li>Netherlands\n\t\t\t\t\t\t<li>Portugal\n\t\t\t\t\t\t<li>Spain\n\t\t\t\t\t\t<li>Prussia\n\t\t\t\t\t\t<li>Britain \n\t\t\t\t\t\t<li>Sweden\n\t\t\t\t\t\t<li>Denmark\n\t\t\t\t\t\t<li>Scotland\n\t\t\t\t\t\t<li>Austria\n\t\t\t\t\t\t<li>Teutonic Order\n\t\t\t\t\t\t<li>Brandenburg \n\t\t\t\t\t\t<li>And a generic one\n\t\t\t\t\t\t</ul>",
   "about_the_game": "<p>These 16 historically authentic models have new animations for a more realistic and improved game atmosphere. Units are equipped with swords, shields, daggers, armour, chain mails, jerkins, capes, basinets and pig face basinets.</p>\n\t\t\t\t\t\t<h2>Key Features:</h2> \n\t\t\t\t\t\t<p>This spritepack includes 16 new sprites for the Western European Nations in the 15th century of EUIII. There are unique uniforms for:</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>Venice\n\t\t\t\t\t\t<li>France\n\t\t\t\t\t\t<li>Scandinavia \n\t\t\t\t\t\t<li>England\n\t\t\t\t\t\t<li>Netherlands\n\t\t\t\t\t\t<li>Portugal\n\t\t\t\t\t\t<li>Spain\n\t\t\t\t\t\t<li>Prussia\n\t\t\t\t\t\t<li>Britain \n\t\t\t\t\t\t<li>Sweden\n\t\t\t\t\t\t<li>Denmark\n\t\t\t\t\t\t<li>Scotland\n\t\t\t\t\t\t<li>Austria\n\t\t\t\t\t\t<li>Teutonic Order\n\t\t\t\t\t\t<li>Brandenburg \n\t\t\t\t\t\t<li>And a generic one\n\t\t\t\t\t\t</ul>",
-  "short_description": "",
+  "short_description": "These 16 historically authentic models have new animations for a more realistic and improved game atmosphere. Units are equipped with swords, shields, daggers, armour, chain mails, jerkins, capes, basinets and pig face basinets.",
   "fullgame": {
     "appid": "25808",
     "name": "Europa Universalis III: Divine Wind"
@@ -29,12 +29,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    8575,
-    29116,
-    29112
+    8575
   ],
   "package_groups": [
     {
@@ -55,26 +55,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 199
-        },
-        {
-          "packageid": 29116,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Europa Universalis III DLC Collection - 29,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2999
-        },
-        {
-          "packageid": 29112,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Europa Universalis III Collection - 39,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 3999
         }
       ]
     }
@@ -127,6 +107,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/25810/ss_b46ce00f6cf9303bfbaa03b60427ceb3b440faa4.1920x1080.jpg?t=1447354343"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Jun, 2011"
@@ -135,5 +118,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25810/page_bg_generated_v6b.jpg?t=1447354343"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25810/page_bg_generated_v6b.jpg?t=1447354343",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

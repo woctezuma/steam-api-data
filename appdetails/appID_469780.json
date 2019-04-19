@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     103792
@@ -162,5 +164,9 @@
     "url": "http://animakemugames.eu/",
     "email": "animakemugames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/469780/page_bg_generated_v6b.jpg?t=1476107066"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/469780/page_bg_generated_v6b.jpg?t=1476107066",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

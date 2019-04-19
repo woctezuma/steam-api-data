@@ -6,13 +6,13 @@
   "is_free": false,
   "detailed_description": "A value set of original costumes specially designed to celebrate the 50th Anniversary of TECMO. It includes 35 costumes for 35 characters.<br />\r\n<br />\r\nCharacters:<br />\r\n- All 35 characters with exception for Mai Shiranui.<br />\r\n<br />\r\n*You must have the latest update installed in order to use this content.",
   "about_the_game": "A value set of original costumes specially designed to celebrate the 50th Anniversary of TECMO. It includes 35 costumes for 35 characters.<br />\r\n<br />\r\nCharacters:<br />\r\n- All 35 characters with exception for Mai Shiranui.<br />\r\n<br />\r\n*You must have the latest update installed in order to use this content.",
-  "short_description": "A value set of original costumes specially designed to celebrate the 50th Anniversary of TECMO. It includes 35 costumes for 35 characters.<br />\r\n<br />\r\n*You must have the latest update installed in order to use this content.",
+  "short_description": "A value set of original costumes specially designed to celebrate the 50th Anniversary of TECMO. It includes 35 costumes for 35 characters. *You must have the latest update installed in order to use this content.",
   "fullgame": {
     "appid": "311730",
     "name": "DEAD OR ALIVE 5 Last Round: Core Fighters"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese<strong>*</strong>, Korean, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/755860/header.jpg?t=1513055838",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<strong>*</strong>, Korean, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/755860/header.jpg?t=1550187549",
   "website": "http://teamninja-studio.com/doa5/lastround",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista/7/8/8.1 (32bit/64bit)<br></li><li><strong>Processor:</strong> Core i7 870 over<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 1280\u00d7720 pixel over<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0c over<br></li><li><strong>Additional Notes:</strong> </li></ul>",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 2699,
     "final": 2699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "26,99\u20ac"
   },
   "packages": [
     222854
@@ -96,15 +98,18 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/755860/ss_467f35dc89dfff909cf96552ab4ab696dface9a1.600x338.jpg?t=1513055838",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/755860/ss_467f35dc89dfff909cf96552ab4ab696dface9a1.1920x1080.jpg?t=1513055838"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/755860/ss_467f35dc89dfff909cf96552ab4ab696dface9a1.600x338.jpg?t=1550187549",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/755860/ss_467f35dc89dfff909cf96552ab4ab696dface9a1.1920x1080.jpg?t=1550187549"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/755860/ss_b0340cda4843ac42f52445d0264ca0178ddf3a63.600x338.jpg?t=1513055838",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/755860/ss_b0340cda4843ac42f52445d0264ca0178ddf3a63.1920x1080.jpg?t=1513055838"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/755860/ss_b0340cda4843ac42f52445d0264ca0178ddf3a63.600x338.jpg?t=1550187549",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/755860/ss_b0340cda4843ac42f52445d0264ca0178ddf3a63.1920x1080.jpg?t=1550187549"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Dec, 2017"
@@ -113,5 +118,9 @@
     "url": "http://www.koeitecmoamerica.com/support/",
     "email": "Team_Ninja@Koeitecmo.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/755860/page_bg_generated_v6b.jpg?t=1513055838"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/755860/page_bg_generated_v6b.jpg?t=1550187549",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

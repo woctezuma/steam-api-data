@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "More powerful than the standard assault rifle, this lightweight and lethal automatic rifle features increased accuracy in close combat and a higher magnification scope.",
   "about_the_game": "More powerful than the standard assault rifle, this lightweight and lethal automatic rifle features increased accuracy in close combat and a higher magnification scope.",
-  "short_description": "",
+  "short_description": "More powerful than the standard assault rifle, this lightweight and lethal automatic rifle features increased accuracy in close combat and a higher magnification scope.",
   "fullgame": {
     "appid": "8190",
     "name": "Just Cause 2"
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     4564
@@ -87,6 +89,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/35080/ss_bec7a339c5cab21a671699a3110a072981b9cfc6.1920x1080.jpg?t=1478820849"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Jun, 2010"
@@ -95,5 +100,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/35080/page_bg_generated_v6b.jpg?t=1478820849"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/35080/page_bg_generated_v6b.jpg?t=1478820849",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

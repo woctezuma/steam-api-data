@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     211809
@@ -203,5 +205,11 @@
     "url": "",
     "email": "st.christophershelp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/600000/page_bg_generated_v6b.jpg?t=1511958695"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/600000/page_bg_generated_v6b.jpg?t=1511958695",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

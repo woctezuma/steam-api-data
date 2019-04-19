@@ -5,8 +5,8 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Following his debut UK tour, and a sold out run at Edinburgh Fringe Festival, Tony Jameson brings his critically acclaimed stand up show, 'Football Manager Ruined My Life' to Steam.<br><br>Tony feels he's at the mid-point of his life. He believes he's achieved some good things, but there's still the nagging voice in the back of his head that wonders, 'Could he have achieved more had he not spent the past 20 years playing video games?'<br><br>Join one of the UK's hottest talents for 90 mins of silly stories and references to footballers you may / may not remember.<br><br>Tony is still touring the show. If you'd like to see it live, take a look at his schedule on his website <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.tonyjameson.co.uk/gigs.html\" target=\"_blank\" rel=\"noopener\"  >http://www.tonyjameson.co.uk/gigs.html</a></a>",
-  "about_the_game": "Following his debut UK tour, and a sold out run at Edinburgh Fringe Festival, Tony Jameson brings his critically acclaimed stand up show, 'Football Manager Ruined My Life' to Steam.<br><br>Tony feels he's at the mid-point of his life. He believes he's achieved some good things, but there's still the nagging voice in the back of his head that wonders, 'Could he have achieved more had he not spent the past 20 years playing video games?'<br><br>Join one of the UK's hottest talents for 90 mins of silly stories and references to footballers you may / may not remember.<br><br>Tony is still touring the show. If you'd like to see it live, take a look at his schedule on his website <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.tonyjameson.co.uk/gigs.html\" target=\"_blank\" rel=\"noopener\"  >http://www.tonyjameson.co.uk/gigs.html</a></a>",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Following his debut UK tour, and a sold out run at Edinburgh Fringe Festival, Tony Jameson brings his critically acclaimed stand up show, 'Football Manager Ruined My Life' to Steam.<br><br>Tony feels he's at the mid-point of his life. He believes he's achieved some good things, but there's still the nagging voice in the back of his head that wonders, 'Could he have achieved more had he not spent the past 20 years playing video games?'<br><br>Join one of the UK's hottest talents for 90 mins of silly stories and references to footballers you may / may not remember.<br><br>Tony is still touring the show. If you'd like to see it live, take a look at his schedule on his website <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.tonyjameson.co.uk/gigs.html\" target=\"_blank\" rel=\"noopener\"  >http://www.tonyjameson.co.uk/gigs.html</a>",
+  "about_the_game": "Following his debut UK tour, and a sold out run at Edinburgh Fringe Festival, Tony Jameson brings his critically acclaimed stand up show, 'Football Manager Ruined My Life' to Steam.<br><br>Tony feels he's at the mid-point of his life. He believes he's achieved some good things, but there's still the nagging voice in the back of his head that wonders, 'Could he have achieved more had he not spent the past 20 years playing video games?'<br><br>Join one of the UK's hottest talents for 90 mins of silly stories and references to footballers you may / may not remember.<br><br>Tony is still touring the show. If you'd like to see it live, take a look at his schedule on his website <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.tonyjameson.co.uk/gigs.html\" target=\"_blank\" rel=\"noopener\"  >http://www.tonyjameson.co.uk/gigs.html</a>",
   "short_description": "Following his debut UK tour, and a sold out run at Edinburgh Fringe Festival, Tony Jameson brings his critically acclaimed stand up show, 'Football Manager Ruined My Life' to Steam.",
   "fullgame": {
     "appid": null,
@@ -39,7 +39,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     64946
@@ -109,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/361220/ss_636cc80dcf7690081b4240eca78f2bae55dd1974.1920x1080.jpg?t=1447372078"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 May, 2015"
@@ -117,5 +122,9 @@
     "url": "http://www.tonyjameson.co.uk",
     "email": "info@tonyjameson.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/361220/page_bg_generated_v6b.jpg?t=1447372078"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/361220/page_bg_generated_v6b.jpg?t=1447372078",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

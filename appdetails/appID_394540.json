@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 90,
     "final": 90,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,90\u20ac"
   },
   "packages": [
     75713,
@@ -187,7 +189,7 @@
     }
   ],
   "recommendations": {
-    "total": 407
+    "total": 377
   },
   "achievements": {
     "total": 24,
@@ -242,5 +244,9 @@
     "url": "",
     "email": "ian@ip-builders.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/394540/page_bg_generated_v6b.jpg?t=1492978215"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/394540/page_bg_generated_v6b.jpg?t=1492978215",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

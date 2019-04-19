@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     223019
@@ -127,6 +129,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Dec, 2017"
@@ -135,5 +140,9 @@
     "url": "",
     "email": "warrensbestss@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/756350/page_bg_generated_v6b.jpg?t=1514448326"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/756350/page_bg_generated_v6b.jpg?t=1514448326",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

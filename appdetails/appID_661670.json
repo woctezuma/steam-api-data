@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 174,
-    "discount_percent": 65
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     187567
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 187567,
-          "percent_savings_text": "-65%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Renegade Grounds: Episode 1 - <span class=\"discount_original_price\">4,99\u20ac</span> 1,74\u20ac",
+          "option_text": "Renegade Grounds: Episode 1 - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 174
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -212,5 +214,9 @@
     "url": "newrealitygames.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/661670/page_bg_generated_v6b.jpg?t=1505857383"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/661670/page_bg_generated_v6b.jpg?t=1505857383",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     238430
@@ -102,6 +104,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/788730/ss_8b9d71ba66c9ddab49300dc01f4510506cd874f5.1920x1080.jpg?t=1521084204"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Feb, 2018"
@@ -110,5 +115,9 @@
     "url": "",
     "email": "rdsgamingstudio@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/788730/page_bg_generated_v6b.jpg?t=1521084204"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/788730/page_bg_generated_v6b.jpg?t=1521084204",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

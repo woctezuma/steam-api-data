@@ -29,10 +29,12 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    "56847"
+    56847
   ],
   "package_groups": [
     {
@@ -45,7 +47,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "56847",
+          "packageid": 56847,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Man Alive Game - 4,99\u20ac",
@@ -143,6 +145,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 May, 2015"
@@ -151,5 +156,9 @@
     "url": "http://globalempiresoft.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/339560/page_bg_generated_v6b.jpg?t=1456441766"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/339560/page_bg_generated_v6b.jpg?t=1456441766",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

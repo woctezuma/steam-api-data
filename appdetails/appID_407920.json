@@ -36,9 +36,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 150,
+    "final": 150,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,50\u20ac"
   },
   "packages": [
     80582,
@@ -58,21 +60,21 @@
           "packageid": 80582,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Contagion OST - 1,99\u20ac",
+          "option_text": "Contagion OST - 1,50\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 150
         },
         {
           "packageid": 88738,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Contagion + Soundtrack - 10,99\u20ac",
+          "option_text": "Contagion + Soundtrack - 8,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1099
+          "price_in_cents_with_discount": 899
         }
       ]
     }
@@ -178,6 +180,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Oct, 2015"
@@ -186,5 +191,9 @@
     "url": "http://steamcommunity.com/app/238430/discussions/4/",
     "email": "support@monochrome-games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407920/page_bg_generated_v6b.jpg?t=1447378343"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407920/page_bg_generated_v6b.jpg?t=1447378343",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 179,
-    "discount_percent": 10
+    "final": 199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     202959
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 202959,
-          "percent_savings_text": "-10%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "All Cows In - <span class=\"discount_original_price\">1,99\u20ac</span> 1,79\u20ac",
+          "option_text": "All Cows In - 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 179
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -118,6 +120,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Dec, 2017"
@@ -126,5 +131,9 @@
     "url": "http://allcowsin.hedgehoggamestudios.com/contact/",
     "email": "contact@hedgehoggamestudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/703800/page_bg_generated_v6b.jpg?t=1512555165"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/703800/page_bg_generated_v6b.jpg?t=1512555165",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

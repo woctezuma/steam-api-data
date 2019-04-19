@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "",
   "about_the_game": "",
-  "short_description": "In their battle with Moses, a Disc Warrior of the Golden Family,  the lab becomes unstable and explodes. This sends our heroes deep underground where they face another strong beast of the Fire Mountain. Will Ken and Blaze find the exit safely?",
+  "short_description": "In their battle with Moses, a Disc Warrior of the Golden Family, the lab becomes unstable and explodes. This sends our heroes deep underground where they face another strong beast of the Fire Mountain. Will Ken and Blaze find the exit safely?",
   "fullgame": {
     "appid": "530400",
     "name": "Battle Disc"
@@ -24,7 +24,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     127672
@@ -71,6 +73,9 @@
       "description": "Captions available"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Oct, 2016"
@@ -79,5 +84,9 @@
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "<strong>Requires DCS: P-51D Mustang</strong><br>The &quot;P-51D: High Stakes&quot; campaign is a single-player, story-driven campaign for DCS: P-51D Mustang. The premise of the campaign is that a powerful businessman and gambler named &quot;Maslov&quot; has employed the pilot-for-hire pilot Vasily Sinitsa with promises of mountains of money. In return, Vasily needs to fly and master the venerable Mustang over a string of 15 missions that will test his skills. Maslov will put the Vasily at more risk as the campaign progresses and Vasily will need to use all his skills to not only to fulfill his assigned tasks but to also save his life and, in the long run, his honor.<br><br>In order to fully complete each mission and proceed to the next, Vasily will need to land his Mustang at the assigned point at the conclusion of each mission. Additionally, due to the plot of the story, Vasily will need to take care of his Mustang and minimize damage to proceed through the story.<br><br>All of Vasily's missions include detailed briefings and mission map graphics. Each mission also includes kneeboard briefing and map pages.<br><br>Are you ready to join Vasily on this epic journey?",
   "about_the_game": "<strong>Requires DCS: P-51D Mustang</strong><br>The &quot;P-51D: High Stakes&quot; campaign is a single-player, story-driven campaign for DCS: P-51D Mustang. The premise of the campaign is that a powerful businessman and gambler named &quot;Maslov&quot; has employed the pilot-for-hire pilot Vasily Sinitsa with promises of mountains of money. In return, Vasily needs to fly and master the venerable Mustang over a string of 15 missions that will test his skills. Maslov will put the Vasily at more risk as the campaign progresses and Vasily will need to use all his skills to not only to fulfill his assigned tasks but to also save his life and, in the long run, his honor.<br><br>In order to fully complete each mission and proceed to the next, Vasily will need to land his Mustang at the assigned point at the conclusion of each mission. Additionally, due to the plot of the story, Vasily will need to take care of his Mustang and minimize damage to proceed through the story.<br><br>All of Vasily's missions include detailed briefings and mission map graphics. Each mission also includes kneeboard briefing and map pages.<br><br>Are you ready to join Vasily on this epic journey?",
-  "short_description": "The &quot;P-51D: High Stakes&quot; campaign is a single-player, story-driven campaign for DCS: P-51D Mustang. The premise of the campaign is that a powerful businessman and gambler named &quot;Maslov&quot; has employed the pilot-for-hire pilot Vasily Sinitsa with promises of mountains of money. In return, Vasily needs to fly and master the venerable Mustang over a string of 15 missions that will test his skills. Maslov will put the Vasily at more risk as the campaign progresses and Vasily will need to use all his skills to not only to fulfill his assigned tasks but to also save his life and, in the long run, his honor.",
+  "short_description": "The &quot;P-51D: High Stakes&quot; campaign is a single-player, story-driven campaign for DCS: P-51D Mustang. The premise of the campaign is that a powerful businessman and gambler named &quot;Maslov&quot; has employed the pilot-for-hire pilot Vasily Sinitsa with promises of mountains of money.",
   "fullgame": {
     "appid": "223750",
-    "name": "DCS World"
+    "name": "DCS World Steam Edition"
   },
-  "supported_languages": "English<strong>*</strong>, German, Spanish, Russian, Czech, French, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German, Spanish - Spain, Russian, Czech, French, Simplified Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/555532/header.jpg?t=1509669154",
   "website": "http://www.digitalcombatsimulator.com/en/",
   "pc_requirements": {
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 960,
-    "final": 960,
-    "discount_percent": 0
+    "final": 480,
+    "discount_percent": 50,
+    "initial_formatted": "9,60\u20ac",
+    "final_formatted": "4,80\u20ac"
   },
   "packages": [
     138572
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 138572,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "P-51D: High Stakes Campaign - 9,60\u20ac",
+          "option_text": "P-51D: High Stakes Campaign - <span class=\"discount_original_price\">9,60\u20ac</span> 4,80\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 960
+          "price_in_cents_with_discount": 480
         }
       ]
     }
@@ -137,6 +139,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Feb, 2017"
@@ -145,5 +150,9 @@
     "url": "https://forums.eagle.ru/forumdisplay.php?f=503",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/555532/page_bg_generated_v6b.jpg?t=1509669154"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/555532/page_bg_generated_v6b.jpg?t=1509669154",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

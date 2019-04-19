@@ -11,12 +11,12 @@
     "appid": "431600",
     "name": "Automobilista"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Dutch, Portuguese-Brazil",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Portuguese - Brazil",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/550800/header.jpg?t=1482859806",
   "website": "http://www.game-automobilista.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP / Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> 1,8 GHz or 100% compatible CPU<br></li><li><strong>Graphics:</strong> DX9 Compatible with minumum 1GB Video Memory<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP / Vista / 7 / 8 / 10<br></li><li><strong>Processor:</strong> 3,4 GHz or 100% compatible CPU<br></li><li><strong>Graphics:</strong> DX9 Compatible with minumum 2 GB Video Memory<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP / Vista / 7 / 8 / 10<br></li><li><strong>Processeur\u00a0:</strong> 1,8 GHz or 100% compatible CPU<br></li><li><strong>Graphiques\u00a0:</strong> DX9 Compatible with minumum 1GB Video Memory<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0c<br></li><li><strong>Espace disque\u00a0:</strong> 300 MB d'espace disque disponible</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP / Vista / 7 / 8 / 10<br></li><li><strong>Processeur\u00a0:</strong> 3,4 GHz or 100% compatible CPU<br></li><li><strong>Graphiques\u00a0:</strong> DX9 Compatible with minumum 2 GB Video Memory<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0c<br></li><li><strong>Espace disque\u00a0:</strong> 300 MB d'espace disque disponible</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     136513
@@ -168,6 +170,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Dec, 2016"
@@ -176,5 +181,9 @@
     "url": "",
     "email": "support@reizastudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/550800/page_bg_generated_v6b.jpg?t=1482859806"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/550800/page_bg_generated_v6b.jpg?t=1482859806",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

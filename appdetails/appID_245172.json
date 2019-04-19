@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Adds five additional color palettes for every Skullgirls character, many designed from fan feedback!",
   "about_the_game": "Adds five additional color palettes for every Skullgirls character, many designed from fan feedback!",
-  "short_description": "",
+  "short_description": "Adds five additional color palettes for every Skullgirls character, many designed from fan feedback!",
   "fullgame": {
     "appid": "245170",
     "name": "Skullgirls"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/245172/header.jpg?t=1516345248",
   "website": "http://www.skullgirls.com",
   "pc_requirements": {
@@ -39,7 +39,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     31447
@@ -171,5 +173,9 @@
     "url": "http://www.skullgirls.com",
     "email": "bugreports@labzerogames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/245172/page_bg_generated_v6b.jpg?t=1516345248"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/245172/page_bg_generated_v6b.jpg?t=1516345248",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

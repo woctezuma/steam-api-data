@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 99,
+    "discount_percent": 80,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     41239
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 41239,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "Princess Isabella - 4,99\u20ac",
+          "option_text": "Princess Isabella - <span class=\"discount_original_price\">4,99\u20ac</span> 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -117,6 +119,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/292660/ss_cea994a8d977f8f2f18ebd5ee99b6aef633deaa4.1920x1080.jpg?t=1447361183"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Apr, 2014"
@@ -125,5 +130,9 @@
     "url": "",
     "email": "support@strategyfirst.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/292660/page_bg_generated_v6b.jpg?t=1447361183"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/292660/page_bg_generated_v6b.jpg?t=1447361183",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

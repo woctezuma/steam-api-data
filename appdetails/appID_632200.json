@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 62,
-    "discount_percent": 37
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     172222
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 172222,
-          "percent_savings_text": "-37%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Kuro survival - <span class=\"discount_original_price\">0,99\u20ac</span> 0,62\u20ac",
+          "option_text": "Kuro survival - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 62
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -169,5 +171,9 @@
     "url": "nlfastudio@gmail.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/632200/page_bg_generated_v6b.jpg?t=1498068921"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/632200/page_bg_generated_v6b.jpg?t=1498068921",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     68736
@@ -145,7 +147,7 @@
     }
   ],
   "recommendations": {
-    "total": 1481
+    "total": 1421
   },
   "achievements": {
     "total": 17,
@@ -200,5 +202,9 @@
     "url": "http://baggycat.com/contradiction/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/373390/page_bg_generated_v6b.jpg?t=1447375147"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/373390/page_bg_generated_v6b.jpg?t=1447375147",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

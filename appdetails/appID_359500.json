@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "<h1>New DLC Available</h1><p>Keep on moving with I,Gladiator music</p><br><h1>About the Game</h1>I,Gladiator Soundtracks is the official soundtracks which include a collection of 9 amazing tracks, that you can find in the game.\r\n\r\nOne of the pieces that makes the atmosphere of gladiatorial battles so real is our collection of game music, written by talented belorussian composer Yury Semko. If you ever wanted to add it to your music collection - you are welcome! \r\n\r\nFull list of tracks:\r\n1. Rufus Story (Main Theme)\r\n2. Numidian Arena\r\n3. Britannian Arena\r\n4. Hurry up!\r\n5. Pompeian Arena\r\n6. Roman Arena\r\n7. Stay Alive\r\n8. Defeat\r\n9. Victory",
   "about_the_game": "I,Gladiator Soundtracks is the official soundtracks which include a collection of 9 amazing tracks, that you can find in the game.<br />\r\n<br />\r\nOne of the pieces that makes the atmosphere of gladiatorial battles so real is our collection of game music, written by talented belorussian composer Yury Semko. If you ever wanted to add it to your music collection - you are welcome! <br />\r\n<br />\r\nFull list of tracks:<br />\r\n1. Rufus Story (Main Theme)<br />\r\n2. Numidian Arena<br />\r\n3. Britannian Arena<br />\r\n4. Hurry up!<br />\r\n5. Pompeian Arena<br />\r\n6. Roman Arena<br />\r\n7. Stay Alive<br />\r\n8. Defeat<br />\r\n9. Victory",
-  "short_description": "I,Gladiator Soundtracks is the official soundtracks which include a collection of 9 amazing tracks, that you can find in the game.<br />\r\nOne of the pieces that makes the atmosphere of gladiatorial battles so real is our collection of game music, written by talented belorussian composer Yury Semko.",
+  "short_description": "I,Gladiator Soundtracks is the official soundtracks which include a collection of 9 amazing tracks, that you can find in the game. One of the pieces that makes the atmosphere of gladiatorial battles so real is our collection of game music, written by talented belorussian composer Yury Semko.",
   "fullgame": {
     "appid": "339700",
     "name": "I, Gladiator"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Japanese, Korean, Portuguese-Brazil, Russian, Simplified Chinese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/359500/header.jpg?t=1447371513",
   "website": "http://igladiatorgame.com/",
   "pc_requirements": {
@@ -31,10 +31,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    "64066",
+    64066,
     67347
   ],
   "package_groups": [
@@ -48,7 +50,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "64066",
+          "packageid": 64066,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "I, Gladiator - Soundtracks - 1,99\u20ac",
@@ -131,5 +133,9 @@
     "url": "http://igladiatorgame.com/",
     "email": "support@ndgamea.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/359500/page_bg_generated_v6b.jpg?t=1447371513"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/359500/page_bg_generated_v6b.jpg?t=1447371513",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

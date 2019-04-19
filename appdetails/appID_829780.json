@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     255563
@@ -141,7 +143,7 @@
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/829780/14424283db5edb30a80dbaa488ba7706c7e8f748.jpg"
       },
       {
-        "name": "twitch.tv/jertel_",
+        "name": "jertel_",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/829780/7e58e6810f6d28fc6e7aada7f0f9bf6d83625a18.jpg"
       },
       {
@@ -170,5 +172,9 @@
     "url": "",
     "email": "excellente23@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/829780/page_bg_generated_v6b.jpg?t=1522837139"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/829780/page_bg_generated_v6b.jpg?t=1522837139",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -28,8 +28,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 899,
-    "final": 899,
-    "discount_percent": 0
+    "final": 179,
+    "discount_percent": 80,
+    "initial_formatted": "8,99\u20ac",
+    "final_formatted": "1,79\u20ac"
   },
   "packages": [
     84566
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 84566,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "The Madness of Little Emma - 8,99\u20ac",
+          "option_text": "The Madness of Little Emma - <span class=\"discount_original_price\">8,99\u20ac</span> 1,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 899
+          "price_in_cents_with_discount": 179
         }
       ]
     }
@@ -173,7 +175,7 @@
     }
   ],
   "recommendations": {
-    "total": 127
+    "total": 112
   },
   "achievements": {
     "total": 121,
@@ -228,5 +230,9 @@
     "url": "https://www.reddit.com/r/madnessoflittleemma/",
     "email": "bartosz.bojarowski@Yahoo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/418150/page_bg_generated_v6b.jpg?t=1478114258"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/418150/page_bg_generated_v6b.jpg?t=1478114258",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

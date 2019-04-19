@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     98901
@@ -128,7 +130,7 @@
     }
   ],
   "recommendations": {
-    "total": 195
+    "total": 208
   },
   "achievements": {
     "total": 23,
@@ -183,5 +185,9 @@
     "url": "http://steamcommunity.com/groups/RunServer",
     "email": "brunko@runserver.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/456430/page_bg_generated_v6b.jpg?t=1512229437"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/456430/page_bg_generated_v6b.jpg?t=1512229437",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

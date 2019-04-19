@@ -11,7 +11,7 @@
     "appid": "272510",
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Polish, Portuguese-Brazil, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/301892/header.jpg?t=1489666066",
   "website": "http://www.naruto-stormrevolution.com/",
   "pc_requirements": {
@@ -31,10 +31,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    "44342"
+    44342
   ],
   "package_groups": [
     {
@@ -47,7 +49,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "44342",
+          "packageid": 44342,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "NARUTO SHIPPUDEN: ULTIMATE NINJA STORM REVOLUTION - DLC3 Summer Cloth Pack - 1,99\u20ac",
@@ -126,6 +128,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/301892/ss_21ae897eb567df90579616222407fb54f5b767c9.1920x1080.jpg?t=1489666066"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Sep, 2014"
@@ -134,5 +139,9 @@
     "url": "http://www.bandainamcoent.com/support.html",
     "email": "support@bandainamcoent.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/301892/page_bg_generated_v6b.jpg?t=1489666066"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/301892/page_bg_generated_v6b.jpg?t=1489666066",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

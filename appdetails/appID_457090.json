@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 249,
+    "final": 249,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     99150
@@ -51,11 +53,11 @@
           "packageid": 99150,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "WolfQuest Music Extras - 2,99\u20ac",
+          "option_text": "WolfQuest Music Extras - 2,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 249
         }
       ]
     }
@@ -132,5 +134,9 @@
     "url": "http://www.wolfquest.org/support.html",
     "email": "support@wolfquest.org"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/457090/page_bg_generated_v6b.jpg?t=1458922447"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/457090/page_bg_generated_v6b.jpg?t=1458922447",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

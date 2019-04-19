@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 249,
+    "final": 249,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     218767
@@ -44,11 +46,11 @@
           "packageid": 218767,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Soul Survival - 1,99\u20ac",
+          "option_text": "Soul Survival - 2,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 249
         }
       ]
     }
@@ -113,6 +115,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Dec, 2017"
@@ -121,5 +126,9 @@
     "url": "",
     "email": "avb.vr.games@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/745620/page_bg_generated_v6b.jpg?t=1512802007"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/745620/page_bg_generated_v6b.jpg?t=1512802007",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

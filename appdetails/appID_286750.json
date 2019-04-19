@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     39812
@@ -63,7 +65,7 @@
   },
   "metacritic": {
     "score": 59,
-    "url": "http://www.metacritic.com/game/pc/zoo-empire?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/zoo-empire?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -149,6 +151,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Sep, 2015"
@@ -157,5 +162,9 @@
     "url": "http://www.retroism.com",
     "email": "support@retroism.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/286750/page_bg_generated_v6b.jpg?t=1457036070"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/286750/page_bg_generated_v6b.jpg?t=1457036070",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

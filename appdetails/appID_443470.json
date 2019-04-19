@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     94131
@@ -93,6 +95,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/443470/ss_b27d1e2559004b68b80d80dad06f9a6bc81d40ba.1920x1080.jpg?t=1457080557"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Mar, 2016"
@@ -101,5 +106,9 @@
     "url": "http://studioblackflag.com/yrminsul/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/443470/page_bg_generated_v6b.jpg?t=1457080557"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/443470/page_bg_generated_v6b.jpg?t=1457080557",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

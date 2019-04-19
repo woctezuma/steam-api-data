@@ -4,7 +4,7 @@
   "steam_appid": 566930,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<h1>MOAI V is out now!</h1><p><a href=\"http://store.steampowered.com/app/793940/MOAI_V_Collectors_Edition/\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/566930/extras/615x232_En.jpg?t=1522330922\" ></a></a></p><br><h1>About the Game</h1>When Mother Nature does her worst, the Rescue Team does its best! Guide the brave members of the Rescue Team as they save people in distress and rebuild a devastated infrastructure after earthquakes, tsunamis, and volcanic eruptions leave a once prosperous land in ruins. You'll have to manage your resources well as you repair bridges and roads, restore factories and homes, and send doctors and rescue dogs to save the sick and injured. Work quickly as you command a fleet of machines ranging from helicopters and motorboats to airplanes and trains, and you'll beat the clock and win the gold! This special Collector's Edition of Rescue Team 6 features a thrilling bonus chapter with all new adventures, a walkthrough of the entire game, downloadable artwork, and more! Strap in for the thrill ride of a lifetime and begin the adventure today!<br><br><ul class=\"bb_ul\"><li>Dozens of thrilling levels<br></li><li>Timed and untimed game modes<br></li><li>Bright, colorful graphics<br></li><li>Achievements to unlock<br></li><li>Tons of bonus content</li></ul>",
+  "detailed_description": "<h1>MOAI V is out now!</h1><p><a href=\"http://store.steampowered.com/app/793940/MOAI_V_Collectors_Edition/\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/566930/extras/615x232_En.jpg?t=1522330922\" ></a></p><br><h1>About the Game</h1>When Mother Nature does her worst, the Rescue Team does its best! Guide the brave members of the Rescue Team as they save people in distress and rebuild a devastated infrastructure after earthquakes, tsunamis, and volcanic eruptions leave a once prosperous land in ruins. You'll have to manage your resources well as you repair bridges and roads, restore factories and homes, and send doctors and rescue dogs to save the sick and injured. Work quickly as you command a fleet of machines ranging from helicopters and motorboats to airplanes and trains, and you'll beat the clock and win the gold! This special Collector's Edition of Rescue Team 6 features a thrilling bonus chapter with all new adventures, a walkthrough of the entire game, downloadable artwork, and more! Strap in for the thrill ride of a lifetime and begin the adventure today!<br><br><ul class=\"bb_ul\"><li>Dozens of thrilling levels<br></li><li>Timed and untimed game modes<br></li><li>Bright, colorful graphics<br></li><li>Achievements to unlock<br></li><li>Tons of bonus content</li></ul>",
   "about_the_game": "When Mother Nature does her worst, the Rescue Team does its best! Guide the brave members of the Rescue Team as they save people in distress and rebuild a devastated infrastructure after earthquakes, tsunamis, and volcanic eruptions leave a once prosperous land in ruins. You'll have to manage your resources well as you repair bridges and roads, restore factories and homes, and send doctors and rescue dogs to save the sick and injured. Work quickly as you command a fleet of machines ranging from helicopters and motorboats to airplanes and trains, and you'll beat the clock and win the gold! This special Collector's Edition of Rescue Team 6 features a thrilling bonus chapter with all new adventures, a walkthrough of the entire game, downloadable artwork, and more! Strap in for the thrill ride of a lifetime and begin the adventure today!<br><br><ul class=\"bb_ul\"><li>Dozens of thrilling levels<br></li><li>Timed and untimed game modes<br></li><li>Bright, colorful graphics<br></li><li>Achievements to unlock<br></li><li>Tons of bonus content</li></ul>",
   "short_description": "When Mother Nature does her worst, the Rescue Team does its best!",
   "supported_languages": "English, German, Russian",
@@ -23,7 +23,40 @@
   "publishers": [
     "Buka Entertainment"
   ],
-  "package_groups": [],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 599,
+    "final": 599,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
+  },
+  "packages": [
+    143330
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Rescue Team 6 Collector's Edition",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 143330,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Rescue Team 6 Collector's Edition - 5,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 599
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -85,6 +118,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Dec, 2016"
@@ -93,5 +129,9 @@
     "url": "http://www.buka.ru/cgi-bin/tech_support.pl?option=first_page",
     "email": "help@buka.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/566930/page_bg_generated_v6b.jpg?t=1522330922"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/566930/page_bg_generated_v6b.jpg?t=1522330922",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

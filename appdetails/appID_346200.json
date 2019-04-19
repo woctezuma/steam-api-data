@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<i>&quot;I just want to go home...&quot; </i><br><br> A hand-drawn 3D third-person puzzle-platformer. Control Drew, a lost young girl trying to find her way back home, through a series of abstract levels requiring you to use clues in the environment to find invisible paths, gaining color to her black-and-white character as you progress. <br><br><ul class=\"bb_ul\"><li> Featuring traditional animation in a fully third-person 3D environment, showing the possibilities of image-based animation (not relying on 3D models) in any type of game.<br></li><li> Basic, challenging, yet not frustrating, requiring patience and observation. Consists of short invisible platforming levels using a variety of visual clues to help the player find their way to the end of each environment, requiring you to look before you leap.<br></li><li> Simple story leading to an emotional conclusion.</li></ul>",
   "about_the_game": "<i>&quot;I just want to go home...&quot; </i><br><br> A hand-drawn 3D third-person puzzle-platformer. Control Drew, a lost young girl trying to find her way back home, through a series of abstract levels requiring you to use clues in the environment to find invisible paths, gaining color to her black-and-white character as you progress. <br><br><ul class=\"bb_ul\"><li> Featuring traditional animation in a fully third-person 3D environment, showing the possibilities of image-based animation (not relying on 3D models) in any type of game.<br></li><li> Basic, challenging, yet not frustrating, requiring patience and observation. Consists of short invisible platforming levels using a variety of visual clues to help the player find their way to the end of each environment, requiring you to look before you leap.<br></li><li> Simple story leading to an emotional conclusion.</li></ul>",
-  "short_description": "<i>&quot;I just want to go home...&quot; </i><br> A hand-drawn 3D puzzle-platformer. Control Drew find her way back home, through a series of abstract levels requiring you to find invisible paths, gaining color to her black-and-white character as you progress. Featuring unrestricted 2D animation in a 3D environment.",
+  "short_description": "&quot;I just want to go home...&quot; A hand-drawn 3D puzzle-platformer. Control Drew find her way back home, through a series of abstract levels requiring you to find invisible paths, gaining color to her black-and-white character as you progress. Featuring unrestricted 2D animation in a 3D environment.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/346200/header.jpg?t=1447368086",
   "website": "http://drew.fromdustscratch.com",
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     59347
@@ -136,6 +138,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Feb, 2015"
@@ -144,5 +149,9 @@
     "url": "",
     "email": "support@fromdustscratch.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/346200/page_bg_generated_v6b.jpg?t=1447368086"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/346200/page_bg_generated_v6b.jpg?t=1447368086",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

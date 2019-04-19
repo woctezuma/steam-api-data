@@ -11,7 +11,7 @@
     "appid": "526160",
     "name": "The Wild Eight"
   },
-  "supported_languages": "English, Russian, French, German, Spanish, Simplified Chinese, Japanese",
+  "supported_languages": "English, Russian, French, German, Spanish - Spain, Simplified Chinese, Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/590360/header.jpg?t=1518628361",
   "website": "http://thewildeight.com/",
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     153079
@@ -129,6 +131,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/590360/ss_1cb7829c3ecfed1e410c18877c18380ada45709e.1920x1080.jpg?t=1518628361"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Feb, 2017"
@@ -137,5 +142,9 @@
     "url": "http://hypetraindigital.com/forums/index.php?/forum/1-the-wild-eight/",
     "email": "ib@hypetraindigital.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/590360/page_bg_generated_v6b.jpg?t=1518628361"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/590360/page_bg_generated_v6b.jpg?t=1518628361",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

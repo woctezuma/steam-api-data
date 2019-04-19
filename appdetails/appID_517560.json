@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Collector's edition contents:<br />\r\n- 2-Disc, 26-track original soundtrack<br />\r\n- Liner notes (PDF file)<br />\r\n- 47-page digital art book (PDF file)",
   "about_the_game": "Collector's edition contents:<br />\r\n- 2-Disc, 26-track original soundtrack<br />\r\n- Liner notes (PDF file)<br />\r\n- 47-page digital art book (PDF file)",
-  "short_description": "",
+  "short_description": "Collector's edition contents: - 2-Disc, 26-track original soundtrack - Liner notes (PDF file) - 47-page digital art book (PDF file)",
   "fullgame": {
     "appid": "507380",
     "name": "Black Sand Drift"
@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 119,
-    "discount_percent": 40
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     121118
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 121118,
-          "percent_savings_text": "-40%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Black Sand Drift Collector's Edition Content - <span class=\"discount_original_price\">1,99\u20ac</span> 1,19\u20ac",
+          "option_text": "Black Sand Drift Collector's Edition Content - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 119
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -101,5 +103,9 @@
     "url": "http://www.SometimesYou.com/",
     "email": "3.14nkerator@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/517560/page_bg_generated_v6b.jpg?t=1473357823"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/517560/page_bg_generated_v6b.jpg?t=1473357823",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

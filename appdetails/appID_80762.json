@@ -8,33 +8,23 @@
   "about_the_game": "",
   "short_description": "",
   "fullgame": {
-    "appid": "620",
-    "name": "Portal 2"
+    "appid": null,
+    "name": "Uninitialized"
   },
-  "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/80762/header.jpg?t=1452903411",
   "website": null,
   "pc_requirements": [],
   "mac_requirements": [],
   "linux_requirements": [],
-  "developers": [
-    "Valve"
-  ],
   "publishers": [
-    "Valve"
+    ""
   ],
   "package_groups": [],
   "platforms": {
     "windows": true,
-    "mac": true,
+    "mac": false,
     "linux": false
   },
-  "genres": [
-    {
-      "id": "1",
-      "description": "Action"
-    }
-  ],
   "movies": [
     {
       "id": 80762,
@@ -49,11 +39,15 @@
   ],
   "release_date": {
     "coming_soon": false,
-    "date": "12 Apr, 2011"
+    "date": ""
   },
   "support_info": {
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

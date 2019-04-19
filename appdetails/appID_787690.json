@@ -7,7 +7,7 @@
   "detailed_description": "This is a mental arithmetic game. If you want to do some mental arithmetic exercises for you or for your children, it will be a great choice.<br><br>Random map, three kinds of attacks, automatic aiming, input the correct result of the equation to shoot.<br>The difficulty of equation is adjustable. You can choose addition, subtraction, multiplication, division, arithmetic digits.<br>Decimal or negative number will not appear in the equation.<br>More difficult, more score.<br>Your best score will get into the global ranking.<br><br>Operation:<br>WASD or arrow keys \u2013 to move.<br>Numerical key \u2013 to input numbers.<br>Enter \u2013 to confirm the input or emptied number.<br>Full keyboard operation is recommended.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/787690/extras/animation2.png?t=1522381268\" >",
   "about_the_game": "This is a mental arithmetic game. If you want to do some mental arithmetic exercises for you or for your children, it will be a great choice.<br><br>Random map, three kinds of attacks, automatic aiming, input the correct result of the equation to shoot.<br>The difficulty of equation is adjustable. You can choose addition, subtraction, multiplication, division, arithmetic digits.<br>Decimal or negative number will not appear in the equation.<br>More difficult, more score.<br>Your best score will get into the global ranking.<br><br>Operation:<br>WASD or arrow keys \u2013 to move.<br>Numerical key \u2013 to input numbers.<br>Enter \u2013 to confirm the input or emptied number.<br>Full keyboard operation is recommended.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/787690/extras/animation2.png?t=1522381268\" >",
   "short_description": "This is a mental arithmetic game. If you want to do some mental arithmetic exercises for you or for your children, it will be a great choice.",
-  "supported_languages": "English, Simplified Chinese, Traditional Chinese, Spanish, Russian, Portuguese",
+  "supported_languages": "English, Simplified Chinese, Traditional Chinese, Spanish - Spain, Russian, Portuguese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/787690/header.jpg?t=1522381268",
   "website": null,
   "pc_requirements": {
@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 59,
+    "discount_percent": 40,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,59\u20ac"
   },
   "packages": [
     237988
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 237988,
-          "percent_savings_text": "",
+          "percent_savings_text": "-40%",
           "percent_savings": 0,
-          "option_text": "Math Hero - 0,99\u20ac",
+          "option_text": "Math Hero - <span class=\"discount_original_price\">0,99\u20ac</span> 0,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 59
         }
       ]
     }
@@ -150,5 +152,9 @@
     "url": "",
     "email": "rightgames@163.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/787690/page_bg_generated_v6b.jpg?t=1522381268"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/787690/page_bg_generated_v6b.jpg?t=1522381268",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

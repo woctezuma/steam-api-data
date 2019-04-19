@@ -3,7 +3,7 @@
   "name": "Stand Up Empire: Rob Gagnon & Lashonda Lester",
   "steam_appid": 518212,
   "required_age": "18",
-  "is_free": true,
+  "is_free": false,
   "controller_support": "full",
   "detailed_description": "",
   "about_the_game": "",
@@ -13,7 +13,7 @@
     "name": "Stand Up Empire"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/518212/header.jpg?t=1491931971",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/518212/header.jpg?t=1532378442",
   "website": null,
   "pc_requirements": [],
   "mac_requirements": [],
@@ -21,33 +21,7 @@
   "publishers": [
     ""
   ],
-  "packages": [
-    168292,
-    121360
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy Stand Up Empire: Rob Gagnon & Lashonda Lester",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 121360,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Stand Up Empire: Rob Gagnon & Lashonda Lester - 1,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 199
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -63,6 +37,9 @@
       "description": "Native Steam Controller Support"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Oct, 2016"
@@ -71,5 +48,9 @@
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

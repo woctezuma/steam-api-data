@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/273540/extras/packs_deluxe2.jpg?t=1458553824\" ><br><br>This DLC includes:<br><ul class=\"bb_ul\"><li> 7500 Gears Credits (enough to fast forward your multiplayer career or create some racing cars from scratch)<br></li><li> 3 Special Deluxe Founder racing cars (super fast 60PI cars, 1 legend car, 1 classic car and 1 formula car, exclusive to this offer, also give you access to reserved events!)</li></ul>",
   "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/273540/extras/packs_deluxe2.jpg?t=1458553824\" ><br><br>This DLC includes:<br><ul class=\"bb_ul\"><li> 7500 Gears Credits (enough to fast forward your multiplayer career or create some racing cars from scratch)<br></li><li> 3 Special Deluxe Founder racing cars (super fast 60PI cars, 1 legend car, 1 classic car and 1 formula car, exclusive to this offer, also give you access to reserved events!)</li></ul>",
-  "short_description": "",
+  "short_description": "This DLC includes: 7500 Gears Credits (enough to fast forward your multiplayer career or create some racing cars from scratch) 3 Special Deluxe Founder racing cars (super fast 60PI cars, 1 legend car, 1 classic car and 1 formula car, exclusive to this offer, also give you access to reserved events!",
   "fullgame": {
     "appid": "264120",
     "name": "Victory: The Age of Racing"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     36937
@@ -148,5 +150,9 @@
     "url": "http://victorythegame.com/support",
     "email": "support@vaevictis.it"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/273540/page_bg_generated_v6b.jpg?t=1458553824"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/273540/page_bg_generated_v6b.jpg?t=1458553824",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

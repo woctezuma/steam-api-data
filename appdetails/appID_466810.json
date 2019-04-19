@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     102646
@@ -156,7 +158,7 @@
     }
   ],
   "recommendations": {
-    "total": 241
+    "total": 242
   },
   "achievements": {
     "total": 14,
@@ -211,5 +213,9 @@
     "url": "http://www.nvlmaker.net/saltytata/",
     "email": "info@nvlsoft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466810/page_bg_generated_v6b.jpg?t=1501492047"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466810/page_bg_generated_v6b.jpg?t=1501492047",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

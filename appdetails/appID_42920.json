@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     6454,
@@ -77,7 +79,7 @@
   },
   "metacritic": {
     "score": 71,
-    "url": "http://www.metacritic.com/game/pc/the-kings-crusade?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/the-kings-crusade?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -177,8 +179,8 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/42920/ss_8855f2e99717094748fb54836a243970c84f04b3.1920x1080.jpg?t=1447353607"
     }
   ],
-  "recommendations": {
-    "total": 111
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -188,5 +190,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42920/page_bg_generated_v6b.jpg?t=1447353607"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42920/page_bg_generated_v6b.jpg?t=1447353607",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

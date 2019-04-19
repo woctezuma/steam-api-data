@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Zombie Orpheus Entertainment and Dead Gentlemen Productions continue the epic and hilarious story of dyslexic wizard Perf and his attempt to rid himself of a sword of prophecy that has brought down assassins, barbarian kings, and severe bad breath upon him and his party. Featuring guests stars Fran Kranz (Cabin in the Woods) and Bob Sapp (Conan), this movie-length cut of Season Two increases the stakes, the humor, and the humanity that made JourneyQuest a worldwide cult hit.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Zombie Orpheus Entertainment and Dead Gentlemen Productions continue the epic and hilarious story of dyslexic wizard Perf and his attempt to rid himself of a sword of prophecy that has brought down assassins, barbarian kings, and severe bad breath upon him and his party. Featuring guests stars Fran Kranz (Cabin in the Woods) and Bob Sapp (Conan), this movie-length cut of Season Two increases the stakes, the humor, and the humanity that made JourneyQuest a worldwide cult hit.",
   "about_the_game": "Zombie Orpheus Entertainment and Dead Gentlemen Productions continue the epic and hilarious story of dyslexic wizard Perf and his attempt to rid himself of a sword of prophecy that has brought down assassins, barbarian kings, and severe bad breath upon him and his party. Featuring guests stars Fran Kranz (Cabin in the Woods) and Bob Sapp (Conan), this movie-length cut of Season Two increases the stakes, the humor, and the humanity that made JourneyQuest a worldwide cult hit.",
   "short_description": "The epic story of the journey\u2026 uh, the quest\u2026 that is, uh, the JourneyQuest! - continues in this feature cut of the acclaimed second season. Joined by guest stars Fran Kranz (Cabin in the Woods) and Bob Sapp (Conan), our heroes must escape from a mysterious assassin and survive the City of the Dead.",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     93501,
@@ -156,6 +158,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Feb, 2016"
@@ -164,5 +169,9 @@
     "url": "http://www.zombieorpheus.com/contact",
     "email": "support+jq2@zombieorpheus.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/441540/page_bg_generated_v6b.jpg?t=1455647076"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/441540/page_bg_generated_v6b.jpg?t=1455647076",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

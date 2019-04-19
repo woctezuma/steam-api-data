@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     76671,
@@ -73,7 +75,7 @@
   },
   "metacritic": {
     "score": 77,
-    "url": "http://www.metacritic.com/game/pc/lords-of-the-realm-ii?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/lords-of-the-realm-ii?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -136,7 +138,10 @@
     }
   ],
   "recommendations": {
-    "total": 347
+    "total": 392
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -146,5 +151,9 @@
     "url": "http://www.rebellion.co.uk/support",
     "email": "support@rebellion.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/397350/page_bg_generated_v6b.jpg?t=1478600158"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/397350/page_bg_generated_v6b.jpg?t=1478600158",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

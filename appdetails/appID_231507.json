@@ -11,7 +11,7 @@
     "appid": "231430",
     "name": "Company of Heroes 2"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish<strong>*</strong>, Czech, Polish<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech, Polish<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/231507/header.jpg?t=1521805110",
   "website": "http://www.companyofheroes.com/",
   "pc_requirements": {
@@ -41,7 +41,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     30552
@@ -121,6 +123,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/231507/ss_2f24e9003fb8febc5bc6d22c225642aba32be797.1920x1080.jpg?t=1521805110"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Aug, 2013"
@@ -129,5 +134,9 @@
     "url": "https://support.sega.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/231507/page_bg_generated_v6b.jpg?t=1521805110"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/231507/page_bg_generated_v6b.jpg?t=1521805110",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

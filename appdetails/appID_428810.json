@@ -12,21 +12,21 @@
     "name": "3DMark"
   },
   "supported_languages": "English, Russian, Simplified Chinese, German",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/428810/header.jpg?t=1499923569",
-  "website": "http://www.futuremark.com/benchmarks/vrmark",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/428810/header.jpg?t=1529576330",
+  "website": "https://benchmarks.ul.com/vrmark",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows 7*<br>\t</li><li><strong>Processor:</strong>1.8 GHz dual-core<br>\t</li><li><strong>Graphics:</strong>DirectX 11<br>\t</li><li><strong>Storage:</strong>6 GB free space</li></ul><br><strong>For systems with a discrete graphics card</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong>2 GB RAM and 1 GB video card memory</li></ul><br><strong>For systems with integrated graphics</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong>3 GB RAM</li></ul><br>* Windows 7 users must install Service Pack 1."
   },
   "mac_requirements": [],
   "linux_requirements": [],
   "developers": [
-    "Futuremark"
+    "UL"
   ],
   "publishers": [
-    ""
+    "UL"
   ],
   "packages": [
-    114165
+    323175
   ],
   "package_groups": [
     {
@@ -39,14 +39,14 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": 114165,
+          "packageid": 323175,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "3DMark - 27,99\u20ac",
+          "option_text": "3DMark - 24,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2799
+          "price_in_cents_with_discount": 2499
         }
       ]
     }
@@ -79,27 +79,34 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_b440c14f84221a05d701a8f19df6c32383735522.600x338.jpg?t=1499923569",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_b440c14f84221a05d701a8f19df6c32383735522.1920x1080.jpg?t=1499923569"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_b440c14f84221a05d701a8f19df6c32383735522.600x338.jpg?t=1529576330",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_b440c14f84221a05d701a8f19df6c32383735522.1920x1080.jpg?t=1529576330"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_9656dbc896fb1c03e47bd104d98faf3a2fc3a953.600x338.jpg?t=1499923569",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_9656dbc896fb1c03e47bd104d98faf3a2fc3a953.1920x1080.jpg?t=1499923569"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_9656dbc896fb1c03e47bd104d98faf3a2fc3a953.600x338.jpg?t=1529576330",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_9656dbc896fb1c03e47bd104d98faf3a2fc3a953.1920x1080.jpg?t=1529576330"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_c28424855977ed58e9df204c6ad2286125ed1e9c.600x338.jpg?t=1499923569",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_c28424855977ed58e9df204c6ad2286125ed1e9c.1920x1080.jpg?t=1499923569"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_c28424855977ed58e9df204c6ad2286125ed1e9c.600x338.jpg?t=1529576330",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/428810/ss_c28424855977ed58e9df204c6ad2286125ed1e9c.1920x1080.jpg?t=1529576330"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Dec, 2015"
   },
   "support_info": {
-    "url": "http://www.futuremark.com/support",
+    "url": "https://benchmarks.ul.com/support",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/428810/page_bg_generated_v6b.jpg?t=1499923569"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/428810/page_bg_generated_v6b.jpg?t=1529576330",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     52127,
@@ -76,7 +78,7 @@
   },
   "metacritic": {
     "score": 85,
-    "url": "http://www.metacritic.com/game/pc/crimzon-clover-world-ignition?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/crimzon-clover-world-ignition?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -159,6 +161,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/326310/ss_1b5a09f98778bb95496e1889a3409ccb0e2b909f.1920x1080.jpg?t=1447363967"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 May, 2015"
@@ -167,5 +172,9 @@
     "url": "http://degigames.com/support",
     "email": "cs-row@degica.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/326310/page_bg_generated_v6b.jpg?t=1447363967"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/326310/page_bg_generated_v6b.jpg?t=1447363967",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

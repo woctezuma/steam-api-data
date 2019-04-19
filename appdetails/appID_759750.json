@@ -4,10 +4,10 @@
   "steam_appid": 759750,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<h1>Play For Free</h1><p><a href=\"http://store.steampowered.com/app/625430\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/625430</a></a></p><br><h1>Check Out More Doodle Games</h1><p><a href=\"http://store.steampowered.com/app/598940\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >http://store.steampowered.com/app/598940</a></a><br><a href=\"http://store.steampowered.com/app/608760\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_2\" >http://store.steampowered.com/app/608760</a></a><br><a href=\"http://store.steampowered.com/app/538060/\" target=\"_blank\" rel=\"noreferrer\"  >http://store.steampowered.com/app/538060/</a></a></p><br><h1>Dikobraz Games</h1><p><a href=\"http://store.steampowered.com/app/696710/\" target=\"_blank\" rel=\"noreferrer\"  >http://store.steampowered.com/app/696710/</a></a><br><a href=\"http://store.steampowered.com/app/679820\" target=\"_blank\" rel=\"noreferrer\"  >http://store.steampowered.com/app/679820</a></a></p><br><h1>And more...</h1><p><a href=\"http://store.steampowered.com/app/431640/\" target=\"_blank\" rel=\"noreferrer\"  >http://store.steampowered.com/app/431640/</a></a></p><br><h1>About the Game</h1>Imagine you've been given the chance to start everything over again, create your own planet, and fill it with living creatures, forests, rivers... Build roads and entire cities! Invent electricity and the internet! Think up music and the oatmeal cookie! Here you'll find the dream constructor for any true Creator. Start with the basic elements \u2014 water, air, earth and fire \u2014 and create the world of your dreams!",
+  "detailed_description": "<h1>Play For Free</h1><p><a href=\"http://store.steampowered.com/app/625430\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/625430</a></p><br><h1>Check Out More Doodle Games</h1><p><a href=\"http://store.steampowered.com/app/598940\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >http://store.steampowered.com/app/598940</a><br><a href=\"http://store.steampowered.com/app/608760\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_2\" >http://store.steampowered.com/app/608760</a><br><a href=\"http://store.steampowered.com/app/538060/\" target=\"_blank\" rel=\"noreferrer\"  >http://store.steampowered.com/app/538060/</a></p><br><h1>Dikobraz Games</h1><p><a href=\"http://store.steampowered.com/app/696710/\" target=\"_blank\" rel=\"noreferrer\"  >http://store.steampowered.com/app/696710/</a><br><a href=\"http://store.steampowered.com/app/679820\" target=\"_blank\" rel=\"noreferrer\"  >http://store.steampowered.com/app/679820</a></p><br><h1>And more...</h1><p><a href=\"http://store.steampowered.com/app/431640/\" target=\"_blank\" rel=\"noreferrer\"  >http://store.steampowered.com/app/431640/</a></p><br><h1>About the Game</h1>Imagine you've been given the chance to start everything over again, create your own planet, and fill it with living creatures, forests, rivers... Build roads and entire cities! Invent electricity and the internet! Think up music and the oatmeal cookie! Here you'll find the dream constructor for any true Creator. Start with the basic elements \u2014 water, air, earth and fire \u2014 and create the world of your dreams!",
   "about_the_game": "Imagine you've been given the chance to start everything over again, create your own planet, and fill it with living creatures, forests, rivers... Build roads and entire cities! Invent electricity and the internet! Think up music and the oatmeal cookie! Here you'll find the dream constructor for any true Creator. Start with the basic elements \u2014 water, air, earth and fire \u2014 and create the world of your dreams!",
   "short_description": "Short experimental puzzle game, based on Doodle God alchemy mechanics.",
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Portuguese<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/759750/header.jpg?t=1516984212",
   "website": "http://joybits.org/",
   "pc_requirements": {
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     224359
@@ -122,6 +124,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Jan, 2018"
@@ -130,5 +135,9 @@
     "url": "",
     "email": "support@joybits.org"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/759750/page_bg_generated_v6b.jpg?t=1516984212"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/759750/page_bg_generated_v6b.jpg?t=1516984212",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

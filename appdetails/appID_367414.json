@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<strong>Fairy Fencer F: Ultimate Armor Pack</strong> includes <strong>Divine Jewelry</strong>, <strong>Armor Supreme</strong>, and <strong>The Ultimate Armor</strong>.<br><br><u>Divine Jewelry!</u><br>Adds Chosen One's Ring to your inventory. With this powerful accessory, you'll rule them all!<br><br><u>Armor Supreme!</u><br>Adds Valkyrie's Armor to your inventory. Bolster your defenses with this powerful armor! Can only be worn by women.<br><br><u>The Ultimate Armor!</u><br>Adds Overlord's Armor to your inventory. Bolster your defenses with this powerful armor! Can only be worn by men.",
   "about_the_game": "<strong>Fairy Fencer F: Ultimate Armor Pack</strong> includes <strong>Divine Jewelry</strong>, <strong>Armor Supreme</strong>, and <strong>The Ultimate Armor</strong>.<br><br><u>Divine Jewelry!</u><br>Adds Chosen One's Ring to your inventory. With this powerful accessory, you'll rule them all!<br><br><u>Armor Supreme!</u><br>Adds Valkyrie's Armor to your inventory. Bolster your defenses with this powerful armor! Can only be worn by women.<br><br><u>The Ultimate Armor!</u><br>Adds Overlord's Armor to your inventory. Bolster your defenses with this powerful armor! Can only be worn by men.",
-  "short_description": "<strong>Fairy Fencer F: Ultimate Armor Pack</strong> includes <strong>Divine Jewelry</strong>, <strong>Armor Supreme</strong>, and <strong>The Ultimate Armor</strong>.",
+  "short_description": "Fairy Fencer F: Ultimate Armor Pack includes Divine Jewelry, Armor Supreme, and The Ultimate Armor.",
   "fullgame": {
     "appid": "347830",
     "name": "Fairy Fencer F"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     66571
@@ -169,6 +171,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/367414/ss_172cdb72e7893ebabb1cb088bc38dfa5b099d867.1920x1080.jpg?t=1466718008"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Aug, 2015"
@@ -177,5 +182,9 @@
     "url": "http://www.ideafintl.com",
     "email": "support@ideafintl.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367414/page_bg_generated_v6b.jpg?t=1466718008"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367414/page_bg_generated_v6b.jpg?t=1466718008",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

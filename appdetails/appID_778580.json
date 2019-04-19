@@ -5,14 +5,14 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "Trinity is a immersive and atmospheric first person game where you have to use your wit and the abilities available to understand and solve every room. <br />\r\nThe game is set in a surrealistic universe with every level being base around theme as much as in their stucture as in their aesthetic and the player will live a spiritual journey throughout life and will face challenging puzzle with an fps/puzzle mechanic never seen before.<br />\r\n<br />\r\nAre you ready to live the experience which is Trinity?",
-  "about_the_game": "Trinity is a immersive and atmospheric first person game where you have to use your wit and the abilities available to understand and solve every room. <br />\r\nThe game is set in a surrealistic universe with every level being base around theme as much as in their stucture as in their aesthetic and the player will live a spiritual journey throughout life and will face challenging puzzle with an fps/puzzle mechanic never seen before.<br />\r\n<br />\r\nAre you ready to live the experience which is Trinity?",
-  "short_description": "- An innovation fps/puzzle<br />\r\n- An engaging experience with a beautiful and interesting artistic direction.<br />\r\n- a dozen of well thought levels that will keep you fascinated during an afternoon... and maybe for a while after.",
-  "supported_languages": "English<strong>*</strong>, French, Spanish, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/778580/header.jpg?t=1521219041",
+  "detailed_description": "Trinity is an atmospheric FPS/puzzle game set in a mysterious and surrealistic universe. In this game, you have the ability to give differents properties to platform to help the player navigate throught complex environment. This core mechanic will guide you in your journey and you will travel through a dozen of different levels about life and death and you will solve many puzzles that will challenge your logic while offering an engaging and immersive experience.<br />\r\n<br />\r\n- An innovating FPS/puzzle<br />\r\n- An engaging experience with a beautiful and interesting artistic direction.<br />\r\n- More that forty well thought puzzles that will challenge your skill.",
+  "about_the_game": "Trinity is an atmospheric FPS/puzzle game set in a mysterious and surrealistic universe. In this game, you have the ability to give differents properties to platform to help the player navigate throught complex environment. This core mechanic will guide you in your journey and you will travel through a dozen of different levels about life and death and you will solve many puzzles that will challenge your logic while offering an engaging and immersive experience.<br />\r\n<br />\r\n- An innovating FPS/puzzle<br />\r\n- An engaging experience with a beautiful and interesting artistic direction.<br />\r\n- More that forty well thought puzzles that will challenge your skill.",
+  "short_description": "Trinity is a challenging fps/puzzle set in a surrealistic universe.",
+  "supported_languages": "English<strong>*</strong>, French, Spanish - Spain, Japanese, Russian, Simplified Chinese, Portuguese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/778580/header.jpg?t=1536965510",
   "website": "http://tdfrancis.design/TrinityGame.html",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Window 7, Window 8, windot 8.1, Window 10<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5-7200U<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> geForce 1040 gt or higher<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> Integrated</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Window 7, Window 8, windot 8.1, Window 10<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5-7200U<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> geForce 1030 gt or higher<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> Integrated</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -22,7 +22,46 @@
   "publishers": [
     "Maelstrom Rabbit"
   ],
-  "package_groups": [],
+  "demos": [
+    {
+      "appid": 897130,
+      "description": ""
+    }
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
+  },
+  "packages": [
+    234194
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Trinity",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 234194,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Trinity - 3,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 399
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -36,6 +75,10 @@
     {
       "id": 28,
       "description": "Full controller support"
+    },
+    {
+      "id": 23,
+      "description": "Steam Cloud"
     }
   ],
   "genres": [
@@ -55,49 +98,53 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_1eb0c539351818b3d206ab30f59c233620528d26.600x338.jpg?t=1521219041",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_1eb0c539351818b3d206ab30f59c233620528d26.1920x1080.jpg?t=1521219041"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_1eb0c539351818b3d206ab30f59c233620528d26.600x338.jpg?t=1536965510",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_1eb0c539351818b3d206ab30f59c233620528d26.1920x1080.jpg?t=1536965510"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_00e94022511d977ca6426d966dc15651b8671246.600x338.jpg?t=1521219041",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_00e94022511d977ca6426d966dc15651b8671246.1920x1080.jpg?t=1521219041"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_00e94022511d977ca6426d966dc15651b8671246.600x338.jpg?t=1536965510",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_00e94022511d977ca6426d966dc15651b8671246.1920x1080.jpg?t=1536965510"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_602f12786150297e1366f8242565b0e6e20fb916.600x338.jpg?t=1521219041",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_602f12786150297e1366f8242565b0e6e20fb916.1920x1080.jpg?t=1521219041"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_602f12786150297e1366f8242565b0e6e20fb916.600x338.jpg?t=1536965510",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_602f12786150297e1366f8242565b0e6e20fb916.1920x1080.jpg?t=1536965510"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_91d83b1d75e7575ebca8217c8d0744ea3a0b4591.600x338.jpg?t=1521219041",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_91d83b1d75e7575ebca8217c8d0744ea3a0b4591.1920x1080.jpg?t=1521219041"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_988ce39399a25347cda1a18cf033c6d0eb15c265.600x338.jpg?t=1536965510",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_988ce39399a25347cda1a18cf033c6d0eb15c265.1920x1080.jpg?t=1536965510"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_988ce39399a25347cda1a18cf033c6d0eb15c265.600x338.jpg?t=1521219041",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_988ce39399a25347cda1a18cf033c6d0eb15c265.1920x1080.jpg?t=1521219041"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_ddc4378ba38292f6b932a1c6df0f7fcb0bb747ba.600x338.jpg?t=1536965510",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/778580/ss_ddc4378ba38292f6b932a1c6df0f7fcb0bb747ba.1920x1080.jpg?t=1536965510"
     }
   ],
   "movies": [
     {
       "id": 256705112,
-      "name": "Trinity First Trailer",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256705112/movie.293x165.jpg?t=1515788939",
+      "name": "Trinity Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256705112/movie.293x165.jpg?t=1536750189",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256705112/movie480.webm?t=1515788939",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256705112/movie_max.webm?t=1515788939"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256705112/movie480.webm?t=1536750189",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256705112/movie_max.webm?t=1536750189"
       },
       "highlight": true
     }
   ],
   "release_date": {
-    "coming_soon": true,
-    "date": "Aug 2018"
+    "coming_soon": false,
+    "date": "12 Sep, 2018"
   },
   "support_info": {
     "url": "https://www.facebook.com/TrinityGame/",
-    "email": ""
+    "email": "maelstromrabbitstudio@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/778580/page_bg_generated_v6b.jpg?t=1521219041"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/778580/page_bg_generated_v6b.jpg?t=1536965510",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

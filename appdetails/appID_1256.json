@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The Outbreak Character Pack adds 4 new and unique playable characters for Killing Floor as Downloadable Content. Once you have bought the pack, they will become selectable in the character selection screen in-game.\n                    <p><img src=\"http://storefront.steampowered.com/v/gfx/apps/1256/extras/Wilkes.jpg\" align=\"left\"><strong>Agent Wilkes:</strong> <font color=\"#808080\">Publicly, Horzine Industries was hard at work fulfilling an MOD contract to develop the world's most advanced combat armor. Privately, they were cloning a subterranean army of violent and unfortunate looking servants. As Wilkes will testify, having found and liberated their Mark 7 suit, they were great at multitasking.</font></p>\n                    <p><img src=\"http://storefront.steampowered.com/v/gfx/apps/1256/extras/Ted.jpg\" align=\"left\"><strong>Foundry Worker Aldridge:</strong> <font color=\"#808080\">When you're being paid more than three times the expected salary for unskilled labor, you learn not to ask questions. When inhuman screams can be heard from further down the assembly line, you close the door and take lunch break. When the door flies off its hinges and a mangled combination of man and machine comes charging in - lunch break is over.</font></p>\n                    <p><img src=\"http://storefront.steampowered.com/v/gfx/apps/1256/extras/DJScully.jpg\" align=\"left\"><strong>DJ Scully:</strong> <font color=\"#808080\">DJ Scully was AWOL from the military and spending his nights in the London underground spinning dark drum and bass, working under the table for the many clubs in London. During one of his sets he witnessed all his fans get shredded to pieces by a giant creature with flesh blenders for hands. These unfortunate events have thrust him back into the combat he was running away from.</font></p>\n                    <p><img src=\"http://storefront.steampowered.com/v/gfx/apps/1256/extras/DrGlover.jpg\" align=\"left\"><strong>Dr. Gary Glover:</strong> <font color=\"#808080\">As one of the only survivors from the Horzine Biotics Labs staff, Dr. Glover had a major hand in creating the horror that is now tearing London apart. As hard as he tries, he can't put this genie back in the bottle - not even with a double barreled shotgun.</font></p>",
   "about_the_game": "The Outbreak Character Pack adds 4 new and unique playable characters for Killing Floor as Downloadable Content. Once you have bought the pack, they will become selectable in the character selection screen in-game.\n                    <p><img src=\"http://storefront.steampowered.com/v/gfx/apps/1256/extras/Wilkes.jpg\" align=\"left\"><strong>Agent Wilkes:</strong> <font color=\"#808080\">Publicly, Horzine Industries was hard at work fulfilling an MOD contract to develop the world's most advanced combat armor. Privately, they were cloning a subterranean army of violent and unfortunate looking servants. As Wilkes will testify, having found and liberated their Mark 7 suit, they were great at multitasking.</font></p>\n                    <p><img src=\"http://storefront.steampowered.com/v/gfx/apps/1256/extras/Ted.jpg\" align=\"left\"><strong>Foundry Worker Aldridge:</strong> <font color=\"#808080\">When you're being paid more than three times the expected salary for unskilled labor, you learn not to ask questions. When inhuman screams can be heard from further down the assembly line, you close the door and take lunch break. When the door flies off its hinges and a mangled combination of man and machine comes charging in - lunch break is over.</font></p>\n                    <p><img src=\"http://storefront.steampowered.com/v/gfx/apps/1256/extras/DJScully.jpg\" align=\"left\"><strong>DJ Scully:</strong> <font color=\"#808080\">DJ Scully was AWOL from the military and spending his nights in the London underground spinning dark drum and bass, working under the table for the many clubs in London. During one of his sets he witnessed all his fans get shredded to pieces by a giant creature with flesh blenders for hands. These unfortunate events have thrust him back into the combat he was running away from.</font></p>\n                    <p><img src=\"http://storefront.steampowered.com/v/gfx/apps/1256/extras/DrGlover.jpg\" align=\"left\"><strong>Dr. Gary Glover:</strong> <font color=\"#808080\">As one of the only survivors from the Horzine Biotics Labs staff, Dr. Glover had a major hand in creating the horror that is now tearing London apart. As hard as he tries, he can't put this genie back in the bottle - not even with a double barreled shotgun.</font></p>",
-  "short_description": "",
+  "short_description": "The Outbreak Character Pack adds 4 new and unique playable characters for Killing Floor as Downloadable Content. Once you have bought the pack, they will become selectable in the character selection screen in-game.",
   "fullgame": {
     "appid": "1250",
     "name": "Killing Floor"
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     1886,
@@ -57,11 +59,11 @@
           "packageid": 52349,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Killing Floor - Character Pack Bundle - 27,99\u20ac",
+          "option_text": "Killing Floor - Character Pack Bundle - 24,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2799
+          "price_in_cents_with_discount": 2499
         }
       ]
     }
@@ -122,6 +124,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1256/ss_3804d6940120dcea107e72a8b2f3ac803e852ce7.1920x1080.jpg?t=1447352357"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Jul, 2009"
@@ -130,5 +135,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1256/page_bg_generated_v6b.jpg?t=1447352357"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1256/page_bg_generated_v6b.jpg?t=1447352357",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

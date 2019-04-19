@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 90,
+    "initial_formatted": "3,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     102708
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 102708,
-          "percent_savings_text": "",
+          "percent_savings_text": "-90%",
           "percent_savings": 0,
-          "option_text": "Insincere - 3,99\u20ac",
+          "option_text": "Insincere - <span class=\"discount_original_price\">3,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -158,7 +160,10 @@
     }
   ],
   "recommendations": {
-    "total": 193
+    "total": 121
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -168,5 +173,9 @@
     "url": "www.newrealitygames.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467000/page_bg_generated_v6b.jpg?t=1505857271"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467000/page_bg_generated_v6b.jpg?t=1505857271",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

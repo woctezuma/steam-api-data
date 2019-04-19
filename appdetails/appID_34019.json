@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Loyalty carries a price and no one knows this more than agent Michael Thorton. A talented young agent cast out by his government, Thorton is the only one with the information needed to stop an impending international catastrophe.  To do so means he must cut himself off from the very people he is sworn to protect.  As players determine how to accomplish different objectives, the decisions made and actions taken in each mission will ultimately transform the type of secret agent Michael Thorton will become.  Every choice the player makes as Michael Thorton will carry consequences for his future and the fate of the world.",
   "about_the_game": "Loyalty carries a price and no one knows this more than agent Michael Thorton. A talented young agent cast out by his government, Thorton is the only one with the information needed to stop an impending international catastrophe.  To do so means he must cut himself off from the very people he is sworn to protect.  As players determine how to accomplish different objectives, the decisions made and actions taken in each mission will ultimately transform the type of secret agent Michael Thorton will become.  Every choice the player makes as Michael Thorton will carry consequences for his future and the fate of the world.",
-  "short_description": "",
+  "short_description": "Loyalty carries a price and no one knows this more than agent Michael Thorton. A talented young agent cast out by his government, Thorton is the only one with the information needed to stop an impending international catastrophe. To do so means he must cut himself off from the very people he is sworn to protect.",
   "supported_languages": "English, French, German, Italian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/34010/header.jpg?t=1521734862",
   "website": "http://www.alphaprotocol.com",
@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1499,
-    "final": 374,
-    "discount_percent": 75
+    "final": 1499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     4437
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 4437,
-          "percent_savings_text": "-75%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Alpha Protocol - <span class=\"discount_original_price\">14,99\u20ac</span> 3,74\u20ac",
+          "option_text": "Alpha Protocol - 14,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 374
+          "price_in_cents_with_discount": 1499
         }
       ]
     }
@@ -61,7 +63,7 @@
   },
   "metacritic": {
     "score": 72,
-    "url": "http://www.metacritic.com/game/pc/alpha-protocol?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/alpha-protocol?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -132,7 +134,10 @@
     }
   ],
   "recommendations": {
-    "total": 3474
+    "total": 2689
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -142,5 +147,9 @@
     "url": "https://support.sega.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/34010/page_bg_generated_v6b.jpg?t=1521734862"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/34010/page_bg_generated_v6b.jpg?t=1521734862",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

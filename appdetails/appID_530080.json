@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     127512
@@ -147,5 +149,9 @@
     "url": "",
     "email": "admin@supertoaster-x.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/530080/page_bg_generated_v6b.jpg?t=1485094942"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/530080/page_bg_generated_v6b.jpg?t=1485094942",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

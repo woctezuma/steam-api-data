@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     40119
@@ -119,7 +121,10 @@
     }
   ],
   "recommendations": {
-    "total": 127
+    "total": 109
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -129,5 +134,9 @@
     "url": "",
     "email": "support@pro-pinball.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/287900/page_bg_generated_v6b.jpg?t=1469117047"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/287900/page_bg_generated_v6b.jpg?t=1469117047",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

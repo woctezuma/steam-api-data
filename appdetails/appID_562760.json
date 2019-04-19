@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     141512
@@ -121,6 +123,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Feb, 2017"
@@ -129,5 +134,9 @@
     "url": "www.fourinonunion.com",
     "email": "contact@fourinonunion.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562760/page_bg_generated_v6b.jpg?t=1519134100"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562760/page_bg_generated_v6b.jpg?t=1519134100",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

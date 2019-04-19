@@ -12,7 +12,7 @@
     "name": "MapleStory"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/753700/header.jpg?t=1522179922",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/753700/header.jpg?t=1554149557",
   "website": "http://maplestory.nexon.net/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows 7 or later<br>\t</li><li><strong>Processor:</strong>Intel Core Duo 2.4Ghz / AMD Athlon 64 X2 2.4Ghz <br>\t</li><li><strong>Memory:</strong>2GB RAM <br>\t</li><li><strong>Graphics:</strong>GeForce 8600 GH / ATI Radeon HD 3450<br>\t</li><li><strong>Hard Drive:</strong>At least 14GB of free space <br>\t</li><li><strong>Sound:</strong>DirectX 9.0 or higher compatible sound card <br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection<br>\t</li><li><i>We recommend that you install DirectX version 9.0 or higher for the client to run smoothly</i></li></ul>",
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     221695
@@ -111,10 +113,33 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753700/ss_71cf8e1b40279e0a7c7cc07081cd33a9905dcbb0.600x338.jpg?t=1522179922",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753700/ss_71cf8e1b40279e0a7c7cc07081cd33a9905dcbb0.1920x1080.jpg?t=1522179922"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753700/ss_e05356e6cef4e113c4156b2204acd0bf6731704a.600x338.jpg?t=1554149557",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753700/ss_e05356e6cef4e113c4156b2204acd0bf6731704a.1920x1080.jpg?t=1554149557"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753700/ss_c34d9c420d95e6b47b3410958dc5118d12173422.600x338.jpg?t=1554149557",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753700/ss_c34d9c420d95e6b47b3410958dc5118d12173422.1920x1080.jpg?t=1554149557"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753700/ss_70f89a548a4690efb07d7f5b714e45b0f94e7f6d.600x338.jpg?t=1554149557",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753700/ss_70f89a548a4690efb07d7f5b714e45b0f94e7f6d.1920x1080.jpg?t=1554149557"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753700/ss_bbd96f99967be6b27c52409134989ee0d812eaab.600x338.jpg?t=1554149557",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753700/ss_bbd96f99967be6b27c52409134989ee0d812eaab.1920x1080.jpg?t=1554149557"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/753700/ss_fecc8047c8ad3517e0f2c16af2945035c32dfd24.600x338.jpg?t=1554149557",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/753700/ss_fecc8047c8ad3517e0f2c16af2945035c32dfd24.1920x1080.jpg?t=1554149557"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Dec, 2017"
@@ -123,5 +148,9 @@
     "url": "http://support.maplestory.nexon.net",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/753700/page_bg_generated_v6b.jpg?t=1522179922"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/753700/page_bg_generated_v6b.jpg?t=1554149557",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

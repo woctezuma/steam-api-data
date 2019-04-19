@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Take your Nep adventure to the NEXT level with the Megadimension Neptunia\u2122 VII Deluxe Set!<br><br>Megadimension Neptunia\u2122 VII Deluxe Set includes:<br><ul class=\"bb_ul\"><li>43-page Megadimension Neptunia\u2122 VII Digital Art Book<br></li><li>7 Nep-tastic wallpapers<br></li><li>45 track OST, including opening and ending tracks<br></li><li>Track list and digital lyrics sheet</li></ul><br>*Can be found in the &quot;Deluxe Set&quot; folder in the game's root directory folder",
   "about_the_game": "Take your Nep adventure to the NEXT level with the Megadimension Neptunia\u2122 VII Deluxe Set!<br><br>Megadimension Neptunia\u2122 VII Deluxe Set includes:<br><ul class=\"bb_ul\"><li>43-page Megadimension Neptunia\u2122 VII Digital Art Book<br></li><li>7 Nep-tastic wallpapers<br></li><li>45 track OST, including opening and ending tracks<br></li><li>Track list and digital lyrics sheet</li></ul><br>*Can be found in the &quot;Deluxe Set&quot; folder in the game's root directory folder",
-  "short_description": "Take your Nep adventure to the NEXT level with the Megadimension Neptunia\u2122 VII Deluxe Set! Requires <a href=\"http://store.steampowered.com/app/460120\" target=\"_blank\" rel=\"noreferrer\"  >Megadimension Neptunia\u2122 VII</a></a> to run.",
+  "short_description": "Take your Nep adventure to the NEXT level with the Megadimension Neptunia\u2122 VII Deluxe Set! Requires Megadimension Neptunia\u2122 VII to run.",
   "fullgame": {
     "appid": "460120",
     "name": "Megadimension Neptunia VII"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     110106
@@ -139,6 +141,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/488340/ss_86cfafc1ce0c1ff65275822c09a9f88e1ab27979.1920x1080.jpg?t=1467748552"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jul, 2016"
@@ -147,5 +152,9 @@
     "url": "http://ideafintl.com/contact.php",
     "email": "pcsupport@ideafintl.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/488340/page_bg_generated_v6b.jpg?t=1467748552"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/488340/page_bg_generated_v6b.jpg?t=1467748552",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

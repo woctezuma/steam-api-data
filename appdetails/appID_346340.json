@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     59392
@@ -45,11 +47,11 @@
           "packageid": 59392,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Gran Vitreous - 4,99\u20ac",
+          "option_text": "Gran Vitreous - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -246,5 +248,9 @@
     "url": "heliocentricstudios.com",
     "email": "support@heliocentricstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/346340/page_bg_generated_v6b.jpg?t=1447368126"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/346340/page_bg_generated_v6b.jpg?t=1447368126",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

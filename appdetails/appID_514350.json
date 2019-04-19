@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Destroy the bottle in a beautiful coffee shop. Twenty different level waiting their challenger. <br />\r\nDestroy them all through the slingshot in your hand!<br />\r\nAll the bottle in the games can be Destroy . <br />\r\nTurn around to change mode between Challenge and practice.",
   "about_the_game": "Destroy the bottle in a beautiful coffee shop. Twenty different level waiting their challenger. <br />\r\nDestroy them all through the slingshot in your hand!<br />\r\nAll the bottle in the games can be Destroy . <br />\r\nTurn around to change mode between Challenge and practice.",
-  "short_description": "Destroy the bottle in a beautiful coffee shop. Twenty different level waiting their challenger. <br />\r\nDestroy them all through the slingshot in your hand!<br />\r\nAll the bottle in the games can be Destroy . <br />\r\nTurn around to change mode between Challenge and practice.",
+  "short_description": "Destroy the bottle in a beautiful coffee shop. Twenty different level waiting their challenger. Destroy them all through the slingshot in your hand! All the bottle in the games can be Destroy . Turn around to change mode between Challenge and practice.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/514350/header.jpg?t=1471572507",
   "website": "http://www.hashvr.com/",
@@ -25,10 +25,13 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    119985
+    119985,
+    285431
   ],
   "package_groups": [
     {
@@ -45,6 +48,16 @@
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Sling Shot - 0,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 99
+        },
+        {
+          "packageid": 285431,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Fancy Slingshot VR - Commercial License - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -117,6 +130,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Aug, 2016"
@@ -125,5 +141,9 @@
     "url": "http://www.hashvr.com/",
     "email": "master@hashvr.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/514350/page_bg_generated_v6b.jpg?t=1471572507"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/514350/page_bg_generated_v6b.jpg?t=1471572507",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

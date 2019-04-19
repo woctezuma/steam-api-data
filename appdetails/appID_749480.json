@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     220074
@@ -144,6 +146,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Nov, 2017"
@@ -152,5 +157,9 @@
     "url": "https://vk.com/narkogamess",
     "email": "srun142@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/749480/page_bg_generated_v6b.jpg?t=1515406790"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/749480/page_bg_generated_v6b.jpg?t=1515406790",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

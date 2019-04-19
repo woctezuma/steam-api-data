@@ -1,6 +1,6 @@
 {
   "type": "dlc",
-  "name": "Draw Near - Donation",
+  "name": "Donation",
   "steam_appid": 832950,
   "required_age": 0,
   "is_free": false,
@@ -12,7 +12,7 @@
     "name": "Draw Near"
   },
   "supported_languages": "English, Japanese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/832950/header.jpg?t=1522723201",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/832950/header.jpg?t=1547551262",
   "website": "http://omniscience.hateblo.jp/entry/DrawNear",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, 8.1, 10 (64bit Required)</li></ul>",
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     257913
@@ -39,7 +41,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Draw Near - Donation",
+      "title": "Buy Donation",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -50,7 +52,7 @@
           "packageid": 257913,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Draw Near - Donation - 2,99\u20ac",
+          "option_text": "Donation - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -95,8 +97,8 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/832950/ss_75e5851eb2fdd66e91b1e7488be42a9c5d629118.600x338.jpg?t=1522723201",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/832950/ss_75e5851eb2fdd66e91b1e7488be42a9c5d629118.1920x1080.jpg?t=1522723201"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/832950/ss_75e5851eb2fdd66e91b1e7488be42a9c5d629118.600x338.jpg?t=1547551262",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/832950/ss_75e5851eb2fdd66e91b1e7488be42a9c5d629118.1920x1080.jpg?t=1547551262"
     }
   ],
   "release_date": {
@@ -107,5 +109,9 @@
     "url": "http://omniscience.hateblo.jp/entry/CONTACT",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/832950/page_bg_generated_v6b.jpg?t=1522723201"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/832950/page_bg_generated_v6b.jpg?t=1547551262",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "",
   "about_the_game": "",
-  "short_description": "It's time for the first quarter-final match between Ken and Kobe. Ken and Blaze are at a disadvantage since they lost their Astral Fire to Kobe's dirty tricks. How can they hope to keep up in this new mode of competition.  Will the bond between our heroes be strong enough?",
+  "short_description": "It's time for the first quarter-final match between Ken and Kobe. Ken and Blaze are at a disadvantage since they lost their Astral Fire to Kobe's dirty tricks. How can they hope to keep up in this new mode of competition. Will the bond between our heroes be strong enough?",
   "fullgame": {
     "appid": "530400",
     "name": "Battle Disc"
@@ -24,7 +24,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     127711
@@ -71,6 +73,9 @@
       "description": "Captions available"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Oct, 2016"
@@ -79,5 +84,9 @@
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

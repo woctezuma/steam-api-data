@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>After being accused of stealing military secrets, Dr. Demian escapes from custody and expose corruption within the military; but he's pursued by a strike force that operates an experimental robot that he developed.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>After being accused of stealing military secrets, Dr. Demian escapes from custody and expose corruption within the military; but he's pursued by a strike force that operates an experimental robot that he developed.",
   "about_the_game": "After being accused of stealing military secrets, Dr. Demian escapes from custody and expose corruption within the military; but he's pursued by a strike force that operates an experimental robot that he developed.",
   "short_description": "After being accused of stealing military secrets, Dr. Demian escapes from custody and expose corruption within the military; but he's pursued by a strike force that operates an experimental robot that he developed.",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     103943
@@ -130,6 +132,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Jun, 2016"
@@ -138,5 +143,9 @@
     "url": "http://www.eigoMANGA.com",
     "email": "business@eigoMANGA.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/470240/page_bg_generated_v6b.jpg?t=1485763404"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/470240/page_bg_generated_v6b.jpg?t=1485763404",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

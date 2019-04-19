@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Caution: All text is in Japanese.</strong><br>Featuring illustrations, concept work, details about the game, a short story, and developer interviews in a gorgeous, full-colour, 144-page booklet.<br><br><strong>Contents:</strong><br><ul class=\"bb_ul\"><li>Prologue<br></li><li>World<br></li><li>Character<br></li><li>Short Story<br></li><li>System<br></li><li>Staff<br></li><li>Appendix<br></li><li>Postscript</li></ul>",
   "about_the_game": "<strong>Caution: All text is in Japanese.</strong><br>Featuring illustrations, concept work, details about the game, a short story, and developer interviews in a gorgeous, full-colour, 144-page booklet.<br><br><strong>Contents:</strong><br><ul class=\"bb_ul\"><li>Prologue<br></li><li>World<br></li><li>Character<br></li><li>Short Story<br></li><li>System<br></li><li>Staff<br></li><li>Appendix<br></li><li>Postscript</li></ul>",
-  "short_description": "Caution: All text is in Japanese.<br />\r\nFeaturing illustrations, concept work and details about the game in a gorgeous, full-colour, 144 page booklet.",
+  "short_description": "Caution: All text is in Japanese. Featuring illustrations, concept work and details about the game in a gorgeous, full-colour, 144 page booklet.",
   "fullgame": {
     "appid": "435970",
     "name": "RefRain - prism memories -"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     109018
@@ -180,6 +182,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/485010/ss_44a9c71d7468cf6b00e162e5d7ba776e8079947c.1920x1080.jpg?t=1471491977"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Jun, 2016"
@@ -188,5 +193,9 @@
     "url": "",
     "email": "games@degica.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/485010/page_bg_generated_v6b.jpg?t=1471491977"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/485010/page_bg_generated_v6b.jpg?t=1471491977",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

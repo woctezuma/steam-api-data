@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "We need your help to get involved in other projects. That is why we kindly ask for support. Reward will give you access to &quot;Bonus Content&quot;, where you can find:<br><br><ul class=\"bb_ul\"><li>Song lyrics and their listening<br></li><li>Links for downloading songs from Soundcloud<br></li><li>Links to YouTube video clips<br></li><li>And above all a warm feeling of soul and our great thanks :)</li></ul>",
   "about_the_game": "We need your help to get involved in other projects. That is why we kindly ask for support. Reward will give you access to &quot;Bonus Content&quot;, where you can find:<br><br><ul class=\"bb_ul\"><li>Song lyrics and their listening<br></li><li>Links for downloading songs from Soundcloud<br></li><li>Links to YouTube video clips<br></li><li>And above all a warm feeling of soul and our great thanks :)</li></ul>",
-  "short_description": "Support us and gain access to bonus content. Thank you :)",
+  "short_description": "Support us and gain access to bonus content.",
   "fullgame": {
     "appid": "787220",
     "name": "Annotation of Love"
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     244030
@@ -120,5 +122,9 @@
     "url": "http://tombasonly.com",
     "email": "tombasgo@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/801830/page_bg_generated_v6b.jpg?t=1521137432"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/801830/page_bg_generated_v6b.jpg?t=1521137432",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

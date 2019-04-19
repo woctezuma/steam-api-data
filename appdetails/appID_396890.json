@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     76517
@@ -140,7 +142,7 @@
     }
   ],
   "recommendations": {
-    "total": 184
+    "total": 186
   },
   "achievements": {
     "total": 0
@@ -153,5 +155,9 @@
     "url": "",
     "email": "danielgeurts@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396890/page_bg_generated_v6b.jpg?t=1459972374"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396890/page_bg_generated_v6b.jpg?t=1459972374",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

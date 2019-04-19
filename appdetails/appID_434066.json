@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1795,
     "final": 1795,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "17,95\u20ac"
   },
   "packages": [
     90525
@@ -174,7 +176,10 @@
     }
   ],
   "recommendations": {
-    "total": 240
+    "total": 246
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -184,5 +189,9 @@
     "url": "https://aerosoft.zendesk.com/anonymous_requests/new",
     "email": "https://aerosoft.zendesk.com/anonymous_requests/new"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/434066/page_bg_generated_v6b.jpg?t=1519982101"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/434066/page_bg_generated_v6b.jpg?t=1519982101",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

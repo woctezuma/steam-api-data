@@ -7,13 +7,13 @@
   "controller_support": "full",
   "detailed_description": "Enhance your Vault-hunting experience with a fresh new style! This pack contains the Phaselock and Roll head and Vaguely Outrageous skin for the Siren - look for them in the character customization menu!",
   "about_the_game": "Enhance your Vault-hunting experience with a fresh new style! This pack contains the Phaselock and Roll head and Vaguely Outrageous skin for the Siren - look for them in the character customization menu!",
-  "short_description": "",
+  "short_description": "Enhance your Vault-hunting experience with a fresh new style! This pack contains the Phaselock and Roll head and Vaguely Outrageous skin for the Siren - look for them in the character customization menu!",
   "fullgame": {
     "appid": "49520",
     "name": "Borderlands 2"
   },
-  "supported_languages": "English, French, German, Italian, Japanese, Spanish, Korean",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/224166/header.jpg?t=1465407783",
+  "supported_languages": "English, French, German, Italian, Japanese, Spanish - Spain, Korean",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/224166/header.jpg?t=1526512051",
   "website": "http://www.borderlands2.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP3<br>\t</li><li><strong>Processor:</strong> 2.4 GHz Dual Core Processor<br>\t</li><li><strong>Memory:</strong> 2 GB(XP)/ 2 GB(Vista)<br>\t</li><li><strong>Hard Disk Space:</strong> 13 GB free<br>\t</li><li><strong>Video Memory:</strong> 256 MB<br>\t</li><li><strong>Video Card:</strong> NVIDIA GeForce 8500 /ATI Radeon HD 2600<br>\t</li><li><strong>Sound:</strong> DirectX 9.0c Compatible<br>\t</li><li><strong>Other Requirements:</strong>Initial installation requires one-time internet connection for Steam authentication; software installations required (included with the game) include Steam Client, DirectX 9, Microsoft .NET 4 Framework, Visual C++ Redistributable 2005, Visual C++ Redistributable 2008, Visual C++ Redistributable 2010, and AMD CPU Drivers (XP Only/AMD Only)</li></ul>",
@@ -23,16 +23,22 @@
   "linux_requirements": [],
   "legal_notice": "\u00a9 2009 - 2013 Gearbox Software, LLC. Published and distributed by 2K Games. Gearbox Software, Borderlands, and the Gearbox and Borderlands logos are trademarks of Gearbox Software, LLC. 2K Games and the 2K Games logo are trademarks of 2K Games in the US and/or other countries. Unreal, the circle-U logo and the Powered by Unreal Technology logo are trademarks or registered trademarks of Epic Games, Inc. in the United States and elsewhere. NVIDIA and the NVIDIA logo and The Way It\u2019s Meant To Be Played are trademarks and/or registered trademarks of NVIDIA Corporation. This software product includes Autodesk\u00ae Scaleform\u00ae software. \u00a9 2013 Autodesk, Inc. Autodesk and Scaleform are registered trademarks or trademarks of Autodesk, Inc. and/or its subsidiaries and/or affiliates in the USA and/or other countries. Powered by Wwise (ce) 2006 \u2013 2013 Audiokinetic Inc. All rights reserved.",
   "developers": [
-    "Gearbox Software"
+    "Gearbox Software",
+    "Aspyr (Mac)",
+    "Aspyr (Linux)"
   ],
   "publishers": [
-    "2K Games"
+    "2K",
+    "Aspyr (Mac)",
+    "Aspyr (Linux)"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     29032
@@ -108,17 +114,24 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/224166/ss_bd4700b7bcef414b55a1329f5548a814bf19347a.600x338.jpg?t=1465407783",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/224166/ss_bd4700b7bcef414b55a1329f5548a814bf19347a.1920x1080.jpg?t=1465407783"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/224166/ss_bd4700b7bcef414b55a1329f5548a814bf19347a.600x338.jpg?t=1526512051",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/224166/ss_bd4700b7bcef414b55a1329f5548a814bf19347a.1920x1080.jpg?t=1526512051"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Jul, 2013"
   },
   "support_info": {
-    "url": "http://support.2k.com",
+    "url": "support.2k.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/224166/page_bg_generated_v6b.jpg?t=1465407783"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/224166/page_bg_generated_v6b.jpg?t=1526512051",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

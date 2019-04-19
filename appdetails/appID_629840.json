@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "final": 59,
+    "discount_percent": 90,
+    "initial_formatted": "5,99\u20ac",
+    "final_formatted": "0,59\u20ac"
   },
   "packages": [
     171280
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 171280,
-          "percent_savings_text": "",
+          "percent_savings_text": "-90%",
           "percent_savings": 0,
-          "option_text": "Caligo - 5,99\u20ac",
+          "option_text": "Caligo - <span class=\"discount_original_price\">5,99\u20ac</span> 0,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 59
         }
       ]
     }
@@ -161,7 +163,7 @@
     }
   ],
   "recommendations": {
-    "total": 312
+    "total": 451
   },
   "achievements": {
     "total": 3,
@@ -188,5 +190,9 @@
     "url": "",
     "email": "Info@krealit.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/629840/page_bg_generated_v6b.jpg?t=1506285796"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/629840/page_bg_generated_v6b.jpg?t=1506285796",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

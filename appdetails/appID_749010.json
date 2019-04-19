@@ -7,7 +7,7 @@
   "detailed_description": "Yatzy is the popular dice game played in a variety of ways all over the world. This baKno version of the game was developed with a physics engine so the dice roll out of a cup and bounce on the table with realistic forces of nature. The object of Yatzy is to score the most points by rolling five dice to compile various required dice combinations. Your score is easily recorded by clicking on the appropriate cell on the scorecard corresponding to the selected dice combination. The game includes five versions of Yatzy plus a variety of settings that allow you to customize your own version of the game. You can play Yatzy with up to six players, or you can play against as many as five computer opponents.",
   "about_the_game": "Yatzy is the popular dice game played in a variety of ways all over the world. This baKno version of the game was developed with a physics engine so the dice roll out of a cup and bounce on the table with realistic forces of nature. The object of Yatzy is to score the most points by rolling five dice to compile various required dice combinations. Your score is easily recorded by clicking on the appropriate cell on the scorecard corresponding to the selected dice combination. The game includes five versions of Yatzy plus a variety of settings that allow you to customize your own version of the game. You can play Yatzy with up to six players, or you can play against as many as five computer opponents.",
   "short_description": "Yatzy is the popular dice game played in a variety of ways all over the world.",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Arabic, Japanese, Korean, Portuguese, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Japanese, Korean, Portuguese, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/749010/header.jpg?t=1511273662",
   "website": "http://www.bakno.com/Yatzy",
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     219924
@@ -125,6 +127,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Nov, 2017"
@@ -133,5 +138,9 @@
     "url": "http://www.bakno.com/Support",
     "email": "info@bakno.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/749010/page_bg_generated_v6b.jpg?t=1511273662"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/749010/page_bg_generated_v6b.jpg?t=1511273662",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

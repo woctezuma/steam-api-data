@@ -20,7 +20,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "(c) 2015 Devin Night. All Rights Reserved.<br>Requires: A Fantasy Grounds full or ultimate license. This product should work with all rulesets.<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2015 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a></a> for more product information.",
+  "legal_notice": "(c) 2015 Devin Night. All Rights Reserved.<br>Requires: A Fantasy Grounds full or ultimate license. This product should work with all rulesets.<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2015 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a> for more product information.",
   "developers": [
     "SmiteWorks USA, LLC"
   ],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     59804
@@ -108,6 +110,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/347491/ss_ac1cd5c08710581d2dc27d58bde91fced04f6840.1920x1080.jpg?t=1447368441"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Jan, 2015"
@@ -116,5 +121,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/347491/page_bg_generated_v6b.jpg?t=1447368441"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/347491/page_bg_generated_v6b.jpg?t=1447368441",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

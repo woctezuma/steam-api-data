@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Time Gun is a first person puzzle-platform video game.<br />\r\nPlayers control the &quot;time status&quot; of an object with a time gun. The goal of the game is to use the time gun to maneuver through the test chambers in order to complete the experiments. <br />\r\nFeatures include:<br />\r\nUnique game mechanisms: time stopping bullet and time rewinding bullet. <br />\r\nUnique game maps: Mobius map, trefoil knot map and more...<br />\r\nTime stopping bullet: the stopping time could be accumulated. One bullet equals 1 second.<br />\r\nTime rewinding bullet: the rewinding time could be accumulated. One bullet equals 1 second.",
   "about_the_game": "Time Gun is a first person puzzle-platform video game.<br />\r\nPlayers control the &quot;time status&quot; of an object with a time gun. The goal of the game is to use the time gun to maneuver through the test chambers in order to complete the experiments. <br />\r\nFeatures include:<br />\r\nUnique game mechanisms: time stopping bullet and time rewinding bullet. <br />\r\nUnique game maps: Mobius map, trefoil knot map and more...<br />\r\nTime stopping bullet: the stopping time could be accumulated. One bullet equals 1 second.<br />\r\nTime rewinding bullet: the rewinding time could be accumulated. One bullet equals 1 second.",
-  "short_description": "Time Gun is a first person puzzle-platform video game.<br />\r\nPlayers control the &quot;time status&quot; of an object with a time gun. The goal of the game is to use the time gun to maneuver through the test chambers in order to complete the experiments.",
+  "short_description": "Time Gun is a first person puzzle-platform video game. Players control the &quot;time status&quot; of an object with a time gun. The goal of the game is to use the time gun to maneuver through the test chambers in order to complete the experiments.",
   "supported_languages": "English, Simplified Chinese, Traditional Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/650770/header.jpg?t=1511366602",
   "website": null,
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     183321
@@ -144,6 +146,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Jul, 2017"
@@ -152,5 +157,9 @@
     "url": "",
     "email": "chaosikaros@outlook.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/650770/page_bg_generated_v6b.jpg?t=1511366602"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/650770/page_bg_generated_v6b.jpg?t=1511366602",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

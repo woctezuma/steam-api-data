@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     40847
@@ -151,6 +153,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Apr, 2014"
@@ -159,5 +164,9 @@
     "url": "http://www.9heads.com/en/contact",
     "email": "contact@9heads.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/291270/page_bg_generated_v6b.jpg?t=1447361066"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/291270/page_bg_generated_v6b.jpg?t=1447361066",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

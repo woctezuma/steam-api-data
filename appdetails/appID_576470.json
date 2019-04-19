@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     146948
@@ -155,9 +157,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 478
-  },
   "achievements": {
     "total": 484,
     "highlighted": [
@@ -211,5 +210,9 @@
     "url": "",
     "email": "lee@phatphrogstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576470/page_bg_generated_v6b.jpg?t=1486386592"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576470/page_bg_generated_v6b.jpg?t=1486386592",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

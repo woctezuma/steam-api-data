@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This high-quality character, designed exclusively for Leadwerks Game Engine, includes high-res 4096x4096 textures, an assault rifle, and a prefab set up to work with the Leadwerks soldierAI script. Drop him into your game, set his team to &quot;good&quot; or &quot;bad&quot;, and watch him fight!<br><br>Texture Resolution: 4096<br>Polygon Count: 12,970<br>Source art is included in FBX, PNG, and BMP formats.<h2 class=\"bb_tag\">Animations</h2><ul class=\"bb_ul\"><li>Death<br></li><li>Fire<br></li><li>Hit<br></li><li>Idle<br></li><li>Melee<br></li><li>Run<br></li><li>Walk</li></ul>",
   "about_the_game": "This high-quality character, designed exclusively for Leadwerks Game Engine, includes high-res 4096x4096 textures, an assault rifle, and a prefab set up to work with the Leadwerks soldierAI script. Drop him into your game, set his team to &quot;good&quot; or &quot;bad&quot;, and watch him fight!<br><br>Texture Resolution: 4096<br>Polygon Count: 12,970<br>Source art is included in FBX, PNG, and BMP formats.<h2 class=\"bb_tag\">Animations</h2><ul class=\"bb_ul\"><li>Death<br></li><li>Fire<br></li><li>Hit<br></li><li>Idle<br></li><li>Melee<br></li><li>Run<br></li><li>Walk</li></ul>",
-  "short_description": "",
+  "short_description": "This high-quality character, designed exclusively for Leadwerks Game Engine, includes high-res 4096x4096 textures, an assault rifle, and a prefab set up to work with the Leadwerks soldierAI script. Drop him into your game, set his team to &quot;good&quot; or &quot;bad&quot;, and watch him fight!",
   "fullgame": {
     "appid": "251810",
     "name": "Leadwerks Game Engine"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     103755
@@ -140,5 +142,9 @@
     "url": "http://www.leadwerks.com/werkspace/page/Company/contact",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/469670/page_bg_generated_v6b.jpg?t=1479867235"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/469670/page_bg_generated_v6b.jpg?t=1479867235",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     8372,
@@ -273,7 +275,7 @@
     }
   ],
   "recommendations": {
-    "total": 5054
+    "total": 4139
   },
   "achievements": {
     "total": 100,
@@ -328,5 +330,9 @@
     "url": "",
     "email": "support@streumon-studio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/91700/page_bg_generated_v6b.jpg?t=1447354192"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/91700/page_bg_generated_v6b.jpg?t=1447354192",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

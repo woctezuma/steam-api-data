@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This is the Future... Mankind has mastered genetic engineering. Take control of a team of genetically modified warriors called GenoHunters and guide them through awe-inspiring worlds. Genos can adapt to any situation by mutating at will, acquiring new weapons and abilities as desired by absorbing DNA.<br><br>You have twelve organic worlds to explore. Weapons include fire breath, giant claws, electrical weapons, gene disruptors, necrocytes and flammable vomit.<br><br>Go head to head in multiplayer matches (LAN and Internet) to see who has evolved the most effective set of warriors or exchange GenoHunters over the Internet.<br><br>Evolva combines the excitement of a fast paced shoot-em-up with the tactical challenge of commanding a squad. Fight against the alien parasites and save the planet. This is survival of the fittest!<br><br><ul class=\"bb_ul\"><li>Appealing scenery with an other-worldly feeling<br></li><li>An unusual character development system based on mutations<br></li><li>Use your GenoHunters' unique abilities to your advantage</li></ul>",
   "about_the_game": "This is the Future... Mankind has mastered genetic engineering. Take control of a team of genetically modified warriors called GenoHunters and guide them through awe-inspiring worlds. Genos can adapt to any situation by mutating at will, acquiring new weapons and abilities as desired by absorbing DNA.<br><br>You have twelve organic worlds to explore. Weapons include fire breath, giant claws, electrical weapons, gene disruptors, necrocytes and flammable vomit.<br><br>Go head to head in multiplayer matches (LAN and Internet) to see who has evolved the most effective set of warriors or exchange GenoHunters over the Internet.<br><br>Evolva combines the excitement of a fast paced shoot-em-up with the tactical challenge of commanding a squad. Fight against the alien parasites and save the planet. This is survival of the fittest!<br><br><ul class=\"bb_ul\"><li>Appealing scenery with an other-worldly feeling<br></li><li>An unusual character development system based on mutations<br></li><li>Use your GenoHunters' unique abilities to your advantage</li></ul>",
-  "short_description": "Evolva combines the excitement of a fast paced shoot-em-up with the tactical challenge of commanding a squad. Fight against the alien parasites and save the planet. This is survival of the fittest!<br><br><ul class=\"bb_ul\"><li>Appealing scenery with an other-worldly feeling<br></li><li>An unusual character development system based on mutations<br></li><li>Use your GenoHunters' unique abilities to your advantage</li></ul>",
+  "short_description": "Evolva combines the excitement of a fast paced shoot-em-up with the tactical challenge of commanding a squad. Fight against the alien parasites and save the planet. This is survival of the fittest!Appealing scenery with an other-worldly feelingAn unusual character development system based on mutationsUse your GenoHunters' unique...",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/771430/header.jpg?t=1515888842",
   "website": "http://www.interplay.com",
@@ -27,10 +27,12 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
-    "230570"
+    230570
   ],
   "package_groups": [
     {
@@ -43,7 +45,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "230570",
+          "packageid": 230570,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Evolva - 9,99\u20ac",
@@ -149,6 +151,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Jan, 2018"
@@ -157,5 +162,9 @@
     "url": "http://interplay.com/support/customer_service.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771430/page_bg_generated_v6b.jpg?t=1515888842"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771430/page_bg_generated_v6b.jpg?t=1515888842",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

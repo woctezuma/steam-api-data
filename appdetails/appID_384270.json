@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     72306
@@ -87,6 +89,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/384270/ss_058bba7f9a76ecacdd89bb72e160b2fba5a25af5.1920x1080.jpg?t=1447376921"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Jul, 2015"
@@ -95,5 +100,9 @@
     "url": "www.NewBlood.info",
     "email": "SueDaveOshry@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384270/page_bg_generated_v6b.jpg?t=1447376921"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384270/page_bg_generated_v6b.jpg?t=1447376921",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

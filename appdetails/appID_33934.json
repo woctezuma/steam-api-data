@@ -11,7 +11,7 @@
     "appid": "33930",
     "name": "Arma 2: Operation Arrowhead"
   },
-  "supported_languages": "Czech, English, French, Italian, Spanish",
+  "supported_languages": "Czech, English, French, Italian, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/33934/header.jpg?t=1521639609",
   "website": "http://www.bistudio.com",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     16579,
@@ -203,7 +205,10 @@
     }
   ],
   "recommendations": {
-    "total": 142
+    "total": 119
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -213,5 +218,9 @@
     "url": "",
     "email": "support@bohemia.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/33934/page_bg_generated_v6b.jpg?t=1521639609"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/33934/page_bg_generated_v6b.jpg?t=1521639609",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -15,7 +15,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/648980/header.jpg?t=1508943202",
   "website": "http://fruitbatfactory.com/100orange/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista/7/8/10<br></li><li><strong>Processor:</strong> Intel Pentium 2.0GHz or higher<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Direct3D compatible video card with 256MB memory or more<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectSound compatible sound card</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e\u914d\u7f6e:</strong><br><ul class=\"bb_ul\"><li><strong>\u64cd\u4f5c\u7cfb\u7edf:</strong> Windows Vista/7/8/10<br></li><li><strong>\u5904\u7406\u5668:</strong> Intel Pentium 2.0GHz or higher<br></li><li><strong>\u5185\u5b58:</strong> 512 MB RAM<br></li><li><strong>\u56fe\u5f62:</strong> Direct3D compatible video card with 256MB memory or more<br></li><li><strong>DirectX \u7248\u672c:</strong> 9.0c<br></li><li><strong>\u5b58\u50a8\u7a7a\u95f4:</strong> \u9700\u8981 2 GB \u53ef\u7528\u7a7a\u95f4<br></li><li><strong>\u58f0\u5361:</strong> DirectSound compatible sound card</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     182541
@@ -134,6 +136,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Jun, 2017"
@@ -142,5 +147,9 @@
     "url": "http://forum.fruitbatfactory.com/viewforum.php?id=10",
     "email": "support@fruitbatfactory.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/648980/page_bg_generated_v6b.jpg?t=1508943202"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/648980/page_bg_generated_v6b.jpg?t=1508943202",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

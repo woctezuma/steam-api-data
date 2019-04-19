@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "\u300c\u304a\u304a\u304b\u307f\u300d\u4fe1\u4ef0\u306e\u606f\u3065\u304f\u5730\u30fb\u4f11\u6c34\uff08\u3084\u3059\u307f\u305a\uff09\u306b\u5915\u9727\u304c\u7acb\u3064\u3068\u304d\u3001\u6bba\u4eba\u5100\u5f0f\u300c\u9ec4\u6cc9\u5fcc\u307f\u306e\u5bb4\u300d\u304c\u958b\u304b\u308c\u308b\uff01<br />\r\n\u5e7e\u591a\u306e\u72c2\u6c17\u3068\u6b7b\u306e\u679c\u3066\u306b\u3001\u300c\u6b7b\u306b\u623b\u308b\u7537\u300d\u623f\u77f3\u967d\u660e\u306f\u4e8b\u4ef6\u3092\u89e3\u6c7a\u3067\u304d\u308b\u306e\u304b\uff1f<br />\r\n\u5927\u4eba\u6c17\u30c6\u30fc\u30d6\u30eb\u30b2\u30fc\u30e0\u300c\u4eba\u72fc\uff08\u6c5d\u306f\u4eba\u72fc\u306a\u308a\u3084\uff1f\uff09\u300d\u3092\u5927\u80c6\u89e3\u91c8\u3057\u305f\u3001\u30d5\u30eb\u30dc\u30a4\u30b9\u30fb\u30db\u30e9\u30fc\u30b5\u30b9\u30da\u30f3\u30b9\u30ce\u30d9\u30eb\uff21\uff24\uff36\u5de8\u7de8\u3067\u3059\u3002<br />\r\n<br />\r\n\u00a92015-2017 KEMCO \u00a92015-2017 dwango",
   "about_the_game": "\u300c\u304a\u304a\u304b\u307f\u300d\u4fe1\u4ef0\u306e\u606f\u3065\u304f\u5730\u30fb\u4f11\u6c34\uff08\u3084\u3059\u307f\u305a\uff09\u306b\u5915\u9727\u304c\u7acb\u3064\u3068\u304d\u3001\u6bba\u4eba\u5100\u5f0f\u300c\u9ec4\u6cc9\u5fcc\u307f\u306e\u5bb4\u300d\u304c\u958b\u304b\u308c\u308b\uff01<br />\r\n\u5e7e\u591a\u306e\u72c2\u6c17\u3068\u6b7b\u306e\u679c\u3066\u306b\u3001\u300c\u6b7b\u306b\u623b\u308b\u7537\u300d\u623f\u77f3\u967d\u660e\u306f\u4e8b\u4ef6\u3092\u89e3\u6c7a\u3067\u304d\u308b\u306e\u304b\uff1f<br />\r\n\u5927\u4eba\u6c17\u30c6\u30fc\u30d6\u30eb\u30b2\u30fc\u30e0\u300c\u4eba\u72fc\uff08\u6c5d\u306f\u4eba\u72fc\u306a\u308a\u3084\uff1f\uff09\u300d\u3092\u5927\u80c6\u89e3\u91c8\u3057\u305f\u3001\u30d5\u30eb\u30dc\u30a4\u30b9\u30fb\u30db\u30e9\u30fc\u30b5\u30b9\u30da\u30f3\u30b9\u30ce\u30d9\u30eb\uff21\uff24\uff36\u5de8\u7de8\u3067\u3059\u3002<br />\r\n<br />\r\n\u00a92015-2017 KEMCO \u00a92015-2017 dwango",
-  "short_description": "\u300c\u73fe\u5b9f\uff08\u30ea\u30a2\u30eb\uff09\u306e\u4eba\u72fc\u300d\u3002<br />\r\n\u305d\u306e\u6050\u6016\u3092\u4f53\u611f\u305b\u3088\u3002",
+  "short_description": "\u300c\u73fe\u5b9f\uff08\u30ea\u30a2\u30eb\uff09\u306e\u4eba\u72fc\u300d\u3002 \u305d\u306e\u6050\u6016\u3092\u4f53\u611f\u305b\u3088\u3002",
   "supported_languages": "Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/648100/header.jpg?t=1503565438",
   "website": "http://www.kemco.jp/sp/games/rl/ja/pc/index.html",
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 2799,
     "final": 2799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "27,99\u20ac"
   },
   "packages": [
     182208
@@ -123,7 +125,10 @@
     }
   ],
   "recommendations": {
-    "total": 114
+    "total": 181
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -133,5 +138,9 @@
     "url": "http://www.kemco.jp/index_main.html",
     "email": "keitai-info@kemco.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/648100/page_bg_generated_v6b.jpg?t=1503565438"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/648100/page_bg_generated_v6b.jpg?t=1503565438",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

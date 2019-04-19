@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\"><strong>Library Module for Fantasy Grounds</strong></h2><br>Hundreds of items, monsters, and new spells await your dungeon delvers in this Explorer's-size full-color Companion for Savage Worlds. Arm your dwarven warrior with all-new Edges and a legendary axe so that he can stand against terrible dragons, loathsome demons, and even the most-dreaded giant bees! The Companion series features genre material that's ready to be added directly to your existing game or help you start a new one. Expand your options and increase your fun: get a Companion today!<br><br><i>Fantasy Grounds Conversion:</i> <strong>Kevin Doswell</strong><br><br>Released on July 25, 2010. Designed for Fantasy Grounds version 2.9.9 and higher.<br><br><strong>Requires:</strong> An active subscription or a one time purchase of a Fantasy Grounds Full or Ultimate license and a one time purchase of the Savage Worlds Ruleset.",
   "about_the_game": "<h2 class=\"bb_tag\"><strong>Library Module for Fantasy Grounds</strong></h2><br>Hundreds of items, monsters, and new spells await your dungeon delvers in this Explorer's-size full-color Companion for Savage Worlds. Arm your dwarven warrior with all-new Edges and a legendary axe so that he can stand against terrible dragons, loathsome demons, and even the most-dreaded giant bees! The Companion series features genre material that's ready to be added directly to your existing game or help you start a new one. Expand your options and increase your fun: get a Companion today!<br><br><i>Fantasy Grounds Conversion:</i> <strong>Kevin Doswell</strong><br><br>Released on July 25, 2010. Designed for Fantasy Grounds version 2.9.9 and higher.<br><br><strong>Requires:</strong> An active subscription or a one time purchase of a Fantasy Grounds Full or Ultimate license and a one time purchase of the Savage Worlds Ruleset.",
-  "short_description": "<h2 class=\"bb_tag\"><strong>Library Module for Fantasy Grounds</strong></h2><br>Hundreds of items, monsters, and new spells await your dungeon delvers in this Explorer's-size full-color Companion for Savage Worlds. Arm your dwarven warrior with all-new Edges and a legendary axe so that he can stand against terrible dragons, loathsome demons, and even the most-dreaded giant bees! The Companion series features genre material that's ready to be added directly to your existing game or help you start a new one. Expand your options and increase your fun: get a Companion today!<br><br><i>Fantasy Grounds Conversion:</i> <strong>Kevin Doswell</strong><br><br>Released on July 25, 2010. Designed for Fantasy Grounds version 2.9.9 and higher.",
+  "short_description": "Library Module for Fantasy GroundsHundreds of items, monsters, and new spells await your dungeon delvers in this Explorer's-size full-color Companion for Savage Worlds. Arm your dwarven warrior with all-new Edges and a legendary axe so that he can stand against terrible dragons, loathsome demons, and even the most-dreaded giant bees!",
   "fullgame": {
     "appid": "252690",
     "name": "Fantasy Grounds"
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     157712
@@ -121,6 +123,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600470/ss_66c27346f789549270a9d48ce2bcb6224179f9bc.1920x1080.jpg?t=1502322654"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Aug, 2017"
@@ -129,5 +134,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/600470/page_bg_generated_v6b.jpg?t=1502322654"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/600470/page_bg_generated_v6b.jpg?t=1502322654",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

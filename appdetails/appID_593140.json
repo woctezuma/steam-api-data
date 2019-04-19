@@ -12,7 +12,7 @@
     "appid": "327060",
     "name": "FEIST"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong>, Portuguese<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/593140/header.jpg?t=1487010216",
   "website": "http://playfeist.net/",
   "pc_requirements": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     154505
@@ -113,6 +115,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/593140/ss_9ba85c308ea18c96ab094fb336aa67debeb810c5.1920x1080.jpg?t=1487010216"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Feb, 2017"
@@ -121,5 +126,9 @@
     "url": "http://playfeist.net/",
     "email": "support@playfeist.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/593140/page_bg_generated_v6b.jpg?t=1487010216"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/593140/page_bg_generated_v6b.jpg?t=1487010216",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

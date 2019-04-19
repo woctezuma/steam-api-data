@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     225985
@@ -126,6 +128,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jan, 2018"
@@ -134,5 +139,9 @@
     "url": "",
     "email": "tabi.tallshrimp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/764390/page_bg_generated_v6b.jpg?t=1516196249"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/764390/page_bg_generated_v6b.jpg?t=1516196249",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

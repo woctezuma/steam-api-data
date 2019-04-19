@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>The Insurgency Pack delivers additional content for the Deniable Ops mode that can be played solo or co-operatively. Hunt down the remaining Black Arrow insurgents across new locations in San Francisco, a New Orleans cemetery, a Portland Prison and a hidden research complex in Salt Lake City. The threat is not over; Black Arrow is still out there \u2013 watching.</p>",
   "about_the_game": "<p>The Insurgency Pack delivers additional content for the Deniable Ops mode that can be played solo or co-operatively. Hunt down the remaining Black Arrow insurgents across new locations in San Francisco, a New Orleans cemetery, a Portland Prison and a hidden research complex in Salt Lake City. The threat is not over; Black Arrow is still out there \u2013 watching.</p>",
-  "short_description": "",
+  "short_description": "The Insurgency Pack delivers additional content for the Deniable Ops mode that can be played solo or co-operatively. Hunt down the remaining Black Arrow insurgents across new locations in San Francisco, a New Orleans cemetery, a Portland Prison and a hidden research complex in Salt Lake City.",
   "fullgame": {
     "appid": "33220",
     "name": "Uninitialized"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     4405
@@ -127,6 +129,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/33372/ss_da6ffef2c3b6d3a4e79bdd07d6005cf99948cf65.1920x1080.jpg?t=1447353199"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 May, 2010"
@@ -135,5 +140,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/33372/page_bg_generated_v6b.jpg?t=1447353199"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/33372/page_bg_generated_v6b.jpg?t=1447353199",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

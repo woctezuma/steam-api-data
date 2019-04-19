@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The official <strong>\u201cTwo Worlds\u201d</strong> album presents the stirring music from the RPG - including the title song \u201cPlay the Game\u201d, sung by the charismatic voice of Kyra - and you get various remix versions too. Composed by the famous Harold Faltermeyer and played by the musicians of the MGM Grand Orchestra, this new arranged mix of Gothic, classical, rock and folk will transport you into a fantastic world!<h2 class=\"bb_tag\"><strong>PLAYLIST</strong></h2>01 Two Worlds (Main theme) - [05:21]<br>02 Play the Game - [04:43]<br>03 Siege of Cathalon - [06:44]<br>04 Ashos - [03:01]<br>05 Cathalon - [03:44]<br>06 Bot Moss Forest - [02:23]<br>07 Desert Attack - [03:41]<br>08 Grom Town - [04:36]<br>09 Magta Lahja - [03:21] <br>10 GorGammar - [02:41]<br>11 Opala - [04:00]<br>12 Love Conquers [05:09]<br>13 Magta Lahjar (Remix) [04:38]<br>14 Tharbakin - [02:43] <br>15 Maasarah - [04:05]<br>16 Purgatory - [05:43]<br>17 Hades - [03:15]<br>18 Play the Game (Radio Edit) - [04:12]",
   "about_the_game": "The official <strong>\u201cTwo Worlds\u201d</strong> album presents the stirring music from the RPG - including the title song \u201cPlay the Game\u201d, sung by the charismatic voice of Kyra - and you get various remix versions too. Composed by the famous Harold Faltermeyer and played by the musicians of the MGM Grand Orchestra, this new arranged mix of Gothic, classical, rock and folk will transport you into a fantastic world!<h2 class=\"bb_tag\"><strong>PLAYLIST</strong></h2>01 Two Worlds (Main theme) - [05:21]<br>02 Play the Game - [04:43]<br>03 Siege of Cathalon - [06:44]<br>04 Ashos - [03:01]<br>05 Cathalon - [03:44]<br>06 Bot Moss Forest - [02:23]<br>07 Desert Attack - [03:41]<br>08 Grom Town - [04:36]<br>09 Magta Lahja - [03:21] <br>10 GorGammar - [02:41]<br>11 Opala - [04:00]<br>12 Love Conquers [05:09]<br>13 Magta Lahjar (Remix) [04:38]<br>14 Tharbakin - [02:43] <br>15 Maasarah - [04:05]<br>16 Purgatory - [05:43]<br>17 Hades - [03:15]<br>18 Play the Game (Radio Edit) - [04:12]",
-  "short_description": "The official \u201c<strong>Two Worlds</strong>\u201d album presents the stirring music from the RPG - including the title song \u201cPlay the Game\u201d, sung by the charismatic voice of Kyra - and you get various remix versions too. Composed by the famous Harold Faltermeyer and played by the musicians of the MGM Grand Orchestra, this new arranged mix of Gothic, classical, rock and folk will transport you into a fantastic world!",
+  "short_description": "The official \u201cTwo Worlds\u201d album presents the stirring music from the RPG - including the title song \u201cPlay the Game\u201d, sung by the charismatic voice of Kyra - and you get various remix versions too. Composed by the famous Harold Faltermeyer and played by the musicians of the MGM Grand Orchestra, this new arranged mix of Gothic, classical,...",
   "fullgame": {
     "appid": "1930",
     "name": "Two Worlds Epic Edition"
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 799,
-    "final": 199,
-    "discount_percent": 75
+    "final": 799,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     175148
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 175148,
-          "percent_savings_text": "-75%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Two Worlds Soundtrack by Harold Faltermayer - <span class=\"discount_original_price\">7,99\u20ac</span> 1,99\u20ac",
+          "option_text": "Two Worlds Soundtrack by Harold Faltermayer - 7,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 799
         }
       ]
     }
@@ -101,6 +103,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/637030/ss_7d34f88df72868651acf88c5e8a1c59329c2c294.1920x1080.jpg?t=1494856061"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 May, 2017"
@@ -109,5 +114,9 @@
     "url": "http://www.2-worlds.com/confirm.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/637030/page_bg_generated_v6b.jpg?t=1494856061"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/637030/page_bg_generated_v6b.jpg?t=1494856061",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

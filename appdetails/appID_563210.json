@@ -11,7 +11,7 @@
     "appid": "312450",
     "name": "Order of Battle: World War II"
   },
-  "supported_languages": "English, French, German, Spanish, Russian",
+  "supported_languages": "English, French, German, Spanish - Spain, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/563210/header.jpg?t=1492696705",
   "website": "http://orderofbattle.slitherine.com/",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     141641
@@ -170,6 +172,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Apr, 2017"
@@ -178,5 +183,9 @@
     "url": "www.slitherine.com",
     "email": "support@slitherine.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/563210/page_bg_generated_v6b.jpg?t=1492696705"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/563210/page_bg_generated_v6b.jpg?t=1492696705",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

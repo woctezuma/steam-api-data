@@ -24,12 +24,14 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 250,
+    "final": 250,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,50\u20ac"
   },
   "packages": [
-    "188597"
+    188597
   ],
   "package_groups": [
     {
@@ -42,14 +44,14 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "188597",
+          "packageid": 188597,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Indeep | The casual dungeon crawler - 2,99\u20ac",
+          "option_text": "Indeep | The casual dungeon crawler - 2,50\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 250
         }
       ]
     }
@@ -139,5 +141,9 @@
     "url": "support@bernhardp.com",
     "email": "support@bernhardp.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/664340/page_bg_generated_v6b.jpg?t=1503046585"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/664340/page_bg_generated_v6b.jpg?t=1503046585",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

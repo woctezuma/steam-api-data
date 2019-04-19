@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     137356
@@ -155,6 +157,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Feb, 2017"
@@ -163,5 +168,9 @@
     "url": "http://sagnithi.com/contact/",
     "email": "info@sagnithi.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/552940/page_bg_generated_v6b.jpg?t=1487185040"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/552940/page_bg_generated_v6b.jpg?t=1487185040",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

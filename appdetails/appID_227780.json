@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     42728
@@ -216,7 +218,7 @@
     }
   ],
   "recommendations": {
-    "total": 1399
+    "total": 1225
   },
   "achievements": {
     "total": 39,
@@ -271,5 +273,9 @@
     "url": "http://samrev.com/",
     "email": "admin@samrev.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/227780/page_bg_generated_v6b.jpg?t=1478285517"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/227780/page_bg_generated_v6b.jpg?t=1478285517",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

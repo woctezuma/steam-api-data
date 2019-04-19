@@ -9,7 +9,7 @@
   "short_description": "The SD40-2 High Nose is a classic US diesel locomotive for Train Simulator 2012, and a great add-on for fans of the Norfolk Southern Railroad.",
   "fullgame": {
     "appid": "24010",
-    "name": "Train Simulator"
+    "name": "Train Simulator 2019"
   },
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/208354/header.jpg?t=1486641768",
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     17874
@@ -138,6 +140,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/208354/ss_817b8da7c22b02889b267962d27e2756a125f542.1920x1080.jpg?t=1486641768"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Aug, 2012"
@@ -146,5 +151,9 @@
     "url": "http://www.railsimulator.com/support.php",
     "email": "support@railsimulator.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/208354/page_bg_generated_v6b.jpg?t=1486641768"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/208354/page_bg_generated_v6b.jpg?t=1486641768",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     115406
@@ -44,11 +46,11 @@
           "packageid": 115406,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Interstellar Logistics Inc - 0,99\u20ac",
+          "option_text": "Interstellar Logistics Inc - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -178,5 +180,9 @@
     "url": "http://www.exaltedguy.com",
     "email": "dev@exaltedguy.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502150/page_bg_generated_v6b.jpg?t=1471291557"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/502150/page_bg_generated_v6b.jpg?t=1471291557",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

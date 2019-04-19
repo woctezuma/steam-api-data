@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     57239
@@ -166,7 +168,7 @@
     }
   ],
   "recommendations": {
-    "total": 288
+    "total": 129
   },
   "achievements": {
     "total": 6,
@@ -205,5 +207,9 @@
     "url": "",
     "email": "support@deathgoat.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340770/page_bg_generated_v6b.jpg?t=1465319490"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340770/page_bg_generated_v6b.jpg?t=1465319490",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

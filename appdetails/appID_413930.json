@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In this video tutorial, you will see the start and finish of a character illustration. From a Mock assignment, to thumbnails, to greyscale refinement and to color.\r\n\r\nThree parts to this package which add up to roughly 100 minutes of video content.\r\n\r\nIncludes:\r\nPhotoshop brushes, Files, and Jpgs.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In this video tutorial, you will see the start and finish of a character illustration. From a Mock assignment, to thumbnails, to greyscale refinement and to color.\r\n\r\nThree parts to this package which add up to roughly 100 minutes of video content.\r\n\r\nIncludes:\r\nPhotoshop brushes, Files, and Jpgs.",
   "about_the_game": "In this video tutorial, you will see the start and finish of a character illustration. From a Mock assignment, to thumbnails, to greyscale refinement and to color.<br />\r\n<br />\r\nThree parts to this package which add up to roughly 100 minutes of video content.<br />\r\n<br />\r\nIncludes:<br />\r\nPhotoshop brushes, Files, and Jpgs.",
   "short_description": "A tutorial from start to finish of character illustration.",
   "fullgame": {
@@ -35,9 +35,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     83017
@@ -56,11 +58,11 @@
           "packageid": 83017,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Robotpencil Presents: Character Illustration 1 - Fantasy - 9,99\u20ac",
+          "option_text": "Robotpencil Presents: Character Illustration 1 - Fantasy - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -144,6 +146,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Nov, 2015"
@@ -152,5 +157,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413930/page_bg_generated_v6b.jpg?t=1447968393"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413930/page_bg_generated_v6b.jpg?t=1447968393",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

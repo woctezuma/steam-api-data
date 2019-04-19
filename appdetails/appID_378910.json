@@ -12,7 +12,7 @@
     "name": "Super Star Path"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/378910/header.jpg?t=1489503441",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/378910/header.jpg?t=1547667493",
   "website": "http://dyagames.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 64 MB available space</li></ul>"
@@ -23,7 +23,7 @@
   "linux_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 64 MB available space</li></ul>"
   },
-  "legal_notice": "Super Star Path \u00a9 2015 DYA Games<br />\r\nSuper Star Path OST \u00a9 2015 MovieMovies1",
+  "legal_notice": "Super Star Path OST \u00a9 MovieMovies1<br />\r\nSuper Star Path \u00a9 DYA GAMES",
   "developers": [
     "DYA Games"
   ],
@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 299,
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     70559
@@ -53,19 +55,19 @@
           "packageid": 70559,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Super Star Path Soundtrack - 0,99\u20ac",
+          "option_text": "Super Star Path Soundtrack - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 299
         }
       ]
     }
   ],
   "platforms": {
     "windows": true,
-    "mac": true,
-    "linux": true
+    "mac": false,
+    "linux": false
   },
   "categories": [
     {
@@ -86,8 +88,8 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/378910/ss_c5764da311fac51274be046f212feffa67d96a87.600x338.jpg?t=1489503441",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/378910/ss_c5764da311fac51274be046f212feffa67d96a87.1920x1080.jpg?t=1489503441"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/378910/ss_c5764da311fac51274be046f212feffa67d96a87.600x338.jpg?t=1547667493",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/378910/ss_c5764da311fac51274be046f212feffa67d96a87.1920x1080.jpg?t=1547667493"
     }
   ],
   "release_date": {
@@ -98,5 +100,9 @@
     "url": "http://dyagames.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/378910/page_bg_generated_v6b.jpg?t=1489503441"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/378910/page_bg_generated_v6b.jpg?t=1547667493",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

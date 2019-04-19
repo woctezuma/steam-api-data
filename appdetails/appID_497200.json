@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Soundtrack of the game Enola. <br />\r\n<br />\r\nA collection of music and ambient tracks derived from the horror-adventure videogame Enola by The Domaginarium. Music composed by Nick Borrego.<br />\r\n<br />\r\nTrack list:<br />\r\nYou've Always Been There For Me<br />\r\nUnravel<br />\r\nA Little Souvenir<br />\r\nAngelica's Song<br />\r\nThe Key to My Heart<br />\r\nFurther Down<br />\r\nCourtyard<br />\r\nDark Tunnel<br />\r\nMy Number 35<br />\r\nThanks to You<br />\r\nThe Morgue<br />\r\nI'm Sending Her to you<br />\r\nBeyond The Golden Forest<br />\r\nBoss Battle<br />\r\nHug Scene<br />\r\nAtmosphere 1<br />\r\nAtmosphere 2<br />\r\nAtmosphere 3<br />\r\nAtmosphere 4<br />\r\nAtmosphere 5<br />\r\nAtmosphere 6<br />\r\nAtmosphere 7<br />\r\nAtmosphere 8",
   "about_the_game": "Soundtrack of the game Enola. <br />\r\n<br />\r\nA collection of music and ambient tracks derived from the horror-adventure videogame Enola by The Domaginarium. Music composed by Nick Borrego.<br />\r\n<br />\r\nTrack list:<br />\r\nYou've Always Been There For Me<br />\r\nUnravel<br />\r\nA Little Souvenir<br />\r\nAngelica's Song<br />\r\nThe Key to My Heart<br />\r\nFurther Down<br />\r\nCourtyard<br />\r\nDark Tunnel<br />\r\nMy Number 35<br />\r\nThanks to You<br />\r\nThe Morgue<br />\r\nI'm Sending Her to you<br />\r\nBeyond The Golden Forest<br />\r\nBoss Battle<br />\r\nHug Scene<br />\r\nAtmosphere 1<br />\r\nAtmosphere 2<br />\r\nAtmosphere 3<br />\r\nAtmosphere 4<br />\r\nAtmosphere 5<br />\r\nAtmosphere 6<br />\r\nAtmosphere 7<br />\r\nAtmosphere 8",
-  "short_description": "Soundtrack of the game Enola. <br />\r\n<br />\r\nA collection of music and ambient tracks derived from the horror-adventure videogame Enola by The Domaginarium. Music composed by Nick Borrego.",
+  "short_description": "Soundtrack of the game Enola. A collection of music and ambient tracks derived from the horror-adventure videogame Enola by The Domaginarium. Music composed by Nick Borrego.",
   "fullgame": {
     "appid": "263520",
     "name": "Enola"
@@ -34,9 +34,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     113526
@@ -55,11 +57,11 @@
           "packageid": 113526,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Enola - The Original Soundtrack - 2,99\u20ac",
+          "option_text": "Enola - The Original Soundtrack - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -120,6 +122,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/497200/ss_82d133c2f433adce31c98c1b7e5678501e8ff6ff.1920x1080.jpg?t=1479242255"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Nov, 2016"
@@ -128,5 +133,11 @@
     "url": "http://www.thedomaginarium.com/",
     "email": "pr@thedomaginarium.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/497200/page_bg_generated_v6b.jpg?t=1479242255"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/497200/page_bg_generated_v6b.jpg?t=1479242255",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

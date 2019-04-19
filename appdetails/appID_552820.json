@@ -1,6 +1,6 @@
 {
   "type": "dlc",
-  "name": "Soundtrack and Director's Commentary",
+  "name": "Heart and Seoul Soundtrack and Director's Commentary",
   "steam_appid": 552820,
   "required_age": 0,
   "is_free": false,
@@ -12,7 +12,7 @@
     "name": "Heart and Seoul"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/552820/header.jpg?t=1478149332",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/552820/header.jpg?t=1551826481",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft\u00ae Windows\u00ae Vista / 7 / 8/ 8.1/ 10<br></li><li><strong>Processor:</strong> Intel\u00ae Pentium\u00ae 4 2.0 GHz equivalent or faster processor<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics Chip<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>",
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     137320
@@ -41,7 +43,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Soundtrack and Director's Commentary",
+      "title": "Buy Heart and Seoul Soundtrack and Director's Commentary",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -101,10 +103,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/552820/ss_af553770651939c1ab92bf30d2b4fe525eae2cc1.600x338.jpg?t=1478149332",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/552820/ss_af553770651939c1ab92bf30d2b4fe525eae2cc1.1920x1080.jpg?t=1478149332"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/552820/ss_af553770651939c1ab92bf30d2b4fe525eae2cc1.600x338.jpg?t=1551826481",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/552820/ss_af553770651939c1ab92bf30d2b4fe525eae2cc1.1920x1080.jpg?t=1551826481"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Nov, 2016"
@@ -113,5 +118,11 @@
     "url": "",
     "email": "admin@sapphiredragonproductions.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/552820/page_bg_generated_v6b.jpg?t=1478149332"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/552820/page_bg_generated_v6b.jpg?t=1551826481",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

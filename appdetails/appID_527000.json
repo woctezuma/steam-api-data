@@ -16,11 +16,11 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/527000/header.jpg?t=1478459533",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 35 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 35 MB d'espace disque disponible</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 35 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 35 MB d'espace disque disponible</li></ul>"
   },
   "developers": [
     "Walter Machado"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     126257
@@ -104,5 +106,9 @@
     "url": "https://www.facebook.com/swarmriders/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/527000/page_bg_generated_v6b.jpg?t=1478459533"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/527000/page_bg_generated_v6b.jpg?t=1478459533",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

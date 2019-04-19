@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "DESCRIPTION<br />\r\n<br />\r\nGrab your controllers, choose your environment, and snap into action with your friends to build amazing contraptions and machines in Perplexigon! <br />\r\n<br />\r\nJump into an immersive multiplayer VR physics sandbox game and choose from a toolbox of blocks and joints to create anything from castles to complex remote controlled rockets.<br />\r\n<br />\r\nUse the tracked Vive or Oculus Touch controllers along with seated or room-scale tracking to fully move around your constructions and build them quickly and intuitively.<br />\r\n<br />\r\nFEATURES<br />\r\n<br />\r\nWhat we have so far:<br />\r\n<br />\r\n-Single and multiplayer building<br />\r\n-Saving and loading blocks/contraptions<br />\r\n-Deleting blocks to break apart or edit your contraptions<br />\r\n-Space Environment! With blocks, characters, gravity toggles and music to match.<br />\r\n-Linkable action blocks which can be remotely triggered<br />\r\n-Drag control wires between action blocks to connect their trigger buttons, allowing you to fire several off at once or create branches to create precise sequences<br />\r\n<br />\r\nLots of blocks:<br />\r\n<br />\r\nStructural Blocks<br />\r\n-Cube<br />\r\n-Wheel<br />\r\n-Pyramid<br />\r\n-Rhombicuboctahedron<br />\r\n-Plate<br />\r\n-Pole<br />\r\n-Sphere<br />\r\n<br />\r\nMechanical Blocks <br />\r\n-Hinges: An elbow joint letting connected blocks swing about a central axis<br />\r\n-Springs: A linear compression spring letting you create shock absorbers or bouncy bits<br />\r\n-Axles: Allows the two sides to spin freely<br />\r\n-Ball joints: Connects two blocks with a full range of rotation between them<br />\r\n<br />\r\nAction Blocks <br />\r\n-Motors: Both clockwise and counterclockwise remote activated motors<br />\r\n-Thrusters: Applies a continuous force to whatever it's attached to and blows away anything in its wake<br />\r\n-Bombs: Trigger an explosion remotely or link several together to really shake things up<br />\r\n<br />\r\nFUTURE CONTENT<br />\r\n<br />\r\nWhat we plan on adding:<br />\r\n-Puzzle based missions that require users to build contraptions to accomplish a goal or set of goals.<br />\r\n-Additional environments, each with unique features, blocks, characters, and music!<br />\r\n-More block types that will allow you to build even bigger and more perplexing machines!",
   "about_the_game": "DESCRIPTION<br />\r\n<br />\r\nGrab your controllers, choose your environment, and snap into action with your friends to build amazing contraptions and machines in Perplexigon! <br />\r\n<br />\r\nJump into an immersive multiplayer VR physics sandbox game and choose from a toolbox of blocks and joints to create anything from castles to complex remote controlled rockets.<br />\r\n<br />\r\nUse the tracked Vive or Oculus Touch controllers along with seated or room-scale tracking to fully move around your constructions and build them quickly and intuitively.<br />\r\n<br />\r\nFEATURES<br />\r\n<br />\r\nWhat we have so far:<br />\r\n<br />\r\n-Single and multiplayer building<br />\r\n-Saving and loading blocks/contraptions<br />\r\n-Deleting blocks to break apart or edit your contraptions<br />\r\n-Space Environment! With blocks, characters, gravity toggles and music to match.<br />\r\n-Linkable action blocks which can be remotely triggered<br />\r\n-Drag control wires between action blocks to connect their trigger buttons, allowing you to fire several off at once or create branches to create precise sequences<br />\r\n<br />\r\nLots of blocks:<br />\r\n<br />\r\nStructural Blocks<br />\r\n-Cube<br />\r\n-Wheel<br />\r\n-Pyramid<br />\r\n-Rhombicuboctahedron<br />\r\n-Plate<br />\r\n-Pole<br />\r\n-Sphere<br />\r\n<br />\r\nMechanical Blocks <br />\r\n-Hinges: An elbow joint letting connected blocks swing about a central axis<br />\r\n-Springs: A linear compression spring letting you create shock absorbers or bouncy bits<br />\r\n-Axles: Allows the two sides to spin freely<br />\r\n-Ball joints: Connects two blocks with a full range of rotation between them<br />\r\n<br />\r\nAction Blocks <br />\r\n-Motors: Both clockwise and counterclockwise remote activated motors<br />\r\n-Thrusters: Applies a continuous force to whatever it's attached to and blows away anything in its wake<br />\r\n-Bombs: Trigger an explosion remotely or link several together to really shake things up<br />\r\n<br />\r\nFUTURE CONTENT<br />\r\n<br />\r\nWhat we plan on adding:<br />\r\n-Puzzle based missions that require users to build contraptions to accomplish a goal or set of goals.<br />\r\n-Additional environments, each with unique features, blocks, characters, and music!<br />\r\n-More block types that will allow you to build even bigger and more perplexing machines!",
-  "short_description": "Grab your controllers, choose your environment, and snap into action with your friends to build amazing contraptions and machines in Perplexigon! <br />\r\n<br />\r\nJump into an immersive multiplayer VR physics sandbox game and choose from a toolbox of blocks and joints to create anything from castles to complex remote controlled rockets.<br />\r\n<br />\r\nUse the tracked Vive or Oculus Touch controllers along with seated or room-scale tracking to fully move around your constructions and build them quickly and intuitively.",
+  "short_description": "Grab your controllers, choose your environment, and snap into action with your friends to build amazing contraptions and machines in Perplexigon! Jump into an immersive multiplayer VR physics sandbox game and choose from a toolbox of blocks and joints to create anything from castles to complex remote controlled rockets.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/641590/header.jpg?t=1510940432",
   "website": "http://perplexigon.com/",
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     178082
@@ -201,6 +203,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Sep, 2017"
@@ -209,5 +214,9 @@
     "url": "http://perplexigon.com/",
     "email": "support@moback.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/641590/page_bg_generated_v6b.jpg?t=1510940432"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/641590/page_bg_generated_v6b.jpg?t=1510940432",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

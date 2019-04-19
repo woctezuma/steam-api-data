@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     17972,
@@ -72,7 +74,7 @@
   },
   "metacritic": {
     "score": 66,
-    "url": "http://www.metacritic.com/game/pc/memento-mori?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/memento-mori?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -171,7 +173,10 @@
     }
   ],
   "recommendations": {
-    "total": 106
+    "total": 104
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -181,5 +186,9 @@
     "url": "",
     "email": "support@bohemia.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/200490/page_bg_generated_v6b.jpg?t=1521641963"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/200490/page_bg_generated_v6b.jpg?t=1521641963",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 2299,
-    "final": 2299,
-    "discount_percent": 0
+    "initial": 2199,
+    "final": 2199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "21,99\u20ac"
   },
   "packages": [
     223448
@@ -51,11 +53,11 @@
           "packageid": 223448,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: Balezino Mosti - 22,99\u20ac",
+          "option_text": "TANE DLC: Balezino Mosti - 21,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2299
+          "price_in_cents_with_discount": 2199
         }
       ]
     }
@@ -203,6 +205,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Oct, 2016"
@@ -211,5 +216,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/520780/page_bg_generated_v6b.jpg?t=1479201615"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/520780/page_bg_generated_v6b.jpg?t=1479201615",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Contains 6 additional characters: Alex, Guile, Ibuki, Balrog, Juri, and Urien, each with a premium alternate costume, for Street Fighter\u00ae V.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/425110/extras/SFV_SeasonPass.jpg?t=1519348210\" >",
   "about_the_game": "Contains 6 additional characters: Alex, Guile, Ibuki, Balrog, Juri, and Urien, each with a premium alternate costume, for Street Fighter\u00ae V.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/425110/extras/SFV_SeasonPass.jpg?t=1519348210\" >",
-  "short_description": "",
+  "short_description": "Contains 6 additional characters: Alex, Guile, Ibuki, Balrog, Juri, and Urien, each with a premium alternate costume, for Street Fighter\u00ae V.",
   "fullgame": {
     "appid": "310950",
-    "name": "Street Fighter V: Arcade Edition"
+    "name": "Street Fighter V"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Arabic, Japanese<strong>*</strong>, Korean, Polish, Portuguese-Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Japanese<strong>*</strong>, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/425110/header.jpg?t=1519348210",
   "website": "http://www.streetfighter.com/",
   "pc_requirements": [],
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     87256,
@@ -118,7 +120,10 @@
     }
   ],
   "recommendations": {
-    "total": 196
+    "total": 142
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -128,5 +133,9 @@
     "url": "http://shop.capcom.com/store/capcomus/html/pbPage.capcom-support",
     "email": "support@capcom.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/425110/page_bg_generated_v6b.jpg?t=1519348210"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/425110/page_bg_generated_v6b.jpg?t=1519348210",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

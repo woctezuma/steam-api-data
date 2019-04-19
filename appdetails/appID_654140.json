@@ -36,8 +36,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "final": 399,
+    "discount_percent": 50,
+    "initial_formatted": "7,99\u20ac",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     184333
@@ -54,13 +56,13 @@
       "subs": [
         {
           "packageid": 184333,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Realms of Arkania: Star Trail - Digital Deluxe Content - 7,99\u20ac",
+          "option_text": "Realms of Arkania: Star Trail - Digital Deluxe Content - <span class=\"discount_original_price\">7,99\u20ac</span> 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -115,6 +117,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/654140/ss_a2f47b03c342467cdbd1b02938017b1f4a5541f7.1920x1080.jpg?t=1522222217"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Aug, 2017"
@@ -123,5 +128,9 @@
     "url": "",
     "email": "support@uieg.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/654140/page_bg_generated_v6b.jpg?t=1522222217"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/654140/page_bg_generated_v6b.jpg?t=1522222217",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

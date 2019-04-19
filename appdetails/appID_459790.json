@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Theme song for NEKOPARA Vol. 1<br />\r\n<br />\r\n1. Taiyou Paradise<br />\r\n   Singer: Nao<br />\r\n   <br />\r\n2. Nekomanma Biyori<br />\r\n   Singer: Haruka Shimotsuki<br />\r\n   <br />\r\n3. &amp; 4. are instrumental versions<br />\r\n<br />\r\nAudio is in FLAC format.",
   "about_the_game": "Theme song for NEKOPARA Vol. 1<br />\r\n<br />\r\n1. Taiyou Paradise<br />\r\n   Singer: Nao<br />\r\n   <br />\r\n2. Nekomanma Biyori<br />\r\n   Singer: Haruka Shimotsuki<br />\r\n   <br />\r\n3. &amp; 4. are instrumental versions<br />\r\n<br />\r\nAudio is in FLAC format.",
-  "short_description": "Theme song for NEKOPARA Vol. 1",
+  "short_description": "Theme song for NEKOPARA Vol.",
   "fullgame": {
     "appid": "333600",
     "name": "NEKOPARA Vol. 1"
@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     100090
@@ -96,6 +98,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/459790/ss_50a14ad6960d1e0a4f444f1c6cdaeed4b2bd3628.1920x1080.jpg?t=1478563555"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Apr, 2016"
@@ -104,5 +109,12 @@
     "url": "",
     "email": "support@sekaiproject.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/459790/page_bg_generated_v6b.jpg?t=1478563555"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/459790/page_bg_generated_v6b.jpg?t=1478563555",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

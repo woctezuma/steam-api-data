@@ -5,8 +5,8 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/787910/extras/logo_image.png?t=1516200512\" ><h2 class=\"bb_tag\">Overview</h2>This is the first Alternate Skin in Rivals of Aether featuring the crossover character of Ragnir from Brawlhalla as a skin for Maypul, the Sylvan Watcher.<h2 class=\"bb_tag\">Ragnir</h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/787910/extras/rag_image2.png?t=1516200512\" ><br>Ragnir Malakkir Rex is an apex predator, a dragon ninety feet long in his natural form. He hunted the Fangwild Forest and its neighboring lands, and everything he met was prey or plunder. He cameos in Rivals of Aether bringing his signature katars and his affinity toward flame.<br><ul class=\"bb_ul\"><li>All new animations for every attack and motion to turn Maypul into the feared dragon.<br></li><li>New sound effects to give Ragnir a fiery touch to his fighting form.<br></li><li>Lily is replaced with a Brawlhalla item drop. Throw spike balls and watch the sword bounce them into the air!</li></ul>",
-  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/787910/extras/logo_image.png?t=1516200512\" ><h2 class=\"bb_tag\">Overview</h2>This is the first Alternate Skin in Rivals of Aether featuring the crossover character of Ragnir from Brawlhalla as a skin for Maypul, the Sylvan Watcher.<h2 class=\"bb_tag\">Ragnir</h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/787910/extras/rag_image2.png?t=1516200512\" ><br>Ragnir Malakkir Rex is an apex predator, a dragon ninety feet long in his natural form. He hunted the Fangwild Forest and its neighboring lands, and everything he met was prey or plunder. He cameos in Rivals of Aether bringing his signature katars and his affinity toward flame.<br><ul class=\"bb_ul\"><li>All new animations for every attack and motion to turn Maypul into the feared dragon.<br></li><li>New sound effects to give Ragnir a fiery touch to his fighting form.<br></li><li>Lily is replaced with a Brawlhalla item drop. Throw spike balls and watch the sword bounce them into the air!</li></ul>",
+  "detailed_description": "<img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/787910/extras/logo_image.png?t=1516200512\" crossorigin=\"anonymous\"><h2 class=\"bb_tag\">Overview</h2>This is the first Alternate Skin in Rivals of Aether featuring the crossover character of Ragnir from Brawlhalla as a skin for Maypul, the Sylvan Watcher.<h2 class=\"bb_tag\">Ragnir</h2><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/787910/extras/rag_image2.png?t=1516200512\" crossorigin=\"anonymous\"><br>Ragnir Malakkir Rex is an apex predator, a dragon ninety feet long in his natural form. He hunted the Fangwild Forest and its neighboring lands, and everything he met was prey or plunder. He cameos in Rivals of Aether bringing his signature katars and his affinity toward flame.<br><ul class=\"bb_ul\"><li>All new animations for every attack and motion to turn Maypul into the feared dragon.<br></li><li>New sound effects to give Ragnir a fiery touch to his fighting form.<br></li><li>Lily is replaced with a Brawlhalla item drop. Throw spike balls and watch the sword bounce them into the air!</li></ul>",
+  "about_the_game": "<img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/787910/extras/logo_image.png?t=1516200512\" crossorigin=\"anonymous\"><h2 class=\"bb_tag\">Overview</h2>This is the first Alternate Skin in Rivals of Aether featuring the crossover character of Ragnir from Brawlhalla as a skin for Maypul, the Sylvan Watcher.<h2 class=\"bb_tag\">Ragnir</h2><img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/787910/extras/rag_image2.png?t=1516200512\" crossorigin=\"anonymous\"><br>Ragnir Malakkir Rex is an apex predator, a dragon ninety feet long in his natural form. He hunted the Fangwild Forest and its neighboring lands, and everything he met was prey or plunder. He cameos in Rivals of Aether bringing his signature katars and his affinity toward flame.<br><ul class=\"bb_ul\"><li>All new animations for every attack and motion to turn Maypul into the feared dragon.<br></li><li>New sound effects to give Ragnir a fiery touch to his fighting form.<br></li><li>Lily is replaced with a Brawlhalla item drop. Throw spike balls and watch the sword bounce them into the air!</li></ul>",
   "short_description": "An Alternate Skin for Maypul from Rivals of Aether turning her into Ragnir from Brawlhalla.",
   "fullgame": {
     "appid": "383980",
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     238068
@@ -154,6 +156,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jan, 2018"
@@ -162,5 +167,9 @@
     "url": "http://rivalsofaether.com",
     "email": "contact@rivalsofaether.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/787910/page_bg_generated_v6b.jpg?t=1516200512"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/787910/page_bg_generated_v6b.jpg?t=1516200512",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

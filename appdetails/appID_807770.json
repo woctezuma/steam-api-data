@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     246319
@@ -158,5 +160,12 @@
     "url": "http://www.newwestgames.com",
     "email": "info@newwestgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/807770/page_bg_generated_v6b.jpg?t=1520894538"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/807770/page_bg_generated_v6b.jpg?t=1520894538",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

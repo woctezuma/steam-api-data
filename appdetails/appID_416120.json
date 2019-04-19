@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     83847
@@ -127,6 +129,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Jul, 2016"
@@ -135,5 +140,9 @@
     "url": "http://www.narwalengineering.com/contact-me/",
     "email": "tallnarwal@narwalengineering.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416120/page_bg_generated_v6b.jpg?t=1477273087"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416120/page_bg_generated_v6b.jpg?t=1477273087",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -5,15 +5,15 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "Pixel Puzzles Ultimate, the definitive jigsaw puzzler for the PC platform.<h2 class=\"bb_tag\">PACK INFO:</h2><strong>Puzzle Count:</strong> 1<br><strong>Total Piece Count:</strong> 1000<h2 class=\"bb_tag\">PACK CONTENTS:</h2><ul class=\"bb_ul\"><li>Patagonia - x1000</li></ul>",
-  "about_the_game": "Pixel Puzzles Ultimate, the definitive jigsaw puzzler for the PC platform.<h2 class=\"bb_tag\">PACK INFO:</h2><strong>Puzzle Count:</strong> 1<br><strong>Total Piece Count:</strong> 1000<h2 class=\"bb_tag\">PACK CONTENTS:</h2><ul class=\"bb_ul\"><li>Patagonia - x1000</li></ul>",
+  "detailed_description": "Pixel Puzzles Ultimate, the definitive jigsaw puzzler for the PC platform.<h2 class=\"bb_tag\">PACK INFO:</h2><strong>Puzzle Count:</strong> 2<br><strong>Total Piece Count:</strong> 1400<h2 class=\"bb_tag\">PACK CONTENTS:</h2><ul class=\"bb_ul\"><li>Patagonia - x1000</li></ul><ul class=\"bb_ul\"><li>Walking On Ice - x400</li></ul>",
+  "about_the_game": "Pixel Puzzles Ultimate, the definitive jigsaw puzzler for the PC platform.<h2 class=\"bb_tag\">PACK INFO:</h2><strong>Puzzle Count:</strong> 2<br><strong>Total Piece Count:</strong> 1400<h2 class=\"bb_tag\">PACK CONTENTS:</h2><ul class=\"bb_ul\"><li>Patagonia - x1000</li></ul><ul class=\"bb_ul\"><li>Walking On Ice - x400</li></ul>",
   "short_description": "Pixel Puzzles Ultimate, redefining digital puzzling.",
   "fullgame": {
     "appid": "351030",
     "name": "Pixel Puzzles Ultimate"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/565324/header.jpg?t=1508270796",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/565324/header.jpg?t=1544564024",
   "website": "http://decayinglogic.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10, 8.1, 8, 7, Vista, XP<br></li><li><strong>Processor:</strong> Intel\u00ae Core 2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0 Compatible<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> Generic Sound Device</li></ul>"
@@ -25,13 +25,15 @@
     "DL Softworks"
   ],
   "publishers": [
-    "KISS ltd"
+    "DL Softworks"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 149,
-    "discount_percent": 50
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     142759
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 142759,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Pixel Puzzles Ultimate - Puzzle Pack: Glaciers - <span class=\"discount_original_price\">2,99\u20ac</span> 1,49\u20ac",
+          "option_text": "Pixel Puzzles Ultimate - Puzzle Pack: Glaciers - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 149
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -131,10 +133,18 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/565324/ss_5d63e74004c1cdf5dbd40919ecc63ee33fe2a3e5.600x338.jpg?t=1508270796",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/565324/ss_5d63e74004c1cdf5dbd40919ecc63ee33fe2a3e5.1920x1080.jpg?t=1508270796"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/565324/ss_5d63e74004c1cdf5dbd40919ecc63ee33fe2a3e5.600x338.jpg?t=1544564024",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/565324/ss_5d63e74004c1cdf5dbd40919ecc63ee33fe2a3e5.1920x1080.jpg?t=1544564024"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/565324/ss_5377a6fa154a766bd909e959386ede3ad04dfa56.600x338.jpg?t=1544564024",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/565324/ss_5377a6fa154a766bd909e959386ede3ad04dfa56.1920x1080.jpg?t=1544564024"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Dec, 2016"
@@ -143,5 +153,9 @@
     "url": "http://decayinglogic.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/565324/page_bg_generated_v6b.jpg?t=1508270796"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/565324/page_bg_generated_v6b.jpg?t=1544564024",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

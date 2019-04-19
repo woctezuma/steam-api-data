@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 479,
-    "discount_percent": 20
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     192568
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 192568,
-          "percent_savings_text": "-20%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Within a Rose - <span class=\"discount_original_price\">5,99\u20ac</span> 4,79\u20ac",
+          "option_text": "Within a Rose - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 479
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -132,6 +134,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Oct, 2017"
@@ -140,5 +145,12 @@
     "url": "",
     "email": "rhinogearzgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/675890/page_bg_generated_v6b.jpg?t=1508507972"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/675890/page_bg_generated_v6b.jpg?t=1508507972",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": "Contains suggestive text/CGs."
+  }
 }

@@ -6,8 +6,8 @@
   "is_free": false,
   "detailed_description": "<strong>Force of Nature</strong> is a Sandbox game that combines Action, Adventure, RPG, Strategy and Management genres. <br>The player will explore more than 10 different zones, each with its own unique flora and fauna. You can gather and mine resources, create weapons and clothes, build houses, different crafting tables, laboratories and grind your character. Look for useful plants, grow them on seedbeds and domesticate animals to get a stable supply of food. Build portals for faster movement around the world and use map in order not to get lost. <br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>Randomly generated open world <br></li><li>Day/night cycle and dynamic weather <br></li><li>Build, craft and farm systems <br></li><li>Any object in the world is destructible <br></li><li>Lots of creatures, monsters, wild and peaceful animals, weapons, clothes and constructions <br></li><li>Generated proportions of ingredients for potions <br></li><li>Some monsters can be tamed to fight for you</li></ul>",
   "about_the_game": "<strong>Force of Nature</strong> is a Sandbox game that combines Action, Adventure, RPG, Strategy and Management genres. <br>The player will explore more than 10 different zones, each with its own unique flora and fauna. You can gather and mine resources, create weapons and clothes, build houses, different crafting tables, laboratories and grind your character. Look for useful plants, grow them on seedbeds and domesticate animals to get a stable supply of food. Build portals for faster movement around the world and use map in order not to get lost. <br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>Randomly generated open world <br></li><li>Day/night cycle and dynamic weather <br></li><li>Build, craft and farm systems <br></li><li>Any object in the world is destructible <br></li><li>Lots of creatures, monsters, wild and peaceful animals, weapons, clothes and constructions <br></li><li>Generated proportions of ingredients for potions <br></li><li>Some monsters can be tamed to fight for you</li></ul>",
-  "short_description": "<strong>Force of Nature</strong> is a Sandbox game that combines Action, Adventure, RPG, Strategy and Management genres",
-  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Portuguese-Brazil<strong>*</strong>, Dutch<strong>*</strong>, Hungarian<strong>*</strong>, Korean<strong>*</strong>, Czech<strong>*</strong>, Japanese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Turkish<strong>*</strong>, Polish<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "short_description": "Force of Nature is a Sandbox game that combines Action, Adventure, RPG, Strategy and Management genres",
+  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Dutch<strong>*</strong>, Hungarian<strong>*</strong>, Korean<strong>*</strong>, Czech<strong>*</strong>, Japanese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Turkish<strong>*</strong>, Polish<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/568570/header.jpg?t=1522830138",
   "website": "https://www.fon-game.com",
   "pc_requirements": {
@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 799,
-    "final": 399,
-    "discount_percent": 50
+    "final": 799,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     143846
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 143846,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Force of Nature - <span class=\"discount_original_price\">7,99\u20ac</span> 3,99\u20ac",
+          "option_text": "Force of Nature - 7,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 799
         }
       ]
     }
@@ -202,7 +204,7 @@
     }
   ],
   "recommendations": {
-    "total": 1692
+    "total": 2159
   },
   "achievements": {
     "total": 18,
@@ -257,5 +259,9 @@
     "url": "https://www.fon-game.com/contacts/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/568570/page_bg_generated_v6b.jpg?t=1522830138"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/568570/page_bg_generated_v6b.jpg?t=1522830138",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

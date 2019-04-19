@@ -1,6 +1,6 @@
 {
   "type": "dlc",
-  "name": "Pure Farming 2018 - Gomselmash Palesse CS \u2013 200",
+  "name": "Pure Farming 2018 - Gomselmash Palesse CS-200",
   "steam_appid": 647631,
   "required_age": 0,
   "is_free": false,
@@ -11,8 +11,8 @@
     "appid": "534370",
     "name": "Pure Farming 2018"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Polish, Russian<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/647631/header.jpg?t=1520976530",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Russian<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/647631/header.jpg?t=1524065341",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10,8,7 (64 bit)<br></li><li><strong>Processor:</strong> Intel Core I5 2,3 GHZ or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Geforce 560 GTX 2 GB or better<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 12 GB available space</li></ul>",
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     182051
@@ -45,7 +47,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Pure Farming 2018 - Gomselmash Palesse CS \u2013 200",
+      "title": "Buy Pure Farming 2018 - Gomselmash Palesse CS-200",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -93,10 +95,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647631/ss_f616efe3cf79a8bb5bdd6362b7b14a7dc5e1f2cf.600x338.jpg?t=1520976530",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647631/ss_f616efe3cf79a8bb5bdd6362b7b14a7dc5e1f2cf.1920x1080.jpg?t=1520976530"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/647631/ss_f616efe3cf79a8bb5bdd6362b7b14a7dc5e1f2cf.600x338.jpg?t=1524065341",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/647631/ss_f616efe3cf79a8bb5bdd6362b7b14a7dc5e1f2cf.1920x1080.jpg?t=1524065341"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Mar, 2018"
@@ -105,5 +110,9 @@
     "url": "support.techland.pl",
     "email": "support@techland.pl"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/647631/page_bg_generated_v6b.jpg?t=1520976530"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/647631/page_bg_generated_v6b.jpg?t=1524065341",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

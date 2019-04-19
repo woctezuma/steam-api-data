@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "The ultimate collection of goods for Nyte Blayde fans! Look just like a Nyte Blayde star with exact replicas of the Altar Boy and Bloody Cannoness Outfits. Experience the excitement of Nyte Blayde's adventures as you get behind the wheel of the Nyte Blayde Mobile vehicle. Top off your full Nyte Blayde experience by zipping around town on the Bloody Cannoness Bike!",
   "about_the_game": "The ultimate collection of goods for Nyte Blayde fans! Look just like a Nyte Blayde star with exact replicas of the Altar Boy and Bloody Cannoness Outfits. Experience the excitement of Nyte Blayde's adventures as you get behind the wheel of the Nyte Blayde Mobile vehicle. Top off your full Nyte Blayde experience by zipping around town on the Bloody Cannoness Bike!",
-  "short_description": "",
+  "short_description": "The ultimate collection of goods for Nyte Blayde fans! Look just like a Nyte Blayde star with exact replicas of the Altar Boy and Bloody Cannoness Outfits. Experience the excitement of Nyte Blayde's adventures as you get behind the wheel of the Nyte Blayde Mobile vehicle.",
   "fullgame": {
     "appid": "55230",
     "name": "Saints Row: The Third"
   },
-  "supported_languages": "Czech, Dutch, English, French, German, Italian, Polish, Russian, Spanish",
+  "supported_languages": "Czech, Dutch, English, French, German, Italian, Polish, Russian, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/55396/header.jpg?t=1479293626",
   "website": "http://www.saintsrow.com/",
   "pc_requirements": {
@@ -33,11 +33,13 @@
     "currency": "EUR",
     "initial": 249,
     "final": 249,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     14080,
-    "17933"
+    17933
   ],
   "package_groups": [
     {
@@ -60,7 +62,7 @@
           "price_in_cents_with_discount": 249
         },
         {
-          "packageid": "17933",
+          "packageid": 17933,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Saints Row: The Third - The Full Package - 14,99\u20ac",
@@ -131,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/55396/ss_9fdd7ac4eff0c3a1a5997c4aee6297f5d7bc2e14.1920x1080.jpg?t=1479293626"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Apr, 2012"
@@ -139,5 +144,11 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/55396/page_bg_generated_v6b.jpg?t=1479293626"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/55396/page_bg_generated_v6b.jpg?t=1479293626",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

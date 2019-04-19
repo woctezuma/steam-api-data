@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Experience this special edition art book from Wales Interactive's adventure cyber-thriller Soul Axiom. Featuring 170 pages (85 double pages) of behind the scenes concept art and artwork used in the creation of the game. A real insight into Soul Axiom's development, the game creators\u2019 minds and the beautiful digital world of Elysia.<br />\r\n<br />\r\nThe Soul Axiom art book will be downloaded to your computer as an eBook (PDF). You must have Soul Axiom installed on your computer to receive the DLC content.",
   "about_the_game": "Experience this special edition art book from Wales Interactive's adventure cyber-thriller Soul Axiom. Featuring 170 pages (85 double pages) of behind the scenes concept art and artwork used in the creation of the game. A real insight into Soul Axiom's development, the game creators\u2019 minds and the beautiful digital world of Elysia.<br />\r\n<br />\r\nThe Soul Axiom art book will be downloaded to your computer as an eBook (PDF). You must have Soul Axiom installed on your computer to receive the DLC content.",
-  "short_description": "",
+  "short_description": "Experience this special edition art book from Wales Interactive's adventure cyber-thriller Soul Axiom. Featuring 170 pages (85 double pages) of behind the scenes concept art and artwork used in the creation of the game. A real insight into Soul Axiom's development, the game creators\u2019 minds and the beautiful digital world of Elysia.",
   "fullgame": {
     "appid": "279900",
     "name": "Soul Axiom"
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     91113,
@@ -63,13 +65,13 @@
         },
         {
           "packageid": 94712,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Soul Axiom Super Deluxe Edition - 27,99\u20ac",
+          "option_text": "Soul Axiom Super Deluxe Edition - <span class=\"discount_original_price\">27,99\u20ac</span> 8,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2799
+          "price_in_cents_with_discount": 839
         }
       ]
     }
@@ -147,6 +149,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/435820/ss_e1c6416c398885e73f89a918c063caab31cd3f66.1920x1080.jpg?t=1456771673"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Feb, 2016"
@@ -155,5 +160,9 @@
     "url": "http://www.walesinteractive.com/#!contact/c21nl",
     "email": "support@walesinteractive.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/435820/page_bg_generated_v6b.jpg?t=1456771673"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/435820/page_bg_generated_v6b.jpg?t=1456771673",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

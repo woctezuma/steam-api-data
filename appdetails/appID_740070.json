@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     216695
@@ -256,5 +258,9 @@
     "url": "http://www.phime.com/contact-us/",
     "email": "office@phime.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740070/page_bg_generated_v6b.jpg?t=1511970558"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740070/page_bg_generated_v6b.jpg?t=1511970558",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

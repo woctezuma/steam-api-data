@@ -35,9 +35,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     151742
@@ -56,11 +58,11 @@
           "packageid": 151742,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "NASCAR Heat Evolution - 2017 Unlock (2017unlock) - 9,99\u20ac",
+          "option_text": "NASCAR Heat Evolution - 2017 Unlock (2017unlock) - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -125,6 +127,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/587080/ss_9283b95acac057470fd3680f1ab290de0cc1a0e9.1920x1080.jpg?t=1487690645"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Feb, 2017"
@@ -133,5 +138,9 @@
     "url": "nascarheat.com/support",
     "email": "customersupport@dmracing.org"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/587080/page_bg_generated_v6b.jpg?t=1487690645"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/587080/page_bg_generated_v6b.jpg?t=1487690645",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

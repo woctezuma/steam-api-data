@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     116986
@@ -94,6 +96,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/506910/ss_7dc7cf0677e0c63c1b5fd3a539cf25d9558a824c.1920x1080.jpg?t=1511541588"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Jul, 2016"
@@ -102,5 +107,9 @@
     "url": "http://www.headupgames.com/",
     "email": "support@headupgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/506910/page_bg_generated_v6b.jpg?t=1511541588"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/506910/page_bg_generated_v6b.jpg?t=1511541588",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

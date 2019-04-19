@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     218980
@@ -113,6 +115,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Dec, 2017"
@@ -121,5 +126,9 @@
     "url": "",
     "email": "cybervaca.enter@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/746260/page_bg_generated_v6b.jpg?t=1513184004"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/746260/page_bg_generated_v6b.jpg?t=1513184004",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

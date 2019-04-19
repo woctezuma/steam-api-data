@@ -12,7 +12,7 @@
     "name": "MODO indie"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/821470/header.jpg?t=1520636747",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/821470/header.jpg?t=1526662373",
   "website": "http://pushingpoints.com/v2/the-pushing-points-polystein-kit-for-modo/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8 or Windows 10 (64-bit only)<br></li><li><strong>Processor:</strong> Intel processor(s), Core i3 or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
@@ -28,7 +28,40 @@
   "publishers": [
     "Foundry"
   ],
-  "package_groups": [],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 9299,
+    "final": 9299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "92,99\u20ac"
+  },
+  "packages": [
+    251939
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Modo indie - Polystein Kit",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 251939,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Modo indie - Polystein Kit - 92,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 9299
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": true,
@@ -53,38 +86,38 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_7414967734a302420c6da1f7b28e0280fb2532e8.600x338.jpg?t=1520636747",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_7414967734a302420c6da1f7b28e0280fb2532e8.1920x1080.jpg?t=1520636747"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_7414967734a302420c6da1f7b28e0280fb2532e8.600x338.jpg?t=1526662373",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_7414967734a302420c6da1f7b28e0280fb2532e8.1920x1080.jpg?t=1526662373"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_e49d0509efc3f5582e389c822e972012010b860d.600x338.jpg?t=1520636747",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_e49d0509efc3f5582e389c822e972012010b860d.1920x1080.jpg?t=1520636747"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_e49d0509efc3f5582e389c822e972012010b860d.600x338.jpg?t=1526662373",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_e49d0509efc3f5582e389c822e972012010b860d.1920x1080.jpg?t=1526662373"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_0530fb137a6d367a1d53b4d41285ff2ec381a1fa.600x338.jpg?t=1520636747",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_0530fb137a6d367a1d53b4d41285ff2ec381a1fa.1920x1080.jpg?t=1520636747"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_0530fb137a6d367a1d53b4d41285ff2ec381a1fa.600x338.jpg?t=1526662373",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_0530fb137a6d367a1d53b4d41285ff2ec381a1fa.1920x1080.jpg?t=1526662373"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_0ef9a5ee748f15c937b9ab457e21b6921d86fcc8.600x338.jpg?t=1520636747",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_0ef9a5ee748f15c937b9ab457e21b6921d86fcc8.1920x1080.jpg?t=1520636747"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_0ef9a5ee748f15c937b9ab457e21b6921d86fcc8.600x338.jpg?t=1526662373",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_0ef9a5ee748f15c937b9ab457e21b6921d86fcc8.1920x1080.jpg?t=1526662373"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_35cc07d3296b127bfda0daad21a194742700bbb2.600x338.jpg?t=1520636747",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_35cc07d3296b127bfda0daad21a194742700bbb2.1920x1080.jpg?t=1520636747"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_35cc07d3296b127bfda0daad21a194742700bbb2.600x338.jpg?t=1526662373",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_35cc07d3296b127bfda0daad21a194742700bbb2.1920x1080.jpg?t=1526662373"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_91042d76231ed3d2a6d0a45b1136ddd660a01bbe.600x338.jpg?t=1520636747",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_91042d76231ed3d2a6d0a45b1136ddd660a01bbe.1920x1080.jpg?t=1520636747"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_91042d76231ed3d2a6d0a45b1136ddd660a01bbe.600x338.jpg?t=1526662373",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_91042d76231ed3d2a6d0a45b1136ddd660a01bbe.1920x1080.jpg?t=1526662373"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_33320daa7b7d904d0a163f3905e6dfecf33e4323.600x338.jpg?t=1520636747",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_33320daa7b7d904d0a163f3905e6dfecf33e4323.1920x1080.jpg?t=1520636747"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_33320daa7b7d904d0a163f3905e6dfecf33e4323.600x338.jpg?t=1526662373",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821470/ss_33320daa7b7d904d0a163f3905e6dfecf33e4323.1920x1080.jpg?t=1526662373"
     }
   ],
   "movies": [
@@ -100,12 +133,16 @@
     }
   ],
   "release_date": {
-    "coming_soon": true,
-    "date": "Coming Soon!"
+    "coming_soon": false,
+    "date": "18 May, 2018"
   },
   "support_info": {
     "url": "http://www.pushingpoints.com/v2/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/821470/page_bg_generated_v6b.jpg?t=1520636747"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/821470/page_bg_generated_v6b.jpg?t=1526662373",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

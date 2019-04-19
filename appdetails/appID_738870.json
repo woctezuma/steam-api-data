@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     216166
@@ -157,5 +159,9 @@
     "url": "",
     "email": "clickraid@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/738870/page_bg_generated_v6b.jpg?t=1508545320"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/738870/page_bg_generated_v6b.jpg?t=1508545320",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

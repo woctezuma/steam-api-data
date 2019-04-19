@@ -32,8 +32,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "final": 159,
+    "discount_percent": 20,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     106216
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 106216,
-          "percent_savings_text": "",
+          "percent_savings_text": "-20%",
           "percent_savings": 0,
-          "option_text": "Megadimension Neptunia VII Swimsuit Pack - 1,99\u20ac",
+          "option_text": "Megadimension Neptunia VII Swimsuit Pack - <span class=\"discount_original_price\">1,99\u20ac</span> 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -119,6 +121,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/476864/ss_b6699d5cd97bfc0379edb93f2018c5720a1dd62e.1920x1080.jpg?t=1467748672"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jul, 2016"
@@ -127,5 +132,9 @@
     "url": "http://ideafintl.com/contact.php",
     "email": "pcsupport@ideafintl.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/476864/page_bg_generated_v6b.jpg?t=1467748672"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/476864/page_bg_generated_v6b.jpg?t=1467748672",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

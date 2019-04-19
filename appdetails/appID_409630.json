@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     81373
@@ -123,6 +125,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Oct, 2015"
@@ -131,5 +136,9 @@
     "url": "www.overflowgames.se",
     "email": "info@overflowgames.se"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/409630/page_bg_generated_v6b.jpg?t=1447378430"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/409630/page_bg_generated_v6b.jpg?t=1447378430",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

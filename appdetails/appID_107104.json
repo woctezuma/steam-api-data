@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Includes the Bastion Original Soundtrack with music by Darren Korb in MP3 format, an hour-long album featuring two bonus tracks not heard in the game.<br>\t\t\t\t\t\tSongs will be placed in your Bastion folder in the Steam Directory: <strong>...Steam\\steamapps\\common\\Bastion\\Soundtrack</strong>",
   "about_the_game": "Includes the Bastion Original Soundtrack with music by Darren Korb in MP3 format, an hour-long album featuring two bonus tracks not heard in the game.<br>\t\t\t\t\t\tSongs will be placed in your Bastion folder in the Steam Directory: <strong>...Steam\\steamapps\\common\\Bastion\\Soundtrack</strong>",
-  "short_description": "",
+  "short_description": "Includes the Bastion Original Soundtrack with music by Darren Korb in MP3 format, an hour-long album featuring two bonus tracks not heard in the game. Songs will be placed in your Bastion folder in the Steam Directory: ...",
   "fullgame": {
     "appid": "107100",
     "name": "Bastion"
@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     11156,
@@ -47,21 +49,21 @@
           "packageid": 11156,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Bastion: Original Soundtrack - 9,99\u20ac",
+          "option_text": "Bastion: Original Soundtrack - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 819
         },
         {
           "packageid": 11157,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Bastion Soundtrack Edition - 22,98\u20ac",
+          "option_text": "Bastion Soundtrack Edition - 20,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2298
+          "price_in_cents_with_discount": 2099
         }
       ]
     }
@@ -98,6 +100,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/107104/ss_9e6af24b81c7f32e7ebb6d8c1661833a66bce3fc.1920x1080.jpg?t=1468622144"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Aug, 2011"
@@ -106,5 +111,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/107104/page_bg_generated_v6b.jpg?t=1468622144"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/107104/page_bg_generated_v6b.jpg?t=1468622144",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

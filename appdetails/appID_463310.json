@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     101378
@@ -92,5 +94,9 @@
     "url": "https://www.facebook.com/solongearth/",
     "email": "edu.farage@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/463310/page_bg_generated_v6b.jpg?t=1461766295"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/463310/page_bg_generated_v6b.jpg?t=1461766295",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

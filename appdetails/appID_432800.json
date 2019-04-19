@@ -15,16 +15,16 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/432800/header.jpg?t=1453381207",
   "website": "https://www.crashlands.net/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any</li></ul>",
+    "recommended": "<strong>\u63a8\u5968:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any</li></ul>",
+    "recommended": "<strong>\u63a8\u5968:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any</li></ul>",
+    "recommended": "<strong>\u63a8\u5968:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any</li></ul>"
   },
   "legal_notice": "All DLC contents copyright Fat Bard, all rights reserved. Butterscotch Shenanigans has license agreements to use variants of these contents within Crashlands and related promotional materials.",
   "developers": [
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     90032
@@ -138,5 +140,9 @@
     "url": "https://id.bscotch.net/faq.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/432800/page_bg_generated_v6b.jpg?t=1453381207"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/432800/page_bg_generated_v6b.jpg?t=1453381207",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

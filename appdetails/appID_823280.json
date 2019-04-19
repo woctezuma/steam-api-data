@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     252649
@@ -51,11 +53,11 @@
           "packageid": 252649,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "STE : Save The Earth - 2,99\u20ac",
+          "option_text": "STE : Save The Earth - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -193,5 +195,9 @@
     "url": "",
     "email": "zakosgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/823280/page_bg_generated_v6b.jpg?t=1522692287"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/823280/page_bg_generated_v6b.jpg?t=1522692287",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

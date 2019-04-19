@@ -11,8 +11,8 @@
     "appid": "353830",
     "name": "Sid Meier's Civilization: Beyond Earth - Rising Tide"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Japanese, Korean, Polish<strong>*</strong>, Russian<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/394170/header.jpg?t=1447377519",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese, Korean, Polish<strong>*</strong>, Russian<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/394170/header.jpg?t=1527625301",
   "website": "http://www.civilization.com/",
   "pc_requirements": [],
   "mac_requirements": [],
@@ -20,10 +20,13 @@
   "legal_notice": "\u00a9 1991-2015 Take-Two Interactive Software and its subsidiaries. Developed by Firaxis Games. Sid Meier\u2019s Civilization: Beyond Earth, Sid Meier\u2019s Civilization, Civ, Civilization, 2K, Firaxis Games, Take-Two Interactive Software and their respective logos are all trademarks of Take-Two Interactive Software, Inc. The ratings icon is a trademark of the Entertainment Software Association. All other marks and trademarks are the property of their respective owners. All rights reserved.",
   "developers": [
     "Firaxis Games",
-    "Aspyr (Mac, Linux)"
+    "Aspyr (Mac)",
+    "Aspyr (Linux)"
   ],
   "publishers": [
-    ""
+    "2K",
+    "Aspyr (Mac)",
+    "Aspyr (Linux)"
   ],
   "package_groups": [],
   "platforms": {
@@ -74,6 +77,9 @@
       "description": "Strategy"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": ""
@@ -82,5 +88,9 @@
     "url": "http://support.2k.com",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

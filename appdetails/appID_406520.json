@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 300,
+    "final": 300,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,--\u20ac"
   },
   "packages": [
     80077,
@@ -54,21 +56,21 @@
           "packageid": 80077,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Read Only Memories - Sounds of Neo-SF - 3,99\u20ac",
+          "option_text": "Read Only Memories - Sounds of Neo-SF - 3,--\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 300
         },
         {
           "packageid": 79718,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "2064: Read Only Memories - Sights and Sounds of Neo-SF - 19,99\u20ac",
+          "option_text": "2064: Read Only Memories - Sights and Sounds of Neo-SF - 18,12\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1999
+          "price_in_cents_with_discount": 1812
         }
       ]
     }
@@ -121,5 +123,9 @@
     "url": "http://www.midboss.com",
     "email": "rombots@midboss.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/406520/page_bg_generated_v6b.jpg?t=1447378284"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/406520/page_bg_generated_v6b.jpg?t=1447378284",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

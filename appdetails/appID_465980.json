@@ -12,7 +12,7 @@
     "appid": "387290",
     "name": "Ori and the Blind Forest: Definitive Edition"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Japanese, Russian, Portuguese-Brazil",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Russian, Portuguese - Brazil",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/465980/header.jpg?t=1461769493",
   "website": "http://www.oriblindforest.com/",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     102352
@@ -108,6 +110,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/465980/ss_2a1a736425dec7db59c6061f7b8d42ae5ebac4be.1920x1080.jpg?t=1461769493"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Apr, 2016"
@@ -116,5 +121,9 @@
     "url": "http://xbox.com/oride",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/465980/page_bg_generated_v6b.jpg?t=1461769493"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/465980/page_bg_generated_v6b.jpg?t=1461769493",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

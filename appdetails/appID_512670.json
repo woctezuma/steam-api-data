@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     119345
@@ -112,5 +114,9 @@
     "url": "http://dexp.in",
     "email": "soft@dexp.in"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512670/page_bg_generated_v6b.jpg?t=1471463155"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512670/page_bg_generated_v6b.jpg?t=1471463155",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,8 +11,8 @@
   "detailed_description": "<h1>Update Notes</h1><p>v1.3.3 Release Notes\r\n\r\nFixes:\r\n\r\n-Truck levels are now fixed\r\n-The flowers that weren't interactable are now fixed\r\n-The Language Flags have been adjusted to display properly on all resolutions\r\n-A lot of small fixes and tweaks.\r\n\r\nKnown Issues: When setting controls in VR use a controller as mouse input and head look interaction doesnt work with the controller options screen.\r\n\r\nAlso be sure to check out the discussions  for other Known Issues and fixes/workarounds are detailed there.\r\n\r\nP.S. Translated versions of this Update Notes section of the store page will be coming soon.</p><br><h1>About the Game</h1>In 'n Verlore Verstand you will be transported to a reality of dreams and nightmares. What will you discover about yourself in this journey through the subconscious? \r\n\r\nIn these realms of the unknown, you must travel through labyrinths of memories to eventually find your way to your own truth. \r\n\r\nFeatures: \r\n\r\n-Abstract adventure. \r\n-Engaging dream-like environments. \r\n-Mysterious puzzles. \r\n-Platforming \r\n-Exploration \r\n-Oculus Rift integration.",
   "about_the_game": "In 'n Verlore Verstand you will be transported to a reality of dreams and nightmares. What will you discover about yourself in this journey through the subconscious? <br />\r\n<br />\r\nIn these realms of the unknown, you must travel through labyrinths of memories to eventually find your way to your own truth. <br />\r\n<br />\r\nFeatures: <br />\r\n<br />\r\n-Abstract adventure. <br />\r\n-Engaging dream-like environments. <br />\r\n-Mysterious puzzles. <br />\r\n-Platforming <br />\r\n-Exploration <br />\r\n-Oculus Rift integration.",
   "short_description": "Be prepared to be transported to a reality of dreams and nightmares. What will you discover about yourself in this journey through the subconscious?",
-  "supported_languages": "English, French, Italian, German, Spanish, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese, Portuguese-Brazil, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/439550/header.jpg?t=1491148439",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/439550/header.jpg?t=1531314717",
   "website": "http://www.skobbejakgames.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 32-bit<br></li><li><strong>Processor:</strong> Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce 8800 OR ATI Radeon HD 3870 OR equivalent/higher<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> Direct X compatible</li></ul>",
@@ -42,8 +42,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "final": 299,
+    "discount_percent": 80,
+    "initial_formatted": "14,99\u20ac",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     92772
@@ -60,13 +62,13 @@
       "subs": [
         {
           "packageid": 92772,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "'n Verlore Verstand - 14,99\u20ac",
+          "option_text": "'n Verlore Verstand - <span class=\"discount_original_price\">14,99\u20ac</span> 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -88,6 +90,10 @@
     {
       "id": 28,
       "description": "Full controller support"
+    },
+    {
+      "id": 29,
+      "description": "Steam Trading Cards"
     },
     {
       "id": 31,
@@ -115,28 +121,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_cbabc97de6e1d9671c53d0f2c4432cddb7d18e64.600x338.jpg?t=1491148439",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_cbabc97de6e1d9671c53d0f2c4432cddb7d18e64.1920x1080.jpg?t=1491148439"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_cbabc97de6e1d9671c53d0f2c4432cddb7d18e64.600x338.jpg?t=1531314717",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_cbabc97de6e1d9671c53d0f2c4432cddb7d18e64.1920x1080.jpg?t=1531314717"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_7b942ced7b7e2a6130ab513db0a7f226adc4aba3.600x338.jpg?t=1491148439",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_7b942ced7b7e2a6130ab513db0a7f226adc4aba3.1920x1080.jpg?t=1491148439"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_7b942ced7b7e2a6130ab513db0a7f226adc4aba3.600x338.jpg?t=1531314717",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_7b942ced7b7e2a6130ab513db0a7f226adc4aba3.1920x1080.jpg?t=1531314717"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_1b552ce8e3d97c092b8e54b8fa91e5fbc581e883.600x338.jpg?t=1491148439",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_1b552ce8e3d97c092b8e54b8fa91e5fbc581e883.1920x1080.jpg?t=1491148439"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_1b552ce8e3d97c092b8e54b8fa91e5fbc581e883.600x338.jpg?t=1531314717",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_1b552ce8e3d97c092b8e54b8fa91e5fbc581e883.1920x1080.jpg?t=1531314717"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_469d52513aa368d1e4b181040860315553c1359f.600x338.jpg?t=1491148439",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_469d52513aa368d1e4b181040860315553c1359f.1920x1080.jpg?t=1491148439"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_469d52513aa368d1e4b181040860315553c1359f.600x338.jpg?t=1531314717",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_469d52513aa368d1e4b181040860315553c1359f.1920x1080.jpg?t=1531314717"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_29c375cfec8bbadda4dfdbdeb7d6e47d960098e3.600x338.jpg?t=1491148439",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_29c375cfec8bbadda4dfdbdeb7d6e47d960098e3.1920x1080.jpg?t=1491148439"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_29c375cfec8bbadda4dfdbdeb7d6e47d960098e3.600x338.jpg?t=1531314717",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/439550/ss_29c375cfec8bbadda4dfdbdeb7d6e47d960098e3.1920x1080.jpg?t=1531314717"
     }
   ],
   "movies": [
@@ -214,5 +220,9 @@
     "url": "https://www.skobbejakgames.com/contact/",
     "email": "skobbejakgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/439550/page_bg_generated_v6b.jpg?t=1491148439"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/439550/page_bg_generated_v6b.jpg?t=1531314717",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Narrated by Academy Award\u00ae winner Matt Damon, the film chronicles the story of the iconic Boston Marathon--from its humble origins with only 15 runners to the present day. In addition to highlighting the local Patriots Day race as the oldest annually contested marathon in the world, the film showcases many of the most important moments in the race's history. Among these monumental moments are the tragic events of 2013 bombings, and the preparations for and eventual running of the 118th Boston Marathon one year later, when runners and community gather together &quot;Boston Strong&quot; for what would be the most meaningful race of all.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Narrated by Academy Award\u00ae winner Matt Damon, the film chronicles the story of the iconic Boston Marathon--from its humble origins with only 15 runners to the present day. In addition to highlighting the local Patriots Day race as the oldest annually contested marathon in the world, the film showcases many of the most important moments in the race's history. Among these monumental moments are the tragic events of 2013 bombings, and the preparations for and eventual running of the 118th Boston Marathon one year later, when runners and community gather together &quot;Boston Strong&quot; for what would be the most meaningful race of all.",
   "about_the_game": "Narrated by Academy Award\u00ae winner Matt Damon, the film chronicles the story of the iconic Boston Marathon--from its humble origins with only 15 runners to the present day. In addition to highlighting the local Patriots Day race as the oldest annually contested marathon in the world, the film showcases many of the most important moments in the race's history. Among these monumental moments are the tragic events of 2013 bombings, and the preparations for and eventual running of the 118th Boston Marathon one year later, when runners and community gather together &quot;Boston Strong&quot; for what would be the most meaningful race of all.",
   "short_description": "Narrated by Academy Award\u00ae winner Matt Damon, the film chronicles the story of the iconic Boston Marathon--from its humble origins with only 15 runners to the present day.",
   "fullgame": {
@@ -13,7 +13,7 @@
     "name": "Uninitialized"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/739390/header.jpg?t=1513708036",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/739390/header.jpg?t=1551917489",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 or AMD equivalent<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Network Bandwidth of 5Mbps for 540p, 3Mbps for 360p.</li></ul>",
@@ -31,49 +31,7 @@
   "publishers": [
     "Lionsgate"
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
-  },
-  "packages": [
-    216364,
-    216363
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy Boston",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 216364,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Boston - 4,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 499
-        },
-        {
-          "packageid": 216363,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Boston - 12,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 1299
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": true,
@@ -95,6 +53,10 @@
   ],
   "genres": [
     {
+      "id": "80",
+      "description": "Movie"
+    },
+    {
       "id": "81",
       "description": "Documentary"
     }
@@ -102,28 +64,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_eb6c64478098f27fff5e6ac958d507f4e3a3be1e.600x338.jpg?t=1513708036",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_eb6c64478098f27fff5e6ac958d507f4e3a3be1e.1920x1080.jpg?t=1513708036"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_eb6c64478098f27fff5e6ac958d507f4e3a3be1e.600x338.jpg?t=1551917489",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_eb6c64478098f27fff5e6ac958d507f4e3a3be1e.1920x1080.jpg?t=1551917489"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_9d60706b9c447f55a32c12877341746e07debac7.600x338.jpg?t=1513708036",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_9d60706b9c447f55a32c12877341746e07debac7.1920x1080.jpg?t=1513708036"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_9d60706b9c447f55a32c12877341746e07debac7.600x338.jpg?t=1551917489",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_9d60706b9c447f55a32c12877341746e07debac7.1920x1080.jpg?t=1551917489"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_516a878b7ccbbe8c1c13053438d25d6a54ba2b77.600x338.jpg?t=1513708036",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_516a878b7ccbbe8c1c13053438d25d6a54ba2b77.1920x1080.jpg?t=1513708036"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_516a878b7ccbbe8c1c13053438d25d6a54ba2b77.600x338.jpg?t=1551917489",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_516a878b7ccbbe8c1c13053438d25d6a54ba2b77.1920x1080.jpg?t=1551917489"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_20c2b0060d1d472f329e03450624346cedc25742.600x338.jpg?t=1513708036",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_20c2b0060d1d472f329e03450624346cedc25742.1920x1080.jpg?t=1513708036"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_20c2b0060d1d472f329e03450624346cedc25742.600x338.jpg?t=1551917489",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_20c2b0060d1d472f329e03450624346cedc25742.1920x1080.jpg?t=1551917489"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_5e369f99231ab552aef3414ad3cdc5beba19f48c.600x338.jpg?t=1513708036",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_5e369f99231ab552aef3414ad3cdc5beba19f48c.1920x1080.jpg?t=1513708036"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_5e369f99231ab552aef3414ad3cdc5beba19f48c.600x338.jpg?t=1551917489",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/739390/ss_5e369f99231ab552aef3414ad3cdc5beba19f48c.1920x1080.jpg?t=1551917489"
     }
   ],
   "movies": [
@@ -138,6 +100,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Dec, 2017"
@@ -146,5 +111,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/739390/page_bg_generated_v6b.jpg?t=1513708036"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/739390/page_bg_generated_v6b.jpg?t=1551917489",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

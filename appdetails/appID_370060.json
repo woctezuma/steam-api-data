@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 569,
+    "final": 569,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,69\u20ac"
   },
   "packages": [
     67601
@@ -46,11 +48,11 @@
           "packageid": 67601,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Coffee Shop Tycoon - 5,99\u20ac",
+          "option_text": "Coffee Shop Tycoon - 5,69\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 569
         }
       ]
     }
@@ -153,7 +155,7 @@
     }
   ],
   "recommendations": {
-    "total": 214
+    "total": 266
   },
   "achievements": {
     "total": 23,
@@ -208,5 +210,9 @@
     "url": "",
     "email": "riffstudios@outlook.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/370060/page_bg_generated_v6b.jpg?t=1509222188"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/370060/page_bg_generated_v6b.jpg?t=1509222188",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,10 +26,13 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    190913
+    190913,
+    305826
   ],
   "package_groups": [
     {
@@ -46,6 +49,16 @@
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Band of Outlaws - 4,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 499
+        },
+        {
+          "packageid": 305826,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Band of Outlaws - Commercial License - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -183,5 +196,9 @@
     "url": "",
     "email": "gamesbyjmd@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/670950/page_bg_generated_v6b.jpg?t=1503413309"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/670950/page_bg_generated_v6b.jpg?t=1503413309",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

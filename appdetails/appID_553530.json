@@ -39,7 +39,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     137638
@@ -167,6 +169,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Dec, 2016"
@@ -175,5 +180,9 @@
     "url": "http://steamcommunity.com/app/553530/discussions/",
     "email": "support@shinymoss.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/553530/page_bg_generated_v6b.jpg?t=1506550653"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/553530/page_bg_generated_v6b.jpg?t=1506550653",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

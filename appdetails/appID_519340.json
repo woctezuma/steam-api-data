@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>In this video we talk about a little more about advanced techniques of creating thumbnail sketches. We discuss things such as rhythm , lighting , and texture. The video is 1 hr HD video, in addition I added another 1 hr video doing another black and white sketch. So you get 2 hours total of HD video footage of me painting with LIVE commentary, so you can see all my mistakes and thought process.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>In this video we talk about a little more about advanced techniques of creating thumbnail sketches. We discuss things such as rhythm , lighting , and texture. The video is 1 hr HD video, in addition I added another 1 hr video doing another black and white sketch. So you get 2 hours total of HD video footage of me painting with LIVE commentary, so you can see all my mistakes and thought process.",
   "about_the_game": "In this video we talk about a little more about advanced techniques of creating thumbnail sketches. We discuss things such as rhythm , lighting , and texture. The video is 1 hr HD video, in addition I added another 1 hr video doing another black and white sketch. So you get 2 hours total of HD video footage of me painting with LIVE commentary, so you can see all my mistakes and thought process.",
   "short_description": "This is a series of videos that goes through advanced techniques of thumbnail sketches.",
   "fullgame": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     122203
@@ -112,5 +114,9 @@
     "url": "",
     "email": "KdChock@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519340/page_bg_generated_v6b.jpg?t=1474403264"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519340/page_bg_generated_v6b.jpg?t=1474403264",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     34227
@@ -234,7 +236,7 @@
     }
   ],
   "recommendations": {
-    "total": 294
+    "total": 258
   },
   "achievements": {
     "total": 42,
@@ -289,5 +291,9 @@
     "url": "http://zombiegrinder.com",
     "email": "infinitus@zombiegrinder.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/263920/page_bg_generated_v6b.jpg?t=1478035261"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/263920/page_bg_generated_v6b.jpg?t=1478035261",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

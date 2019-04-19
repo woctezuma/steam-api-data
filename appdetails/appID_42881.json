@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>What is the connection between the nightmares of Lord Blackviper and those mysterious eyes, burning in the night? Who are these little green men? The ones stabbing your tax collectors with their spears? Can the shamans of the God of Plague rival the very gods themselves? From whence does his avatars appear, and who is to blame?</p>\n\t\t\t\t\t\t<p>The search for answers to these questions is unlikely to improve your sleep , but will surely give you many hours of new and exciting battles when the war with the goblins descends upon the peaceful lands of Ardania. And besides, how better could the nights of the Great King be spent?</p>\n\t\t\t\t\t\t<p>In addition to defending against the goblin menace, you may also create your own battles! Become not only the king of Ardania, but its creator as well.</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>Kingmaker editor: Mission creator toolset, which enables players to create their own missions\n\t\t\t\t\t\t<li>\"Return of Grum-Gog\" campaign with 8 new missions\n\t\t\t\t\t\t<li>New monsters available</ul>",
   "about_the_game": "<p>What is the connection between the nightmares of Lord Blackviper and those mysterious eyes, burning in the night? Who are these little green men? The ones stabbing your tax collectors with their spears? Can the shamans of the God of Plague rival the very gods themselves? From whence does his avatars appear, and who is to blame?</p>\n\t\t\t\t\t\t<p>The search for answers to these questions is unlikely to improve your sleep , but will surely give you many hours of new and exciting battles when the war with the goblins descends upon the peaceful lands of Ardania. And besides, how better could the nights of the Great King be spent?</p>\n\t\t\t\t\t\t<p>In addition to defending against the goblin menace, you may also create your own battles! Become not only the king of Ardania, but its creator as well.</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>Kingmaker editor: Mission creator toolset, which enables players to create their own missions\n\t\t\t\t\t\t<li>\"Return of Grum-Gog\" campaign with 8 new missions\n\t\t\t\t\t\t<li>New monsters available</ul>",
-  "short_description": "",
+  "short_description": "What is the connection between the nightmares of Lord Blackviper and those mysterious eyes, burning in the night? Who are these little green men? The ones stabbing your tax collectors with their spears? Can the shamans of the God of Plague rival the very gods themselves? From whence does his avatars appear, and who is to blame?",
   "fullgame": {
     "appid": "25980",
     "name": "Majesty 2"
@@ -28,8 +28,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 249,
+    "discount_percent": 50,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     4403
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 4403,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Majesty 2: Kingmaker - 4,99\u20ac",
+          "option_text": "Majesty 2: Kingmaker - <span class=\"discount_original_price\">4,99\u20ac</span> 2,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 249
         }
       ]
     }
@@ -123,6 +125,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/42881/ss_026ce3d730fe7ded13683b79e024fa2b21ea3745.1920x1080.jpg?t=1447352965"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 May, 2010"
@@ -131,5 +136,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42881/page_bg_generated_v6b.jpg?t=1447352965"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42881/page_bg_generated_v6b.jpg?t=1447352965",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

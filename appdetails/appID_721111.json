@@ -12,8 +12,8 @@
     "appid": "493840",
     "name": "Marvel vs. Capcom: Infinite"
   },
-  "supported_languages": "English<strong>*</strong>, Japanese, French, Italian, German, Spanish, Arabic, Korean, Polish, Portuguese-Brazil, Russian, Simplified Chinese, Thai, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/721111/header.jpg?t=1508284957",
+  "supported_languages": "English<strong>*</strong>, Japanese, French, Italian, German, Spanish - Spain, Arabic, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Thai, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/721111/header.jpg?t=1526377377",
   "website": "https://marvelvscapcominfinite.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-bit<br></li><li><strong>Processor:</strong> Intel Core i3-4160 @ 3.60GHz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u00ae GTX 480, GTX 570, GTX 670, or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 59 GB available space<br></li><li><strong>Sound Card:</strong> DirectSound Supported (DirectX\u00ae 9.0c or more)</li></ul>",
@@ -22,7 +22,6 @@
   "mac_requirements": [],
   "linux_requirements": [],
   "legal_notice": "\u00a9 2017 MARVEL \u00a9MOTO KIKAKU. \u00a9CAPCOM CO., LTD. 2017, \u00a9CAPCOM U.S.A., INC. 2017 ALL RIGHTS RESERVED.",
-  "drm_notice": "Denuvo Anti-tamper<br>5 different PC within a day machine activation limit",
   "developers": [
     "Capcom"
   ],
@@ -33,7 +32,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     209266,
@@ -128,10 +129,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/721111/ss_dc2d87fbb66d1e49daa90f0971f451a3b735ab98.600x338.jpg?t=1508284957",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/721111/ss_dc2d87fbb66d1e49daa90f0971f451a3b735ab98.1920x1080.jpg?t=1508284957"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/721111/ss_dc2d87fbb66d1e49daa90f0971f451a3b735ab98.600x338.jpg?t=1526377377",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/721111/ss_dc2d87fbb66d1e49daa90f0971f451a3b735ab98.1920x1080.jpg?t=1526377377"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Oct, 2017"
@@ -140,5 +144,9 @@
     "url": "",
     "email": "support@capcom.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/721111/page_bg_generated_v6b.jpg?t=1508284957"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/721111/page_bg_generated_v6b.jpg?t=1526377377",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

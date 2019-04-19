@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     11139,
@@ -72,7 +74,7 @@
   },
   "metacritic": {
     "score": 79,
-    "url": "http://www.metacritic.com/game/pc/kohan-ahrimans-gift?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/kohan-ahrimans-gift?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -141,6 +143,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/97120/ss_17b2e57cd7708433047a399d2189b837dcdc7836.1920x1080.jpg?t=1447354555"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Aug, 2011"
@@ -149,5 +154,9 @@
     "url": "http://www.timegate.com/support_kag.php  ",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/97120/page_bg_generated_v6b.jpg?t=1447354555"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/97120/page_bg_generated_v6b.jpg?t=1447354555",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

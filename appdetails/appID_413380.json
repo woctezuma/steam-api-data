@@ -12,7 +12,7 @@
     "appid": "337000",
     "name": "Deus Ex: Mankind Divided"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Polish, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/413380/header.jpg?t=1513078389",
   "website": "http://www.deusex.com/",
   "pc_requirements": {
@@ -41,7 +41,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     82824
@@ -117,6 +119,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/413380/ss_00d3e99ad3f326ae2fd39380837e63c496f242ad.1920x1080.jpg?t=1513078389"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Aug, 2016"
@@ -125,5 +130,9 @@
     "url": "http://sqex.to/steamsupport",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413380/page_bg_generated_v6b.jpg?t=1513078389"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413380/page_bg_generated_v6b.jpg?t=1513078389",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

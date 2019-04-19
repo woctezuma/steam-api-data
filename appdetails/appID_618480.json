@@ -12,7 +12,7 @@
     "appid": "491060",
     "name": "League of Evil"
   },
-  "supported_languages": "English, Spanish, French, German, Japanese, Portuguese, Russian, Ukrainian, Portuguese-Brazil",
+  "supported_languages": "English, Spanish - Spain, French, German, Japanese, Portuguese, Russian, Ukrainian, Portuguese - Brazil",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/618480/header.jpg?t=1491238034",
   "website": "http://www.ratalaikagames.com/",
   "pc_requirements": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     165962
@@ -130,5 +132,9 @@
     "url": "http://www.ratalaikagames.com/",
     "email": "support@ratalaikagames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/618480/page_bg_generated_v6b.jpg?t=1491238034"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/618480/page_bg_generated_v6b.jpg?t=1491238034",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

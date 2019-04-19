@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 199,
-    "discount_percent": 50
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     146986
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 146986,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Puzzle Wishes - <span class=\"discount_original_price\">3,99\u20ac</span> 1,99\u20ac",
+          "option_text": "Puzzle Wishes - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -138,6 +140,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Jan, 2017"
@@ -146,5 +151,12 @@
     "url": "",
     "email": "rhinogearzgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576590/page_bg_generated_v6b.jpg?t=1485384727"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576590/page_bg_generated_v6b.jpg?t=1485384727",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": "Contains provocative swimsuit CGs."
+  }
 }

@@ -34,9 +34,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 175,
+    "final": 175,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,75\u20ac"
   },
   "packages": [
     96481
@@ -55,11 +57,11 @@
           "packageid": 96481,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Sword of the Stars: The Pit - Healer - 1,99\u20ac",
+          "option_text": "Sword of the Stars: The Pit - Healer - 1,75\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 175
         }
       ]
     }
@@ -166,6 +168,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/449720/ss_5f11421e470268ea83d420f113ad310caf18cfd3.1920x1080.jpg?t=1511215334"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Mar, 2016"
@@ -174,5 +179,9 @@
     "url": "http://kerberos-productions.com/forums/viewforum.php?f=66",
     "email": "contact@kerberos-productions.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449720/page_bg_generated_v6b.jpg?t=1511215334"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449720/page_bg_generated_v6b.jpg?t=1511215334",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

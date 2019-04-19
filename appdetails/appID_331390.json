@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     53908,
@@ -173,7 +175,7 @@
     }
   ],
   "recommendations": {
-    "total": 138
+    "total": 124
   },
   "achievements": {
     "total": 32,
@@ -228,5 +230,9 @@
     "url": "http://www.wingedsakura.com/contact",
     "email": "support@wingedsakura.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/331390/page_bg_generated_v6b.jpg?t=1447364718"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/331390/page_bg_generated_v6b.jpg?t=1447364718",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

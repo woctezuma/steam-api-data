@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "<strong>Valhalla Hills \u2013 Sands of the Damned!</strong><br><br>In the first DLC of the Viking adventure Valhalla Hills, our valiant heroes brave the harshness of desert survival. Scorpions and mummies are not the only challanges on the road to Valhalla, though. The earth itself will make life difficult, as it lies barren and dry without irrigation.<br><br>Face the challenge, leave no oasis unexplored and fight for your place in Valhalla.",
   "about_the_game": "<strong>Valhalla Hills \u2013 Sands of the Damned!</strong><br><br>In the first DLC of the Viking adventure Valhalla Hills, our valiant heroes brave the harshness of desert survival. Scorpions and mummies are not the only challanges on the road to Valhalla, though. The earth itself will make life difficult, as it lies barren and dry without irrigation.<br><br>Face the challenge, leave no oasis unexplored and fight for your place in Valhalla.",
-  "short_description": "",
+  "short_description": "Valhalla Hills \u2013 Sands of the Damned!In the first DLC of the Viking adventure Valhalla Hills, our valiant heroes brave the harshness of desert survival. Scorpions and mummies are not the only challanges on the road to Valhalla, though. The earth itself will make life difficult, as it lies barren and dry without irrigation.",
   "fullgame": {
     "appid": "351910",
     "name": "Valhalla Hills"
   },
-  "supported_languages": "English, German, Russian, French, Italian, Spanish, Japanese, Korean, Polish, Portuguese-Brazil, Simplified Chinese, Traditional Chinese",
+  "supported_languages": "English, German, Russian, French, Italian, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Simplified Chinese, Traditional Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/437430/header.jpg?t=1478168555",
   "website": "http://www.valhalla-hills.com/",
   "pc_requirements": {
@@ -33,9 +33,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 99,
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     92054,
@@ -55,21 +57,21 @@
           "packageid": 92054,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Valhalla Hills: Sand of the Damned DLC - 4,99\u20ac",
+          "option_text": "Valhalla Hills: Sand of the Damned DLC - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 99
         },
         {
           "packageid": 75645,
-          "percent_savings_text": "",
+          "percent_savings_text": "-85%",
           "percent_savings": 0,
-          "option_text": "Valhalla Hills: Two-Horned Helmet Edition - 27,99\u20ac",
+          "option_text": "Valhalla Hills: Two-Horned Helmet Edition - <span class=\"discount_original_price\">19,99\u20ac</span> 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2799
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -151,6 +153,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/437430/ss_093a362a870eb99097c5d7d18bcd7856e028f021.1920x1080.jpg?t=1478168555"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Feb, 2016"
@@ -159,5 +164,9 @@
     "url": "http://www.daedalicsupport.com/de/",
     "email": "support@daedalic.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437430/page_bg_generated_v6b.jpg?t=1478168555"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437430/page_bg_generated_v6b.jpg?t=1478168555",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

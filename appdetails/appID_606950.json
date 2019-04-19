@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     160619
@@ -188,5 +190,9 @@
     "url": "https://www.designmodproject.de/forum/army-general",
     "email": "wendt@phobetor.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/606950/page_bg_generated_v6b.jpg?t=1498114243"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/606950/page_bg_generated_v6b.jpg?t=1498114243",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

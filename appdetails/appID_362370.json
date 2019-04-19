@@ -6,10 +6,10 @@
   "is_free": false,
   "detailed_description": "Dog Fight<br />\r\nThe ultimate couch party game. Battle head to head with up to 8 players (cooperatively or versus). Or test your skill against waves of ever amassing enemies. <br />\r\n<br />\r\nFeatures <br />\r\n- Up to 8 players local coop and via internet, LAN or locally<br />\r\n- Computer controlled opponents <br />\r\n- Multiple pickups to improve you combat effectiveness <br />\r\n- Multiple game modes including: invasion, tag team, team free for all, rabbit",
   "about_the_game": "Dog Fight<br />\r\nThe ultimate couch party game. Battle head to head with up to 8 players (cooperatively or versus). Or test your skill against waves of ever amassing enemies. <br />\r\n<br />\r\nFeatures <br />\r\n- Up to 8 players local coop and via internet, LAN or locally<br />\r\n- Computer controlled opponents <br />\r\n- Multiple pickups to improve you combat effectiveness <br />\r\n- Multiple game modes including: invasion, tag team, team free for all, rabbit",
-  "short_description": "Battle head to head with up to 8 players (cooperatively or versus) <br />\r\nor test your skill against waves of ever amassing enemies.",
+  "short_description": "Battle head to head with up to 8 players (cooperatively or versus) or test your skill against waves of ever amassing enemies.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/362370/header.jpg?t=1456347581",
-  "website": null,
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/362370/header.jpg?t=1529892962",
+  "website": "http://bitshift.io/dog-fight/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.0+ Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> A graphics card with shader model 5.0 support<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> 64 bit</li></ul>"
   },
@@ -20,16 +20,18 @@
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 15.10<br></li><li><strong>Processor:</strong> 2.0+ Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> A graphics card with shader model 5.0 support<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> 64 bit</li></ul>"
   },
   "developers": [
-    "Black Carbon"
+    "bitshift"
   ],
   "publishers": [
-    "Black Carbon"
+    "bitshift"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     65022
@@ -70,6 +72,14 @@
     {
       "id": 1,
       "description": "Multi-player"
+    },
+    {
+      "id": 36,
+      "description": "Online Multi-Player"
+    },
+    {
+      "id": 37,
+      "description": "Local Multi-Player"
     },
     {
       "id": 9,
@@ -121,38 +131,38 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_759a29622e44b09c88fc6893b5eaadf07152bde7.600x338.jpg?t=1456347581",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_759a29622e44b09c88fc6893b5eaadf07152bde7.1920x1080.jpg?t=1456347581"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_759a29622e44b09c88fc6893b5eaadf07152bde7.600x338.jpg?t=1529892962",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_759a29622e44b09c88fc6893b5eaadf07152bde7.1920x1080.jpg?t=1529892962"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_c8cbb86520cc3b5c1ea4d411dd6287e13d8e744e.600x338.jpg?t=1456347581",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_c8cbb86520cc3b5c1ea4d411dd6287e13d8e744e.1920x1080.jpg?t=1456347581"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_c8cbb86520cc3b5c1ea4d411dd6287e13d8e744e.600x338.jpg?t=1529892962",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_c8cbb86520cc3b5c1ea4d411dd6287e13d8e744e.1920x1080.jpg?t=1529892962"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_8782f1370f53de2f0d39e3a314cf2984d5939ac0.600x338.jpg?t=1456347581",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_8782f1370f53de2f0d39e3a314cf2984d5939ac0.1920x1080.jpg?t=1456347581"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_8782f1370f53de2f0d39e3a314cf2984d5939ac0.600x338.jpg?t=1529892962",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_8782f1370f53de2f0d39e3a314cf2984d5939ac0.1920x1080.jpg?t=1529892962"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_c3000889eeaf4f50f58a0f537e515b0e85c0558f.600x338.jpg?t=1456347581",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_c3000889eeaf4f50f58a0f537e515b0e85c0558f.1920x1080.jpg?t=1456347581"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_c3000889eeaf4f50f58a0f537e515b0e85c0558f.600x338.jpg?t=1529892962",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_c3000889eeaf4f50f58a0f537e515b0e85c0558f.1920x1080.jpg?t=1529892962"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_0f835bdf3cb7f51b5135205698ff30bb138605b7.600x338.jpg?t=1456347581",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_0f835bdf3cb7f51b5135205698ff30bb138605b7.1920x1080.jpg?t=1456347581"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_0f835bdf3cb7f51b5135205698ff30bb138605b7.600x338.jpg?t=1529892962",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_0f835bdf3cb7f51b5135205698ff30bb138605b7.1920x1080.jpg?t=1529892962"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_549a0c4f4ebdb57e396815b1c8399dcacdf2c49e.600x338.jpg?t=1456347581",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_549a0c4f4ebdb57e396815b1c8399dcacdf2c49e.1920x1080.jpg?t=1456347581"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_549a0c4f4ebdb57e396815b1c8399dcacdf2c49e.600x338.jpg?t=1529892962",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_549a0c4f4ebdb57e396815b1c8399dcacdf2c49e.1920x1080.jpg?t=1529892962"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_f38b961a95734dac2b220422dba0dd3f7cbc0ba5.600x338.jpg?t=1456347581",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_f38b961a95734dac2b220422dba0dd3f7cbc0ba5.1920x1080.jpg?t=1456347581"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_f38b961a95734dac2b220422dba0dd3f7cbc0ba5.600x338.jpg?t=1529892962",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/362370/ss_f38b961a95734dac2b220422dba0dd3f7cbc0ba5.1920x1080.jpg?t=1529892962"
     }
   ],
   "movies": [
@@ -217,8 +227,12 @@
     "date": "25 Jan, 2016"
   },
   "support_info": {
-    "url": "",
-    "email": "gibbz1@yahoo.com"
+    "url": "http://bitshift.io/contact/",
+    "email": "contact@bitshift.io"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/362370/page_bg_generated_v6b.jpg?t=1456347581"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/362370/page_bg_generated_v6b.jpg?t=1529892962",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

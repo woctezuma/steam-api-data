@@ -12,7 +12,7 @@
     "appid": "236690",
     "name": "Blood Bowl 2"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German, Spanish, Polish, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German, Spanish - Spain, Polish, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/382910/header.jpg?t=1463736838",
   "website": "http://bloodbowl-game.com/",
   "pc_requirements": {
@@ -33,12 +33,14 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     79870,
     194844,
-    "192166"
+    192166
   ],
   "package_groups": [
     {
@@ -71,7 +73,7 @@
           "price_in_cents_with_discount": 3999
         },
         {
-          "packageid": "192166",
+          "packageid": 192166,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Blood Bowl 2 - Legendary Edition - 44,99\u20ac",
@@ -155,6 +157,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/382910/ss_9ca0d837c597c141df18e3886a68e38aa4d95d97.1920x1080.jpg?t=1463736838"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Nov, 2015"
@@ -163,5 +168,9 @@
     "url": "http://www.focus-home.com/index.php?rub=support",
     "email": "support@focus-home.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/382910/page_bg_generated_v6b.jpg?t=1463736838"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/382910/page_bg_generated_v6b.jpg?t=1463736838",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

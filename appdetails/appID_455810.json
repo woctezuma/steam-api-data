@@ -11,8 +11,8 @@
     "appid": "359550",
     "name": "Tom Clancy's Rainbow Six\u00ae Siege"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Czech, Dutch, Japanese<strong>*</strong>, Korean, Polish, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong>, Traditional Chinese, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/455810/header.jpg?t=1482143316",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech, Dutch, Japanese<strong>*</strong>, Korean, Polish, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Traditional Chinese, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/455810/header.jpg?t=1543941956",
   "website": "http://rainbow6.ubi.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8.1, Windows 10 (64bit versions required)<br></li><li><strong>Processor:</strong> Intel Core i3 560 @ 3.3 GHz or AMD Phenom II X4 945 @ 3.0 GHz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 460 or AMD Radeon HD 5870 (DirectX-11 compliant with 1GB of VRAM)<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Sound Card:</strong> DirectX\u00ae 9.0c compatible sound card with latest drivers</li></ul>",
@@ -27,38 +27,7 @@
   "publishers": [
     ""
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 999,
-    "final": 799,
-    "discount_percent": 20
-  },
-  "packages": [
-    98682
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy Tom Clancy's Rainbow Six\u00ae Siege \u2013 Ops Icon Charm Bundle",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 98682,
-          "percent_savings_text": "-20%",
-          "percent_savings": 0,
-          "option_text": "Rainbow Six Siege - Ops Icon Charm Bundle - <span class=\"discount_original_price\">9,99\u20ac</span> 7,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 799
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -99,10 +68,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/455810/ss_ffa87fd4e188ffd6951423c96cbc14700d8a75cb.600x338.jpg?t=1482143316",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/455810/ss_ffa87fd4e188ffd6951423c96cbc14700d8a75cb.1920x1080.jpg?t=1482143316"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/455810/ss_ffa87fd4e188ffd6951423c96cbc14700d8a75cb.600x338.jpg?t=1543941956",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/455810/ss_ffa87fd4e188ffd6951423c96cbc14700d8a75cb.1920x1080.jpg?t=1543941956"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 May, 2016"
@@ -111,5 +83,9 @@
     "url": "http://support.ubi.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/455810/page_bg_generated_v6b.jpg?t=1482143316"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/455810/page_bg_generated_v6b.jpg?t=1543941956",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

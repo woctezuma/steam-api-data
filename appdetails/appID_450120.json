@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     96654
@@ -162,5 +164,9 @@
     "url": "http://www.retroism.com",
     "email": "support@retroism.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/450120/page_bg_generated_v6b.jpg?t=1503007409"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/450120/page_bg_generated_v6b.jpg?t=1503007409",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

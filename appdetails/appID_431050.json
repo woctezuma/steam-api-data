@@ -23,7 +23,7 @@
   "linux_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 LTS<br></li><li><strong>Processor:</strong> 2 GHZ Dual Core<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 6800 or ATI Radeon x1950 256Mb and higher<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
   },
-  "legal_notice": "\u00a9 2015 ARATOG LLC \u00a9 TARTEZAL HOLDINGS LTD.<br>Astro Lords is registered trademark. All rights reserved.<br><br>END USER LICENSE AGREEMENT: <a href=\"https://steamcommunity.com/linkfilter/?url=http://astrolords.com/eula\" target=\"_blank\" rel=\"noopener\"  >http://astrolords.com/eula</a></a>",
+  "legal_notice": "\u00a9 2015 ARATOG LLC \u00a9 TARTEZAL HOLDINGS LTD.<br>Astro Lords is registered trademark. All rights reserved.<br><br>END USER LICENSE AGREEMENT: <a href=\"https://steamcommunity.com/linkfilter/?url=http://astrolords.com/eula\" target=\"_blank\" rel=\"noopener\"  >http://astrolords.com/eula</a>",
   "developers": [
     "Aratog LLC"
   ],
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 4599,
     "final": 4599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "45,99\u20ac"
   },
   "packages": [
     89531
@@ -149,5 +151,9 @@
     "url": "http://astrolords.ru/support",
     "email": "support@astrolords.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/431050/page_bg_generated_v6b.jpg?t=1451315752"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/431050/page_bg_generated_v6b.jpg?t=1451315752",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

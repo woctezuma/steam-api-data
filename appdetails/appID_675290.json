@@ -12,8 +12,8 @@
     "appid": "252950",
     "name": "Rocket League\u00ae"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Dutch, Portuguese, Japanese, Korean, Russian, Turkish, Polish",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/675290/header.jpg?t=1508881553",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Portuguese, Japanese, Korean, Russian, Turkish, Polish",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/675290/header.jpg?t=1531335254",
   "website": "http://www.rocketleaguegame.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Newer<br></li><li><strong>Processor:</strong> 2.4 GHz Dual core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 260 or ATI 4850<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 7 GB available space</li></ul>",
@@ -37,8 +37,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "final": 119,
+    "discount_percent": 40,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "1,19\u20ac"
   },
   "packages": [
     192329,
@@ -56,23 +58,23 @@
       "subs": [
         {
           "packageid": 192329,
-          "percent_savings_text": "",
+          "percent_savings_text": "-40%",
           "percent_savings": 0,
-          "option_text": "Rocket League\u00ae \u2013 Fast & Furious\u2122 '99 Nissan Skyline GT-R R34 - 1,99\u20ac",
+          "option_text": "Rocket League\u00ae \u2013 Fast & Furious\u2122 '99 Nissan Skyline GT-R R34 - <span class=\"discount_original_price\">1,99\u20ac</span> 1,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 119
         },
         {
           "packageid": 224114,
-          "percent_savings_text": "",
+          "percent_savings_text": "-40%",
           "percent_savings": 0,
-          "option_text": "Rocket League\u00ae \u2013 Fast & Furious\u2122 DLC Bundle - 4,99\u20ac",
+          "option_text": "Rocket League\u00ae \u2013 Fast & Furious\u2122 DLC Bundle - <span class=\"discount_original_price\">4,99\u20ac</span> 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -153,12 +155,15 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/675290/ss_d2991d83f3a34b04bb5a3cfb02577d3a52d4f17e.600x338.jpg?t=1508881553",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/675290/ss_d2991d83f3a34b04bb5a3cfb02577d3a52d4f17e.1920x1080.jpg?t=1508881553"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/675290/ss_d2991d83f3a34b04bb5a3cfb02577d3a52d4f17e.600x338.jpg?t=1531335254",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/675290/ss_d2991d83f3a34b04bb5a3cfb02577d3a52d4f17e.1920x1080.jpg?t=1531335254"
     }
   ],
   "recommendations": {
-    "total": 650
+    "total": 801
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -168,5 +173,9 @@
     "url": "https://support.rocketleaguegame.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/675290/page_bg_generated_v6b.jpg?t=1508881553"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/675290/page_bg_generated_v6b.jpg?t=1531335254",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

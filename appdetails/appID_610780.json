@@ -33,9 +33,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     163101,
@@ -55,11 +57,11 @@
           "packageid": 163101,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Crazy Buggy Racing - 4,99\u20ac",
+          "option_text": "Crazy Buggy Racing - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         },
         {
           "packageid": 231557,
@@ -181,6 +183,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Apr, 2017"
@@ -189,5 +194,9 @@
     "url": "",
     "email": "betelgeuze1988@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/610780/page_bg_generated_v6b.jpg?t=1492025773"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/610780/page_bg_generated_v6b.jpg?t=1492025773",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

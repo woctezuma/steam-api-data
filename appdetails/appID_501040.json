@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     115001
@@ -100,6 +102,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501040/ss_79265bb008b766464ef9d3239affe1a67d54ea7c.1920x1080.jpg?t=1479414292"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Jul, 2016"
@@ -108,5 +113,9 @@
     "url": "http://sqex.to/steamsupport",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501040/page_bg_generated_v6b.jpg?t=1479414292"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501040/page_bg_generated_v6b.jpg?t=1479414292",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "",
   "about_the_game": "",
-  "short_description": "Dan needs money to buy a Christmas gift for Mr. Mumbles.  Chris, needing money for a Christmas gift for Elise, takes seasonal work at the mall and suggests Dan do the same.  After hemming and hawing he reluctantly agrees, and it's off to the Christmas Crossing display in the Mall.",
+  "short_description": "Dan needs money to buy a Christmas gift for Mr. Mumbles. Chris, needing money for a Christmas gift for Elise, takes seasonal work at the mall and suggests Dan do the same. After hemming and hawing he reluctantly agrees, and it's off to the Christmas Crossing display in the Mall.",
   "fullgame": {
     "appid": "621580",
     "name": "Dan Vs."
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 249,
     "final": 249,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     169848
@@ -72,6 +74,9 @@
       "description": "Captions available"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Dec, 2017"
@@ -80,5 +85,9 @@
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

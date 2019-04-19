@@ -33,11 +33,12 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
-    180231,
-    200203
+    180231
   ],
   "package_groups": [
     {
@@ -58,27 +59,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 1999
-        }
-      ]
-    },
-    {
-      "name": "subscriptions",
-      "title": "Buy Mortal Blitz Subscription Plan",
-      "description": "To be billed on a recurring basis.",
-      "selection_text": "Select a subscription plan",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "true",
-      "subs": [
-        {
-          "packageid": 200203,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "1 Month(s) @ 36,99\u20ac/Month",
-          "option_description": "<p class=\"game_purchase_subscription\">36,99\u20ac at checkout, auto-renewed every 1 month(s) at 36,99\u20ac.</p>",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 3699
         }
       ]
     }
@@ -204,5 +184,9 @@
     "url": "",
     "email": "Business@skonec.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/643610/page_bg_generated_v6b.jpg?t=1501231413"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/643610/page_bg_generated_v6b.jpg?t=1501231413",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

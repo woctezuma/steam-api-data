@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     148480
@@ -148,6 +150,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Feb, 2017"
@@ -156,5 +161,9 @@
     "url": "http://www.sureal.net/",
     "email": "service@newsight.cc"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/579580/page_bg_generated_v6b.jpg?t=1488960481"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/579580/page_bg_generated_v6b.jpg?t=1488960481",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

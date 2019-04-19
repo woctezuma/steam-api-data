@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     86923
@@ -118,6 +120,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Dec, 2015"
@@ -126,5 +131,9 @@
     "url": "http://dsky.co/apps/celestrion/",
     "email": "support@dsky.co"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/424100/page_bg_generated_v6b.jpg?t=1455220662"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/424100/page_bg_generated_v6b.jpg?t=1455220662",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

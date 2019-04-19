@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Pagan King's Diadem, Pagan King's Glory, Pagan King's Caliber, and Pagan King's Deed will become available at the Shop.",
   "about_the_game": "Pagan King's Diadem, Pagan King's Glory, Pagan King's Caliber, and Pagan King's Deed will become available at the Shop.",
-  "short_description": "",
+  "short_description": "Pagan King's Diadem, Pagan King's Glory, Pagan King's Caliber, and Pagan King's Deed will become available at the Shop.",
   "fullgame": {
     "appid": "206230",
     "name": "Clan of Champions"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     17826
@@ -115,6 +117,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/215314/ss_fa7510268312d7b1af6ff433afcc77a407160e92.1920x1080.jpg?t=1481659629"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Nov, 2012"
@@ -123,5 +128,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/215314/page_bg_generated_v6b.jpg?t=1481659629"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/215314/page_bg_generated_v6b.jpg?t=1481659629",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

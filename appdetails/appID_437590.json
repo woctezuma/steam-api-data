@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     92099
@@ -179,6 +181,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Jan, 2016"
@@ -187,5 +192,9 @@
     "url": "http://www.berserk-games.com/forum",
     "email": "berserkgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437590/page_bg_generated_v6b.jpg?t=1478647794"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/437590/page_bg_generated_v6b.jpg?t=1478647794",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

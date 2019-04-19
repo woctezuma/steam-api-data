@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     163865
@@ -106,6 +108,12 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/612300/ss_9dd342ffe3c97c00b39cfa4d64b2774294e015c8.1920x1080.jpg?t=1513761563"
     }
   ],
+  "recommendations": {
+    "total": 105
+  },
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 May, 2017"
@@ -114,5 +122,9 @@
     "url": "http://www.kalypsomedia.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/612300/page_bg_generated_v6b.jpg?t=1513761563"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/612300/page_bg_generated_v6b.jpg?t=1513761563",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

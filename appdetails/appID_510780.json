@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     118638
@@ -198,5 +200,9 @@
     "url": "http://www.braingoodgames.com",
     "email": "braingoodgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/510780/page_bg_generated_v6b.jpg?t=1471975196"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/510780/page_bg_generated_v6b.jpg?t=1471975196",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

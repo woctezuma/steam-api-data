@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     251627
@@ -129,6 +131,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Mar, 2018"
@@ -137,5 +142,9 @@
     "url": "",
     "email": "robertcld@hotmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/820660/page_bg_generated_v6b.jpg?t=1522307321"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/820660/page_bg_generated_v6b.jpg?t=1522307321",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

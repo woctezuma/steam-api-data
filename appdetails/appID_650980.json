@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Naklua VR</strong> is a large puzzle game set in a spacious sky where you must navigate a multitude of levels, traps and dangerous paths. Naklua has used VR to it's advantage by making the experience as limitless as possible. With the help of parkour, maneuver and jump between hand-built levels to navigate between a different set of challenges. <br><strong>1. A huge number of levels with great variety <br>2. Physics plays a big part in the game, adding realism <br>3. You may play in a comfortable area, or in an office <br>4. Great VR graphics <br>5. Change weather and time of day to your own liking <br>6. Enjoy the game from the height of a bird using a virtual reality headset <br>7. Compete against your friends to see who can finish first; challenge yourselves to finish each puzzle with in a set amount of time.</strong>",
   "about_the_game": "<strong>Naklua VR</strong> is a large puzzle game set in a spacious sky where you must navigate a multitude of levels, traps and dangerous paths. Naklua has used VR to it's advantage by making the experience as limitless as possible. With the help of parkour, maneuver and jump between hand-built levels to navigate between a different set of challenges. <br><strong>1. A huge number of levels with great variety <br>2. Physics plays a big part in the game, adding realism <br>3. You may play in a comfortable area, or in an office <br>4. Great VR graphics <br>5. Change weather and time of day to your own liking <br>6. Enjoy the game from the height of a bird using a virtual reality headset <br>7. Compete against your friends to see who can finish first; challenge yourselves to finish each puzzle with in a set amount of time.</strong>",
-  "short_description": "<strong>Naklua VR</strong> is a large puzzle game set in a spacious sky where you must navigate a multitude of levels, traps and dangerous paths. Naklua has used VR to it's advantage by making the experience as limitless as possible.",
+  "short_description": "Naklua VR is a large puzzle game set in a spacious sky where you must navigate a multitude of levels, traps and dangerous paths. Naklua has used VR to it's advantage by making the experience as limitless as possible.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/650980/header.jpg?t=1510317688",
   "website": "http://flydreamdev.com/",
@@ -37,9 +37,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 800,
+    "final": 800,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,--\u20ac"
   },
   "packages": [
     183404
@@ -58,11 +60,11 @@
           "packageid": 183404,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Naklua VR - 9,99\u20ac",
+          "option_text": "Naklua VR - 8,--\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 800
         }
       ]
     }
@@ -185,5 +187,9 @@
     "url": "http://flydreamdev.com/",
     "email": "support@flydreamdev.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/650980/page_bg_generated_v6b.jpg?t=1510317688"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/650980/page_bg_generated_v6b.jpg?t=1510317688",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

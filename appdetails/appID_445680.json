@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "NEKOPARA Vol. 2 Theme Song Single<br />\r\n<br />\r\nIncludes 4 tracks:<br />\r\n<br />\r\n01 \u30c9\u30ad\u30c9\u30ad\u2606\u30b3\u30b3\u30ed\u2606\u30d5\u30ec\u30fc\u30d0\u30fc<br />\r\n02 100\u306b\u3083\u3093\u30d1\u30ef\u30fc\u3067\u5922\u5fc3\u5730<br />\r\n03 \u30c9\u30ad\u30c9\u30ad\u2606\u30b3\u30b3\u30ed\u2606\u30d5\u30ec\u30fc\u30d0\u30fc_inst<br />\r\n04 100\u306b\u3083\u3093\u30d1\u30ef\u30fc\u3067\u5922\u5fc3\u5730_inst<br />\r\n<br />\r\n01 Doki Doki kokoro Flavor<br />\r\n02 100Nyan Power de Yumegokoti<br />\r\n03 Doki Doki kokoro Flavor_inst<br />\r\n04 100Nyan Power de Yumegokoti_inst",
   "about_the_game": "NEKOPARA Vol. 2 Theme Song Single<br />\r\n<br />\r\nIncludes 4 tracks:<br />\r\n<br />\r\n01 \u30c9\u30ad\u30c9\u30ad\u2606\u30b3\u30b3\u30ed\u2606\u30d5\u30ec\u30fc\u30d0\u30fc<br />\r\n02 100\u306b\u3083\u3093\u30d1\u30ef\u30fc\u3067\u5922\u5fc3\u5730<br />\r\n03 \u30c9\u30ad\u30c9\u30ad\u2606\u30b3\u30b3\u30ed\u2606\u30d5\u30ec\u30fc\u30d0\u30fc_inst<br />\r\n04 100\u306b\u3083\u3093\u30d1\u30ef\u30fc\u3067\u5922\u5fc3\u5730_inst<br />\r\n<br />\r\n01 Doki Doki kokoro Flavor<br />\r\n02 100Nyan Power de Yumegokoti<br />\r\n03 Doki Doki kokoro Flavor_inst<br />\r\n04 100Nyan Power de Yumegokoti_inst",
-  "short_description": "NEKOPARA Vol. 2 Theme Song Single<br />\r\n<br />\r\nIncludes 4 tracks:<br />\r\n<br />\r\n01 \u30c9\u30ad\u30c9\u30ad\u2606\u30b3\u30b3\u30ed\u2606\u30d5\u30ec\u30fc\u30d0\u30fc<br />\r\n02 100\u306b\u3083\u3093\u30d1\u30ef\u30fc\u3067\u5922\u5fc3\u5730<br />\r\n03 \u30c9\u30ad\u30c9\u30ad\u2606\u30b3\u30b3\u30ed\u2606\u30d5\u30ec\u30fc\u30d0\u30fc_inst<br />\r\n04 100\u306b\u3083\u3093\u30d1\u30ef\u30fc\u3067\u5922\u5fc3\u5730_inst<br />\r\n<br />\r\n01 Doki Doki kokoro Flavor<br />\r\n02 100Nyan Power de Yumegokoti<br />\r\n03 Doki Doki kokoro Flavor_inst<br />\r\n04 100Nyan Power de Yumegokoti_inst",
+  "short_description": "NEKOPARA Vol. 2 Theme Song Single Includes 4 tracks: 01 \u30c9\u30ad\u30c9\u30ad\u2606\u30b3\u30b3\u30ed\u2606\u30d5\u30ec\u30fc\u30d0\u30fc 02 100\u306b\u3083\u3093\u30d1\u30ef\u30fc\u3067\u5922\u5fc3\u5730 03 \u30c9\u30ad\u30c9\u30ad\u2606\u30b3\u30b3\u30ed\u2606\u30d5\u30ec\u30fc\u30d0\u30fc_inst 04 100\u306b\u3083\u3093\u30d1\u30ef\u30fc\u3067\u5922\u5fc3\u5730_inst 01 Doki Doki kokoro Flavor 02 100Nyan Power de Yumegokoti 03 Doki Doki kokoro Flavor_inst 04 100Nyan Power de...",
   "fullgame": {
     "appid": "420110",
     "name": "NEKOPARA Vol. 2"
@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     95012
@@ -96,6 +98,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/445680/ss_eaae296179fdcab8e01754e2a6b506a6803a7c88.1920x1080.jpg?t=1478563770"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Feb, 2016"
@@ -104,5 +109,12 @@
     "url": "",
     "email": "support@sekaiproject.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/445680/page_bg_generated_v6b.jpg?t=1478563770"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/445680/page_bg_generated_v6b.jpg?t=1478563770",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

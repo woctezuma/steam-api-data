@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     232525
@@ -215,5 +217,9 @@
     "url": "greenlavastudios.com",
     "email": "support@greenlavastudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/774891/page_bg_generated_v6b.jpg?t=1515759268"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/774891/page_bg_generated_v6b.jpg?t=1515759268",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

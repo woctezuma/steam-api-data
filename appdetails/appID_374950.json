@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     69245
@@ -194,5 +196,9 @@
     "url": "http://fancyfishgames.com/forums/",
     "email": "david.m@fancyfishgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/374950/page_bg_generated_v6b.jpg?t=1447375512"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/374950/page_bg_generated_v6b.jpg?t=1447375512",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

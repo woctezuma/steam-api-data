@@ -11,7 +11,7 @@
     "appid": "412760",
     "name": "Revolve"
   },
-  "supported_languages": "English, French, German, Dutch, Russian, Spanish, Italian, Japanese, Polish",
+  "supported_languages": "English, French, German, Dutch, Russian, Spanish - Spain, Italian, Japanese, Polish",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/495620/header.jpg?t=1487062848",
   "website": "http://www.evilbluekoala.com",
   "pc_requirements": {
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     112943
@@ -103,5 +105,9 @@
     "url": "http://www.revolvegame.com",
     "email": "info@rustybolt.be"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/495620/page_bg_generated_v6b.jpg?t=1487062848"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/495620/page_bg_generated_v6b.jpg?t=1487062848",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     89400
@@ -48,11 +50,11 @@
           "packageid": 89400,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Who's Your Daddy - 4,99\u20ac",
+          "option_text": "Who's Your Daddy - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -135,7 +137,7 @@
     }
   ],
   "recommendations": {
-    "total": 12601
+    "total": 10958
   },
   "achievements": {
     "total": 0
@@ -148,5 +150,11 @@
     "url": "",
     "email": "support@eviltortillagames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/427730/page_bg_generated_v6b.jpg?t=1463163137"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/427730/page_bg_generated_v6b.jpg?t=1463163137",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

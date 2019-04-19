@@ -33,8 +33,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 79,
+    "discount_percent": 20,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     166756
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 166756,
-          "percent_savings_text": "",
+          "percent_savings_text": "-20%",
           "percent_savings": 0,
-          "option_text": "Superdimension Neptune VS Sega Hard Girls - Money Maker - 0,99\u20ac",
+          "option_text": "Superdimension Neptune VS Sega Hard Girls - Money Maker - <span class=\"discount_original_price\">0,99\u20ac</span> 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -111,6 +113,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/620744/ss_66fd73c8003e5bf62b2071564dedbf5fe29ff719.1920x1080.jpg?t=1497288648"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Jun, 2017"
@@ -119,5 +124,9 @@
     "url": "http://ideafintl.com/steam.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620744/page_bg_generated_v6b.jpg?t=1497288648"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620744/page_bg_generated_v6b.jpg?t=1497288648",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

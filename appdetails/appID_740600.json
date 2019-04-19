@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 110,
     "final": 110,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,10\u20ac"
   },
   "packages": [
     216906
@@ -252,5 +254,13 @@
     "url": "",
     "email": "help_steam_00@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740600/page_bg_generated_v6b.jpg?t=1513774662"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/740600/page_bg_generated_v6b.jpg?t=1513774662",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     97549
@@ -117,11 +119,6 @@
       "id": 5,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/452522/ss_7627e29537c0f412dce50c69937fcb4dce376fab.600x338.jpg?t=1513461816",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/452522/ss_7627e29537c0f412dce50c69937fcb4dce376fab.1920x1080.jpg?t=1513461816"
-    },
-    {
-      "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/452522/?t=1513461816",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/452522/?t=1513461816"
     }
   ],
   "movies": [
@@ -144,5 +141,9 @@
     "url": "",
     "email": "support@akella.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/452522/page_bg_generated_v6b.jpg?t=1513461816"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/452522/page_bg_generated_v6b.jpg?t=1513461816",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

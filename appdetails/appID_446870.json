@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     95455
@@ -196,5 +198,9 @@
     "url": "http://www.glitchrunners.co.uk/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/446870/page_bg_generated_v6b.jpg?t=1464777243"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/446870/page_bg_generated_v6b.jpg?t=1464777243",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

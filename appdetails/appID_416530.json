@@ -12,13 +12,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/416530/header.jpg?t=1491870187",
   "website": "http://cherrypiegames.com/tacopocalypse.html",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> 1.8GHz Dual-Core Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated Video Card with 1GB of VRAM and Shader Model 5<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Windows 7 or higher<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> 1.8GHz Dual-Core Processor<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 4 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> Dedicated Video Card with 1GB of VRAM and Shader Model 5<br></li><li><strong>DirectX:</strong> \u0412\u0435\u0440\u0441\u0438\u0438 10<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 3 GB</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X v10.6 Snow Leopard or higher<br></li><li><strong>Processor:</strong> 1.8GHz Dual-Core Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated Video Card with 1GB of VRAM and Shader Model 5/OpenGL 4<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> OS X v10.6 Snow Leopard or higher<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> 1.8GHz Dual-Core Processor<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 4 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> Dedicated Video Card with 1GB of VRAM and Shader Model 5/OpenGL 4<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 3 GB</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 or higher<br></li><li><strong>Processor:</strong> 1.8GHz Dual-Core Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated Video Card with 1GB of VRAM and Shader Model 5/OpenGL 4<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Ubuntu 12.04 or higher<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> 1.8GHz Dual-Core Processor<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 4 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> Dedicated Video Card with 1GB of VRAM and Shader Model 5/OpenGL 4<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 3 GB</li></ul>"
   },
   "developers": [
     "Cherry Pie Games"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     83974
@@ -224,5 +226,9 @@
     "url": "",
     "email": "support@cherrypiegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416530/page_bg_generated_v6b.jpg?t=1491870187"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416530/page_bg_generated_v6b.jpg?t=1491870187",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

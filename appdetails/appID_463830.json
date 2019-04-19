@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     101573
@@ -189,5 +191,9 @@
     "url": "https://www.facebook.com/Ligagamesstudio-692563750862828/",
     "email": "sberzin@meta.ua"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/463830/page_bg_generated_v6b.jpg?t=1463086317"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/463830/page_bg_generated_v6b.jpg?t=1463086317",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

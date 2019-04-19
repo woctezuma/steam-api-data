@@ -15,13 +15,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/355010/header.jpg?t=1510910256",
   "website": "http://iceflake.com/#race",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2+<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    "minimum": "<strong>T\u1ed1i thi\u1ec3u:</strong><br><ul class=\"bb_ul\"><li><strong>H\u0110H:</strong> Windows XP SP2+<br></li><li><strong>B\u1ed9 nh\u1edb:</strong> 1 GB RAM<br></li><li><strong>L\u01b0u tr\u1eef:</strong> 1 GB ch\u1ed7 tr\u1ed1ng kh\u1ea3 d\u1ee5ng</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.7+<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    "minimum": "<strong>T\u1ed1i thi\u1ec3u:</strong><br><ul class=\"bb_ul\"><li><strong>H\u0110H:</strong> Mac OS X 10.7+<br></li><li><strong>B\u1ed9 nh\u1edb:</strong> 1 GB RAM<br></li><li><strong>L\u01b0u tr\u1eef:</strong> 1 GB ch\u1ed7 tr\u1ed1ng kh\u1ea3 d\u1ee5ng</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04+<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    "minimum": "<strong>T\u1ed1i thi\u1ec3u:</strong><br><ul class=\"bb_ul\"><li><strong>H\u0110H:</strong> Ubuntu 12.04+<br></li><li><strong>B\u1ed9 nh\u1edb:</strong> 1 GB RAM<br></li><li><strong>L\u01b0u tr\u1eef:</strong> 1 GB ch\u1ed7 tr\u1ed1ng kh\u1ea3 d\u1ee5ng</li></ul>"
   },
   "developers": [
     "Iceflake Studios"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     62453
@@ -287,5 +289,9 @@
     "url": "http://iceflake.com",
     "email": "support@iceflake.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/355010/page_bg_generated_v6b.jpg?t=1510910256"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/355010/page_bg_generated_v6b.jpg?t=1510910256",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

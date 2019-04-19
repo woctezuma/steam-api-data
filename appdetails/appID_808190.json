@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     246465
@@ -46,11 +48,11 @@
           "packageid": 246465,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Super Sonic Racer - 2,99\u20ac",
+          "option_text": "Super Sonic Racer - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -136,6 +138,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Mar, 2018"
@@ -144,5 +149,9 @@
     "url": "http://www.funboxmedia.co.uk/contact/",
     "email": "info@funboxmedia.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/808190/page_bg_generated_v6b.jpg?t=1520588486"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/808190/page_bg_generated_v6b.jpg?t=1520588486",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

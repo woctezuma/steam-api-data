@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 4599,
     "final": 4599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "45,99\u20ac"
   },
   "packages": [
     105188
@@ -161,5 +163,9 @@
     "url": "http://www.infinitywarsgame.com/bugs",
     "email": "support@lightmare.com.au"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/473871/page_bg_generated_v6b.jpg?t=1471513549"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/473871/page_bg_generated_v6b.jpg?t=1471513549",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

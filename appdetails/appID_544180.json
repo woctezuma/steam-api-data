@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     143840
@@ -143,11 +145,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 161
-  },
   "achievements": {
-    "total": 31,
+    "total": 36,
     "highlighted": [
       {
         "name": "Easy",
@@ -199,5 +198,9 @@
     "url": "",
     "email": "gamebalance@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/544180/page_bg_generated_v6b.jpg?t=1504020985"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/544180/page_bg_generated_v6b.jpg?t=1504020985",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

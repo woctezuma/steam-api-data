@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     118562
@@ -180,11 +182,6 @@
       "id": 12,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/510530/ss_6ccc7c5746b7db75131c7c5d6ffea111de9db497.600x338.jpg?t=1493662638",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/510530/ss_6ccc7c5746b7db75131c7c5d6ffea111de9db497.1920x1080.jpg?t=1493662638"
-    },
-    {
-      "id": 13,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/510530/?t=1493662638",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/510530/?t=1493662638"
     }
   ],
   "movies": [
@@ -199,6 +196,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Aug, 2016"
@@ -207,5 +207,9 @@
     "url": "http://www.petroglyphgames.com",
     "email": "support@petroglyphgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/510530/page_bg_generated_v6b.jpg?t=1493662638"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/510530/page_bg_generated_v6b.jpg?t=1493662638",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

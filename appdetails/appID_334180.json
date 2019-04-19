@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     54995
@@ -126,5 +128,9 @@
     "url": "http://www.overthemoongames.com",
     "email": "john@overthemoongames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/334180/page_bg_generated_v6b.jpg?t=1447365238"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/334180/page_bg_generated_v6b.jpg?t=1447365238",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 339,
     "final": 339,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,39\u20ac"
   },
   "packages": [
     202383
@@ -154,6 +156,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Sep, 2017"
@@ -162,5 +167,12 @@
     "url": "",
     "email": "steam_support@dieselmine.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/702210/page_bg_generated_v6b.jpg?t=1521442308"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/702210/page_bg_generated_v6b.jpg?t=1521442308",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

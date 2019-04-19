@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "\n\t\t\t\t\t<p>The Soviet spritepack adds 16 more Soviet sprites in the game.</p>\n\t\t\t\t\t<p>8 New Tanks:</p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li>BT-5\n\t\t\t\t\t<li>BT-7\n\t\t\t\t\t<li>T-28\n\t\t\t\t\t<li>T-34\n\t\t\t\t\t<li>T-44\n\t\t\t\t\t<li>KV-1\n\t\t\t\t\t<li>KV-2\n\t\t\t\t\t<li>IS-2\n\t\t\t\t\t</ul>\n\t\t\t\t\t<p>5 New Aircraft:</p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li>Mig-3\n\t\t\t\t\t<li>Mig-9\n\t\t\t\t\t<li>Lagg-3\n\t\t\t\t\t<li>Yak-4\n\t\t\t\t\t<li>Sukhoi SU-2\n\t\t\t\t\t</ul>\n\t\t\t\t\t<p>3 New Ships:</p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li>Gangut-class Battleship\n\t\t\t\t\t<li>Kirov-class Heavy Cruiser\n\t\t\t\t\t<li>Leningrad-class Destroyer\n\t\t\t\t\t</ul>",
   "about_the_game": "\n\t\t\t\t\t<p>The Soviet spritepack adds 16 more Soviet sprites in the game.</p>\n\t\t\t\t\t<p>8 New Tanks:</p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li>BT-5\n\t\t\t\t\t<li>BT-7\n\t\t\t\t\t<li>T-28\n\t\t\t\t\t<li>T-34\n\t\t\t\t\t<li>T-44\n\t\t\t\t\t<li>KV-1\n\t\t\t\t\t<li>KV-2\n\t\t\t\t\t<li>IS-2\n\t\t\t\t\t</ul>\n\t\t\t\t\t<p>5 New Aircraft:</p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li>Mig-3\n\t\t\t\t\t<li>Mig-9\n\t\t\t\t\t<li>Lagg-3\n\t\t\t\t\t<li>Yak-4\n\t\t\t\t\t<li>Sukhoi SU-2\n\t\t\t\t\t</ul>\n\t\t\t\t\t<p>3 New Ships:</p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li>Gangut-class Battleship\n\t\t\t\t\t<li>Kirov-class Heavy Cruiser\n\t\t\t\t\t<li>Leningrad-class Destroyer\n\t\t\t\t\t</ul>",
-  "short_description": "",
+  "short_description": "The Soviet spritepack adds 16 more Soviet sprites in the game. 8 New Tanks: BT-5 BT-7 T-28 T-34 T-44 KV-1 KV-2 IS-2 5 New Aircraft: Mig-3 Mig-9 Lagg-3 Yak-4 Sukhoi SU-2 3 New Ships: Gangut-class Battleship Kirov-class Heavy Cruiser Leningrad-class...",
   "fullgame": {
     "appid": "25890",
     "name": "Hearts of Iron III"
@@ -29,12 +29,12 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    2590,
-    29531,
-    37223
+    2590
   ],
   "package_groups": [
     {
@@ -55,26 +55,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 99
-        },
-        {
-          "packageid": 29531,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron 3 DLC Collection - 29,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2999
-        },
-        {
-          "packageid": 37223,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron Collection III (Jan 2014) - 41,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4199
         }
       ]
     }
@@ -141,6 +121,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/25898/ss_92d298189322ac99852a089f596c40f5a40386d9.1920x1080.jpg?t=1447352745"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Dec, 2009"
@@ -149,5 +132,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25898/page_bg_generated_v6b.jpg?t=1447352745"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25898/page_bg_generated_v6b.jpg?t=1447352745",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

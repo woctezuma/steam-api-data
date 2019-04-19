@@ -11,8 +11,8 @@
     "appid": "220700",
     "name": "RPG Maker VX Ace"
   },
-  "supported_languages": "English, French, German, Spanish, Italian, Portuguese-Brazil, Japanese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/789810/header.jpg?t=1516920448",
+  "supported_languages": "English, French, German, Spanish - Spain, Italian, Portuguese - Brazil, Japanese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/789810/header.jpg?t=1542853246",
   "website": "http://www.rpgmakerweb.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Microsoft\u00ae Windows\u00ae XP / Vista / 7 (32-bit/64-bit)<br>\t</li><li><strong>Processor:</strong>Intel\u00ae Pentium\u00ae 4 2.0 GHz equivalent or faster processor<br>\t</li><li><strong>Memory:</strong>512 MB RAM<br>\t</li><li><strong>Graphics:</strong>1024 x 768 pixels or higher desktop resolution<br>\t</li><li><strong>Hard Drive:</strong>400 MB HD space</li></ul>",
@@ -22,17 +22,18 @@
   "linux_requirements": [],
   "legal_notice": "(c) Degica 2018",
   "developers": [
-    "KADOKAWA",
     "Joel Steudler"
   ],
   "publishers": [
     "Degica"
   ],
   "price_overview": {
-    "currency": "GBP",
-    "initial": 1949,
-    "final": 1949,
-    "discount_percent": 0
+    "currency": "EUR",
+    "initial": 2299,
+    "final": 2299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "22,99\u20ac"
   },
   "packages": [
     238881
@@ -51,11 +52,11 @@
           "packageid": 238881,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "RPG Maker VX Ace - Magical School Music Pack - \u00a319.49",
+          "option_text": "RPG Maker VX Ace - Magical School Music Pack - 22,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1949
+          "price_in_cents_with_discount": 2299
         }
       ]
     }
@@ -92,8 +93,8 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/789810/ss_a88fc644b2038c45525236d29dc124aff85ce276.600x338.jpg?t=1516920448",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/789810/ss_a88fc644b2038c45525236d29dc124aff85ce276.1920x1080.jpg?t=1516920448"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/789810/ss_a88fc644b2038c45525236d29dc124aff85ce276.600x338.jpg?t=1542853246",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/789810/ss_a88fc644b2038c45525236d29dc124aff85ce276.1920x1080.jpg?t=1542853246"
     }
   ],
   "movies": [
@@ -108,6 +109,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Jan, 2018"
@@ -116,5 +120,9 @@
     "url": "http://www.rpgmakerweb.com/support",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/789810/page_bg_generated_v6b.jpg?t=1516920448"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/789810/page_bg_generated_v6b.jpg?t=1542853246",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

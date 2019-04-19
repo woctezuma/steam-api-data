@@ -27,8 +27,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 149,
+    "discount_percent": 70,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "1,49\u20ac"
   },
   "packages": [
     86574
@@ -45,13 +47,13 @@
       "subs": [
         {
           "packageid": 86574,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "A.I. Space Corps - 4,99\u20ac",
+          "option_text": "A.I. Space Corps - <span class=\"discount_original_price\">4,99\u20ac</span> 1,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 149
         }
       ]
     }
@@ -177,5 +179,9 @@
     "url": "http://www.ai-invasion.com",
     "email": "support.en@ai-invasion.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/423180/page_bg_generated_v6b.jpg?t=1454709601"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/423180/page_bg_generated_v6b.jpg?t=1454709601",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

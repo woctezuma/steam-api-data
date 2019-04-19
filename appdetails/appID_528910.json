@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     127159
@@ -113,6 +115,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Sep, 2016"
@@ -121,5 +126,9 @@
     "url": "",
     "email": "support@marklar.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/528910/page_bg_generated_v6b.jpg?t=1474314834"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/528910/page_bg_generated_v6b.jpg?t=1474314834",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     138177
@@ -118,6 +120,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/554321/ss_db16fcf5df605f60a7109775ec411977a10bfea7.1920x1080.jpg?t=1500920362"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Nov, 2016"
@@ -126,5 +131,9 @@
     "url": "http://manowarcorsair.com/",
     "email": "support@manowarcorsair.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/554321/page_bg_generated_v6b.jpg?t=1500920362"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/554321/page_bg_generated_v6b.jpg?t=1500920362",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

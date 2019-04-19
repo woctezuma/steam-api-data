@@ -20,7 +20,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "\u00a9 2014 Rite Publishing. RP and all related marks and logos are trademarks of Rite Publishing. All rights reserved. Used with permission. \u00a9 2014. All Rights Reserved.<br><br>This is an Pathfinder Roleplaying Compatible game product.<br><br>Fantasy Grounds II is a trademark of SmiteWorks USA LLC. (C) 2014 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds II website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a></a> for more product information.",
+  "legal_notice": "\u00a9 2014 Rite Publishing. RP and all related marks and logos are trademarks of Rite Publishing. All rights reserved. Used with permission. \u00a9 2014. All Rights Reserved.<br><br>This is an Pathfinder Roleplaying Compatible game product.<br><br>Fantasy Grounds II is a trademark of SmiteWorks USA LLC. (C) 2014 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds II website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a> for more product information.",
   "developers": [
     "SmiteWorks USA, LLC"
   ],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     47432
@@ -133,6 +135,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/313520/ss_8ca23d0d9a1f70987e95650f8c2062684d22b901.1920x1080.jpg?t=1447362657"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Jul, 2014"
@@ -141,5 +146,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/313520/page_bg_generated_v6b.jpg?t=1447362657"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/313520/page_bg_generated_v6b.jpg?t=1447362657",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

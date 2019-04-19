@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1899,
-    "final": 1899,
-    "discount_percent": 0
+    "initial": 1799,
+    "final": 1799,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "17,99\u20ac"
   },
   "packages": [
     223446
@@ -53,11 +55,11 @@
           "packageid": 223446,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: Chinese Electric SS4 Locomotive Pack - 18,99\u20ac",
+          "option_text": "TANE DLC: Chinese Electric SS4 Locomotive Pack - 17,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1899
+          "price_in_cents_with_discount": 1799
         }
       ]
     }
@@ -153,6 +155,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404210/ss_341f811fd6f3e5ac71e0d098ea8ecfd9a6987480.1920x1080.jpg?t=1479201885"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Jan, 2016"
@@ -161,5 +166,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404210/page_bg_generated_v6b.jpg?t=1479201885"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404210/page_bg_generated_v6b.jpg?t=1479201885",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

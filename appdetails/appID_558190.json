@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\">Track List:</h2><br>01. Edna &amp; Harvey: The Breakout Theme (01:27)<br>02. I Want Outta Here! (03:36)<br>03. Edna's Childhood (05:12)<br>04. This Edna is a Real Challenge (02:40)<br>05. I'll just put her in with the others (01:44)<br>06. Hoti &amp; Moti (00:51)<br>07. The Triumphal Jingle of Achievement (00:09)<br>08. The White-Paper-Sheet-Method (01:57)<br>09. Was this Song Even in the Game? (01:03)<br>10. Spiritual Walz (03:01)<br>11. Devil's Tambourine Part 1 (03:02)<br>12. Devil's Tambourine Part 2 (02:52)<br>13. Feedback (01:00)<br>14. The Breakout (01:50)",
   "about_the_game": "<h2 class=\"bb_tag\">Track List:</h2><br>01. Edna &amp; Harvey: The Breakout Theme (01:27)<br>02. I Want Outta Here! (03:36)<br>03. Edna's Childhood (05:12)<br>04. This Edna is a Real Challenge (02:40)<br>05. I'll just put her in with the others (01:44)<br>06. Hoti &amp; Moti (00:51)<br>07. The Triumphal Jingle of Achievement (00:09)<br>08. The White-Paper-Sheet-Method (01:57)<br>09. Was this Song Even in the Game? (01:03)<br>10. Spiritual Walz (03:01)<br>11. Devil's Tambourine Part 1 (03:02)<br>12. Devil's Tambourine Part 2 (02:52)<br>13. Feedback (01:00)<br>14. The Breakout (01:50)",
-  "short_description": "",
+  "short_description": "Track List:01. Edna &amp; Harvey: The Breakout Theme (01:27)02. I Want Outta Here! (03:36)03. Edna's Childhood (05:12)04. This Edna is a Real Challenge (02:40)05. I'll just put her in with the others (01:44)06. Hoti &amp; Moti (00:51)07. The Triumphal Jingle of Achievement (00:09)08. The White-Paper-Sheet-Method (01:57)09.",
   "fullgame": {
     "appid": "255320",
     "name": "Edna & Harvey: The Breakout"
@@ -15,7 +15,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/558190/header.jpg?t=1479204749",
   "website": "http://www.daedalic.de/de/Game/Edna-Bricht-Aus",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista/7</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows Vista/7</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 74,
-    "discount_percent": 75
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     139677
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 139677,
-          "percent_savings_text": "-75%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Edna & Harvey: The Breakout Soundtrack - <span class=\"discount_original_price\">2,99\u20ac</span> 0,74\u20ac",
+          "option_text": "Edna & Harvey: The Breakout Soundtrack - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 74
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -102,6 +104,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/558190/ss_68008ca7546f1876baba7c8cc181bfcce5542942.1920x1080.jpg?t=1479204749"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Nov, 2016"
@@ -110,5 +115,9 @@
     "url": "http://www.daedalicsupport.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/558190/page_bg_generated_v6b.jpg?t=1479204749"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/558190/page_bg_generated_v6b.jpg?t=1479204749",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

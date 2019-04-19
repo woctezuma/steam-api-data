@@ -12,7 +12,7 @@
     "appid": "378660",
     "name": "Blues and Bullets"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Czech, Simplified Chinese, Hungarian, Japanese, Portuguese-Brazil, Russian, Turkish, Ukrainian, Polish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Czech, Simplified Chinese, Hungarian, Japanese, Portuguese - Brazil, Russian, Turkish, Ukrainian, Polish<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/384380/header.jpg?t=1458302547",
   "website": "http://www.bluesandbullets.com/",
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     100717
@@ -182,6 +184,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 May, 2016"
@@ -190,5 +195,11 @@
     "url": "",
     "email": "support@acrowdofmonsters.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384380/page_bg_generated_v6b.jpg?t=1458302547"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384380/page_bg_generated_v6b.jpg?t=1458302547",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

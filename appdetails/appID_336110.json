@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     55640,
@@ -158,9 +160,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 108
-  },
   "achievements": {
     "total": 45,
     "highlighted": [
@@ -214,5 +213,9 @@
     "url": "",
     "email": "support@headlesswizard.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/336110/page_bg_generated_v6b.jpg?t=1478265782"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/336110/page_bg_generated_v6b.jpg?t=1478265782",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

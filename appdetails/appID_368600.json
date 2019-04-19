@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     66985
@@ -165,6 +167,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Jul, 2015"
@@ -173,5 +178,9 @@
     "url": "http://www.nightdivestudios.com/?utm_source=steampowered.com&amp;utm_medium=product&amp;utm_campaign=support%20-%20terra%20nova",
     "email": "daniel@nightdivestudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/368600/page_bg_generated_v6b.jpg?t=1466791210"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/368600/page_bg_generated_v6b.jpg?t=1466791210",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

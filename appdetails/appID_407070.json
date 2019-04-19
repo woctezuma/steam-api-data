@@ -12,16 +12,16 @@
     "name": "Kero Blaster"
   },
   "supported_languages": "English, Japanese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/407070/header.jpg?t=1517377807",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/407070/header.jpg?t=1554707658",
   "website": "http://studiopixel.jp/keroblaster/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 120 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Depolama:</strong> 120 MB kullan\u0131labilir alan</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 120 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Depolama:</strong> 120 MB kullan\u0131labilir alan</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 120 MB RAM</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Bellek:</strong> 120 MB RAM</li></ul>"
   },
   "developers": [
     "Studio Pixel"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     80287
@@ -85,17 +87,24 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/407070/ss_c0c99383d830a45b12a8c935ae8da5bc5939f08d.600x338.jpg?t=1517377807",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/407070/ss_c0c99383d830a45b12a8c935ae8da5bc5939f08d.1920x1080.jpg?t=1517377807"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/407070/ss_c0c99383d830a45b12a8c935ae8da5bc5939f08d.600x338.jpg?t=1554707658",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/407070/ss_c0c99383d830a45b12a8c935ae8da5bc5939f08d.1920x1080.jpg?t=1554707658"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Nov, 2015"
   },
   "support_info": {
-    "url": "http://playism-games.com/",
-    "email": "support@cs.playism.jp"
+    "url": "",
+    "email": "support@playism.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407070/page_bg_generated_v6b.jpg?t=1517377807"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407070/page_bg_generated_v6b.jpg?t=1554707658",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

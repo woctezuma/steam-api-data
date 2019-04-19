@@ -12,7 +12,7 @@
     "appid": "442120",
     "name": "Pinball FX3"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/646664/header.jpg?t=1506421994",
   "website": "http://www.pinballfx.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     181656
@@ -124,6 +126,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/646664/ss_092e2dc37224c9d42e74e31067d423a0d83407f7.1920x1080.jpg?t=1506421994"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Sep, 2017"
@@ -132,5 +137,9 @@
     "url": "http://forum.zenstudios.com/forum.php",
     "email": "support@zenstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/646664/page_bg_generated_v6b.jpg?t=1506421994"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/646664/page_bg_generated_v6b.jpg?t=1506421994",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

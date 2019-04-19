@@ -30,10 +30,12 @@
     "Sekai Project"
   ],
   "price_overview": {
-    "currency": "EUR",
-    "initial": 819,
-    "final": 737,
-    "discount_percent": 10
+    "currency": "USD",
+    "initial": 999,
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "$9.99"
   },
   "packages": [
     261381
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 261381,
-          "percent_savings_text": "-10%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Fatal Twelve Mini Artbook - <span class=\"discount_original_price\">8,19\u20ac</span> 7,37\u20ac",
+          "option_text": "Fatal Twelve Mini Artbook - $9.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 737
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -97,13 +99,20 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838140/ss_557688c01dfda00388499b70b0212ebcfdc06458.1920x1080.jpg?t=1523653254"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
-    "date": "13 Apr, 2018"
+    "date": "Apr 13, 2018"
   },
   "support_info": {
     "url": "https://sekaiproject.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/838140/page_bg_generated_v6b.jpg?t=1523653254"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/838140/page_bg_generated_v6b.jpg?t=1523653254",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

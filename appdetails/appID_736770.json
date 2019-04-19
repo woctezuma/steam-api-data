@@ -11,7 +11,7 @@
     "appid": "415200",
     "name": "Motorsport Manager"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Polish, Russian, Portuguese-Brazil, Dutch, Hungarian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Polish, Russian, Portuguese - Brazil, Dutch, Hungarian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/736770/header.jpg?t=1522058624",
   "website": "http://www.motorsportmanager.com/",
   "pc_requirements": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     215221
@@ -168,6 +170,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Nov, 2017"
@@ -176,5 +181,9 @@
     "url": "https://support.sega.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/736770/page_bg_generated_v6b.jpg?t=1522058624"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/736770/page_bg_generated_v6b.jpg?t=1522058624",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

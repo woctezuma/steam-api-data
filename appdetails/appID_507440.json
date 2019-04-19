@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 99,
-    "discount_percent": 80
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     117157
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 117157,
-          "percent_savings_text": "-80%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Island Simulator 2016 - <span class=\"discount_original_price\">4,99\u20ac</span> 0,99\u20ac",
+          "option_text": "Island Simulator 2016 - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -147,6 +149,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Nov, 2016"
@@ -155,5 +160,9 @@
     "url": "",
     "email": "info@islandsimulator2016.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/507440/page_bg_generated_v6b.jpg?t=1480356415"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/507440/page_bg_generated_v6b.jpg?t=1480356415",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

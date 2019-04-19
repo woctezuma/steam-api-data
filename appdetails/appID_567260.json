@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     143430
@@ -218,5 +220,9 @@
     "url": "http://rigid-soft.com",
     "email": "admin@rigid-soft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/567260/page_bg_generated_v6b.jpg?t=1484148411"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/567260/page_bg_generated_v6b.jpg?t=1484148411",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

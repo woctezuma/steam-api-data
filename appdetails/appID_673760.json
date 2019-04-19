@@ -23,7 +23,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 39,
-    "discount_percent": 61
+    "discount_percent": 61,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     191798
@@ -178,5 +180,9 @@
     "url": "",
     "email": "oblomysh@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/673760/page_bg_generated_v6b.jpg?t=1520017019"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/673760/page_bg_generated_v6b.jpg?t=1520017019",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

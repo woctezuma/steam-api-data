@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 5499,
     "final": 5499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "54,99\u20ac"
   },
   "packages": [
     148605
@@ -152,6 +154,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Jul, 2017"
@@ -160,5 +165,9 @@
     "url": "http://help.funcom.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/579930/page_bg_generated_v6b.jpg?t=1510668083"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/579930/page_bg_generated_v6b.jpg?t=1510668083",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

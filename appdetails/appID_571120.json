@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Track[0] - Transmission<br>Track[1] - Hey Judy<br>Track[2] - Corridor<br>Track[3] - Merge<br>Track[4] - Kaizen<br><br>The Soundtrack will be placed in your Event[0] folder in the Steam Directory: \u2026\\Steam\\steamapps\\common\\Event[0]",
   "about_the_game": "Track[0] - Transmission<br>Track[1] - Hey Judy<br>Track[2] - Corridor<br>Track[3] - Merge<br>Track[4] - Kaizen<br><br>The Soundtrack will be placed in your Event[0] folder in the Steam Directory: \u2026\\Steam\\steamapps\\common\\Event[0]",
-  "short_description": "",
+  "short_description": "Track[0] - TransmissionTrack[1] - Hey JudyTrack[2] - CorridorTrack[3] - MergeTrack[4] - KaizenThe Soundtrack will be placed in your Event[0] folder in the Steam Directory: \u2026\\Steam\\steamapps\\common\\Event[0]",
   "fullgame": {
     "appid": "470260",
     "name": "Event[0]"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     144959
@@ -101,5 +103,9 @@
     "url": "",
     "email": "support@ocelotsociety.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/571120/page_bg_generated_v6b.jpg?t=1484082815"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/571120/page_bg_generated_v6b.jpg?t=1484082815",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

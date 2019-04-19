@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "ViveSpray is a virtual reality graffiti simulator for HTC Vive.<br><br>Enjoy the act of graffiti without the hassle of running from the police. Work on walls from down town LA, a huge isolated night time wall or spray on a train. Go in close with your can to get a thick outline suitable spray, or move it away to see the spray open into a mist. Cap Tweak slider adds some control over how your spray behaves. Snap and share your artwork to Steam.<br><br>Notice:<i> Requires a virtual reality headset. See the VR Support section for more info.</i>",
   "about_the_game": "ViveSpray is a virtual reality graffiti simulator for HTC Vive.<br><br>Enjoy the act of graffiti without the hassle of running from the police. Work on walls from down town LA, a huge isolated night time wall or spray on a train. Go in close with your can to get a thick outline suitable spray, or move it away to see the spray open into a mist. Cap Tweak slider adds some control over how your spray behaves. Snap and share your artwork to Steam.<br><br>Notice:<i> Requires a virtual reality headset. See the VR Support section for more info.</i>",
-  "short_description": "ViveSpray is a virtual reality graffiti simulator for HTC Vive.<br><br><i>Notice: Requires a virtual reality headset. See the VR Support section for more info.</i>",
+  "short_description": "ViveSpray is a virtual reality graffiti simulator for HTC Vive.Notice: Requires a virtual reality headset. See the VR Support section for more info.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/494830/header.jpg?t=1480505587",
   "website": null,
@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 699,
-    "final": 699,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     112683
@@ -44,11 +46,11 @@
           "packageid": 112683,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "ViveSpray - 6,99\u20ac",
+          "option_text": "ViveSpray - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 699
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -132,6 +134,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Nov, 2016"
@@ -140,5 +145,9 @@
     "url": "",
     "email": "vivespray@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494830/page_bg_generated_v6b.jpg?t=1480505587"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494830/page_bg_generated_v6b.jpg?t=1480505587",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

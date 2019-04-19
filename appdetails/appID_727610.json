@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 89,
-    "discount_percent": 55
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     211991
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 211991,
-          "percent_savings_text": "-55%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Hot Pool - <span class=\"discount_original_price\">1,99\u20ac</span> 0,89\u20ac",
+          "option_text": "Hot Pool - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 89
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -137,6 +139,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Nov, 2017"
@@ -145,5 +150,9 @@
     "url": "",
     "email": "VirtexUniverse@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/727610/page_bg_generated_v6b.jpg?t=1513542683"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/727610/page_bg_generated_v6b.jpg?t=1513542683",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     189629
@@ -167,5 +169,9 @@
     "url": "https://rootifygames.tumblr.com/",
     "email": "contact.massivegame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/667170/page_bg_generated_v6b.jpg?t=1516467527"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/667170/page_bg_generated_v6b.jpg?t=1516467527",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,10 +11,10 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/366460/header.jpg?t=1478104067",
   "website": "http://elevenseventy.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP+<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 20 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP+<br></li><li><strong>Minne:</strong> 1 GB RAM<br></li><li><strong>Lagring:</strong> 20 MB tilgjengelig plass</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 80 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X<br></li><li><strong>Minne:</strong> 1 GB RAM<br></li><li><strong>Lagring:</strong> 80 MB tilgjengelig plass</li></ul>"
   },
   "linux_requirements": [],
   "legal_notice": "Copyright ElevenSeventy, LLC.  All rights reserved.",
@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     66258
@@ -120,6 +122,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 May, 2015"
@@ -128,5 +133,9 @@
     "url": "http://elevenseventy.com/index/connect/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/366460/page_bg_generated_v6b.jpg?t=1478104067"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/366460/page_bg_generated_v6b.jpg?t=1478104067",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

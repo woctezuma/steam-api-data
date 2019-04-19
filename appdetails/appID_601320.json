@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     158031,
@@ -167,6 +169,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Apr, 2017"
@@ -175,5 +180,9 @@
     "url": "",
     "email": "contact@fancybeargames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/601320/page_bg_generated_v6b.jpg?t=1493147659"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/601320/page_bg_generated_v6b.jpg?t=1493147659",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

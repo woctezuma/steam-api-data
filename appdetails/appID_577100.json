@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     147164
@@ -130,5 +132,9 @@
     "url": "http://www.boundel.com/",
     "email": "nidaynere@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/577100/page_bg_generated_v6b.jpg?t=1488324828"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/577100/page_bg_generated_v6b.jpg?t=1488324828",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

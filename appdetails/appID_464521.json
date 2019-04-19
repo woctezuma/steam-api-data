@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Includes the costume items 'Cutie Marine (Blue)' and 'Cutie Marine (Yellow).'",
   "about_the_game": "Includes the costume items 'Cutie Marine (Blue)' and 'Cutie Marine (Yellow).'",
-  "short_description": "Includes the costume items 'Cutie Marine (Blue)' and 'Cutie Marine (Yellow).'",
+  "short_description": "Includes the costume items 'Cutie Marine (Blue)' and 'Cutie Marine (Yellow).",
   "fullgame": {
     "appid": "446390",
     "name": "Onechanbara Z2: Chaos"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     101842
@@ -124,6 +126,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/464521/ss_5a1f3f08dc2d57814797e911f55c4a55274bce03.1920x1080.jpg?t=1466042721"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jun, 2016"
@@ -132,5 +137,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/464521/page_bg_generated_v6b.jpg?t=1466042721"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/464521/page_bg_generated_v6b.jpg?t=1466042721",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

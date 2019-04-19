@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     61637
@@ -129,6 +131,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Aug, 2015"
@@ -137,5 +142,9 @@
     "url": "http://www.roadworksgame.com",
     "email": "info@roadworksgame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/352750/page_bg_generated_v6b.jpg?t=1447369824"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/352750/page_bg_generated_v6b.jpg?t=1447369824",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

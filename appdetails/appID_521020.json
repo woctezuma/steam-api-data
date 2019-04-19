@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     123566
@@ -159,6 +161,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Sep, 2016"
@@ -167,5 +172,9 @@
     "url": "http://www.nomadgames.co.uk/support/",
     "email": "support@nomadgames.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/521020/page_bg_generated_v6b.jpg?t=1473335555"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/521020/page_bg_generated_v6b.jpg?t=1473335555",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

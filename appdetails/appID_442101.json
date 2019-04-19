@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     93756
@@ -111,6 +113,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/442101/ss_34a1ad85430f8c5ac72c14246e8352ffa92ea79c.1920x1080.jpg?t=1518050997"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Feb, 2016"
@@ -119,5 +124,9 @@
     "url": "",
     "email": "games@degica.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/442101/page_bg_generated_v6b.jpg?t=1518050997"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/442101/page_bg_generated_v6b.jpg?t=1518050997",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

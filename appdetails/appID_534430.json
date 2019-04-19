@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     129588
@@ -182,5 +184,9 @@
     "url": "http://groovejones.com/contact/",
     "email": "whois@groovejones.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/534430/page_bg_generated_v6b.jpg?t=1511637097"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/534430/page_bg_generated_v6b.jpg?t=1511637097",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

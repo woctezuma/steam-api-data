@@ -12,8 +12,8 @@
     "appid": "451020",
     "name": "Battle Chasers: Nightwar"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German<strong>*</strong>, Spanish<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/712630/header.jpg?t=1507239488",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German<strong>*</strong>, Spanish - Spain<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/712630/header.jpg?t=1527501705",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8 / 10 64 bit<br></li><li><strong>Processor:</strong> 2.0 GHz CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4000 or equivalent with 1 GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>",
@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     206177
@@ -67,7 +69,7 @@
   "platforms": {
     "windows": true,
     "mac": true,
-    "linux": false
+    "linux": true
   },
   "categories": [
     {
@@ -108,10 +110,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/712630/ss_033d79c5801745a205bf85eac49741e8f3ee8d3e.600x338.jpg?t=1507239488",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/712630/ss_033d79c5801745a205bf85eac49741e8f3ee8d3e.1920x1080.jpg?t=1507239488"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/712630/ss_033d79c5801745a205bf85eac49741e8f3ee8d3e.600x338.jpg?t=1527501705",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/712630/ss_033d79c5801745a205bf85eac49741e8f3ee8d3e.1920x1080.jpg?t=1527501705"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Oct, 2017"
@@ -120,5 +125,9 @@
     "url": "",
     "email": "support@quanticlab.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/712630/page_bg_generated_v6b.jpg?t=1507239488"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/712630/page_bg_generated_v6b.jpg?t=1527501705",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

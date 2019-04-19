@@ -4,21 +4,25 @@
   "steam_appid": 489490,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "This interactive art book is a peek into the art development of <a href=\"http://store.steampowered.com/app/240440\" target=\"_blank\" rel=\"noreferrer\"  >Quadrilateral Cowboy</a></a>.<br><br><ul class=\"bb_ul\"><li>Examine props in the interactive model viewer.<br></li><li>Browse concept art, notes, and sketches.<br></li><li>Take an audio tour in the interactive sound viewer.<br></li><li>Read developer commentary for various art assets.</li></ul><br>Also includes PDFs for Quadrilateral Cowboy box art, poster, and papercraft characters.",
-  "about_the_game": "This interactive art book is a peek into the art development of <a href=\"http://store.steampowered.com/app/240440\" target=\"_blank\" rel=\"noreferrer\"  >Quadrilateral Cowboy</a></a>.<br><br><ul class=\"bb_ul\"><li>Examine props in the interactive model viewer.<br></li><li>Browse concept art, notes, and sketches.<br></li><li>Take an audio tour in the interactive sound viewer.<br></li><li>Read developer commentary for various art assets.</li></ul><br>Also includes PDFs for Quadrilateral Cowboy box art, poster, and papercraft characters.",
+  "detailed_description": "This interactive art book is a peek into the art development of <a href=\"http://store.steampowered.com/app/240440\" target=\"_blank\" rel=\"noreferrer\"  >Quadrilateral Cowboy</a>.<br><br><ul class=\"bb_ul\"><li>Examine props in the interactive model viewer.<br></li><li>Browse concept art, notes, and sketches.<br></li><li>Take an audio tour in the interactive sound viewer.<br></li><li>Read developer commentary for various art assets.</li></ul><br>Also includes PDFs for Quadrilateral Cowboy box art, poster, and papercraft characters.",
+  "about_the_game": "This interactive art book is a peek into the art development of <a href=\"http://store.steampowered.com/app/240440\" target=\"_blank\" rel=\"noreferrer\"  >Quadrilateral Cowboy</a>.<br><br><ul class=\"bb_ul\"><li>Examine props in the interactive model viewer.<br></li><li>Browse concept art, notes, and sketches.<br></li><li>Take an audio tour in the interactive sound viewer.<br></li><li>Read developer commentary for various art assets.</li></ul><br>Also includes PDFs for Quadrilateral Cowboy box art, poster, and papercraft characters.",
   "short_description": "This interactive art book is a peek into the art development of Quadrilateral Cowboy.",
   "fullgame": {
     "appid": "240440",
     "name": "Quadrilateral Cowboy"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/489490/header.jpg?t=1469465784",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/489490/header.jpg?t=1530884769",
   "website": "http://blendogames.com/qc",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8.1/10<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 9800 GT or ATI Radeon HD 5750, 1 GB video RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
   },
-  "mac_requirements": [],
-  "linux_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.7<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA or ATI GPU, 1 GB video RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 or Steam OS<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 9800 GT or ATI Radeon HD 5750, 1 GB video RAM<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>"
+  },
   "developers": [
     "Blendo Games"
   ],
@@ -29,7 +33,9 @@
     "currency": "EUR",
     "initial": 1099,
     "final": 1099,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,99\u20ac"
   },
   "packages": [
     110579
@@ -59,8 +65,8 @@
   ],
   "platforms": {
     "windows": true,
-    "mac": false,
-    "linux": false
+    "mac": true,
+    "linux": true
   },
   "categories": [
     {
@@ -71,23 +77,23 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_a75b95e1e47159b7746d8d8cd5cc95fef327fe51.600x338.jpg?t=1469465784",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_a75b95e1e47159b7746d8d8cd5cc95fef327fe51.1920x1080.jpg?t=1469465784"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_a75b95e1e47159b7746d8d8cd5cc95fef327fe51.600x338.jpg?t=1530884769",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_a75b95e1e47159b7746d8d8cd5cc95fef327fe51.1920x1080.jpg?t=1530884769"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_ccc3f572aab4a8e1df5c3626f96e14fdaf3ed9f0.600x338.jpg?t=1469465784",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_ccc3f572aab4a8e1df5c3626f96e14fdaf3ed9f0.1920x1080.jpg?t=1469465784"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_ccc3f572aab4a8e1df5c3626f96e14fdaf3ed9f0.600x338.jpg?t=1530884769",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_ccc3f572aab4a8e1df5c3626f96e14fdaf3ed9f0.1920x1080.jpg?t=1530884769"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_5e09e40b456f119f315e3355db31c68a25bc7dea.600x338.jpg?t=1469465784",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_5e09e40b456f119f315e3355db31c68a25bc7dea.1920x1080.jpg?t=1469465784"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_5e09e40b456f119f315e3355db31c68a25bc7dea.600x338.jpg?t=1530884769",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_5e09e40b456f119f315e3355db31c68a25bc7dea.1920x1080.jpg?t=1530884769"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_7e8a85a1aab860bd32ee960dd503b5722a850a56.600x338.jpg?t=1469465784",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_7e8a85a1aab860bd32ee960dd503b5722a850a56.1920x1080.jpg?t=1469465784"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_7e8a85a1aab860bd32ee960dd503b5722a850a56.600x338.jpg?t=1530884769",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/489490/ss_7e8a85a1aab860bd32ee960dd503b5722a850a56.1920x1080.jpg?t=1530884769"
     }
   ],
   "movies": [
@@ -102,6 +108,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Jul, 2016"
@@ -110,5 +119,9 @@
     "url": "http://blendogames.com/qc/faq.htm",
     "email": "support@blendogames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/489490/page_bg_generated_v6b.jpg?t=1469465784"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/489490/page_bg_generated_v6b.jpg?t=1530884769",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

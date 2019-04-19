@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1399,
     "final": 1399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "13,99\u20ac"
   },
   "packages": [
     195211
@@ -136,6 +138,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Jan, 2018"
@@ -144,5 +149,9 @@
     "url": "",
     "email": "infernocs@yjmgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/683150/page_bg_generated_v6b.jpg?t=1516871084"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/683150/page_bg_generated_v6b.jpg?t=1516871084",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

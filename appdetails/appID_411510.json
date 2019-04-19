@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "Download the <strong>Season Pass</strong> and receive the 4 S\u00e9bastien Loeb Rally EVO DLCs with 24 events!",
   "about_the_game": "Download the <strong>Season Pass</strong> and receive the 4 S\u00e9bastien Loeb Rally EVO DLCs with 24 events!",
-  "short_description": "Download the <strong>Season Pass</strong> and receive the 4 S\u00e9bastien Loeb Rally EVO DLCs with 24 events!",
+  "short_description": "Download the Season Pass and receive the 4 S\u00e9bastien Loeb Rally EVO DLCs with 24 events!",
   "fullgame": {
     "appid": "355060",
     "name": "S\u00e9bastien Loeb Rally EVO"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Polish<strong>*</strong>, Portuguese-Brazil<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/411510/header.jpg?t=1489758823",
   "website": "http://sebastienloebrallyevo.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 2499,
     "final": 2499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "24,99\u20ac"
   },
   "packages": [
     82065
@@ -213,6 +215,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Mar, 2016"
@@ -221,5 +226,9 @@
     "url": "http://milestone.it/contacts/support/?lang=en",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/411510/page_bg_generated_v6b.jpg?t=1489758823"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/411510/page_bg_generated_v6b.jpg?t=1489758823",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

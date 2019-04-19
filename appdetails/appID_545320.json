@@ -4,9 +4,9 @@
   "steam_appid": 545320,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<img src=\"https://images.akamai.steamusercontent.com/ugc/428232315135579893/3A1CD932A3DE277DB283F4640DFC2567C2388D3F/\" crossorigin=\"anonymous\"><br><ul class=\"bb_ul\"><li> - 20 Countdown levels<br></li><li> - 10 single-player CountDown Levels<br></li><li> - 10 Co op CountDown Levels<br></li><li> - Single-player Endless mode<br></li><li> - Co op Endless mode<br></li><li> - 10 unique ships<br></li><li> - 7 unlockable ships<br></li><li> - over 10 abilities and weapons<br></li><li> - full controller support<br></li><li> - Online Scoreboard</li></ul><img src=\"https://images.akamai.steamusercontent.com/ugc/428232315135575128/204B00559B141A7475067E666244D79EAC67CD40/\" crossorigin=\"anonymous\">",
-  "about_the_game": "<img src=\"https://images.akamai.steamusercontent.com/ugc/428232315135579893/3A1CD932A3DE277DB283F4640DFC2567C2388D3F/\" crossorigin=\"anonymous\"><br><ul class=\"bb_ul\"><li> - 20 Countdown levels<br></li><li> - 10 single-player CountDown Levels<br></li><li> - 10 Co op CountDown Levels<br></li><li> - Single-player Endless mode<br></li><li> - Co op Endless mode<br></li><li> - 10 unique ships<br></li><li> - 7 unlockable ships<br></li><li> - over 10 abilities and weapons<br></li><li> - full controller support<br></li><li> - Online Scoreboard</li></ul><img src=\"https://images.akamai.steamusercontent.com/ugc/428232315135575128/204B00559B141A7475067E666244D79EAC67CD40/\" crossorigin=\"anonymous\">",
-  "short_description": "<strong>CountDown</strong> is a space shoot em up inspired by 2003's Warblade. <br>it has beautiful graphics and epic carnage as you try to survive the Countdown by yourself or with a friend,<br>or compete online for the highest score!",
+  "detailed_description": "<img src=\"https://steamuserimages-a.akamaihd.net/ugc/428232315135579893/3A1CD932A3DE277DB283F4640DFC2567C2388D3F/\" ><br><ul class=\"bb_ul\"><li> - 20 Countdown levels<br></li><li> - 10 single-player CountDown Levels<br></li><li> - 10 Co op CountDown Levels<br></li><li> - Single-player Endless mode<br></li><li> - Co op Endless mode<br></li><li> - 10 unique ships<br></li><li> - 7 unlockable ships<br></li><li> - over 10 abilities and weapons<br></li><li> - full controller support<br></li><li> - Online Scoreboard</li></ul><img src=\"https://steamuserimages-a.akamaihd.net/ugc/428232315135575128/204B00559B141A7475067E666244D79EAC67CD40/\" >",
+  "about_the_game": "<img src=\"https://steamuserimages-a.akamaihd.net/ugc/428232315135579893/3A1CD932A3DE277DB283F4640DFC2567C2388D3F/\" ><br><ul class=\"bb_ul\"><li> - 20 Countdown levels<br></li><li> - 10 single-player CountDown Levels<br></li><li> - 10 Co op CountDown Levels<br></li><li> - Single-player Endless mode<br></li><li> - Co op Endless mode<br></li><li> - 10 unique ships<br></li><li> - 7 unlockable ships<br></li><li> - over 10 abilities and weapons<br></li><li> - full controller support<br></li><li> - Online Scoreboard</li></ul><img src=\"https://steamuserimages-a.akamaihd.net/ugc/428232315135575128/204B00559B141A7475067E666244D79EAC67CD40/\" >",
+  "short_description": "CountDown is a space shoot em up inspired by 2003's Warblade. it has beautiful graphics and epic carnage as you try to survive the Countdown by yourself or with a friend,or compete online for the highest score!",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/545320/header.jpg?t=1479250810",
   "website": "www.starsystemstudios.co.za",
@@ -25,12 +25,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
-    134439
+    134439,
+    336321
   ],
   "package_groups": [
     {
@@ -46,7 +49,17 @@
           "packageid": 134439,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "CountDown - 5,99\u20ac",
+          "option_text": "CountDown - 3,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 399
+        },
+        {
+          "packageid": 336321,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "CountDown - Commercial License - 5,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -265,5 +278,9 @@
     "url": "https://www.facebook.com/StarSystemStudiosTM",
     "email": "starsystemstudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/545320/page_bg_generated_v6b.jpg?t=1479250810"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/545320/page_bg_generated_v6b.jpg?t=1479250810",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

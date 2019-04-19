@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     111172
@@ -133,7 +135,7 @@
     }
   ],
   "recommendations": {
-    "total": 329
+    "total": 279
   },
   "achievements": {
     "total": 7,
@@ -176,5 +178,9 @@
     "url": "http://quietriver.info/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/491000/page_bg_generated_v6b.jpg?t=1493570406"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/491000/page_bg_generated_v6b.jpg?t=1493570406",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 5999,
     "final": 5999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "59,99\u20ac"
   },
   "packages": [
     35254
@@ -132,6 +134,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/267653/ss_babc8287faac8d0afc6b163537fb3e10cf02c4dc.1920x1080.jpg?t=1523381828"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Jul, 2014"
@@ -140,5 +145,9 @@
     "url": "http://www.clickteam.com/contact-us",
     "email": "Support@Clickteam.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/267653/page_bg_generated_v6b.jpg?t=1523381828"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/267653/page_bg_generated_v6b.jpg?t=1523381828",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -28,11 +28,14 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 89,
-    "discount_percent": 55
+    "final": 199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    148542
+    148542,
+    307430
   ],
   "package_groups": [
     {
@@ -46,13 +49,23 @@
       "subs": [
         {
           "packageid": 148542,
-          "percent_savings_text": "-55%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Cavern escape - Soundtrack. - <span class=\"discount_original_price\">1,99\u20ac</span> 0,89\u20ac",
+          "option_text": "Cavern escape - Soundtrack. - 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 89
+          "price_in_cents_with_discount": 199
+        },
+        {
+          "packageid": 307430,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Cavern escape - Soundtrack. - Commercial License - 1,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -127,5 +140,9 @@
     "url": "https://www.facebook.com/whitedoggames/?fref=ts",
     "email": "Whitedogapp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/579750/page_bg_generated_v6b.jpg?t=1485742473"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/579750/page_bg_generated_v6b.jpg?t=1485742473",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

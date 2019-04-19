@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     139281
@@ -129,6 +131,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Oct, 2017"
@@ -137,5 +142,9 @@
     "url": "",
     "email": "support@infernal-anvil.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/556920/page_bg_generated_v6b.jpg?t=1508179815"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/556920/page_bg_generated_v6b.jpg?t=1508179815",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

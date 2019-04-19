@@ -36,10 +36,12 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    "55601"
+    55601
   ],
   "package_groups": [
     {
@@ -52,7 +54,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "55601",
+          "packageid": 55601,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Antisquad: Tasks in Mexico - Final. Tactics DLC - 0,99\u20ac",
@@ -183,5 +185,9 @@
     "url": "http://pc.antisquad.com/site/support",
     "email": "info@insgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/335982/page_bg_generated_v6b.jpg?t=1447365587"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/335982/page_bg_generated_v6b.jpg?t=1447365587",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

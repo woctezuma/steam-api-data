@@ -12,7 +12,7 @@
     "appid": "332310",
     "name": "LEGO\u00ae Worlds"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Danish<strong>*</strong>, Russian<strong>*</strong>, Italian<strong>*</strong>, Japanese<strong>*</strong>, Polish, Portuguese-Brazil<strong>*</strong>, Simplified Chinese, Dutch, Traditional Chinese<strong>*</strong>, Arabic<strong>*</strong>, Czech, Hungarian, Korean, Portuguese<strong>*</strong>, Swedish, Turkish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Danish<strong>*</strong>, Russian<strong>*</strong>, Italian<strong>*</strong>, Japanese<strong>*</strong>, Polish, Portuguese - Brazil<strong>*</strong>, Simplified Chinese, Dutch, Traditional Chinese<strong>*</strong>, Arabic<strong>*</strong>, Czech, Hungarian, Korean, Portuguese<strong>*</strong>, Swedish, Turkish<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/641000/header.jpg?t=1510873652",
   "website": "http://videogames.lego.com/lego-worlds",
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     177811
@@ -109,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/641000/ss_b01218afd3a80e3daa6c1861592514dd04242cda.1920x1080.jpg?t=1510873652"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Jul, 2017"
@@ -117,5 +122,9 @@
     "url": "http://support.wbgames.com/link/portal/24022/24028/ArticleFolder/462/LEGO-Worlds",
     "email": "WBGames.IntSupport@warnerbros.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/641000/page_bg_generated_v6b.jpg?t=1510873652"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/641000/page_bg_generated_v6b.jpg?t=1510873652",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

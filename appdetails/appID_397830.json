@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     76825
@@ -152,6 +154,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Sep, 2015"
@@ -160,5 +165,9 @@
     "url": "",
     "email": "zxill@zxdigital.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/397830/page_bg_generated_v6b.jpg?t=1447377719"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/397830/page_bg_generated_v6b.jpg?t=1447377719",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

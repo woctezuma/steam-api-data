@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     55559
@@ -200,9 +202,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 147
-  },
   "achievements": {
     "total": 22,
     "highlighted": [
@@ -256,5 +255,9 @@
     "url": "http://degigames.com/support",
     "email": "support@rpgmakerweb.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/335840/page_bg_generated_v6b.jpg?t=1497860918"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/335840/page_bg_generated_v6b.jpg?t=1497860918",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     131600
@@ -114,6 +116,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Oct, 2016"
@@ -122,5 +127,9 @@
     "url": "vktry.com",
     "email": "kalan@vktry.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/538410/page_bg_generated_v6b.jpg?t=1491413281"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/538410/page_bg_generated_v6b.jpg?t=1491413281",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

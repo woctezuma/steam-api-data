@@ -11,7 +11,7 @@
     "appid": "72850",
     "name": "The Elder Scrolls V: Skyrim"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong>, Japanese<strong>*</strong>, Czech, Polish, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Czech, Polish, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/211720/header.jpg?t=1493767839",
   "website": "http://www.elderscrolls.com",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     15953
@@ -66,7 +68,7 @@
   },
   "metacritic": {
     "score": 66,
-    "url": "http://www.metacritic.com/game/pc/the-elder-scrolls-v-skyrim---dawnguard?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/the-elder-scrolls-v-skyrim---dawnguard?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -164,7 +166,10 @@
     }
   ],
   "recommendations": {
-    "total": 1602
+    "total": 1149
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -174,5 +179,11 @@
     "url": "http://support.bethsoft.com/eng/products.asp",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/211720/page_bg_generated_v6b.jpg?t=1493767839"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/211720/page_bg_generated_v6b.jpg?t=1493767839",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     188754
@@ -137,6 +139,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/664780/ss_b11cb56f80397ea1edb5a66fda243d23d8f61a77.1920x1080.jpg?t=1502493692"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Aug, 2017"
@@ -145,5 +150,9 @@
     "url": "https://www.playalterego.com/",
     "email": "support-steam@playalterego.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/664780/page_bg_generated_v6b.jpg?t=1502493692"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/664780/page_bg_generated_v6b.jpg?t=1502493692",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

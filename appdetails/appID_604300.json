@@ -37,8 +37,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1499,
-    "final": 749,
-    "discount_percent": 50
+    "final": 1499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     159042,
@@ -56,13 +58,13 @@
       "subs": [
         {
           "packageid": 159042,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "SHOW MUST GO ON - <span class=\"discount_original_price\">14,99\u20ac</span> 7,49\u20ac",
+          "option_text": "SHOW MUST GO ON - 14,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 749
+          "price_in_cents_with_discount": 1499
         }
       ]
     },
@@ -158,6 +160,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Jun, 2017"
@@ -166,5 +171,9 @@
     "url": "https://nivisionag.wixsite.com/showmust-goon/contact",
     "email": "duovrsup@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/604300/page_bg_generated_v6b.jpg?t=1510779591"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/604300/page_bg_generated_v6b.jpg?t=1510779591",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

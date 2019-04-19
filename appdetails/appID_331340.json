@@ -7,7 +7,7 @@
   "detailed_description": "Two beings entwined by fate; a girl and her soulmate, left to travel through a hauntingly elegant world where things can change in the blink of an eye. Explore the surreal landscape with them, solving riddles and negotiating fantastical obstacles in Tulpa, a unique puzzle platform adventure that's as beautiful as it is challenging.<br><br>Taking control of Ophelia and her \u2018tulpa\u2019 Oliver, players must journey through lands full of mysterious, bizarre and often deadly encounters. Much is left to the imagination and it\u2019s up to you to work out how to proceed, negotiating your way past traps and unravelling abstract puzzles to discover what lies at the end of your adventure.<br><br><ul class=\"bb_ul\"><li>A world of wonder \u2013 Tulpa\u2019s ever-changing landscape is full of surprises, meaning that you\u2019ll never know what lies ahead\u2026<br></li><li>The trials ahead \u2013 Each challenge in Tulpa leaves the player to work out how to progress, but the answer is always right in front of you. The question is, can you decipher it?<br></li><li>Two lost souls \u2013 Ophelia and Oliver each have unique skills, and you\u2019ll need to use both of them to clear the many challenges that await you.<br></li><li>A memorable world \u2013 Both hauntingly beautiful and cunningly deadly, the world of Tulpa is one that stays in the mind long after you\u2019ve left it\u2026</li></ul>",
   "about_the_game": "Two beings entwined by fate; a girl and her soulmate, left to travel through a hauntingly elegant world where things can change in the blink of an eye. Explore the surreal landscape with them, solving riddles and negotiating fantastical obstacles in Tulpa, a unique puzzle platform adventure that's as beautiful as it is challenging.<br><br>Taking control of Ophelia and her \u2018tulpa\u2019 Oliver, players must journey through lands full of mysterious, bizarre and often deadly encounters. Much is left to the imagination and it\u2019s up to you to work out how to proceed, negotiating your way past traps and unravelling abstract puzzles to discover what lies at the end of your adventure.<br><br><ul class=\"bb_ul\"><li>A world of wonder \u2013 Tulpa\u2019s ever-changing landscape is full of surprises, meaning that you\u2019ll never know what lies ahead\u2026<br></li><li>The trials ahead \u2013 Each challenge in Tulpa leaves the player to work out how to progress, but the answer is always right in front of you. The question is, can you decipher it?<br></li><li>Two lost souls \u2013 Ophelia and Oliver each have unique skills, and you\u2019ll need to use both of them to clear the many challenges that await you.<br></li><li>A memorable world \u2013 Both hauntingly beautiful and cunningly deadly, the world of Tulpa is one that stays in the mind long after you\u2019ve left it\u2026</li></ul>",
   "short_description": "A surreal puzzle platformer that's as beautiful as it is challenging \u2013 discover two beings entwined by fate, a girl and her soulmate, left to travel through a hauntingly elegant world...",
-  "supported_languages": "English, French, Italian, German, Spanish, Russian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/331340/header.jpg?t=1478085773",
   "website": "http://tulpagame.com",
   "pc_requirements": {
@@ -32,8 +32,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 199,
+    "discount_percent": 80,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     53877
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 53877,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "Tulpa - 9,99\u20ac",
+          "option_text": "Tulpa - <span class=\"discount_original_price\">9,99\u20ac</span> 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -164,9 +166,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 190
-  },
   "achievements": {
     "total": 10,
     "highlighted": [
@@ -220,5 +219,9 @@
     "url": "http://www.risingstargames.com",
     "email": "customerservice@risingstargames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/331340/page_bg_generated_v6b.jpg?t=1478085773"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/331340/page_bg_generated_v6b.jpg?t=1478085773",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

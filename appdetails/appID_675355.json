@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Toronto Pearson International Airport (IATA: YYZ, ICAO: CYYZ), officially named Lester B. Pearson International Airport (frequently shortened to Toronto Pearson, Pearson Airport, or simply Pearson), is an international airport serving the city of Toronto, Ontario, Canada, the Greater Toronto Area, and the Golden Horseshoe, an urban agglomeration of 9.2 million people. <br><br>Pearson Airport is the largest and busiest airport in Canada. It is the main hub for Air Canada. It is also a hub for passenger airline WestJet and cargo airline FedEx Express.\t\t\t\t\t<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/675355/extras/features_2.png?t=1520517488\" ><br><ul class=\"bb_ul\"><li>Accurate replica of Toronto International Airport, Pearson, updated 2017<br></li><li>Precise modeling, from original references, photos and other studies<br></li><li>Customized lanes, decks and taxiways, with ambient occlusion included in the textures<br></li><li>Fingers Auto Gate with VGDS - by Marginal<br></li><li>Static objects, vehicles and aircraft are present in this work<br></li><li>Avenues and streets with personalized and standard vehicle traffic<br></li><li>Custom Airport Mesh and adjacent areas<br></li><li>Underground passages created with Mesh Remexe tool - Mesh Remexe Tool - Joz  <br></li><li>HDR lighting with custom night textures<br></li><li>Custom textures with ambient occlusion <br></li><li>Service of ground animating and traffic (default) of aircraft - requires plugin \u2018Ground Traffic\u2018 by Marginal<br></li><li>Custom Approach Lights (ALS) systems<br></li><li>Included taxi routes for aircraft, &quot;taxi route&quot;<br></li><li>Configured Ramp Start<br></li><li>De-ice system configured for some specific aircraft - Use Auto Gate Datarefs <br></li><li>Winter texture, only the Airport</li></ul>",
   "about_the_game": "Toronto Pearson International Airport (IATA: YYZ, ICAO: CYYZ), officially named Lester B. Pearson International Airport (frequently shortened to Toronto Pearson, Pearson Airport, or simply Pearson), is an international airport serving the city of Toronto, Ontario, Canada, the Greater Toronto Area, and the Golden Horseshoe, an urban agglomeration of 9.2 million people. <br><br>Pearson Airport is the largest and busiest airport in Canada. It is the main hub for Air Canada. It is also a hub for passenger airline WestJet and cargo airline FedEx Express.\t\t\t\t\t<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/675355/extras/features_2.png?t=1520517488\" ><br><ul class=\"bb_ul\"><li>Accurate replica of Toronto International Airport, Pearson, updated 2017<br></li><li>Precise modeling, from original references, photos and other studies<br></li><li>Customized lanes, decks and taxiways, with ambient occlusion included in the textures<br></li><li>Fingers Auto Gate with VGDS - by Marginal<br></li><li>Static objects, vehicles and aircraft are present in this work<br></li><li>Avenues and streets with personalized and standard vehicle traffic<br></li><li>Custom Airport Mesh and adjacent areas<br></li><li>Underground passages created with Mesh Remexe tool - Mesh Remexe Tool - Joz  <br></li><li>HDR lighting with custom night textures<br></li><li>Custom textures with ambient occlusion <br></li><li>Service of ground animating and traffic (default) of aircraft - requires plugin \u2018Ground Traffic\u2018 by Marginal<br></li><li>Custom Approach Lights (ALS) systems<br></li><li>Included taxi routes for aircraft, &quot;taxi route&quot;<br></li><li>Configured Ramp Start<br></li><li>De-ice system configured for some specific aircraft - Use Auto Gate Datarefs <br></li><li>Winter texture, only the Airport</li></ul>",
-  "short_description": "Toronto Pearson International Airport (IATA: YYZ, ICAO: CYYZ), officially named Lester B. Pearson International Airport, is an international airport serving the city of Toronto, Ontario, Canada, the Greater Toronto Area, and the Golden Horseshoe, an urban agglomeration of 9.2 million people. Pearson Airport is the largest and busiest airport in Canada.",
+  "short_description": "Toronto Pearson International Airport (IATA: YYZ, ICAO: CYYZ), officially named Lester B. Pearson International Airport, is an international airport serving the city of Toronto, Ontario, Canada, the Greater Toronto Area, and the Golden Horseshoe, an urban agglomeration of 9.2 million people.",
   "fullgame": {
     "appid": "269950",
     "name": "X-Plane 11"
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 2999,
     "final": 2999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "29,99\u20ac"
   },
   "packages": [
     192363
@@ -196,6 +198,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/675355/ss_c22426b8347ff87692aba3bdcc748ea3fcc4ec51.1920x1080.jpg?t=1520517488"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Dec, 2017"
@@ -204,5 +209,9 @@
     "url": "https://aerosoft.zendesk.com/anonymous_requests/new",
     "email": "https://aerosoft.zendesk.com/anonymous_requests/new"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/675355/page_bg_generated_v6b.jpg?t=1520517488"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/675355/page_bg_generated_v6b.jpg?t=1520517488",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

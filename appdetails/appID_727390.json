@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 39,
+    "discount_percent": 88,
+    "initial_formatted": "3,29\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     211931
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 211931,
-          "percent_savings_text": "",
+          "percent_savings_text": "-88%",
           "percent_savings": 0,
-          "option_text": "Soldier of Failure - 2,99\u20ac",
+          "option_text": "Soldier of Failure - <span class=\"discount_original_price\">3,29\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -126,6 +128,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Oct, 2017"
@@ -134,5 +139,9 @@
     "url": "",
     "email": "noreason76@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/727390/page_bg_generated_v6b.jpg?t=1509770260"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/727390/page_bg_generated_v6b.jpg?t=1509770260",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

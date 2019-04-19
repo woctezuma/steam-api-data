@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     192543
@@ -143,5 +145,9 @@
     "url": "http://www.frozenpepper.it",
     "email": "rcplane3@frozenpepper.it"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/675820/page_bg_generated_v6b.jpg?t=1502169341"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/675820/page_bg_generated_v6b.jpg?t=1502169341",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

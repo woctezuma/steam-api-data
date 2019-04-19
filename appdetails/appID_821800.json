@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "ADR-Labelling teaches the players the basics of markings dangerous goods transport vehicles. Players can either place the markings on pre-made cargo or load the vehicles themselves. Once the cargo has been selected player is tasked to place all the correct orange plates and ADR labels on the vehicle. Game is designed to give additional support and an interactive training platform for people studying for their ADR license.",
   "about_the_game": "ADR-Labelling teaches the players the basics of markings dangerous goods transport vehicles. Players can either place the markings on pre-made cargo or load the vehicles themselves. Once the cargo has been selected player is tasked to place all the correct orange plates and ADR labels on the vehicle. Game is designed to give additional support and an interactive training platform for people studying for their ADR license.",
-  "short_description": "ADR-Labelling teaches the players the basics of markings dangerous goods transport vehicles. Players can either place the markings on pre-made cargo or load the vehicles themselves. Once the cargo has been selected player is tasked to place all the correct orange plates and ADR labels on the vehicle. Game is designed to give additional support and an interactive training platform for people studying for their ADR license.",
+  "short_description": "ADR-Labelling teaches the players the basics of markings dangerous goods transport vehicles. Players can either place the markings on pre-made cargo or load the vehicles themselves. Once the cargo has been selected player is tasked to place all the correct orange plates and ADR labels on the vehicle.",
   "supported_languages": "English, French, German, Finnish",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/821800/header.jpg?t=1523525506",
   "website": "https://adr-labellinggame.fi/",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 48399,
     "final": 48399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "483,99\u20ac"
   },
   "packages": [
     252061
@@ -114,6 +116,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Apr, 2018"
@@ -122,5 +127,9 @@
     "url": "https://adr-labellinggame.fi/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/821800/page_bg_generated_v6b.jpg?t=1523525506"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/821800/page_bg_generated_v6b.jpg?t=1523525506",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

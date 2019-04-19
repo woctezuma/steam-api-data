@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Magma Tsunami is a frenzied arcade platformer game. Beat your records in 1P or Co-op mode, and don't get caught by the Magma Tsunami!!!<br />\r\nCould you stay alive for more than one minute??",
   "about_the_game": "Magma Tsunami is a frenzied arcade platformer game. Beat your records in 1P or Co-op mode, and don't get caught by the Magma Tsunami!!!<br />\r\nCould you stay alive for more than one minute??",
-  "short_description": "Magma Tsunami is a frenzied arcade platformer game. Beat your records in 1P or Co-op mode, and don't get caught by the Magma Tsunami!!!<br />\r\nCould you stay alive for more than one minute??",
+  "short_description": "Magma Tsunami is a frenzied arcade platformer game. Beat your records in 1P or Co-op mode, and don't get caught by the Magma Tsunami!!! Could you stay alive for more than one minute??",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/477290/header.jpg?t=1464771104",
   "website": "http://strangelightgames.com/magma-tsunami/",
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     106377
@@ -136,8 +138,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 282
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -147,5 +149,9 @@
     "url": "",
     "email": "contact@strangelightgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/477290/page_bg_generated_v6b.jpg?t=1464771104"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/477290/page_bg_generated_v6b.jpg?t=1464771104",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

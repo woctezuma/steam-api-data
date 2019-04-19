@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     80203
@@ -108,6 +110,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Mar, 2016"
@@ -116,5 +121,9 @@
     "url": "http://www.individualsoftware.com/?page_id=1047",
     "email": "customercare@individualsoftware.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/406830/page_bg_generated_v6b.jpg?t=1461013524"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/406830/page_bg_generated_v6b.jpg?t=1461013524",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

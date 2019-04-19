@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     217884
@@ -113,5 +115,9 @@
     "url": "http://16bitnights.com/contact-us/",
     "email": "contact@16bitnights.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/743290/page_bg_generated_v6b.jpg?t=1513303940"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/743290/page_bg_generated_v6b.jpg?t=1513303940",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     199015
@@ -135,5 +137,9 @@
     "url": "http://llama.software/contact",
     "email": "support@llama.software"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/693641/page_bg_generated_v6b.jpg?t=1504223794"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/693641/page_bg_generated_v6b.jpg?t=1504223794",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

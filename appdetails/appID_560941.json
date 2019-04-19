@@ -12,7 +12,7 @@
     "appid": "470220",
     "name": "UNO"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Russian, Japanese, Simplified Chinese, Traditional Chinese, Dutch, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Russian, Japanese, Simplified Chinese, Traditional Chinese, Dutch, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/560941/header.jpg?t=1508407401",
   "website": "https://www.ubisoft.com/en-US/game/uno/",
   "pc_requirements": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     140641
@@ -161,6 +163,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/560941/ss_360ed09433a664b1bf2a542157345f900dc041ae.1920x1080.jpg?t=1508407401"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Jan, 2017"
@@ -169,5 +174,9 @@
     "url": "https://support.ubi.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/560941/page_bg_generated_v6b.jpg?t=1508407401"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/560941/page_bg_generated_v6b.jpg?t=1508407401",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

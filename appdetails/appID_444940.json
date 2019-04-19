@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "UBERMOSH:BLACK is the second volume of the arcade series UBERMOSH.<br />\r\nCut bullets with your sword, shoot with heavy guns and splatter enemies with a rage fueled psionic wave.<br />\r\n<br />\r\nA love letter to the community, Black comes with the &quot;brainclap&quot; feature, a new class mod, more achievements, more enemies, a new ultimate gun and a complex balance to allow 30% more stuff on screen creating an even more intense combat experience, packed in 90 seconds bursts.<br />\r\n<br />\r\nWelcome back, to UBERMOSH.",
   "about_the_game": "UBERMOSH:BLACK is the second volume of the arcade series UBERMOSH.<br />\r\nCut bullets with your sword, shoot with heavy guns and splatter enemies with a rage fueled psionic wave.<br />\r\n<br />\r\nA love letter to the community, Black comes with the &quot;brainclap&quot; feature, a new class mod, more achievements, more enemies, a new ultimate gun and a complex balance to allow 30% more stuff on screen creating an even more intense combat experience, packed in 90 seconds bursts.<br />\r\n<br />\r\nWelcome back, to UBERMOSH.",
-  "short_description": "UBERMOSH:BLACK is the second volume of the arcade series UBERMOSH.<br />\r\nCut bullets with your sword, shoot with heavy guns and splatter enemies with a rage fueled psionic wave.",
+  "short_description": "UBERMOSH:BLACK is the second volume of the arcade series UBERMOSH. Cut bullets with your sword, shoot with heavy guns and splatter enemies with a rage fueled psionic wave.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/444940/header.jpg?t=1496617387",
   "website": "http://www.ubermosh.com",
@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 79,
-    "discount_percent": 90
+    "initial": 99,
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     94682,
@@ -69,13 +71,13 @@
         },
         {
           "packageid": 95016,
-          "percent_savings_text": "-90%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "UBERMOSH Collection - <span class=\"discount_original_price\">7,99\u20ac</span> 0,79\u20ac",
+          "option_text": "UBERMOSH Collection - 14,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 79
+          "price_in_cents_with_discount": 1499
         }
       ]
     }
@@ -149,7 +151,7 @@
     }
   ],
   "recommendations": {
-    "total": 195
+    "total": 178
   },
   "achievements": {
     "total": 8,
@@ -196,5 +198,9 @@
     "url": "https://www.facebook.com/ubermosh",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/444940/page_bg_generated_v6b.jpg?t=1496617387"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/444940/page_bg_generated_v6b.jpg?t=1496617387",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

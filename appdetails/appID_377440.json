@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     70068
@@ -123,6 +125,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/377440/ss_095ad94b6532bf61ccb4436a5b28f95cf92415e2.1920x1080.jpg?t=1447375983"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jun, 2015"
@@ -131,5 +136,9 @@
     "url": "http://superavalanche.com/contact.html",
     "email": "support@beastgames.org"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/377440/page_bg_generated_v6b.jpg?t=1447375983"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/377440/page_bg_generated_v6b.jpg?t=1447375983",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

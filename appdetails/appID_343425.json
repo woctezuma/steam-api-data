@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\"><strong>Agarest 2 - DLC Bundle #7</strong></h2><br><strong>Unlock All Movie Galleries</strong><br>This will unlock all of the movies in the game for your viewing pleasure. Enjoy!<br><br><strong>Unlock All Galleries</strong><br>This will unlock all the gallery items for viewing. Enjoy!<br><br><strong>Additional Rough Gallery</strong><br>This will unlock the rough gallery items for viewing. Enjoy!",
   "about_the_game": "<h2 class=\"bb_tag\"><strong>Agarest 2 - DLC Bundle #7</strong></h2><br><strong>Unlock All Movie Galleries</strong><br>This will unlock all of the movies in the game for your viewing pleasure. Enjoy!<br><br><strong>Unlock All Galleries</strong><br>This will unlock all the gallery items for viewing. Enjoy!<br><br><strong>Additional Rough Gallery</strong><br>This will unlock the rough gallery items for viewing. Enjoy!",
-  "short_description": "<h2 class=\"bb_tag\"><strong>Agarest 2 - DLC Bundle #7</strong></h2>Unlock All Movie Galleries, Unlock All Galleries, Additional Rough Gallery",
+  "short_description": "Agarest 2 - DLC Bundle #7Unlock All Movie Galleries, Unlock All Galleries, Additional Rough Gallery",
   "fullgame": {
     "appid": "312790",
     "name": "Agarest: Generations of War 2"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     58233
@@ -123,6 +125,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Apr, 2015"
@@ -131,5 +136,9 @@
     "url": "https://www.ghostlight.uk.com/",
     "email": "support@ghostlight.uk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/343425/page_bg_generated_v6b.jpg?t=1447367376"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/343425/page_bg_generated_v6b.jpg?t=1447367376",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

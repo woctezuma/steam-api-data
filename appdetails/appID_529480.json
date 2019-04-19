@@ -37,9 +37,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 179,
+    "discount_percent": 25,
+    "initial_formatted": "2,39\u20ac",
+    "final_formatted": "1,79\u20ac"
   },
   "packages": [
     127318
@@ -56,13 +58,13 @@
       "subs": [
         {
           "packageid": 127318,
-          "percent_savings_text": "",
+          "percent_savings_text": "-25%",
           "percent_savings": 0,
-          "option_text": "Chopper: Lethal darkness - 3,99\u20ac",
+          "option_text": "Chopper: Lethal darkness - <span class=\"discount_original_price\">2,39\u20ac</span> 1,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 179
         }
       ]
     }
@@ -233,5 +235,9 @@
     "url": "http://gts.com.ru/",
     "email": "mail@gts.com.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/529480/page_bg_generated_v6b.jpg?t=1506172544"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/529480/page_bg_generated_v6b.jpg?t=1506172544",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

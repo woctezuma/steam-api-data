@@ -11,29 +11,30 @@
     "appid": "363890",
     "name": "RPG Maker MV"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Portuguese-Brazil, Russian, Japanese, Korean, Traditional Chinese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/542490/header.jpg?t=1522748895",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Japanese, Korean, Traditional Chinese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/542490/header.jpg?t=1524674220",
   "website": "http://www.rpgmakerweb.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processor:</strong> PC with 1.0GHz Intel\u00ae Pentium\u00ae III equivalent or higher processor<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> 1024x768 or better video resolution<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound-compatible sound card<br></li><li><strong>Additional Notes:</strong> 1024x768 or better video resolution</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processeur\u00a0:</strong> PC with 1.0GHz Intel\u00ae Pentium\u00ae III equivalent or higher processor<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 256 MB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> 1024x768 or better video resolution<br></li><li><strong>DirectX\u00a0:</strong> Version 10<br></li><li><strong>Espace disque\u00a0:</strong> 250 MB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> DirectSound-compatible sound card<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> 1024x768 or better video resolution</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OSX 10.10 or better<br></li><li><strong>Processor:</strong> Intel Core2 Duo or better<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> Compatible OpenGLR<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound-compatible sound card<br></li><li><strong>Additional Notes:</strong> 1280x768 or better Display</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OSX 10.10 or better<br></li><li><strong>Processeur\u00a0:</strong> Intel Core2 Duo or better<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 128 MB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> Compatible OpenGLR<br></li><li><strong>Espace disque\u00a0:</strong> 250 MB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> DirectSound-compatible sound card<br></li><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> 1280x768 or better Display</li></ul>"
   },
   "linux_requirements": [],
   "legal_notice": "\u00a92015 KADOKAWA CORPORATION./YOJI OJIMA",
   "developers": [
-    "KADOKAWA",
-    "Yoji Ojima"
+    "Andy Chen"
   ],
   "publishers": [
-    ""
+    "Degica"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 649,
-    "discount_percent": 35
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     133473
@@ -50,13 +51,13 @@
       "subs": [
         {
           "packageid": 133473,
-          "percent_savings_text": "-35%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "RPG Maker MV - Animations Collection I: Quintessence - <span class=\"discount_original_price\">9,99\u20ac</span> 6,49\u20ac",
+          "option_text": "RPG Maker MV - Animations Collection I: Quintessence - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 649
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -93,8 +94,8 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/542490/ss_e6510a55e34c3069d1467eec044e5a398c788b9d.600x338.jpg?t=1522748895",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/542490/ss_e6510a55e34c3069d1467eec044e5a398c788b9d.1920x1080.jpg?t=1522748895"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/542490/ss_e6510a55e34c3069d1467eec044e5a398c788b9d.600x338.jpg?t=1524674220",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/542490/ss_e6510a55e34c3069d1467eec044e5a398c788b9d.1920x1080.jpg?t=1524674220"
     }
   ],
   "movies": [
@@ -109,6 +110,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Oct, 2016"
@@ -117,5 +121,9 @@
     "url": "http://www.rpgmakerweb.com/support",
     "email": "support@rpgmakerweb.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/542490/page_bg_generated_v6b.jpg?t=1522748895"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/542490/page_bg_generated_v6b.jpg?t=1524674220",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

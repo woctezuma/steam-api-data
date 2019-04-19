@@ -32,8 +32,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 199,
+    "discount_percent": 80,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     237280
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 237280,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "Hakuoki Edo - Deluxe Pack - 9,99\u20ac",
+          "option_text": "Hakuoki Edo - Deluxe Pack - <span class=\"discount_original_price\">9,99\u20ac</span> 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -113,6 +115,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/785900/ss_13c98622b43216d739514681242f2290f133f299.1920x1080.jpg?t=1520968268"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Mar, 2018"
@@ -121,5 +126,9 @@
     "url": "http://ideafintl.com/pcsupport.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/785900/page_bg_generated_v6b.jpg?t=1520968268"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/785900/page_bg_generated_v6b.jpg?t=1520968268",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

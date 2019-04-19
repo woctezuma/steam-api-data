@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 59,
-    "discount_percent": 80
+    "discount_percent": 80,
+    "initial_formatted": "2,99\u20ac",
+    "final_formatted": "0,59\u20ac"
   },
   "packages": [
     151712
@@ -156,5 +158,9 @@
     "url": "http://shoreboundstudios.com",
     "email": "support@shoreboundstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/586990/page_bg_generated_v6b.jpg?t=1491483176"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/586990/page_bg_generated_v6b.jpg?t=1491483176",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

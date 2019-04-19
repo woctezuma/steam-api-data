@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>It's been several months since the Fall of Beacon, and the world of Remnant is still recovering. Tensions are high, lives have been lost, and the members of Team RWBY... are divided. Each of our heroines now faces a journey of their own. While some must search inward if they ever hope to move on, others will venture out into the world in search of answers. Alongside the remaining members of Team JNPR, Ruby Rose has begun the long trek to the kingdom of Mistral, but the road ahead is full of surprises. New friends and enemies await, while the threat of an even larger catastrophe draws near.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>It's been several months since the Fall of Beacon, and the world of Remnant is still recovering. Tensions are high, lives have been lost, and the members of Team RWBY... are divided. Each of our heroines now faces a journey of their own. While some must search inward if they ever hope to move on, others will venture out into the world in search of answers. Alongside the remaining members of Team JNPR, Ruby Rose has begun the long trek to the kingdom of Mistral, but the road ahead is full of surprises. New friends and enemies await, while the threat of an even larger catastrophe draws near.",
   "about_the_game": "It's been several months since the Fall of Beacon, and the world of Remnant is still recovering. Tensions are high, lives have been lost, and the members of Team RWBY... are divided. Each of our heroines now faces a journey of their own. While some must search inward if they ever hope to move on, others will venture out into the world in search of answers. Alongside the remaining members of Team JNPR, Ruby Rose has begun the long trek to the kingdom of Mistral, but the road ahead is full of surprises. New friends and enemies await, while the threat of an even larger catastrophe draws near.",
   "short_description": "It's been several months since the Fall of Beacon, and the world of Remnant is still recovering. Tensions are high, lives have been lost, and the members of Team RWBY... are divided. Each of our heroines now faces a journey of their own.",
   "fullgame": {
@@ -36,9 +36,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     182475,
@@ -58,21 +60,21 @@
           "packageid": 182475,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "RWBY: Volume 4 - 4,99\u20ac",
+          "option_text": "RWBY: Volume 4 - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 329
         },
         {
           "packageid": 182474,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "RWBY: Volume 4 - 12,99\u20ac",
+          "option_text": "RWBY: Volume 4 - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1299
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -161,6 +163,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Jun, 2017"
@@ -169,5 +174,9 @@
     "url": "http://www.cinedigm.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/648820/page_bg_generated_v6b.jpg?t=1496789033"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/648820/page_bg_generated_v6b.jpg?t=1496789033",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\">The license to &quot;print money&quot;</h2>The DLC <strong>CUR3D Maker Edition - Permission for commercial use</strong> grants you the permission to use <strong>CUR3D Maker Edition</strong> for commercial purposes.<br>The software removes all references to &quot;non-commercial use&quot;. In addition, you will receive new terms and conditions (EULA) for the software, which will give you free commercial use.",
   "about_the_game": "<h2 class=\"bb_tag\">The license to &quot;print money&quot;</h2>The DLC <strong>CUR3D Maker Edition - Permission for commercial use</strong> grants you the permission to use <strong>CUR3D Maker Edition</strong> for commercial purposes.<br>The software removes all references to &quot;non-commercial use&quot;. In addition, you will receive new terms and conditions (EULA) for the software, which will give you free commercial use.",
-  "short_description": "<h2 class=\"bb_tag\">The license to &quot;print money&quot;</h2>The DLC <strong>CUR3D Maker Edition - Permission for commercial use</strong> grants you the permission to use <strong>CUR3D Maker Edition</strong> for commercial purposes. The software removes all references to &quot;non-commercial use&quot;. In addition, you will receive new terms and conditions (EULA) for the software, which will give you free commercial use.",
+  "short_description": "The license to &quot;print money&quot;The DLC CUR3D Maker Edition - Permission for commercial use grants you the permission to use CUR3D Maker Edition for commercial purposes. The software removes all references to &quot;non-commercial use&quot;.",
   "fullgame": {
     "appid": "668660",
     "name": "CUR3D Maker Edition"
@@ -43,7 +43,9 @@
     "currency": "EUR",
     "initial": 49999,
     "final": 49999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "499,99\u20ac"
   },
   "packages": [
     198245
@@ -135,5 +137,9 @@
     "url": "https://www.ruhrsource.com",
     "email": "steam@ruhrsource.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/691560/page_bg_generated_v6b.jpg?t=1509995539"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/691560/page_bg_generated_v6b.jpg?t=1509995539",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

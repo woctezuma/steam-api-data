@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Digital Extras Include:<br><ul class=\"bb_ul\"><li> Making Of Book<br></li><li> Soundtrack (12 tracks)<br></li><li> Making of Video<br></li><li> Making of Voice Overs</li></ul>Note: Digital Extras will be located at Program files -&gt; Steam -&gt; Steamapps -&gt; Common -&gt; The Critter Chronicles -&gt; Digital Extras",
   "about_the_game": "Digital Extras Include:<br><ul class=\"bb_ul\"><li> Making Of Book<br></li><li> Soundtrack (12 tracks)<br></li><li> Making of Video<br></li><li> Making of Voice Overs</li></ul>Note: Digital Extras will be located at Program files -&gt; Steam -&gt; Steamapps -&gt; Common -&gt; The Critter Chronicles -&gt; Digital Extras",
-  "short_description": "",
+  "short_description": "Digital Extras Include: Making Of Book Soundtrack (12 tracks) Making of Video Making of Voice OversNote: Digital Extras will be located at Program files -&gt; Steam -&gt; Steamapps -&gt; Common -&gt; The Critter Chronicles -&gt; Digital Extras",
   "fullgame": {
     "appid": "221830",
     "name": "The Book of Unwritten Tales: The Critter Chronicles"
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 249,
+    "discount_percent": 75,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     18446,
@@ -50,33 +52,33 @@
       "subs": [
         {
           "packageid": 18446,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "The Book of Unwritten Tales: The Critter Chronicles Digital Extras - 9,99\u20ac",
+          "option_text": "The Book of Unwritten Tales: The Critter Chronicles Digital Extras - <span class=\"discount_original_price\">9,99\u20ac</span> 2,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 249
         },
         {
           "packageid": 18445,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "The Book of Unwritten Tales: The Critter Chronicles Collectors Edition - 24,99\u20ac",
+          "option_text": "The Book of Unwritten Tales: The Critter Chronicles Collectors Edition - <span class=\"discount_original_price\">24,99\u20ac</span> 6,24\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2499
+          "price_in_cents_with_discount": 624
         },
         {
           "packageid": 59923,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "The Book of Unwritten Tales Collection - 69,99\u20ac",
+          "option_text": "The Book of Unwritten Tales Collection - <span class=\"discount_original_price\">69,99\u20ac</span> 13,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 6999
+          "price_in_cents_with_discount": 1399
         }
       ]
     }
@@ -113,6 +115,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/222240/ss_2ba68bb1347b8a26bd31e4e4db7febc81124a8ce.1920x1080.jpg?t=1471949213"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Dec, 2012"
@@ -121,5 +126,9 @@
     "url": "http://forums.steampowered.com/forums/forumdisplay.php?f=1484",
     "email": "support@quanticlab.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/222240/page_bg_generated_v6b.jpg?t=1471949213"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/222240/page_bg_generated_v6b.jpg?t=1471949213",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

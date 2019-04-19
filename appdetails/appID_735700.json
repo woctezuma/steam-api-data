@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     214887
@@ -45,11 +47,11 @@
           "packageid": 214887,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "How To Meat People - 9,99\u20ac",
+          "option_text": "How To Meat People - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -204,5 +206,9 @@
     "url": "",
     "email": "vertnacular@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/735700/page_bg_generated_v6b.jpg?t=1511393178"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/735700/page_bg_generated_v6b.jpg?t=1511393178",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Tengutana is a virtual reality puzzle game.<br />\r\nThe player needs to have a sharp eye and good aim as he will have to swing with katana and throw shurikens to solve the tasks at hand. Your training will be assisted by a supernatural being that will guide you through the whole process.<br />\r\n<br />\r\nThe goal of the game is to gather souls of fallen warriors by solving puzzles.\u00a0<br />\r\nPuzzles are made up by cuttable and non-cuttable objects, moving platforms, explosive barrels, portals and more.<br />\r\n<br />\r\nThe game contains 50 levels to beat, bonus rounds and boss fights. <br />\r\nIn following months, free DLC is planned with additional levels to beat.",
   "about_the_game": "Tengutana is a virtual reality puzzle game.<br />\r\nThe player needs to have a sharp eye and good aim as he will have to swing with katana and throw shurikens to solve the tasks at hand. Your training will be assisted by a supernatural being that will guide you through the whole process.<br />\r\n<br />\r\nThe goal of the game is to gather souls of fallen warriors by solving puzzles.\u00a0<br />\r\nPuzzles are made up by cuttable and non-cuttable objects, moving platforms, explosive barrels, portals and more.<br />\r\n<br />\r\nThe game contains 50 levels to beat, bonus rounds and boss fights. <br />\r\nIn following months, free DLC is planned with additional levels to beat.",
-  "short_description": "Tengutana is a virtual reality puzzle game.<br />\r\nThe player needs to have a sharp eye and good aim as he will have to swing with katana and throw shurikens to solve the tasks at hand.",
+  "short_description": "Tengutana is a virtual reality puzzle game. The player needs to have a sharp eye and good aim as he will have to swing with katana and throw shurikens to solve the tasks at hand.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/630070/header.jpg?t=1518412982",
   "website": "http://bartos-studio.com/tengutana/",
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "final": 299,
+    "discount_percent": 25,
+    "initial_formatted": "3,99\u20ac",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     171354
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 171354,
-          "percent_savings_text": "",
+          "percent_savings_text": "-25%",
           "percent_savings": 0,
-          "option_text": "Tengutana - 3,99\u20ac",
+          "option_text": "Tengutana - <span class=\"discount_original_price\">3,99\u20ac</span> 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -186,5 +188,9 @@
     "url": "",
     "email": "info@bartos-studio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/630070/page_bg_generated_v6b.jpg?t=1518412982"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/630070/page_bg_generated_v6b.jpg?t=1518412982",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

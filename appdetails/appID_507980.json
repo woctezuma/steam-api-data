@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In-depth Face Painting Demo. This video is around 45 minutes long talking about how I usually paint my character designs faces. Topics covered include.\r\n\r\n-Get the shape of the head.\r\n-Find the features of the face\r\n-Determine their character\r\n-Flavor it with some design.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In-depth Face Painting Demo. This video is around 45 minutes long talking about how I usually paint my character designs faces. Topics covered include.\r\n\r\n-Get the shape of the head.\r\n-Find the features of the face\r\n-Determine their character\r\n-Flavor it with some design.",
   "about_the_game": "In-depth Face Painting Demo. This video is around 45 minutes long talking about how I usually paint my character designs faces. Topics covered include.<br />\r\n<br />\r\n-Get the shape of the head.<br />\r\n-Find the features of the face<br />\r\n-Determine their character<br />\r\n-Flavor it with some design.",
   "short_description": "This is an in depth video of how I approach character faces.",
   "fullgame": {
@@ -35,9 +35,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     117371
@@ -56,11 +58,11 @@
           "packageid": 117371,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Robotpencil Presents: Character Portrait Demo - 4,99\u20ac",
+          "option_text": "Robotpencil Presents: Character Portrait Demo - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -107,6 +109,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/507980/ss_4541e02607b153da60c40bdb4549760c7c00117c.1920x1080.jpg?t=1472241156"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Aug, 2016"
@@ -115,5 +120,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/507980/page_bg_generated_v6b.jpg?t=1472241156"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/507980/page_bg_generated_v6b.jpg?t=1472241156",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

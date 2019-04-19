@@ -1,21 +1,22 @@
 {
   "type": "dlc",
-  "name": "Party Jousting - Bling Pack",
+  "name": "Beta Access Pack",
   "steam_appid": 442830,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "This DLC is an optional donation with a small reward: <br><ul class=\"bb_ul\"><li> 7 new characters.<br></li><li> 6 new hats.<br></li><li> Beta access to new modes in development.</li></ul>The hats and characters are set in three themes: Bling, Void and Rainbow.<br><br><br>You will greatly contribute to the continued improvement of the game and to the development of new modes.",
-  "about_the_game": "This DLC is an optional donation with a small reward: <br><ul class=\"bb_ul\"><li> 7 new characters.<br></li><li> 6 new hats.<br></li><li> Beta access to new modes in development.</li></ul>The hats and characters are set in three themes: Bling, Void and Rainbow.<br><br><br>You will greatly contribute to the continued improvement of the game and to the development of new modes.",
-  "short_description": "Adds 7 characters and 6 hats - set in three themes: Bling, Void and Rainbow.",
+  "controller_support": "full",
+  "detailed_description": "Beta access: Unlocks modes that are in development.<br><br><ul class=\"bb_ul\"><li>Some modes in beta require you to read English.<br></li><li>The screen shots are from earlier beta tests. Available modes in beta will change from update to update.<br></li><li>I am aware that the DLC is too expensive, this is by design.</li></ul>",
+  "about_the_game": "Beta access: Unlocks modes that are in development.<br><br><ul class=\"bb_ul\"><li>Some modes in beta require you to read English.<br></li><li>The screen shots are from earlier beta tests. Available modes in beta will change from update to update.<br></li><li>I am aware that the DLC is too expensive, this is by design.</li></ul>",
+  "short_description": "Unlocks modes in development.",
   "fullgame": {
     "appid": "437900",
     "name": "Party Jousting"
   },
-  "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/442830/header.jpg?t=1456891923",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/442830/header.jpg?t=1552900946",
   "website": "http://vikingfabian.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Xp, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> 1.6 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 128mb Video Memory, capable of Shader Model 3.0<br></li><li><strong>DirectX:</strong> Version 9.0</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, 10<br></li><li><strong>Processor:</strong> 1.6 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 128mb Video Memory, capable of Shader Model 3.0<br></li><li><strong>DirectX:</strong> Version 9.0</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -29,7 +30,9 @@
     "currency": "EUR",
     "initial": 2499,
     "final": 2499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "24,99\u20ac"
   },
   "packages": [
     93919
@@ -37,7 +40,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Party Jousting - Bling Pack",
+      "title": "Buy Beta Access Pack",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -64,6 +67,10 @@
   },
   "categories": [
     {
+      "id": 37,
+      "description": "Local Multi-Player"
+    },
+    {
       "id": 24,
       "description": "Shared/Split Screen"
     },
@@ -72,8 +79,8 @@
       "description": "Downloadable Content"
     },
     {
-      "id": 18,
-      "description": "Partial Controller Support"
+      "id": 28,
+      "description": "Full controller support"
     }
   ],
   "genres": [
@@ -97,8 +104,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/442830/ss_8e7c051bf78d98febc54e58293575c1e06c124c2.600x338.jpg?t=1456891923",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/442830/ss_8e7c051bf78d98febc54e58293575c1e06c124c2.1920x1080.jpg?t=1456891923"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/442830/ss_bdd7657d28f2d817f985f0c6db42682654cb7dcd.600x338.jpg?t=1552900946",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/442830/ss_bdd7657d28f2d817f985f0c6db42682654cb7dcd.1920x1080.jpg?t=1552900946"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/442830/ss_990c0b97e78576b20d2c35bf2acffab22c499a18.600x338.jpg?t=1552900946",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/442830/ss_990c0b97e78576b20d2c35bf2acffab22c499a18.1920x1080.jpg?t=1552900946"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/442830/ss_60bd976e4ef7908ad1dd4fc319bb751e92335d71.600x338.jpg?t=1552900946",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/442830/ss_60bd976e4ef7908ad1dd4fc319bb751e92335d71.1920x1080.jpg?t=1552900946"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/442830/ss_8ad4313c965b2af71acd1ad879b9adaa20bb5419.600x338.jpg?t=1552900946",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/442830/ss_8ad4313c965b2af71acd1ad879b9adaa20bb5419.1920x1080.jpg?t=1552900946"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/442830/ss_d19354d4eaea047fb19e22e118e29d168b382450.600x338.jpg?t=1552900946",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/442830/ss_d19354d4eaea047fb19e22e118e29d168b382450.1920x1080.jpg?t=1552900946"
     }
   ],
   "release_date": {
@@ -109,5 +136,9 @@
     "url": "http://vikingfabian.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/442830/page_bg_generated_v6b.jpg?t=1456891923"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/442830/page_bg_generated_v6b.jpg?t=1552900946",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "A large and bright game that includes multiple levels of various complexity. Pass the multiple levels of the game, control the green character using special green zones. The character can fly from one green zone to another. Your goal is to destroy all the robots. Hit the robot to destroy it. If a robot's beam hits the character, the game is over. There are three types of robots. The red ones move randomly, the yellow ones have a specific trajectory, the spider robot rotates around its own center. Avoid guns, lasers and flying saws.  The level is complete when there are no scout robots  on the field. Collect bonus items. Use the interface on the right to apply them. Extra life. Protection, click on the icon to become invulnerable for a few seconds. Hammer. Click on the icon and then on any robot on the screen to destroy it. X2, Click on the icon to make the character move 2 times faster. Web, click on the icon and then on any robot on the screen to temporarily stop it. The complexity grows with the levels.",
   "about_the_game": "A large and bright game that includes multiple levels of various complexity. Pass the multiple levels of the game, control the green character using special green zones. The character can fly from one green zone to another. Your goal is to destroy all the robots. Hit the robot to destroy it. If a robot's beam hits the character, the game is over. There are three types of robots. The red ones move randomly, the yellow ones have a specific trajectory, the spider robot rotates around its own center. Avoid guns, lasers and flying saws.  The level is complete when there are no scout robots  on the field. Collect bonus items. Use the interface on the right to apply them. Extra life. Protection, click on the icon to become invulnerable for a few seconds. Hammer. Click on the icon and then on any robot on the screen to destroy it. X2, Click on the icon to make the character move 2 times faster. Web, click on the icon and then on any robot on the screen to temporarily stop it. The complexity grows with the levels.",
-  "short_description": "A large and bright game that includes multiple levels of various complexity. Hit the robot to destroy it. The level is complete when there are no scout robots  on the field. Collect bonus items. Use the interface on the right to apply them. The complexity grows with the levels.",
+  "short_description": "A large and bright game that includes multiple levels of various complexity. Hit the robot to destroy it. The level is complete when there are no scout robots on the field. Collect bonus items. Use the interface on the right to apply them. The complexity grows with the levels.",
   "supported_languages": "English, French, German, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/668460/header.jpg?t=1506681652",
   "website": "http://iteralabs.wixsite.com/iteralabs",
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     190030
@@ -121,6 +123,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Sep, 2017"
@@ -129,5 +134,9 @@
     "url": "http://iteralabs.wixsite.com/iteralabs/contact",
     "email": "iteralabs@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/668460/page_bg_generated_v6b.jpg?t=1506681652"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/668460/page_bg_generated_v6b.jpg?t=1506681652",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

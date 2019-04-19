@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     111811
@@ -120,6 +122,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Aug, 2016"
@@ -128,5 +133,9 @@
     "url": "",
     "email": "purinproductions@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492080/page_bg_generated_v6b.jpg?t=1475813612"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492080/page_bg_generated_v6b.jpg?t=1475813612",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

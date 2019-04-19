@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     56553
@@ -48,11 +50,11 @@
           "packageid": 56553,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "SanctuaryRPG: Black Edition OST - 2,99\u20ac",
+          "option_text": "SanctuaryRPG: Black Edition OST - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -106,6 +108,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/338770/ss_61c8dafb79db94128e809fd7a6e68e8a58a35a5f.1920x1080.jpg?t=1447366161"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Dec, 2014"
@@ -114,5 +119,9 @@
     "url": "http://blackshellmedia.com",
     "email": "daniel@blackshellmedia.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/338770/page_bg_generated_v6b.jpg?t=1447366161"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/338770/page_bg_generated_v6b.jpg?t=1447366161",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

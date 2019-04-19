@@ -16,8 +16,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/473447/header.jpg?t=1468896591",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64bit, Windows 8.1 64bit Windows 10 64bit<br></li><li><strong>Processor:</strong> 3 GHz 2 Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon HD 7870<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 11 sound device</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64bit, Windows 8.1 64bit Windows 10 64bit<br></li><li><strong>Processor:</strong> 3.2GHz 4Core<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon HD 7970<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 11 sound device</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64bit, Windows 8.1 64bit Windows 10 64bit<br></li><li><strong>\u30d7\u30ed\u30bb\u30c3\u30b5\u30fc:</strong> 3 GHz 2 Core<br></li><li><strong>\u30e1\u30e2\u30ea\u30fc:</strong> 4 GB RAM<br></li><li><strong>\u30b0\u30e9\u30d5\u30a3\u30c3\u30af:</strong> AMD Radeon HD 7870<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>\u30cd\u30c3\u30c8\u30ef\u30fc\u30af:</strong> \u30d6\u30ed\u30fc\u30c9\u30d0\u30f3\u30c9\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u63a5\u7d9a<br></li><li><strong>\u30b9\u30c8\u30ec\u30fc\u30b8:</strong> 8 GB \u5229\u7528\u53ef\u80fd<br></li><li><strong>\u30b5\u30a6\u30f3\u30c9\u30ab\u30fc\u30c9:</strong> DirectX 11 sound device</li></ul>",
+    "recommended": "<strong>\u63a8\u5968:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64bit, Windows 8.1 64bit Windows 10 64bit<br></li><li><strong>\u30d7\u30ed\u30bb\u30c3\u30b5\u30fc:</strong> 3.2GHz 4Core<br></li><li><strong>\u30e1\u30e2\u30ea\u30fc:</strong> 8 GB RAM<br></li><li><strong>\u30b0\u30e9\u30d5\u30a3\u30c3\u30af:</strong> AMD Radeon HD 7970<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>\u30cd\u30c3\u30c8\u30ef\u30fc\u30af:</strong> \u30d6\u30ed\u30fc\u30c9\u30d0\u30f3\u30c9\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u63a5\u7d9a<br></li><li><strong>\u30b9\u30c8\u30ec\u30fc\u30b8:</strong> 8 GB \u5229\u7528\u53ef\u80fd<br></li><li><strong>\u30b5\u30a6\u30f3\u30c9\u30ab\u30fc\u30c9:</strong> DirectX 11 sound device</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     105044
@@ -122,6 +124,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/473447/ss_a29e568683fb6fa115a9287ab6a4ac74c6ff6746.1920x1080.jpg?t=1468896591"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Jul, 2016"
@@ -130,5 +135,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/473447/page_bg_generated_v6b.jpg?t=1468896591"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/473447/page_bg_generated_v6b.jpg?t=1468896591",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

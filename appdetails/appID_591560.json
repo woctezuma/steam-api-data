@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     153874
@@ -177,5 +179,9 @@
     "url": "http://pandaindiestudio.wordpress.com/",
     "email": "matteo.gonano@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/591560/page_bg_generated_v6b.jpg?t=1522155086"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/591560/page_bg_generated_v6b.jpg?t=1522155086",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

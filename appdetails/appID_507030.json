@@ -34,9 +34,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "initial": 659,
+    "final": 659,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,59\u20ac"
   },
   "packages": [
     117031
@@ -55,11 +57,11 @@
           "packageid": 117031,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Bicyclism EP - 7,99\u20ac",
+          "option_text": "Bicyclism EP - 6,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 659
         }
       ]
     }
@@ -227,5 +229,9 @@
     "url": "https://twitter.com/bicyclismgame",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/507030/page_bg_generated_v6b.jpg?t=1484878104"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/507030/page_bg_generated_v6b.jpg?t=1484878104",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

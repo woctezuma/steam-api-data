@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 149,
+    "final": 149,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,49\u20ac"
   },
   "packages": [
     226357
@@ -44,11 +46,11 @@
           "packageid": 226357,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Last Hope - 1,99\u20ac",
+          "option_text": "Last Hope - 1,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 149
         }
       ]
     }
@@ -113,6 +115,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Dec, 2017"
@@ -121,5 +126,9 @@
     "url": "",
     "email": "allthatremainshelp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/765620/page_bg_generated_v6b.jpg?t=1514711778"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/765620/page_bg_generated_v6b.jpg?t=1514711778",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,7 +11,7 @@
     "appid": "493340",
     "name": "Planet Coaster"
   },
-  "supported_languages": "English, French, German, Spanish, Portuguese-Brazil, Korean, Simplified Chinese, Traditional Chinese, Japanese",
+  "supported_languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Korean, Simplified Chinese, Traditional Chinese, Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/821090/header.jpg?t=1522169208",
   "website": "https://www.planetcoaster.com/",
   "pc_requirements": {
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1099,
-    "final": 1099,
-    "discount_percent": 0
+    "final": 879,
+    "discount_percent": 20,
+    "initial_formatted": "10,99\u20ac",
+    "final_formatted": "8,79\u20ac"
   },
   "packages": [
     251779
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 251779,
-          "percent_savings_text": "",
+          "percent_savings_text": "-20%",
           "percent_savings": 0,
-          "option_text": "Planet Coaster - Studios Pack - 10,99\u20ac",
+          "option_text": "Planet Coaster - Studios Pack - <span class=\"discount_original_price\">10,99\u20ac</span> 8,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1099
+          "price_in_cents_with_discount": 879
         }
       ]
     }
@@ -164,6 +166,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Mar, 2018"
@@ -172,5 +177,9 @@
     "url": "https://support.frontier.co.uk/kb/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/821090/page_bg_generated_v6b.jpg?t=1522169208"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/821090/page_bg_generated_v6b.jpg?t=1522169208",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

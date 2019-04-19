@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This is my first published game, made using Unity and Playmaker.<br />\r\n<br />\r\nSuper cube smash is a rhythmic action game that generates music as you play. <br />\r\n<br />\r\nIt is set on the mysterious ancient spaceship 'The Dwarfstone' where the most peculiar and unfortunate of events have occurred. <br />\r\n<br />\r\nYour mission is to find the core of the ship and destroy the source of the acidic alien cube swarm, before it grows to a concentration beyond your control. <br />\r\n<br />\r\nSuper Cube Smash is a very difficult single player challenge, with an official steam leader board.<br />\r\n<br />\r\nFeatures...<br />\r\n<br />\r\n-Rhythmic step-sequencer; putting everything in time to the rhythm, even your gun shots.<br />\r\n<br />\r\n-Dark, moody and colourful aesthetic.<br />\r\n<br />\r\n-Responsive, familiar controls (wasd and mouse or Xbox pad).<br />\r\n<br />\r\n-17 tough hand crafted levels.<br />\r\n<br />\r\n-Non-linear completion.<br />\r\n<br />\r\n-Adaptive difficulty. The more you complete and level up, the harder it gets.<br />\r\n<br />\r\n-A shooting game without gore (child friendly).<br />\r\n<br />\r\n-Hardcore mode (because the game isn't hard enough already). Granting the opportunity for higher scores.<br />\r\n<br />\r\n<br />\r\nSuper cube smash was created solely by Lewis Fitzjohn over the course of 2014 - 2015.<br />\r\nSteam online leader-board functionality implemented by David Jordan.",
   "about_the_game": "This is my first published game, made using Unity and Playmaker.<br />\r\n<br />\r\nSuper cube smash is a rhythmic action game that generates music as you play. <br />\r\n<br />\r\nIt is set on the mysterious ancient spaceship 'The Dwarfstone' where the most peculiar and unfortunate of events have occurred. <br />\r\n<br />\r\nYour mission is to find the core of the ship and destroy the source of the acidic alien cube swarm, before it grows to a concentration beyond your control. <br />\r\n<br />\r\nSuper Cube Smash is a very difficult single player challenge, with an official steam leader board.<br />\r\n<br />\r\nFeatures...<br />\r\n<br />\r\n-Rhythmic step-sequencer; putting everything in time to the rhythm, even your gun shots.<br />\r\n<br />\r\n-Dark, moody and colourful aesthetic.<br />\r\n<br />\r\n-Responsive, familiar controls (wasd and mouse or Xbox pad).<br />\r\n<br />\r\n-17 tough hand crafted levels.<br />\r\n<br />\r\n-Non-linear completion.<br />\r\n<br />\r\n-Adaptive difficulty. The more you complete and level up, the harder it gets.<br />\r\n<br />\r\n-A shooting game without gore (child friendly).<br />\r\n<br />\r\n-Hardcore mode (because the game isn't hard enough already). Granting the opportunity for higher scores.<br />\r\n<br />\r\n<br />\r\nSuper cube smash was created solely by Lewis Fitzjohn over the course of 2014 - 2015.<br />\r\nSteam online leader-board functionality implemented by David Jordan.",
-  "short_description": "Super cube smash is a rhythmic action game that generates music as you play. <br />\r\nIt is set on the mysterious ancient spaceship 'The Dawrfstone' where the most peculiar and unfortunate of events have occurred. <br />\r\nYour mission is to find the core of the ship and destroy the source of the acidic alien cube swarm, before it grows to a concentration beyond your control.",
+  "short_description": "Super cube smash is a rhythmic action game that generates music as you play. It is set on the mysterious ancient spaceship 'The Dawrfstone' where the most peculiar and unfortunate of events have occurred.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/466280/header.jpg?t=1489442875",
   "website": "http://www.supercubesmash3d.com",
@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 600,
+    "final": 600,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,--\u20ac"
   },
   "packages": [
     102443
@@ -48,11 +50,11 @@
           "packageid": 102443,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Super Cube Smash - 9,99\u20ac",
+          "option_text": "Super Cube Smash - 6,--\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 600
         }
       ]
     }
@@ -134,6 +136,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Aug, 2016"
@@ -142,5 +147,9 @@
     "url": "http://www.supercubesmash3d.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466280/page_bg_generated_v6b.jpg?t=1489442875"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466280/page_bg_generated_v6b.jpg?t=1489442875",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

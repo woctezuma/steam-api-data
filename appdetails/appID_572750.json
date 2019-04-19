@@ -11,7 +11,7 @@
     "appid": "342260",
     "name": "Nevermind"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese, Korean, Portuguese-Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/572750/header.jpg?t=1482436526",
   "website": "http://www.nevermindgame.com",
   "pc_requirements": {
@@ -33,9 +33,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     145529
@@ -54,11 +56,11 @@
           "packageid": 145529,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Nevermind Soundtrack Vol. 2 - 9,99\u20ac",
+          "option_text": "Nevermind Soundtrack Vol. 2 - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -119,5 +121,9 @@
     "url": "http://www.nevermindgame.com/support",
     "email": "support@nevermindgame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/572750/page_bg_generated_v6b.jpg?t=1482436526"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/572750/page_bg_generated_v6b.jpg?t=1482436526",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

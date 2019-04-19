@@ -36,12 +36,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
-    76792
+    76792,
+    280195
   ],
   "package_groups": [
     {
@@ -57,11 +60,21 @@
           "packageid": 76792,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Rescue Love Revenge - 4,99\u20ac",
+          "option_text": "Rescue Love Revenge - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
+        },
+        {
+          "packageid": 280195,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Rescue Love Revenge - Commercial License - 3,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -220,5 +233,9 @@
     "url": "http://RescueLoveRevenge.com/",
     "email": "contact@RescueLoveRevenge.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/397730/page_bg_generated_v6b.jpg?t=1477863466"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/397730/page_bg_generated_v6b.jpg?t=1477863466",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

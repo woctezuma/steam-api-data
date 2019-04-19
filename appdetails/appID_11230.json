@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     768
@@ -152,7 +154,10 @@
     }
   ],
   "recommendations": {
-    "total": 498
+    "total": 318
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -162,5 +167,9 @@
     "url": "http://feedback.cinemax.cz/?email=Gumboy",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/11230/page_bg_generated_v6b.jpg?t=1490107858"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/11230/page_bg_generated_v6b.jpg?t=1490107858",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

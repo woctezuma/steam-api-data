@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     65870
@@ -120,6 +122,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Jun, 2015"
@@ -128,5 +133,9 @@
     "url": "https://sites.google.com/site/cybercritics/",
     "email": "cybercritics@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/365240/page_bg_generated_v6b.jpg?t=1447373070"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/365240/page_bg_generated_v6b.jpg?t=1447373070",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>\"Treasures and Tunnels,\" Delve Deeper's first DLC expansion, brings you 50% more Delve Deeper maps and 25% more treasure.  For those counting, that's 10 new levels and 25 brand new relics.  Each level is custom-tailored to be tackled by different team combinations, and each relic custom-designed to add new excitement to every map!</p>\n\t\t\t\t\t\t\t<h2>Key features:</h2>\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>10 new maps, including \u201cBig Orc Candy Mountains,\u201d \u201cDuke Dreadaxe's Dungeon O'Doom,\u201d and \u201cCrazy Edvard's Chasm.\u201d\n\t\t\t\t\t\t\t<li>25 dynamic, exciting new relics\n\t\t\t\t\t\t\t</ul>",
   "about_the_game": "<p>\"Treasures and Tunnels,\" Delve Deeper's first DLC expansion, brings you 50% more Delve Deeper maps and 25% more treasure.  For those counting, that's 10 new levels and 25 brand new relics.  Each level is custom-tailored to be tackled by different team combinations, and each relic custom-designed to add new excitement to every map!</p>\n\t\t\t\t\t\t\t<h2>Key features:</h2>\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>10 new maps, including \u201cBig Orc Candy Mountains,\u201d \u201cDuke Dreadaxe's Dungeon O'Doom,\u201d and \u201cCrazy Edvard's Chasm.\u201d\n\t\t\t\t\t\t\t<li>25 dynamic, exciting new relics\n\t\t\t\t\t\t\t</ul>",
-  "short_description": "",
+  "short_description": "\"Treasures and Tunnels,\" Delve Deeper's first DLC expansion, brings you 50% more Delve Deeper maps and 25% more treasure. For those counting, that's 10 new levels and 25 brand new relics. Each level is custom-tailored to be tackled by different team combinations, and each relic custom-designed to add new excitement to every map!",
   "fullgame": {
     "appid": "63800",
     "name": "Delve Deeper"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     8936,
@@ -154,5 +156,9 @@
     "url": "",
     "email": "support@lunargiantstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/63802/page_bg_generated_v6b.jpg?t=1447354435"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/63802/page_bg_generated_v6b.jpg?t=1447354435",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

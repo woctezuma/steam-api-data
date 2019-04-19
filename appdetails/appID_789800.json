@@ -11,8 +11,8 @@
     "appid": "363890",
     "name": "RPG Maker MV"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Portuguese-Brazil, Russian, Japanese, Korean, Traditional Chinese, Arabic, Simplified Chinese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/789800/header.jpg?t=1517534507",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Japanese, Korean, Traditional Chinese, Arabic, Simplified Chinese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/789800/header.jpg?t=1542853242",
   "website": "http://www.rpgmakerweb.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8.1/10 (64bit)<br></li><li><strong>Processor:</strong> Intel Core2 Duo or better<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9/OpenGL capable GPU<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Additional Notes:</strong> 1280x768 or better Display</li></ul>"
@@ -23,9 +23,7 @@
   "linux_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux Ubuntu</li></ul>"
   },
-  "legal_notice": "\u00a92018 KADOKAWA CORPORATION.",
   "developers": [
-    "KADOKAWA",
     "Joel Steudler"
   ],
   "publishers": [
@@ -35,7 +33,9 @@
     "currency": "EUR",
     "initial": 2299,
     "final": 2299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "22,99\u20ac"
   },
   "packages": [
     238875
@@ -95,8 +95,8 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/789800/ss_a88fc644b2038c45525236d29dc124aff85ce276.600x338.jpg?t=1517534507",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/789800/ss_a88fc644b2038c45525236d29dc124aff85ce276.1920x1080.jpg?t=1517534507"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/789800/ss_a88fc644b2038c45525236d29dc124aff85ce276.600x338.jpg?t=1542853242",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/789800/ss_a88fc644b2038c45525236d29dc124aff85ce276.1920x1080.jpg?t=1542853242"
     }
   ],
   "movies": [
@@ -111,6 +111,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Jan, 2018"
@@ -119,5 +122,9 @@
     "url": "http://www.rpgmakerweb.com/support",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/789800/page_bg_generated_v6b.jpg?t=1517534507"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/789800/page_bg_generated_v6b.jpg?t=1542853242",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

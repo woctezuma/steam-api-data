@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 249,
-    "discount_percent": 75
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     61953
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 61953,
-          "percent_savings_text": "-75%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Spellbind - <span class=\"discount_original_price\">9,99\u20ac</span> 2,49\u20ac",
+          "option_text": "Spellbind - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 249
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -193,6 +195,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Mar, 2015"
@@ -201,5 +206,9 @@
     "url": "",
     "email": "support@strategyfirst.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/353600/page_bg_generated_v6b.jpg?t=1447370071"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/353600/page_bg_generated_v6b.jpg?t=1447370071",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -2,7 +2,7 @@
   "type": "dlc",
   "name": "Triborg",
   "steam_appid": 524260,
-  "required_age": "17",
+  "required_age": "18",
   "is_free": false,
   "controller_support": "full",
   "detailed_description": "Long after Sub-Zero eliminated the cyber Lin Kuei, Special Forces discovered their hidden data storage site and downloaded several files into a test body. The consciousness of Sektor, Cyrax and Smoke somehow intermingled and brought the body to life. The Triborg wiped the lab clean of human occupants - and now seeks to eliminate all organic life.",
@@ -12,8 +12,8 @@
     "appid": "307780",
     "name": "Mortal Kombat X"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong>, Polish, Portuguese-Brazil<strong>*</strong>, Russian, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/524260/header.jpg?t=1475596948",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish, Portuguese - Brazil<strong>*</strong>, Russian, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/524260/header.jpg?t=1547833243",
   "website": "http://www.mortalkombat.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit: Vista, Win 7, Win 8, Win 10<br></li><li><strong>Processor:</strong> Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 460 | AMD Radeon HD 5850<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 36 GB available space</li></ul>",
@@ -31,10 +31,12 @@
     ""
   ],
   "price_overview": {
-    "currency": "USD",
+    "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     124965
@@ -53,7 +55,7 @@
           "packageid": 124965,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Triborg - $4.99",
+          "option_text": "Triborg - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -110,17 +112,27 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/524260/ss_a07c9583e144fb0980dee82c01167033e8b368a6.600x338.jpg?t=1475596948",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/524260/ss_a07c9583e144fb0980dee82c01167033e8b368a6.1920x1080.jpg?t=1475596948"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/524260/ss_a07c9583e144fb0980dee82c01167033e8b368a6.600x338.jpg?t=1547833243",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/524260/ss_a07c9583e144fb0980dee82c01167033e8b368a6.1920x1080.jpg?t=1547833243"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
-    "date": "Oct 4, 2016"
+    "date": "4 Oct, 2016"
   },
   "support_info": {
     "url": "http://support.wbgames.com",
     "email": "support@wbgames.com or Wbgames.intsupport@warnerbros.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/524260/page_bg_generated_v6b.jpg?t=1475596948"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/524260/page_bg_generated_v6b.jpg?t=1547833243",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

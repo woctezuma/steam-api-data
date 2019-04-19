@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     145866
@@ -151,6 +153,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/573350/ss_d68f9b235af290ef98f45b4f09aac102d17730aa.1920x1080.jpg?t=1483450166"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Dec, 2016"
@@ -159,5 +164,9 @@
     "url": "http://34bigthings.com/press/sheet.php?p=redout",
     "email": "info@34bigthings.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/573350/page_bg_generated_v6b.jpg?t=1483450166"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/573350/page_bg_generated_v6b.jpg?t=1483450166",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

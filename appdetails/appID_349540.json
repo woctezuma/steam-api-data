@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     60954
@@ -255,5 +257,9 @@
     "url": "http://www.tbagames.net",
     "email": "admin@tbagames.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/349540/page_bg_generated_v6b.jpg?t=1483631937"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/349540/page_bg_generated_v6b.jpg?t=1483631937",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

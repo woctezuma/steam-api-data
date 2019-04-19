@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Expand your adventure with the Two Worlds II Digital Deluxe Content!  This exclusive Pack for Two Worlds II contains:<br><br><ul class=\"bb_ul\"><li>Two Worlds II Artbook (PDF 72 pages*)<br></li><li>Two Worlds II Compendium (PDF 112 pages*)<br></li><li>Two Worlds II World Map (PDF)<br></li><li>Two Worlds II Pirates of the Flying Fortress Map (PDF)<br></li><li>Two Worlds II Dusty Scroll Labyrinth Map (PDF)<br></li><li>Two Worlds II Cover Art Poster (PDF)<br></li><li>Two Worlds II Pirates of the Flying Fortress Poster (PDF)<br></li><li>Two Worlds II Dragon Queen Poster (PDF)<br></li><li>Two Worlds II Novels (4 exciting stories taking place in Antaloor, PDF)<br></li><li>Two Worlds II Avatar Pack (15 Avatars, PNG 256x256 - 32x32)<br></li><li>Two Worlds II Bonus Items (Anatros Sword, Elexorian Sword, Maliel\u00b4s Downfall Speer, Dragon Scale Armor, Dusty Scroll Labyrinth Map)<br></li><li>Two Worlds II Pirates of the Flying Fortress Bonus Items (Solefist Hammer, Platinum Pirate Badge, Arbalest of Demolition Crosbow)</li></ul><br>* amount of pages in PDF may vary, because of pages displayed as double pages",
   "about_the_game": "Expand your adventure with the Two Worlds II Digital Deluxe Content!  This exclusive Pack for Two Worlds II contains:<br><br><ul class=\"bb_ul\"><li>Two Worlds II Artbook (PDF 72 pages*)<br></li><li>Two Worlds II Compendium (PDF 112 pages*)<br></li><li>Two Worlds II World Map (PDF)<br></li><li>Two Worlds II Pirates of the Flying Fortress Map (PDF)<br></li><li>Two Worlds II Dusty Scroll Labyrinth Map (PDF)<br></li><li>Two Worlds II Cover Art Poster (PDF)<br></li><li>Two Worlds II Pirates of the Flying Fortress Poster (PDF)<br></li><li>Two Worlds II Dragon Queen Poster (PDF)<br></li><li>Two Worlds II Novels (4 exciting stories taking place in Antaloor, PDF)<br></li><li>Two Worlds II Avatar Pack (15 Avatars, PNG 256x256 - 32x32)<br></li><li>Two Worlds II Bonus Items (Anatros Sword, Elexorian Sword, Maliel\u00b4s Downfall Speer, Dragon Scale Armor, Dusty Scroll Labyrinth Map)<br></li><li>Two Worlds II Pirates of the Flying Fortress Bonus Items (Solefist Hammer, Platinum Pirate Badge, Arbalest of Demolition Crosbow)</li></ul><br>* amount of pages in PDF may vary, because of pages displayed as double pages",
-  "short_description": "This Digital Deluxe Content for Two Worlds II contains: Artbook, Compendium, World Map, PotFF Map, Dusty Scroll Labyrinth Map, Cover Art Poster, PotFF Poster, Dragon Queen Poster, 4 Novels, Avatar Packo,\tfive TW2 Bonus Items and three PotFF Bonus Items",
+  "short_description": "This Digital Deluxe Content for Two Worlds II contains: Artbook, Compendium, World Map, PotFF Map, Dusty Scroll Labyrinth Map, Cover Art Poster, PotFF Poster, Dragon Queen Poster, 4 Novels, Avatar Packo, five TW2 Bonus Items and three PotFF Bonus Items",
   "fullgame": {
     "appid": "7520",
     "name": "Two Worlds II HD"
@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 699,
-    "final": 209,
-    "discount_percent": 70
+    "final": 699,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     173115,
@@ -48,23 +50,23 @@
       "subs": [
         {
           "packageid": 173115,
-          "percent_savings_text": "-70%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Two Worlds II - Digital Deluxe Content - <span class=\"discount_original_price\">6,99\u20ac</span> 2,09\u20ac",
+          "option_text": "Two Worlds II - Digital Deluxe Content - 6,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 209
+          "price_in_cents_with_discount": 699
         },
         {
           "packageid": 183896,
-          "percent_savings_text": "-35%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Two Worlds II Season Pass - <span class=\"discount_original_price\">39,99\u20ac</span> 25,99\u20ac",
+          "option_text": "Two Worlds II Season Pass - 39,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2599
+          "price_in_cents_with_discount": 3999
         }
       ]
     }
@@ -137,6 +139,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/633963/ss_c8d2558b7c7cb294b73669762eaf75698ea2d2af.1920x1080.jpg?t=1494856187"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 May, 2017"
@@ -145,5 +150,13 @@
     "url": "http://www.topware.com",
     "email": "support@topware.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/633963/page_bg_generated_v6b.jpg?t=1494856187"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/633963/page_bg_generated_v6b.jpg?t=1494856187",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

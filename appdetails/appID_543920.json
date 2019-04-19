@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     133993
@@ -158,5 +160,9 @@
     "url": "",
     "email": "ask.weird.creatures@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/543920/page_bg_generated_v6b.jpg?t=1482460878"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/543920/page_bg_generated_v6b.jpg?t=1482460878",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

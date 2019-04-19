@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "final": 133,
+    "discount_percent": 33,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "1,33\u20ac"
   },
   "packages": [
     139362
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 139362,
-          "percent_savings_text": "",
+          "percent_savings_text": "-33%",
           "percent_savings": 0,
-          "option_text": "BuildMoreCubes - 1,99\u20ac",
+          "option_text": "BuildMoreCubes - <span class=\"discount_original_price\">1,99\u20ac</span> 1,33\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 133
         }
       ]
     }
@@ -177,5 +179,9 @@
     "url": "https://www.facebook.com/Build-More-Cubes-790954921007401/",
     "email": "info@krum-game.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/557190/page_bg_generated_v6b.jpg?t=1519726071"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/557190/page_bg_generated_v6b.jpg?t=1519726071",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

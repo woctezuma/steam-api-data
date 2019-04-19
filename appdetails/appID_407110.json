@@ -12,7 +12,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/407110/header.jpg?t=1491322130",
   "website": "http://www.swarmuniverse.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae XP<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i3-530<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVidia\u00ae GeForce\u00ae GTS 250<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 512 MB available space<br></li><li><strong>Sound Card:</strong> DirectX\u00ae Compatible Sound Card</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e\u914d\u7f6e:</strong><br><ul class=\"bb_ul\"><li><strong>\u64cd\u4f5c\u7cfb\u7edf:</strong> Windows\u00ae XP<br></li><li><strong>\u5904\u7406\u5668:</strong> Intel\u00ae Core\u2122 i3-530<br></li><li><strong>\u5185\u5b58:</strong> 2 GB RAM<br></li><li><strong>\u56fe\u5f62:</strong> NVidia\u00ae GeForce\u00ae GTS 250<br></li><li><strong>DirectX \u7248\u672c:</strong> 9.0c<br></li><li><strong>\u5b58\u50a8\u7a7a\u95f4:</strong> \u9700\u8981 512 MB \u53ef\u7528\u7a7a\u95f4<br></li><li><strong>\u58f0\u5361:</strong> DirectX\u00ae Compatible Sound Card</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     80299
@@ -258,5 +260,9 @@
     "url": "http://steamcommunity.com/app/407110/discussions/0/",
     "email": "support@dedicationgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407110/page_bg_generated_v6b.jpg?t=1491322130"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407110/page_bg_generated_v6b.jpg?t=1491322130",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

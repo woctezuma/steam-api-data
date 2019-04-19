@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Includes the costume items 'Wavy Medium 'Do' and 'Golden Wavy Medium 'Do.'",
   "about_the_game": "Includes the costume items 'Wavy Medium 'Do' and 'Golden Wavy Medium 'Do.'",
-  "short_description": "Includes the costume items 'Wavy Medium 'Do' and 'Golden Wavy Medium 'Do.'",
+  "short_description": "Includes the costume items 'Wavy Medium 'Do' and 'Golden Wavy Medium 'Do.",
   "fullgame": {
     "appid": "446390",
     "name": "Onechanbara Z2: Chaos"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     102777
@@ -109,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467050/ss_12f8adc8088994a8f0fac15bc577473b654478bb.1920x1080.jpg?t=1467769746"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jul, 2016"
@@ -117,5 +122,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467050/page_bg_generated_v6b.jpg?t=1467769746"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467050/page_bg_generated_v6b.jpg?t=1467769746",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

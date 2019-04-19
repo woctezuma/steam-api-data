@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "That\u2019s right - you\u2019ve found the ONLY SURVIVAL GAME ON STEAM that is NOT in Early Access!*<br><br>You no longer have to fantasize about being a zombie goat in the middle of a zombie apocalypse, your dreams have finally come true!<h2 class=\"bb_tag\">Key Features</h2><br><ul class=\"bb_ul\"><li>Mandatory crafting system because everyone else is doing it<br></li><li>Zombies that bug out. There\u2019s a pun here about actual living bugs, but we\u2019re not going to bother<br></li><li>You can craft anything in the world, as long as it\u2019s one of the half dozen weapons in the game<br></li><li>Zombies, because this is a zombie game, remember?<br></li><li>A pretty big new map with some stuff in it<br></li><li>Completely realistic survival mode where you have to eat every damn five minutes to survive because Dean Hall &amp; Garry Newman said so<br></li><li>Tons of unlockable new goats with special powers (wow, never thought I\u2019d ever write that sentence a couple of years ago. Also hi mom)</li></ul><br>*not totally sure if this is even true, to be honest we didn\u2019t bother to look it up. But it\u2019s still pretty funny, right?",
   "about_the_game": "That\u2019s right - you\u2019ve found the ONLY SURVIVAL GAME ON STEAM that is NOT in Early Access!*<br><br>You no longer have to fantasize about being a zombie goat in the middle of a zombie apocalypse, your dreams have finally come true!<h2 class=\"bb_tag\">Key Features</h2><br><ul class=\"bb_ul\"><li>Mandatory crafting system because everyone else is doing it<br></li><li>Zombies that bug out. There\u2019s a pun here about actual living bugs, but we\u2019re not going to bother<br></li><li>You can craft anything in the world, as long as it\u2019s one of the half dozen weapons in the game<br></li><li>Zombies, because this is a zombie game, remember?<br></li><li>A pretty big new map with some stuff in it<br></li><li>Completely realistic survival mode where you have to eat every damn five minutes to survive because Dean Hall &amp; Garry Newman said so<br></li><li>Tons of unlockable new goats with special powers (wow, never thought I\u2019d ever write that sentence a couple of years ago. Also hi mom)</li></ul><br>*not totally sure if this is even true, to be honest we didn\u2019t bother to look it up. But it\u2019s still pretty funny, right?",
-  "short_description": "GoatZ. Mandatory zombie survival DLC, because that's what everyone is doing now.<br />\r\n<br />\r\nYou even have to eat every damn five minutes to survive because Dean Hall &amp; Garry Newman said so.<br />\r\n<br />\r\nGoatZ. This is your story. The only aim is to survive.",
+  "short_description": "GoatZ. Mandatory zombie survival DLC, because that's what everyone is doing now. You even have to eat every damn five minutes to survive because Dean Hall &amp; Garry Newman said so. GoatZ. This is your story. The only aim is to survive.",
   "fullgame": {
     "appid": "265930",
     "name": "Goat Simulator"
@@ -37,8 +37,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 334,
-    "discount_percent": 33
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     58734
@@ -55,13 +57,13 @@
       "subs": [
         {
           "packageid": 58734,
-          "percent_savings_text": "-33%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Goat Simulator: GoatZ - <span class=\"discount_original_price\">4,99\u20ac</span> 3,34\u20ac",
+          "option_text": "Goat Simulator: GoatZ - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 334
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -177,7 +179,10 @@
     }
   ],
   "recommendations": {
-    "total": 565
+    "total": 518
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -187,5 +192,9 @@
     "url": "",
     "email": "support@coffeestain.se"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/344450/page_bg_generated_v6b.jpg?t=1501884533"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/344450/page_bg_generated_v6b.jpg?t=1501884533",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>In this tutorial we will discuss ways to think about interiors and some of the ways they different from exteriors. In this 2.5 hour video , you will watch as I paint this interior using a combination of photos and painting . (I apologize for the rants I go on) you'll get to see me figure things out in my head and tackle problems that arise as I paint it.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>In this tutorial we will discuss ways to think about interiors and some of the ways they different from exteriors. In this 2.5 hour video , you will watch as I paint this interior using a combination of photos and painting . (I apologize for the rants I go on) you'll get to see me figure things out in my head and tackle problems that arise as I paint it.",
   "about_the_game": "In this tutorial we will discuss ways to think about interiors and some of the ways they different from exteriors. In this 2.5 hour video , you will watch as I paint this interior using a combination of photos and painting . (I apologize for the rants I go on) you'll get to see me figure things out in my head and tackle problems that arise as I paint it.",
   "short_description": "This tutorial will help you think about ways to paint interior environments and how they differ from exterior environments.",
   "fullgame": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     122215
@@ -112,5 +114,9 @@
     "url": "",
     "email": "KdChock@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519380/page_bg_generated_v6b.jpg?t=1472502035"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519380/page_bg_generated_v6b.jpg?t=1472502035",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

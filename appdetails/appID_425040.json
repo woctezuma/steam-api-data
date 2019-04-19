@@ -14,12 +14,12 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/425040/header.jpg?t=1456326025",
   "website": "http://www.comixplay.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 / 8 / 7 / Vista / XP SP2<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 / 8 / 7 / Vista / XP SP2<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Windows 10 / 8 / 7 / Vista / XP SP2<br></li><li><strong>Pami\u0119\u0107:</strong> 1 GB RAM<br></li><li><strong>DirectX:</strong> Wersja 9.0<br></li><li><strong>Miejsce na dysku:</strong> 2 GB dost\u0119pnej przestrzeni</li></ul>",
+    "recommended": "<strong>Zalecane:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Windows 10 / 8 / 7 / Vista / XP SP2<br></li><li><strong>Pami\u0119\u0107:</strong> 2 GB RAM<br></li><li><strong>DirectX:</strong> Wersja 9.0<br></li><li><strong>Miejsce na dysku:</strong> 2 GB dost\u0119pnej przestrzeni</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.8 or newer<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.8 or newer<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> OS X 10.8 or newer<br></li><li><strong>Pami\u0119\u0107:</strong> 1 GB RAM<br></li><li><strong>Miejsce na dysku:</strong> 2 GB dost\u0119pnej przestrzeni</li></ul>",
+    "recommended": "<strong>Zalecane:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> OS X 10.8 or newer<br></li><li><strong>Pami\u0119\u0107:</strong> 2 GB RAM<br></li><li><strong>Miejsce na dysku:</strong> 2 GB dost\u0119pnej przestrzeni</li></ul>"
   },
   "linux_requirements": [],
   "developers": [
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     87241
@@ -206,5 +208,9 @@
     "url": "http://www.comixplay.com",
     "email": "support@comixplay.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/425040/page_bg_generated_v6b.jpg?t=1456326025"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/425040/page_bg_generated_v6b.jpg?t=1456326025",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

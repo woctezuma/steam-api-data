@@ -15,7 +15,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/533810/header.jpg?t=1484080544",
   "website": "http://www.BackToBasicsGaming.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Windows Vista/Windows 7/8/10<br></li><li><strong>Processor:</strong> 1.6 GHz<br></li><li><strong>Memory:</strong> 200 MB RAM<br></li><li><strong>Graphics:</strong> DirectX 9.0 Compatible<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0 Compatible Sound</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP/Windows Vista/Windows 7/8/10<br></li><li><strong>Processeur\u00a0:</strong> 1.6 GHz<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 200 MB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> DirectX 9.0 Compatible<br></li><li><strong>Espace disque\u00a0:</strong> 100 MB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> DirectX 9.0 Compatible Sound</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     129398
@@ -110,5 +112,9 @@
     "url": "http://www.backtobasicsgaming.com/",
     "email": "Dan@BackToBasicsGaming.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/533810/page_bg_generated_v6b.jpg?t=1484080544"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/533810/page_bg_generated_v6b.jpg?t=1484080544",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

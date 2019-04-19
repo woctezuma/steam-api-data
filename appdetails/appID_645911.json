@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This DLC is only for donations, it contains <strong>no content</strong> and does not affect the game.  <br><br>If you like Picross Touch and would like to donate to the developer, you can do so by buying this DLC.",
   "about_the_game": "This DLC is only for donations, it contains <strong>no content</strong> and does not affect the game.  <br><br>If you like Picross Touch and would like to donate to the developer, you can do so by buying this DLC.",
-  "short_description": "This DLC is only for donations, it contains <strong>no content</strong> and does not affect the game.",
+  "short_description": "This DLC is only for donations, it contains no content and does not affect the game.",
   "fullgame": {
     "appid": "476460",
     "name": "Picross Touch"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     181356
@@ -125,5 +127,9 @@
     "url": "www.jgallant.com",
     "email": "admin@jgallant.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/645911/page_bg_generated_v6b.jpg?t=1502138352"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/645911/page_bg_generated_v6b.jpg?t=1502138352",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

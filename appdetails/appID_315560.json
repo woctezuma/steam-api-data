@@ -4,8 +4,8 @@
   "steam_appid": 315560,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<h1>How to activate your key</h1><p>To use content purchased on Steam you need to activate the license key in your profile at <strong><a href=\"https://steamcommunity.com/linkfilter/?url=http://riseofflight.com\" target=\"_blank\" rel=\"noopener\"  >http://riseofflight.com</a></a></strong><br>1) open the <strong>CD Key</strong> tab in Steam Library, and copy the key to clipboard;<br>2) go to <strong>License Keys</strong> section in your ROF profile (<a href=\"https://steamcommunity.com/linkfilter/?url=http://riseofflight.com/store/license-keys/\" target=\"_blank\" rel=\"noopener\"  >http://riseofflight.com/store/license-keys/</a></a>) and activate your key there.</p><br><h1>About the Game</h1><strong>Rise of Flight: Intrepid Flyers</strong> content pack includes five planes complete with their field and weapon modifications:<br><br><ul class=\"bb_ul\"><li>Hanriot HD.1<br></li><li>Hanriot HD.2<br></li><li>Sopwith Strutter 1 \u00bd<br></li><li>Sopwith Strutter B (Type 9700)<br></li><li>F.E.2b</li></ul><br>For details about the content listed above, please, visit <u><strong><a href=\"https://steamcommunity.com/linkfilter/?url=http://riseofflight.com\" target=\"_blank\" rel=\"noopener\"  >http://riseofflight.com</a></a></strong></u>",
-  "about_the_game": "<strong>Rise of Flight: Intrepid Flyers</strong> content pack includes five planes complete with their field and weapon modifications:<br><br><ul class=\"bb_ul\"><li>Hanriot HD.1<br></li><li>Hanriot HD.2<br></li><li>Sopwith Strutter 1 \u00bd<br></li><li>Sopwith Strutter B (Type 9700)<br></li><li>F.E.2b</li></ul><br>For details about the content listed above, please, visit <u><strong><a href=\"https://steamcommunity.com/linkfilter/?url=http://riseofflight.com\" target=\"_blank\" rel=\"noopener\"  >http://riseofflight.com</a></a></strong></u>",
+  "detailed_description": "<h1>How to activate your key</h1><p>To use content purchased on Steam you need to activate the license key in your profile at <strong><a href=\"https://steamcommunity.com/linkfilter/?url=http://riseofflight.com\" target=\"_blank\" rel=\"noopener\"  >http://riseofflight.com</a></strong><br>1) open the <strong>CD Key</strong> tab in Steam Library, and copy the key to clipboard;<br>2) go to <strong>License Keys</strong> section in your ROF profile (<a href=\"https://steamcommunity.com/linkfilter/?url=http://riseofflight.com/store/license-keys/\" target=\"_blank\" rel=\"noopener\"  >http://riseofflight.com/store/license-keys/</a>) and activate your key there.</p><br><h1>About the Game</h1><strong>Rise of Flight: Intrepid Flyers</strong> content pack includes five planes complete with their field and weapon modifications:<br><br><ul class=\"bb_ul\"><li>Hanriot HD.1<br></li><li>Hanriot HD.2<br></li><li>Sopwith Strutter 1 \u00bd<br></li><li>Sopwith Strutter B (Type 9700)<br></li><li>F.E.2b</li></ul><br>For details about the content listed above, please, visit <u><strong><a href=\"https://steamcommunity.com/linkfilter/?url=http://riseofflight.com\" target=\"_blank\" rel=\"noopener\"  >http://riseofflight.com</a></strong></u>",
+  "about_the_game": "<strong>Rise of Flight: Intrepid Flyers</strong> content pack includes five planes complete with their field and weapon modifications:<br><br><ul class=\"bb_ul\"><li>Hanriot HD.1<br></li><li>Hanriot HD.2<br></li><li>Sopwith Strutter 1 \u00bd<br></li><li>Sopwith Strutter B (Type 9700)<br></li><li>F.E.2b</li></ul><br>For details about the content listed above, please, visit <u><strong><a href=\"https://steamcommunity.com/linkfilter/?url=http://riseofflight.com\" target=\"_blank\" rel=\"noopener\"  >http://riseofflight.com</a></strong></u>",
   "short_description": "Rise of Flight: Intrepid Flyers content pack includes five planes complete with their field and weapon modifications: Hanriot HD.1, Hanriot HD.2, Sopwith Strutter 1 \u00bd, Sopwith Strutter B (Type 9700) and F.E.2b.",
   "fullgame": {
     "appid": "244050",
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     48109
@@ -152,6 +154,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/315560/ss_2902261327632980086d410782224e81ab9a6f05.1920x1080.jpg?t=1447362814"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Jul, 2014"
@@ -160,5 +165,9 @@
     "url": "http://riseofflight.com/Forum/viewtopic.php?f=352&amp;p=563206#p563206",
     "email": "rof@777studios.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/315560/page_bg_generated_v6b.jpg?t=1447362814"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/315560/page_bg_generated_v6b.jpg?t=1447362814",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

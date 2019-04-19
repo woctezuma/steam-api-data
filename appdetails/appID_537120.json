@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Adds the 'Ripped Uniform' costume set to the Dressing Room.<br />\r\nThis set includes:<br />\r\n\u2022'Ripped Uniform' outfit<br />\r\n\u2022'Damaged Love Letter' item.",
   "about_the_game": "Adds the 'Ripped Uniform' costume set to the Dressing Room.<br />\r\nThis set includes:<br />\r\n\u2022'Ripped Uniform' outfit<br />\r\n\u2022'Damaged Love Letter' item.",
-  "short_description": "Adds the 'Ripped Uniform' costume set to the Dressing Room.<br />\r\nThis set includes:<br />\r\n\u2022'Ripped Uniform' outfit<br />\r\n\u2022'Damaged Love Letter' item.",
+  "short_description": "Adds the 'Ripped Uniform' costume set to the Dressing Room. This set includes: \u2022'Ripped Uniform' outfit \u2022'Damaged Love Letter' item.",
   "fullgame": {
     "appid": "511740",
     "name": "Gal*Gun: Double Peace"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     131003
@@ -111,6 +113,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/537120/ss_2545406007d7db0d0c7d9575bd2d9b110c1b16fb.1920x1080.jpg?t=1504882831"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Nov, 2016"
@@ -119,5 +124,9 @@
     "url": "http://www.pqube.co.uk/",
     "email": "support@pqube.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/537120/page_bg_generated_v6b.jpg?t=1504882831"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/537120/page_bg_generated_v6b.jpg?t=1504882831",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,16 +11,16 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/562250/header.jpg?t=1510261812",
   "website": "http://www.autarcadev.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista<br></li><li><strong>Processor:</strong> Core 2 Duo Processor or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB DX11 Compliant<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8.1 or 10 64bit<br></li><li><strong>Processor:</strong> Core i5/i7 or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 1 GB DX11 Compliant with PS 3.0 support<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+    "minimum": "<strong>M\u00ednimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows Vista<br></li><li><strong>Procesador:</strong> Core 2 Duo Processor or equivalent<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gr\u00e1ficos:</strong> 256 MB DX11 Compliant<br></li><li><strong>DirectX:</strong> Versi\u00f3n 11<br></li><li><strong>Almacenamiento:</strong> 6 GB de espacio disponible</li></ul>",
+    "recommended": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 8.1 or 10 64bit<br></li><li><strong>Procesador:</strong> Core i5/i7 or equivalent<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gr\u00e1ficos:</strong> 1 GB DX11 Compliant with PS 3.0 support<br></li><li><strong>DirectX:</strong> Versi\u00f3n 11<br></li><li><strong>Almacenamiento:</strong> 6 GB de espacio disponible</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MAC OS X 10.6.7 or higher<br></li><li><strong>Processor:</strong> Core 2 Duo Processor or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB DX11 Compliant<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MAC OS X 10.6.7 or higher<br></li><li><strong>Processor:</strong> Core i5/i7 or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 1 GB DX11 Compliant with PS 3.0 support<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+    "minimum": "<strong>M\u00ednimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> MAC OS X 10.6.7 or higher<br></li><li><strong>Procesador:</strong> Core 2 Duo Processor or equivalent<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gr\u00e1ficos:</strong> 256 MB DX11 Compliant<br></li><li><strong>Almacenamiento:</strong> 6 GB de espacio disponible</li></ul>",
+    "recommended": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> MAC OS X 10.6.7 or higher<br></li><li><strong>Procesador:</strong> Core i5/i7 or equivalent<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gr\u00e1ficos:</strong> 1 GB DX11 Compliant with PS 3.0 support<br></li><li><strong>Almacenamiento:</strong> 6 GB de espacio disponible</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 or later<br></li><li><strong>Processor:</strong> Core 2 Duo Processor or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB DX11 Compliant<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 or later<br></li><li><strong>Processor:</strong> Core i5/i7 or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 1 GB DX11 Compliant with PS 3.0 support<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+    "minimum": "<strong>M\u00ednimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Ubuntu 12.04 or later<br></li><li><strong>Procesador:</strong> Core 2 Duo Processor or equivalent<br></li><li><strong>Memoria:</strong> 4 GB de RAM<br></li><li><strong>Gr\u00e1ficos:</strong> 256 MB DX11 Compliant<br></li><li><strong>Almacenamiento:</strong> 6 GB de espacio disponible</li></ul>",
+    "recommended": "<strong>Recomendado:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Ubuntu 12.04 or later<br></li><li><strong>Procesador:</strong> Core i5/i7 or equivalent<br></li><li><strong>Memoria:</strong> 8 GB de RAM<br></li><li><strong>Gr\u00e1ficos:</strong> 1 GB DX11 Compliant with PS 3.0 support<br></li><li><strong>Almacenamiento:</strong> 6 GB de espacio disponible</li></ul>"
   },
   "developers": [
     "Autarca"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1399,
     "final": 1399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "13,99\u20ac"
   },
   "packages": [
     141279
@@ -225,5 +227,9 @@
     "url": "http://www.autarcadev.com",
     "email": "info@autarcadev.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562250/page_bg_generated_v6b.jpg?t=1510261812"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562250/page_bg_generated_v6b.jpg?t=1510261812",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     101072
@@ -121,6 +123,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jun, 2016"
@@ -129,5 +134,9 @@
     "url": "www.oceanmedia.hr",
     "email": "support@oceanmedia.hr"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/462400/page_bg_generated_v6b.jpg?t=1468400252"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/462400/page_bg_generated_v6b.jpg?t=1468400252",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

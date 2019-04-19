@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Tangram is a Chinese intellectual game with a long history.It consists of seven board ,<br />\r\nPlayer can use them to constitute a variety of characters, images, animals, bridges, housing, towers, etc.In Fancy Tangram we have prepared more then 40 levels,most of them are numbers and letters.<br />\r\nAt the beginning of the game please find the logo of a dog and stare it to go in the UI level.Try to put the board in to the white space on the floor,If the white space doesn't disappear ,please try again or try to put the board to the other place.",
   "about_the_game": "Tangram is a Chinese intellectual game with a long history.It consists of seven board ,<br />\r\nPlayer can use them to constitute a variety of characters, images, animals, bridges, housing, towers, etc.In Fancy Tangram we have prepared more then 40 levels,most of them are numbers and letters.<br />\r\nAt the beginning of the game please find the logo of a dog and stare it to go in the UI level.Try to put the board in to the white space on the floor,If the white space doesn't disappear ,please try again or try to put the board to the other place.",
-  "short_description": "Tangram is a Chinese intellectual game with a long history.It consists of seven board ,<br />\r\nPlayer can use them to constitute a variety of characters, images, animals, bridges, housing, towers, etc.In Fancy Tangram we have prepared more then 40 levels,most of them are numbers and letters.<br />\r\nAt the beginning of the game please find the logo of a dog and stare it to go in the UI level.Try to put the board in to the white space on the floor,If the white space doesn't disappear ,please try again or try to put the board to the other place.",
+  "short_description": "Tangram is a Chinese intellectual game with a long history.It consists of seven board , Player can use them to constitute a variety of characters, images, animals, bridges, housing, towers, etc.In Fancy Tangram we have prepared more then 40 levels,most of them are numbers and letters.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/552240/header.jpg?t=1478227382",
   "website": "http://www.hashvr.com/",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     137131
@@ -132,6 +134,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Nov, 2016"
@@ -140,5 +145,9 @@
     "url": "http://www.hashvr.com/",
     "email": "master@hashvr.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/552240/page_bg_generated_v6b.jpg?t=1478227382"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/552240/page_bg_generated_v6b.jpg?t=1478227382",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

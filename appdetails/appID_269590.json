@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     35761
@@ -141,8 +143,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 173
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -152,5 +154,9 @@
     "url": "http://www.claustrophobia-game.com",
     "email": "theindieforge@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/269590/page_bg_generated_v6b.jpg?t=1447359771"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/269590/page_bg_generated_v6b.jpg?t=1447359771",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     243898
@@ -51,11 +53,11 @@
           "packageid": 243898,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "HellCrunch - 5,99\u20ac",
+          "option_text": "HellCrunch - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -159,7 +161,7 @@
     }
   ],
   "achievements": {
-    "total": 8,
+    "total": 9,
     "highlighted": [
       {
         "name": "The First Step",
@@ -192,6 +194,10 @@
       {
         "name": "End of the Road",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/801490/520e50c573d8810c72d53a396d94669e252cc245.jpg"
+      },
+      {
+        "name": "Sleepwalking",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/801490/e40e01619994a17a46da706488cea1ee12c66e0e.jpg"
       }
     ]
   },
@@ -203,5 +209,9 @@
     "url": "",
     "email": "tensionsplicegaming@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/801490/page_bg_generated_v6b.jpg?t=1521226683"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/801490/page_bg_generated_v6b.jpg?t=1521226683",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

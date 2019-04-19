@@ -15,13 +15,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/548920/header.jpg?t=1477676970",
   "website": "https://www.choiceofgames.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.6</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> 10.6</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Ubuntu 12.04</li></ul>"
   },
   "developers": [
     "Hosted Games"
@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     135734
@@ -52,11 +54,11 @@
           "packageid": 135734,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Zombie Exodus: Safe Haven - Skill Point Bonus - 0,99\u20ac",
+          "option_text": "Zombie Exodus: Safe Haven - Skill Point Bonus - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -117,5 +119,9 @@
     "url": "https://www.choiceofgames.com",
     "email": "support-zexsh-steam@hostedgames.org"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548920/page_bg_generated_v6b.jpg?t=1477676970"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548920/page_bg_generated_v6b.jpg?t=1477676970",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     146424
@@ -45,11 +47,11 @@
           "packageid": 146424,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "The Bits That Saved The Universe - 2,99\u20ac",
+          "option_text": "The Bits That Saved The Universe - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -139,6 +141,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Dec, 2016"
@@ -147,5 +152,9 @@
     "url": "",
     "email": "conner.gray1988@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/574910/page_bg_generated_v6b.jpg?t=1483071134"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/574910/page_bg_generated_v6b.jpg?t=1483071134",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

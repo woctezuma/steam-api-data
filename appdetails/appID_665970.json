@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     189160
@@ -109,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/665970/ss_dfdd9050e09e27053ac269d1eb9ab801e01b57c2.1920x1080.jpg?t=1507269817"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Oct, 2017"
@@ -117,5 +122,13 @@
     "url": "",
     "email": "myroid@myroidtypecomics.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/665970/page_bg_generated_v6b.jpg?t=1507269817"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/665970/page_bg_generated_v6b.jpg?t=1507269817",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

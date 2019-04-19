@@ -12,12 +12,12 @@
     "name": "The Elder Scrolls\u00ae Online"
   },
   "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/539001/header.jpg?t=1478108070",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/539001/header.jpg?t=1533678491",
   "website": "http://www.elderscrollsonline.com",
   "pc_requirements": [],
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "\u00a92015 ZeniMax Media Inc. The Elder Scrolls\u00ae Online: Tamriel Unlimited\u2122 developed by ZeniMax Online Studios LLC, a ZeniMax Media company. ZeniMax, The Elder Scrolls, ESO, ESO Plus, Tamriel Unlimited, Bethesda, Bethesda Softworks and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the US and/or other countries. All Rights Reserved.",
+  "legal_notice": "\u00a92015 ZeniMax Media Inc. The Elder Scrolls\u00ae Online: Tamriel Unlimited\u2122 developed by ZeniMax Online Studios LLC, a ZeniMax Media company. ZeniMax, The Elder Scrolls, ESO, ESO Plus, Tamriel Unlimited, Bethesda, Bethesda Softworks and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the US and/or other countries. All Rights Reserved.<br><br><a href=\"https://steamcommunity.com/linkfilter/?url=https://bethesda.net/document/privacy-policy\" target=\"_blank\" rel=\"noopener\"  >Privacy Policy</a>",
   "developers": [
     "Zenimax Online Studios"
   ],
@@ -28,15 +28,17 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
-    "131841",
-    "131842",
-    "131843",
-    "131844",
-    "182950",
-    "183027"
+    131841,
+    131842,
+    131843,
+    131844,
+    182950,
+    183027
   ],
   "package_groups": [
     {
@@ -49,7 +51,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "131841",
+          "packageid": 131841,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "The Elder Scrolls Online - 750 Crown Pack - 6,99\u20ac",
@@ -59,54 +61,54 @@
           "price_in_cents_with_discount": 699
         },
         {
-          "packageid": "131842",
-          "percent_savings_text": "",
+          "packageid": 131842,
+          "percent_savings_text": "-20%",
           "percent_savings": 0,
-          "option_text": "The Elder Scrolls Online - 1500 Crown Pack - 12,99\u20ac",
+          "option_text": "The Elder Scrolls Online - 1500 Crown Pack - <span class=\"discount_original_price\">12,99\u20ac</span> 10,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1299
+          "price_in_cents_with_discount": 1039
         },
         {
-          "packageid": "131843",
-          "percent_savings_text": "",
+          "packageid": 131843,
+          "percent_savings_text": "-25%",
           "percent_savings": 0,
-          "option_text": "The Elder Scrolls Online - 3000 Crown Pack - 20,99\u20ac",
+          "option_text": "The Elder Scrolls Online - 3000 Crown Pack - <span class=\"discount_original_price\">20,99\u20ac</span> 15,74\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2099
+          "price_in_cents_with_discount": 1574
         },
         {
-          "packageid": "131844",
-          "percent_savings_text": "",
+          "packageid": 131844,
+          "percent_savings_text": "-30%",
           "percent_savings": 0,
-          "option_text": "The Elder Scrolls Online - 5500 Crown Pack - 34,99\u20ac",
+          "option_text": "The Elder Scrolls Online - 5500 Crown Pack - <span class=\"discount_original_price\">34,99\u20ac</span> 24,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 3499
+          "price_in_cents_with_discount": 2449
         },
         {
-          "packageid": "182950",
-          "percent_savings_text": "",
+          "packageid": 182950,
+          "percent_savings_text": "-35%",
           "percent_savings": 0,
-          "option_text": "The Elder Scrolls Online - 14000 Crown Pack - 84,99\u20ac",
+          "option_text": "The Elder Scrolls Online - 14000 Crown Pack - <span class=\"discount_original_price\">84,99\u20ac</span> 55,24\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 8499
+          "price_in_cents_with_discount": 5524
         },
         {
-          "packageid": "183027",
-          "percent_savings_text": "",
+          "packageid": 183027,
+          "percent_savings_text": "-40%",
           "percent_savings": 0,
-          "option_text": "The Elder Scrolls Online - 21000 Crown Pack - 124,99\u20ac",
+          "option_text": "The Elder Scrolls Online - 21000 Crown Pack - <span class=\"discount_original_price\">124,99\u20ac</span> 74,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 12499
+          "price_in_cents_with_discount": 7499
         }
       ]
     }
@@ -147,30 +149,33 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_7b7b0442929c8e84b1ad935c09b12790774031ec.600x338.jpg?t=1478108070",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_7b7b0442929c8e84b1ad935c09b12790774031ec.1920x1080.jpg?t=1478108070"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_7b7b0442929c8e84b1ad935c09b12790774031ec.600x338.jpg?t=1533678491",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_7b7b0442929c8e84b1ad935c09b12790774031ec.1920x1080.jpg?t=1533678491"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_99f18038adbd621f56921f465b53965f041b8a3e.600x338.jpg?t=1478108070",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_99f18038adbd621f56921f465b53965f041b8a3e.1920x1080.jpg?t=1478108070"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_99f18038adbd621f56921f465b53965f041b8a3e.600x338.jpg?t=1533678491",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_99f18038adbd621f56921f465b53965f041b8a3e.1920x1080.jpg?t=1533678491"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_01c1f7b4a053f11ed61783b169ad12fabe5774fd.600x338.jpg?t=1478108070",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_01c1f7b4a053f11ed61783b169ad12fabe5774fd.1920x1080.jpg?t=1478108070"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_01c1f7b4a053f11ed61783b169ad12fabe5774fd.600x338.jpg?t=1533678491",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_01c1f7b4a053f11ed61783b169ad12fabe5774fd.1920x1080.jpg?t=1533678491"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_dfeccd1e9cca61c37966664a7402195daa2f6eaf.600x338.jpg?t=1478108070",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_dfeccd1e9cca61c37966664a7402195daa2f6eaf.1920x1080.jpg?t=1478108070"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_dfeccd1e9cca61c37966664a7402195daa2f6eaf.600x338.jpg?t=1533678491",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_dfeccd1e9cca61c37966664a7402195daa2f6eaf.1920x1080.jpg?t=1533678491"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_6bde79a8ae4b9412cec0950d740cb635ce285ac8.600x338.jpg?t=1478108070",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_6bde79a8ae4b9412cec0950d740cb635ce285ac8.1920x1080.jpg?t=1478108070"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_6bde79a8ae4b9412cec0950d740cb635ce285ac8.600x338.jpg?t=1533678491",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/539001/ss_6bde79a8ae4b9412cec0950d740cb635ce285ac8.1920x1080.jpg?t=1533678491"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Nov, 2016"
@@ -179,5 +184,9 @@
     "url": "https://help.elderscrollsonline.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/539001/page_bg_generated_v6b.jpg?t=1478108070"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/539001/page_bg_generated_v6b.jpg?t=1533678491",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

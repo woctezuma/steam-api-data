@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Officiel Guide about Inexistence, discover all the secrets and information about the game.",
   "about_the_game": "Officiel Guide about Inexistence, discover all the secrets and information about the game.",
-  "short_description": "",
+  "short_description": "Officiel Guide about Inexistence, discover all the secrets and information about the game.",
   "fullgame": {
     "appid": "444720",
     "name": "Inexistence"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     101476
@@ -128,5 +130,9 @@
     "url": "",
     "email": "jonathan.brassaud36@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/463600/page_bg_generated_v6b.jpg?t=1461003510"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/463600/page_bg_generated_v6b.jpg?t=1461003510",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

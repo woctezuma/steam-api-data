@@ -11,19 +11,19 @@
     "appid": "223850",
     "name": "3DMark"
   },
-  "supported_languages": "English, German, Simplified Chinese, Russian, Spanish, Japanese, Korean",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/231350/header.jpg?t=1513783149",
-  "website": "http://www.futuremark.com/benchmarks/3dmark",
+  "supported_languages": "English, German, Simplified Chinese, Russian, Spanish - Spain, Japanese, Korean",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/231350/header.jpg?t=1529575339",
+  "website": "https://benchmarks.ul.com/3dmark",
   "pc_requirements": {
     "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong>Windows Vista*<br>\t</li><li><strong>Processor:</strong>1.8 GHz dual-core<br>\t</li><li><strong>Memory:</strong>2 GB RAM<br>\t</li><li><strong>Graphics:</strong>DirectX 9**<br>\t</li><li><strong>Hard Drive:</strong>3 GB HD space</li></ul><br><strong>Additional:</strong><br><br>* Windows Vista users will need to install the DirectX 11 platform update from Microsoft. <br>** You can use 3DMark to test DirectX 9 and DirectX 10 compatible hardware, but you will need a DirectX 11 compatible video card to run all of the tests. DirectX 9 hardware needs Shader Model 3.0 support, 128MB video card memory and WDDM 1.1 drivers."
   },
   "mac_requirements": [],
   "linux_requirements": [],
   "developers": [
-    "Futuremark"
+    "UL"
   ],
   "publishers": [
-    "Futuremark"
+    "UL"
   ],
   "package_groups": [],
   "platforms": {
@@ -51,16 +51,20 @@
       "description": "Utilities"
     }
   ],
-  "recommendations": {
-    "total": 133
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
     "date": "4 Feb, 2013"
   },
   "support_info": {
-    "url": "http://www.futuremark.com/support",
+    "url": "https://benchmarks.ul.com/support",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

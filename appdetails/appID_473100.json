@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 324,
-    "discount_percent": 35
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     104921
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 104921,
-          "percent_savings_text": "-35%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Shmup Skill Test Original Soundtrack - <span class=\"discount_original_price\">4,99\u20ac</span> 3,24\u20ac",
+          "option_text": "Shmup Skill Test Original Soundtrack - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 324
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -88,6 +90,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Jun, 2016"
@@ -96,5 +101,9 @@
     "url": "",
     "email": "games@degica.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/473100/page_bg_generated_v6b.jpg?t=1471492199"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/473100/page_bg_generated_v6b.jpg?t=1471492199",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

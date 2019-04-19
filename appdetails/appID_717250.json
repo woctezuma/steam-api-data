@@ -15,10 +15,10 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/717250/header.jpg?t=1507279662",
   "website": "http://ddlc.moe",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 200 MB</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 200 MB</li></ul>"
   },
   "linux_requirements": [],
   "developers": [
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     207946
@@ -96,7 +98,7 @@
     }
   ],
   "recommendations": {
-    "total": 1183
+    "total": 1376
   },
   "release_date": {
     "coming_soon": false,
@@ -106,5 +108,9 @@
     "url": "http://teamsalvato.com",
     "email": "support@teamsalvato.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/717250/page_bg_generated_v6b.jpg?t=1507279662"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/717250/page_bg_generated_v6b.jpg?t=1507279662",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     135205
@@ -114,6 +116,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Nov, 2016"
@@ -122,5 +127,9 @@
     "url": "https://www.facebook.com/QEGames/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/547470/page_bg_generated_v6b.jpg?t=1478536777"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/547470/page_bg_generated_v6b.jpg?t=1478536777",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 90,
+    "final": 90,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,90\u20ac"
   },
   "packages": [
     254470
@@ -45,11 +47,11 @@
           "packageid": 254470,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "A Penny For Some Motivation - 0,99\u20ac",
+          "option_text": "A Penny For Some Motivation - 0,90\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 90
         }
       ]
     }
@@ -127,5 +129,9 @@
     "url": "",
     "email": "Dav_S@hotmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/827540/page_bg_generated_v6b.jpg?t=1523406430"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/827540/page_bg_generated_v6b.jpg?t=1523406430",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

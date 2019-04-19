@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<strong>Use your controller even when you're not in-game or in Big Picture.</strong><br>Never leave the couch when using a controller with PC. Control mouse, keyboard and media player. No more getting up to muck about with mouse and keyboard to launch the game you wanted to play. <br><br><strong>Mouse and Keyboard Control on the Desktop</strong><br>When Big-Picture is not running, you can control the mouse with the left thumbstick and scroll with the right thumbstick.<br><br>Click the left thumbstick and you get keyboard input directly on the desktop with a nice arcade-style keyboard spiral.<br><br><strong>Turns off your wireless controller when you turn off your PC</strong><br>Never again will you have to pop out the battery to turn off the controller when you turn off the PC. (Only Xbox 360 Controllers)<br><br><strong>Very Low CPU usage</strong><br>Controller Companion makes sure to stay in the background and use as few resources as possible. It will also disable itself as soon as Big Picture is running.<br><br><strong>Switch between PC and TV displays</strong><br>Switch between your connected monitors or TV screens with the controller.<br><br><strong>Use Controller as a Media Remote</strong><br>Control your music player with the controller using Y for Play/Pause and the shoulder buttons for Previous and Next track.<br><br><strong>Customization</strong><br>You can remap the buttons.<br><br><strong>Xbox 360 Chatpad Support</strong><br>You can finally put the Xbox 360 Chatpad to use on PC. A custom experimental driver will allow you to use the Chatpad whenever you are not playing any games.<h2 class=\"bb_tag\">Freqently Asked Questions:</h2><strong>Does it work with Xbox One and Wired Xbox 360 Controllers?</strong><br>Yes, it works with any controller that is supports XInput.<br><br><strong>Why did it stop working when playing fullscreen video?</strong><br>Controller Companion auto-disables for fullscreen programs, you can override it by holding back and start. See the video above about Auto-Disable.<br><br><strong>Will running this app show me as &quot;Playing Controller Companion&quot;?</strong><br>No! Controller Companion will launch through Steam and then run in the background.<br><br><strong>Do I need to have Steam running to use Controller Companion</strong><br>No, you can even set Controller Companion to automatically start when you start your PC.<br><br><strong>Is there any kind of DRM in Controller Companion?</strong><br>No.<br><br><strong>Can I use my PlayStation controllers?</strong><br>No, not without installing an XInput wrapper.<br><br><strong>Is the Xbox One Chatpad supported?</strong><br>The Xbox One Chatpad is supported by Windows 10 natively. You will not need to install Controller Companions chatpad driver do use the Xbox One chatpad<br><br><strong>Can I remap the Xbox One Elite paddles?</strong><br>No, the paddles always have the same functionality as the buttons they have been mapped to. This is a limitation of Windows 10.",
   "about_the_game": "<strong>Use your controller even when you're not in-game or in Big Picture.</strong><br>Never leave the couch when using a controller with PC. Control mouse, keyboard and media player. No more getting up to muck about with mouse and keyboard to launch the game you wanted to play. <br><br><strong>Mouse and Keyboard Control on the Desktop</strong><br>When Big-Picture is not running, you can control the mouse with the left thumbstick and scroll with the right thumbstick.<br><br>Click the left thumbstick and you get keyboard input directly on the desktop with a nice arcade-style keyboard spiral.<br><br><strong>Turns off your wireless controller when you turn off your PC</strong><br>Never again will you have to pop out the battery to turn off the controller when you turn off the PC. (Only Xbox 360 Controllers)<br><br><strong>Very Low CPU usage</strong><br>Controller Companion makes sure to stay in the background and use as few resources as possible. It will also disable itself as soon as Big Picture is running.<br><br><strong>Switch between PC and TV displays</strong><br>Switch between your connected monitors or TV screens with the controller.<br><br><strong>Use Controller as a Media Remote</strong><br>Control your music player with the controller using Y for Play/Pause and the shoulder buttons for Previous and Next track.<br><br><strong>Customization</strong><br>You can remap the buttons.<br><br><strong>Xbox 360 Chatpad Support</strong><br>You can finally put the Xbox 360 Chatpad to use on PC. A custom experimental driver will allow you to use the Chatpad whenever you are not playing any games.<h2 class=\"bb_tag\">Freqently Asked Questions:</h2><strong>Does it work with Xbox One and Wired Xbox 360 Controllers?</strong><br>Yes, it works with any controller that is supports XInput.<br><br><strong>Why did it stop working when playing fullscreen video?</strong><br>Controller Companion auto-disables for fullscreen programs, you can override it by holding back and start. See the video above about Auto-Disable.<br><br><strong>Will running this app show me as &quot;Playing Controller Companion&quot;?</strong><br>No! Controller Companion will launch through Steam and then run in the background.<br><br><strong>Do I need to have Steam running to use Controller Companion</strong><br>No, you can even set Controller Companion to automatically start when you start your PC.<br><br><strong>Is there any kind of DRM in Controller Companion?</strong><br>No.<br><br><strong>Can I use my PlayStation controllers?</strong><br>No, not without installing an XInput wrapper.<br><br><strong>Is the Xbox One Chatpad supported?</strong><br>The Xbox One Chatpad is supported by Windows 10 natively. You will not need to install Controller Companions chatpad driver do use the Xbox One chatpad<br><br><strong>Can I remap the Xbox One Elite paddles?</strong><br>No, the paddles always have the same functionality as the buttons they have been mapped to. This is a limitation of Windows 10.",
-  "short_description": "Navigate your PC desktop with a controller! <br />\r\n<br />\r\nPut mouse, media and keyboard control in the palms of your hands so you'll never have to leave the couch again!",
+  "short_description": "Navigate your PC desktop with a controller! Put mouse, media and keyboard control in the palms of your hands so you'll never have to leave the couch again!",
   "supported_languages": "English, Russian, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/367670/header.jpg?t=1494060059",
   "website": "http://controllercompanion.com",
@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     66672
@@ -147,7 +149,7 @@
     }
   ],
   "recommendations": {
-    "total": 1605
+    "total": 1675
   },
   "achievements": {
     "total": 0
@@ -160,5 +162,9 @@
     "url": "https://www.facebook.com/controllercompanion",
     "email": "contact@kogatech.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367670/page_bg_generated_v6b.jpg?t=1494060059"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367670/page_bg_generated_v6b.jpg?t=1494060059",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

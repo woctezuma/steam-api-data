@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Stardrift Nomads is a dual-stick shooter with a focus on cooperative play and retro action.  Build and upgrade a variety of unique towers to protect your base from vicious pirates and massive asteroids.  Customize one of three ship classes to fit your play style, utilizing a slew of upgradable abilities and equipment.  Team up with your friends and seize victory with up to eight players!<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li>Crush pirates and asteroids alone or play cooperatively with up to 7 friends.<br></li><li>Battle the odds in Survival mode and guide your Colony to safety through wave after wave of adversaries.<br></li><li>Complete missions in Campaign mode and follow the story of intrepid nomads braving the drifts of space.<br></li><li>3 customizable ship classes, each with 16 powerful abilities, 12 upgradable equipments, and 4 unique towers.<br></li><li>Choose your own strategy, create an ironclad defense with walls and towers or trick out your ship and become an unstoppable force.<br></li><li>Put your teamwork to the test and face off against a variety of deadly enemies, hazards, and bosses from the depths of space.</li></ul>",
   "about_the_game": "Stardrift Nomads is a dual-stick shooter with a focus on cooperative play and retro action.  Build and upgrade a variety of unique towers to protect your base from vicious pirates and massive asteroids.  Customize one of three ship classes to fit your play style, utilizing a slew of upgradable abilities and equipment.  Team up with your friends and seize victory with up to eight players!<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li>Crush pirates and asteroids alone or play cooperatively with up to 7 friends.<br></li><li>Battle the odds in Survival mode and guide your Colony to safety through wave after wave of adversaries.<br></li><li>Complete missions in Campaign mode and follow the story of intrepid nomads braving the drifts of space.<br></li><li>3 customizable ship classes, each with 16 powerful abilities, 12 upgradable equipments, and 4 unique towers.<br></li><li>Choose your own strategy, create an ironclad defense with walls and towers or trick out your ship and become an unstoppable force.<br></li><li>Put your teamwork to the test and face off against a variety of deadly enemies, hazards, and bosses from the depths of space.</li></ul>",
-  "short_description": "Stardrift Nomads is a dual-stick shooter with a focus on cooperative play and retro action.  Build and upgrade 12 unique towers, customize your ship to fit your play style, and seize victory with up to 8 players!",
+  "short_description": "Stardrift Nomads is a dual-stick shooter with a focus on cooperative play and retro action. Build and upgrade 12 unique towers, customize your ship to fit your play style, and seize victory with up to 8 players!",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/381250/header.jpg?t=1495287575",
   "website": "http://www.stardriftnomads.com/",
@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 249,
-    "discount_percent": 75
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     71387
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 71387,
-          "percent_savings_text": "-75%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Stardrift Nomads - <span class=\"discount_original_price\">9,99\u20ac</span> 2,49\u20ac",
+          "option_text": "Stardrift Nomads - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 249
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -256,5 +258,9 @@
     "url": "http://www.risen-games.com/contact.html",
     "email": "support@risen-games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/381250/page_bg_generated_v6b.jpg?t=1495287575"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/381250/page_bg_generated_v6b.jpg?t=1495287575",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

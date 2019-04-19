@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     34251
@@ -146,7 +148,7 @@
     }
   ],
   "recommendations": {
-    "total": 215
+    "total": 172
   },
   "achievements": {
     "total": 0
@@ -159,5 +161,9 @@
     "url": "https://github.com/KranX/Vangers/issues",
     "email": "vangers@kranx.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/264080/page_bg_generated_v6b.jpg?t=1447359431"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/264080/page_bg_generated_v6b.jpg?t=1447359431",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

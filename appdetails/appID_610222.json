@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<strong>Night in the Woods Vol. 3: Demontower</strong><br><br>Music by Alec Holowka<br><br>1. Title<br>2. Level 1: The Hole<br>3. Level 2: The Cellar<br>4. Boss<br>5. Level 3: Skellie Outskirts<br>6. Level 4: Skellie City<br>7. Level 5: Library<br>8. Level 6: Church<br>9. Level 7: Rivers of Blood<br>10. Level 8: Leafy Graves<br>11. Level 9: Cemetery Grounds<br>12. The Blood Thief<br>13. Ending",
   "about_the_game": "<strong>Night in the Woods Vol. 3: Demontower</strong><br><br>Music by Alec Holowka<br><br>1. Title<br>2. Level 1: The Hole<br>3. Level 2: The Cellar<br>4. Boss<br>5. Level 3: Skellie Outskirts<br>6. Level 4: Skellie City<br>7. Level 5: Library<br>8. Level 6: Church<br>9. Level 7: Rivers of Blood<br>10. Level 8: Leafy Graves<br>11. Level 9: Cemetery Grounds<br>12. The Blood Thief<br>13. Ending",
-  "short_description": "Night in the Woods Vol. 3: Demontower by Alec Holowka",
+  "short_description": "Night in the Woods Vol. 3: Demontower by Alec...",
   "fullgame": {
     "appid": "481510",
     "name": "Night in the Woods"
@@ -36,8 +36,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 349,
-    "discount_percent": 30
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     162866
@@ -54,13 +56,13 @@
       "subs": [
         {
           "packageid": 162866,
-          "percent_savings_text": "-30%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Night in the Woods - Soundtrack Vol. III - <span class=\"discount_original_price\">4,99\u20ac</span> 3,49\u20ac",
+          "option_text": "Night in the Woods - Soundtrack Vol. III - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 349
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -97,6 +99,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/610222/ss_867fa91c8ec26ff7a1c4155155af803101faddee.1920x1080.jpg?t=1489689186"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Mar, 2017"
@@ -105,5 +110,9 @@
     "url": "",
     "email": "nightinthewoodsgame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/610222/page_bg_generated_v6b.jpg?t=1489689186"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/610222/page_bg_generated_v6b.jpg?t=1489689186",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

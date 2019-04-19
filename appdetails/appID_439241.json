@@ -12,7 +12,7 @@
     "appid": "438640",
     "name": "LEGO\u00ae STAR WARS\u2122: The Force Awakens"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Danish, Dutch, Polish<strong>*</strong>, Portuguese-Brazil<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Danish, Dutch, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/439241/header.jpg?t=1467294489",
   "website": "http://videogames.lego.com/en-us/lsw-the-force-awakens",
   "pc_requirements": {
@@ -36,9 +36,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
+    "initial": 3999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 75,
+    "initial_formatted": "39,99\u20ac",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     92663,
@@ -58,7 +60,7 @@
           "packageid": 92663,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "LEGO\u00ae Star Wars\u2122: The Force Awakens - Season Pass - 9,99\u20ac",
+          "option_text": "LEGO Star Wars: The Force Awakens - Season Pass - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -66,13 +68,13 @@
         },
         {
           "packageid": 92660,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "LEGO\u00ae STAR WARS\u2122: The Force Awakens - Deluxe Edition - 39,99\u20ac",
+          "option_text": "LEGO\u00ae STAR WARS\u2122: The Force Awakens - Deluxe Edition - <span class=\"discount_original_price\">39,99\u20ac</span> 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 3999
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -166,8 +168,8 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/439241/ss_a2cb35969e454a3c1d00a5eb9d289505a5cdc90b.1920x1080.jpg?t=1467294489"
     }
   ],
-  "recommendations": {
-    "total": 118
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -177,5 +179,9 @@
     "url": "http://support.wbgames.com",
     "email": "support@wbgames.com or Wbgames.intsupport@warnerbros.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/439241/page_bg_generated_v6b.jpg?t=1467294489"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/439241/page_bg_generated_v6b.jpg?t=1467294489",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

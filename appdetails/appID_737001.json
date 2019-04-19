@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 199,
+    "final": 199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     215298
@@ -53,11 +55,11 @@
           "packageid": 215298,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Neverwinter Nights - Wyvern Crown of Cormyr Premium Module - 2,99\u20ac",
+          "option_text": "Neverwinter Nights - Wyvern Crown of Cormyr Premium Module - 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -117,6 +119,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/737001/ss_0c807188b4d197955a4d807b431858435d197ed3.1920x1080.jpg?t=1522335532"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Mar, 2018"
@@ -125,5 +130,9 @@
     "url": "https://beamdog.zendesk.com/hc/en-us",
     "email": "support@beamdog.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/737001/page_bg_generated_v6b.jpg?t=1522335532"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/737001/page_bg_generated_v6b.jpg?t=1522335532",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Can you escape the Dreamcage?<br />\r\n<br />\r\nAre you ready to solve puzzles and crack codes in this new and innovative room escape game?<br />\r\n<br />\r\nA strange world full of different cages, each one trapping a miniature world inside. Beautiful and magical, but creepy and captivating at the same time! You find yourself inside Cage 28 with no idea of what's going on.<br />\r\n<br />\r\nThe Giant Caretaker, that was looking after the cages, seems to be long gone and everything is falling apart. Find a way out, or risk being locked inside forever!<br />\r\n<br />\r\nIf you think you have what it takes to escape all those rooms go on and download this escape game!<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- Unique setting and ambiance, unlike any other escape game.<br />\r\n- Complete, functioning world imagined inside a claustrophobic birdcage.<br />\r\n- 15 beautiful rooms to explore!<br />\r\n- Dozens of challenging quests and original puzzles!<br />\r\n- An escape game you will remember!",
   "about_the_game": "Can you escape the Dreamcage?<br />\r\n<br />\r\nAre you ready to solve puzzles and crack codes in this new and innovative room escape game?<br />\r\n<br />\r\nA strange world full of different cages, each one trapping a miniature world inside. Beautiful and magical, but creepy and captivating at the same time! You find yourself inside Cage 28 with no idea of what's going on.<br />\r\n<br />\r\nThe Giant Caretaker, that was looking after the cages, seems to be long gone and everything is falling apart. Find a way out, or risk being locked inside forever!<br />\r\n<br />\r\nIf you think you have what it takes to escape all those rooms go on and download this escape game!<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- Unique setting and ambiance, unlike any other escape game.<br />\r\n- Complete, functioning world imagined inside a claustrophobic birdcage.<br />\r\n- 15 beautiful rooms to explore!<br />\r\n- Dozens of challenging quests and original puzzles!<br />\r\n- An escape game you will remember!",
-  "short_description": "Can you escape the Dreamcage?<br />\r\n<br />\r\nAre you ready to solve puzzles and crack codes in this new and innovative room escape game?",
+  "short_description": "Can you escape the Dreamcage? Are you ready to solve puzzles and crack codes in this new and innovative room escape game?",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/556890/header.jpg?t=1479290220",
   "website": "http://dreamcage-escape.com/",
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "final": 99,
+    "discount_percent": 50,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     139272
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 139272,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Dreamcage Escape - 1,99\u20ac",
+          "option_text": "Dreamcage Escape - <span class=\"discount_original_price\">1,99\u20ac</span> 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -151,5 +153,9 @@
     "url": "http://www.bigloopstudios.com/",
     "email": "emil@bigloopstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/556890/page_bg_generated_v6b.jpg?t=1479290220"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/556890/page_bg_generated_v6b.jpg?t=1479290220",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

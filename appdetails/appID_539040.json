@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     131862,
@@ -133,6 +135,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/539040/ss_a054bd9bcf3e4a919b4d455fcb93a7cb7028fc76.1920x1080.jpg?t=1478029885"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Oct, 2016"
@@ -141,5 +146,9 @@
     "url": "",
     "email": "support@vsevil.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/539040/page_bg_generated_v6b.jpg?t=1478029885"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/539040/page_bg_generated_v6b.jpg?t=1478029885",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

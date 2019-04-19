@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     60234
@@ -128,8 +130,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 171
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -139,5 +141,9 @@
     "url": "http://www.wooden-floor-game.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/348790/page_bg_generated_v6b.jpg?t=1493662743"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/348790/page_bg_generated_v6b.jpg?t=1493662743",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

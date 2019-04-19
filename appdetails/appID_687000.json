@@ -11,7 +11,7 @@
     "appid": "466130",
     "name": "White Day: A Labyrinth Named School"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Russian, Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Russian, Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/687000/header.jpg?t=1504883331",
   "website": "http://pqube.co.uk/whiteday/",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     196700
@@ -116,6 +118,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/687000/ss_38b8a6f586d2bce3223a72d107d107f0c4107ba3.1920x1080.jpg?t=1504883331"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Aug, 2017"
@@ -124,5 +129,9 @@
     "url": "http://pqube.co.uk/whiteday/",
     "email": "whitedaycs@roigames.co.kr"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/687000/page_bg_generated_v6b.jpg?t=1504883331"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/687000/page_bg_generated_v6b.jpg?t=1504883331",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

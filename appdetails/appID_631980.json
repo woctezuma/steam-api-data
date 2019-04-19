@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     172162
@@ -62,7 +64,7 @@
   },
   "metacritic": {
     "score": 65,
-    "url": "http://www.metacritic.com/game/pc/immortal-planet?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/immortal-planet?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -141,6 +143,9 @@
       "highlight": true
     }
   ],
+  "recommendations": {
+    "total": 111
+  },
   "achievements": {
     "total": 9,
     "highlighted": [
@@ -190,5 +195,9 @@
     "url": "",
     "email": "tomasz.antoni.waclawek@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/631980/page_bg_generated_v6b.jpg?t=1501192900"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/631980/page_bg_generated_v6b.jpg?t=1501192900",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

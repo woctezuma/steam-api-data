@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Part 1 \r\n-How to prepare a painting\r\n-Exploring alternatives\r\n-Timing yourself\r\n-Find productive distractions\r\n-Finishing the painting for presentation\r\n\r\nPart 2\r\n-Confidence\r\n-Build the theme of the concept before detailing\r\n-Refine in stages",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Part 1 \r\n-How to prepare a painting\r\n-Exploring alternatives\r\n-Timing yourself\r\n-Find productive distractions\r\n-Finishing the painting for presentation\r\n\r\nPart 2\r\n-Confidence\r\n-Build the theme of the concept before detailing\r\n-Refine in stages",
   "about_the_game": "Part 1 <br />\r\n-How to prepare a painting<br />\r\n-Exploring alternatives<br />\r\n-Timing yourself<br />\r\n-Find productive distractions<br />\r\n-Finishing the painting for presentation<br />\r\n<br />\r\nPart 2<br />\r\n-Confidence<br />\r\n-Build the theme of the concept before detailing<br />\r\n-Refine in stages",
   "short_description": "How to prepare and finish a painting for presentation.",
   "fullgame": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     83033
@@ -116,6 +118,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Dec, 2015"
@@ -124,5 +129,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413970/page_bg_generated_v6b.jpg?t=1450386040"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413970/page_bg_generated_v6b.jpg?t=1450386040",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     130744
@@ -117,6 +119,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Sep, 2016"
@@ -125,5 +130,9 @@
     "url": "http://www.exosyphen.com/page_contact.html",
     "email": "contact@exosyphenstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/536510/page_bg_generated_v6b.jpg?t=1475088260"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/536510/page_bg_generated_v6b.jpg?t=1475088260",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

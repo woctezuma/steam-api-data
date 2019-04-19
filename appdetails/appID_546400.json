@@ -26,12 +26,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 345,
+    "final": 345,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,45\u20ac"
   },
   "packages": [
-    134799
+    134799,
+    307429
   ],
   "package_groups": [
     {
@@ -47,11 +50,21 @@
           "packageid": 134799,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Cavern Escape - 0,99\u20ac",
+          "option_text": "Cavern Escape - 3,45\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 345
+        },
+        {
+          "packageid": 307429,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Cavern Escape - Commercial License - 3,45\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 345
         }
       ]
     }
@@ -153,8 +166,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 289
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -164,5 +177,9 @@
     "url": "https://www.facebook.com/whitedoggames/?fref=ts",
     "email": "Whitedogapp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/546400/page_bg_generated_v6b.jpg?t=1487592504"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/546400/page_bg_generated_v6b.jpg?t=1487592504",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

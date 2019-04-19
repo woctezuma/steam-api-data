@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     127877
@@ -100,6 +102,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/530641/ss_9f1a21a08763eef66fde1dfe0fb4f1d9a0fa748c.1920x1080.jpg?t=1478087456"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Oct, 2016"
@@ -108,5 +113,9 @@
     "url": "http://www.matrixgames.com/forums/tt.asp?forumid=1081",
     "email": "support@slitherine.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/530641/page_bg_generated_v6b.jpg?t=1478087456"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/530641/page_bg_generated_v6b.jpg?t=1478087456",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

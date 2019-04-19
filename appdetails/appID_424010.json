@@ -28,11 +28,13 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     86894,
-    "88331"
+    88331
   ],
   "package_groups": [
     {
@@ -55,7 +57,7 @@
           "price_in_cents_with_discount": 599
         },
         {
-          "packageid": "88331",
+          "packageid": 88331,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Crudelis + Soundtrack - 6,99\u20ac",
@@ -240,5 +242,9 @@
     "url": "http://crudelisgame.com",
     "email": "contact@crudelisgame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/424010/page_bg_generated_v6b.jpg?t=1465234145"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/424010/page_bg_generated_v6b.jpg?t=1465234145",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

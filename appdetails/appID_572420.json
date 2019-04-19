@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     145441
@@ -119,11 +121,6 @@
       "id": 3,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572420/ss_cb8cb1bdc77b6820e32bb8d054773ee081c00fbe.600x338.jpg?t=1518770997",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572420/ss_cb8cb1bdc77b6820e32bb8d054773ee081c00fbe.1920x1080.jpg?t=1518770997"
-    },
-    {
-      "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/572420/?t=1518770997",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572420/?t=1518770997"
     }
   ],
   "release_date": {
@@ -134,5 +131,9 @@
     "url": "http://support.szone-online.net/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/572420/page_bg_generated_v6b.jpg?t=1518770997"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/572420/page_bg_generated_v6b.jpg?t=1518770997",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

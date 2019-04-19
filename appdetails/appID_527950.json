@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     126691
@@ -237,6 +239,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Oct, 2016"
@@ -245,5 +250,11 @@
     "url": "http://www.divergence-online.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/527950/page_bg_generated_v6b.jpg?t=1487586852"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/527950/page_bg_generated_v6b.jpg?t=1487586852",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

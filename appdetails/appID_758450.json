@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 5999,
-    "final": 5999,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     223787
@@ -50,11 +52,11 @@
           "packageid": 223787,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Wheel Riders Online - Premium Pack vol.1 - 59,99\u20ac",
+          "option_text": "Wheel Riders Online - Premium Pack vol.1 - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 5999
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -138,5 +140,9 @@
     "url": "",
     "email": "raumincorporated@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/758450/page_bg_generated_v6b.jpg?t=1514327406"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/758450/page_bg_generated_v6b.jpg?t=1514327406",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

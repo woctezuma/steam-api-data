@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 82,
-    "discount_percent": 17
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     210417
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 210417,
-          "percent_savings_text": "-17%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Buffy Stole Your Sandwich - <span class=\"discount_original_price\">0,99\u20ac</span> 0,82\u20ac",
+          "option_text": "Buffy Stole Your Sandwich - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 82
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -125,6 +127,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Oct, 2017"
@@ -133,5 +138,9 @@
     "url": "",
     "email": "Xiveks.Toybox@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/724030/page_bg_generated_v6b.jpg?t=1508252422"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/724030/page_bg_generated_v6b.jpg?t=1508252422",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

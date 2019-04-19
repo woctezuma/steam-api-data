@@ -7,8 +7,8 @@
   "controller_support": "full",
   "detailed_description": "Numantia is a Turn-Based Strategy game that takes place in the ancient conflict between Rome and the city of Numantia, in a war that lasted for more than two decades.<br />\r\n<br />\r\nThe choice is yours: Play as a Numantian warrior against the Roman legions or expand the power of Rome throughout the Iberian Peninsula. Relive history fighting in epic battles alongside real historical figures, conmemorating the 2150th anniversary of the Siege of Numantia.",
   "about_the_game": "Numantia is a Turn-Based Strategy game that takes place in the ancient conflict between Rome and the city of Numantia, in a war that lasted for more than two decades.<br />\r\n<br />\r\nThe choice is yours: Play as a Numantian warrior against the Roman legions or expand the power of Rome throughout the Iberian Peninsula. Relive history fighting in epic battles alongside real historical figures, conmemorating the 2150th anniversary of the Siege of Numantia.",
-  "short_description": "Units, heroes and battles inspired in real events.<br />\r\nDeep narrative linked to the historical evolution of the conflict.<br />\r\nTwo different campaigns with their own heroes, troops, settlements and armies.<br />\r\nPlay solo or with a friend in a local 1v1 mode.",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "short_description": "Units, heroes and battles inspired in real events. Deep narrative linked to the historical evolution of the conflict. Two different campaigns with their own heroes, troops, settlements and armies. Play solo or with a friend in a local 1v1 mode.",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/588080/header.jpg?t=1508922755",
   "website": "http://www.recotech.es",
   "pc_requirements": {
@@ -26,9 +26,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 819,
-    "final": 819,
-    "discount_percent": 0
+    "initial": 999,
+    "final": 599,
+    "discount_percent": 40,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     152079
@@ -45,13 +47,13 @@
       "subs": [
         {
           "packageid": 152079,
-          "percent_savings_text": "",
+          "percent_savings_text": "-40%",
           "percent_savings": 0,
-          "option_text": "Numantia - 8,19\u20ac",
+          "option_text": "Numantia - <span class=\"discount_original_price\">9,99\u20ac</span> 5,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 819
+          "price_in_cents_with_discount": 599
         }
       ]
     }
@@ -63,7 +65,7 @@
   },
   "metacritic": {
     "score": 57,
-    "url": "http://www.metacritic.com/game/pc/numantia?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/numantia?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -244,5 +246,9 @@
     "url": "http://www.recotech.es",
     "email": "soporte@recotech.es"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/588080/page_bg_generated_v6b.jpg?t=1508922755"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/588080/page_bg_generated_v6b.jpg?t=1508922755",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

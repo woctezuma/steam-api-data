@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     145818
@@ -216,5 +218,9 @@
     "url": "",
     "email": "meepowersupp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/573210/page_bg_generated_v6b.jpg?t=1483157174"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/573210/page_bg_generated_v6b.jpg?t=1483157174",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

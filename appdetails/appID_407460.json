@@ -4,8 +4,8 @@
   "steam_appid": 407460,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "The PlayClaw Streamer Pack DLC gives additional features for streamers: native Twitch Chat overlay and Web Browser overlay.<h2 class=\"bb_tag\">Twitch Chat</h2>PlayClaw will render channel chat from Twitch so that you don't need a second monitor to see it.<br><br><ul class=\"bb_ul\"><li>Twitch Emoticons available in common web chat are supported.<br></li><li>IRC <strong>/me</strong> command is supported.<br></li><li>Words / emotions wrapping is supported.<br></li><li>Chat background variable transparency is available.<br></li><li>Using overlay duplication <a href=\"http://www.youtube.com/watch?v=rSm04aPvfBA\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://www.youtube.com/watch?v=rSm04aPvfBA</a></a> it is possible to see multiple channel chats.<br></li><li>Tagging (@nickname ...) is supported.</li></ul><h2 class=\"bb_tag\">Web Browser</h2>PlayClaw will render desired web URL and refresh it with required rate. This overlay is very useful if you use services like TwitchAlerts. Also you'll be able to see chats from services which are not supported by PlayClaw at this moment.<br><br><ul class=\"bb_ul\"><li>Based on Chrome browser and supports all its features<br></li><li>Variable Refresh rate<br></li><li>Possible custom CSS styles which will be applied after page is loaded (for example, to make background transparent or to change some colors and controls sizes).</li></ul>",
-  "about_the_game": "The PlayClaw Streamer Pack DLC gives additional features for streamers: native Twitch Chat overlay and Web Browser overlay.<h2 class=\"bb_tag\">Twitch Chat</h2>PlayClaw will render channel chat from Twitch so that you don't need a second monitor to see it.<br><br><ul class=\"bb_ul\"><li>Twitch Emoticons available in common web chat are supported.<br></li><li>IRC <strong>/me</strong> command is supported.<br></li><li>Words / emotions wrapping is supported.<br></li><li>Chat background variable transparency is available.<br></li><li>Using overlay duplication <a href=\"http://www.youtube.com/watch?v=rSm04aPvfBA\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >http://www.youtube.com/watch?v=rSm04aPvfBA</a></a> it is possible to see multiple channel chats.<br></li><li>Tagging (@nickname ...) is supported.</li></ul><h2 class=\"bb_tag\">Web Browser</h2>PlayClaw will render desired web URL and refresh it with required rate. This overlay is very useful if you use services like TwitchAlerts. Also you'll be able to see chats from services which are not supported by PlayClaw at this moment.<br><br><ul class=\"bb_ul\"><li>Based on Chrome browser and supports all its features<br></li><li>Variable Refresh rate<br></li><li>Possible custom CSS styles which will be applied after page is loaded (for example, to make background transparent or to change some colors and controls sizes).</li></ul>",
+  "detailed_description": "The PlayClaw Streamer Pack DLC gives additional features for streamers: native Twitch Chat overlay and Web Browser overlay.<h2 class=\"bb_tag\">Twitch Chat</h2>PlayClaw will render channel chat from Twitch so that you don't need a second monitor to see it.<br><br><ul class=\"bb_ul\"><li>Twitch Emoticons available in common web chat are supported.<br></li><li>IRC <strong>/me</strong> command is supported.<br></li><li>Words / emotions wrapping is supported.<br></li><li>Chat background variable transparency is available.<br></li><li>Using overlay duplication <a href=\"http://www.youtube.com/watch?v=rSm04aPvfBA\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://www.youtube.com/watch?v=rSm04aPvfBA</a> it is possible to see multiple channel chats.<br></li><li>Tagging (@nickname ...) is supported.</li></ul><h2 class=\"bb_tag\">Web Browser</h2>PlayClaw will render desired web URL and refresh it with required rate. This overlay is very useful if you use services like TwitchAlerts. Also you'll be able to see chats from services which are not supported by PlayClaw at this moment.<br><br><ul class=\"bb_ul\"><li>Based on Chrome browser and supports all its features<br></li><li>Variable Refresh rate<br></li><li>Possible custom CSS styles which will be applied after page is loaded (for example, to make background transparent or to change some colors and controls sizes).</li></ul>",
+  "about_the_game": "The PlayClaw Streamer Pack DLC gives additional features for streamers: native Twitch Chat overlay and Web Browser overlay.<h2 class=\"bb_tag\">Twitch Chat</h2>PlayClaw will render channel chat from Twitch so that you don't need a second monitor to see it.<br><br><ul class=\"bb_ul\"><li>Twitch Emoticons available in common web chat are supported.<br></li><li>IRC <strong>/me</strong> command is supported.<br></li><li>Words / emotions wrapping is supported.<br></li><li>Chat background variable transparency is available.<br></li><li>Using overlay duplication <a href=\"http://www.youtube.com/watch?v=rSm04aPvfBA\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >http://www.youtube.com/watch?v=rSm04aPvfBA</a> it is possible to see multiple channel chats.<br></li><li>Tagging (@nickname ...) is supported.</li></ul><h2 class=\"bb_tag\">Web Browser</h2>PlayClaw will render desired web URL and refresh it with required rate. This overlay is very useful if you use services like TwitchAlerts. Also you'll be able to see chats from services which are not supported by PlayClaw at this moment.<br><br><ul class=\"bb_ul\"><li>Based on Chrome browser and supports all its features<br></li><li>Variable Refresh rate<br></li><li>Possible custom CSS styles which will be applied after page is loaded (for example, to make background transparent or to change some colors and controls sizes).</li></ul>",
   "short_description": "This Streamer pack included native Twitch Chat overlay to see chat in-game and Browser overlay to see any web pages over game screen.",
   "fullgame": {
     "appid": "237370",
@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 399,
-    "final": 199,
-    "discount_percent": 50
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     80413
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 80413,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "PlayClaw 5 - Streamer Pack - <span class=\"discount_original_price\">3,99\u20ac</span> 1,99\u20ac",
+          "option_text": "PlayClaw 5 - Streamer Pack - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -140,5 +142,9 @@
     "url": "http://www.playclaw.com/support.php",
     "email": "support@playclaw.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407460/page_bg_generated_v6b.jpg?t=1474400790"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407460/page_bg_generated_v6b.jpg?t=1474400790",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

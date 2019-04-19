@@ -10,7 +10,7 @@
   "short_description": "The Pioneer Edition offers a variety of starting content, including an in-game discount, five starting Guardians, enhanced inventory, 20 armor pieces and more!",
   "fullgame": {
     "appid": "407840",
-    "name": "Guardians of Orion"
+    "name": "Guardians of Orion (Phase 1)"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/511310/header.jpg?t=1482433514",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     118857
@@ -108,6 +110,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/511310/ss_fb7576417d9053f8b4f49345626224a6f04d0e18.1920x1080.jpg?t=1482433514"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Aug, 2016"
@@ -116,5 +121,9 @@
     "url": "www.trek-industries.com",
     "email": "support@trek-industries.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/511310/page_bg_generated_v6b.jpg?t=1482433514"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/511310/page_bg_generated_v6b.jpg?t=1482433514",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

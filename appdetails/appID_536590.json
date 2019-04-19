@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     130822
@@ -106,6 +108,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/536590/ss_98e8d0160a3404146d30f4ccebd51ffb2322d38c.1920x1080.jpg?t=1475693165"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Oct, 2016"
@@ -114,5 +119,9 @@
     "url": "",
     "email": "support@thd.vg"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/536590/page_bg_generated_v6b.jpg?t=1475693165"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/536590/page_bg_generated_v6b.jpg?t=1475693165",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

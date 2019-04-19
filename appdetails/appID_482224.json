@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Includes the costume items 'Kitten Mittens' and 'Fuzzy Leggings.'",
   "about_the_game": "Includes the costume items 'Kitten Mittens' and 'Fuzzy Leggings.'",
-  "short_description": "Includes the costume items 'Kitten Mittens' and 'Fuzzy Leggings.'",
+  "short_description": "Includes the costume items 'Kitten Mittens' and 'Fuzzy Leggings.",
   "fullgame": {
     "appid": "446390",
     "name": "Onechanbara Z2: Chaos"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     108105
@@ -104,6 +106,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/482224/ss_5ca0a05f8c915dc3264dfcf71d91d030f22409e9.1920x1080.jpg?t=1467769434"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jul, 2016"
@@ -112,5 +117,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/482224/page_bg_generated_v6b.jpg?t=1467769434"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/482224/page_bg_generated_v6b.jpg?t=1467769434",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

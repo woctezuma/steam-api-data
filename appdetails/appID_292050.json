@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Developing a solid Action RPG takes a long time, and more than a handful of late hours. <br><br>For a few bucks you can help us stay awake by purchasing this <strong>lovely piece of high fashion</strong>! It won't help you beat the game, but you'll look totally rad and you can rest peacefully knowing you've provided us with caffeine for yet another late night of furious coding and elegant pixel artistry!<br><br><strong>Disclaimer:</strong> Seriously though - it's a hat. We made it so a small group of dedicated fans would have a way of throwing some extra cash at us during development. If that's you, then we've got the perfect hat for you right here! If not, hit the back button and experience Grindea dressed in a regular hat.",
   "about_the_game": "Developing a solid Action RPG takes a long time, and more than a handful of late hours. <br><br>For a few bucks you can help us stay awake by purchasing this <strong>lovely piece of high fashion</strong>! It won't help you beat the game, but you'll look totally rad and you can rest peacefully knowing you've provided us with caffeine for yet another late night of furious coding and elegant pixel artistry!<br><br><strong>Disclaimer:</strong> Seriously though - it's a hat. We made it so a small group of dedicated fans would have a way of throwing some extra cash at us during development. If that's you, then we've got the perfect hat for you right here! If not, hit the back button and experience Grindea dressed in a regular hat.",
-  "short_description": "You get a <strong>totally sweet Valkyrie Hat</strong> for Secrets of Grindea, and we get a few bucks to get some well needed coffee for those long nights of coding and pixel artistry!",
+  "short_description": "You get a totally sweet Valkyrie Hat for Secrets of Grindea, and we get a few bucks to get some well needed coffee for those long nights of coding and pixel artistry!",
   "fullgame": {
     "appid": "269770",
     "name": "Secrets of Grindea"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 449,
     "final": 449,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,49\u20ac"
   },
   "packages": [
     41076
@@ -136,6 +138,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/292050/ss_04c6ea85756ffedfda4449f679722f28c154ebe4.1920x1080.jpg?t=1447361128"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Jul, 2015"
@@ -144,5 +149,9 @@
     "url": "http://secretsofgrindea.com/forum/index.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/292050/page_bg_generated_v6b.jpg?t=1447361128"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/292050/page_bg_generated_v6b.jpg?t=1447361128",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

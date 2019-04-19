@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 5099,
-    "final": 5099,
-    "discount_percent": 0
+    "initial": 4499,
+    "final": 4499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "44,99\u20ac"
   },
   "packages": [
     49357
@@ -48,11 +50,11 @@
           "packageid": 49357,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Sprite Lamp - Pro upgrade - 50,99\u20ac",
+          "option_text": "Sprite Lamp - Pro upgrade - 44,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 5099
+          "price_in_cents_with_discount": 4499
         }
       ]
     }
@@ -88,5 +90,9 @@
     "url": "",
     "email": "support@snakehillgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/318830/page_bg_generated_v6b.jpg?t=1447363205"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/318830/page_bg_generated_v6b.jpg?t=1447363205",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

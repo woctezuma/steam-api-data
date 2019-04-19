@@ -12,8 +12,8 @@
     "appid": "393460",
     "name": "Crazy Pixel Streaker"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Portuguese-Brazil",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/492620/header.jpg?t=1498832236",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/492620/header.jpg?t=1551699346",
   "website": "http://www.crazypixelstreaker.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP+</li></ul>"
@@ -24,14 +24,15 @@
     "Lubiterum"
   ],
   "publishers": [
-    "Playdius",
     "Plug In Digital"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     111760
@@ -123,10 +124,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/492620/ss_b657780293e72b1c2adfc5023becf82a7d0478f6.600x338.jpg?t=1498832236",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/492620/ss_b657780293e72b1c2adfc5023becf82a7d0478f6.1920x1080.jpg?t=1498832236"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/492620/ss_b657780293e72b1c2adfc5023becf82a7d0478f6.600x338.jpg?t=1551699346",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/492620/ss_b657780293e72b1c2adfc5023becf82a7d0478f6.1920x1080.jpg?t=1551699346"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Jul, 2016"
@@ -135,5 +139,9 @@
     "url": "http://www.crazypixelstreaker.com/",
     "email": "contact@lubiterum.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492620/page_bg_generated_v6b.jpg?t=1498832236"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492620/page_bg_generated_v6b.jpg?t=1551699346",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

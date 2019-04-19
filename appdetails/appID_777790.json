@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Final Directive</strong> is a story driven shooter set in a space station <i>disastrously </i>infested by alien mutants. <br><br>Find the <strong>crew</strong>, contain the <strong>infestation</strong>, and most importantly: <strong><u>make it out alive</u></strong>. <br><br><strong>FEATURING:</strong><br><ul class=\"bb_ul\"><li> An amiable automaton companion<br></li><li> Seductive spiders<br></li><li> Fire, RAD, and Purple flavours<br></li><li> A big door<br></li><li> Local Co-Op<br></li><li> Endless Mode</li></ul><br>Thanks for reading.<br><br>However - <br><br>Actions speak louder than words.<br>Gun actions speak louder than actions.<br>And laser gun actions speak louder than gun actions.",
   "about_the_game": "<strong>Final Directive</strong> is a story driven shooter set in a space station <i>disastrously </i>infested by alien mutants. <br><br>Find the <strong>crew</strong>, contain the <strong>infestation</strong>, and most importantly: <strong><u>make it out alive</u></strong>. <br><br><strong>FEATURING:</strong><br><ul class=\"bb_ul\"><li> An amiable automaton companion<br></li><li> Seductive spiders<br></li><li> Fire, RAD, and Purple flavours<br></li><li> A big door<br></li><li> Local Co-Op<br></li><li> Endless Mode</li></ul><br>Thanks for reading.<br><br>However - <br><br>Actions speak louder than words.<br>Gun actions speak louder than actions.<br>And laser gun actions speak louder than gun actions.",
-  "short_description": "<strong>Final Directive</strong> is a story driven shooter set in a space station <i>disastrously </i>infested by alien mutants. <br><br>Find the <strong>crew</strong>, contain the <strong>infestation</strong>, and most importantly: <strong><u>make it out alive</u></strong>.",
+  "short_description": "Final Directive is a story driven shooter set in a space station disastrously infested by alien mutants. Find the crew, contain the infestation, and most importantly: make it out alive.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/777790/header.jpg?t=1517513648",
   "website": "http://www.lazymondaygames.com/",
@@ -28,8 +28,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 149,
-    "discount_percent": 25
+    "final": 99,
+    "discount_percent": 50,
+    "initial_formatted": "1,99\u20ac",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     233866
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 233866,
-          "percent_savings_text": "-25%",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Final Directive - <span class=\"discount_original_price\">1,99\u20ac</span> 1,49\u20ac",
+          "option_text": "Final Directive - <span class=\"discount_original_price\">1,99\u20ac</span> 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 149
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -204,5 +206,9 @@
     "url": "",
     "email": "Lazymondaygames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/777790/page_bg_generated_v6b.jpg?t=1517513648"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/777790/page_bg_generated_v6b.jpg?t=1517513648",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

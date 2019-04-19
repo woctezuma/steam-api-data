@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     90789
@@ -154,5 +156,9 @@
     "url": "http://www.anpa.us",
     "email": "info@anpa.us"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/434941/page_bg_generated_v6b.jpg?t=1487856341"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/434941/page_bg_generated_v6b.jpg?t=1487856341",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

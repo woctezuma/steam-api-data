@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     205545
@@ -121,6 +123,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Oct, 2017"
@@ -129,5 +134,9 @@
     "url": "",
     "email": "support@dextrit.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/710940/page_bg_generated_v6b.jpg?t=1507197200"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/710940/page_bg_generated_v6b.jpg?t=1507197200",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

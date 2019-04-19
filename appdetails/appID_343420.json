@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\"><strong>Agarest 2 - DLC Bundle #1</strong></h2><br><strong>Peddling Damascus SP</strong><br>Welcome! Come closer and feast your eyes! Your loving Uncle Duke has wandered the world to bring you such wonderful merchandise!<br>Damascus Sword x1, Damascus Spear x1, Damascus Scythe x1, Bracelet of Feicui x1, White Frame x1, Lucky Charm x1.<br><br><strong>1st Generation Exclusive Pack</strong><br>Equipment specifically for the heroes of the first generation.<br>Felicity Blessing (Weiss) x 1, Myumille Wand (Aina) x 1, Mr. Fluff-fluff (Felenne) x 1, Brynhildr Lance (Victoria) x 1, -Their- Bandana (Jainus) x 1, Happy Straw (Fiona) x 1.<br><br><strong>Bonus Point Pack 3</strong><br>Thank you for your lack of financial restraint. Today we offer you a pack containing a plethora of useful points and cash money.<br>What you'll find inside: 5,000,000G, 500PP, 50,000TP.<br><br><strong>Frensberge Speciality Pack 1</strong><br>A wonderful collection of items made in the image of Frensberge's most colourful citizens! Like those other creature thingies, you gotta collect them all! Seriously, if you want to be accepted as a TRUE Frensberger, you'll need all of this stuff!<br>Oden Dagger x 1, Garden Weasel x 1, Schmootz Paws x 1, Melon Sickle x 1, Gluttony Coupon x 1, Faster! Pussycat x 1.<br><br><strong>Frensberge Specialty Pack 2</strong><br>A wonderful collection of items made in the image of Frensberge's most colourful citizens! Like those other creature thingies, you gotta collect them all! Seriously, if you want to be accepted as a TRUE Frensberger, you'll need all of this stuff!<br>Carrot Sword x 1, Cooking Pan x 1, Nostalgia Pistol x 1, Warrior Soul Towel x 1, Mushroom de Runo x 1, Sena's Cookie x 1.",
   "about_the_game": "<h2 class=\"bb_tag\"><strong>Agarest 2 - DLC Bundle #1</strong></h2><br><strong>Peddling Damascus SP</strong><br>Welcome! Come closer and feast your eyes! Your loving Uncle Duke has wandered the world to bring you such wonderful merchandise!<br>Damascus Sword x1, Damascus Spear x1, Damascus Scythe x1, Bracelet of Feicui x1, White Frame x1, Lucky Charm x1.<br><br><strong>1st Generation Exclusive Pack</strong><br>Equipment specifically for the heroes of the first generation.<br>Felicity Blessing (Weiss) x 1, Myumille Wand (Aina) x 1, Mr. Fluff-fluff (Felenne) x 1, Brynhildr Lance (Victoria) x 1, -Their- Bandana (Jainus) x 1, Happy Straw (Fiona) x 1.<br><br><strong>Bonus Point Pack 3</strong><br>Thank you for your lack of financial restraint. Today we offer you a pack containing a plethora of useful points and cash money.<br>What you'll find inside: 5,000,000G, 500PP, 50,000TP.<br><br><strong>Frensberge Speciality Pack 1</strong><br>A wonderful collection of items made in the image of Frensberge's most colourful citizens! Like those other creature thingies, you gotta collect them all! Seriously, if you want to be accepted as a TRUE Frensberger, you'll need all of this stuff!<br>Oden Dagger x 1, Garden Weasel x 1, Schmootz Paws x 1, Melon Sickle x 1, Gluttony Coupon x 1, Faster! Pussycat x 1.<br><br><strong>Frensberge Specialty Pack 2</strong><br>A wonderful collection of items made in the image of Frensberge's most colourful citizens! Like those other creature thingies, you gotta collect them all! Seriously, if you want to be accepted as a TRUE Frensberger, you'll need all of this stuff!<br>Carrot Sword x 1, Cooking Pan x 1, Nostalgia Pistol x 1, Warrior Soul Towel x 1, Mushroom de Runo x 1, Sena's Cookie x 1.",
-  "short_description": "<h2 class=\"bb_tag\"><strong>Agarest 2 - DLC Bundle #1</strong></h2>Peddling Damascus SP, 1st Generation Exclusive Pack, Bonus Point Pack 3, Frensberge Speciality Pack 1, Frensberge Specialty Pack 2",
+  "short_description": "Agarest 2 - DLC Bundle #1Peddling Damascus SP, 1st Generation Exclusive Pack, Bonus Point Pack 3, Frensberge Speciality Pack 1, Frensberge Specialty Pack 2",
   "fullgame": {
     "appid": "312790",
     "name": "Agarest: Generations of War 2"
@@ -31,10 +31,12 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
-    "58223"
+    58223
   ],
   "package_groups": [
     {
@@ -47,7 +49,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "58223",
+          "packageid": 58223,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Agarest 2 - Bundle #1 - 6,99\u20ac",
@@ -123,6 +125,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Feb, 2015"
@@ -131,5 +136,9 @@
     "url": "https://www.ghostlight.uk.com/",
     "email": "support@ghostlight.uk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/343420/page_bg_generated_v6b.jpg?t=1447367366"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/343420/page_bg_generated_v6b.jpg?t=1447367366",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

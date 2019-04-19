@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "",
   "about_the_game": "",
-  "short_description": "Wray admits to Jack that he isn't interested in climbing back into the Spectrum cockpit.  Jack promises Wray an audition for Doctor Cop Lawyer if he agrees to do the movie.",
+  "short_description": "Wray admits to Jack that he isn't interested in climbing back into the Spectrum cockpit. Jack promises Wray an audition for Doctor Cop Lawyer if he agrees to do the movie.",
   "fullgame": {
     "appid": "549290",
     "name": "Con Man"
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     142999
@@ -68,6 +70,9 @@
       "description": "Native Steam Controller Support"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Dec, 2016"
@@ -76,5 +81,9 @@
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

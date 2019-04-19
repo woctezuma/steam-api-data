@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>A.D. 2034: It has been two years since Motoko Kusanagi left Section 9. The new leader Togusa and the newly expanded Section 9 confronts a rash of complicated incidents, and investigations reveal that an ultra-wizard hacker named the Master Puppeteer is behind the entire series of events.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>A.D. 2034: It has been two years since Motoko Kusanagi left Section 9. The new leader Togusa and the newly expanded Section 9 confronts a rash of complicated incidents, and investigations reveal that an ultra-wizard hacker named the Master Puppeteer is behind the entire series of events.",
   "about_the_game": "A.D. 2034: It has been two years since Motoko Kusanagi left Section 9. The new leader Togusa and the newly expanded Section 9 confronts a rash of complicated incidents, and investigations reveal that an ultra-wizard hacker named the Master Puppeteer is behind the entire series of events.",
   "short_description": "A.D. 2034: It has been two years since Motoko Kusanagi left Section 9. The new leader Togusa and the newly expanded Section 9 confronts a rash of complicated incidents, and investigations reveal that an ultra-wizard hacker named the Master Puppeteer is behind the entire series of events.",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     152726,
@@ -149,6 +151,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Mar, 2017"
@@ -157,5 +162,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589930/page_bg_generated_v6b.jpg?t=1490890398"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589930/page_bg_generated_v6b.jpg?t=1490890398",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Humanity Asset is a Metroid-style 3D platformer that pays homage to the traditional retro classic shoot \u2018em up genre.  <br />\r\n<br />\r\nAliens have invaded Earth to strip the planet of its resources, to save their own dying planet. As in all classic shoot 'em ups, only you can save the day - now there\u2019s a surprise!<br />\r\n<br />\r\nWith 16 levels, over 400 stages and a multitude of awesome weapons, you must hack, slash and shoot your way to survival and victory.",
   "about_the_game": "Humanity Asset is a Metroid-style 3D platformer that pays homage to the traditional retro classic shoot \u2018em up genre.  <br />\r\n<br />\r\nAliens have invaded Earth to strip the planet of its resources, to save their own dying planet. As in all classic shoot 'em ups, only you can save the day - now there\u2019s a surprise!<br />\r\n<br />\r\nWith 16 levels, over 400 stages and a multitude of awesome weapons, you must hack, slash and shoot your way to survival and victory.",
-  "short_description": "",
+  "short_description": "Humanity Asset is a Metroid-style 3D platformer that pays homage to the traditional retro classic shoot \u2018em up genre. Aliens have invaded Earth to strip the planet of its resources, to save their own dying planet. As in all classic shoot 'em ups, only you can save the day - now there\u2019s a surprise!",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/271640/header.jpg?t=1447359996",
   "website": "http://humanityasset.bastation.com/",
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     36428
@@ -202,9 +204,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 455
-  },
   "achievements": {
     "total": 38,
     "highlighted": [
@@ -258,5 +257,9 @@
     "url": "http://humanityasset.bastation.com/contact.html",
     "email": "ba_kazama@hotmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/271640/page_bg_generated_v6b.jpg?t=1447359996"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/271640/page_bg_generated_v6b.jpg?t=1447359996",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

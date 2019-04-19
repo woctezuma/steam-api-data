@@ -2,12 +2,12 @@
   "type": "dlc",
   "name": "Fairy Fencer F ADF Fairy Set 3: Lars and Foxer | \u5996\u8056\u30bb\u30c3\u30c8\uff13\u300e\u30e9\u30fc\u30b9\u300f\u300e\u30d5\u30a9\u30af\u30b5\u30fc\u300f | \u5996\u8056\u5957\u7d44\uff13\u300c\u62c9\u65af\u300d\u300c\u5f17\u514b\u6c99\u300d",
   "steam_appid": 524596,
-  "required_age": "13",
+  "required_age": 0,
   "is_free": false,
   "controller_support": "full",
   "detailed_description": "Are they a whimsical crime-solving duo? Find out (or don't) with Fairy Set 3!<br />\r\n<br />\r\nIncludes the following fairies:<br />\r\n\u2022 Lars<br />\r\n\u2022 Foxer<br />\r\n<br />\r\n*These fairies can't be used for Godly Revival",
   "about_the_game": "Are they a whimsical crime-solving duo? Find out (or don't) with Fairy Set 3!<br />\r\n<br />\r\nIncludes the following fairies:<br />\r\n\u2022 Lars<br />\r\n\u2022 Foxer<br />\r\n<br />\r\n*These fairies can't be used for Godly Revival",
-  "short_description": "Are they a whimsical crime-solving duo? Find out (or don't) with Fairy Set 3!<br />\r\n<br />\r\nIncludes the following fairies:<br />\r\n\u2022 Lars<br />\r\n\u2022 Foxer<br />\r\n<br />\r\n*These fairies can't be used for Godly Revival",
+  "short_description": "Are they a whimsical crime-solving duo? Find out (or don't) with Fairy Set 3! Includes the following fairies: \u2022 Lars \u2022 Foxer *These fairies can't be used for Godly...",
   "fullgame": {
     "appid": "524580",
     "name": "Fairy Fencer F Advent Dark Force | \u30d5\u30a7\u30a2\u30ea\u30fc\u30d5\u30a7\u30f3\u30b5\u30fc \u30a8\u30d5 ADVENT DARK FORCE | \u5996\u7cbe\u528d\u58eb F ADVENT DARK FORCE"
@@ -30,10 +30,12 @@
     "Idea Factory International"
   ],
   "price_overview": {
-    "currency": "USD",
+    "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     125082
@@ -52,7 +54,7 @@
           "packageid": 125082,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Fairy Fencer F ADF Fairy Set 3: Lars and Foxer - $0.99",
+          "option_text": "Fairy Fencer F ADF Fairy Set 3: Lars and Foxer - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -115,13 +117,20 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/524596/ss_36086159092cb2230dfcf07f79acb356f9ec7dde.1920x1080.jpg?t=1487119945"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
-    "date": "Feb 14, 2017"
+    "date": "14 Feb, 2017"
   },
   "support_info": {
     "url": "http://ideafintl.com/contact.php",
     "email": "pcsupport@ideafintl.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/524596/page_bg_generated_v6b.jpg?t=1487119945"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/524596/page_bg_generated_v6b.jpg?t=1487119945",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

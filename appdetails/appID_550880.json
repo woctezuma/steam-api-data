@@ -11,8 +11,8 @@
     "appid": "359550",
     "name": "Tom Clancy's Rainbow Six\u00ae Siege"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Czech, Dutch, Japanese<strong>*</strong>, Korean, Polish, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong>, Traditional Chinese, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/550880/header.jpg?t=1482142774",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech, Dutch, Japanese<strong>*</strong>, Korean, Polish, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Traditional Chinese, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/550880/header.jpg?t=1536077401",
   "website": "http://rainbow6.ubi.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8.1, Windows 10 (64bit versions required)<br></li><li><strong>Processor:</strong> Intel Core i3 560 @ 3.3 GHz or AMD Phenom II X4 945 @ 3.0 GHz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 460 or AMD Radeon HD 5870 (DirectX-11 compliant with 1GB of VRAM)</li></ul>",
@@ -27,38 +27,7 @@
   "publishers": [
     ""
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 699,
-    "final": 629,
-    "discount_percent": 10
-  },
-  "packages": [
-    136541
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy Tom Clancy's Rainbow Six\u00ae Siege - Fuze Ghost Recon set",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 136541,
-          "percent_savings_text": "-10%",
-          "percent_savings": 0,
-          "option_text": "Rainbow Six Siege - Fuze Ghost Recon Set - <span class=\"discount_original_price\">6,99\u20ac</span> 6,29\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 629
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -99,10 +68,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/550880/ss_15cb0062aa25462100584a8e16689ce4bd39c359.600x338.jpg?t=1482142774",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/550880/ss_15cb0062aa25462100584a8e16689ce4bd39c359.1920x1080.jpg?t=1482142774"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/550880/ss_15cb0062aa25462100584a8e16689ce4bd39c359.600x338.jpg?t=1536077401",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/550880/ss_15cb0062aa25462100584a8e16689ce4bd39c359.1920x1080.jpg?t=1536077401"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Nov, 2016"
@@ -111,5 +83,9 @@
     "url": "http://support.ubi.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/550880/page_bg_generated_v6b.jpg?t=1482142774"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/550880/page_bg_generated_v6b.jpg?t=1536077401",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

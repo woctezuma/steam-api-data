@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Soundtrack, HEYA!!!<br />\r\n<br />\r\nEnjoy the awesome songs composed by GSTF the Goat Musician Genius!<br />\r\n<br />\r\nGoat Simulator<br />\r\n1. Dead Goatland (1:02)<br />\r\n2. Goat Chill (6:14)<br />\r\n3. Klad Get (4:00)<br />\r\n4. Everyday Goat (1:53)<br />\r\n5. Cabrito Park (1:16)<br />\r\n6. Goat Trap (3:37)<br />\r\n7. Goat Storm (26:47)<br />\r\n<br />\r\nGoat MMO Simulator<br />\r\n1. Goatshire (6:37)<br />\r\n2. Goatwind City (4:26)<br />\r\n3. Alvesta (4:01)<br />\r\n4. Old Goat Mountain (3:15)<br />\r\n5. Garblarge Beach (4:25)<br />\r\n6. Twistram (3:08)<br />\r\n<br />\r\nGoat Simulator: GoatZ<br />\r\n1. Intro (1:12)<br />\r\n2. Z (5:24)<br />\r\n3. Outbreak (9:52)<br />\r\n<br />\r\nGoat Simulator: PAYDAY<br />\r\n1. Prank Net (1:39)<br />\r\n2. Desert Chill (5:55)<br />\r\n3. Panectropipes feat. DJ Piero (2:01)<br />\r\n4. Bollybolly (4:31)",
   "about_the_game": "Soundtrack, HEYA!!!<br />\r\n<br />\r\nEnjoy the awesome songs composed by GSTF the Goat Musician Genius!<br />\r\n<br />\r\nGoat Simulator<br />\r\n1. Dead Goatland (1:02)<br />\r\n2. Goat Chill (6:14)<br />\r\n3. Klad Get (4:00)<br />\r\n4. Everyday Goat (1:53)<br />\r\n5. Cabrito Park (1:16)<br />\r\n6. Goat Trap (3:37)<br />\r\n7. Goat Storm (26:47)<br />\r\n<br />\r\nGoat MMO Simulator<br />\r\n1. Goatshire (6:37)<br />\r\n2. Goatwind City (4:26)<br />\r\n3. Alvesta (4:01)<br />\r\n4. Old Goat Mountain (3:15)<br />\r\n5. Garblarge Beach (4:25)<br />\r\n6. Twistram (3:08)<br />\r\n<br />\r\nGoat Simulator: GoatZ<br />\r\n1. Intro (1:12)<br />\r\n2. Z (5:24)<br />\r\n3. Outbreak (9:52)<br />\r\n<br />\r\nGoat Simulator: PAYDAY<br />\r\n1. Prank Net (1:39)<br />\r\n2. Desert Chill (5:55)<br />\r\n3. Panectropipes feat. DJ Piero (2:01)<br />\r\n4. Bollybolly (4:31)",
-  "short_description": "",
+  "short_description": "Soundtrack, HEYA!!! Enjoy the awesome songs composed by GSTF the Goat Musician Genius! Goat Simulator 1. Dead Goatland (1:02) 2. Goat Chill (6:14) 3. Klad Get (4:00) 4. Everyday Goat (1:53) 5. Cabrito Park (1:16) 6. Goat Trap (3:37) 7. Goat Storm (26:47) Goat MMO Simulator 1. Goatshire (6:37) 2. Goatwind City (4:26) 3. Alvesta (4:01) 4.",
   "fullgame": {
     "appid": "265930",
     "name": "Goat Simulator"
@@ -34,8 +34,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 599,
-    "final": 401,
-    "discount_percent": 33
+    "final": 599,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     55382
@@ -52,13 +54,13 @@
       "subs": [
         {
           "packageid": 55382,
-          "percent_savings_text": "-33%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Goat Simulator: Original Soundtrack - <span class=\"discount_original_price\">5,99\u20ac</span> 4,01\u20ac",
+          "option_text": "Goat Simulator: Original Soundtrack - 5,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 401
+          "price_in_cents_with_discount": 599
         }
       ]
     }
@@ -131,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/335350/ss_9dc68c11a308de7709f389074d65cfc16a285c4c.1920x1080.jpg?t=1501885165"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Nov, 2014"
@@ -139,5 +144,9 @@
     "url": "",
     "email": "support@coffeestain.se"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/335350/page_bg_generated_v6b.jpg?t=1501885165"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/335350/page_bg_generated_v6b.jpg?t=1501885165",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

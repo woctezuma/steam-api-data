@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     199301
@@ -108,5 +110,9 @@
     "url": "http://www.reddit.com/r/Fictorum",
     "email": "scrapingbottomgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/694510/page_bg_generated_v6b.jpg?t=1503515683"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/694510/page_bg_generated_v6b.jpg?t=1503515683",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

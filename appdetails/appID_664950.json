@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>For the crew of the USG Ishimura, this is how the horror begins: On a deep space mining mission to a remote planet, an ancient religious relic - thought to be proof of the existence of God - is unearthed and brought aboard. It is worshipped by some, scorned by others. But when the unholy artifact unleashes a long-dormant alien race, its glimpse of Heaven transforms the ship into a living Hell. The chaos is immediate. The carnage is uncontrollable. And an onslaught unlike anything ever witnessed by mankind has now been set free to rip this world apart.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>For the crew of the USG Ishimura, this is how the horror begins: On a deep space mining mission to a remote planet, an ancient religious relic - thought to be proof of the existence of God - is unearthed and brought aboard. It is worshipped by some, scorned by others. But when the unholy artifact unleashes a long-dormant alien race, its glimpse of Heaven transforms the ship into a living Hell. The chaos is immediate. The carnage is uncontrollable. And an onslaught unlike anything ever witnessed by mankind has now been set free to rip this world apart.",
   "about_the_game": "For the crew of the USG Ishimura, this is how the horror begins: On a deep space mining mission to a remote planet, an ancient religious relic - thought to be proof of the existence of God - is unearthed and brought aboard. It is worshipped by some, scorned by others. But when the unholy artifact unleashes a long-dormant alien race, its glimpse of Heaven transforms the ship into a living Hell. The chaos is immediate. The carnage is uncontrollable. And an onslaught unlike anything ever witnessed by mankind has now been set free to rip this world apart.",
   "short_description": "On a deep space mining mission for the crew of USG Ishimura to a remote planet, an ancient religious relic is unearthed and brought aboard.",
   "fullgame": {
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     188818,
@@ -130,6 +132,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/664950/ss_cc690d803275a19d57c586bd7a8ac4f14edf28c5.1920x1080.jpg?t=1511288111"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Nov, 2017"
@@ -138,5 +143,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/664950/page_bg_generated_v6b.jpg?t=1511288111"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/664950/page_bg_generated_v6b.jpg?t=1511288111",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

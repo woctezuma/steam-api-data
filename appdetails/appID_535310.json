@@ -16,12 +16,12 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/535310/header.jpg?t=1477673791",
   "website": "http://www.earthlockgame.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or newer<br></li><li><strong>Processor:</strong> x86 Dual Core 2.4 GHz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9 GPU with 1GB of memory<br></li><li><strong>DirectX:</strong> Version 9.0c</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or newer<br></li><li><strong>Processor:</strong> x86 Quad Core 3.4GHz or greater<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 GPU with 2GB of memory</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7 or newer<br></li><li><strong>Processeur\u00a0:</strong> x86 Dual Core 2.4 GHz<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 3 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> DirectX 9 GPU with 1GB of memory<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0c</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7 or newer<br></li><li><strong>Processeur\u00a0:</strong> x86 Quad Core 3.4GHz or greater<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 4 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> DirectX 11 GPU with 2GB of memory</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.6 or newer<br></li><li><strong>Processor:</strong> x86 Dual Core 2.4 GHz<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.2+ GPU with 1GB of memory</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.6 or newer<br></li><li><strong>Processor:</strong> x86 Quad Core 3.4GHz or greater<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.2+ GPU with 2GB of memory</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> OS X 10.6 or newer<br></li><li><strong>Processeur\u00a0:</strong> x86 Dual Core 2.4 GHz<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 3 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> OpenGL 3.2+ GPU with 1GB of memory</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> OS X 10.6 or newer<br></li><li><strong>Processeur\u00a0:</strong> x86 Quad Core 3.4GHz or greater<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 4 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> OpenGL 3.2+ GPU with 2GB of memory</li></ul>"
   },
   "linux_requirements": [],
   "legal_notice": "Copyright 2014-2016 Snowcastle Games - All rights reserved",
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     130098
@@ -115,5 +117,9 @@
     "url": "http://www.earthlockgame.com",
     "email": "support@snowcastle.no"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/535310/page_bg_generated_v6b.jpg?t=1477673791"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/535310/page_bg_generated_v6b.jpg?t=1477673791",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

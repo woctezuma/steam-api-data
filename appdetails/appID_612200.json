@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 1079,
+    "final": 1079,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,79\u20ac"
   },
   "packages": [
     163832
@@ -51,11 +53,11 @@
           "packageid": 163832,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: Victorian Railways Type 4 DD Class Pack - Canadian Red - 14,99\u20ac",
+          "option_text": "TANE DLC: Victorian Railways Type 4 DD Class Pack - Canadian Red - 10,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 1079
         }
       ]
     }
@@ -141,6 +143,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/612200/ss_9c60b513b09458d8b7d3bf37d782a9a24dde0ac8.1920x1080.jpg?t=1499140759"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Jul, 2017"
@@ -149,5 +154,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/612200/page_bg_generated_v6b.jpg?t=1499140759"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/612200/page_bg_generated_v6b.jpg?t=1499140759",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

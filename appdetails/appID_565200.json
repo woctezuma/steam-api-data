@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Gem Monster support vr mode and keyboard + mouse mode, both modes  have good experience. In the game you fight different kinds of monsters in which are composed of gems and different colors. The only way to defeat them is to match and remove all the gems on their body. Each monster has it's own distinctive behavior and attack mode and you'll need to use different upgrades and skills to contend with them.<br />\r\n<br />\r\nPlease read the help tips carefully before fighting with monsters, which will help you to enjoy the game.",
   "about_the_game": "Gem Monster support vr mode and keyboard + mouse mode, both modes  have good experience. In the game you fight different kinds of monsters in which are composed of gems and different colors. The only way to defeat them is to match and remove all the gems on their body. Each monster has it's own distinctive behavior and attack mode and you'll need to use different upgrades and skills to contend with them.<br />\r\n<br />\r\nPlease read the help tips carefully before fighting with monsters, which will help you to enjoy the game.",
-  "short_description": "Gem Monster is a virtual reality game. In the game you fight different kinds of monsters in which are composed of gems and different colors. The only way to defeat them is to match and remove all the gems on their body. Each monster has it's own distinctive behavior and attack mode and you'll need to use different upgrades and skills to contend with them.<br />\r\n<br />\r\nPlease read the help tips carefully before fighting with monsters, which will help you to enjoy the game.",
+  "short_description": "Gem Monster is a virtual reality game. In the game you fight different kinds of monsters in which are composed of gems and different colors. The only way to defeat them is to match and remove all the gems on their body.",
   "supported_languages": "English, French, German, Russian, Japanese, Simplified Chinese, Korean",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/565200/header.jpg?t=1482233609",
   "website": "http://keggame.com",
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     142690
@@ -144,6 +146,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Dec, 2016"
@@ -152,5 +157,9 @@
     "url": "",
     "email": "2934833319@qq.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/565200/page_bg_generated_v6b.jpg?t=1482233609"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/565200/page_bg_generated_v6b.jpg?t=1482233609",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

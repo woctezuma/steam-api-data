@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The pioneering VR game '<strong>Viral</strong>' is back in the form of '<strong>Viral EX</strong>'! Now available on Steam and featuring full support for HTC Vive! <br><br>The supercomputer E.V.E. has had a facelift but is still teeming with infection. So enter this strange world as Ragnarok the Anti-Virus, newly armed with the shiny and deadly dual-wield Blaster and Deflector Shield combo, and get virus-stomping!<br><br>Blast away, unleash storms of powerups, or look for that perfect killer trick-shot to make your friends go 'wow, I wish I could do that'. Battle across 50 stages of devious enemies, traps and puzzles, and clean up with either your gamepad for Classic gameplay, or embrace the power of Tracked Controllers for a whole new level of chaotic fun.",
   "about_the_game": "The pioneering VR game '<strong>Viral</strong>' is back in the form of '<strong>Viral EX</strong>'! Now available on Steam and featuring full support for HTC Vive! <br><br>The supercomputer E.V.E. has had a facelift but is still teeming with infection. So enter this strange world as Ragnarok the Anti-Virus, newly armed with the shiny and deadly dual-wield Blaster and Deflector Shield combo, and get virus-stomping!<br><br>Blast away, unleash storms of powerups, or look for that perfect killer trick-shot to make your friends go 'wow, I wish I could do that'. Battle across 50 stages of devious enemies, traps and puzzles, and clean up with either your gamepad for Classic gameplay, or embrace the power of Tracked Controllers for a whole new level of chaotic fun.",
-  "short_description": "The pioneering VR game '<strong>Viral</strong>' is back in the form of '<strong>Viral EX</strong>'! Now available on Steam and featuring full support for HTC Vive! <br>As Ragnarok the Anti-Virus, battle across 50 stages of devious enemies, traps and puzzles.",
+  "short_description": "The pioneering VR game 'Viral' is back in the form of 'Viral EX'! Now available on Steam and featuring full support for HTC Vive! As Ragnarok the Anti-Virus, battle across 50 stages of devious enemies, traps and puzzles.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/397600/header.jpg?t=1500286776",
   "website": "https://www.fiercekaiju.com/",
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     76754
@@ -189,5 +191,9 @@
     "url": "https://www.fiercekaiju.com/",
     "email": "support@fiercekaiju.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/397600/page_bg_generated_v6b.jpg?t=1500286776"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/397600/page_bg_generated_v6b.jpg?t=1500286776",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

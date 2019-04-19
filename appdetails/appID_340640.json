@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     57205
@@ -155,6 +157,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/340640/ss_98082487d4cc4d81fe3f55b7fd0ba3a0c5a9279a.1920x1080.jpg?t=1458133350"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Dec, 2015"
@@ -163,5 +168,9 @@
     "url": "",
     "email": "boe_support@bestway.com.ua"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340640/page_bg_generated_v6b.jpg?t=1458133350"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340640/page_bg_generated_v6b.jpg?t=1458133350",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 400,
+    "final": 400,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,--\u20ac"
   },
   "packages": [
     133356
@@ -46,11 +48,11 @@
           "packageid": 133356,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "FriendShip - 4,99\u20ac",
+          "option_text": "FriendShip - 4,--\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 400
         }
       ]
     }
@@ -127,6 +129,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Dec, 2016"
@@ -135,5 +140,9 @@
     "url": "",
     "email": "TwoTallInc@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/542110/page_bg_generated_v6b.jpg?t=1496691792"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/542110/page_bg_generated_v6b.jpg?t=1496691792",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

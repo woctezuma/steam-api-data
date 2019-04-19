@@ -12,7 +12,7 @@
     "appid": "204300",
     "name": "Awesomenauts - the 2D moba"
   },
-  "supported_languages": "English<strong>*</strong>, German, French, Italian, Spanish, Dutch, Portuguese-Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German, French, Italian, Spanish - Spain, Dutch, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/204318/header.jpg?t=1493971395",
   "website": "http://www.ronimo-games.com",
   "pc_requirements": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 249,
     "final": 249,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     25524
@@ -154,6 +156,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/204318/ss_8c5e132c179023985a2480d972a4b109677dba88.1920x1080.jpg?t=1493971395"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Feb, 2013"
@@ -162,5 +167,9 @@
     "url": "http://www.awesomenauts.com/forum/viewforum.php?f=13",
     "email": "Support@ronimo-games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/204318/page_bg_generated_v6b.jpg?t=1493971395"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/204318/page_bg_generated_v6b.jpg?t=1493971395",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

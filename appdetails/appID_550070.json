@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This DLC includes the seven soothing tracks used in Multimirror. Created by Johan Sunesson (aka Kouge)<br><br><strong>Tracklist:</strong><br><br><ul class=\"bb_ul\"><li>Nearby<br></li><li>Ember<br></li><li>Futile<br></li><li>Rolling<br></li><li>Sweet<br></li><li>Hold up<br></li><li>Too soon</li></ul>",
   "about_the_game": "This DLC includes the seven soothing tracks used in Multimirror. Created by Johan Sunesson (aka Kouge)<br><br><strong>Tracklist:</strong><br><br><ul class=\"bb_ul\"><li>Nearby<br></li><li>Ember<br></li><li>Futile<br></li><li>Rolling<br></li><li>Sweet<br></li><li>Hold up<br></li><li>Too soon</li></ul>",
-  "short_description": "This DLC includes the seven soothing tracks used in Multimirror. Created by Johan Sunesson (aka Kouge)",
+  "short_description": "This DLC includes the seven soothing tracks used in Multimirror.",
   "fullgame": {
     "appid": "533860",
     "name": "Multimirror"
@@ -15,13 +15,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/550070/header.jpg?t=1479186441",
   "website": "http://multimirrorgame.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Any</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Any</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Any</li></ul>"
   },
   "developers": [
     "Cleverweek"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     136184
@@ -113,5 +115,9 @@
     "url": "http://www.cleverweek.com",
     "email": "support@cleverweek.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/550070/page_bg_generated_v6b.jpg?t=1479186441"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/550070/page_bg_generated_v6b.jpg?t=1479186441",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

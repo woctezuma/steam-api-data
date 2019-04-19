@@ -11,7 +11,7 @@
     "appid": "431600",
     "name": "Automobilista"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Portuguese-Brazil",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/724720/header.jpg?t=1507320280",
   "website": "http://www.game-automobilista.com",
   "pc_requirements": {
@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "final": 299,
+    "discount_percent": 50,
+    "initial_formatted": "5,99\u20ac",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     210662
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 210662,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Brazilian Touring Car Classics - 5,99\u20ac",
+          "option_text": "Brazilian Touring Car Classics - <span class=\"discount_original_price\">5,99\u20ac</span> 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -163,6 +165,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Oct, 2017"
@@ -171,5 +176,9 @@
     "url": "",
     "email": "support@reizastudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/724720/page_bg_generated_v6b.jpg?t=1507320280"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/724720/page_bg_generated_v6b.jpg?t=1507320280",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

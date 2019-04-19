@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This Downloadable Content Pack includes the highly detailed CSX GE B30-7 model for use in the Trainz Simulator franchise games.<br><br><strong>Features Include</strong>:<br><ul class=\"bb_ul\"><li>Night Lighting<br></li><li>Ditch Lights<br></li><li>Auto Running Numbers<br></li><li>Fan Animation</li></ul>",
   "about_the_game": "This Downloadable Content Pack includes the highly detailed CSX GE B30-7 model for use in the Trainz Simulator franchise games.<br><br><strong>Features Include</strong>:<br><ul class=\"bb_ul\"><li>Night Lighting<br></li><li>Ditch Lights<br></li><li>Auto Running Numbers<br></li><li>Fan Animation</li></ul>",
-  "short_description": "",
+  "short_description": "This Downloadable Content Pack includes the highly detailed CSX GE B30-7 model for use in the Trainz Simulator franchise games.",
   "fullgame": {
     "appid": "315660",
     "name": "Trainz: A New Era"
@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1299,
-    "final": 1299,
-    "discount_percent": 0
+    "initial": 999,
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     223437
@@ -49,11 +51,11 @@
           "packageid": 223437,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: CSX Transportation GE B30-7 - 12,99\u20ac",
+          "option_text": "TANE DLC: CSX Transportation GE B30-7 - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1299
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -109,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404216/ss_cb8712cafe14ebb474eb1839d15b4761f4504d10.1920x1080.jpg?t=1479201797"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Jan, 2016"
@@ -117,5 +122,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404216/page_bg_generated_v6b.jpg?t=1479201797"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404216/page_bg_generated_v6b.jpg?t=1479201797",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

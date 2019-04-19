@@ -1,17 +1,17 @@
 {
   "type": "game",
-  "name": "4X Space Time Shipyard",
+  "name": "4XST Shipyard",
   "steam_appid": 752240,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/752240/extras/shippic2.png?t=1521318399\" ><br><br>-Release your creativity! Create OBJ models of ship hulls<br><br>-Change the shape of basic objects by scaling the individual axis of basic pieces<br><br>-Create low poly 3D ships by snapping pieces together<br><br>-Remove or edit placed pieces<br><br>-Design the hulls of fighters, transports, carriers, frigates, battleships\u2026 <br><br>-Exports 3d models in .OBJ format with textures<br><br>-Use the models you create in anyway you see fit. Display them on the web, use them in your own applications...",
-  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/752240/extras/shippic2.png?t=1521318399\" ><br><br>-Release your creativity! Create OBJ models of ship hulls<br><br>-Change the shape of basic objects by scaling the individual axis of basic pieces<br><br>-Create low poly 3D ships by snapping pieces together<br><br>-Remove or edit placed pieces<br><br>-Design the hulls of fighters, transports, carriers, frigates, battleships\u2026 <br><br>-Exports 3d models in .OBJ format with textures<br><br>-Use the models you create in anyway you see fit. Display them on the web, use them in your own applications...",
-  "short_description": "Create low poly 3D ships from scratch and export them in .OBJ format. 4X Space Time (4XST) Shipyard is a hull designer with the secondary purpose of spreading the word about the upcoming space strategy game 4X Space Time (4XST).",
-  "supported_languages": "English, French, Spanish, Turkish, German",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/752240/header.jpg?t=1521318399",
+  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/752240/extras/shippic2.png?t=1554606226\" ><br><br>4XST Shipyard is presently a hull designer. As development continues that will change.<br>-Create ship hulls using symmetrical/mirror placement of pieces on the X, Y, and Z axis. <br>-Export designs to the hard drive",
+  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/752240/extras/shippic2.png?t=1554606226\" ><br><br>4XST Shipyard is presently a hull designer. As development continues that will change.<br>-Create ship hulls using symmetrical/mirror placement of pieces on the X, Y, and Z axis. <br>-Export designs to the hard drive",
+  "short_description": "Create low poly 3D ships from scratch and export them in .OBJ format. 4X Space Time (4XST) Shipyard is a hull designer currently but more features are planned. This game was recently rebooted on April 6, 2019 and development is continuing.",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/752240/header.jpg?t=1554606226",
   "website": "http://www.4xspacetime.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10 (64 bit)<br></li><li><strong>Processor:</strong> Dual Core Intel or AMD CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 3000<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> 64 bit version of Windows required</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8/8.1/10 (64 bit)<br></li><li><strong>Processor:</strong> Dual Core Intel or AMD CPU<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Minimum resolution supported: 1366x768. Graphics card/integrated graphics must have shader model 4.0 capabilities.<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 65 MB available space<br></li><li><strong>Sound Card:</strong> N/A<br></li><li><strong>Additional Notes:</strong> 64 bit version of Windows required</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     221105
@@ -34,7 +36,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy 4X Space Time Shipyard",
+      "title": "Buy 4XST Shipyard",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -45,11 +47,11 @@
           "packageid": 221105,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "4X Space Time Shipyard - 9,99\u20ac",
+          "option_text": "4XST Shipyard - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -78,62 +80,55 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_749e348d82e8f5f864e4a8811d14ffe8080e4cfe.600x338.jpg?t=1521318399",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_749e348d82e8f5f864e4a8811d14ffe8080e4cfe.1920x1080.jpg?t=1521318399"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_e1fe16a85d38b6dd4cce46c945c6b2625eef484f.600x338.jpg?t=1554606226",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_e1fe16a85d38b6dd4cce46c945c6b2625eef484f.1920x1080.jpg?t=1554606226"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_d1c1f81379f7c3f598a348a49e1131b6f16dc98c.600x338.jpg?t=1521318399",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_d1c1f81379f7c3f598a348a49e1131b6f16dc98c.1920x1080.jpg?t=1521318399"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_61b454928568f02a9de83b5c2e31e5e5db995fb3.600x338.jpg?t=1554606226",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_61b454928568f02a9de83b5c2e31e5e5db995fb3.1920x1080.jpg?t=1554606226"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_25cf5c2fde6308fc3d45796ef58552bd235f95b6.600x338.jpg?t=1521318399",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_25cf5c2fde6308fc3d45796ef58552bd235f95b6.1920x1080.jpg?t=1521318399"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_ed7905892dd35e889aa9299997784793d910f76a.600x338.jpg?t=1554606226",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_ed7905892dd35e889aa9299997784793d910f76a.1920x1080.jpg?t=1554606226"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_c5d7dcb024b8735a9b1dac5dbcdd90eec579404a.600x338.jpg?t=1521318399",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_c5d7dcb024b8735a9b1dac5dbcdd90eec579404a.1920x1080.jpg?t=1521318399"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_10bd6926b2f9c068a1bbd3eb059fb7ea708036a1.600x338.jpg?t=1554606226",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_10bd6926b2f9c068a1bbd3eb059fb7ea708036a1.1920x1080.jpg?t=1554606226"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_5a70f87d9eefbec4a20eaca7ddcfc786c520d212.600x338.jpg?t=1521318399",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_5a70f87d9eefbec4a20eaca7ddcfc786c520d212.1920x1080.jpg?t=1521318399"
-    },
-    {
-      "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_3010749b0bbb4a81f66dda3bf82b15388ec58c30.600x338.jpg?t=1521318399",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_3010749b0bbb4a81f66dda3bf82b15388ec58c30.1920x1080.jpg?t=1521318399"
-    },
-    {
-      "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_40dfa7735fa381c5ea6a2f10a5a4a2aaf7cda443.600x338.jpg?t=1521318399",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_40dfa7735fa381c5ea6a2f10a5a4a2aaf7cda443.1920x1080.jpg?t=1521318399"
-    },
-    {
-      "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_d0f3c6a002503a0c6c1163dcc2e29b5100334dd7.600x338.jpg?t=1521318399",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_d0f3c6a002503a0c6c1163dcc2e29b5100334dd7.1920x1080.jpg?t=1521318399"
-    },
-    {
-      "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/752240/?t=1521318399",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/752240/?t=1521318399"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_926e421d0f80ee82d776fb2b664c4d3263177bb8.600x338.jpg?t=1554606226",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/752240/ss_926e421d0f80ee82d776fb2b664c4d3263177bb8.1920x1080.jpg?t=1554606226"
     }
   ],
   "movies": [
     {
-      "id": 256700969,
-      "name": "4XST Shipyard",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256700969/movie.293x165.jpg?t=1510776060",
+      "id": 256747368,
+      "name": "4XST Shipyard Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256747368/movie.293x165.jpg?t=1554606221",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256700969/movie480.webm?t=1510776060",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256700969/movie_max.webm?t=1510776060"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256747368/movie480.webm?t=1554606221",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256747368/movie_max.webm?t=1554606221"
       },
       "highlight": true
+    },
+    {
+      "id": 256724082,
+      "name": "4X Space Time Shipyard Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256724082/movie.293x165.jpg?t=1532996471",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256724082/movie480.webm?t=1532996471",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256724082/movie_max.webm?t=1532996471"
+      },
+      "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Dec, 2017"
@@ -142,5 +137,9 @@
     "url": "http://www.4xspacetime.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/752240/page_bg_generated_v6b.jpg?t=1521318399"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/752240/page_bg_generated_v6b.jpg?t=1554606226",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

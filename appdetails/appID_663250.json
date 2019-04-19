@@ -8,7 +8,7 @@
   "detailed_description": "<h2 class=\"bb_tag\">Live the American Dream on your ranch in the USA!</h2><br>Professional Farmer: American Dream \u2013 the latest spin-off from the Professional Farmer series \u2013 takes you to a ranch set in the captivating landscapes of the Midwest. Surrounded by towering mountain ranges, build your dream as a rancher in America with lush fields as far as the eye can see!<br><br>Drive your pickup and tractors, tend to your cattle, cultivate your fields and reap your harvest! Take this opportunity to specialize in the flourishing American pumpkin business. Work with original equipment and milk that cash cow!<h2 class=\"bb_tag\">FEATURES</h2><ul class=\"bb_ul\"><li>Impressive surroundings inspired by the American Midwest<br></li><li>Tractors and machines faithful to the originals<br></li><li>Career mode with an extensive tutorial<br></li><li>Lots of types of grains and animals<br></li><li>Pumpkin farming \u2013 exclusive in Professional Farmer: American Dream<br></li><li>Visible field phases and dynamic soil</li></ul>",
   "about_the_game": "<h2 class=\"bb_tag\">Live the American Dream on your ranch in the USA!</h2><br>Professional Farmer: American Dream \u2013 the latest spin-off from the Professional Farmer series \u2013 takes you to a ranch set in the captivating landscapes of the Midwest. Surrounded by towering mountain ranges, build your dream as a rancher in America with lush fields as far as the eye can see!<br><br>Drive your pickup and tractors, tend to your cattle, cultivate your fields and reap your harvest! Take this opportunity to specialize in the flourishing American pumpkin business. Work with original equipment and milk that cash cow!<h2 class=\"bb_tag\">FEATURES</h2><ul class=\"bb_ul\"><li>Impressive surroundings inspired by the American Midwest<br></li><li>Tractors and machines faithful to the originals<br></li><li>Career mode with an extensive tutorial<br></li><li>Lots of types of grains and animals<br></li><li>Pumpkin farming \u2013 exclusive in Professional Farmer: American Dream<br></li><li>Visible field phases and dynamic soil</li></ul>",
   "short_description": "Professional Farmer: American Dream \u2013 the latest spin-off from the Professional Farmer series \u2013 takes you to a ranch set in the captivating landscapes of the Midwest.",
-  "supported_languages": "English, French, Italian, German, Spanish, Dutch, Polish, Hungarian",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Polish, Hungarian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/663250/header.jpg?t=1508409841",
   "website": null,
   "pc_requirements": {
@@ -27,8 +27,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1999,
-    "final": 1999,
-    "discount_percent": 0
+    "final": 999,
+    "discount_percent": 50,
+    "initial_formatted": "19,99\u20ac",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     188232
@@ -45,13 +47,13 @@
       "subs": [
         {
           "packageid": 188232,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Professional Farmer: American Dream - 19,99\u20ac",
+          "option_text": "Professional Farmer: American Dream - <span class=\"discount_original_price\">19,99\u20ac</span> 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1999
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -188,5 +190,9 @@
     "url": "",
     "email": "support@uieg.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/663250/page_bg_generated_v6b.jpg?t=1508409841"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/663250/page_bg_generated_v6b.jpg?t=1508409841",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -12,8 +12,8 @@
     "appid": "554620",
     "name": "Life is Strange: Before the Storm"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Portuguese-Brazil, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/704740/header.jpg?t=1515148666",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/704740/header.jpg?t=1536848815",
   "website": "http://www.lifeisstrange.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or above (64-bit Operating System Required)<br></li><li><strong>Processor:</strong> Intel Core i3-2100 (3.1GHz) or AMD Phenom X4 945 (3.0GHz)<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon R7 250 or NVIDIA Geforce GTX 650<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 14 GB available space<br></li><li><strong>Additional Notes:</strong> Please note that 32-bit operating systems will not be supported.</li></ul>",
@@ -23,10 +23,14 @@
   "linux_requirements": [],
   "legal_notice": "Life is Strange: Before the Storm \u00a9 2017 Square Enix Ltd. All Rights Reserved. LIFE IS STRANGE and LIFE IS STRANGE: BEFORE THE STORM are registered trademarks or trademarks of Square Enix Ltd.",
   "developers": [
-    "Deck Nine"
+    "Deck Nine",
+    "Feral Interactive (Mac)",
+    "Feral Interactive (Linux)"
   ],
   "publishers": [
-    "Square Enix"
+    "Square Enix",
+    "Feral Interactive (Mac)",
+    "Feral Interactive (Linux)"
   ],
   "packages": [
     203354
@@ -34,8 +38,8 @@
   "package_groups": [],
   "platforms": {
     "windows": true,
-    "mac": false,
-    "linux": false
+    "mac": true,
+    "linux": true
   },
   "categories": [
     {
@@ -76,28 +80,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_685ed8934bc7ae662a0d200cbdabef0ab843b122.600x338.jpg?t=1515148666",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_685ed8934bc7ae662a0d200cbdabef0ab843b122.1920x1080.jpg?t=1515148666"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_685ed8934bc7ae662a0d200cbdabef0ab843b122.600x338.jpg?t=1536848815",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_685ed8934bc7ae662a0d200cbdabef0ab843b122.1920x1080.jpg?t=1536848815"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_c0ce9ef98dac3d5f89feee18acdcb41e888ee3dc.600x338.jpg?t=1515148666",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_c0ce9ef98dac3d5f89feee18acdcb41e888ee3dc.1920x1080.jpg?t=1515148666"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_c0ce9ef98dac3d5f89feee18acdcb41e888ee3dc.600x338.jpg?t=1536848815",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_c0ce9ef98dac3d5f89feee18acdcb41e888ee3dc.1920x1080.jpg?t=1536848815"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_f07adf935f07dfc2d705dbbeb27049980fe236af.600x338.jpg?t=1515148666",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_f07adf935f07dfc2d705dbbeb27049980fe236af.1920x1080.jpg?t=1515148666"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_f07adf935f07dfc2d705dbbeb27049980fe236af.600x338.jpg?t=1536848815",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_f07adf935f07dfc2d705dbbeb27049980fe236af.1920x1080.jpg?t=1536848815"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_243dae23b56595dbdfcc95da174e99f38228e62a.600x338.jpg?t=1515148666",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_243dae23b56595dbdfcc95da174e99f38228e62a.1920x1080.jpg?t=1515148666"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_243dae23b56595dbdfcc95da174e99f38228e62a.600x338.jpg?t=1536848815",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_243dae23b56595dbdfcc95da174e99f38228e62a.1920x1080.jpg?t=1536848815"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_f0004fb171336a4fc56aa657e573cb0dd7cb0139.600x338.jpg?t=1515148666",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_f0004fb171336a4fc56aa657e573cb0dd7cb0139.1920x1080.jpg?t=1515148666"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_f0004fb171336a4fc56aa657e573cb0dd7cb0139.600x338.jpg?t=1536848815",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/704740/ss_f0004fb171336a4fc56aa657e573cb0dd7cb0139.1920x1080.jpg?t=1536848815"
     }
   ],
   "movies": [
@@ -113,7 +117,10 @@
     }
   ],
   "recommendations": {
-    "total": 173
+    "total": 182
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -123,5 +130,9 @@
     "url": "http://sqex.to/steamsupport",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/704740/page_bg_generated_v6b.jpg?t=1515148666"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/704740/page_bg_generated_v6b.jpg?t=1536848815",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

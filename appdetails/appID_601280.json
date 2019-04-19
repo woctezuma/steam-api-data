@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     157957
@@ -114,6 +116,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Feb, 2017"
@@ -122,5 +127,9 @@
     "url": "",
     "email": "villagestory@maserati.press"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/601280/page_bg_generated_v6b.jpg?t=1491666221"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/601280/page_bg_generated_v6b.jpg?t=1491666221",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

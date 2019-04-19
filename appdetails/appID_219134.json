@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "Includes:<br><ul class=\"bb_ul\"><li>Soundtrack <br></li><li>Making Of Video <br></li><li>Poster (printable) <br></li><li>Sticker templates (printable) <br></li><li>Postcards from Hell (printable)<br></li><li>Artbook</li></ul> Note: Digital Extras will be located at Program files -&gt; Steam -&gt; Steamapps -&gt; Common -&gt; Painkiller Hell &amp; Damnation -&gt; Digital extras",
   "about_the_game": "Includes:<br><ul class=\"bb_ul\"><li>Soundtrack <br></li><li>Making Of Video <br></li><li>Poster (printable) <br></li><li>Sticker templates (printable) <br></li><li>Postcards from Hell (printable)<br></li><li>Artbook</li></ul> Note: Digital Extras will be located at Program files -&gt; Steam -&gt; Steamapps -&gt; Common -&gt; Painkiller Hell &amp; Damnation -&gt; Digital extras",
-  "short_description": "",
+  "short_description": "Includes:Soundtrack Making Of Video Poster (printable) Sticker templates (printable) Postcards from Hell (printable)Artbook Note: Digital Extras will be located at Program files -&gt; Steam -&gt; Steamapps -&gt; Common -&gt; Painkiller Hell &amp; Damnation -&gt; Digital extras",
   "fullgame": {
     "appid": "214870",
     "name": "Painkiller Hell & Damnation"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong>, Czech, Hungarian, Japanese<strong>*</strong>, Polish<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Czech, Hungarian, Japanese<strong>*</strong>, Polish<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/219134/header.jpg?t=1471942939",
   "website": "http://www.painkillergame.com",
   "pc_requirements": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 1000,
     "final": 1000,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,--\u20ac"
   },
   "packages": [
     18606,
@@ -67,7 +69,7 @@
           "packageid": 17860,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Painkiller Hell and Damnation Collectors - 29,99\u20ac",
+          "option_text": "Painkiller Hell & Damnation Collectors - 29,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -144,6 +146,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/219134/ss_5f3f23c493e771a863726742df53302c700f8be4.1920x1080.jpg?t=1471942939"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": ""
@@ -152,5 +157,9 @@
     "url": "http://forums.steampowered.com/forums/forumdisplay.php?f=146",
     "email": "support@quanticlab.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/219134/page_bg_generated_v6b.jpg?t=1471942939"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/219134/page_bg_generated_v6b.jpg?t=1471942939",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

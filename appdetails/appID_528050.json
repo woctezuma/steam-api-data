@@ -12,12 +12,12 @@
     "appid": "429660",
     "name": "Tales of Berseria\u2122"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Portuguese-Brazil, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/528050/header.jpg?t=1489762474",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, 10 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core 2 Duo E8400 3.0GHz or AMD Phenom II X2 550, 3.1GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel Core i5-750, 2.66GHz or AMD Phenom II X4 965, 3.2GHz<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 15 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 11 compatible</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, 10 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core i5-750, 2.66GHz or AMD Phenom II X4 965, 3.2GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 560 or Radeon HD 7870<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 15 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 11 compatible</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7, 8, 10 (64-bit)<br></li><li><strong>Processeur\u00a0:</strong> Intel Core 2 Duo E8400 3.0GHz or AMD Phenom II X2 550, 3.1GHz<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> Intel Core i5-750, 2.66GHz or AMD Phenom II X4 965, 3.2GHz<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0c<br></li><li><strong>Espace disque\u00a0:</strong> 15 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> DirectX 11 compatible</li></ul>",
+    "recommended": "<strong>Recommand\u00e9e\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows 7, 8, 10 (64-bit)<br></li><li><strong>Processeur\u00a0:</strong> Intel Core i5-750, 2.66GHz or AMD Phenom II X4 965, 3.2GHz<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 4 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> GeForce GTX 560 or Radeon HD 7870<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0c<br></li><li><strong>Espace disque\u00a0:</strong> 15 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> DirectX 11 compatible</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     126719
@@ -122,6 +124,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528050/ss_f2a36d2ee5fecfa56e3a67c8b2e5a4359e41e21a.1920x1080.jpg?t=1489762474"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Jan, 2017"
@@ -130,5 +135,9 @@
     "url": "http://www.bandainamcoent.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/528050/page_bg_generated_v6b.jpg?t=1489762474"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/528050/page_bg_generated_v6b.jpg?t=1489762474",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

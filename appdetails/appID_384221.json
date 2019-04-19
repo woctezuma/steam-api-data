@@ -12,7 +12,7 @@
     "appid": "358090",
     "name": "D4: Dark Dreams Don\u2019t Die -Season One-"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese, Portuguese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Portuguese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/384221/header.jpg?t=1447376915",
   "website": "http://d4-game.com/pc/index.html",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     72279,
@@ -143,6 +145,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/384221/ss_28748e2b97047a4773289a2bc8a74a6cce9b4cb1.1920x1080.jpg?t=1447376915"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jul, 2015"
@@ -151,5 +156,11 @@
     "url": "http://playism-games.com/",
     "email": "support@cs.playism.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384221/page_bg_generated_v6b.jpg?t=1447376915"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384221/page_bg_generated_v6b.jpg?t=1447376915",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

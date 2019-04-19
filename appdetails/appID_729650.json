@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     212712
@@ -136,5 +138,9 @@
     "url": "morethanjustchess.com",
     "email": "support@morethanjustchess.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/729650/page_bg_generated_v6b.jpg?t=1509724297"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/729650/page_bg_generated_v6b.jpg?t=1509724297",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

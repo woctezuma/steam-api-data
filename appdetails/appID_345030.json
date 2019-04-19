@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1199,
-    "final": 1199,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     58963
@@ -45,11 +47,11 @@
           "packageid": 58963,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "3d Engineers - 11,99\u20ac",
+          "option_text": "3d Engineers - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1199
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -245,6 +247,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Oct, 2015"
@@ -253,5 +258,9 @@
     "url": "http://engineers.3dbridges.de/index.php/3decontact-eng",
     "email": "support.engineers@3dbridges.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/345030/page_bg_generated_v6b.jpg?t=1447367819"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/345030/page_bg_generated_v6b.jpg?t=1447367819",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

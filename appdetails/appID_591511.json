@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "",
   "about_the_game": "",
-  "short_description": "William Chyr is a physicist, game developer, balloon artists and juggler, and the creator of &quot;Manifold Garden.&quot; William describes it as a physics-based puzzle game about architecture and the first 100 years of physics. &quot;As if M.C. Escher made a video game.&quot;",
+  "short_description": "William Chyr is a physicist, game developer, balloon artists and juggler, and the creator of &quot;Manifold Garden.&quot; William describes it as a physics-based puzzle game about architecture and the first 100 years of physics. &quot;As if M.C. Escher made a video game.",
   "fullgame": {
     "appid": "591480",
     "name": "Stage of Development: Indie City"
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     153796
@@ -72,6 +74,9 @@
       "description": "Captions available"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Feb, 2017"
@@ -80,5 +85,9 @@
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

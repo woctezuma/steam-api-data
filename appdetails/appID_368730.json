@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     67026
@@ -184,7 +186,7 @@
     }
   ],
   "recommendations": {
-    "total": 1821
+    "total": 958
   },
   "achievements": {
     "total": 9,
@@ -235,5 +237,9 @@
     "url": "http://tinybuild.com",
     "email": "contact@tinybuildgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/368730/page_bg_generated_v6b.jpg?t=1500237679"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/368730/page_bg_generated_v6b.jpg?t=1500237679",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

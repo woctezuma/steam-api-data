@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\"> DLC - Crazy Sapper Classic mode</h2>This package adds new game mode &quot;Classic&quot;, in which Sapper do not need to pass through all minefield, but the goal is to open all mined on the field.<br>Airplane transports Sapper to any available spot on the minefield, and if player will win the level in bonus time - it will increase level scores. But Sapper has only 1 life, so its just one attempt and if failed player starts from the start again.<br><br>Available 3 difficulty modes:<br>Beginner - for easy play and training, minefield size 9x9;<br>Intermediate - for earning game money, minefield size 16x16;<br>Expert - the challenge for the real experts! Minefield size 16x30.<br><br>Enjoy your play!",
   "about_the_game": "<h2 class=\"bb_tag\"> DLC - Crazy Sapper Classic mode</h2>This package adds new game mode &quot;Classic&quot;, in which Sapper do not need to pass through all minefield, but the goal is to open all mined on the field.<br>Airplane transports Sapper to any available spot on the minefield, and if player will win the level in bonus time - it will increase level scores. But Sapper has only 1 life, so its just one attempt and if failed player starts from the start again.<br><br>Available 3 difficulty modes:<br>Beginner - for easy play and training, minefield size 9x9;<br>Intermediate - for earning game money, minefield size 16x16;<br>Expert - the challenge for the real experts! Minefield size 16x30.<br><br>Enjoy your play!",
-  "short_description": "<h2 class=\"bb_tag\"> DLC - Crazy Sapper Classic mode</h2><br>This package adds new game mode &quot;Classic&quot;, in which Sapper do not need to pass through all minefield, but the goal is to open all mined on the field.<br>Airplane transports Sapper to any available spot on the minefield, and if player will win the level in bonus time - it will increase level scores. But Sapper has only 1 life, so its just one attempt and if failed player starts from the start again.<br>Available 3 difficulty modes: Beginner, Intermediate and Expert.",
+  "short_description": "DLC - Crazy Sapper Classic modeThis package adds new game mode &quot;Classic&quot;, in which Sapper do not need to pass through all minefield, but the goal is to open all mined on the field.Airplane transports Sapper to any available spot on the minefield, and if player will win the level in bonus time - it will increase level scores.",
   "fullgame": {
     "appid": "529420",
     "name": "Crazy Sapper 3D"
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     129540
@@ -151,5 +153,9 @@
     "url": "http://crazysapper.aratog.com",
     "email": "feedback@crazysapper.aratog.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/534280/page_bg_generated_v6b.jpg?t=1478809866"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/534280/page_bg_generated_v6b.jpg?t=1478809866",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

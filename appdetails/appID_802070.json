@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 140,
+    "final": 140,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,40\u20ac"
   },
   "packages": [
     244121
@@ -45,11 +47,11 @@
           "packageid": 244121,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Cluster Dust - 1,99\u20ac",
+          "option_text": "Cluster Dust - 1,40\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 140
         }
       ]
     }
@@ -194,5 +196,9 @@
     "url": "https://www.megatroniclabs.com/cluster-dust",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/802070/page_bg_generated_v6b.jpg?t=1520994043"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/802070/page_bg_generated_v6b.jpg?t=1520994043",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

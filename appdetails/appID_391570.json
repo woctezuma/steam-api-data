@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     74785
@@ -95,7 +97,10 @@
     }
   ],
   "recommendations": {
-    "total": 1332
+    "total": 1369
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -105,5 +110,9 @@
     "url": "http://undertale.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/391570/page_bg_generated_v6b.jpg?t=1447377370"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/391570/page_bg_generated_v6b.jpg?t=1447377370",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

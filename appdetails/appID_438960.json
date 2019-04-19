@@ -12,7 +12,7 @@
     "appid": "322950",
     "name": "Pure Hold'em"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Arabic, Dutch, Japanese, Portuguese, Portuguese-Brazil, Russian, Simplified Chinese, Traditional Chinese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Dutch, Japanese, Portuguese, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/438960/header.jpg?t=1506938991",
   "website": "http://www.ripstone.com/pure-holdem.php",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     92592
@@ -144,13 +146,11 @@
       "id": 6,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/438960/ss_ffa27fb84324793f32515619e60c59bacd5639f5.600x338.jpg?t=1506938991",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/438960/ss_ffa27fb84324793f32515619e60c59bacd5639f5.1920x1080.jpg?t=1506938991"
-    },
-    {
-      "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/438960/?t=1506938991",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/438960/?t=1506938991"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Apr, 2017"
@@ -159,5 +159,9 @@
     "url": "",
     "email": "info@voofoostudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438960/page_bg_generated_v6b.jpg?t=1506938991"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/438960/page_bg_generated_v6b.jpg?t=1506938991",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

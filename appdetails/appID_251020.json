@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 1699,
     "final": 1699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "16,99\u20ac"
   },
   "packages": [
     30645
@@ -195,6 +197,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Jun, 2014"
@@ -203,5 +208,9 @@
     "url": "",
     "email": "support@railroad-x.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/251020/page_bg_generated_v6b.jpg?t=1447358628"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/251020/page_bg_generated_v6b.jpg?t=1447358628",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

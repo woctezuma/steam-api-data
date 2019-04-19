@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Unlock the tribal outfit for your main character!",
   "about_the_game": "Unlock the tribal outfit for your main character!",
-  "short_description": "",
+  "short_description": "Unlock the tribal outfit for your main character!",
   "fullgame": {
     "appid": "383080",
     "name": "Sakura Clicker"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     75210
@@ -97,6 +99,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/393023/ss_40fc2240da812759b2641688439cbc1913df1e74.1920x1080.jpg?t=1485965395"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Aug, 2015"
@@ -105,5 +110,12 @@
     "url": "",
     "email": "support@winged-cloud.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/393023/page_bg_generated_v6b.jpg?t=1485965395"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/393023/page_bg_generated_v6b.jpg?t=1485965395",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

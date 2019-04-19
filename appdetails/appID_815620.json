@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     249607
@@ -127,6 +129,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Mar, 2018"
@@ -135,5 +140,9 @@
     "url": "",
     "email": "support@fogbound.io"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/815620/page_bg_generated_v6b.jpg?t=1522372141"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/815620/page_bg_generated_v6b.jpg?t=1522372141",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

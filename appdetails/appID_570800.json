@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     144855
@@ -93,6 +95,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/570800/ss_5262c463dab47a5f6fc47289fbd66790e223d272.1920x1080.jpg?t=1482361972"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Dec, 2016"
@@ -101,5 +106,9 @@
     "url": "",
     "email": "support@sekaiproject.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/570800/page_bg_generated_v6b.jpg?t=1482361972"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/570800/page_bg_generated_v6b.jpg?t=1482361972",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

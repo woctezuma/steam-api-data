@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The Variations Pack offers ALL the color variations for these 12 Advanced units:<br><br><ul class=\"bb_ul\"><li>Skystriker<br></li><li>Siege Archer<br></li><li>Bowmaster<br></li><li>Backbiter<br></li><li>Thrasher<br></li><li>Raidmaster<br></li><li>Warhawk<br></li><li>Warleader<br></li><li>Warmaster<br></li><li>Provoker<br></li><li>Strongarm<br></li><li>Shieldmaster</li></ul>",
   "about_the_game": "The Variations Pack offers ALL the color variations for these 12 Advanced units:<br><br><ul class=\"bb_ul\"><li>Skystriker<br></li><li>Siege Archer<br></li><li>Bowmaster<br></li><li>Backbiter<br></li><li>Thrasher<br></li><li>Raidmaster<br></li><li>Warhawk<br></li><li>Warleader<br></li><li>Warmaster<br></li><li>Provoker<br></li><li>Strongarm<br></li><li>Shieldmaster</li></ul>",
-  "short_description": "",
+  "short_description": "The Variations Pack offers ALL the color variations for these 12 Advanced units:SkystrikerSiege ArcherBowmasterBackbiterThrasherRaidmasterWarhawkWarleaderWarmasterProvokerStrongarmShieldmaster",
   "fullgame": {
     "appid": "219340",
     "name": "The Banner Saga: Factions"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     27100
@@ -160,6 +162,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/234023/ss_9f9ed4567a2dee846b3e8f65321efe292bab149c.1920x1080.jpg?t=1478029569"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Apr, 2013"
@@ -168,5 +173,9 @@
     "url": "https://stoicstudio.com/forum",
     "email": "community@stoicstudio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/234023/page_bg_generated_v6b.jpg?t=1478029569"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/234023/page_bg_generated_v6b.jpg?t=1478029569",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -29,10 +29,12 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    "58636"
+    58636
   ],
   "package_groups": [
     {
@@ -45,7 +47,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "58636",
+          "packageid": 58636,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Dino D-Day Comic - Issue #1 - 0,99\u20ac",
@@ -118,6 +120,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/344290/ss_1ea6bd98ad59a8203f8cf0eb92ae86fd4d234c62.1920x1080.jpg?t=1447367670"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Jan, 2015"
@@ -126,5 +131,9 @@
     "url": "http://www.dinodday.com/?page_id=5",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/344290/page_bg_generated_v6b.jpg?t=1447367670"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/344290/page_bg_generated_v6b.jpg?t=1447367670",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

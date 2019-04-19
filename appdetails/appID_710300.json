@@ -11,7 +11,7 @@
     "appid": "553210",
     "name": "Warhammer 40,000: Space Wolf"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Russian, Korean, Japanese, Simplified Chinese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian, Korean, Japanese, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/710300/header.jpg?t=1517929440",
   "website": "http://www.herocraft.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     205338
@@ -137,6 +139,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/710300/ss_919357dfe0d288f10820b005f6799ffcc4843223.1920x1080.jpg?t=1517929440"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Sep, 2017"
@@ -145,5 +150,9 @@
     "url": "",
     "email": "support@herocraft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/710300/page_bg_generated_v6b.jpg?t=1517929440"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/710300/page_bg_generated_v6b.jpg?t=1517929440",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

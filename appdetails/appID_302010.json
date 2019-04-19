@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     44404
@@ -65,7 +67,7 @@
   },
   "metacritic": {
     "score": 55,
-    "url": "http://www.metacritic.com/game/pc/the-blue-flamingo?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/the-blue-flamingo?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -149,9 +151,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 529
-  },
   "achievements": {
     "total": 0
   },
@@ -163,5 +162,9 @@
     "url": "http://mightanddelight.com/",
     "email": "contact@mightanddelight.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/302010/page_bg_generated_v6b.jpg?t=1447361923"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/302010/page_bg_generated_v6b.jpg?t=1447361923",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

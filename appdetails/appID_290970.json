@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     40802,
@@ -181,7 +183,7 @@
     }
   ],
   "recommendations": {
-    "total": 265
+    "total": 187
   },
   "achievements": {
     "total": 28,
@@ -236,5 +238,9 @@
     "url": "",
     "email": "support@somasim.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/290970/page_bg_generated_v6b.jpg?t=1447361058"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/290970/page_bg_generated_v6b.jpg?t=1447361058",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

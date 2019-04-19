@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Secret of Magia is an action RPG.<br />\r\n<br />\r\nA ruthless tyrant is seizing control of village after village.  Rather than prepare for this threat, your town's elders have decided to ignore it.  <br />\r\n<br />\r\nYour story begins as your town is under siege by the tyrant's supernatural soldiers.  As your friends are struck down, you flee into the forest with the few possessions you can carry.  So your journey begins.  <br />\r\n<br />\r\nAs you venture out into the world, you'll earn powers and skills.  You'll uncover hidden dungeons that house elementally-charged weapons.  Although you'll start a weakling, with the right combination of skill and luck, you'll return to your village a powerful and confident warrior, ready to take on the ultimate evil.  <br />\r\n<br />\r\nExplore a huge world, level up, and gain the strength to free your people from the tyrant's grasp.",
   "about_the_game": "Secret of Magia is an action RPG.<br />\r\n<br />\r\nA ruthless tyrant is seizing control of village after village.  Rather than prepare for this threat, your town's elders have decided to ignore it.  <br />\r\n<br />\r\nYour story begins as your town is under siege by the tyrant's supernatural soldiers.  As your friends are struck down, you flee into the forest with the few possessions you can carry.  So your journey begins.  <br />\r\n<br />\r\nAs you venture out into the world, you'll earn powers and skills.  You'll uncover hidden dungeons that house elementally-charged weapons.  Although you'll start a weakling, with the right combination of skill and luck, you'll return to your village a powerful and confident warrior, ready to take on the ultimate evil.  <br />\r\n<br />\r\nExplore a huge world, level up, and gain the strength to free your people from the tyrant's grasp.",
-  "short_description": "Secret of Magia is an action RPG.<br />\r\nExplore a huge world and free your people from the tyranny of an evil, supernatural dictator.",
+  "short_description": "Secret of Magia is an action RPG. Explore a huge world and free your people from the tyranny of an evil, supernatural dictator.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/396160/header.jpg?t=1497917188",
   "website": null,
@@ -22,8 +22,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 61,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     76236,
@@ -41,13 +43,13 @@
       "subs": [
         {
           "packageid": 76236,
-          "percent_savings_text": "",
+          "percent_savings_text": "-61%",
           "percent_savings": 0,
-          "option_text": "Secret Of Magia - 0,99\u20ac",
+          "option_text": "Secret Of Magia - <span class=\"discount_original_price\">0,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 39
         },
         {
           "packageid": 82862,
@@ -151,7 +153,7 @@
     }
   ],
   "recommendations": {
-    "total": 626
+    "total": 548
   },
   "achievements": {
     "total": 5,
@@ -186,5 +188,9 @@
     "url": "",
     "email": "ian@ip-builders.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396160/page_bg_generated_v6b.jpg?t=1497917188"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396160/page_bg_generated_v6b.jpg?t=1497917188",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

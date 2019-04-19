@@ -10,9 +10,9 @@
   "short_description": "The Munich to Augsburg line is a fantastic German high-speed railway line for Train Simulator, complete with ICE 3 high-speed trains.",
   "fullgame": {
     "appid": "24010",
-    "name": "Train Simulator"
+    "name": "Train Simulator 2019"
   },
-  "supported_languages": "English, German, French, Spanish, Polish, Russian",
+  "supported_languages": "English, German, French, Spanish - Spain, Polish, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/208288/header.jpg?t=1520955200",
   "website": "http://www.train-simulator.com",
   "pc_requirements": {
@@ -32,11 +32,12 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     18023,
-    222980,
     35049,
     46129
   ],
@@ -59,16 +60,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 1999
-        },
-        {
-          "packageid": 222980,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "TS German Classics Edition - 22,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2299
         },
         {
           "packageid": 35049,
@@ -202,6 +193,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/208288/ss_91e40ef2eea553c82a7af60c5919ba458b413a76.1920x1080.jpg?t=1520955200"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Oct, 2012"
@@ -210,5 +204,9 @@
     "url": "http://www.railsimulator.com/support.php",
     "email": "support@railsimulator.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/208288/page_bg_generated_v6b.jpg?t=1520955200"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/208288/page_bg_generated_v6b.jpg?t=1520955200",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

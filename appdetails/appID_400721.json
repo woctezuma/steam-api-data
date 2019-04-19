@@ -12,7 +12,7 @@
     "appid": "287840",
     "name": "TY the Tasmanian Tiger 4"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Japanese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/400721/header.jpg?t=1447377850",
   "website": "http://www.kromestudios.com/TY/",
   "pc_requirements": {
@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1999,
-    "final": 1999,
-    "discount_percent": 0
+    "initial": 1849,
+    "final": 1849,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "18,49\u20ac"
   },
   "packages": [
     77772
@@ -51,11 +53,11 @@
           "packageid": 77772,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TY the Tasmanian Tiger 4 - The Soundtrack Collection - 19,99\u20ac",
+          "option_text": "TY the Tasmanian Tiger 4 - The Soundtrack Collection - 18,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1999
+          "price_in_cents_with_discount": 1849
         }
       ]
     }
@@ -143,6 +145,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Sep, 2015"
@@ -151,5 +156,9 @@
     "url": "http://www.kromestudios.com/TY/",
     "email": "support@kromestudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/400721/page_bg_generated_v6b.jpg?t=1447377850"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/400721/page_bg_generated_v6b.jpg?t=1447377850",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

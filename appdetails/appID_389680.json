@@ -25,12 +25,14 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 149,
+    "discount_percent": 70,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "1,49\u20ac"
   },
   "packages": [
     73993,
-    "75193"
+    75193
   ],
   "package_groups": [
     {
@@ -44,23 +46,23 @@
       "subs": [
         {
           "packageid": 73993,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Luxury Hotel Emporium - 4,99\u20ac",
+          "option_text": "Luxury Hotel Emporium - <span class=\"discount_original_price\">4,99\u20ac</span> 1,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 149
         },
         {
-          "packageid": "75193",
-          "percent_savings_text": "",
+          "packageid": 75193,
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Emporium Pack - 7,99\u20ac",
+          "option_text": "Emporium Pack - <span class=\"discount_original_price\">7,99\u20ac</span> 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -140,6 +142,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Aug, 2015"
@@ -148,5 +153,9 @@
     "url": "http://www.uieg.de",
     "email": "support@uieg.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389680/page_bg_generated_v6b.jpg?t=1447377239"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389680/page_bg_generated_v6b.jpg?t=1447377239",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

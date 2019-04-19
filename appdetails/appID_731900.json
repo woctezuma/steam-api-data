@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<strong>\u300aClassical Rewrite\u300bis a additional song pack.<br>You can preview this song pack in game first before purchasing!</strong><br><br>Following songs are included:<br><br>1.Pathetique Sonata<br>2.Demon Bullfighting<br>3.Turkey March<br><br>Really classic!",
   "about_the_game": "<strong>\u300aClassical Rewrite\u300bis a additional song pack.<br>You can preview this song pack in game first before purchasing!</strong><br><br>Following songs are included:<br><br>1.Pathetique Sonata<br>2.Demon Bullfighting<br>3.Turkey March<br><br>Really classic!",
-  "short_description": "Following songs are included:<br />\r\n<br />\r\n1.Pathetique Sonata<br />\r\n2.Demon Bullfighting<br />\r\n3.Turkey March<br />\r\n<br />\r\nReally classic!",
+  "short_description": "Following songs are included: 1.Pathetique Sonata 2.Demon Bullfighting 3.Turkey March Really classic!",
   "fullgame": {
     "appid": "705150",
     "name": "Rhythm World - Master Project"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     213543
@@ -114,5 +116,9 @@
     "url": "",
     "email": "kgstation@live.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/731900/page_bg_generated_v6b.jpg?t=1517387049"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/731900/page_bg_generated_v6b.jpg?t=1517387049",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

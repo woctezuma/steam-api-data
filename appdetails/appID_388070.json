@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     73459
@@ -201,5 +203,9 @@
     "url": "http://pc.antisquad.com/site/support",
     "email": "info@insgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/388070/page_bg_generated_v6b.jpg?t=1447377148"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/388070/page_bg_generated_v6b.jpg?t=1447377148",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

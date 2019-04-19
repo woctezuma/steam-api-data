@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Composer Ace brings you these exciting tunes from Code of Princess!<br>It includes character theme songs, stage and boss background music, with 34 tracks in all!<h2 class=\"bb_tag\">Track List:</h2><strong>Disk1</strong> <br> 1. Code of Princess (Main Theme)<br> 2. Gather the Lights (Opening Song)<br> 3. The Holy Princess (Solange's Theme)<br> 4. While on a Journey<br> 5. There's Nothing That Can't Be Stolen (Ali's Theme)<br> 6. The Terrifying Liongate (Liongate's Theme)<br> 7. Dark Queen Distiny (Distiny's Theme)<br> 8. Come See My Discounts! (Maruneko Shop)<br> 9. Decapitate! Tsukikage! (Tsukikage's Theme)<br>10. The Amazing Mr. T! (Mr. T's Theme)<br>11. Cool Ninja Squad (Baku's Theme)<br>12. We Are the Ali Baba Group! (Ali Baba Group's Theme)<br>13. The Little Great Wizard Alchemia (Cocoa's Theme)<br>14. Shall I Curse You? (Zozo's Theme)<br>15. Call Me Sister Hel (Sister Hel's Theme)<br>16. Now It's For Real!<br>17. Fallen Angel's Revival (Distille's Theme)<br><br><strong>Disk2</strong><br> 1. Your Smile<br> 2. Now I'm Angry!<br> 3. Sobbing Reality<br> 4. Almost a Sage (Allegro's Theme Dokonjo)<br> 5. The Meaning of Tears<br> 6. Memories of the Courtyard<br> 7. Ah My Love!<br> 8. Everyday life <br> 9. Determination of Sorrow<br>10. Adventure and Party<br>11. Tower of Wrenne<br>12. Almost a Sage (Allegro's Theme, Steady Advance)<br>13. Level Up<br>14. Game Over<br>15. Quest Clear<br>16. The Holy Princess (Gt Version)<br>17. Holy Death Strike of Slaughter",
   "about_the_game": "Composer Ace brings you these exciting tunes from Code of Princess!<br>It includes character theme songs, stage and boss background music, with 34 tracks in all!<h2 class=\"bb_tag\">Track List:</h2><strong>Disk1</strong> <br> 1. Code of Princess (Main Theme)<br> 2. Gather the Lights (Opening Song)<br> 3. The Holy Princess (Solange's Theme)<br> 4. While on a Journey<br> 5. There's Nothing That Can't Be Stolen (Ali's Theme)<br> 6. The Terrifying Liongate (Liongate's Theme)<br> 7. Dark Queen Distiny (Distiny's Theme)<br> 8. Come See My Discounts! (Maruneko Shop)<br> 9. Decapitate! Tsukikage! (Tsukikage's Theme)<br>10. The Amazing Mr. T! (Mr. T's Theme)<br>11. Cool Ninja Squad (Baku's Theme)<br>12. We Are the Ali Baba Group! (Ali Baba Group's Theme)<br>13. The Little Great Wizard Alchemia (Cocoa's Theme)<br>14. Shall I Curse You? (Zozo's Theme)<br>15. Call Me Sister Hel (Sister Hel's Theme)<br>16. Now It's For Real!<br>17. Fallen Angel's Revival (Distille's Theme)<br><br><strong>Disk2</strong><br> 1. Your Smile<br> 2. Now I'm Angry!<br> 3. Sobbing Reality<br> 4. Almost a Sage (Allegro's Theme Dokonjo)<br> 5. The Meaning of Tears<br> 6. Memories of the Courtyard<br> 7. Ah My Love!<br> 8. Everyday life <br> 9. Determination of Sorrow<br>10. Adventure and Party<br>11. Tower of Wrenne<br>12. Almost a Sage (Allegro's Theme, Steady Advance)<br>13. Level Up<br>14. Game Over<br>15. Quest Clear<br>16. The Holy Princess (Gt Version)<br>17. Holy Death Strike of Slaughter",
-  "short_description": "Composer Ace brings you these exciting tunes from Code of Princess!<br />\r\nIt includes character theme songs, stage and boss background music, with 34 tracks in all!",
+  "short_description": "Composer Ace brings you these exciting tunes from Code of Princess! It includes character theme songs, stage and boss background music, with 34 tracks in all!",
   "fullgame": {
     "appid": "408640",
     "name": "Code of Princess"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     104461
@@ -135,6 +137,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Sep, 2016"
@@ -143,5 +148,9 @@
     "url": "http://degigames.com/support",
     "email": "games@degica.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/471870/page_bg_generated_v6b.jpg?t=1474067422"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/471870/page_bg_generated_v6b.jpg?t=1474067422",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

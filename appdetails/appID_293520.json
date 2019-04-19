@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     41515
@@ -142,7 +144,7 @@
     }
   ],
   "recommendations": {
-    "total": 458
+    "total": 405
   },
   "achievements": {
     "total": 12,
@@ -197,5 +199,9 @@
     "url": "",
     "email": "support@digitaldreamsent.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/293520/page_bg_generated_v6b.jpg?t=1447361245"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/293520/page_bg_generated_v6b.jpg?t=1447361245",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

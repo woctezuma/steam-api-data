@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Mini Golf Mundo</strong> is a fun casual game suitable to players of all ages and experience levels. Your task is to Putt the ball to victory across 4 challenging courses with a total of 72 holes to complete. You can choose to play alone or invite friends and family to partake in a 4-player turn-based tournament. <br><br>Rookies may Tee off in the Woodland Falls to learn the basics, and progress to the Highland Hills, the Springwater Valley and the Meadowland Plains, the most difficult of courses. Experienced players may opt to play any course of their choice. Crazy obstacles such as fans, warp holes, bouncing pads  and jumping fish add to the fun, and only the best players get a hole-in-one. We keep the score, you do the golfing!<h2 class=\"bb_tag\"><strong>Key Features:</strong></h2><ul class=\"bb_ul\"><li>4 Challenging courses with varying difficulty <br></li><li>72 holes to play<br></li><li>Single- and Multi-player gameplay<br></li><li>Fun and crazy obstacles to avoid</li></ul>",
   "about_the_game": "<strong>Mini Golf Mundo</strong> is a fun casual game suitable to players of all ages and experience levels. Your task is to Putt the ball to victory across 4 challenging courses with a total of 72 holes to complete. You can choose to play alone or invite friends and family to partake in a 4-player turn-based tournament. <br><br>Rookies may Tee off in the Woodland Falls to learn the basics, and progress to the Highland Hills, the Springwater Valley and the Meadowland Plains, the most difficult of courses. Experienced players may opt to play any course of their choice. Crazy obstacles such as fans, warp holes, bouncing pads  and jumping fish add to the fun, and only the best players get a hole-in-one. We keep the score, you do the golfing!<h2 class=\"bb_tag\"><strong>Key Features:</strong></h2><ul class=\"bb_ul\"><li>4 Challenging courses with varying difficulty <br></li><li>72 holes to play<br></li><li>Single- and Multi-player gameplay<br></li><li>Fun and crazy obstacles to avoid</li></ul>",
-  "short_description": "<strong>Mini Golf Mundo</strong> is a fun casual game suitable to players of all ages and experience levels. Your task is to Putt the ball to victory across 4 challenging courses with a total of 72 holes to complete. You can choose to play alone or invite friends and family to partake in a 4-player turn-based tournament.",
+  "short_description": "Mini Golf Mundo is a fun casual game suitable to players of all ages and experience levels. Your task is to Putt the ball to victory across 4 challenging courses with a total of 72 holes to complete. You can choose to play alone or invite friends and family to partake in a 4-player turn-based tournament.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/468320/header.jpg?t=1478754029",
   "website": "http://www.ensenasoft.com",
@@ -25,12 +25,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
-    103267
+    103267,
+    269933
   ],
   "package_groups": [
     {
@@ -46,11 +49,21 @@
           "packageid": 103267,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Mini Golf Mundo - 4,99\u20ac",
+          "option_text": "Mini Golf Mundo - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 239
+        },
+        {
+          "packageid": 269933,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Mini Golf Mundo - Commercial License - 3,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -115,8 +128,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 115
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -126,5 +139,9 @@
     "url": "http://www.ensenasoft.com",
     "email": "support@ensenasoft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/468320/page_bg_generated_v6b.jpg?t=1478754029"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/468320/page_bg_generated_v6b.jpg?t=1478754029",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 3999,
     "final": 3999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "39,99\u20ac"
   },
   "packages": [
     127186
@@ -172,5 +174,9 @@
     "url": "",
     "email": "support@virtualo.org"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/529020/page_bg_generated_v6b.jpg?t=1517493145"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/529020/page_bg_generated_v6b.jpg?t=1517493145",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

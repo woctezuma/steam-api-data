@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     188667
@@ -132,5 +134,9 @@
     "url": "https://holomeld.com",
     "email": "support@holomeld.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/647790/page_bg_generated_v6b.jpg?t=1505928999"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/647790/page_bg_generated_v6b.jpg?t=1505928999",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "This map pack adds three action packed levels to your game!<br><ul class=\"bb_ul\"><li><strong>Chasm</strong><br><br>The Chasm was going to be a hub of transport and mining operations. The plan was to create thousands of new jobs and strengthen the living standards of the people of Elysion One. The Chasm was a good sign of a great future for humanity but nowadays it's abandoned. Half-built transport roads and mining stations stand lonely while Skye prepares for the marauding hordes.<br></li><li><strong>Invasion</strong><br><br>Ever since the bioluminescent aliens first attacked, the military has been trying to find a way to unburden the Core Guardians. Some locations are not as important to defend as others, after all. That\u2019s why they set up research centers/factories to create robots... or \u201cSimulated Motor-Humans\u201d with fancy words. How the aliens got there is uncertain. How they knew to attack there is worrying, to say the least.<br></li><li><strong>Corporation</strong><br><br>The defenses that are used by Elysion One are not, as one would think, made by the military. They are made by a private Corporation called Automagic, Inc. Normally Corporations place their offices inside the walls of Elysion One where they\u2019re safe from assorted alien attacks. If you are the producer of the defenses, though, you get a few perks. One is that you can have your offices wherever you want! The second one is, well, you have Core Guardians on Speed Dial.</li></ul>",
   "about_the_game": "This map pack adds three action packed levels to your game!<br><ul class=\"bb_ul\"><li><strong>Chasm</strong><br><br>The Chasm was going to be a hub of transport and mining operations. The plan was to create thousands of new jobs and strengthen the living standards of the people of Elysion One. The Chasm was a good sign of a great future for humanity but nowadays it's abandoned. Half-built transport roads and mining stations stand lonely while Skye prepares for the marauding hordes.<br></li><li><strong>Invasion</strong><br><br>Ever since the bioluminescent aliens first attacked, the military has been trying to find a way to unburden the Core Guardians. Some locations are not as important to defend as others, after all. That\u2019s why they set up research centers/factories to create robots... or \u201cSimulated Motor-Humans\u201d with fancy words. How the aliens got there is uncertain. How they knew to attack there is worrying, to say the least.<br></li><li><strong>Corporation</strong><br><br>The defenses that are used by Elysion One are not, as one would think, made by the military. They are made by a private Corporation called Automagic, Inc. Normally Corporations place their offices inside the walls of Elysion One where they\u2019re safe from assorted alien attacks. If you are the producer of the defenses, though, you get a few perks. One is that you can have your offices wherever you want! The second one is, well, you have Core Guardians on Speed Dial.</li></ul>",
-  "short_description": "",
+  "short_description": "This map pack adds three action packed levels to your game!ChasmThe Chasm was going to be a hub of transport and mining operations. The plan was to create thousands of new jobs and strengthen the living standards of the people of Elysion One. The Chasm was a good sign of a great future for humanity but nowadays it's abandoned.",
   "fullgame": {
     "appid": "91600",
     "name": "Sanctum"
   },
-  "supported_languages": "English, German, French, Italian, Spanish, Russian, Japanese, Polish, Dutch, Swedish, Turkish",
+  "supported_languages": "English, German, French, Italian, Spanish - Spain, Russian, Japanese, Polish, Dutch, Swedish, Turkish",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/91618/header.jpg?t=1501884660",
   "website": "http://www.sanctumgame.com",
   "pc_requirements": {
@@ -32,8 +32,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 249,
-    "discount_percent": 50
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     17063
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 17063,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Sanctum: Map Pack 2 - <span class=\"discount_original_price\">4,99\u20ac</span> 2,49\u20ac",
+          "option_text": "Sanctum: Map Pack 2 - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 249
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -161,6 +163,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Oct, 2012"
@@ -169,5 +174,9 @@
     "url": "",
     "email": "support@coffeestain.se"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/91618/page_bg_generated_v6b.jpg?t=1501884660"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/91618/page_bg_generated_v6b.jpg?t=1501884660",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

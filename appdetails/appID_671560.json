@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 349,
+    "final": 349,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,49\u20ac"
   },
   "packages": [
     191113
@@ -45,11 +47,11 @@
           "packageid": 191113,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Iggy's Zombie A-Pug-Alypse - 3,99\u20ac",
+          "option_text": "Iggy's Zombie A-Pug-Alypse - 3,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 349
         }
       ]
     }
@@ -183,5 +185,9 @@
     "url": "https://16swans.wordpress.com/",
     "email": "seandellis@hotmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/671560/page_bg_generated_v6b.jpg?t=1506112458"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/671560/page_bg_generated_v6b.jpg?t=1506112458",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

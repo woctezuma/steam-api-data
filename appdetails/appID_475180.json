@@ -11,8 +11,8 @@
     "appid": "359320",
     "name": "Elite Dangerous"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Russian, Spanish<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/475180/header.jpg?t=1474966756",
+  "supported_languages": "English<strong>*</strong>, French, German, Russian, Spanish - Spain<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/475180/header.jpg?t=1524749629",
   "website": "http://www.elitedangerous.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8<br></li><li><strong>Processor:</strong> Quad Core CPU (4 x 2Ghz)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 260 / ATI 4870HD<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 7 GB available space</li></ul>",
@@ -34,11 +34,13 @@
     "currency": "EUR",
     "initial": 1000,
     "final": 1000,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,--\u20ac"
   },
   "packages": [
     105635,
-    105710
+    268720
   ],
   "package_groups": [
     {
@@ -61,7 +63,7 @@
           "price_in_cents_with_discount": 1000
         },
         {
-          "packageid": 105710,
+          "packageid": 268720,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Elite Dangerous: Commander Deluxe Edition - 49,99\u20ac",
@@ -75,7 +77,7 @@
   ],
   "platforms": {
     "windows": true,
-    "mac": true,
+    "mac": false,
     "linux": false
   },
   "categories": [
@@ -137,27 +139,30 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_4f9e82824d538d095368e149c801f660601c89e2.600x338.jpg?t=1474966756",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_4f9e82824d538d095368e149c801f660601c89e2.1920x1080.jpg?t=1474966756"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_4f9e82824d538d095368e149c801f660601c89e2.600x338.jpg?t=1524749629",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_4f9e82824d538d095368e149c801f660601c89e2.1920x1080.jpg?t=1524749629"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_8e7c1a1d3184c23bb516885042502ecde125b810.600x338.jpg?t=1474966756",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_8e7c1a1d3184c23bb516885042502ecde125b810.1920x1080.jpg?t=1474966756"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_8e7c1a1d3184c23bb516885042502ecde125b810.600x338.jpg?t=1524749629",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_8e7c1a1d3184c23bb516885042502ecde125b810.1920x1080.jpg?t=1524749629"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_ad4f2de03e51432563aace2a54622079aef45a6d.600x338.jpg?t=1474966756",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_ad4f2de03e51432563aace2a54622079aef45a6d.1920x1080.jpg?t=1474966756"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_ad4f2de03e51432563aace2a54622079aef45a6d.600x338.jpg?t=1524749629",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_ad4f2de03e51432563aace2a54622079aef45a6d.1920x1080.jpg?t=1524749629"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_fadbd6d4a3fb7120d9c7d31f1714eb4d975fda63.600x338.jpg?t=1474966756",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_fadbd6d4a3fb7120d9c7d31f1714eb4d975fda63.1920x1080.jpg?t=1474966756"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_fadbd6d4a3fb7120d9c7d31f1714eb4d975fda63.600x338.jpg?t=1524749629",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/475180/ss_fadbd6d4a3fb7120d9c7d31f1714eb4d975fda63.1920x1080.jpg?t=1524749629"
     }
   ],
   "recommendations": {
-    "total": 186
+    "total": 244
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -167,5 +172,9 @@
     "url": "https://support.elitedangerous.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/475180/page_bg_generated_v6b.jpg?t=1474966756"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/475180/page_bg_generated_v6b.jpg?t=1524749629",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

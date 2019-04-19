@@ -25,12 +25,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 2299,
-    "final": 2299,
-    "discount_percent": 0
+    "initial": 1079,
+    "final": 1079,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,79\u20ac"
   },
   "packages": [
-    166780
+    166780,
+    264693
   ],
   "package_groups": [
     {
@@ -46,11 +49,32 @@
           "packageid": 166780,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Big Hit VR Baseball - 22,99\u20ac",
+          "option_text": "Big Hit VR Baseball - 10,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2299
+          "price_in_cents_with_discount": 1079
+        }
+      ]
+    },
+    {
+      "name": "subscriptions",
+      "title": "Buy Big Hit VR Baseball Subscription Plan",
+      "description": "To be billed on a recurring basis.",
+      "selection_text": "Select a subscription plan",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "true",
+      "subs": [
+        {
+          "packageid": 264693,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "1 Month(s) @ 20,99\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">20,99\u20ac at checkout, auto-renewed every 1 month(s) at 20,99\u20ac.</p>",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 2099
         }
       ]
     }
@@ -195,5 +219,9 @@
     "url": "",
     "email": "support@bighit.games"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620800/page_bg_generated_v6b.jpg?t=1495050625"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620800/page_bg_generated_v6b.jpg?t=1495050625",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

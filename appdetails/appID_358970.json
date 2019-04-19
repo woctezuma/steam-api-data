@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     63847,
@@ -131,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/358970/ss_2c8c7232cb6ef414b8b2326010194d25e53f2ea2.1920x1080.jpg?t=1490382685"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Mar, 2015"
@@ -139,5 +144,9 @@
     "url": "",
     "email": "help@owlchemylabs.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/358970/page_bg_generated_v6b.jpg?t=1490382685"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/358970/page_bg_generated_v6b.jpg?t=1490382685",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

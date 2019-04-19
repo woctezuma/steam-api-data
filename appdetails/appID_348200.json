@@ -16,7 +16,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "Copyright (c) Angelo Geels 2013 - 2016<br>Copyright (c) Nimble Tools 2014 - 2016<br><br>Partial (modified) artwork used is licensed <a href=\"https://steamcommunity.com/linkfilter/?url=https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"noopener\"  >CC-BY</a></a>: <a href=\"https://steamcommunity.com/linkfilter/?url=https://github.com/google/material-design-icons\" target=\"_blank\" rel=\"noopener\"  >material-design-icons</a></a> by Google",
+  "legal_notice": "Copyright (c) Angelo Geels 2013 - 2016<br>Copyright (c) Nimble Tools 2014 - 2016<br><br>Partial (modified) artwork used is licensed <a href=\"https://steamcommunity.com/linkfilter/?url=https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"noopener\"  >CC-BY</a>: <a href=\"https://steamcommunity.com/linkfilter/?url=https://github.com/google/material-design-icons\" target=\"_blank\" rel=\"noopener\"  >material-design-icons</a> by Google",
   "developers": [
     "Nimble Tools"
   ],
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     60046
@@ -142,7 +144,7 @@
     }
   ],
   "recommendations": {
-    "total": 243
+    "total": 257
   },
   "achievements": {
     "total": 17,
@@ -197,5 +199,9 @@
     "url": "https://nimble.tools/writer",
     "email": "angelo@nimble.tools"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/348200/page_bg_generated_v6b.jpg?t=1453051168"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/348200/page_bg_generated_v6b.jpg?t=1453051168",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

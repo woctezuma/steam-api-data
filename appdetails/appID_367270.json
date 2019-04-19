@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 1799,
     "final": 1799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "17,99\u20ac"
   },
   "packages": [
     66526
@@ -208,7 +210,7 @@
     }
   ],
   "recommendations": {
-    "total": 1555
+    "total": 1773
   },
   "achievements": {
     "total": 0
@@ -221,5 +223,9 @@
     "url": "http://www.strangelyinteractive.com",
     "email": "info@strangelyinteractive.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367270/page_bg_generated_v6b.jpg?t=1519520415"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367270/page_bg_generated_v6b.jpg?t=1519520415",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

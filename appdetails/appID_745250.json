@@ -36,9 +36,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     218650
@@ -57,11 +59,11 @@
           "packageid": 218650,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "YAPP: Yet Another Puzzle Platformer - 1,99\u20ac",
+          "option_text": "YAPP: Yet Another Puzzle Platformer - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -179,5 +181,9 @@
     "url": "",
     "email": "wanweishanren@sina.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/745250/page_bg_generated_v6b.jpg?t=1520516748"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/745250/page_bg_generated_v6b.jpg?t=1520516748",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

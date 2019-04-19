@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\">Note</h2><br>This downloadable content is used for donation purposes only and does not actually add anything to Borderless Gaming.",
   "about_the_game": "<h2 class=\"bb_tag\">Note</h2><br>This downloadable content is used for donation purposes only and does not actually add anything to Borderless Gaming.",
-  "short_description": "",
+  "short_description": "NoteThis downloadable content is used for donation purposes only and does not actually add anything to Borderless Gaming.",
   "fullgame": {
     "appid": "388080",
     "name": "Borderless Gaming"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     75396
@@ -99,5 +101,9 @@
     "url": "andrew.im",
     "email": "andrew@codeusa523.org"
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

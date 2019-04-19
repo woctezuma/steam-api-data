@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 2499,
     "final": 2499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "24,99\u20ac"
   },
   "packages": [
     154322
@@ -61,7 +63,7 @@
   },
   "metacritic": {
     "score": 62,
-    "url": "http://www.metacritic.com/game/pc/take-on-mars?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/take-on-mars?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -234,7 +236,7 @@
     }
   ],
   "recommendations": {
-    "total": 1379
+    "total": 1389
   },
   "achievements": {
     "total": 40,
@@ -289,5 +291,9 @@
     "url": "",
     "email": "support@bohemia.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/244030/page_bg_generated_v6b.jpg?t=1521643432"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/244030/page_bg_generated_v6b.jpg?t=1521643432",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

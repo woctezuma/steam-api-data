@@ -12,7 +12,7 @@
     "appid": "337000",
     "name": "Deus Ex: Mankind Divided"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Polish, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Polish, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/470070/header.jpg?t=1513078407",
   "website": "http://www.deusex.com/",
   "pc_requirements": {
@@ -41,7 +41,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     103881,
@@ -61,7 +63,7 @@
           "packageid": 103881,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Deus Ex: Mankind Divided\u2122 DLC - Season Pass - 14,99\u20ac",
+          "option_text": "Deus Ex: Mankind Divided DLC - Season Pass - 14,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -119,7 +121,10 @@
     }
   ],
   "recommendations": {
-    "total": 300
+    "total": 299
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -129,5 +134,9 @@
     "url": "http://sqex.to/steamsupport",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/470070/page_bg_generated_v6b.jpg?t=1513078407"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/470070/page_bg_generated_v6b.jpg?t=1513078407",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

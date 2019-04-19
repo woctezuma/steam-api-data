@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     119324
@@ -111,6 +113,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Sep, 2016"
@@ -119,5 +124,9 @@
     "url": "http://creativefreaks.net/",
     "email": "support@creativefreaks.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512610/page_bg_generated_v6b.jpg?t=1473298081"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512610/page_bg_generated_v6b.jpg?t=1473298081",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

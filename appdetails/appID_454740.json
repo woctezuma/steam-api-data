@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 199,
+    "final": 199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     98282
@@ -52,11 +54,11 @@
           "packageid": 98282,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Candice DeB\u00e9b\u00e9's Incredibly Trick Soundtrack - 2,99\u20ac",
+          "option_text": "Candice DeB\u00e9b\u00e9's Incredibly Trick Soundtrack - 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -109,5 +111,9 @@
     "url": "",
     "email": "candiceisfit2004@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/454740/page_bg_generated_v6b.jpg?t=1458668440"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/454740/page_bg_generated_v6b.jpg?t=1458668440",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

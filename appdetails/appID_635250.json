@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     174454
@@ -172,7 +174,7 @@
     }
   ],
   "recommendations": {
-    "total": 348
+    "total": 307
   },
   "achievements": {
     "total": 109,
@@ -227,5 +229,9 @@
     "url": "",
     "email": "dream@xy-game.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/635250/page_bg_generated_v6b.jpg?t=1511362110"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/635250/page_bg_generated_v6b.jpg?t=1511362110",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

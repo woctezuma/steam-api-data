@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     37605,
@@ -145,9 +147,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 160
-  },
   "achievements": {
     "total": 10,
     "highlighted": [
@@ -201,5 +200,9 @@
     "url": "http://www.wildtangent.com/support/email_support.aspx",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/276890/page_bg_generated_v6b.jpg?t=1447360266"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/276890/page_bg_generated_v6b.jpg?t=1447360266",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

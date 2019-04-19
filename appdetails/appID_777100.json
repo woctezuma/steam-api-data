@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 41,
-    "discount_percent": 86
+    "initial": 329,
+    "final": 39,
+    "discount_percent": 88,
+    "initial_formatted": "3,29\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     233547
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 233547,
-          "percent_savings_text": "-86%",
+          "percent_savings_text": "-88%",
           "percent_savings": 0,
-          "option_text": "Werewolf Life - <span class=\"discount_original_price\">2,99\u20ac</span> 0,41\u20ac",
+          "option_text": "Werewolf Life - <span class=\"discount_original_price\">3,29\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 41
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -112,11 +114,6 @@
       "id": 4,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/777100/ss_e6eb900c9d95e7b3985dd43b098fcb0dd7f3e520.600x338.jpg?t=1517519991",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/777100/ss_e6eb900c9d95e7b3985dd43b098fcb0dd7f3e520.1920x1080.jpg?t=1517519991"
-    },
-    {
-      "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/777100/?t=1517519991",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/777100/?t=1517519991"
     }
   ],
   "movies": [
@@ -131,6 +128,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Jan, 2018"
@@ -139,5 +139,9 @@
     "url": "",
     "email": "indielip@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/777100/page_bg_generated_v6b.jpg?t=1517519991"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/777100/page_bg_generated_v6b.jpg?t=1517519991",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

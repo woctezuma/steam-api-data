@@ -36,9 +36,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     144929
@@ -57,11 +59,11 @@
           "packageid": 144929,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Astroneer (Original Game Soundtrack) - 5,99\u20ac",
+          "option_text": "Astroneer (Original Game Soundtrack) - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -98,6 +100,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/571010/ss_d0a34f9d151e2b8a3c73ce4495055fa9204bb0b6.1920x1080.jpg?t=1513715456"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Dec, 2016"
@@ -106,5 +111,9 @@
     "url": "http://forum.systemera.net",
     "email": "contact@systemera.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/571010/page_bg_generated_v6b.jpg?t=1513715456"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/571010/page_bg_generated_v6b.jpg?t=1513715456",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

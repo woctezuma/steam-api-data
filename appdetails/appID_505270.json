@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     116410
@@ -210,5 +212,9 @@
     "url": "http://www.battenbergsoftware.com/",
     "email": "info@battenbergsoftware.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/505270/page_bg_generated_v6b.jpg?t=1506105051"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/505270/page_bg_generated_v6b.jpg?t=1506105051",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

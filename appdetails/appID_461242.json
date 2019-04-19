@@ -1,19 +1,19 @@
 {
   "type": "dlc",
-  "name": "Euro Truck Simulator 2 - National Window Flags",
+  "name": "Euro Truck Simulator 2 - Window Flags",
   "steam_appid": 461242,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "Represent your country while on the road! There are special occasions when a proper sports fan simply must root for their team. Wouldn't it be cool if it was also possible inside the world of Euro Truck Simulator 2? National Window Flags DLC allows you to put up flag poles on your truck, featuring hundreds of country flags listed by the International Organization for Standardization.",
-  "about_the_game": "Represent your country while on the road! There are special occasions when a proper sports fan simply must root for their team. Wouldn't it be cool if it was also possible inside the world of Euro Truck Simulator 2? National Window Flags DLC allows you to put up flag poles on your truck, featuring hundreds of country flags listed by the International Organization for Standardization.",
-  "short_description": "",
+  "detailed_description": "The Window Flags DLC offers a wide range of options to personalize your truck even further. Whether you are fine tuning your truck to match your own unique design or rooting for your favorite sports team on match day. The Window Flags DLC allows you to fly your flag with pride featuring hundreds of designs. Fluttering flags are simulated both at standstill and at different driving speeds. We also take into account different wind speeds. The resulting effect is a very real and dynamic flag!",
+  "about_the_game": "The Window Flags DLC offers a wide range of options to personalize your truck even further. Whether you are fine tuning your truck to match your own unique design or rooting for your favorite sports team on match day. The Window Flags DLC allows you to fly your flag with pride featuring hundreds of designs. Fluttering flags are simulated both at standstill and at different driving speeds. We also take into account different wind speeds. The resulting effect is a very real and dynamic flag!",
+  "short_description": "The Window Flags DLC offers a wide range of options to personalize your truck even further. Whether you are fine tuning your truck to match your own unique design or rooting for your favorite sports team on match day. The Window Flags DLC allows you to fly your flag with pride featuring hundreds of designs.",
   "fullgame": {
     "appid": "227300",
     "name": "Euro Truck Simulator 2"
   },
-  "supported_languages": "English, German, French, Italian, Korean, Spanish, Simplified Chinese, Russian, Japanese, Portuguese, Polish, Danish, Dutch, Finnish, Norwegian, Swedish, Hungarian, Czech, Romanian, Turkish, Portuguese-Brazil, Bulgarian, Greek",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/461242/header.jpg?t=1466695861",
-  "website": "http://eurotrucksimulator2.com/",
+  "supported_languages": "English, German, French, Italian, Korean, Spanish - Spain, Simplified Chinese, Russian, Japanese, Portuguese, Polish, Danish, Dutch, Finnish, Norwegian, Swedish, Hungarian, Czech, Romanian, Turkish, Portuguese - Brazil, Bulgarian, Greek",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/461242/header.jpg?t=1550140681",
+  "website": "https://eurotrucksimulator2.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Dual core CPU 2.4 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTS 450-class (Intel HD 4000)<br></li><li><strong>Hard Drive:</strong> 3 GB available space</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7/8.1/10 64-bit<br></li><li><strong>Processor:</strong> Quad core CPU 3.0 GHz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 760-class (2 GB)<br></li><li><strong>Hard Drive:</strong> 3 GB available space</li></ul>"
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     100602
@@ -45,7 +47,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Euro Truck Simulator 2 - National Window Flags",
+      "title": "Buy Euro Truck Simulator 2 - Window Flags",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -56,7 +58,7 @@
           "packageid": 100602,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Euro Truck Simulator 2 - National Window Flags - 0,99\u20ac",
+          "option_text": "Euro Truck Simulator 2 - Window Flags - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -109,62 +111,92 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_671025f4cb326d4b5a8dc5fb9600f18160140a5e.600x338.jpg?t=1466695861",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_671025f4cb326d4b5a8dc5fb9600f18160140a5e.1920x1080.jpg?t=1466695861"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_575928046db31648972468db1fd8bc18cca427a0.600x338.jpg?t=1550140681",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_575928046db31648972468db1fd8bc18cca427a0.1920x1080.jpg?t=1550140681"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_de70d87997aace1cbd4d25ce4d5db691362ba819.600x338.jpg?t=1466695861",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_de70d87997aace1cbd4d25ce4d5db691362ba819.1920x1080.jpg?t=1466695861"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_6f1b848ef593e5df09f58086b1fbf7321b310da6.600x338.jpg?t=1550140681",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_6f1b848ef593e5df09f58086b1fbf7321b310da6.1920x1080.jpg?t=1550140681"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_c97f512381749fe56b002084f6a207a1791b7229.600x338.jpg?t=1466695861",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_c97f512381749fe56b002084f6a207a1791b7229.1920x1080.jpg?t=1466695861"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_a5da386d872473204261f25836df77c0b05f7bfb.600x338.jpg?t=1550140681",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_a5da386d872473204261f25836df77c0b05f7bfb.1920x1080.jpg?t=1550140681"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_f095b07b7ea89e4e85840250b196270e4ae7128c.600x338.jpg?t=1466695861",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_f095b07b7ea89e4e85840250b196270e4ae7128c.1920x1080.jpg?t=1466695861"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_de70d87997aace1cbd4d25ce4d5db691362ba819.600x338.jpg?t=1550140681",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_de70d87997aace1cbd4d25ce4d5db691362ba819.1920x1080.jpg?t=1550140681"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_96210136302b086ba2f81ca120dcd57645263b3e.600x338.jpg?t=1466695861",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_96210136302b086ba2f81ca120dcd57645263b3e.1920x1080.jpg?t=1466695861"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_7b80be544b61e5a1907ed20bde593824cebb27de.600x338.jpg?t=1550140681",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_7b80be544b61e5a1907ed20bde593824cebb27de.1920x1080.jpg?t=1550140681"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_439bb9ade9adb64cba8aed038abffb2a222bef65.600x338.jpg?t=1466695861",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_439bb9ade9adb64cba8aed038abffb2a222bef65.1920x1080.jpg?t=1466695861"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_2e58529aafac9aebba44d6560a3bfb058312aca8.600x338.jpg?t=1550140681",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_2e58529aafac9aebba44d6560a3bfb058312aca8.1920x1080.jpg?t=1550140681"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_7d8296ff7fdd3d78de2b4d43b1c7d8c3795ba66c.600x338.jpg?t=1466695861",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_7d8296ff7fdd3d78de2b4d43b1c7d8c3795ba66c.1920x1080.jpg?t=1466695861"
-    }
-  ],
-  "movies": [
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_e95bc5fbe704553a5a892ca4dceebff046ca01aa.600x338.jpg?t=1550140681",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_e95bc5fbe704553a5a892ca4dceebff046ca01aa.1920x1080.jpg?t=1550140681"
+    },
     {
-      "id": 256665262,
-      "name": "Euro Truck Simulator 2 - National Window Flags DLC",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256665262/movie.293x165.jpg?t=1465389071",
-      "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256665262/movie480.webm?t=1465389071",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256665262/movie_max.webm?t=1465389071"
-      },
-      "highlight": true
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_c2c09b16c66abe42f6fbdfe93e3aa2555a4ed856.600x338.jpg?t=1550140681",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_c2c09b16c66abe42f6fbdfe93e3aa2555a4ed856.1920x1080.jpg?t=1550140681"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_6663ae046ec47cc2cc24fbb9521dbf0988820826.600x338.jpg?t=1550140681",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_6663ae046ec47cc2cc24fbb9521dbf0988820826.1920x1080.jpg?t=1550140681"
+    },
+    {
+      "id": 9,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_90aa42e5e7f5479de1e727e9334ddc9d33fbf95c.600x338.jpg?t=1550140681",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_90aa42e5e7f5479de1e727e9334ddc9d33fbf95c.1920x1080.jpg?t=1550140681"
+    },
+    {
+      "id": 10,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_2cd93a81c1513505af890de6e53d44ce26059211.600x338.jpg?t=1550140681",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_2cd93a81c1513505af890de6e53d44ce26059211.1920x1080.jpg?t=1550140681"
+    },
+    {
+      "id": 11,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_61f7345a8439a0fd46f08d980b1471fb353af66f.600x338.jpg?t=1550140681",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_61f7345a8439a0fd46f08d980b1471fb353af66f.1920x1080.jpg?t=1550140681"
+    },
+    {
+      "id": 12,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_b04f64aff43930467dc67b09d1ce871e50b80a3b.600x338.jpg?t=1550140681",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_b04f64aff43930467dc67b09d1ce871e50b80a3b.1920x1080.jpg?t=1550140681"
+    },
+    {
+      "id": 13,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_83fcd4e94178076873b31b5a78d8e98ab121f2ab.600x338.jpg?t=1550140681",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/461242/ss_83fcd4e94178076873b31b5a78d8e98ab121f2ab.1920x1080.jpg?t=1550140681"
     }
   ],
   "recommendations": {
-    "total": 643
+    "total": 395
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
     "date": "8 Jun, 2016"
   },
   "support_info": {
-    "url": "http://eurotrucksimulator2.com/support.php",
+    "url": "https://eurotrucksimulator2.com/support.php",
     "email": "support@eurotrucksimulator2.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/461242/page_bg_generated_v6b.jpg?t=1466695861"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/461242/page_bg_generated_v6b.jpg?t=1550140681",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

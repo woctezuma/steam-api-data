@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 46,
     "final": 46,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,46\u20ac"
   },
   "packages": [
     73542
@@ -126,7 +128,10 @@
     }
   ],
   "recommendations": {
-    "total": 358
+    "total": 293
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -136,5 +141,9 @@
     "url": "",
     "email": "daydreamergamesofficial@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/388340/page_bg_generated_v6b.jpg?t=1447377157"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/388340/page_bg_generated_v6b.jpg?t=1447377157",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

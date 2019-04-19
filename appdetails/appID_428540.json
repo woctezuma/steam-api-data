@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     88597
@@ -62,7 +64,7 @@
   },
   "metacritic": {
     "score": 69,
-    "url": "http://www.metacritic.com/game/pc/fragments-of-him?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/fragments-of-him?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -148,5 +150,9 @@
     "url": "",
     "email": "fragmentsofhimhelp@sassybot.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/428540/page_bg_generated_v6b.jpg?t=1478658741"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/428540/page_bg_generated_v6b.jpg?t=1478658741",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

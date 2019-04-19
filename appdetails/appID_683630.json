@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 799,
+    "final": 799,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     195412
@@ -51,11 +53,11 @@
           "packageid": 195412,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Half Past Disaster - 9,99\u20ac",
+          "option_text": "Half Past Disaster - 7,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 799
         }
       ]
     }
@@ -189,5 +191,9 @@
     "url": "https://www.goldenagecreative.com.au",
     "email": "contact@goldenagecreative.com.au"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/683630/page_bg_generated_v6b.jpg?t=1507882085"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/683630/page_bg_generated_v6b.jpg?t=1507882085",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "You have a jumping tank and you need to touch the lever and open the door. <br />\r\nYou will encounter with anti-tank hedgehogs and logical puzzles. <br />\r\nLevels are divided into logical and not logical, but challenging enough.",
   "about_the_game": "You have a jumping tank and you need to touch the lever and open the door. <br />\r\nYou will encounter with anti-tank hedgehogs and logical puzzles. <br />\r\nLevels are divided into logical and not logical, but challenging enough.",
-  "short_description": "You have a jumping tank and you need to touch the lever and open the door. <br />\r\nYou will encounter with anti-tank hedgehogs and logical puzzles. <br />\r\nLevels are divided into logical and not logical, but challenging enough.",
+  "short_description": "You have a jumping tank and you need to touch the lever and open the door. You will encounter with anti-tank hedgehogs and logical puzzles. Levels are divided into logical and not logical, but challenging enough.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/582430/header.jpg?t=1484933231",
   "website": null,
@@ -24,11 +24,14 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 61,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
-    149501
+    149501,
+    228771
   ],
   "package_groups": [
     {
@@ -42,9 +45,19 @@
       "subs": [
         {
           "packageid": 149501,
+          "percent_savings_text": "-61%",
+          "percent_savings": 0,
+          "option_text": "Jumping Tank - <span class=\"discount_original_price\">0,99\u20ac</span> 0,39\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 39
+        },
+        {
+          "packageid": 228771,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Jumping Tank - 0,99\u20ac",
+          "option_text": "Jumping Tank - Commercial License - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -125,8 +138,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 108
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -136,5 +149,9 @@
     "url": "",
     "email": "mmaximus.ez@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/582430/page_bg_generated_v6b.jpg?t=1484933231"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/582430/page_bg_generated_v6b.jpg?t=1484933231",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

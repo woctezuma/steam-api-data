@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     141423
@@ -53,7 +55,7 @@
           "packageid": 141423,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Ra\u00b2 - 4,99\u20ac",
+          "option_text": "Radium 2 - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -200,5 +202,9 @@
     "url": "http://www.develobster.com/",
     "email": "mail@lukas-jaeckel.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562460/page_bg_generated_v6b.jpg?t=1523542418"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562460/page_bg_generated_v6b.jpg?t=1523542418",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

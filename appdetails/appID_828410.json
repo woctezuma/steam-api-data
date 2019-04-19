@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Samurai Action Slasher for VR<br />\r\nDefend your Castle from invaders using your fencing, ninja, archery skill.",
   "about_the_game": "Samurai Action Slasher for VR<br />\r\nDefend your Castle from invaders using your fencing, ninja, archery skill.",
-  "short_description": "Samurai Action Slasher for VR<br />\r\nDefend your Castle from invaders using your fencing, ninja, archery skill.",
+  "short_description": "Samurai Action Slasher for VR Defend your Castle from invaders using your fencing, ninja, archery skill.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/828410/header.jpg?t=1523852786",
   "website": "https://www.centvire.com",
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 849,
-    "discount_percent": 15
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     254838
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 254838,
-          "percent_savings_text": "-15%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "OniBushi VR - <span class=\"discount_original_price\">9,99\u20ac</span> 8,49\u20ac",
+          "option_text": "OniBushi VR - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 849
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -194,5 +196,9 @@
     "url": "https://www.centvire.com",
     "email": "centvire@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/828410/page_bg_generated_v6b.jpg?t=1523852786"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/828410/page_bg_generated_v6b.jpg?t=1523852786",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

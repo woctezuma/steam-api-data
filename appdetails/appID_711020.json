@@ -9,7 +9,7 @@
   "short_description": "Save 80% and jump in to the battle with the Starter Pack, perfect for new players and veterans alike. Build up your fleet with four great ships and four superb skins, plus more.",
   "fullgame": {
     "appid": "310380",
-    "name": "Fractured Space"
+    "name": "Uninitialized"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/711020/header.jpg?t=1523451822",
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     205570
@@ -147,6 +149,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/711020/ss_65a79608e1773ed19b3cd67cdd6e9d7b6b30843f.1920x1080.jpg?t=1523451822"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Oct, 2017"
@@ -155,5 +160,9 @@
     "url": "http://www.fracturedspace.com/support",
     "email": "support@edgecasegames.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/711020/page_bg_generated_v6b.jpg?t=1523451822"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/711020/page_bg_generated_v6b.jpg?t=1523451822",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,17 +11,17 @@
     "appid": "394360",
     "name": "Hearts of Iron IV"
   },
-  "supported_languages": "English, French, German, Polish, Portuguese-Brazil, Russian, Spanish",
+  "supported_languages": "English, French, German, Polish, Portuguese - Brazil, Russian, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/584141/header.jpg?t=1521557028",
   "website": "http://www.heartsofiron4.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-bit or newer<br></li><li><strong>Processor:</strong> Intel Core 2 Quad Q9400 @ 2.66 GHz / AMD Athlon II X4 650 @ 3.20 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon HD 5850 or NVIDIA GeForce GTX470 with 1GB VRAM<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> Direct X- compatible soundcard</li></ul>"
+    "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Windows 7 64-bit or newer<br></li><li><strong>Procesor:</strong> Intel Core 2 Quad Q9400 @ 2.66 GHz / AMD Athlon II X4 650 @ 3.20 GHz<br></li><li><strong>Pami\u0119\u0107:</strong> 4 GB RAM<br></li><li><strong>Karta graficzna:</strong> ATI Radeon HD 5850 or NVIDIA GeForce GTX470 with 1GB VRAM<br></li><li><strong>Miejsce na dysku:</strong> 2 GB dost\u0119pnej przestrzeni<br></li><li><strong>Karta d\u017awi\u0119kowa:</strong> Direct X- compatible soundcard</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.10 or better<br></li><li><strong>Processor:</strong> Intel Core i5 @ 2.60 GHz or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon HD 6970M<br></li><li><strong>Storage:</strong> 2 MB available space</li></ul>"
+    "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Mac OS X 10.10 or better<br></li><li><strong>Procesor:</strong> Intel Core i5 @ 2.60 GHz or better<br></li><li><strong>Pami\u0119\u0107:</strong> 4 GB RAM<br></li><li><strong>Karta graficzna:</strong> ATI Radeon HD 6970M<br></li><li><strong>Miejsce na dysku:</strong> 2 MB dost\u0119pnej przestrzeni</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 LTS x32<br></li><li><strong>Processor:</strong> Intel Core 2 Quad Q9400 @ 2.66 GHz / AMD Athlon II X4 650 @ 3.20 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon HD 5850 or NVIDIA GeForce GTX470 with 1GB VRAM / Latest available proprietary drivers from both manufacturers<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+    "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Ubuntu 14.04 LTS x32<br></li><li><strong>Procesor:</strong> Intel Core 2 Quad Q9400 @ 2.66 GHz / AMD Athlon II X4 650 @ 3.20 GHz<br></li><li><strong>Pami\u0119\u0107:</strong> 4 GB RAM<br></li><li><strong>Karta graficzna:</strong> ATI Radeon HD 5850 or NVIDIA GeForce GTX470 with 1GB VRAM / Latest available proprietary drivers from both manufacturers<br></li><li><strong>Miejsce na dysku:</strong> 2 GB dost\u0119pnej przestrzeni</li></ul>"
   },
   "legal_notice": "\u00a9 We Burn Music and Not A Bas Records <br>Published by Raging Beaver Publishing AB and Sound Pollution Songs<br><br>Paradox Interactive, HEARTS OF IRON\u00ae Copyright\u00a9 [2017] Paradox Interactive AB All rights reserved. <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.paradoxplaza.com\" target=\"_blank\" rel=\"noopener\"  >www.paradoxplaza.com</a>",
   "developers": [
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     150415
@@ -122,6 +124,12 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/584141/ss_cf39a1c3084cf9e4dc9d9680bc6ddfd50aba83c6.1920x1080.jpg?t=1521557028"
     }
   ],
+  "recommendations": {
+    "total": 129
+  },
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Jan, 2017"
@@ -130,5 +138,9 @@
     "url": "https://paradox.zendesk.com/",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/584141/page_bg_generated_v6b.jpg?t=1521557028"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/584141/page_bg_generated_v6b.jpg?t=1521557028",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

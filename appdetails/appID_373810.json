@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "final": 199,
+    "discount_percent": 50,
+    "initial_formatted": "3,99\u20ac",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     68869,
@@ -45,23 +47,23 @@
       "subs": [
         {
           "packageid": 68869,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Hot Pinball Thrills - 3,99\u20ac",
+          "option_text": "Hot Pinball Thrills - <span class=\"discount_original_price\">3,99\u20ac</span> 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 199
         },
         {
           "packageid": 71910,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Pinball Thrills Triple Pack - 9,99\u20ac",
+          "option_text": "Pinball Thrills Triple Pack - <span class=\"discount_original_price\">9,99\u20ac</span> 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -174,5 +176,9 @@
     "url": "",
     "email": "support@uieg.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/373810/page_bg_generated_v6b.jpg?t=1447375266"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/373810/page_bg_generated_v6b.jpg?t=1447375266",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

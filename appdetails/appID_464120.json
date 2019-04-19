@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     101678
@@ -134,6 +136,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Jun, 2016"
@@ -142,5 +147,9 @@
     "url": "http://support.encore.com",
     "email": "support@encore.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/464120/page_bg_generated_v6b.jpg?t=1466097997"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/464120/page_bg_generated_v6b.jpg?t=1466097997",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

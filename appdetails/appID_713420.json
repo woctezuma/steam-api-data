@@ -32,10 +32,15 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1499,
-    "final": 1004,
-    "discount_percent": 33
+    "final": 1499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac",
+    "recurring_sub": 321913,
+    "recurring_sub_desc": "12,49\u20ac at checkout, auto-renewed every 1 month(s) at 12,49\u20ac."
   },
   "packages": [
+    321914,
     206471
   ],
   "package_groups": [
@@ -50,13 +55,34 @@
       "subs": [
         {
           "packageid": 206471,
-          "percent_savings_text": "-33%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Crisis on the Planet of the Apes - <span class=\"discount_original_price\">14,99\u20ac</span> 10,04\u20ac",
+          "option_text": "Crisis on the Planet of the Apes - 14,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1004
+          "price_in_cents_with_discount": 1499
+        }
+      ]
+    },
+    {
+      "name": "subscriptions",
+      "title": "Buy Crisis on the Planet of the Apes Subscription Plan",
+      "description": "To be billed on a recurring basis.",
+      "selection_text": "Select a subscription plan",
+      "save_text": "",
+      "display_type": "1",
+      "is_recurring_subscription": "true",
+      "subs": [
+        {
+          "packageid": 321914,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "1 Month(s) @ 12,49\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">12,49\u20ac at checkout, auto-renewed every 1 month(s) at 12,49\u20ac.</p>",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 1249
         }
       ]
     }
@@ -188,5 +214,9 @@
     "url": "",
     "email": "foxnextvrsupport@fox.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/713420/page_bg_generated_v6b.jpg?t=1522797210"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/713420/page_bg_generated_v6b.jpg?t=1522797210",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

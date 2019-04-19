@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     80351,
@@ -131,5 +133,9 @@
     "url": "http://www.stellarjaystudios.com",
     "email": "info@stellarjaystudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407280/page_bg_generated_v6b.jpg?t=1447378322"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/407280/page_bg_generated_v6b.jpg?t=1447378322",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

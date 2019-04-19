@@ -14,7 +14,7 @@
   "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/597150/extras/EmailGifs_2.jpg?t=1506527929\" ><br><br><strong>Raise your army, learn powerful combos and take back your land!</strong><br><br><strong>Slash</strong> and <strong>Dash</strong> your way through hundreds of enemies in the fast-paced skill-based action of <strong>Hyper Knights!</strong><br><br>Become stronger and learn new powerful <strong>combos</strong> to help you on your journey.<br><br>Raise your army and recruit allied Knights to join your cause, command their armies, <strong>siege</strong> enemy castles, <strong>raid</strong> their outposts, <strong>ambush</strong> their convoys and use the <strong>loot</strong> to build your lands.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/597150/extras/EmailGifs_4.jpg?t=1506527929\" ><br><br><ul class=\"bb_ul\">    <li><strong>Slash</strong> and <strong>Dash</strong> through your enemies<br>    </li><li><strong>Command</strong> hundreds of minions<br>    </li><li><strong>Recruit</strong> allied Knights to your cause<br>    </li><li><strong>Upgrade</strong> your skills and learn powerful combos<br>    </li><li><strong>Defend</strong> your lands from enemy attacks<br>    </li><li><strong>Duel</strong> enemy Knights<br>    </li><li><strong>Siege</strong> their castles and take back your land!</li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/597150/extras/EmailGifs_3.jpg?t=1506527929\" >",
   "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/597150/extras/EmailGifs_2.jpg?t=1506527929\" ><br><br><strong>Raise your army, learn powerful combos and take back your land!</strong><br><br><strong>Slash</strong> and <strong>Dash</strong> your way through hundreds of enemies in the fast-paced skill-based action of <strong>Hyper Knights!</strong><br><br>Become stronger and learn new powerful <strong>combos</strong> to help you on your journey.<br><br>Raise your army and recruit allied Knights to join your cause, command their armies, <strong>siege</strong> enemy castles, <strong>raid</strong> their outposts, <strong>ambush</strong> their convoys and use the <strong>loot</strong> to build your lands.<br><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/597150/extras/EmailGifs_4.jpg?t=1506527929\" ><br><br><ul class=\"bb_ul\">    <li><strong>Slash</strong> and <strong>Dash</strong> through your enemies<br>    </li><li><strong>Command</strong> hundreds of minions<br>    </li><li><strong>Recruit</strong> allied Knights to your cause<br>    </li><li><strong>Upgrade</strong> your skills and learn powerful combos<br>    </li><li><strong>Defend</strong> your lands from enemy attacks<br>    </li><li><strong>Duel</strong> enemy Knights<br>    </li><li><strong>Siege</strong> their castles and take back your land!</li></ul><br><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/597150/extras/EmailGifs_3.jpg?t=1506527929\" >",
   "short_description": "Slash and Dash, raise your army, learn powerful combos and take back your land!",
-  "supported_languages": "English, French, Italian, German, Spanish, Polish, Portuguese-Brazil, Portuguese, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Portuguese, Japanese, Korean, Russian, Simplified Chinese, Traditional Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/597150/header.jpg?t=1506527929",
   "website": "http://www.hyper-knights.com/",
   "pc_requirements": {
@@ -35,8 +35,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 249,
+    "discount_percent": 50,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     156565
@@ -53,13 +55,13 @@
       "subs": [
         {
           "packageid": 156565,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Hyper Knights - 4,99\u20ac",
+          "option_text": "Hyper Knights - <span class=\"discount_original_price\">4,99\u20ac</span> 2,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 249
         }
       ]
     }
@@ -182,7 +184,7 @@
     }
   ],
   "recommendations": {
-    "total": 443
+    "total": 446
   },
   "achievements": {
     "total": 40,
@@ -237,5 +239,9 @@
     "url": "",
     "email": "support@endlessloopstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/597150/page_bg_generated_v6b.jpg?t=1506527929"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/597150/page_bg_generated_v6b.jpg?t=1506527929",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

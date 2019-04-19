@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     111244
@@ -192,9 +194,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 213
-  },
   "achievements": {
     "total": 11,
     "highlighted": [
@@ -248,5 +247,9 @@
     "url": "http://www.charyb.com",
     "email": "charybgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/491260/page_bg_generated_v6b.jpg?t=1481109341"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/491260/page_bg_generated_v6b.jpg?t=1481109341",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

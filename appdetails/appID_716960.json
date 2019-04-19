@@ -11,7 +11,7 @@
     "appid": "712410",
     "name": "Cirque du Soleil"
   },
-  "supported_languages": "English, French, German, Spanish",
+  "supported_languages": "English, French, German, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/716960/header.jpg?t=1506538576",
   "website": "https://www.felixandpaul.com/",
   "pc_requirements": {
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     207818
@@ -113,5 +115,9 @@
     "url": "https://www.felixandpaul.com/",
     "email": "qa@felixandpaul.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/716960/page_bg_generated_v6b.jpg?t=1506538576"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/716960/page_bg_generated_v6b.jpg?t=1506538576",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

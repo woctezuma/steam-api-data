@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     192495
@@ -209,5 +211,9 @@
     "url": "https://chequered.ink/contact",
     "email": "support@chequered.ink"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/675750/page_bg_generated_v6b.jpg?t=1521103761"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/675750/page_bg_generated_v6b.jpg?t=1521103761",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

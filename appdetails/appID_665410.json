@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     188968
@@ -120,6 +122,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jul, 2017"
@@ -128,5 +133,9 @@
     "url": "https://voxmare.wordpress.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/665410/page_bg_generated_v6b.jpg?t=1500307232"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/665410/page_bg_generated_v6b.jpg?t=1500307232",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     54796
@@ -68,7 +70,7 @@
   },
   "metacritic": {
     "score": 48,
-    "url": "http://www.metacritic.com/game/pc/epanalepsis?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/epanalepsis?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -129,6 +131,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 May, 2015"
@@ -137,5 +142,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/333690/page_bg_generated_v6b.jpg?t=1496256101"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/333690/page_bg_generated_v6b.jpg?t=1496256101",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

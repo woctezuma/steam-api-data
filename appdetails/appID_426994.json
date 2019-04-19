@@ -33,8 +33,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 79,
+    "discount_percent": 20,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     87994
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 87994,
-          "percent_savings_text": "",
+          "percent_savings_text": "-20%",
           "percent_savings": 0,
-          "option_text": "Hyperdevotion Noire - Ultimate Blossom Aizen Set - 0,99\u20ac",
+          "option_text": "Hyperdevotion Noire - Ultimate Blossom Aizen Set - <span class=\"discount_original_price\">0,99\u20ac</span> 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -94,6 +96,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/426994/ss_192fd62585e4d3154eefb6ca6c78c3be03d9a567.1920x1080.jpg?t=1466717952"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Apr, 2016"
@@ -102,5 +107,9 @@
     "url": "http://ideafintl.com/contact.php",
     "email": "pcsupport@ideafintl.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/426994/page_bg_generated_v6b.jpg?t=1466717952"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/426994/page_bg_generated_v6b.jpg?t=1466717952",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -8,7 +8,7 @@
   "about_the_game": "<strong>Metal Dead</strong> is a hilarious comedy/horror point and click adventure filled with laughs, blood, insanity, and of course... hordes of the undead.<br><br>This twisted tale centers on two metal-heads in the midst of a zombie invasion. After crashing their car in front of a medical research facility, they become trapped and are forced to use their wits to puzzle their way to freedom. Along the way, they must deal with a cast of characters who range from mildly deranged to completely insane.<br><br>Nominated by Adventure Gamers for 'Best Writing - Comedy' and 'Best Independent Adventure Game'. Also named one of the best Independent Adventure Games of the year by <a href=\"https://steamcommunity.com/linkfilter/?url=http://IndieGames.com!\" target=\"_blank\" rel=\"noopener\"  >IndieGames.com!</a>",
   "short_description": "A hilariously terrifying adventure filled with laughs, blood, insanity, and of course... hordes of the undead.",
   "supported_languages": "English",
-  "reviews": "\u201cThis beats out early LucasArts efforts in pure laughs-per-minute.\u201d<br><a href=\"http://www.rockpapershotgun.com/2013/08/30/night-of-the-living-game-metal-dead/\" target=\"_blank\" rel=\"noreferrer\"  >Rock, Paper, Shotgun</a></a><br><br>\u201cStuffing a zombie head down your pants has never been so much fun!\u201d<br>8.5/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://alternativemagazineonline.co.uk/2012/01/09/game-review-metal-dead-pc/\" target=\"_blank\" rel=\"noopener\"  >Alternative Magazine Online</a></a><br><br>\u201c... floored me pretty much across the board with this humorous, gory, zombie-filled romp.\u201d<br>4/5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.adventuregamers.com/articles/view/18652\" target=\"_blank\" rel=\"noopener\"  >Adventure Gamers</a></a><br>",
+  "reviews": "\u201cThis beats out early LucasArts efforts in pure laughs-per-minute.\u201d<br><a href=\"http://www.rockpapershotgun.com/2013/08/30/night-of-the-living-game-metal-dead/\" target=\"_blank\" rel=\"noreferrer\"  >Rock, Paper, Shotgun</a><br><br>\u201cStuffing a zombie head down your pants has never been so much fun!\u201d<br>8.5/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://alternativemagazineonline.co.uk/2012/01/09/game-review-metal-dead-pc/\" target=\"_blank\" rel=\"noopener\"  >Alternative Magazine Online</a><br><br>\u201c... floored me pretty much across the board with this humorous, gory, zombie-filled romp.\u201d<br>4/5 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.adventuregamers.com/articles/view/18652\" target=\"_blank\" rel=\"noopener\"  >Adventure Gamers</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/302690/header.jpg?t=1447361969",
   "website": "http://www.walkthruwalls.com",
   "pc_requirements": {
@@ -26,9 +26,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 199,
+    "discount_percent": 50,
+    "initial_formatted": "3,99\u20ac",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     44604
@@ -45,13 +47,13 @@
       "subs": [
         {
           "packageid": 44604,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Metal Dead - 4,99\u20ac",
+          "option_text": "Metal Dead - <span class=\"discount_original_price\">3,99\u20ac</span> 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -139,7 +141,7 @@
     }
   ],
   "recommendations": {
-    "total": 411
+    "total": 345
   },
   "achievements": {
     "total": 13,
@@ -194,5 +196,12 @@
     "url": "",
     "email": "contact@walkthruwalls.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/302690/page_bg_generated_v6b.jpg?t=1447361969"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/302690/page_bg_generated_v6b.jpg?t=1447361969",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": "Animated zombie blood and violence."
+  }
 }

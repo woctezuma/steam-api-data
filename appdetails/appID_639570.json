@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     177255
@@ -105,6 +107,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/639570/ss_8a27c2799679033fd2fabec9b19476c3b3d37763.1920x1080.jpg?t=1508084515"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 May, 2017"
@@ -113,5 +118,9 @@
     "url": "http://www.starpointgemini.com/contact",
     "email": "customersupport@starpointgemini.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/639570/page_bg_generated_v6b.jpg?t=1508084515"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/639570/page_bg_generated_v6b.jpg?t=1508084515",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

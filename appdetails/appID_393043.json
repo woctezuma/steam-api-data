@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     75224
@@ -102,6 +104,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/393043/ss_924a5ef6c55fb011379ac751ff29bc766370d64e.1920x1080.jpg?t=1485965398"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Aug, 2015"
@@ -110,5 +115,12 @@
     "url": "",
     "email": "support@winged-cloud.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/393043/page_bg_generated_v6b.jpg?t=1485965398"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/393043/page_bg_generated_v6b.jpg?t=1485965398",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

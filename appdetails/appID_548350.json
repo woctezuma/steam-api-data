@@ -34,10 +34,12 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
-    135523
+    353179
   ],
   "package_groups": [
     {
@@ -50,7 +52,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": 135523,
+          "packageid": 353179,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "One Sole Purpose - 7,99\u20ac",
@@ -270,5 +272,9 @@
     "url": "",
     "email": "onesolepurposegame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548350/page_bg_generated_v6b.jpg?t=1523332991"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548350/page_bg_generated_v6b.jpg?t=1523332991",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

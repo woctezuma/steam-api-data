@@ -26,10 +26,12 @@
     "Funny Twins"
   ],
   "price_overview": {
-    "currency": "USD",
+    "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     120919,
@@ -49,7 +51,7 @@
           "packageid": 120919,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "MineSweeper VR - $3.99",
+          "option_text": "MineSweeper VR - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -70,8 +72,8 @@
           "packageid": 146373,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "1 Month(s) @ $7.99/Month",
-          "option_description": "<p class=\"game_purchase_subscription\">$7.99 at checkout, auto-renewed every 1 month(s) at $7.99.</p>",
+          "option_text": "1 Month(s) @ 7,99\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">7,99\u20ac at checkout, auto-renewed every 1 month(s) at 7,99\u20ac.</p>",
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 799
@@ -200,11 +202,15 @@
   },
   "release_date": {
     "coming_soon": false,
-    "date": "Aug 25, 2016"
+    "date": "25 Aug, 2016"
   },
   "support_info": {
     "url": "",
     "email": "support@funnytwins.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/516940/page_bg_generated_v6b.jpg?t=1511112647"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/516940/page_bg_generated_v6b.jpg?t=1511112647",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

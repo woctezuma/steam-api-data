@@ -5,9 +5,9 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>This video tutorial mainly talks about how to handle MATTE and METAL materials using some simple tricks and tips I use on a daily basis. This is for those who are more intermediate and have control of their paintings, but not their materials. You should refer to the Painting with Confidence video (Coming Soon to Steam) if you are a super beginner, before this video.<br><br>Topics Covered<br><ul class=\"bb_ul\"><li>Capturing the shape<br></li><li>Picking a light source<br></li><li>Adding Spec</li></ul><br>Included<br><ul class=\"bb_ul\"><li>Tool Presets<br></li><li>Hi-RES PSD, JPEG Files</li></ul>",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>This video tutorial mainly talks about how to handle MATTE and METAL materials using some simple tricks and tips I use on a daily basis. This is for those who are more intermediate and have control of their paintings, but not their materials. You should refer to the Painting with Confidence video (Coming Soon to Steam) if you are a super beginner, before this video.<br><br>Topics Covered<br><ul class=\"bb_ul\"><li>Capturing the shape<br></li><li>Picking a light source<br></li><li>Adding Spec</li></ul><br>Included<br><ul class=\"bb_ul\"><li>Tool Presets<br></li><li>Hi-RES PSD, JPEG Files</li></ul>",
   "about_the_game": "This video tutorial mainly talks about how to handle MATTE and METAL materials using some simple tricks and tips I use on a daily basis. This is for those who are more intermediate and have control of their paintings, but not their materials. You should refer to the Painting with Confidence video (Coming Soon to Steam) if you are a super beginner, before this video.<br><br>Topics Covered<br><ul class=\"bb_ul\"><li>Capturing the shape<br></li><li>Picking a light source<br></li><li>Adding Spec</li></ul><br>Included<br><ul class=\"bb_ul\"><li>Tool Presets<br></li><li>Hi-RES PSD, JPEG Files</li></ul>",
-  "short_description": "This video tutorial mainly talks about how to handle MATTE and METAL materials using some simple tricks and tips I use on a daily basis. This is for those who are more intermediate and have control of their paintings, but not their materials. You should refer to the Painting with Confidence video if you are super beginner, before this video.",
+  "short_description": "This video tutorial mainly talks about how to handle MATTE and METAL materials using some simple tricks and tips I use on a daily basis. This is for those who are more intermediate and have control of their paintings, but not their materials.",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     83005
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Nov, 2015"
@@ -127,5 +132,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413900/page_bg_generated_v6b.jpg?t=1447378635"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/413900/page_bg_generated_v6b.jpg?t=1447378635",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

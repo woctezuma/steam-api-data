@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 750,
     "final": 750,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,50\u20ac"
   },
   "packages": [
     42861
@@ -159,9 +161,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 182
-  },
   "achievements": {
     "total": 60,
     "highlighted": [
@@ -215,5 +214,9 @@
     "url": "",
     "email": "help@hapagames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/296930/page_bg_generated_v6b.jpg?t=1447361564"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/296930/page_bg_generated_v6b.jpg?t=1447361564",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

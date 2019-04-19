@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     83434
@@ -135,7 +137,7 @@
     }
   ],
   "recommendations": {
-    "total": 458
+    "total": 419
   },
   "achievements": {
     "total": 15,
@@ -190,5 +192,9 @@
     "url": "http://statelysnail.com/",
     "email": "support@statelysnail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/415030/page_bg_generated_v6b.jpg?t=1474888842"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/415030/page_bg_generated_v6b.jpg?t=1474888842",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

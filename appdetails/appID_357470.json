@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Featuring contributions from some of Football Manager\u2019s creators and famous fans from the worlds of football and entertainment, 'An Alternative Reality: The Football Manager Documentary' examines the game\u2019s enduring appeal and how it has seeped into and influenced the culture of the world\u2019s favourite game.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Featuring contributions from some of Football Manager\u2019s creators and famous fans from the worlds of football and entertainment, 'An Alternative Reality: The Football Manager Documentary' examines the game\u2019s enduring appeal and how it has seeped into and influenced the culture of the world\u2019s favourite game.",
   "about_the_game": "Featuring contributions from some of Football Manager\u2019s creators and famous fans from the worlds of football and entertainment, 'An Alternative Reality: The Football Manager Documentary' examines the game\u2019s enduring appeal and how it has seeped into and influenced the culture of the world\u2019s favourite game.",
   "short_description": "Featuring some of Football Manager\u2019s creators and famous fans from the worlds of football and entertainment, 'An Alternative Reality: The Football Manager Documentary' examines the game\u2019s enduring appeal and how it has seeped into and influenced the culture of the world\u2019s favourite game.",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     82933,
@@ -171,5 +173,9 @@
     "url": "https://support.sega.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/357470/page_bg_generated_v6b.jpg?t=1521734868"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/357470/page_bg_generated_v6b.jpg?t=1521734868",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

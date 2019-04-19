@@ -12,7 +12,7 @@
     "appid": "247950",
     "name": "Sacred 3"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish, Japanese, Polish, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain, Japanese, Polish, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/261160/header.jpg?t=1447359274",
   "website": "http://www.sacred-world.com",
   "pc_requirements": {
@@ -32,12 +32,13 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     33586,
-    67169,
-    67170
+    67169
   ],
   "package_groups": [
     {
@@ -68,16 +69,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 1999
-        },
-        {
-          "packageid": 67170,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Sacred Franchise Pack - 36,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 3699
         }
       ]
     }
@@ -167,6 +158,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/261160/ss_c74b690bd486cd687dfe69c0201292cb592aa3fd.1920x1080.jpg?t=1447359274"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Jul, 2014"
@@ -175,5 +169,9 @@
     "url": "http://www.deepsilver.com/us/support/",
     "email": "info@deepsilver.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261160/page_bg_generated_v6b.jpg?t=1447359274"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/261160/page_bg_generated_v6b.jpg?t=1447359274",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

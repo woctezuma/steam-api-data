@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     114025
@@ -125,7 +127,7 @@
     }
   ],
   "recommendations": {
-    "total": 154
+    "total": 112
   },
   "achievements": {
     "total": 8,
@@ -172,5 +174,9 @@
     "url": "http://devmgames.com/extremeforklifting2/",
     "email": "zworp256@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498570/page_bg_generated_v6b.jpg?t=1470389810"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498570/page_bg_generated_v6b.jpg?t=1470389810",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

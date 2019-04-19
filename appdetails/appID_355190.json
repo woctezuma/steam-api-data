@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     70240
@@ -184,31 +186,6 @@
       "id": 14,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355190/ss_1d0d8b4808869fdc4c753e58cffa90f13948d6ee.600x338.jpg?t=1498131180",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355190/ss_1d0d8b4808869fdc4c753e58cffa90f13948d6ee.1920x1080.jpg?t=1498131180"
-    },
-    {
-      "id": 15,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355190/?t=1498131180",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355190/?t=1498131180"
-    },
-    {
-      "id": 16,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355190/?t=1498131180",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355190/?t=1498131180"
-    },
-    {
-      "id": 17,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355190/?t=1498131180",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355190/?t=1498131180"
-    },
-    {
-      "id": 18,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355190/?t=1498131180",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355190/?t=1498131180"
-    },
-    {
-      "id": 19,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/355190/?t=1498131180",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/355190/?t=1498131180"
     }
   ],
   "movies": [
@@ -234,5 +211,9 @@
     "url": "http://anarchyinteractive.com/chat",
     "email": "psion@anarchyinteractive.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/355190/page_bg_generated_v6b.jpg?t=1498131180"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/355190/page_bg_generated_v6b.jpg?t=1498131180",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

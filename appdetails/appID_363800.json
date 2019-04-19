@@ -11,7 +11,7 @@
     "appid": "251130",
     "name": "Chroma Squad"
   },
-  "supported_languages": "English, Portuguese-Brazil",
+  "supported_languages": "English, Portuguese - Brazil",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/363800/header.jpg?t=1447372781",
   "website": "http://www.chromasquad.com",
   "pc_requirements": {
@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     65438
@@ -53,11 +55,11 @@
           "packageid": 65438,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Chroma Squad - Soundtrack - 4,99\u20ac",
+          "option_text": "Chroma Squad - Soundtrack - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -122,5 +124,9 @@
     "url": "http://www.chromasquad.com/board",
     "email": "contato@beholdstudios.com.br"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/363800/page_bg_generated_v6b.jpg?t=1447372781"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/363800/page_bg_generated_v6b.jpg?t=1447372781",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

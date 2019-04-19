@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 73,
+    "final": 73,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,73\u20ac"
   },
   "packages": [
     223371
@@ -44,11 +46,11 @@
           "packageid": 223371,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "On Board Game - 0,99\u20ac",
+          "option_text": "On Board Game - 0,73\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 73
         }
       ]
     }
@@ -149,5 +151,9 @@
     "url": "https://steinbockgames33.blogspot.kr/",
     "email": "steinbockgames33@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/757290/page_bg_generated_v6b.jpg?t=1523679723"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/757290/page_bg_generated_v6b.jpg?t=1523679723",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     119486
@@ -140,11 +142,6 @@
       "id": 10,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/513050/ss_2331110bd17a2eebaac6c84485f44a3726b586cc.600x338.jpg?t=1485509553",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/513050/ss_2331110bd17a2eebaac6c84485f44a3726b586cc.1920x1080.jpg?t=1485509553"
-    },
-    {
-      "id": 11,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/513050/?t=1485509553",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/513050/?t=1485509553"
     }
   ],
   "movies": [
@@ -180,5 +177,9 @@
     "url": "http://outrageousgrounds.com/",
     "email": "support@virtual-dawn.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/513050/page_bg_generated_v6b.jpg?t=1485509553"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/513050/page_bg_generated_v6b.jpg?t=1485509553",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

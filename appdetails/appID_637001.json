@@ -11,7 +11,7 @@
     "appid": "530390",
     "name": "Slayaway Camp"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Spanish, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/637001/header.jpg?t=1495220826",
   "website": "http://www.slayawaycamp.com",
   "pc_requirements": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     175139
@@ -152,6 +154,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/637001/ss_323bdd2c513d8440571ac5a0eab9b74e52c6d64a.1920x1080.jpg?t=1495220826"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 May, 2017"
@@ -160,5 +165,12 @@
     "url": "http://www.bluewizard.com/support",
     "email": "slayawaycamp@bluewizard.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/637001/page_bg_generated_v6b.jpg?t=1495220826"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/637001/page_bg_generated_v6b.jpg?t=1495220826",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

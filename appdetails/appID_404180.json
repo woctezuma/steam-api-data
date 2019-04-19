@@ -2,7 +2,7 @@
   "type": "game",
   "name": "Club Life",
   "steam_appid": 404180,
-  "required_age": "17",
+  "required_age": 0,
   "is_free": false,
   "dlc": [
     452900
@@ -11,8 +11,8 @@
   "about_the_game": "Sean is in his final year of school, close to the time for him to head off to college, his plans to keep his head down this year and avoid complications are ruined when his teacher demands he join two clubs if he wants her to write him a recommendation for college.<br />\r\n<br />\r\nWith his hands tied there are only a few choices for him to start his Club Life.",
   "short_description": "A reclusive student is forced into joining several clubs, can he make it through the year and will he gain any new friends along the way or even find love.",
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/404180/header.jpg?t=1498112301",
-  "website": "http://dharkerstudio.com",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/404180/header.jpg?t=1545573357",
+  "website": "http://Dharker.Studio",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX compatible card<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
   },
@@ -22,18 +22,20 @@
   "linux_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 500 MB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
   },
-  "legal_notice": "Dharker Studios Ltd \u00a92016+",
+  "legal_notice": "Straywire \u00a92018+",
   "developers": [
-    "Dharker Studio"
+    "Straywire"
   ],
   "publishers": [
     "Dharker Studio"
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 819,
-    "final": 819,
-    "discount_percent": 0
+    "initial": 999,
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     79188
@@ -52,11 +54,11 @@
           "packageid": 79188,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Club Life - 8,19\u20ac",
+          "option_text": "Club Life - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 819
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -86,10 +88,6 @@
   ],
   "genres": [
     {
-      "id": "71",
-      "description": "Sexual Content"
-    },
-    {
       "id": "25",
       "description": "Adventure"
     },
@@ -105,48 +103,48 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_c7c261bf1dd3c0c7e0ae24292f3a8e28d910d09c.600x338.jpg?t=1498112301",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_c7c261bf1dd3c0c7e0ae24292f3a8e28d910d09c.1920x1080.jpg?t=1498112301"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_c7c261bf1dd3c0c7e0ae24292f3a8e28d910d09c.600x338.jpg?t=1545573357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_c7c261bf1dd3c0c7e0ae24292f3a8e28d910d09c.1920x1080.jpg?t=1545573357"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_a132f5f8664e56032c04892d8a951b395e071e3e.600x338.jpg?t=1498112301",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_a132f5f8664e56032c04892d8a951b395e071e3e.1920x1080.jpg?t=1498112301"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_a132f5f8664e56032c04892d8a951b395e071e3e.600x338.jpg?t=1545573357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_a132f5f8664e56032c04892d8a951b395e071e3e.1920x1080.jpg?t=1545573357"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_0f3115ef36a7acb71a49aaa2531dd5b13ac80bf1.600x338.jpg?t=1498112301",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_0f3115ef36a7acb71a49aaa2531dd5b13ac80bf1.1920x1080.jpg?t=1498112301"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_0f3115ef36a7acb71a49aaa2531dd5b13ac80bf1.600x338.jpg?t=1545573357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_0f3115ef36a7acb71a49aaa2531dd5b13ac80bf1.1920x1080.jpg?t=1545573357"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_83b7a72ec134c432dff264e549bf23b4843224db.600x338.jpg?t=1498112301",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_83b7a72ec134c432dff264e549bf23b4843224db.1920x1080.jpg?t=1498112301"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_83b7a72ec134c432dff264e549bf23b4843224db.600x338.jpg?t=1545573357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_83b7a72ec134c432dff264e549bf23b4843224db.1920x1080.jpg?t=1545573357"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_f6a669a0e08dfe812f71efaf9dda8ea610c4158d.600x338.jpg?t=1498112301",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_f6a669a0e08dfe812f71efaf9dda8ea610c4158d.1920x1080.jpg?t=1498112301"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_f6a669a0e08dfe812f71efaf9dda8ea610c4158d.600x338.jpg?t=1545573357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_f6a669a0e08dfe812f71efaf9dda8ea610c4158d.1920x1080.jpg?t=1545573357"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_d0e44256c6a4fc3a22360709e9a582c34108142b.600x338.jpg?t=1498112301",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_d0e44256c6a4fc3a22360709e9a582c34108142b.1920x1080.jpg?t=1498112301"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_d0e44256c6a4fc3a22360709e9a582c34108142b.600x338.jpg?t=1545573357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_d0e44256c6a4fc3a22360709e9a582c34108142b.1920x1080.jpg?t=1545573357"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_3da7e7a10f11cd2bdb314b924103a8adeb7509eb.600x338.jpg?t=1498112301",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_3da7e7a10f11cd2bdb314b924103a8adeb7509eb.1920x1080.jpg?t=1498112301"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_3da7e7a10f11cd2bdb314b924103a8adeb7509eb.600x338.jpg?t=1545573357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_3da7e7a10f11cd2bdb314b924103a8adeb7509eb.1920x1080.jpg?t=1545573357"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_7821ac497326e2044235683c16dda0b4ccafc1d0.600x338.jpg?t=1498112301",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_7821ac497326e2044235683c16dda0b4ccafc1d0.1920x1080.jpg?t=1498112301"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_7821ac497326e2044235683c16dda0b4ccafc1d0.600x338.jpg?t=1545573357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_7821ac497326e2044235683c16dda0b4ccafc1d0.1920x1080.jpg?t=1545573357"
     },
     {
       "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_3ba43923db6424624020c0cc2a8f5a727165336a.600x338.jpg?t=1498112301",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_3ba43923db6424624020c0cc2a8f5a727165336a.1920x1080.jpg?t=1498112301"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_3ba43923db6424624020c0cc2a8f5a727165336a.600x338.jpg?t=1545573357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404180/ss_3ba43923db6424624020c0cc2a8f5a727165336a.1920x1080.jpg?t=1545573357"
     }
   ],
   "movies": [
@@ -211,8 +209,15 @@
     "date": "13 Apr, 2016"
   },
   "support_info": {
-    "url": "DharkerStudio.com",
-    "email": "admin@dharkerstudio.com"
+    "url": "http://Dharker.Studio",
+    "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404180/page_bg_generated_v6b.jpg?t=1498112301"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404180/page_bg_generated_v6b.jpg?t=1545573357",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": "Club Life includes sexually suggestive scenes and partial nude imagery."
+  }
 }

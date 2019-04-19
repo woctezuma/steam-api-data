@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     84572
@@ -137,6 +139,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Dec, 2015"
@@ -145,5 +150,9 @@
     "url": "http://www.minindustriesgames.com/microrc-simulation/support/",
     "email": "supportmrc@minindustriesgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/418170/page_bg_generated_v6b.jpg?t=1450167971"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/418170/page_bg_generated_v6b.jpg?t=1450167971",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

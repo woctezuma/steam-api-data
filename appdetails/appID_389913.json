@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This product is token module containing tokens for use with the Fantasy Ground virtual tabletop. Upon activating the module, the tokens will appear in your Token box for use throughout your game.<br />\r\n<br />\r\nThis token pack contains 24 tokens to represent soldiers from the Vietnam War. Both US and NVA soldiers as well as a few media personalities are included.",
   "about_the_game": "This product is token module containing tokens for use with the Fantasy Ground virtual tabletop. Upon activating the module, the tokens will appear in your Token box for use throughout your game.<br />\r\n<br />\r\nThis token pack contains 24 tokens to represent soldiers from the Vietnam War. Both US and NVA soldiers as well as a few media personalities are included.",
-  "short_description": "This product is token module containing tokens for use with the Fantasy Ground virtual tabletop. Upon activating the module, the tokens will appear in your Token box for use throughout your game.<br />\r\n<br />\r\nThis token pack contains 24 tokens to represent soldiers from the Vietnam War. Both US and NVA soldiers as well as a few media personalities are included.",
+  "short_description": "This product is token module containing tokens for use with the Fantasy Ground virtual tabletop. Upon activating the module, the tokens will appear in your Token box for use throughout your game. This token pack contains 24 tokens to represent soldiers from the Vietnam War.",
   "fullgame": {
     "appid": "252690",
     "name": "Fantasy Grounds"
@@ -20,7 +20,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "(c) Tokens and images 2015 Devin Night. All Rights Reserved.<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2015 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a></a> for more product information.",
+  "legal_notice": "(c) Tokens and images 2015 Devin Night. All Rights Reserved.<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2015 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a> for more product information.",
   "developers": [
     "SmiteWorks USA, LLC"
   ],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     74096
@@ -103,6 +105,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389913/ss_48e0b1f4b2d68259e045cfcd6627348cc10c2df0.1920x1080.jpg?t=1447377259"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Jul, 2015"
@@ -111,5 +116,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389913/page_bg_generated_v6b.jpg?t=1447377259"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389913/page_bg_generated_v6b.jpg?t=1447377259",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

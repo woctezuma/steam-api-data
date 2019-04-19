@@ -9,7 +9,7 @@
   "about_the_game": "Legends of Pixelia is an action role-playing game that combines retro pixelart with modern gameplay mechanics. Tired of left-clicking through hordes of brainless one-hit-KO enemies? Random dungeons, precise controls via gamepad (or keyboard) and a strong fighting game AI provide challenging encounters. Be prepared!<br><br><strong>Key features:</strong><br><ul class=\"bb_ul\"><li> Choose from multiple hero classes with unique abilities<br></li><li> Procedurally generated dungeons and rooms<br></li><li> 21 boss fights + 21 crazy boss fights in Game+<br></li><li> Build your hero with level-up stats and randomly generated items<br></li><li> Fast-paced combat that favors good positioning and timing<br></li><li> Plug in some gamepads to enjoy local multiplayer<br></li><li> Fight against your friends in Versus mode (PvP)</li></ul>",
   "short_description": "Legends of Pixelia is an action RPG that combines retro pixelart with modern gameplay mechanics. Choose a hero class, crawl through procedurally generated dungeons and show your reflexes in challenging boss fights. Single player &amp; local multiplayer, best played with gamepad.",
   "supported_languages": "English",
-  "reviews": "\u201cLegends of Pixelia plays like a beat \u2018em up dressed in rogue-like dungeons. [\u2026] The systems that are in place are really solid, and the gameplay ideas come through in the form of a fun, multiplayer beat em\u2019 up in a dungeons-and-dragons-like vibe.\u201d<br><a href=\"http://indiegamemag.com/legends-of-pixelia-preview-pixelated-in-a-good-way/\" target=\"_blank\" rel=\"noreferrer\"  >Indie Game Magazine</a></a><br><br>\u201cLegends of Pixelia is an excellent pixel art action RPG with gameplay reminiscent of The Binding of Isaac, but with more tactical combat, persistent upgrades and local multiplayer.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.alphabetagamer.com/legends-pixelia-alpha-demo/\" target=\"_blank\" rel=\"noopener\"  >Alpha Beta Gamer</a></a><br><br>\u201cLegends of Pixelia is familiar enough to be approachable to fans of the genre while still offering up something new. Fans of skill-based combat in games will want to give this a look, and for folks who like action RPGs I think there\u2019s enough progression to keep you compelled for a little while.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://indiegames.com/2015/05/roguelite_brawling_legends_of_.html\" target=\"_blank\" rel=\"noopener\"  >IndieGames .com</a></a><br>",
+  "reviews": "\u201cLegends of Pixelia plays like a beat \u2018em up dressed in rogue-like dungeons. [\u2026] The systems that are in place are really solid, and the gameplay ideas come through in the form of a fun, multiplayer beat em\u2019 up in a dungeons-and-dragons-like vibe.\u201d<br><a href=\"http://indiegamemag.com/legends-of-pixelia-preview-pixelated-in-a-good-way/\" target=\"_blank\" rel=\"noreferrer\"  >Indie Game Magazine</a><br><br>\u201cLegends of Pixelia is an excellent pixel art action RPG with gameplay reminiscent of The Binding of Isaac, but with more tactical combat, persistent upgrades and local multiplayer.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.alphabetagamer.com/legends-pixelia-alpha-demo/\" target=\"_blank\" rel=\"noopener\"  >Alpha Beta Gamer</a><br><br>\u201cLegends of Pixelia is familiar enough to be approachable to fans of the genre while still offering up something new. Fans of skill-based combat in games will want to give this a look, and for folks who like action RPGs I think there\u2019s enough progression to keep you compelled for a little while.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://indiegames.com/2015/05/roguelite_brawling_legends_of_.html\" target=\"_blank\" rel=\"noopener\"  >http://indiegames.com/2015/05/roguelite_brawling_legends_of_.html</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/371530/header.jpg?t=1487237169",
   "website": "http://www.legendsofpixelia.de",
   "pc_requirements": {
@@ -34,8 +34,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 249,
-    "discount_percent": 50
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     68100
@@ -52,13 +54,13 @@
       "subs": [
         {
           "packageid": 68100,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Legends of Pixelia - <span class=\"discount_original_price\">4,99\u20ac</span> 2,49\u20ac",
+          "option_text": "Legends of Pixelia - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 249
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -227,5 +229,9 @@
     "url": "",
     "email": "legendsofpixelia@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/371530/page_bg_generated_v6b.jpg?t=1487237169"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/371530/page_bg_generated_v6b.jpg?t=1487237169",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

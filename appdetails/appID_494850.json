@@ -23,12 +23,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
-    112689
+    112689,
+    313450
   ],
   "package_groups": [
     {
@@ -44,7 +47,17 @@
           "packageid": 112689,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "VeeR Pong - 9,99\u20ac",
+          "option_text": "VeeR Pong - 3,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 399
+        },
+        {
+          "packageid": 313450,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "VeeR Pong - Commercial License - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -186,5 +199,9 @@
     "url": "",
     "email": "imslattery@yahoo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494850/page_bg_generated_v6b.jpg?t=1496096640"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494850/page_bg_generated_v6b.jpg?t=1496096640",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

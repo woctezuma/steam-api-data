@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1099,
     "final": 1099,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,99\u20ac"
   },
   "packages": [
     167651
@@ -140,8 +142,11 @@
       "highlight": true
     }
   ],
+  "recommendations": {
+    "total": 108
+  },
   "achievements": {
-    "total": 24,
+    "total": 56,
     "highlighted": [
       {
         "name": "First Blood ",
@@ -193,5 +198,9 @@
     "url": "",
     "email": "pixel_shinobi@yahoo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/622870/page_bg_generated_v6b.jpg?t=1516385947"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/622870/page_bg_generated_v6b.jpg?t=1516385947",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

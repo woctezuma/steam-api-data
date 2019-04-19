@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     249818
@@ -136,6 +138,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Apr, 2018"
@@ -144,5 +149,13 @@
     "url": "",
     "email": "pr@tophatentertainment.us"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/816220/page_bg_generated_v6b.jpg?t=1523035023"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/816220/page_bg_generated_v6b.jpg?t=1523035023",
+  "content_descriptors": {
+    "ids": [
+      1,
+      3,
+      5
+    ],
+    "notes": "Analistica Academy contains crude sexual humor, and depictions of explicit, consensual adult sexual content between characters of age. Content can be toggled on/off with an option in the settings menu."
+  }
 }

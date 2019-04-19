@@ -6,9 +6,9 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\">Cyber Sentinel aka Turing Machine \u201estate\u201d diagrams based puzzle game nobody asked for</h2><br><i>Near future. Information is the most precious of resources. International corporations fight a data war for access to new medical, government and military patents and contracts. In an ongoing arms race talented individuals find a way to earn money...</i><br><br>Experience the hacker's side of cyberpunk in <strong>Cyber Sentinel!</strong> This design-based puzzle game features a complete visual programming kit for designing your own viruses.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>addictive puzzles - be a godlike hacker observing his creations come to life<br></li><li>easy to learn, hard to master - more elegant solutions are rewarded with more points<br></li><li>feeling of 80'/90' cyberpunk movies<br></li><li>45 levels with increasing difficulty and grading system<br></li><li>level editor and option to play and rate other players' levels<br></li><li>32 achievements to unlock</li></ul>",
   "about_the_game": "<h2 class=\"bb_tag\">Cyber Sentinel aka Turing Machine \u201estate\u201d diagrams based puzzle game nobody asked for</h2><br><i>Near future. Information is the most precious of resources. International corporations fight a data war for access to new medical, government and military patents and contracts. In an ongoing arms race talented individuals find a way to earn money...</i><br><br>Experience the hacker's side of cyberpunk in <strong>Cyber Sentinel!</strong> This design-based puzzle game features a complete visual programming kit for designing your own viruses.<h2 class=\"bb_tag\">Features:</h2><ul class=\"bb_ul\"><li>addictive puzzles - be a godlike hacker observing his creations come to life<br></li><li>easy to learn, hard to master - more elegant solutions are rewarded with more points<br></li><li>feeling of 80'/90' cyberpunk movies<br></li><li>45 levels with increasing difficulty and grading system<br></li><li>level editor and option to play and rate other players' levels<br></li><li>32 achievements to unlock</li></ul>",
-  "short_description": "Experience the hacker's side of cyberpunk in <strong>Cyber Sentinel!</strong> This design-based puzzle game features a complete visual programming kit for designing your own viruses.",
-  "supported_languages": "English, French, Italian, German, Spanish, Polish, Portuguese, Portuguese-Brazil, Russian",
-  "reviews": "\u201cThis game challenges you to think in different paths of logic than you might be used to. It's great brain exercise. It will probably frustrate you; feel the burn.\u201d<br>7/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://opnoobs.com/reviews/indie/strategy/cyber-sentinel\" target=\"_blank\" rel=\"noopener\"  >OpNoobs</a></a><br><br>\u201cA Puzzle Cyberpunk game with an easy concept yet hard to master approach with an authentic Cyberpunk storyline[...]making you feel like an epic hacker. I recommend it.\u201d<br>A \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://video-game-break.com/cyber-sentinel-quick-review/\" target=\"_blank\" rel=\"noopener\"  >Video Game Break</a></a><br><br>\u201cThe game\u2019s gameplay is beautiful in its simplicity.\u201d<br>7/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.hyperlightup.com/cyber-sentinel-review/\" target=\"_blank\" rel=\"noopener\"  >Hyper Light Up</a></a><br>",
+  "short_description": "Experience the hacker's side of cyberpunk in Cyber Sentinel! This design-based puzzle game features a complete visual programming kit for designing your own viruses.",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese, Portuguese - Brazil, Russian",
+  "reviews": "\u201cThis game challenges you to think in different paths of logic than you might be used to. It's great brain exercise. It will probably frustrate you; feel the burn.\u201d<br>7/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://opnoobs.com/reviews/indie/strategy/cyber-sentinel\" target=\"_blank\" rel=\"noopener\"  >OpNoobs</a><br><br>\u201cA Puzzle Cyberpunk game with an easy concept yet hard to master approach with an authentic Cyberpunk storyline[...]making you feel like an epic hacker. I recommend it.\u201d<br>A \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://video-game-break.com/cyber-sentinel-quick-review/\" target=\"_blank\" rel=\"noopener\"  >Video Game Break</a><br><br>\u201cThe game\u2019s gameplay is beautiful in its simplicity.\u201d<br>7/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.hyperlightup.com/cyber-sentinel-review/\" target=\"_blank\" rel=\"noopener\"  >Hyper Light Up</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/485970/header.jpg?t=1484604742",
   "website": "http://mindhelix.pl/CyberSentinel",
   "pc_requirements": {
@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 99,
+    "discount_percent": 90,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     109326
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 109326,
-          "percent_savings_text": "",
+          "percent_savings_text": "-90%",
           "percent_savings": 0,
-          "option_text": "Cyber Sentinel - 9,99\u20ac",
+          "option_text": "Cyber Sentinel - <span class=\"discount_original_price\">9,99\u20ac</span> 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -185,5 +187,9 @@
     "url": "http://mindhelix.pl/CyberSentinel",
     "email": "kontakt@mindhelix.pl"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/485970/page_bg_generated_v6b.jpg?t=1484604742"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/485970/page_bg_generated_v6b.jpg?t=1484604742",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

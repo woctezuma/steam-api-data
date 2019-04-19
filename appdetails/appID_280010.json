@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     38363
@@ -149,9 +151,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 917
-  },
   "achievements": {
     "total": 19,
     "highlighted": [
@@ -205,5 +204,9 @@
     "url": "http://www.gunjitsugame.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/280010/page_bg_generated_v6b.jpg?t=1458315829"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/280010/page_bg_generated_v6b.jpg?t=1458315829",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

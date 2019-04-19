@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     95515
@@ -133,6 +135,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 May, 2016"
@@ -141,5 +146,9 @@
     "url": "",
     "email": "support@adamwells.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447000/page_bg_generated_v6b.jpg?t=1463240146"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447000/page_bg_generated_v6b.jpg?t=1463240146",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

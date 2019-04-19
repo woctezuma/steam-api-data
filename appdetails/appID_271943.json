@@ -12,7 +12,7 @@
     "appid": "236430",
     "name": "DARK SOULS\u2122 II"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Korean, Polish, Portuguese-Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/271943/header.jpg?t=1447360024",
   "website": null,
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     36525,
@@ -202,7 +204,10 @@
     }
   ],
   "recommendations": {
-    "total": 134
+    "total": 112
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -212,5 +217,9 @@
     "url": "http://www.bandainamcoent.com/support",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/271943/page_bg_generated_v6b.jpg?t=1447360024"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/271943/page_bg_generated_v6b.jpg?t=1447360024",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

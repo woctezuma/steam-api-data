@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     65697
@@ -151,5 +153,9 @@
     "url": "http://luminoso.blizzy.de",
     "email": "luminoso@blizzy.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/364660/page_bg_generated_v6b.jpg?t=1447372963"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/364660/page_bg_generated_v6b.jpg?t=1447372963",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

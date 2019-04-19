@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     57203
@@ -154,9 +156,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 159
-  },
   "achievements": {
     "total": 7,
     "highlighted": [
@@ -198,5 +197,9 @@
     "url": "www.ninja-guy.com",
     "email": "support@immunitystudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340630/page_bg_generated_v6b.jpg?t=1447366613"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340630/page_bg_generated_v6b.jpg?t=1447366613",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 49,
+    "discount_percent": 51,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,49\u20ac"
   },
   "packages": [
     249387,
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 249387,
-          "percent_savings_text": "",
+          "percent_savings_text": "-51%",
           "percent_savings": 0,
-          "option_text": "Hot Mars 69 - 0,99\u20ac",
+          "option_text": "Hot Mars 69 - <span class=\"discount_original_price\">0,99\u20ac</span> 0,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 49
         },
         {
           "packageid": 254364,
@@ -136,6 +138,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Mar, 2018"
@@ -144,5 +149,9 @@
     "url": "",
     "email": "ghostnikitaeagle@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/815080/page_bg_generated_v6b.jpg?t=1520856161"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/815080/page_bg_generated_v6b.jpg?t=1520856161",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

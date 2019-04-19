@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     219964
@@ -44,11 +46,11 @@
           "packageid": 219964,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "SK8 - 2,99\u20ac",
+          "option_text": "SK8 - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -132,6 +134,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Nov, 2017"
@@ -140,5 +145,9 @@
     "url": "",
     "email": "hcro3.team@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/749130/page_bg_generated_v6b.jpg?t=1516629424"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/749130/page_bg_generated_v6b.jpg?t=1516629424",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

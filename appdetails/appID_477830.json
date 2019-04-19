@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The Systematic Immunity original soundtrack.<br />\r\nContains 5 tracks.",
   "about_the_game": "The Systematic Immunity original soundtrack.<br />\r\nContains 5 tracks.",
-  "short_description": "The Systematic Immunity original soundtrack.<br />\r\nContains 5 tracks.",
+  "short_description": "The Systematic Immunity original soundtrack. Contains 5 tracks.",
   "fullgame": {
     "appid": "395100",
     "name": "Systematic Immunity"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     106545
@@ -97,5 +99,9 @@
     "url": "http://felixwunderlichgames.com/index.html",
     "email": "felixwunderlichgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/477830/page_bg_generated_v6b.jpg?t=1463740419"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/477830/page_bg_generated_v6b.jpg?t=1463740419",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

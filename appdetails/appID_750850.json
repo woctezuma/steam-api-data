@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     220645
@@ -123,6 +125,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Dec, 2017"
@@ -131,5 +136,9 @@
     "url": "http://www.pintastudios.com",
     "email": "contact@pintastudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/750850/page_bg_generated_v6b.jpg?t=1513570096"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/750850/page_bg_generated_v6b.jpg?t=1513570096",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

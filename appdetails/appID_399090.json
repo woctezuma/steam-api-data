@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     77214
@@ -46,11 +48,11 @@
           "packageid": 77214,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "It's time to get out from the solar system - 4,99\u20ac",
+          "option_text": "It's time to get out from the solar system - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -160,6 +162,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Sep, 2015"
@@ -168,5 +173,9 @@
     "url": "https://www.facebook.com/WTFOMGames",
     "email": "mail67845@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/399090/page_bg_generated_v6b.jpg?t=1496355278"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/399090/page_bg_generated_v6b.jpg?t=1496355278",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

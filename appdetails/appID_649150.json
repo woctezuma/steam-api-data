@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     182595
@@ -166,6 +168,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Jun, 2017"
@@ -174,5 +179,9 @@
     "url": "",
     "email": "betelgeuze1988@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/649150/page_bg_generated_v6b.jpg?t=1497006517"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/649150/page_bg_generated_v6b.jpg?t=1497006517",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

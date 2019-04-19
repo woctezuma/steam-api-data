@@ -4,8 +4,8 @@
   "steam_appid": 731700,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/731700/extras/wildd.jpg?t=1523344454\" >",
-  "about_the_game": "<img src=\"https://steamcdn-a.akamaihd.net/steam/apps/731700/extras/wildd.jpg?t=1523344454\" >",
+  "detailed_description": "<img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/731700/extras/wildd.jpg?t=1523344454\" crossorigin=\"anonymous\">",
+  "about_the_game": "<img src=\"https://%CDN_HOST_MEDIA_SSL%/steam/apps/731700/extras/wildd.jpg?t=1523344454\" crossorigin=\"anonymous\">",
   "short_description": "The largest open world VR city. Experience total freedom and the pure joy of gaming while testing the limits of virtual reality. Wild Downtown is a VR game where you can dominate the whole city.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/731700/header.jpg?t=1523344454",
@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 899,
-    "discount_percent": 10
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     213483
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 213483,
-          "percent_savings_text": "-10%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Wild Downtown - <span class=\"discount_original_price\">9,99\u20ac</span> 8,99\u20ac",
+          "option_text": "Wild Downtown - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 899
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -297,6 +299,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Dec, 2017"
@@ -305,5 +310,9 @@
     "url": "http://u24solutions.com",
     "email": "info@u24solutions.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/731700/page_bg_generated_v6b.jpg?t=1523344454"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/731700/page_bg_generated_v6b.jpg?t=1523344454",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

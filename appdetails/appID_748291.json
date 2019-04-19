@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     219688
@@ -118,6 +120,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/748291/ss_d167ce13ff14660db6a4300b866e8484c02ed79f.1920x1080.jpg?t=1519398054"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Jan, 2018"
@@ -126,5 +131,13 @@
     "url": "www.remothered.com",
     "email": "steamsupport@stormindgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/748291/page_bg_generated_v6b.jpg?t=1519398054"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/748291/page_bg_generated_v6b.jpg?t=1519398054",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

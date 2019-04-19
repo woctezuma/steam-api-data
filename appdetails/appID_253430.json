@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     31020,
@@ -184,7 +186,7 @@
     }
   ],
   "recommendations": {
-    "total": 5757
+    "total": 4441
   },
   "achievements": {
     "total": 31,
@@ -239,5 +241,9 @@
     "url": "http://www.digitaldnagames.com/Support.aspx",
     "email": "support@digitaldnagames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/253430/page_bg_generated_v6b.jpg?t=1509052644"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/253430/page_bg_generated_v6b.jpg?t=1509052644",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,8 +11,8 @@
     "appid": "374040",
     "name": "Portal Knights"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Portuguese-Brazil, Russian, Finnish, Japanese, Korean, Norwegian, Simplified Chinese, Swedish, Polish, Turkish, Czech, Thai",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/617120/header.jpg?t=1495120424",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Finnish, Japanese, Korean, Norwegian, Simplified Chinese, Swedish, Polish, Turkish, Czech, Thai",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/617120/header.jpg?t=1529574890",
   "website": "http://portalknights.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64bit Versions of Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> AMD Phenom(tm) 8450 Triple-Core Processor (3 CPUs), ~2.1GHz or Intel Core 2 Duo E8400 @ 3.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Graphics: NVIDIA\u00ae GeForce GTX 470 (1Gb VRAM) / ATI Radeon TM HD 6870 (1Gb VRAM)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> On Board</li></ul>",
@@ -25,13 +25,15 @@
     "Keen Games"
   ],
   "publishers": [
-    "505 Gamwa"
+    "505 Games"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     165509
@@ -107,10 +109,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/617120/ss_f8c062c5ba21770756b110a25e1f9268611c0e36.600x338.jpg?t=1495120424",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/617120/ss_f8c062c5ba21770756b110a25e1f9268611c0e36.1920x1080.jpg?t=1495120424"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/617120/ss_f8c062c5ba21770756b110a25e1f9268611c0e36.600x338.jpg?t=1529574890",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/617120/ss_f8c062c5ba21770756b110a25e1f9268611c0e36.1920x1080.jpg?t=1529574890"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 May, 2017"
@@ -119,5 +124,9 @@
     "url": "",
     "email": "support@505games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/617120/page_bg_generated_v6b.jpg?t=1495120424"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/617120/page_bg_generated_v6b.jpg?t=1529574890",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

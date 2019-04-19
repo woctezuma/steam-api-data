@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     130693
@@ -127,6 +129,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Sep, 2016"
@@ -135,5 +140,9 @@
     "url": "",
     "email": "biplekfp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/536340/page_bg_generated_v6b.jpg?t=1475287888"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/536340/page_bg_generated_v6b.jpg?t=1475287888",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

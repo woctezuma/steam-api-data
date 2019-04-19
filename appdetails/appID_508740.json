@@ -11,8 +11,8 @@
   "detailed_description": "<h1>Soundtrack Included!</h1><p>Full game soundtrack included, including four songs written, composed, and performed for the game in the style of Italian 70s music.</p><br><h1>About the Game</h1>A narrative road trip game set in the roaring Italian 70s, it tells the story of Lella, a restless woman driving on the roads of the western coast of Italy, the famous \u201cVia Aurelia\u201d. \r\n\r\nThis is an interactive fiction in the shape of an isometric driving game and with a focus on replayability: every playthrough lasts about fifteen minutes and there are sixteen different endings to discover.\r\n\r\nThe 1970s in Italy were a time of terrorism, kidnappings, and political turmoil. Based on your choices and the places you'll decide to visit you may end up in car chases, illegal street races, or in tense debates with a catholic priest, and more from a cast of characters that you have never met before in a video game.",
   "about_the_game": "A narrative road trip game set in the roaring Italian 70s, it tells the story of Lella, a restless woman driving on the roads of the western coast of Italy, the famous \u201cVia Aurelia\u201d. <br />\r\n<br />\r\nThis is an interactive fiction in the shape of an isometric driving game and with a focus on replayability: every playthrough lasts about fifteen minutes and there are sixteen different endings to discover.<br />\r\n<br />\r\nThe 1970s in Italy were a time of terrorism, kidnappings, and political turmoil. Based on your choices and the places you'll decide to visit you may end up in car chases, illegal street races, or in tense debates with a catholic priest, and more from a cast of characters that you have never met before in a video game.",
   "short_description": "A narrative road trip game set in the roaring Italian 70s, it tells the story of Lella, a restless woman driving on the roads of the western coast of Italy, the famous \u201cVia Aurelia\u201d.",
-  "supported_languages": "English, French, Italian, Spanish, Russian, German",
-  "reviews": "\u201cThe year's smartest driving sim\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.eurogamer.net/articles/2015-10-02-wheels-of-aurelia-a-game-about-driving\" target=\"_blank\" rel=\"noopener\"  >Christian Donlan \u2013 Eurogamer</a></a><br><br>\u201cA strangely perfect modelling of the real world\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.bbc.com/autos/story/20151216-driving-game-meets-interactive-fiction\" target=\"_blank\" rel=\"noopener\"  >David K Gibson \u2013 BBC</a></a><br>",
+  "supported_languages": "English, French, Italian, Spanish - Spain, Russian, German",
+  "reviews": "\u201cThe year's smartest driving sim\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.eurogamer.net/articles/2015-10-02-wheels-of-aurelia-a-game-about-driving\" target=\"_blank\" rel=\"noopener\"  >Christian Donlan \u2013 Eurogamer</a><br><br>\u201cA strangely perfect modelling of the real world\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.bbc.com/autos/story/20151216-driving-game-meets-interactive-fiction\" target=\"_blank\" rel=\"noopener\"  >David K Gibson \u2013 BBC</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/508740/header.jpg?t=1485357238",
   "website": "http://wheelsofaurelia.com",
   "pc_requirements": {
@@ -33,8 +33,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 99,
+    "discount_percent": 90,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     117654
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 117654,
-          "percent_savings_text": "",
+          "percent_savings_text": "-90%",
           "percent_savings": 0,
-          "option_text": "Wheels of Aurelia - 9,99\u20ac",
+          "option_text": "Wheels of Aurelia - <span class=\"discount_original_price\">9,99\u20ac</span> 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -69,7 +71,7 @@
   },
   "metacritic": {
     "score": 63,
-    "url": "http://www.metacritic.com/game/pc/wheels-of-aurelia?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/wheels-of-aurelia?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -230,5 +232,9 @@
     "url": "http://wheelsofaurelia.com/",
     "email": "info@santaragione.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/508740/page_bg_generated_v6b.jpg?t=1485357238"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/508740/page_bg_generated_v6b.jpg?t=1485357238",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

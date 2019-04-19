@@ -21,9 +21,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 889,
+    "final": 889,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,89\u20ac"
   },
   "packages": [
     2030
@@ -42,11 +44,11 @@
           "packageid": 2030,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Crash Time 2 - 9,99\u20ac",
+          "option_text": "Crash Time 2 - 8,89\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 889
         }
       ]
     }
@@ -160,7 +162,10 @@
     }
   ],
   "recommendations": {
-    "total": 2101
+    "total": 935
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -170,5 +175,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/11390/page_bg_generated_v6b.jpg?t=1512420715"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/11390/page_bg_generated_v6b.jpg?t=1512420715",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

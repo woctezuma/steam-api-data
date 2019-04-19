@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     42709
@@ -49,11 +51,11 @@
           "packageid": 42709,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TownCraft - 9,99\u20ac",
+          "option_text": "TownCraft - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -157,6 +159,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Feb, 2015"
@@ -165,5 +170,9 @@
     "url": "http://www.flatearthgames.com.au/",
     "email": "support@flatearthgames.com.au"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/296280/page_bg_generated_v6b.jpg?t=1447361532"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/296280/page_bg_generated_v6b.jpg?t=1447361532",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

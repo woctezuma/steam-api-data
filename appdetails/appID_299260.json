@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     43638
@@ -124,8 +126,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 494
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -135,5 +137,9 @@
     "url": "http://colossalgames.eu/contact.html",
     "email": "support@colossalgames.eu"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/299260/page_bg_generated_v6b.jpg?t=1456962454"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/299260/page_bg_generated_v6b.jpg?t=1456962454",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

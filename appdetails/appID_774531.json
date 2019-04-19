@@ -11,14 +11,18 @@
   "about_the_game": "<strong>Snail Trek - Chapter 4: The Final Fondue</strong> is the final in a series of four &quot;20 minute adventures&quot; where you take on the role of a crew of snails on a journey to a new home world.<br><br>In the style of the early Sierra Online adventure games, Snail Trek has colorful <i>EGA-ish</i> graphics and a text parser interface. Relive the nostalgia in these bite-sized adventures - but without all the pain. Autosaves, a text parser with auto-suggest, and puzzles with no dead ends, all combine to bring this old genre into the modern era.<br><br>In Chapter 4, it seems like the end is near. You've fallen into a trap and your entire civilization may be doomed. Can you muster your courage and cleverness one last time to save the day?<br><br><strong>Key Features</strong><br><ul class=\"bb_ul\"><li> Switchable characters - solve puzzles by having the snails work together.<br></li><li> Autosaves - no need to save every few minutes (though you still can if you want).<br></li><li> A text parser with both auto-suggest and auto-correct - fat finger your way to puzzle glory (but you can turn them off if you want to suffer more greatly).<br></li><li> A text parser that understands what objects are in front of you, so you can be lazy and just type things like 'get' or 'look'.<br></li><li> CRT emulation mode that gives those pixels an ever-so-slightly fuzzy look.<br></li><li> A stereophonic score.<br></li><li> Cute snails.<br></li><li> Deaths (but hey, autosaves).<br></li><li> No dead ends! Puzzle your way around with impunity!<br></li><li> Widescreen aspect ratio, since monitors are more rectangular now.</li></ul>",
   "short_description": "Relive 1980s nostalgia in this text parser driven graphic adventure game. You and your molluscan crew embark on an epic journey to find a new home world. In Chapter 4 - The Final Fondue, the story concludes. Your entire civilization is heading towards its doom, and it's up to you to save the world.",
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/774531/header.jpg?t=1523492002",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/774531/header.jpg?t=1547349871",
   "website": "http://snailtrek.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 3000 or better<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 3000 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
   },
-  "mac_requirements": [],
-  "linux_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.7<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 3000 or better<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu/SteamOS 64-bit<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 3000 or better<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+  },
   "developers": [
     "Phil Fortier"
   ],
@@ -27,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 43,
+    "discount_percent": 46,
+    "initial_formatted": "0,79\u20ac",
+    "final_formatted": "0,43\u20ac"
   },
   "packages": [
     232244
@@ -46,21 +52,21 @@
       "subs": [
         {
           "packageid": 232244,
-          "percent_savings_text": "",
+          "percent_savings_text": "-46%",
           "percent_savings": 0,
-          "option_text": "Snail Trek 4 - 0,99\u20ac",
+          "option_text": "Snail Trek 4 - <span class=\"discount_original_price\">0,79\u20ac</span> 0,43\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 43
         }
       ]
     }
   ],
   "platforms": {
     "windows": true,
-    "mac": false,
-    "linux": false
+    "mac": true,
+    "linux": true
   },
   "categories": [
     {
@@ -85,38 +91,38 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_40e364b43669085636c1e7c9e6279247f4580174.600x338.jpg?t=1523492002",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_40e364b43669085636c1e7c9e6279247f4580174.1920x1080.jpg?t=1523492002"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_40e364b43669085636c1e7c9e6279247f4580174.600x338.jpg?t=1547349871",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_40e364b43669085636c1e7c9e6279247f4580174.1920x1080.jpg?t=1547349871"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_d745f9b98956a4f76fd6bf13b2e21d1ee46f713a.600x338.jpg?t=1523492002",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_d745f9b98956a4f76fd6bf13b2e21d1ee46f713a.1920x1080.jpg?t=1523492002"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_d745f9b98956a4f76fd6bf13b2e21d1ee46f713a.600x338.jpg?t=1547349871",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_d745f9b98956a4f76fd6bf13b2e21d1ee46f713a.1920x1080.jpg?t=1547349871"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_fa00e6e983367776cc3765a92bbd5b56ac95a444.600x338.jpg?t=1523492002",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_fa00e6e983367776cc3765a92bbd5b56ac95a444.1920x1080.jpg?t=1523492002"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_fa00e6e983367776cc3765a92bbd5b56ac95a444.600x338.jpg?t=1547349871",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_fa00e6e983367776cc3765a92bbd5b56ac95a444.1920x1080.jpg?t=1547349871"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_b4e94a85557fd4d3dd3f4f77708785012d03e275.600x338.jpg?t=1523492002",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_b4e94a85557fd4d3dd3f4f77708785012d03e275.1920x1080.jpg?t=1523492002"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_b4e94a85557fd4d3dd3f4f77708785012d03e275.600x338.jpg?t=1547349871",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_b4e94a85557fd4d3dd3f4f77708785012d03e275.1920x1080.jpg?t=1547349871"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_bbc09ab2c5ede78a2453470c7e2a0b51ec7dbc38.600x338.jpg?t=1523492002",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_bbc09ab2c5ede78a2453470c7e2a0b51ec7dbc38.1920x1080.jpg?t=1523492002"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_bbc09ab2c5ede78a2453470c7e2a0b51ec7dbc38.600x338.jpg?t=1547349871",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_bbc09ab2c5ede78a2453470c7e2a0b51ec7dbc38.1920x1080.jpg?t=1547349871"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_83d1a8439c8f2f09e19bcd3f7b30b36938602230.600x338.jpg?t=1523492002",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_83d1a8439c8f2f09e19bcd3f7b30b36938602230.1920x1080.jpg?t=1523492002"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_83d1a8439c8f2f09e19bcd3f7b30b36938602230.600x338.jpg?t=1547349871",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_83d1a8439c8f2f09e19bcd3f7b30b36938602230.1920x1080.jpg?t=1547349871"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_ff3dc6c2f0730610475f4fdeade91dee67394911.600x338.jpg?t=1523492002",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_ff3dc6c2f0730610475f4fdeade91dee67394911.1920x1080.jpg?t=1523492002"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_ff3dc6c2f0730610475f4fdeade91dee67394911.600x338.jpg?t=1547349871",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/774531/ss_ff3dc6c2f0730610475f4fdeade91dee67394911.1920x1080.jpg?t=1547349871"
     }
   ],
   "movies": [
@@ -180,5 +186,9 @@
     "url": "http://snailtrek.com",
     "email": "phil@icefallgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/774531/page_bg_generated_v6b.jpg?t=1523492002"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/774531/page_bg_generated_v6b.jpg?t=1547349871",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

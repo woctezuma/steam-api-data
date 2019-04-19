@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     53025
@@ -64,7 +66,7 @@
   },
   "metacritic": {
     "score": 82,
-    "url": "http://www.metacritic.com/game/pc/b-17-flying-fortress-the-mighty-8th?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/b-17-flying-fortress-the-mighty-8th?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -137,6 +139,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Oct, 2014"
@@ -145,5 +150,9 @@
     "url": "",
     "email": "support@retroism.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/328900/page_bg_generated_v6b.jpg?t=1486598348"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/328900/page_bg_generated_v6b.jpg?t=1486598348",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

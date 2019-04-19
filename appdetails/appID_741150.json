@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "ArtPose Pro is a fun and artistic app for posing the Male and female figure.  Create fast and dynamic poses in minutes.  Quickly flesh out an ideal pose to use in your favorite art apps. ArtPose Pro lets you Pose two figures together male or female at the same time.  Change the size shape of the figures and the lighting to get just the look you want. 240 preset starter poses make getting started a snap.  ArtPose is about keeping you in the moment of creation.",
   "about_the_game": "ArtPose Pro is a fun and artistic app for posing the Male and female figure.  Create fast and dynamic poses in minutes.  Quickly flesh out an ideal pose to use in your favorite art apps. ArtPose Pro lets you Pose two figures together male or female at the same time.  Change the size shape of the figures and the lighting to get just the look you want. 240 preset starter poses make getting started a snap.  ArtPose is about keeping you in the moment of creation.",
-  "short_description": "ArtPose Pro is a fun and artistic app for posing the Male and female figure.  Create fast and dynamic poses in minutes.  Quickly flesh out an ideal pose to use in your favorite art apps. ArtPose Pro lets you Pose two figures together male or female at the same time.  Change the size shape of the figures and the lighting to get just the look you want.  ArtPose is about keeping you in the moment of creation.",
+  "short_description": "ArtPose Pro is a fun and artistic app for posing the Male and female figure. Create fast and dynamic poses in minutes. Quickly flesh out an ideal pose to use in your favorite art apps. ArtPose Pro lets you Pose two figures together male or female at the same time.",
   "supported_languages": "English, Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/741150/header.jpg?t=1520496119",
   "website": null,
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     217071
@@ -112,6 +114,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Mar, 2018"
@@ -120,5 +125,12 @@
     "url": "http://art-pose.com/artpose.html",
     "email": "artpose.app@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/741150/page_bg_generated_v6b.jpg?t=1520496119"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/741150/page_bg_generated_v6b.jpg?t=1520496119",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

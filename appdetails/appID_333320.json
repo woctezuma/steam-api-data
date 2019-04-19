@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The official soundtrack for <i>Sneaky Sneaky</i>.<br><br>1. Sneaky Sneaky<br>2. Overworld<br>3. Discreet Dungeon<br>4. The Forest is Watching<br>5. You've Been Spotted!<br>6. Stealth Sands<br>7. Epic Trailer",
   "about_the_game": "The official soundtrack for <i>Sneaky Sneaky</i>.<br><br>1. Sneaky Sneaky<br>2. Overworld<br>3. Discreet Dungeon<br>4. The Forest is Watching<br>5. You've Been Spotted!<br>6. Stealth Sands<br>7. Epic Trailer",
-  "short_description": "The official soundtrack for <i>Sneaky Sneaky</i>.",
+  "short_description": "The official soundtrack for Sneaky Sneaky.",
   "fullgame": {
     "appid": "259410",
     "name": "Sneaky Sneaky"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     54666
@@ -108,5 +110,9 @@
     "url": "http://naiadentertainment.com/contact/",
     "email": "info@naiadentertainment.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/333320/page_bg_generated_v6b.jpg?t=1447365074"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/333320/page_bg_generated_v6b.jpg?t=1447365074",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

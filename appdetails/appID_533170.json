@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 99,
-    "discount_percent": 80
+    "discount_percent": 80,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     128987
@@ -195,5 +197,9 @@
     "url": "",
     "email": "bartosz.bojarowski@Yahoo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/533170/page_bg_generated_v6b.jpg?t=1483779005"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/533170/page_bg_generated_v6b.jpg?t=1483779005",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

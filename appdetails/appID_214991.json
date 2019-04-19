@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Enhance your Hearts of Iron III experience with the Axis Minors Vehicle Pack. This pack contains 28 new skins for 12 vehicles to be used by the Axis Minor nations in World War II. Included in this pack are vehicles for Hungaria, Bulgaria, Romania and Slovakia. These range from the Italian designed Carro Veloce 33 through the Hungarian Turan I to late-war German Panther tanks.",
   "about_the_game": "Enhance your Hearts of Iron III experience with the Axis Minors Vehicle Pack. This pack contains 28 new skins for 12 vehicles to be used by the Axis Minor nations in World War II. Included in this pack are vehicles for Hungaria, Bulgaria, Romania and Slovakia. These range from the Italian designed Carro Veloce 33 through the Hungarian Turan I to late-war German Panther tanks.",
-  "short_description": "",
+  "short_description": "Enhance your Hearts of Iron III experience with the Axis Minors Vehicle Pack. This pack contains 28 new skins for 12 vehicles to be used by the Axis Minor nations in World War II. Included in this pack are vehicles for Hungaria, Bulgaria, Romania and Slovakia.",
   "fullgame": {
     "appid": "25890",
     "name": "Hearts of Iron III"
@@ -30,11 +30,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    29643,
-    37223
+    29643
   ],
   "package_groups": [
     {
@@ -55,16 +56,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 199
-        },
-        {
-          "packageid": 37223,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron Collection III (Jan 2014) - 41,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4199
         }
       ]
     }
@@ -150,6 +141,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/214991/ss_d8d49b3039813ab2e519b5cf235916027996bea0.1920x1080.jpg?t=1447358120"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Jul, 2013"
@@ -158,5 +152,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214991/page_bg_generated_v6b.jpg?t=1447358120"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214991/page_bg_generated_v6b.jpg?t=1447358120",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\"><strong>Agarest 2 - DLC Bundle #2</strong></h2><br><strong>2nd Generation Exclusive Pack</strong><br>Exclusive equipment for the characters of the second generation.<br>Familial Memory (Schwarz) x 1, Servir Belt (Vanessa) x 1, Healing Star (Li Ra-Lua) x 1, Grooming Kit (Yumil) x 1,  Rigueur Ring (Ignis) x 1, Scarf of Passion (Jude) x 1<br><br><strong>Shaldie Mail Order 1 Pack</strong><br>One of my experiments went sideways on me and I ended up conjuring up a pile of useless cra-- I mean a treasure trove of wonderful items. I owe you a favor or two, so I'll let you have it all... at a very reasonable price. It's not like I'm ever going to use it, anyway.<br>Tenma Sword x 1, Hakken Meteor x 1, Legendary Paw x 1, Gate of Hell x 1, Wind of Carillon x 1<br><br><strong>Frensberge Specialty Pack 3</strong><br>A wonderful collection of items made in the image of Frensberge's most colourful citizens! Like those other creature thingies, you gotta collect them all! Seriously, if you want to be accepted as a TRUE Frensberger, you'll need all of this stuff! Oh, and a note from Gordon: I've included the mother of all forbidden guns. Use at your own risk.<br>The Comic Foil x 1, Wienerwurst x 1, Childhood Meatloaf x 1, Overkill Gun x 1, Holy Lamp Uniform x 1, Guild Uniform x 1<br><br><strong>Frensberge Specialty Pack 4</strong><br>A collection of items made in the image of Frensberge's most colourful citizens! If you want to be accepted as a TRUE Frensberger, you'll need all of this stuff! What's this? A note from Chloe: I'm making stew tonight. If you come home late, expect the -Queen of Iron Fist Matrimony-.<br>Banana Sword x 1, Chickapede Alert x 1, Red Thrusting Hell x 1, Le Crusher x 1, Chloe's Incense x 1, Merchant's Charm x 1<br><br><strong>Bonus Point Pack 4</strong><br>Thank you yet again for your business. To reward your headlong march towards insolvency, we have put together a package of useful points and cold cash.<br>Included within: 10,000,000G, 1,000PP, 100,000TP",
   "about_the_game": "<h2 class=\"bb_tag\"><strong>Agarest 2 - DLC Bundle #2</strong></h2><br><strong>2nd Generation Exclusive Pack</strong><br>Exclusive equipment for the characters of the second generation.<br>Familial Memory (Schwarz) x 1, Servir Belt (Vanessa) x 1, Healing Star (Li Ra-Lua) x 1, Grooming Kit (Yumil) x 1,  Rigueur Ring (Ignis) x 1, Scarf of Passion (Jude) x 1<br><br><strong>Shaldie Mail Order 1 Pack</strong><br>One of my experiments went sideways on me and I ended up conjuring up a pile of useless cra-- I mean a treasure trove of wonderful items. I owe you a favor or two, so I'll let you have it all... at a very reasonable price. It's not like I'm ever going to use it, anyway.<br>Tenma Sword x 1, Hakken Meteor x 1, Legendary Paw x 1, Gate of Hell x 1, Wind of Carillon x 1<br><br><strong>Frensberge Specialty Pack 3</strong><br>A wonderful collection of items made in the image of Frensberge's most colourful citizens! Like those other creature thingies, you gotta collect them all! Seriously, if you want to be accepted as a TRUE Frensberger, you'll need all of this stuff! Oh, and a note from Gordon: I've included the mother of all forbidden guns. Use at your own risk.<br>The Comic Foil x 1, Wienerwurst x 1, Childhood Meatloaf x 1, Overkill Gun x 1, Holy Lamp Uniform x 1, Guild Uniform x 1<br><br><strong>Frensberge Specialty Pack 4</strong><br>A collection of items made in the image of Frensberge's most colourful citizens! If you want to be accepted as a TRUE Frensberger, you'll need all of this stuff! What's this? A note from Chloe: I'm making stew tonight. If you come home late, expect the -Queen of Iron Fist Matrimony-.<br>Banana Sword x 1, Chickapede Alert x 1, Red Thrusting Hell x 1, Le Crusher x 1, Chloe's Incense x 1, Merchant's Charm x 1<br><br><strong>Bonus Point Pack 4</strong><br>Thank you yet again for your business. To reward your headlong march towards insolvency, we have put together a package of useful points and cold cash.<br>Included within: 10,000,000G, 1,000PP, 100,000TP",
-  "short_description": "<h2 class=\"bb_tag\"><strong>Agarest 2 - DLC Bundle #2</strong></h2>2nd Generation Exclusive Pack, Shaldie Mail Order 1 Pack, Frensberge Specialty Pack 3, Frensberge Specialty Pack 4, Bonus Point Pack 4",
+  "short_description": "Agarest 2 - DLC Bundle #22nd Generation Exclusive Pack, Shaldie Mail Order 1 Pack, Frensberge Specialty Pack 3, Frensberge Specialty Pack 4, Bonus Point Pack 4",
   "fullgame": {
     "appid": "312790",
     "name": "Agarest: Generations of War 2"
@@ -31,10 +31,12 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
-    "58225"
+    58225
   ],
   "package_groups": [
     {
@@ -47,7 +49,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "58225",
+          "packageid": 58225,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Agarest 2 - Bundle #2 - 7,99\u20ac",
@@ -123,6 +125,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Mar, 2015"
@@ -131,5 +136,9 @@
     "url": "https://www.ghostlight.uk.com/",
     "email": "support@ghostlight.uk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/343421/page_bg_generated_v6b.jpg?t=1447367369"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/343421/page_bg_generated_v6b.jpg?t=1447367369",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

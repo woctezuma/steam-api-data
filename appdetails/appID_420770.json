@@ -9,9 +9,9 @@
   ],
   "detailed_description": "<strong><br>The Legend of Dark Witch is a 2D platform action game. <br>Zizou can learn new attacks by defeating bosses. <br>She will need every one of those attacks if she is going to save the world. <br><br>-A magical world beautifully depicted through in-game graphics. <br>-Diverse levels that provide a fair challenge. <br>-Additional bonuses that reward those who replay the game. <br>-3 difficulty modes. </strong>",
   "about_the_game": "<strong><br>The Legend of Dark Witch is a 2D platform action game. <br>Zizou can learn new attacks by defeating bosses. <br>She will need every one of those attacks if she is going to save the world. <br><br>-A magical world beautifully depicted through in-game graphics. <br>-Diverse levels that provide a fair challenge. <br>-Additional bonuses that reward those who replay the game. <br>-3 difficulty modes. </strong>",
-  "short_description": "<strong>-A magical world beautifully depicted through in-game graphics. <br>-Diverse levels that provide a fair challenge. <br>-Additional bonuses that reward those who replay the game. <br>-3 difficulty modes. </strong>",
+  "short_description": "-A magical world beautifully depicted through in-game graphics. -Diverse levels that provide a fair challenge. -Additional bonuses that reward those who replay the game. -3 difficulty modes.",
   "supported_languages": "English, Japanese<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-  "reviews": "85 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.nintendoworldreport.com/review/38889/the-legend-of-dark-witch-review\" target=\"_blank\" rel=\"noopener\"  >NintendoWorldReport</a></a><br><br>80 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://fnintendo.net/article/5558-the-legend-of-dark-witch-chronicle-2d-act\" target=\"_blank\" rel=\"noopener\"  >FNintendo</a></a><br><br>70 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.nintendolife.com/reviews/3ds-eshop/legend_of_dark_witch\" target=\"_blank\" rel=\"noopener\"  >Nintendo Life</a></a><br>",
+  "reviews": "85 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.nintendoworldreport.com/review/38889/the-legend-of-dark-witch-review\" target=\"_blank\" rel=\"noopener\"  >NintendoWorldReport</a><br><br>80 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://fnintendo.net/article/5558-the-legend-of-dark-witch-chronicle-2d-act\" target=\"_blank\" rel=\"noopener\"  >FNintendo</a><br><br>70 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.nintendolife.com/reviews/3ds-eshop/legend_of_dark_witch\" target=\"_blank\" rel=\"noopener\"  >Nintendo Life</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/420770/header.jpg?t=1458102938",
   "website": "http://insidesystem.heteml.jp/mjsj2/",
   "pc_requirements": {
@@ -30,10 +30,13 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    85707
+    85707,
+    343792
   ],
   "package_groups": [
     {
@@ -50,6 +53,16 @@
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "The Legend of Dark Witch - 4,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 499
+        },
+        {
+          "packageid": 343792,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "The Legend of Dark Witch - Commercial License - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -162,7 +175,7 @@
     }
   ],
   "recommendations": {
-    "total": 163
+    "total": 133
   },
   "achievements": {
     "total": 23,
@@ -217,5 +230,9 @@
     "url": "",
     "email": "insidesystemgame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/420770/page_bg_generated_v6b.jpg?t=1458102938"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/420770/page_bg_generated_v6b.jpg?t=1458102938",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

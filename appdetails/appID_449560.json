@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     96425
@@ -217,5 +219,9 @@
     "url": "http://www.themojocollective.com/spacerangerask",
     "email": "mail@ianfrank.dk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449560/page_bg_generated_v6b.jpg?t=1472192455"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449560/page_bg_generated_v6b.jpg?t=1472192455",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

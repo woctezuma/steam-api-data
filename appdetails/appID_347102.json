@@ -20,7 +20,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "(C) 2015 Rite Publishing. RP and all related marks and logos are trademarks of Rite Publishing. All rights reserved. Used with permission. (C) 2015. All Rights Reserved.<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2015 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a></a> for more product information.",
+  "legal_notice": "(C) 2015 Rite Publishing. RP and all related marks and logos are trademarks of Rite Publishing. All rights reserved. Used with permission. (C) 2015. All Rights Reserved.<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2015 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a> for more product information.",
   "developers": [
     "SmiteWorks USA, LLC"
   ],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     59672
@@ -128,6 +130,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/347102/ss_19e5c7b22a3279c1ca6601108ab086732ead9e0b.1920x1080.jpg?t=1447368339"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Jan, 2015"
@@ -136,5 +141,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/347102/page_bg_generated_v6b.jpg?t=1447368339"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/347102/page_bg_generated_v6b.jpg?t=1447368339",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

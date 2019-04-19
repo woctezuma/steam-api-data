@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     223341
@@ -191,5 +193,9 @@
     "url": "http://www.taggrin.com",
     "email": "tag@taggrin.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/757190/page_bg_generated_v6b.jpg?t=1513353665"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/757190/page_bg_generated_v6b.jpg?t=1513353665",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

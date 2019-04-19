@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1299,
-    "final": 1299,
-    "discount_percent": 0
+    "initial": 1079,
+    "final": 1079,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,79\u20ac"
   },
   "packages": [
     47283
@@ -48,11 +50,11 @@
           "packageid": 47283,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Metrocide - 12,99\u20ac",
+          "option_text": "Metrocide - 10,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1299
+          "price_in_cents_with_discount": 1079
         }
       ]
     }
@@ -64,7 +66,7 @@
   },
   "metacritic": {
     "score": 68,
-    "url": "http://www.metacritic.com/game/pc/metrocide?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/metrocide?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -164,9 +166,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 148
-  },
   "achievements": {
     "total": 33,
     "highlighted": [
@@ -220,5 +219,9 @@
     "url": "http://www.flatearthgames.com.au",
     "email": "contact@flatearthgames.com.au"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/313130/page_bg_generated_v6b.jpg?t=1447362620"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/313130/page_bg_generated_v6b.jpg?t=1447362620",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

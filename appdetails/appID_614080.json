@@ -12,7 +12,7 @@
     "appid": "463270",
     "name": "Ghost 1.0"
   },
-  "supported_languages": "English<strong>*</strong>, Italian, German, Spanish<strong>*</strong>, French, Russian<strong>*</strong>, Czech<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, Italian, German, Spanish - Spain<strong>*</strong>, French, Russian<strong>*</strong>, Czech<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/614080/header.jpg?t=1490475473",
   "website": "https://www.facebook.com/ghost10game",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     164534
@@ -110,6 +112,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/614080/ss_96c659142b03b74b58f5b2882cfc2f0629aa3692.1920x1080.jpg?t=1490475473"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Mar, 2017"
@@ -118,5 +123,9 @@
     "url": "",
     "email": "unepicgame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/614080/page_bg_generated_v6b.jpg?t=1490475473"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/614080/page_bg_generated_v6b.jpg?t=1490475473",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

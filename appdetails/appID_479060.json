@@ -12,7 +12,7 @@
     "name": "WildStar"
   },
   "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/479060/header.jpg?t=1466784708",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/479060/header.jpg?t=1536712907",
   "website": "http://www.wildstar-online.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae XP SP3 (32-bit) or later<br></li><li><strong>Processor:</strong> Intel\u00ae Pentium\u00ae Core2 Duo 2.4 GHz, AMD Phenom\u2122 X3 2.3 GHz, or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\u00ae 8800 GT, ATI\u00ae Radeon\u00ae HD 4850, or better<br></li><li><strong>Storage:</strong> 30 GB available space</li></ul>",
@@ -27,38 +27,7 @@
   "publishers": [
     "NCSOFT"
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
-  },
-  "packages": [
-    107056
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy WildStar: Captain's Pack",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 107056,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "WildStar: Captain's Pack - 9,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 999
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -66,7 +35,7 @@
   },
   "metacritic": {
     "score": 82,
-    "url": "http://www.metacritic.com/game/pc/wildstar?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/wildstar?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -103,15 +72,18 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/479060/ss_b6bb3542b357982519e0ce95484e77db406bb5bb.600x338.jpg?t=1466784708",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/479060/ss_b6bb3542b357982519e0ce95484e77db406bb5bb.1920x1080.jpg?t=1466784708"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/479060/ss_b6bb3542b357982519e0ce95484e77db406bb5bb.600x338.jpg?t=1536712907",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/479060/ss_b6bb3542b357982519e0ce95484e77db406bb5bb.1920x1080.jpg?t=1536712907"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/479060/ss_b8a5e4da6a5088154be4062b46ad41e7c3d13814.600x338.jpg?t=1466784708",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/479060/ss_b8a5e4da6a5088154be4062b46ad41e7c3d13814.1920x1080.jpg?t=1466784708"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/479060/ss_b8a5e4da6a5088154be4062b46ad41e7c3d13814.600x338.jpg?t=1536712907",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/479060/ss_b8a5e4da6a5088154be4062b46ad41e7c3d13814.1920x1080.jpg?t=1536712907"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Jun, 2016"
@@ -120,5 +92,9 @@
     "url": "https://support.wildstar-online.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/479060/page_bg_generated_v6b.jpg?t=1466784708"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/479060/page_bg_generated_v6b.jpg?t=1536712907",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

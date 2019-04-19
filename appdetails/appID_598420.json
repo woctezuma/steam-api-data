@@ -6,13 +6,13 @@
   "is_free": false,
   "detailed_description": "The stunning theme song to Sunrider Academy! Music by Amasawa-Kobo, and vocals performed by Myu! Includes instrumental version and separate .pdf with lyrics.<br />\r\n<br />\r\nTrack List:<br />\r\n<br />\r\n01. Stardust Tears<br />\r\n02. Stardust Tears (Instrumental Version)",
   "about_the_game": "The stunning theme song to Sunrider Academy! Music by Amasawa-Kobo, and vocals performed by Myu! Includes instrumental version and separate .pdf with lyrics.<br />\r\n<br />\r\nTrack List:<br />\r\n<br />\r\n01. Stardust Tears<br />\r\n02. Stardust Tears (Instrumental Version)",
-  "short_description": "Sunrider Academy OP by Amasawa-Kobo feat. Myu",
+  "short_description": "Sunrider Academy OP by Amasawa-Kobo feat.",
   "fullgame": {
     "appid": "340730",
     "name": "Sunrider Academy"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/598420/header.jpg?t=1488431226",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/598420/header.jpg?t=1536873100",
   "website": "http://sunrider-vn.com/sunrideracademy/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Sound Card:</strong> Any audio output</li></ul>"
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     157075
@@ -87,14 +89,6 @@
   ],
   "genres": [
     {
-      "id": "71",
-      "description": "Sexual Content"
-    },
-    {
-      "id": "72",
-      "description": "Nudity"
-    },
-    {
       "id": "4",
       "description": "Casual"
     },
@@ -110,17 +104,27 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/598420/ss_22eed90350fd4880aca13c4450b5f3ba9280972a.600x338.jpg?t=1488431226",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/598420/ss_22eed90350fd4880aca13c4450b5f3ba9280972a.1920x1080.jpg?t=1488431226"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/598420/ss_22eed90350fd4880aca13c4450b5f3ba9280972a.600x338.jpg?t=1536873100",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/598420/ss_22eed90350fd4880aca13c4450b5f3ba9280972a.1920x1080.jpg?t=1536873100"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Feb, 2017"
   },
   "support_info": {
-    "url": "http://innomenpro.com/forums/index.php?board=7.0",
-    "email": "sunrider.visualnovel@gmail.com"
+    "url": "https://sekaiproject.com/contact/",
+    "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/598420/page_bg_generated_v6b.jpg?t=1488431226"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/598420/page_bg_generated_v6b.jpg?t=1536873100",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

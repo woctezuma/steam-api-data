@@ -15,7 +15,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/793540/header.jpg?t=1520446281",
   "website": "http://peachbeachsplash.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7+, 64-bit OS<br></li><li><strong>Processor:</strong> Intel Core i3-550 @ 3.2 GHz (2-core)<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTS 450<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 22 GB available space<br></li><li><strong>Sound Card:</strong> Compatible with DirectX 11.0</li></ul>"
+    "minimum": "<strong>M\u00ednimos:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 7+, 64-bit OS<br></li><li><strong>Processador:</strong> Intel Core i3-550 @ 3.2 GHz (2-core)<br></li><li><strong>Mem\u00f3ria:</strong> 6 GB de RAM<br></li><li><strong>Placa de v\u00eddeo:</strong> NVIDIA GeForce GTS 450<br></li><li><strong>DirectX:</strong> Vers\u00e3o 11<br></li><li><strong>Armazenamento:</strong> 22 GB de espa\u00e7o dispon\u00edvel<br></li><li><strong>Placa de som:</strong> Compatible with DirectX 11.0</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 2299,
     "final": 2299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "22,99\u20ac"
   },
   "packages": [
     240436
@@ -147,6 +149,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/793540/ss_dc38b2b606fd9f7d22bb18270851b4da942feed0.1920x1080.jpg?t=1520446281"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Mar, 2018"
@@ -155,5 +160,12 @@
     "url": "",
     "email": "support@xseedgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793540/page_bg_generated_v6b.jpg?t=1520446281"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793540/page_bg_generated_v6b.jpg?t=1520446281",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The <strong>Gigachess</strong> original soundtrack is a set of moody, atmospheric tracks blending piano, strings and a sprinkle of chiptunes. The OST is provided through Steam as high-quality (320 kbps) MP3s featuring seamless loops faithful to the music's in-game playback.<br><br><ul class=\"bb_ul\"><li>1. Title Theme (3:31)<br></li><li>2. Song A (2:07)<br></li><li>3. Song B (2:15)<br></li><li>4. Song C (5:53)<br></li><li>5. Song D (6:00)</li></ul>Album length: 19:46<br><br><i>Music by Trevor McAleese / Drixxel</i>",
   "about_the_game": "The <strong>Gigachess</strong> original soundtrack is a set of moody, atmospheric tracks blending piano, strings and a sprinkle of chiptunes. The OST is provided through Steam as high-quality (320 kbps) MP3s featuring seamless loops faithful to the music's in-game playback.<br><br><ul class=\"bb_ul\"><li>1. Title Theme (3:31)<br></li><li>2. Song A (2:07)<br></li><li>3. Song B (2:15)<br></li><li>4. Song C (5:53)<br></li><li>5. Song D (6:00)</li></ul>Album length: 19:46<br><br><i>Music by Trevor McAleese / Drixxel</i>",
-  "short_description": "The <strong>Gigachess</strong> OST is a set of moody, atmospheric tracks blending piano, strings and a sprinkle of chiptunes.",
+  "short_description": "The Gigachess OST is a set of moody, atmospheric tracks blending piano, strings and a sprinkle of chiptunes.",
   "fullgame": {
     "appid": "415910",
     "name": "Gigachess"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     159389
@@ -83,5 +85,9 @@
     "url": "http://gigatross.com",
     "email": "support@gigatross.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/604890/page_bg_generated_v6b.jpg?t=1517507053"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/604890/page_bg_generated_v6b.jpg?t=1517507053",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

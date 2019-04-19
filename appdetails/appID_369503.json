@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     67261
@@ -163,5 +165,9 @@
     "url": "https://www.facebook.com/gchis?fref=ts",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/369503/page_bg_generated_v6b.jpg?t=1447374160"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/369503/page_bg_generated_v6b.jpg?t=1447374160",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     110647
@@ -158,6 +160,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Jun, 2016"
@@ -166,5 +171,9 @@
     "url": "http://www.the-inferno-games.com/contact/",
     "email": "heatitup.inferno@web.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/489700/page_bg_generated_v6b.jpg?t=1467027593"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/489700/page_bg_generated_v6b.jpg?t=1467027593",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

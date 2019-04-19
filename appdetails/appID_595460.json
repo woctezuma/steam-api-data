@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     155674
@@ -142,7 +144,7 @@
     }
   ],
   "recommendations": {
-    "total": 158
+    "total": 157
   },
   "achievements": {
     "total": 23,
@@ -197,5 +199,9 @@
     "url": "http://www.kbrosinc.com",
     "email": "info@kbrosinc.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/595460/page_bg_generated_v6b.jpg?t=1488218749"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/595460/page_bg_generated_v6b.jpg?t=1488218749",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

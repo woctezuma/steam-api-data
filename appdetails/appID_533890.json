@@ -24,10 +24,12 @@
     "Georgy Topalo"
   ],
   "price_overview": {
-    "currency": "USD",
+    "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     129425
@@ -46,7 +48,7 @@
           "packageid": 129425,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "ReBoot - $1.99",
+          "option_text": "ReBoot - 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -170,11 +172,15 @@
   },
   "release_date": {
     "coming_soon": false,
-    "date": "Oct 19, 2016"
+    "date": "19 Oct, 2016"
   },
   "support_info": {
     "url": "",
     "email": "vessensem67@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/533890/page_bg_generated_v6b.jpg?t=1488132978"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/533890/page_bg_generated_v6b.jpg?t=1488132978",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

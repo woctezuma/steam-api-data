@@ -4,10 +4,10 @@
   "steam_appid": 251310,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<h1>Steam Greenlight</h1><p><a href=\"https://steamcommunity.com/linkfilter/?url=http://&quot;http://steamcommunity.com/greenlight/&quot;\" target=\"_blank\" rel=\"noopener\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/251310/extras/greenlightbanner.png?t=1447358639\" ></a></a></p><br><h1>About the Game</h1>Eleusis is a 3d first-person adventure game for Windows developed by Nocturnal Works using the technology of the unreal engine. It takes place in a seemingly abandoned village in Greece where the player character, while trying to seek refuge, finds himself in the center of a whirlwind of mysterious events.As the plot unfolds he finds clues that indicate that the village is a nest of a cult which plans to revive a dark force through an ancient ritual and harness its power. The player character faces the challenge of unlocking the forgotten knowledge of the ancient mysteries in order to stop the cult from accomplishing their goal.<br><br>   It is a story-driven game with emphasis on exploration, information gathering and also includes horror-survival elements. The player is called to solve inventory item based puzzles in order to proceed to unlock new areas and solve the mystery. The game\u2019s puzzles are made to challenge the player and are based on actual history, mythology and technology of ancient Greece. The player also needs to be cautious and use stealth tactics and agility to survive the threats looming the area.<h2 class=\"bb_tag\">Key Features:</h2><br><ul class=\"bb_ul\"><li>High detailed realistic graphics.<br></li><li>Explore open environment with realistic physics in the Greek countryside.<br></li><li>Use stealth tactics and agility to survive.<br></li><li>Use physics-based objects to defend yourself.<br></li><li>Challenging item\u2013based Puzzles with simple interface.<br></li><li>Dark atmosphere with eerie sounds.<br></li><li>Original storyline</li></ul>",
+  "detailed_description": "<h1>Steam Greenlight</h1><p><a href=\"https://steamcommunity.com/linkfilter/?url=http://&quot;http://steamcommunity.com/greenlight/&quot;\" target=\"_blank\" rel=\"noopener\"  ><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/251310/extras/greenlightbanner.png?t=1447358639\" ></a></p><br><h1>About the Game</h1>Eleusis is a 3d first-person adventure game for Windows developed by Nocturnal Works using the technology of the unreal engine. It takes place in a seemingly abandoned village in Greece where the player character, while trying to seek refuge, finds himself in the center of a whirlwind of mysterious events.As the plot unfolds he finds clues that indicate that the village is a nest of a cult which plans to revive a dark force through an ancient ritual and harness its power. The player character faces the challenge of unlocking the forgotten knowledge of the ancient mysteries in order to stop the cult from accomplishing their goal.<br><br>   It is a story-driven game with emphasis on exploration, information gathering and also includes horror-survival elements. The player is called to solve inventory item based puzzles in order to proceed to unlock new areas and solve the mystery. The game\u2019s puzzles are made to challenge the player and are based on actual history, mythology and technology of ancient Greece. The player also needs to be cautious and use stealth tactics and agility to survive the threats looming the area.<h2 class=\"bb_tag\">Key Features:</h2><br><ul class=\"bb_ul\"><li>High detailed realistic graphics.<br></li><li>Explore open environment with realistic physics in the Greek countryside.<br></li><li>Use stealth tactics and agility to survive.<br></li><li>Use physics-based objects to defend yourself.<br></li><li>Challenging item\u2013based Puzzles with simple interface.<br></li><li>Dark atmosphere with eerie sounds.<br></li><li>Original storyline</li></ul>",
   "about_the_game": "Eleusis is a 3d first-person adventure game for Windows developed by Nocturnal Works using the technology of the unreal engine. It takes place in a seemingly abandoned village in Greece where the player character, while trying to seek refuge, finds himself in the center of a whirlwind of mysterious events.As the plot unfolds he finds clues that indicate that the village is a nest of a cult which plans to revive a dark force through an ancient ritual and harness its power. The player character faces the challenge of unlocking the forgotten knowledge of the ancient mysteries in order to stop the cult from accomplishing their goal.<br><br>   It is a story-driven game with emphasis on exploration, information gathering and also includes horror-survival elements. The player is called to solve inventory item based puzzles in order to proceed to unlock new areas and solve the mystery. The game\u2019s puzzles are made to challenge the player and are based on actual history, mythology and technology of ancient Greece. The player also needs to be cautious and use stealth tactics and agility to survive the threats looming the area.<h2 class=\"bb_tag\">Key Features:</h2><br><ul class=\"bb_ul\"><li>High detailed realistic graphics.<br></li><li>Explore open environment with realistic physics in the Greek countryside.<br></li><li>Use stealth tactics and agility to survive.<br></li><li>Use physics-based objects to defend yourself.<br></li><li>Challenging item\u2013based Puzzles with simple interface.<br></li><li>Dark atmosphere with eerie sounds.<br></li><li>Original storyline</li></ul>",
-  "short_description": "",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Polish, Russian<br><strong>*</strong>languages with full audio support",
+  "short_description": "Eleusis is a 3d first-person adventure game for Windows developed by Nocturnal Works using the technology of the unreal engine. It takes place in a seemingly abandoned village in Greece where the player character, while trying to seek refuge, finds himself in the center of a whirlwind of mysterious events.",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/251310/header.jpg?t=1447358639",
   "website": "http://www.eleusisgame.com/",
   "pc_requirements": {
@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 1199,
-    "final": 1199,
-    "discount_percent": 0
+    "final": 179,
+    "discount_percent": 85,
+    "initial_formatted": "11,99\u20ac",
+    "final_formatted": "1,79\u20ac"
   },
   "packages": [
     30701
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 30701,
-          "percent_savings_text": "",
+          "percent_savings_text": "-85%",
           "percent_savings": 0,
-          "option_text": "Eleusis - 11,99\u20ac",
+          "option_text": "Eleusis - <span class=\"discount_original_price\">11,99\u20ac</span> 1,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1199
+          "price_in_cents_with_discount": 179
         }
       ]
     }
@@ -173,7 +175,10 @@
     }
   ],
   "recommendations": {
-    "total": 203
+    "total": 149
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -183,5 +188,9 @@
     "url": "http://www.eleusisgame.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/251310/page_bg_generated_v6b.jpg?t=1447358639"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/251310/page_bg_generated_v6b.jpg?t=1447358639",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

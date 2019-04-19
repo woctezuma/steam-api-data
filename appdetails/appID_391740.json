@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     74841
@@ -130,8 +132,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 403
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -141,5 +143,9 @@
     "url": "",
     "email": "BlasterShooter@aol.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/391740/page_bg_generated_v6b.jpg?t=1451887113"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/391740/page_bg_generated_v6b.jpg?t=1451887113",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     117775
@@ -131,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/509032/ss_a24703f189f84fd1f20ea6a1232fccf52f6fd98d.1920x1080.jpg?t=1471528013"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Aug, 2016"
@@ -139,5 +144,9 @@
     "url": "http://www.okhlos.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/509032/page_bg_generated_v6b.jpg?t=1471528013"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/509032/page_bg_generated_v6b.jpg?t=1471528013",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

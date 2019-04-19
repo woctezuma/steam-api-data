@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     181191
@@ -207,6 +209,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Jul, 2017"
@@ -215,5 +220,11 @@
     "url": "https://vk.com/gd_association",
     "email": "emil.bolshakov@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/645470/page_bg_generated_v6b.jpg?t=1499407274"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/645470/page_bg_generated_v6b.jpg?t=1499407274",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

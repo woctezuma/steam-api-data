@@ -12,7 +12,7 @@
     "appid": "290340",
     "name": "Armello"
   },
-  "supported_languages": "English, Italian, Spanish, Dutch, Japanese, Korean, Polish, Portuguese-Brazil, Russian, French, German, Simplified Chinese",
+  "supported_languages": "English, Italian, Spanish - Spain, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Russian, French, German, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/398916/header.jpg?t=1498720952",
   "website": "http://www.armello.com",
   "pc_requirements": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     77154
@@ -165,6 +167,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Apr, 2017"
@@ -173,5 +178,9 @@
     "url": "",
     "email": "qa@leagueofgeeks.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/398916/page_bg_generated_v6b.jpg?t=1498720952"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/398916/page_bg_generated_v6b.jpg?t=1498720952",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

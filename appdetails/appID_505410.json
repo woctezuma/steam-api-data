@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 4199,
     "final": 4199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "41,99\u20ac"
   },
   "packages": [
     116464
@@ -142,6 +144,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Jul, 2016"
@@ -150,5 +155,9 @@
     "url": "https://support-icarus.nexon.net/hc/en-us",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/505410/page_bg_generated_v6b.jpg?t=1478557367"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/505410/page_bg_generated_v6b.jpg?t=1478557367",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

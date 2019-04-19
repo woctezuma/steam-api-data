@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 99,
-    "discount_percent": 80
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     143369
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 143369,
-          "percent_savings_text": "-80%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Putrefaction 2: Void Walker - <span class=\"discount_original_price\">4,99\u20ac</span> 0,99\u20ac",
+          "option_text": "Putrefaction 2: Void Walker - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -151,7 +153,7 @@
     }
   ],
   "recommendations": {
-    "total": 124
+    "total": 147
   },
   "achievements": {
     "total": 137,
@@ -206,5 +208,9 @@
     "url": "",
     "email": "oleg-kazakov-1990@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/567060/page_bg_generated_v6b.jpg?t=1496057114"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/567060/page_bg_generated_v6b.jpg?t=1496057114",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -12,7 +12,7 @@
     "appid": "564010",
     "name": "Stern Pinball Arcade"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/569247/header.jpg?t=1482865897",
   "website": "http://www.sternpinballarcade.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 549,
     "final": 549,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,49\u20ac"
   },
   "packages": [
     144146
@@ -139,6 +141,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Dec, 2016"
@@ -147,5 +152,9 @@
     "url": "http://www.sternpinballarcade.com/",
     "email": "support@sternpinballarcade.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/569247/page_bg_generated_v6b.jpg?t=1482865897"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/569247/page_bg_generated_v6b.jpg?t=1482865897",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

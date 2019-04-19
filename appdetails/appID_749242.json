@@ -11,8 +11,8 @@
     "appid": "433530",
     "name": "Heliborne"
   },
-  "supported_languages": "English, Russian, French, German, Danish, Polish, Portuguese-Brazil, Greek, Czech",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/749242/header.jpg?t=1513633768",
+  "supported_languages": "English, Russian, French, German, Danish, Polish, Portuguese - Brazil, Greek, Czech",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/749242/header.jpg?t=1528969668",
   "website": "http://www.helibornegame.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.3 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Shader Model 3.0 Compatible GPU, 986 MB VRAM</li></ul>"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     220003
@@ -113,30 +115,33 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_a04a30d36c3a0a3aa447ac31499a698b60b6c41d.600x338.jpg?t=1513633768",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_a04a30d36c3a0a3aa447ac31499a698b60b6c41d.1920x1080.jpg?t=1513633768"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_a04a30d36c3a0a3aa447ac31499a698b60b6c41d.600x338.jpg?t=1528969668",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_a04a30d36c3a0a3aa447ac31499a698b60b6c41d.1920x1080.jpg?t=1528969668"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_3f8b43f340d4bd83e2323895ea5326449e18b61f.600x338.jpg?t=1513633768",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_3f8b43f340d4bd83e2323895ea5326449e18b61f.1920x1080.jpg?t=1513633768"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_3f8b43f340d4bd83e2323895ea5326449e18b61f.600x338.jpg?t=1528969668",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_3f8b43f340d4bd83e2323895ea5326449e18b61f.1920x1080.jpg?t=1528969668"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_90ec56020fbefb08fabd3febba40fb6b8911aa6d.600x338.jpg?t=1513633768",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_90ec56020fbefb08fabd3febba40fb6b8911aa6d.1920x1080.jpg?t=1513633768"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_90ec56020fbefb08fabd3febba40fb6b8911aa6d.600x338.jpg?t=1528969668",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_90ec56020fbefb08fabd3febba40fb6b8911aa6d.1920x1080.jpg?t=1528969668"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_a77fb8ca416c564aa1e62cb69beaee35dbf3ce1c.600x338.jpg?t=1513633768",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_a77fb8ca416c564aa1e62cb69beaee35dbf3ce1c.1920x1080.jpg?t=1513633768"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_a77fb8ca416c564aa1e62cb69beaee35dbf3ce1c.600x338.jpg?t=1528969668",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_a77fb8ca416c564aa1e62cb69beaee35dbf3ce1c.1920x1080.jpg?t=1528969668"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_b712588050bf08c868d8de25d3f4e684f4567557.600x338.jpg?t=1513633768",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_b712588050bf08c868d8de25d3f4e684f4567557.1920x1080.jpg?t=1513633768"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_b712588050bf08c868d8de25d3f4e684f4567557.600x338.jpg?t=1528969668",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/749242/ss_b712588050bf08c868d8de25d3f4e684f4567557.1920x1080.jpg?t=1528969668"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Dec, 2017"
@@ -145,5 +150,9 @@
     "url": "http://www.jetcatgames.com/",
     "email": "contact@jetcatgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/749242/page_bg_generated_v6b.jpg?t=1513633768"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/749242/page_bg_generated_v6b.jpg?t=1528969668",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     147972
@@ -105,6 +107,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/579090/ss_c46148662778ff2abf16b42d30b5b44e69267471.1920x1080.jpg?t=1484917997"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Jan, 2017"
@@ -113,5 +118,9 @@
     "url": "https://twitter.com/mypocketkingdom",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/579090/page_bg_generated_v6b.jpg?t=1484917997"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/579090/page_bg_generated_v6b.jpg?t=1484917997",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

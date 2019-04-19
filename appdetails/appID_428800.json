@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     88713
@@ -147,5 +149,9 @@
     "url": "http://helpdesk.rsupport.com/categories/20078754-LiteCam",
     "email": "litecam@rsupport.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/428800/page_bg_generated_v6b.jpg?t=1450463406"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/428800/page_bg_generated_v6b.jpg?t=1450463406",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

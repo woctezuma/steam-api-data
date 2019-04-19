@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 899,
-    "final": 899,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     168792
@@ -45,11 +47,11 @@
           "packageid": 168792,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "A SECOND BEFORE US - 8,99\u20ac",
+          "option_text": "A SECOND BEFORE US - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 899
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -209,5 +211,9 @@
     "url": "",
     "email": "dimleteam@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/625370/page_bg_generated_v6b.jpg?t=1496147969"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/625370/page_bg_generated_v6b.jpg?t=1496147969",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

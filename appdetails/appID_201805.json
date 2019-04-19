@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "Ever wonder where all the orc women are? Wonder no more! This second booster pack for Orcs Must Die 2 introduces deadly new enemies and fortresses. It\u2019s a family reunion you won\u2019t want to miss!<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Three exciting new levels!<br></li><li>Three additional Endless Mode conversions!<br></li><li>Two new weapons - Stone Staff and Teleportation Ring!<br></li><li>One new trinket \u2013 the mysterious Jar of Ghosts!<br></li><li>The most frightening enemy yet \u2013 the Ball and Chain \u2013 and her consort, the Hobgoblin Healer!<br></li><li>New \u201cZero Mana Use\u201d skull award!<br></li><li>New Character Skin!</li></ul>",
   "about_the_game": "Ever wonder where all the orc women are? Wonder no more! This second booster pack for Orcs Must Die 2 introduces deadly new enemies and fortresses. It\u2019s a family reunion you won\u2019t want to miss!<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Three exciting new levels!<br></li><li>Three additional Endless Mode conversions!<br></li><li>Two new weapons - Stone Staff and Teleportation Ring!<br></li><li>One new trinket \u2013 the mysterious Jar of Ghosts!<br></li><li>The most frightening enemy yet \u2013 the Ball and Chain \u2013 and her consort, the Hobgoblin Healer!<br></li><li>New \u201cZero Mana Use\u201d skull award!<br></li><li>New Character Skin!</li></ul>",
-  "short_description": "",
+  "short_description": "Ever wonder where all the orc women are? Wonder no more! This second booster pack for Orcs Must Die 2 introduces deadly new enemies and fortresses. It\u2019s a family reunion you won\u2019t want to miss!Key FeaturesThree exciting new levels!Three additional Endless Mode conversions!Two new weapons - Stone Staff and Teleportation Ring!",
   "fullgame": {
     "appid": "201790",
     "name": "Orcs Must Die! 2"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Polish<strong>*</strong>, Portuguese-Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/201805/header.jpg?t=1457727157",
   "website": "http://www.robotentertainment.com/games/omd2",
   "pc_requirements": {
@@ -31,10 +31,13 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    16889
+    16889,
+    17881
   ],
   "package_groups": [
     {
@@ -55,6 +58,16 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 499
+        },
+        {
+          "packageid": 17881,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Orcs Must Die! 2 - Complete Pack - 22,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 2299
         }
       ]
     }
@@ -112,6 +125,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/201805/ss_558b94cd3e233d3b80ff3d522e03bb2f87466425.1920x1080.jpg?t=1457727157"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Sep, 2012"
@@ -120,5 +136,9 @@
     "url": "http://support.robotentertainment.com",
     "email": "support@robotentertainment.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/201805/page_bg_generated_v6b.jpg?t=1457727157"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/201805/page_bg_generated_v6b.jpg?t=1457727157",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

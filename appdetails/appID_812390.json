@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     248080
@@ -143,6 +145,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Mar, 2018"
@@ -151,5 +156,9 @@
     "url": "",
     "email": "WileySoftworks@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/812390/page_bg_generated_v6b.jpg?t=1522175873"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/812390/page_bg_generated_v6b.jpg?t=1522175873",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

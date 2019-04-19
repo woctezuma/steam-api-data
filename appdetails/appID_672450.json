@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     191388
@@ -161,6 +163,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Aug, 2017"
@@ -169,5 +174,9 @@
     "url": "https://hokkaidostudios.wixsite.com/home",
     "email": "contact@hokkaidostudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/672450/page_bg_generated_v6b.jpg?t=1504459458"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/672450/page_bg_generated_v6b.jpg?t=1504459458",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

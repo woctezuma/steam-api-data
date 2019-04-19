@@ -12,7 +12,7 @@
     "appid": "589360",
     "name": "Ni no Kuni\u2122 II: Revenant Kingdom"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/689860/header.jpg?t=1522051335",
   "website": "http://www.ninokunigame.com",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     197713
@@ -157,6 +159,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Mar, 2018"
@@ -165,5 +170,9 @@
     "url": "https://namcobandai.zendesk.com/hc/en-us",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/689860/page_bg_generated_v6b.jpg?t=1522051335"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/689860/page_bg_generated_v6b.jpg?t=1522051335",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

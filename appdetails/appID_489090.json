@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Disgraced</strong><br><br><strong>Resource Toolkit DLC:</strong><br><ul class=\"bb_ul\"><li>Custom Sprites - Use Sprites Directly From Disgraced In Your Projects! <br></li><li>Custom Sound Effects - Use Sound Effects Directly From Disgraced In Your Projects! <br></li><li>Custom Items - Use Item Sprites From Disgraced In Your Projects! <br></li><li>Custom Scripts - Use Some Scripts From Disgraced In Your Very Own Projects!</li></ul><br><strong>NOTE: In order to use this DLC, you must have an RPG Maker application or similar tool!</strong>",
   "about_the_game": "<strong>Disgraced</strong><br><br><strong>Resource Toolkit DLC:</strong><br><ul class=\"bb_ul\"><li>Custom Sprites - Use Sprites Directly From Disgraced In Your Projects! <br></li><li>Custom Sound Effects - Use Sound Effects Directly From Disgraced In Your Projects! <br></li><li>Custom Items - Use Item Sprites From Disgraced In Your Projects! <br></li><li>Custom Scripts - Use Some Scripts From Disgraced In Your Very Own Projects!</li></ul><br><strong>NOTE: In order to use this DLC, you must have an RPG Maker application or similar tool!</strong>",
-  "short_description": "<strong>Disgraced Resource Toolkit DLC:</strong><br>This DLC includes custom content created by Corrosive Studios, free to use in all of your own projects!",
+  "short_description": "Disgraced Resource Toolkit DLC:This DLC includes custom content created by Corrosive Studios, free to use in all of your own projects!",
   "fullgame": {
     "appid": "485360",
     "name": "Disgraced"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     110429
@@ -126,5 +128,9 @@
     "url": "http://steamcommunity.com/app/485360/discussions/0/",
     "email": "crsvstudiosspprt@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/489090/page_bg_generated_v6b.jpg?t=1511638872"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/489090/page_bg_generated_v6b.jpg?t=1511638872",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

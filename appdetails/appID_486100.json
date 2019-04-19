@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 3699,
-    "final": 3699,
-    "discount_percent": 0
+    "initial": 3399,
+    "final": 3399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "33,99\u20ac"
   },
   "packages": [
     223455
@@ -51,11 +53,11 @@
           "packageid": 223455,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC Route: Canadian Rocky Mountains - Columbia River Basin - 36,99\u20ac",
+          "option_text": "TANE DLC Route: Canadian Rocky Mountains - Columbia River Basin - 33,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 3699
+          "price_in_cents_with_discount": 3399
         }
       ]
     }
@@ -187,6 +189,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Nov, 2016"
@@ -195,5 +200,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/486100/page_bg_generated_v6b.jpg?t=1481846471"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/486100/page_bg_generated_v6b.jpg?t=1481846471",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

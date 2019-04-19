@@ -29,10 +29,12 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    "81578"
+    81578
   ],
   "package_groups": [
     {
@@ -45,7 +47,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "81578",
+          "packageid": 81578,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Faron's Fate - Original Soundtrack Download - 0,99\u20ac",
@@ -101,5 +103,9 @@
     "url": "",
     "email": "adventuredungeondevs@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/410260/page_bg_generated_v6b.jpg?t=1447378455"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/410260/page_bg_generated_v6b.jpg?t=1447378455",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

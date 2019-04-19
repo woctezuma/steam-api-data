@@ -7,13 +7,13 @@
   "controller_support": "full",
   "detailed_description": "A second SMG that Agent 47 uses in Hitman: Absolution\u2122 (multiplayer weapon).",
   "about_the_game": "A second SMG that Agent 47 uses in Hitman: Absolution\u2122 (multiplayer weapon).",
-  "short_description": "",
+  "short_description": "A second SMG that Agent 47 uses in Hitman: Absolution\u2122 (multiplayer weapon).",
   "fullgame": {
     "appid": "203160",
     "name": "Tomb Raider"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Korean, Spanish<strong>*</strong>, Traditional Chinese, Russian<strong>*</strong>, Polish<strong>*</strong>, Dutch, Czech, Arabic<strong>*</strong>, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/208800/header.jpg?t=1521476074",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Korean, Spanish - Spain<strong>*</strong>, Traditional Chinese, Russian<strong>*</strong>, Polish<strong>*</strong>, Dutch, Czech, Arabic<strong>*</strong>, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/208800/header.jpg?t=1530268989",
   "website": "http://www.tombraider.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows XP Service Pack 3, Windows Vista,7,8 (32bit/64bit)<br>\t</li><li><strong>Processor:</strong>Dual core CPU: AMD Athlon64 X2 2.1 Ghz (4050+), Intel Core2 Duo 1.86 Ghz (E6300)<br>\t</li><li><strong>Memory:</strong>1GB Memory (2GB on Vista)<br><br>\t</li><li><strong>Graphics:</strong>DirectX 9 graphics card with 512Mb Video RAM: AMD Radeon HD 2600 XT, nVidia 8600<br>\t</li><li><strong>DirectX\u00ae:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>12 GB HD space<br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection</li></ul>",
@@ -29,6 +29,7 @@
   "legal_notice": "Tomb Raider \u00a9 Square Enix Ltd. 2012. Square Enix and the Square Enix logo are registered trademarks of Square Enix Holdings Co., Ltd. Lara Croft, Tomb Raider, Crystal Dynamics, and the Crystal Dynamics logo are trademarks of Square Enix Ltd. The rating icon is a registered trademark of the Entertainment Software Association. All other trademarks are the property of their respective owners. All rights reserved.",
   "developers": [
     "Crystal Dynamics",
+    "Eidos-Montr\u00e9al",
     "Feral Interactive (Mac)",
     "Feral Interactive (Linux)"
   ],
@@ -41,7 +42,9 @@
     "currency": "EUR",
     "initial": 79,
     "final": 79,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     26615,
@@ -142,10 +145,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/208800/ss_434b261ff93c3687f4658b418f38ee38df2f9d7f.600x338.jpg?t=1521476074",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/208800/ss_434b261ff93c3687f4658b418f38ee38df2f9d7f.1920x1080.jpg?t=1521476074"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/208800/ss_434b261ff93c3687f4658b418f38ee38df2f9d7f.600x338.jpg?t=1530268989",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/208800/ss_434b261ff93c3687f4658b418f38ee38df2f9d7f.1920x1080.jpg?t=1530268989"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Mar, 2013"
@@ -154,5 +160,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/208800/page_bg_generated_v6b.jpg?t=1521476074"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/208800/page_bg_generated_v6b.jpg?t=1530268989",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

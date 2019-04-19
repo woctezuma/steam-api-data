@@ -12,7 +12,7 @@
     "appid": "322110",
     "name": "20XX"
   },
-  "supported_languages": "English<strong>*</strong>, Spanish<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, Spanish - Spain<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/783990/header.jpg?t=1518455582",
   "website": "http://www.batterystaplegames.com",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     236544
@@ -172,6 +174,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Feb, 2018"
@@ -180,5 +185,9 @@
     "url": "http://www.batterystaplegames.com",
     "email": "support@batterystaplegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/783990/page_bg_generated_v6b.jpg?t=1518455582"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/783990/page_bg_generated_v6b.jpg?t=1518455582",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 2799,
     "final": 2799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "27,99\u20ac"
   },
   "packages": [
     46068
@@ -211,7 +213,7 @@
     }
   ],
   "recommendations": {
-    "total": 312
+    "total": 325
   },
   "achievements": {
     "total": 28,
@@ -266,5 +268,9 @@
     "url": "",
     "email": "rob@longbowgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/308173/page_bg_generated_v6b.jpg?t=1502401213"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/308173/page_bg_generated_v6b.jpg?t=1502401213",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

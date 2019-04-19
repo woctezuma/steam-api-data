@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>A film that has spawned a thousand imitations but never been bettered \u2013 Mamoru Oshii\u2019s legendary anime film Ghost in the Shell returns in a stunning new edition remastered by Oshii himself with the original animations re-produced with latest digital film and animation technologies, including 3D-CGI.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>A film that has spawned a thousand imitations but never been bettered \u2013 Mamoru Oshii\u2019s legendary anime film Ghost in the Shell returns in a stunning new edition remastered by Oshii himself with the original animations re-produced with latest digital film and animation technologies, including 3D-CGI.",
   "about_the_game": "A film that has spawned a thousand imitations but never been bettered \u2013 Mamoru Oshii\u2019s legendary anime film Ghost in the Shell returns in a stunning new edition remastered by Oshii himself with the original animations re-produced with latest digital film and animation technologies, including 3D-CGI.",
   "short_description": "A film that has spawned a thousand imitations but never been bettered \u2013 Mamoru Oshii\u2019s legendary anime film Ghost in the Shell returns in a stunning new edition remastered by Oshii himself with the original animations re-produced with latest digital film and animation technologies, including 3D-CGI.",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     152714,
@@ -149,6 +151,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Mar, 2017"
@@ -157,5 +162,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589900/page_bg_generated_v6b.jpg?t=1491508965"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589900/page_bg_generated_v6b.jpg?t=1491508965",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

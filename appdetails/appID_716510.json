@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     207673
@@ -97,6 +99,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/716510/ss_9fd7cf5bcbbe848441bfe498505f99c64a451472.1920x1080.jpg?t=1505719944"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Sep, 2017"
@@ -105,5 +110,12 @@
     "url": "http://anatestudio.net",
     "email": "anatestudio@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/716510/page_bg_generated_v6b.jpg?t=1505719944"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/716510/page_bg_generated_v6b.jpg?t=1505719944",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

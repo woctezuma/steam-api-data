@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     129038
@@ -266,5 +268,12 @@
     "url": "https://spacetrucker.ca",
     "email": "ron.mcdowell@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/533320/page_bg_generated_v6b.jpg?t=1499185972"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/533320/page_bg_generated_v6b.jpg?t=1499185972",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

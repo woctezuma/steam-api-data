@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     66903
@@ -51,11 +53,11 @@
           "packageid": 66903,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Marble Muse - 4,99\u20ac",
+          "option_text": "Marble Muse - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -207,5 +209,9 @@
     "url": "http://ketosgames.com/#contact",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/368310/page_bg_generated_v6b.jpg?t=1474112642"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/368310/page_bg_generated_v6b.jpg?t=1474112642",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

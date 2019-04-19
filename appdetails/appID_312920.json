@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     47216
@@ -181,6 +183,9 @@
       "highlight": true
     }
   ],
+  "recommendations": {
+    "total": 104
+  },
   "achievements": {
     "total": 35,
     "highlighted": [
@@ -234,5 +239,9 @@
     "url": "https://forum.bigant.com/forum-22.html",
     "email": "rll3@bigant.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/312920/page_bg_generated_v6b.jpg?t=1464996514"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/312920/page_bg_generated_v6b.jpg?t=1464996514",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

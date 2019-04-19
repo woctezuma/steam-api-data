@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     203754
@@ -109,5 +111,9 @@
     "url": "http://www.varagtp.com",
     "email": "contact@varagtp.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/706000/page_bg_generated_v6b.jpg?t=1505146432"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/706000/page_bg_generated_v6b.jpg?t=1505146432",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

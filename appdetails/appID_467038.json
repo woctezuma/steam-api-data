@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Includes the costume item 'Beast Hands.'",
   "about_the_game": "Includes the costume item 'Beast Hands.'",
-  "short_description": "Includes the costume item 'Beast Hands.'",
+  "short_description": "Includes the costume item 'Beast Hands.",
   "fullgame": {
     "appid": "446390",
     "name": "Onechanbara Z2: Chaos"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     102741
@@ -104,6 +106,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467038/ss_c3a3b9ed116d283a42a10785ab77053f01d77d7e.1920x1080.jpg?t=1466042633"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Jun, 2016"
@@ -112,5 +117,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467038/page_bg_generated_v6b.jpg?t=1466042633"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467038/page_bg_generated_v6b.jpg?t=1466042633",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

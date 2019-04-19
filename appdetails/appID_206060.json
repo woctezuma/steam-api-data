@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     14582,
@@ -103,6 +105,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/206060/ss_0e84b5e3c993e29f2b363d3b8d7ad76b4bf61f8d.1920x1080.jpg?t=1447355313"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 May, 2012"
@@ -111,5 +116,9 @@
     "url": "",
     "email": "support@spiderwebsoftware.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/206060/page_bg_generated_v6b.jpg?t=1447355313"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/206060/page_bg_generated_v6b.jpg?t=1447355313",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

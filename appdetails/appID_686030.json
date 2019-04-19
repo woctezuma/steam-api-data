@@ -11,8 +11,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/686030/header.jpg?t=1517939873",
   "website": "http://digitaldomain.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> Intel i5-4590 or AMD Equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 970 or AMD RX 480<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> Intel i5-6500 or AMD Equivalent<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1070 or AMD RX 580<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 7 GB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Besturingssysteem:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> Intel i5-4590 or AMD Equivalent<br></li><li><strong>Geheugen:</strong> 8 GB RAM<br></li><li><strong>Grafische kaart:</strong> NVIDIA GTX 970 or AMD RX 480<br></li><li><strong>DirectX:</strong> Versie 11<br></li><li><strong>Netwerk:</strong> Breedband internetverbinding<br></li><li><strong>Opslagruimte:</strong> 5 GB beschikbare ruimte</li></ul>",
+    "recommended": "<strong>Aanbevolen:</strong><br><ul class=\"bb_ul\"><li><strong>Besturingssysteem:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> Intel i5-6500 or AMD Equivalent<br></li><li><strong>Geheugen:</strong> 16 GB RAM<br></li><li><strong>Grafische kaart:</strong> NVIDIA GTX 1070 or AMD RX 580<br></li><li><strong>DirectX:</strong> Versie 12<br></li><li><strong>Netwerk:</strong> Breedband internetverbinding<br></li><li><strong>Opslagruimte:</strong> 7 GB beschikbare ruimte</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     196363
@@ -136,6 +138,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Feb, 2018"
@@ -144,5 +149,9 @@
     "url": "",
     "email": "vr.support@digitaldomain.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/686030/page_bg_generated_v6b.jpg?t=1517939873"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/686030/page_bg_generated_v6b.jpg?t=1517939873",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

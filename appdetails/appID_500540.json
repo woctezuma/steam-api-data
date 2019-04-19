@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "initial": 659,
+    "final": 659,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,59\u20ac"
   },
   "packages": [
     223453
@@ -51,11 +53,11 @@
           "packageid": 223453,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: The Flying Scotsman 1920s - 7,99\u20ac",
+          "option_text": "TANE DLC: The Flying Scotsman 1920s - 6,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 659
         }
       ]
     }
@@ -171,6 +173,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/500540/ss_a35cd5d8037cfb739e2356c68054a19a32a9fd80.1920x1080.jpg?t=1479203142"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Jul, 2016"
@@ -179,5 +184,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/500540/page_bg_generated_v6b.jpg?t=1479203142"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/500540/page_bg_generated_v6b.jpg?t=1479203142",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

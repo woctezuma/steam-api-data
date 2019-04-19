@@ -11,7 +11,7 @@
     "appid": "9940",
     "name": "Blade Kitten"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Italian, Spanish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, German, Italian, Spanish - Spain<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/357170/header.jpg?t=1447370986",
   "website": "http://www.bladekitten.com",
   "pc_requirements": {
@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 699,
-    "final": 699,
-    "discount_percent": 0
+    "initial": 649,
+    "final": 649,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,49\u20ac"
   },
   "packages": [
     63242,
@@ -51,21 +53,21 @@
           "packageid": 63242,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Blade Kitten: Comic Pack - Dirty Angels - 6,99\u20ac",
+          "option_text": "Blade Kitten: Comic Pack - Dirty Angels - 6,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 699
+          "price_in_cents_with_discount": 649
         },
         {
           "packageid": 63345,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Blade Kitten: Soundtrack and Other Comics - 14,99\u20ac",
+          "option_text": "Blade Kitten: Soundtrack and Other Comics - 13,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 1349
         }
       ]
     }
@@ -158,6 +160,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/357170/ss_3ef3cc3db8b293d35cccb8d0895d9d077bce73b7.1920x1080.jpg?t=1447370986"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Mar, 2015"
@@ -166,5 +171,9 @@
     "url": "http://www.bladekitten.com/support.html",
     "email": "support@bladekitten.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/357170/page_bg_generated_v6b.jpg?t=1447370986"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/357170/page_bg_generated_v6b.jpg?t=1447370986",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

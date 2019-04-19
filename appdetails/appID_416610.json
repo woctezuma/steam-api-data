@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     84005
@@ -185,5 +187,9 @@
     "url": "http://www.cleverweek.com",
     "email": "support@cleverweek.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416610/page_bg_generated_v6b.jpg?t=1478260547"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416610/page_bg_generated_v6b.jpg?t=1478260547",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

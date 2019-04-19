@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "initial": 699,
+    "final": 699,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     240507
@@ -45,11 +47,11 @@
           "packageid": 240507,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Hellbreaker - 7,99\u20ac",
+          "option_text": "Hellbreaker - 6,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 699
         }
       ]
     }
@@ -135,5 +137,9 @@
     "url": "",
     "email": "virhex.help@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793620/page_bg_generated_v6b.jpg?t=1518904992"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793620/page_bg_generated_v6b.jpg?t=1518904992",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

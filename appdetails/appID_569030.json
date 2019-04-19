@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>Heroes Must Die - the Game!</h1><p><a href=\"http://store.steampowered.com/app/464050\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/464050</a></a></p><br><h1>About the Video</h1>Experience the world of video games brought to life in this recording of the audience-interactive show &quot;Heroes Must Die!&quot; <br><br>When player against player combat is introduced to their world, can heroes survive when they are turned against each other? Don't just find out, but watch as audiences control the action as players of the game and see monsters, magic, and gameplay live - even a gigantic, interactive dungeon set.<br><br>And play the prequel story in the RPG Heroes Must Die, for free on Steam! - <a href=\"http://store.steampowered.com/app/464050\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >http://store.steampowered.com/app/464050</a><br> <br>&quot;Heroes Must Die&quot; is a unique video game and theater hybrid project by playwright and game designer Rick Stemm. It is a video game first, a story-driven RPG available here on Steam. The sequel is a live theatrical performance that the audience can interact with like a video game, controlling characters and changing the plot. Audience interactions, puppetry, and stagecraft will bring the world of video games to life! Both game and show are stand-alone, but experiencing both tells a story across two wholly different media.<br><br>Total run time - 1 hour, 16 min.<br><br>Contact Rick Stemm or Heroic Games with questions about bringing Heroes Must Die the show to a theater near you.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>Heroes Must Die - the Game!</h1><p><a href=\"http://store.steampowered.com/app/464050\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >http://store.steampowered.com/app/464050</a></p><br><h1>About the Video</h1>Experience the world of video games brought to life in this recording of the audience-interactive show &quot;Heroes Must Die!&quot; <br><br>When player against player combat is introduced to their world, can heroes survive when they are turned against each other? Don't just find out, but watch as audiences control the action as players of the game and see monsters, magic, and gameplay live - even a gigantic, interactive dungeon set.<br><br>And play the prequel story in the RPG Heroes Must Die, for free on Steam! - <a href=\"http://store.steampowered.com/app/464050\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_1\" >http://store.steampowered.com/app/464050</a><br> <br>&quot;Heroes Must Die&quot; is a unique video game and theater hybrid project by playwright and game designer Rick Stemm. It is a video game first, a story-driven RPG available here on Steam. The sequel is a live theatrical performance that the audience can interact with like a video game, controlling characters and changing the plot. Audience interactions, puppetry, and stagecraft will bring the world of video games to life! Both game and show are stand-alone, but experiencing both tells a story across two wholly different media.<br><br>Total run time - 1 hour, 16 min.<br><br>Contact Rick Stemm or Heroic Games with questions about bringing Heroes Must Die the show to a theater near you.",
   "about_the_game": "Experience the world of video games brought to life in this recording of the audience-interactive show &quot;Heroes Must Die!&quot; <br />\r\n<br />\r\nWhen player against player combat is introduced to their world, can heroes survive when they are turned against each other? Don't just find out, but watch as audiences control the action as players of the game and see monsters, magic, and gameplay live - even a gigantic, interactive dungeon set.<br />\r\n<br />\r\nAnd play the prequel story in the RPG Heroes Must Die, for free on Steam! - http://store.steampowered.com/app/464050<br />\r\n <br />\r\n&quot;Heroes Must Die&quot; is a unique video game and theater hybrid project by playwright and game designer Rick Stemm. It is a video game first, a story-driven RPG available here on Steam. The sequel is a live theatrical performance that the audience can interact with like a video game, controlling characters and changing the plot. Audience interactions, puppetry, and stagecraft will bring the world of video games to life! Both game and show are stand-alone, but experiencing both tells a story across two wholly different media.<br />\r\n<br />\r\nTotal run time - 1 hour, 16 min.<br />\r\n<br />\r\nContact Rick Stemm or Heroic Games with questions about bringing Heroes Must Die the show to a theater near you.",
   "short_description": "Have you ever wondered what a real life video game would be like? Wonder no more as Heroes Must Die brings monsters, magic, gameplay, dungeon delves, giant swords, and more to life in this video of the theatrical sequel to the Heroes Must Die RPG.",
   "fullgame": {
@@ -39,7 +39,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     143998,
@@ -143,6 +145,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Dec, 2016"
@@ -151,5 +156,9 @@
     "url": "http://www.hmd-game.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/569030/page_bg_generated_v6b.jpg?t=1483149470"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/569030/page_bg_generated_v6b.jpg?t=1483149470",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

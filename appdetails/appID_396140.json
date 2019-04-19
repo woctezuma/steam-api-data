@@ -5,9 +5,9 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Mel Gibson and Tina Turner star in the third film of the Mad Max series.Max stumbles onto a desert city in the post-apocalyptic\r\nworld that is built on the principle of unbridled, cutthroat capitalism where anything--even a human life--can be bartered. Caught\r\nin a power struggle between the city's two rulers, Max breaks the one inviolable rule of a city with no other rules when he refuses\r\nto kill.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Mel Gibson and Tina Turner star in the third film of the Mad Max series.Max stumbles onto a desert city in the post-apocalyptic\r\nworld that is built on the principle of unbridled, cutthroat capitalism where anything--even a human life--can be bartered. Caught\r\nin a power struggle between the city's two rulers, Max breaks the one inviolable rule of a city with no other rules when he refuses\r\nto kill.",
   "about_the_game": "Mel Gibson and Tina Turner star in the third film of the Mad Max series.Max stumbles onto a desert city in the post-apocalyptic<br />\r\nworld that is built on the principle of unbridled, cutthroat capitalism where anything--even a human life--can be bartered. Caught<br />\r\nin a power struggle between the city's two rulers, Max breaks the one inviolable rule of a city with no other rules when he refuses<br />\r\nto kill.",
-  "short_description": "Set in Australia devastated by the effects of global thermonuclear war, surviving humans try to seek out a living in a world where<br />\r\nwater and food are worth more than gold.",
+  "short_description": "Set in Australia devastated by the effects of global thermonuclear war, surviving humans try to seek out a living in a world where water and food are worth more than gold.",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     77417
@@ -146,6 +148,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Aug, 2015"
@@ -154,5 +159,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396140/page_bg_generated_v6b.jpg?t=1447377625"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396140/page_bg_generated_v6b.jpg?t=1447377625",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

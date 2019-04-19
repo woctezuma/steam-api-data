@@ -11,7 +11,7 @@
     "appid": "255710",
     "name": "Cities: Skylines"
   },
-  "supported_languages": "English, French, German, Spanish, Polish, Portuguese-Brazil, Russian",
+  "supported_languages": "English, French, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/547501/header.jpg?t=1484050038",
   "website": "http://www.citiesskylines.com/",
   "pc_requirements": {
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     135217
@@ -150,7 +152,10 @@
     }
   ],
   "recommendations": {
-    "total": 103
+    "total": 109
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -160,5 +165,9 @@
     "url": "https://paradox.zendesk.com/home",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/547501/page_bg_generated_v6b.jpg?t=1484050038"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/547501/page_bg_generated_v6b.jpg?t=1484050038",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

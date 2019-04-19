@@ -4,9 +4,9 @@
   "steam_appid": 630300,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<strong>Save the children while you save the future of mankind!</strong><br><br>The <i>Children's Miracle Network Extra Life</i> backpack will give your in-game hero a health bonus while the proceeds of the purchase go towards the <i>Children's Miracle Network</i> to help sick kids.<br><br>To find out more about how you can participate in the Children's Miracle Network please visit <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.extra-life.org/index.cfm?\" target=\"_blank\" rel=\"noopener\"  >https://www.extra-life.org/index.cfm?</a></a><br><br>This backpack is our pledge to help give back to the community. We at Strength in Numbers Studios believe in helping others live happy and healthy lives and are proud to be a part of helping the Children's Miracle Network.",
-  "about_the_game": "<strong>Save the children while you save the future of mankind!</strong><br><br>The <i>Children's Miracle Network Extra Life</i> backpack will give your in-game hero a health bonus while the proceeds of the purchase go towards the <i>Children's Miracle Network</i> to help sick kids.<br><br>To find out more about how you can participate in the Children's Miracle Network please visit <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.extra-life.org/index.cfm?\" target=\"_blank\" rel=\"noopener\"  >https://www.extra-life.org/index.cfm?</a></a><br><br>This backpack is our pledge to help give back to the community. We at Strength in Numbers Studios believe in helping others live happy and healthy lives and are proud to be a part of helping the Children's Miracle Network.",
-  "short_description": "The <i>Children's Miracle Network Extra Life</i> backpack will give your in-game hero a health bonus while the proceeds of the purchase go towards the <i>Children's Miracle Network</i> to help sick kids.",
+  "detailed_description": "<strong>Save the children while you save the future of mankind!</strong><br><br>The <i>Children's Miracle Network Extra Life</i> backpack will give your in-game hero a health bonus while the proceeds of the purchase go towards the <i>Children's Miracle Network</i> to help sick kids.<br><br>To find out more about how you can participate in the Children's Miracle Network please visit <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.extra-life.org/index.cfm?\" target=\"_blank\" rel=\"noopener\"  >https://www.extra-life.org/index.cfm?</a><br><br>This backpack is our pledge to help give back to the community. We at Strength in Numbers Studios believe in helping others live happy and healthy lives and are proud to be a part of helping the Children's Miracle Network.",
+  "about_the_game": "<strong>Save the children while you save the future of mankind!</strong><br><br>The <i>Children's Miracle Network Extra Life</i> backpack will give your in-game hero a health bonus while the proceeds of the purchase go towards the <i>Children's Miracle Network</i> to help sick kids.<br><br>To find out more about how you can participate in the Children's Miracle Network please visit <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.extra-life.org/index.cfm?\" target=\"_blank\" rel=\"noopener\"  >https://www.extra-life.org/index.cfm?</a><br><br>This backpack is our pledge to help give back to the community. We at Strength in Numbers Studios believe in helping others live happy and healthy lives and are proud to be a part of helping the Children's Miracle Network.",
+  "short_description": "The Children's Miracle Network Extra Life backpack will give your in-game hero a health bonus while the proceeds of the purchase go towards the Children's Miracle Network to help sick kids.",
   "fullgame": {
     "appid": "521330",
     "name": "Tuebor: I Will Defend"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     171430
@@ -126,5 +128,9 @@
     "url": "www.tueborgame.com",
     "email": "support@tueborgame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/630300/page_bg_generated_v6b.jpg?t=1493754053"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/630300/page_bg_generated_v6b.jpg?t=1493754053",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

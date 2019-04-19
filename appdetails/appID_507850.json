@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>Using Values to control Materials. This is a follow up video to the Painting with Materials video, but focused mostly on the tools, and values. \r\n\r\nThe topics covered:\r\n- Understanding Hotkeys more than ever.\r\n- Demonstrating a control of Opacity and Flow.\r\n- Being Patient before lighting.\r\n- How to determine when to make things shiny or when not too.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>Using Values to control Materials. This is a follow up video to the Painting with Materials video, but focused mostly on the tools, and values. \r\n\r\nThe topics covered:\r\n- Understanding Hotkeys more than ever.\r\n- Demonstrating a control of Opacity and Flow.\r\n- Being Patient before lighting.\r\n- How to determine when to make things shiny or when not too.",
   "about_the_game": "Using Values to control Materials. This is a follow up video to the Painting with Materials video, but focused mostly on the tools, and values. <br />\r\n<br />\r\nThe topics covered:<br />\r\n- Understanding Hotkeys more than ever.<br />\r\n- Demonstrating a control of Opacity and Flow.<br />\r\n- Being Patient before lighting.<br />\r\n- How to determine when to make things shiny or when not too.",
   "short_description": "This tutorial is about using values to control your materials.",
   "fullgame": {
@@ -35,9 +35,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     117305
@@ -56,11 +58,11 @@
           "packageid": 117305,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Robotpencil Presents: Using Values to Control Materials - 4,99\u20ac",
+          "option_text": "Robotpencil Presents: Using Values to Control Materials - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -115,5 +117,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/507840/page_bg_generated_v6b.jpg?t=1473709440"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/507840/page_bg_generated_v6b.jpg?t=1473709440",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

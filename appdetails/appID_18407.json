@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     2271,
@@ -60,11 +62,11 @@
           "packageid": 58400,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Crazy Machines 2: Essential Puzzle Pack - 22,99\u20ac",
+          "option_text": "Crazy Machines 2: Essential Puzzle Pack - 10,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2299
+          "price_in_cents_with_discount": 1079
         },
         {
           "packageid": 67978,
@@ -161,6 +163,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/18407/ss_8ee045ae612847032636cd9e4b5eeb2ec2a52016.1920x1080.jpg?t=1447352619"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Oct, 2009"
@@ -169,5 +174,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/18407/page_bg_generated_v6b.jpg?t=1447352619"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/18407/page_bg_generated_v6b.jpg?t=1447352619",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

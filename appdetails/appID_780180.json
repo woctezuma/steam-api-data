@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>This tutorial will help you understand the tools in Photoshop as well as the differences in brushwork. From soft brush to hard brush, small to big, texture and no texture.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>#label_about_the_series</h1>This tutorial will help you understand the tools in Photoshop as well as the differences in brushwork. From soft brush to hard brush, small to big, texture and no texture.",
   "about_the_game": "This tutorial will help you understand the tools in Photoshop as well as the differences in brushwork. From soft brush to hard brush, small to big, texture and no texture.",
   "short_description": "This tutorial will help you with your brushwork.",
   "fullgame": {
@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     232848
@@ -53,11 +55,11 @@
           "packageid": 232848,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Robotpencil Presents: Exercise: Brushwork - 3,99\u20ac",
+          "option_text": "Robotpencil Presents: Exercise: Brushwork - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -118,5 +120,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/775640/page_bg_generated_v6b.jpg?t=1515026146"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/775640/page_bg_generated_v6b.jpg?t=1515026146",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

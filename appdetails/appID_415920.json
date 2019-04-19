@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     83781
@@ -131,6 +133,9 @@
       "highlight": true
     }
   ],
+  "recommendations": {
+    "total": 104
+  },
   "achievements": {
     "total": 11,
     "highlighted": [
@@ -184,5 +189,9 @@
     "url": "",
     "email": "radcodex@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/415920/page_bg_generated_v6b.jpg?t=1518741926"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/415920/page_bg_generated_v6b.jpg?t=1518741926",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

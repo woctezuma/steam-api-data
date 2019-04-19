@@ -11,8 +11,8 @@
     "appid": "651470",
     "name": "Onirim - Solitaire Card Game"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/651481/header.jpg?t=1501058092",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/651481/header.jpg?t=1544178820",
   "website": "https://asmodee.helpshift.com/a/onirim/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7+<br></li><li><strong>Processor:</strong> AMD/Intel 2.0 GHz dual-core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia 450 GTS / Radeon HD 5750 or better<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     183557
@@ -100,17 +102,39 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/651481/ss_87568d8b8ffc1f532cefbfe8d43d025a187606ab.600x338.jpg?t=1501058092",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/651481/ss_87568d8b8ffc1f532cefbfe8d43d025a187606ab.1920x1080.jpg?t=1501058092"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/651481/ss_6f59f3eef0d20afd92aea11500c9df2d9f67d90c.600x338.jpg?t=1544178820",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/651481/ss_6f59f3eef0d20afd92aea11500c9df2d9f67d90c.1920x1080.jpg?t=1544178820"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/651481/ss_e2314c6b6fe2b8943e09e974bdf197fe62727246.600x338.jpg?t=1544178820",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/651481/ss_e2314c6b6fe2b8943e09e974bdf197fe62727246.1920x1080.jpg?t=1544178820"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/651481/ss_42167f0b096c0618a6f5696086980489c1d69be7.600x338.jpg?t=1544178820",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/651481/ss_42167f0b096c0618a6f5696086980489c1d69be7.1920x1080.jpg?t=1544178820"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/651481/ss_d12e1333b60f7e93a639f0b8ecc751aa1b62b001.600x338.jpg?t=1544178820",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/651481/ss_d12e1333b60f7e93a639f0b8ecc751aa1b62b001.1920x1080.jpg?t=1544178820"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Jul, 2017"
   },
   "support_info": {
     "url": "https://asmodee.helpshift.com/a/onirim/",
-    "email": "support@asmodee.mail.helpshift.com"
+    "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/651481/page_bg_generated_v6b.jpg?t=1501058092"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/651481/page_bg_generated_v6b.jpg?t=1544178820",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

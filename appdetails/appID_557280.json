@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Do you think you have what it takes to become a 1337 hacker? <br><br>Welcome to the Game - Hacker Mode is a DLC for Welcome to the Game that is a non-stop chain puzzle mode. Solve your favorite attacks from the DOSBlocker,  K3RN3LC0MP1L3R and new CLOUDGRID. Each chain mode has levels of chains, as you progress further the puzzles get more difficult. Solve them to get points!<br><br>Build up points to compile stacks, use those stacks unlock upgrades! Upgrades include:<br><br>\t- <strong>NOPSled</strong>: Will instantly progress you to the next chain level. <br>\t- <strong>Shell</strong>: Will recover you from a failed hack attempt, AKA extra hacker life!<br>\t- <strong>DOS_TURBO</strong>: Permanently increase boost time!<br>\t- <strong>KernSKIP</strong>: Will instantly skip the current line of code in the K3RN3LC0MP1L3R. <br>\t- <strong>cloudFREEZE</strong>: Freezes time in a current cloud grid for 30 seconds.<br><br>Think you can build up a high enough score top become one of the top 1337? <br><br>Get Welcome to the Game - Hacker Mode and let the hacking games begin!",
   "about_the_game": "Do you think you have what it takes to become a 1337 hacker? <br><br>Welcome to the Game - Hacker Mode is a DLC for Welcome to the Game that is a non-stop chain puzzle mode. Solve your favorite attacks from the DOSBlocker,  K3RN3LC0MP1L3R and new CLOUDGRID. Each chain mode has levels of chains, as you progress further the puzzles get more difficult. Solve them to get points!<br><br>Build up points to compile stacks, use those stacks unlock upgrades! Upgrades include:<br><br>\t- <strong>NOPSled</strong>: Will instantly progress you to the next chain level. <br>\t- <strong>Shell</strong>: Will recover you from a failed hack attempt, AKA extra hacker life!<br>\t- <strong>DOS_TURBO</strong>: Permanently increase boost time!<br>\t- <strong>KernSKIP</strong>: Will instantly skip the current line of code in the K3RN3LC0MP1L3R. <br>\t- <strong>cloudFREEZE</strong>: Freezes time in a current cloud grid for 30 seconds.<br><br>Think you can build up a high enough score top become one of the top 1337? <br><br>Get Welcome to the Game - Hacker Mode and let the hacking games begin!",
-  "short_description": "Welcome to the Game - Hacker Mode is a DLC for Welcome to the Game that is a non-stop chain puzzle mode. Solve your favorite attacks from the DOSBlocker,  K3RN3LC0MP1L3R and new CLOUDGRID. Each chain mode has levels of chains, as you progress further the puzzles get more difficult. Solve them to get points!",
+  "short_description": "Welcome to the Game - Hacker Mode is a DLC for Welcome to the Game that is a non-stop chain puzzle mode. Solve your favorite attacks from the DOSBlocker, K3RN3LC0MP1L3R and new CLOUDGRID. Each chain mode has levels of chains, as you progress further the puzzles get more difficult. Solve them to get points!",
   "fullgame": {
     "appid": "485380",
     "name": "Welcome to the Game"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     139389
@@ -113,6 +115,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/557280/ss_19bb6433a5e4cd1409ec8c138e9d6a22ce92abc8.1920x1080.jpg?t=1478830078"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Nov, 2016"
@@ -121,5 +126,13 @@
     "url": "http://www.reflectstudios.com",
     "email": "aflatau@reflectstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/557280/page_bg_generated_v6b.jpg?t=1478830078"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/557280/page_bg_generated_v6b.jpg?t=1478830078",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

@@ -29,12 +29,14 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     32083,
     44103,
-    "44775"
+    44775
   ],
   "package_groups": [
     {
@@ -67,7 +69,7 @@
           "price_in_cents_with_discount": 2099
         },
         {
-          "packageid": "44775",
+          "packageid": 44775,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Rebuild: Gangs of Deadsville - Deluxe Upgrade - 8,99\u20ac",
@@ -86,7 +88,7 @@
   },
   "metacritic": {
     "score": 75,
-    "url": "http://www.metacritic.com/game/pc/rebuild-3-gangs-of-deadsville?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/rebuild-3-gangs-of-deadsville?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -239,7 +241,7 @@
     }
   ],
   "recommendations": {
-    "total": 965
+    "total": 783
   },
   "achievements": {
     "total": 42,
@@ -294,5 +296,9 @@
     "url": "http://forums.rebuildgame.com",
     "email": "support@rebuildgame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/257170/page_bg_generated_v6b.jpg?t=1447358900"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/257170/page_bg_generated_v6b.jpg?t=1447358900",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

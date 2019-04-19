@@ -12,7 +12,7 @@
     "name": "WildStar"
   },
   "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/522500/header.jpg?t=1475090051",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/522500/header.jpg?t=1537167788",
   "website": "http://www.wildstar-online.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae XP SP3 (32-bit) or later<br></li><li><strong>Processor:</strong> Intel\u00ae Pentium\u00ae Core2 Duo 2.4 GHz, AMD Phenom\u2122 X3 2.3 GHz, or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\u00ae 8800 GT, ATI\u00ae Radeon\u00ae HD 4850, or better<br></li><li><strong>Storage:</strong> 30 GB available space</li></ul>",
@@ -27,38 +27,7 @@
   "publishers": [
     "NCSOFT"
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 899,
-    "final": 899,
-    "discount_percent": 0
-  },
-  "packages": [
-    124073
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy WildStar: Jumpstart Pack",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 124073,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "WildStar: Jumpstart Pack - 8,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 899
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -103,32 +72,35 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/522500/ss_4d407646e11b7b5042ecec428f0ccee2ddccaf60.600x338.jpg?t=1475090051",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/522500/ss_4d407646e11b7b5042ecec428f0ccee2ddccaf60.1920x1080.jpg?t=1475090051"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/522500/ss_4d407646e11b7b5042ecec428f0ccee2ddccaf60.600x338.jpg?t=1537167788",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/522500/ss_4d407646e11b7b5042ecec428f0ccee2ddccaf60.1920x1080.jpg?t=1537167788"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/522500/ss_d4d3c87a6ad3caf2f55f83a56ccf781d5d1522f9.600x338.jpg?t=1475090051",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/522500/ss_d4d3c87a6ad3caf2f55f83a56ccf781d5d1522f9.1920x1080.jpg?t=1475090051"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/522500/ss_d4d3c87a6ad3caf2f55f83a56ccf781d5d1522f9.600x338.jpg?t=1537167788",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/522500/ss_d4d3c87a6ad3caf2f55f83a56ccf781d5d1522f9.1920x1080.jpg?t=1537167788"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/522500/ss_200b07ba318ab7d203c62f4a0386a4693e714bea.600x338.jpg?t=1475090051",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/522500/ss_200b07ba318ab7d203c62f4a0386a4693e714bea.1920x1080.jpg?t=1475090051"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/522500/ss_200b07ba318ab7d203c62f4a0386a4693e714bea.600x338.jpg?t=1537167788",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/522500/ss_200b07ba318ab7d203c62f4a0386a4693e714bea.1920x1080.jpg?t=1537167788"
     }
   ],
   "movies": [
     {
       "id": 256669544,
       "name": "WildStar Jumpstart Pack Flick FR",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256669544/movie.293x165.jpg?t=1475090039",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256669544/movie.293x165.jpg?t=1537167786",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256669544/movie480.webm?t=1475090039",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256669544/movie_max.webm?t=1475090039"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256669544/movie480.webm?t=1537167786",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256669544/movie_max.webm?t=1537167786"
       },
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Sep, 2016"
@@ -137,5 +109,9 @@
     "url": "https://support.wildstar-online.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/522500/page_bg_generated_v6b.jpg?t=1475090051"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/522500/page_bg_generated_v6b.jpg?t=1537167788",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

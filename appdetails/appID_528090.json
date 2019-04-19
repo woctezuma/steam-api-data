@@ -4,11 +4,12 @@
   "steam_appid": 528090,
   "required_age": 0,
   "is_free": false,
+  "controller_support": "full",
   "detailed_description": "You wake up in woods unknown to you. No people nearby, no car, no telephone. You are completely alone. You need to get out of the forest alive, which will be hard because of wild animals wandering around; you also need to find food, stay warm in the cold and find a place to spend the night at. If you don't succeed, you will die lost in this strange place. And don't think that you'll find so easily the door you've been looking for...<br><br>There are two difficulty levels: the normal green forest and the winter forest. Survival in the winter forest is more difficult due to some resources being more scarce. The entire game world is [randomly] generated, but its size is limited. It is populated by most diverse wildlife and filled with useful and useless items, many of which are needed to create tools and weapons or just tasty dishes... All these things will help you to survive and to find an exit from the forest.",
   "about_the_game": "You wake up in woods unknown to you. No people nearby, no car, no telephone. You are completely alone. You need to get out of the forest alive, which will be hard because of wild animals wandering around; you also need to find food, stay warm in the cold and find a place to spend the night at. If you don't succeed, you will die lost in this strange place. And don't think that you'll find so easily the door you've been looking for...<br><br>There are two difficulty levels: the normal green forest and the winter forest. Survival in the winter forest is more difficult due to some resources being more scarce. The entire game world is [randomly] generated, but its size is limited. It is populated by most diverse wildlife and filled with useful and useless items, many of which are needed to create tools and weapons or just tasty dishes... All these things will help you to survive and to find an exit from the forest.",
   "short_description": "You wake up in woods unknown to you. No people nearby, no car, no telephone. You are completely alone. You need to get out of the forest alive.",
   "supported_languages": "English, Russian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/528090/header.jpg?t=1516910274",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/528090/header.jpg?t=1535202828",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista<br></li><li><strong>Processor:</strong> Dual Core 2.0 GHz<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> 512 MB or higher<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 50 MB available space</li></ul>",
@@ -17,16 +18,18 @@
   "mac_requirements": [],
   "linux_requirements": [],
   "developers": [
-    "Crouching Fox"
+    "Eugene Makashov"
   ],
   "publishers": [
     "Dagestan Technology"
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 39,
+    "discount_percent": 88,
+    "initial_formatted": "3,29\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     126755
@@ -43,13 +46,13 @@
       "subs": [
         {
           "packageid": 126755,
-          "percent_savings_text": "",
+          "percent_savings_text": "-88%",
           "percent_savings": 0,
-          "option_text": "Lost In Woods 2 - 3,99\u20ac",
+          "option_text": "Lost In Woods 2 - <span class=\"discount_original_price\">3,29\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -67,6 +70,10 @@
     {
       "id": 22,
       "description": "Steam Achievements"
+    },
+    {
+      "id": 28,
+      "description": "Full controller support"
     },
     {
       "id": 29,
@@ -98,38 +105,38 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_1e7e3068c4c83c78169445bd1ace9ba6d6899de7.600x338.jpg?t=1516910274",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_1e7e3068c4c83c78169445bd1ace9ba6d6899de7.1920x1080.jpg?t=1516910274"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_1e7e3068c4c83c78169445bd1ace9ba6d6899de7.600x338.jpg?t=1535202828",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_1e7e3068c4c83c78169445bd1ace9ba6d6899de7.1920x1080.jpg?t=1535202828"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_b164f6808d74552af977077cdecec59a2b3e7730.600x338.jpg?t=1516910274",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_b164f6808d74552af977077cdecec59a2b3e7730.1920x1080.jpg?t=1516910274"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_b164f6808d74552af977077cdecec59a2b3e7730.600x338.jpg?t=1535202828",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_b164f6808d74552af977077cdecec59a2b3e7730.1920x1080.jpg?t=1535202828"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_80031f57051361128b0c33ae2f432619190f3ea0.600x338.jpg?t=1516910274",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_80031f57051361128b0c33ae2f432619190f3ea0.1920x1080.jpg?t=1516910274"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_80031f57051361128b0c33ae2f432619190f3ea0.600x338.jpg?t=1535202828",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_80031f57051361128b0c33ae2f432619190f3ea0.1920x1080.jpg?t=1535202828"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_264afb12e4b9545af62b411fafc3ee3083d8fcb4.600x338.jpg?t=1516910274",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_264afb12e4b9545af62b411fafc3ee3083d8fcb4.1920x1080.jpg?t=1516910274"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_264afb12e4b9545af62b411fafc3ee3083d8fcb4.600x338.jpg?t=1535202828",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_264afb12e4b9545af62b411fafc3ee3083d8fcb4.1920x1080.jpg?t=1535202828"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_7bebd892051ef64b4f13e456f5919de7d9bc006b.600x338.jpg?t=1516910274",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_7bebd892051ef64b4f13e456f5919de7d9bc006b.1920x1080.jpg?t=1516910274"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_7bebd892051ef64b4f13e456f5919de7d9bc006b.600x338.jpg?t=1535202828",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_7bebd892051ef64b4f13e456f5919de7d9bc006b.1920x1080.jpg?t=1535202828"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_3898c508f2271824d7997bd96253cc42b82169e3.600x338.jpg?t=1516910274",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_3898c508f2271824d7997bd96253cc42b82169e3.1920x1080.jpg?t=1516910274"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_3898c508f2271824d7997bd96253cc42b82169e3.600x338.jpg?t=1535202828",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_3898c508f2271824d7997bd96253cc42b82169e3.1920x1080.jpg?t=1535202828"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_f159f9bf6353dd53f5382fa6ca4ecf9fc735e1a0.600x338.jpg?t=1516910274",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_f159f9bf6353dd53f5382fa6ca4ecf9fc735e1a0.1920x1080.jpg?t=1516910274"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_f159f9bf6353dd53f5382fa6ca4ecf9fc735e1a0.600x338.jpg?t=1535202828",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/528090/ss_f159f9bf6353dd53f5382fa6ca4ecf9fc735e1a0.1920x1080.jpg?t=1535202828"
     }
   ],
   "movies": [
@@ -144,9 +151,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 120
-  },
   "achievements": {
     "total": 34,
     "highlighted": [
@@ -200,5 +204,9 @@
     "url": "http://www.dagestantechnology.ru/",
     "email": "dagestan.technology@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/528090/page_bg_generated_v6b.jpg?t=1516910274"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/528090/page_bg_generated_v6b.jpg?t=1535202828",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

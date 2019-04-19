@@ -1,19 +1,19 @@
 {
   "type": "game",
-  "name": "Kautic",
+  "name": "Kautic - The Bald Wizard",
   "steam_appid": 600530,
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "Kautic is an action platform game where villagers from a little Town have been petrified and now Kautic, the Bald Wizard, has the hard mission of saving them, but he will need to venture into a world controlled by evil creatures.<br><br><strong>Features</strong><br><ul class=\"bb_ul\">    <li> High difficulty like in the classic games of Super Nintendo<br>    </li><li> Boss battles<br>    </li><li> 27 Different enemies<br>    </li><li> Pixel art<br>    </li><li> Easter eggs<br>    </li><li> Choose your way through the game<br>    </li><li> Different biomes<br>    </li><li> Full controller support</li></ul>",
-  "about_the_game": "Kautic is an action platform game where villagers from a little Town have been petrified and now Kautic, the Bald Wizard, has the hard mission of saving them, but he will need to venture into a world controlled by evil creatures.<br><br><strong>Features</strong><br><ul class=\"bb_ul\">    <li> High difficulty like in the classic games of Super Nintendo<br>    </li><li> Boss battles<br>    </li><li> 27 Different enemies<br>    </li><li> Pixel art<br>    </li><li> Easter eggs<br>    </li><li> Choose your way through the game<br>    </li><li> Different biomes<br>    </li><li> Full controller support</li></ul>",
+  "detailed_description": "Kautic is an action platform game where villagers from a little Town have been petrified and now Kautic, the Bald Wizard, has the hard mission of saving them, but he will need to venture into a world controlled by evil creatures.<br><br><strong>Features</strong><br><ul class=\"bb_ul\">    <li> 29 Different enemies<br>    </li><li> Boss battles<br>    </li><li> Choose your way through the game<br>    </li><li> Different biomes<br>    </li><li> Difficulty like in the classic plataform games<br>    </li><li> Easter eggs<br>    </li><li> Pixel art<br>    </li><li> Full controller support</li></ul>",
+  "about_the_game": "Kautic is an action platform game where villagers from a little Town have been petrified and now Kautic, the Bald Wizard, has the hard mission of saving them, but he will need to venture into a world controlled by evil creatures.<br><br><strong>Features</strong><br><ul class=\"bb_ul\">    <li> 29 Different enemies<br>    </li><li> Boss battles<br>    </li><li> Choose your way through the game<br>    </li><li> Different biomes<br>    </li><li> Difficulty like in the classic plataform games<br>    </li><li> Easter eggs<br>    </li><li> Pixel art<br>    </li><li> Full controller support</li></ul>",
   "short_description": "Kautic is an action platform game where villagers from a little Town have been petrified and now Kautic, the Bald Wizard, has the hard mission of saving them, but he will need to venture into a world controlled by evil creatures.",
-  "supported_languages": "English, Portuguese-Brazil",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/600530/header.jpg?t=1496792805",
+  "supported_languages": "English",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/600530/header.jpg?t=1529560764",
   "website": "http://badcoffeegames.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1.0 GHz Processor<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 32MB VRAM Integrated Graphics Card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7+<br></li><li><strong>Processor:</strong> Dual Core Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 64MB VRAM Dedicated Graphics Card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Greater<br></li><li><strong>Processor:</strong> Dual Core Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 64MB VRAM Dedicated Graphics Card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 41,
-    "discount_percent": 86
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     157730
@@ -35,7 +37,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Kautic",
+      "title": "Buy Kautic - The Bald Wizard",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 157730,
-          "percent_savings_text": "-86%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Kautic - <span class=\"discount_original_price\">2,99\u20ac</span> 0,41\u20ac",
+          "option_text": "Kautic - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 41
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -76,6 +78,10 @@
     {
       "id": 29,
       "description": "Steam Trading Cards"
+    },
+    {
+      "id": 23,
+      "description": "Steam Cloud"
     }
   ],
   "genres": [
@@ -95,64 +101,94 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_7c01b6ee6daed061cfccf3d6d68765ff78fdd6bd.600x338.jpg?t=1496792805",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_7c01b6ee6daed061cfccf3d6d68765ff78fdd6bd.1920x1080.jpg?t=1496792805"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_5e7f49bd38ee2b27490d3ebea3696d27283f6b27.600x338.jpg?t=1529560764",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_5e7f49bd38ee2b27490d3ebea3696d27283f6b27.1920x1080.jpg?t=1529560764"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_e47ec7839ea797c8108b460b4ee266d54b771811.600x338.jpg?t=1496792805",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_e47ec7839ea797c8108b460b4ee266d54b771811.1920x1080.jpg?t=1496792805"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_01e8ad9ceb22e43b1f85611f45755522f8c6a17b.600x338.jpg?t=1529560764",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_01e8ad9ceb22e43b1f85611f45755522f8c6a17b.1920x1080.jpg?t=1529560764"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_b00cf9d9ac590470bc9946f92f7e59b6de3775c6.600x338.jpg?t=1496792805",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_b00cf9d9ac590470bc9946f92f7e59b6de3775c6.1920x1080.jpg?t=1496792805"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_2f6c47ff7ba65ce4e85d1114de65f71700d2e73d.600x338.jpg?t=1529560764",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_2f6c47ff7ba65ce4e85d1114de65f71700d2e73d.1920x1080.jpg?t=1529560764"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_9d5c255fc15503753eda16921e1da3881a777efc.600x338.jpg?t=1496792805",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_9d5c255fc15503753eda16921e1da3881a777efc.1920x1080.jpg?t=1496792805"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_8b56b233739118559bd87b710c521aa5860113d9.600x338.jpg?t=1529560764",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_8b56b233739118559bd87b710c521aa5860113d9.1920x1080.jpg?t=1529560764"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_0ba94e2a1f28d08b4f99a3aede07556ef3082ee6.600x338.jpg?t=1496792805",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_0ba94e2a1f28d08b4f99a3aede07556ef3082ee6.1920x1080.jpg?t=1496792805"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_4789a5c7199528ecf4e3141627665f5933a92f83.600x338.jpg?t=1529560764",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_4789a5c7199528ecf4e3141627665f5933a92f83.1920x1080.jpg?t=1529560764"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_d7c647fea09b881a2269436b1852938656d025fe.600x338.jpg?t=1496792805",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_d7c647fea09b881a2269436b1852938656d025fe.1920x1080.jpg?t=1496792805"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_0829bb44bee6e1d3711579dcbcb7d0074a172784.600x338.jpg?t=1529560764",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_0829bb44bee6e1d3711579dcbcb7d0074a172784.1920x1080.jpg?t=1529560764"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_e5a778b5cc8d911cd15e86dc02a6e0fb7451df9a.600x338.jpg?t=1496792805",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_e5a778b5cc8d911cd15e86dc02a6e0fb7451df9a.1920x1080.jpg?t=1496792805"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_a5ced34ea997be2074461082022d8f2881073629.600x338.jpg?t=1529560764",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_a5ced34ea997be2074461082022d8f2881073629.1920x1080.jpg?t=1529560764"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_34aa754d6c8de7278c5def7e22da8f505c95400b.600x338.jpg?t=1496792805",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_34aa754d6c8de7278c5def7e22da8f505c95400b.1920x1080.jpg?t=1496792805"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_d0428159def7e24f6f62ae78552403489fc01cf2.600x338.jpg?t=1529560764",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_d0428159def7e24f6f62ae78552403489fc01cf2.1920x1080.jpg?t=1529560764"
     },
     {
       "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_31981f2b59b4563a910d096b52f3073432f765e9.600x338.jpg?t=1496792805",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_31981f2b59b4563a910d096b52f3073432f765e9.1920x1080.jpg?t=1496792805"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_5708a0048be0beb12fe79a4b3ef6efdedb2db628.600x338.jpg?t=1529560764",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_5708a0048be0beb12fe79a4b3ef6efdedb2db628.1920x1080.jpg?t=1529560764"
+    },
+    {
+      "id": 9,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_6bac8358074694a7241ca1bf1b8c7d6555e6ee07.600x338.jpg?t=1529560764",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_6bac8358074694a7241ca1bf1b8c7d6555e6ee07.1920x1080.jpg?t=1529560764"
+    },
+    {
+      "id": 10,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_ca51dbacdea757fe78ae3605c0646ec505b6d97b.600x338.jpg?t=1529560764",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_ca51dbacdea757fe78ae3605c0646ec505b6d97b.1920x1080.jpg?t=1529560764"
+    },
+    {
+      "id": 11,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_b42320834aa06cb39f4827fc38b8628a0749ade8.600x338.jpg?t=1529560764",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_b42320834aa06cb39f4827fc38b8628a0749ade8.1920x1080.jpg?t=1529560764"
+    },
+    {
+      "id": 12,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_d8776907cbbd308f66f846fad14e470c294f1ff8.600x338.jpg?t=1529560764",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_d8776907cbbd308f66f846fad14e470c294f1ff8.1920x1080.jpg?t=1529560764"
+    },
+    {
+      "id": 13,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_50ef7b45667f5dd45232f95fffa276142fb18e60.600x338.jpg?t=1529560764",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_50ef7b45667f5dd45232f95fffa276142fb18e60.1920x1080.jpg?t=1529560764"
+    },
+    {
+      "id": 14,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_4287be966cd0097c306964174f42708971fdd644.600x338.jpg?t=1529560764",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/600530/ss_4287be966cd0097c306964174f42708971fdd644.1920x1080.jpg?t=1529560764"
     }
   ],
   "movies": [
     {
       "id": 256680520,
-      "name": "Kautic Trailer",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256680520/movie.293x165.jpg?t=1488333935",
+      "name": "Kautic - The Bald Wizard - Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256680520/movie.293x165.jpg?t=1529560754",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256680520/movie480.webm?t=1488333935",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256680520/movie_max.webm?t=1488333935"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256680520/movie480.webm?t=1529560754",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256680520/movie_max.webm?t=1529560754"
       },
       "highlight": true
     }
   ],
   "achievements": {
-    "total": 20,
+    "total": 17,
     "highlighted": [
       {
         "name": "Save the Dog",
@@ -183,7 +219,7 @@
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/600530/c4446c8e6b5109facd7b63449352bada9cb397d9.jpg"
       },
       {
-        "name": "008",
+        "name": "Save your Wife",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/600530/c639b87b81df80df72bb1f9c05c729927dba667c.jpg"
       },
       {
@@ -191,7 +227,7 @@
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/600530/f2ce368341ec323abd81073a13d499305159e13f.jpg"
       },
       {
-        "name": "Save the Angel",
+        "name": "Win the Game",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/600530/fbd477ccc001750a9d9c6faf99d84251482a4944.jpg"
       }
     ]
@@ -204,5 +240,9 @@
     "url": "http://badcoffeegames.com",
     "email": "badcoffeegames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/600530/page_bg_generated_v6b.jpg?t=1496792805"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/600530/page_bg_generated_v6b.jpg?t=1529560764",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -15,10 +15,10 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/547240/header.jpg?t=1496744924",
   "website": "http://www.infinitywarsgame.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP or later</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows XP or later</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.5 or later</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Mac OS X 10.5 or later</li></ul>"
   },
   "linux_requirements": [],
   "developers": [
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 4599,
     "final": 4599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "45,99\u20ac"
   },
   "packages": [
     135135
@@ -157,5 +159,9 @@
     "url": "http://www.infinitywarsgame.com/bugs",
     "email": "support@lightmare.com.au"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/547240/page_bg_generated_v6b.jpg?t=1496744924"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/547240/page_bg_generated_v6b.jpg?t=1496744924",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

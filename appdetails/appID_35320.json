@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     13291
@@ -140,9 +142,6 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/35320/ss_6bf831abeacf9fda961953be38f85d582372ef59.1920x1080.jpg?t=1447355246"
     }
   ],
-  "recommendations": {
-    "total": 356
-  },
   "achievements": {
     "total": 47,
     "highlighted": [
@@ -196,5 +195,9 @@
     "url": "",
     "email": "info@russobit-m.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/35320/page_bg_generated_v6b.jpg?t=1447355246"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/35320/page_bg_generated_v6b.jpg?t=1447355246",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

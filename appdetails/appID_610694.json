@@ -31,10 +31,12 @@
     ""
   ],
   "price_overview": {
-    "currency": "RUB",
-    "initial": 16900,
-    "final": 16900,
-    "discount_percent": 0
+    "currency": "EUR",
+    "initial": 699,
+    "final": 699,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     163032
@@ -53,11 +55,11 @@
           "packageid": 163032,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "The Great Dinosaur Rush - 169 p\u0443\u0431.",
+          "option_text": "The Great Dinosaur Rush - 6,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 16900
+          "price_in_cents_with_discount": 699
         }
       ]
     }
@@ -160,13 +162,11 @@
       "id": 4,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/610694/ss_ec7457c283f76f94bd4c66d3916b351157a38f37.600x338.jpg?t=1503697662",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/610694/ss_ec7457c283f76f94bd4c66d3916b351157a38f37.1920x1080.jpg?t=1503697662"
-    },
-    {
-      "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/610694/?t=1503697662",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/610694/?t=1503697662"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Aug, 2017"
@@ -175,5 +175,9 @@
     "url": "http://www.berserk-games.com/forum",
     "email": "berserkgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/610694/page_bg_generated_v6b.jpg?t=1503697662"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/610694/page_bg_generated_v6b.jpg?t=1503697662",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,7 +11,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/281280/header.jpg?t=1447360490",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 98/2000/ME/XP<br></li><li><strong>Processor:</strong> Pentium PIII 800 MHz Processor or AMD Athlon<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\u2122 or ATI Radeon\u2122  7000 or higher<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Windows 98/2000/ME/XP<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> Pentium PIII 800 MHz Processor or AMD Athlon<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 256 MB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> NVIDIA GeForce\u2122 or ATI Radeon\u2122  7000 or higher<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 500 MB</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     38559
@@ -120,7 +122,10 @@
     }
   ],
   "recommendations": {
-    "total": 238
+    "total": 240
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -130,5 +135,9 @@
     "url": "",
     "email": "support@strategyfirst.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/281280/page_bg_generated_v6b.jpg?t=1447360490"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/281280/page_bg_generated_v6b.jpg?t=1447360490",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

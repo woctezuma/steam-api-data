@@ -31,18 +31,20 @@
     "Berserk Games"
   ],
   "price_overview": {
-    "currency": "RUB",
-    "initial": 24900,
-    "final": 24900,
-    "discount_percent": 0
+    "currency": "EUR",
+    "initial": 999,
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     79545,
-    "84852",
-    "94057",
-    "103429",
-    "103441",
-    "103462"
+    84852,
+    94057,
+    103429,
+    103441,
+    103462
   ],
   "package_groups": [
     {
@@ -58,61 +60,61 @@
           "packageid": 79545,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Cosmic Encounter Connector - 249 p\u0443\u0431.",
+          "option_text": "Cosmic Encounter Connector - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 24900
+          "price_in_cents_with_discount": 999
         },
         {
-          "packageid": "84852",
+          "packageid": 84852,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Cosmic Incursion - 79 p\u0443\u0431.",
+          "option_text": "Cosmic Incursion - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 7900
+          "price_in_cents_with_discount": 299
         },
         {
-          "packageid": "94057",
+          "packageid": 94057,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Cosmic Conflict - 79 p\u0443\u0431.",
+          "option_text": "Cosmic Conflict - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 7900
+          "price_in_cents_with_discount": 299
         },
         {
-          "packageid": "103429",
+          "packageid": 103429,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Cosmic Alliance - 79 p\u0443\u0431.",
+          "option_text": "Cosmic Alliance - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 7900
+          "price_in_cents_with_discount": 299
         },
         {
-          "packageid": "103441",
+          "packageid": 103441,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Cosmic Storm - 79 p\u0443\u0431.",
+          "option_text": "Cosmic Storm - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 7900
+          "price_in_cents_with_discount": 299
         },
         {
-          "packageid": "103462",
+          "packageid": 103462,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Cosmic Dominion - 79 p\u0443\u0431.",
+          "option_text": "Cosmic Dominion - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 7900
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -234,6 +236,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Sep, 2015"
@@ -242,5 +247,9 @@
     "url": "http://www.berserk-games.com/forum",
     "email": "berserkgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/405130/page_bg_generated_v6b.jpg?t=1523480479"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/405130/page_bg_generated_v6b.jpg?t=1523480479",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

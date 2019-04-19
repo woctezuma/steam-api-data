@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     68575
@@ -187,5 +189,9 @@
     "url": "http://www.leveleight.se/contact/",
     "email": "support@leveleight.se"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/372960/page_bg_generated_v6b.jpg?t=1447375028"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/372960/page_bg_generated_v6b.jpg?t=1447375028",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     122131
@@ -130,6 +132,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Sep, 2016"
@@ -138,5 +143,9 @@
     "url": "http://www.alexhw.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519200/page_bg_generated_v6b.jpg?t=1473474206"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519200/page_bg_generated_v6b.jpg?t=1473474206",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

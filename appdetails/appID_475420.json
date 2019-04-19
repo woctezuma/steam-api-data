@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "A 90 page artbook with short manga featuring the contents of Resette's Prescription ~Book of memory, Swaying scale~",
   "about_the_game": "A 90 page artbook with short manga featuring the contents of Resette's Prescription ~Book of memory, Swaying scale~",
-  "short_description": "",
+  "short_description": "A 90 page artbook with short manga featuring the contents of Resette's Prescription ~Book of memory, Swaying scale~",
   "fullgame": {
     "appid": "463460",
     "name": "Resette's Prescription ~Book of memory, Swaying scale~"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     105709
@@ -96,6 +98,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/475420/ss_379d63310857532dca180bcbee828323d2a011a4.1920x1080.jpg?t=1478564711"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 May, 2016"
@@ -104,5 +109,9 @@
     "url": "",
     "email": "support@sekaiproject.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/475420/page_bg_generated_v6b.jpg?t=1478564711"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/475420/page_bg_generated_v6b.jpg?t=1478564711",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

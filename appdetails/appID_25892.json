@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>The US spritepack adds 17 more US sprites in the game. You will se among other things, the Iowa Class battleship, the B-29 Super Fortress and the M4/E8 Sherman Medium Tank.</p>\n\t\t\t\t\t\t<p>8 new ships:</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>BB: Iowa Class \n\t\t\t\t\t\t<li>CV: Essex Class \n\t\t\t\t\t\t<li>BB: North Carolina Class \n\t\t\t\t\t\t<li>CV: Lexington class \n\t\t\t\t\t\t<li>SS: Gato Class Submarine \n\t\t\t\t\t\t<li>CL: Brooklyn Class \n\t\t\t\t\t\t<li>CA: Baltimore Class \n\t\t\t\t\t\t<li>DD: Fletcher Class\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t<p>4 new airplanes:</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>Interceptor: North American F-86 Sabre \n\t\t\t\t\t\t<li>Strategic Bomber: B-29 Super Fortress \n\t\t\t\t\t\t<li>Interceptor: Grumman F6F Hellcat \n\t\t\t\t\t\t<li>Tactical Bomber: Martin B-26 Marauder\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t<p>4 new tanks:</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>Light Amour: M-5 Stuart \n\t\t\t\t\t\t<li>Medium Armour M-3 Lee \n\t\t\t\t\t\t<li>Medium Armour: M4/E8 Sherman \n\t\t\t\t\t\t<li>Heavy Armour: M-26 Pershing\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t",
   "about_the_game": "<p>The US spritepack adds 17 more US sprites in the game. You will se among other things, the Iowa Class battleship, the B-29 Super Fortress and the M4/E8 Sherman Medium Tank.</p>\n\t\t\t\t\t\t<p>8 new ships:</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>BB: Iowa Class \n\t\t\t\t\t\t<li>CV: Essex Class \n\t\t\t\t\t\t<li>BB: North Carolina Class \n\t\t\t\t\t\t<li>CV: Lexington class \n\t\t\t\t\t\t<li>SS: Gato Class Submarine \n\t\t\t\t\t\t<li>CL: Brooklyn Class \n\t\t\t\t\t\t<li>CA: Baltimore Class \n\t\t\t\t\t\t<li>DD: Fletcher Class\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t<p>4 new airplanes:</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>Interceptor: North American F-86 Sabre \n\t\t\t\t\t\t<li>Strategic Bomber: B-29 Super Fortress \n\t\t\t\t\t\t<li>Interceptor: Grumman F6F Hellcat \n\t\t\t\t\t\t<li>Tactical Bomber: Martin B-26 Marauder\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t<p>4 new tanks:</p>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>Light Amour: M-5 Stuart \n\t\t\t\t\t\t<li>Medium Armour M-3 Lee \n\t\t\t\t\t\t<li>Medium Armour: M4/E8 Sherman \n\t\t\t\t\t\t<li>Heavy Armour: M-26 Pershing\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t",
-  "short_description": "",
+  "short_description": "The US spritepack adds 17 more US sprites in the game. You will se among other things, the Iowa Class battleship, the B-29 Super Fortress and the M4/E8 Sherman Medium Tank. 8 new ships: BB: Iowa Class CV: Essex Class BB: North Carolina Class CV: Lexington class SS: Gato Class Submarine CL: Brooklyn Class CA: Baltimore Class DD: Fletcher...",
   "fullgame": {
     "appid": "25890",
     "name": "Hearts of Iron III"
@@ -28,12 +28,12 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    1959,
-    29531,
-    37223
+    1959
   ],
   "package_groups": [
     {
@@ -54,26 +54,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 99
-        },
-        {
-          "packageid": 29531,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron 3 DLC Collection - 29,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2999
-        },
-        {
-          "packageid": 37223,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron Collection III (Jan 2014) - 41,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4199
         }
       ]
     }
@@ -140,6 +120,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/25892/ss_e6ae4629e788775706b61e58448a4bf038f990fd.1920x1080.jpg?t=1447352752"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Aug, 2009"
@@ -148,5 +131,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25892/page_bg_generated_v6b.jpg?t=1447352752"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25892/page_bg_generated_v6b.jpg?t=1447352752",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

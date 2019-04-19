@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 974,
-    "discount_percent": 35
+    "initial": 1249,
+    "final": 1249,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,49\u20ac"
   },
   "packages": [
     156294,
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 156294,
-          "percent_savings_text": "-35%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Just In Time Incorporated - <span class=\"discount_original_price\">14,99\u20ac</span> 9,74\u20ac",
+          "option_text": "Just In Time Incorporated - 12,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 974
+          "price_in_cents_with_discount": 1249
         }
       ]
     },
@@ -180,6 +182,9 @@
       "highlight": true
     }
   ],
+  "recommendations": {
+    "total": 106
+  },
   "achievements": {
     "total": 44,
     "highlighted": [
@@ -233,5 +238,9 @@
     "url": "http://steamcommunity.com/app/592030/discussions/0/1471966894870864315",
     "email": "help@secondwindinteractive.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/592030/page_bg_generated_v6b.jpg?t=1523470321"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/592030/page_bg_generated_v6b.jpg?t=1523470321",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

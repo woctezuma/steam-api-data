@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     113289
@@ -205,5 +207,9 @@
     "url": "http://hlfx.ru/forum",
     "email": "support@hlfx.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/496450/page_bg_generated_v6b.jpg?t=1483447684"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/496450/page_bg_generated_v6b.jpg?t=1483447684",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

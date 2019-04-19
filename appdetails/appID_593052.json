@@ -12,7 +12,7 @@
     "appid": "543460",
     "name": "Dead Rising 4"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Japanese<strong>*</strong>, Korean, Polish, Portuguese-Brazil<strong>*</strong>, Russian, Simplified Chinese, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean, Polish, Portuguese - Brazil<strong>*</strong>, Russian, Simplified Chinese, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/593052/header.jpg?t=1489507349",
   "website": "http://deadrising.com/",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     154466
@@ -129,6 +131,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/593052/ss_8bc5d83684efb7ef10242c5eab28b9a06c431cd0.1920x1080.jpg?t=1489507349"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Mar, 2017"
@@ -137,5 +142,9 @@
     "url": "http://www.capcom-unity.com/dead_rising/go/forum/view/7491/253071/dead-rising-4",
     "email": "support@capcom.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/593052/page_bg_generated_v6b.jpg?t=1489507349"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/593052/page_bg_generated_v6b.jpg?t=1489507349",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

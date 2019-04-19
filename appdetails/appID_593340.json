@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     154603
@@ -156,15 +158,11 @@
     }
   ],
   "achievements": {
-    "total": 2,
+    "total": 1,
     "highlighted": [
       {
         "name": "First Steps",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/593340/c7be2e3c938f41b36eba675a81c0c4d4589c78ef.jpg"
-      },
-      {
-        "name": "Now you know more",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/593340/bffdaceaf0a11ee785d396117b6c7a013c46c507.jpg"
       }
     ]
   },
@@ -176,5 +174,9 @@
     "url": "",
     "email": "support@aag-studio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/593340/page_bg_generated_v6b.jpg?t=1494601265"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/593340/page_bg_generated_v6b.jpg?t=1494601265",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

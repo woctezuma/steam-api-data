@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This game is a story of a father who is left alone to take care of his chickens.<br />\r\nYou must use your skill to avoid all sort of forest creatures and to save all 10 chickens.<br />\r\nFight bosses, and be prepared for an epic finale.<br />\r\nThe game difficulty start from easy to hard making this game last for hours of fun gameplay.",
   "about_the_game": "This game is a story of a father who is left alone to take care of his chickens.<br />\r\nYou must use your skill to avoid all sort of forest creatures and to save all 10 chickens.<br />\r\nFight bosses, and be prepared for an epic finale.<br />\r\nThe game difficulty start from easy to hard making this game last for hours of fun gameplay.",
-  "short_description": "This game is a story of a father who is left alone to take care of his chickens.<br />\r\nYou must use your skill to avoid all sort of forest creatures and to save all 10 chickens.<br />\r\nFight bosses, and be prepared for an epic finale.<br />\r\nThe game difficulty start from easy to hard making this game last for hours of fun gameplay.",
+  "short_description": "This game is a story of a father who is left alone to take care of his chickens. You must use your skill to avoid all sort of forest creatures and to save all 10 chickens. Fight bosses, and be prepared for an epic finale. The game difficulty start from easy to hard making this game last for hours of fun gameplay.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/551080/header.jpg?t=1478245726",
   "website": null,
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 61,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     136695
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 136695,
-          "percent_savings_text": "",
+          "percent_savings_text": "-61%",
           "percent_savings": 0,
-          "option_text": "Rescue your chickens - 0,99\u20ac",
+          "option_text": "Rescue your chickens - <span class=\"discount_original_price\">0,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -124,6 +126,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Nov, 2016"
@@ -132,5 +137,9 @@
     "url": "",
     "email": "morosanumv@yahoo.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/551080/page_bg_generated_v6b.jpg?t=1478245726"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/551080/page_bg_generated_v6b.jpg?t=1478245726",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

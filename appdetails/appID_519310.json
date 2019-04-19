@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>This is a 1 hour video talking about some tips and general guidelines I like to use in my own work. It's a great video for beginners who are looking ways to improve their compositions.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>This is a 1 hour video talking about some tips and general guidelines I like to use in my own work. It's a great video for beginners who are looking ways to improve their compositions.",
   "about_the_game": "This is a 1 hour video talking about some tips and general guidelines I like to use in my own work. It's a great video for beginners who are looking ways to improve their compositions.",
   "short_description": "These are my general tips and guidelines I use in my paintings.",
   "fullgame": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     122191
@@ -116,6 +118,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Oct, 2016"
@@ -124,5 +129,9 @@
     "url": "",
     "email": "KdChock@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519300/page_bg_generated_v6b.jpg?t=1477598021"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519300/page_bg_generated_v6b.jpg?t=1477598021",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

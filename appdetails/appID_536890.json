@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     130926
@@ -124,7 +126,10 @@
     }
   ],
   "recommendations": {
-    "total": 316
+    "total": 198
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -134,5 +139,9 @@
     "url": "adultswim.com/games",
     "email": "support@mostlytigerproof.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/536890/page_bg_generated_v6b.jpg?t=1490885827"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/536890/page_bg_generated_v6b.jpg?t=1490885827",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

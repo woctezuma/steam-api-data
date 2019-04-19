@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>This spritepack contains 87 new animated 3D-Models (not just skins), including units from 1934 to 1945. Germany gains one unique sprite for each technology that changes the sprite between 1934 and 1945.</p>\n\t\t\t\t\t\t<p>The sprites add completely new and different equipment such as an assortment of Wehrmacht helmets, Wehrmacht caps and gear for each unit.</p>\n\t\t\t\t\t\t<p>Additionally, the spritepack includes a variety of new weaponry to your sprites such as the FG 42, Flammenwerfer 34, StG 44 and the mighty MG 42.</p>",
   "about_the_game": "<p>This spritepack contains 87 new animated 3D-Models (not just skins), including units from 1934 to 1945. Germany gains one unique sprite for each technology that changes the sprite between 1934 and 1945.</p>\n\t\t\t\t\t\t<p>The sprites add completely new and different equipment such as an assortment of Wehrmacht helmets, Wehrmacht caps and gear for each unit.</p>\n\t\t\t\t\t\t<p>Additionally, the spritepack includes a variety of new weaponry to your sprites such as the FG 42, Flammenwerfer 34, StG 44 and the mighty MG 42.</p>",
-  "short_description": "",
+  "short_description": "This spritepack contains 87 new animated 3D-Models (not just skins), including units from 1934 to 1945. Germany gains one unique sprite for each technology that changes the sprite between 1934 and 1945. The sprites add completely new and different equipment such as an assortment of Wehrmacht helmets, Wehrmacht caps and gear for each unit.",
   "fullgame": {
     "appid": "25890",
     "name": "Hearts of Iron III"
@@ -29,12 +29,12 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    11287,
-    29531,
-    37223
+    11287
   ],
   "package_groups": [
     {
@@ -55,26 +55,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 99
-        },
-        {
-          "packageid": 29531,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron 3 DLC Collection - 29,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2999
-        },
-        {
-          "packageid": 37223,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron Collection III (Jan 2014) - 41,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4199
         }
       ]
     }
@@ -170,6 +150,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/42904/ss_08d1ff292663c0960f33c23c463ab2a5a9d3f8f4.1920x1080.jpg?t=1447354544"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Aug, 2011"
@@ -178,5 +161,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42904/page_bg_generated_v6b.jpg?t=1447354544"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42904/page_bg_generated_v6b.jpg?t=1447354544",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

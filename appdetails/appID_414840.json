@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1><strong>Lighting Tools and Tips - Series</strong><h2 class=\"bb_tag\">Video 1</h2><br><ul class=\"bb_ul\"><li>Demonstrating the tools and how they can increase workflow<br></li><li>Explaining basic understanding of light to start to make your character 3D feeling<br></li><li>Using the tools to get a good Ambient Occlusion to your characters, nondestructive</li></ul><h2 class=\"bb_tag\">Video 2 </h2><br><ul class=\"bb_ul\"><li>Using overlays to build skin tones. <br></li><li>Applying strategic coloring to increase vibrance<br></li><li>Use of accidents to enhance your painting.</li></ul><h2 class=\"bb_tag\">Video 3 </h2><br><ul class=\"bb_ul\"><li>Gradient Maps<br></li><li>Action<br></li><li>RGB, Color Mixer Brush</li></ul>",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"<a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\" target=\"_blank\" rel=\"noreferrer\"  >https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871</a>\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1><strong>Lighting Tools and Tips - Series</strong><h2 class=\"bb_tag\">Video 1</h2><br><ul class=\"bb_ul\"><li>Demonstrating the tools and how they can increase workflow<br></li><li>Explaining basic understanding of light to start to make your character 3D feeling<br></li><li>Using the tools to get a good Ambient Occlusion to your characters, nondestructive</li></ul><h2 class=\"bb_tag\">Video 2 </h2><br><ul class=\"bb_ul\"><li>Using overlays to build skin tones. <br></li><li>Applying strategic coloring to increase vibrance<br></li><li>Use of accidents to enhance your painting.</li></ul><h2 class=\"bb_tag\">Video 3 </h2><br><ul class=\"bb_ul\"><li>Gradient Maps<br></li><li>Action<br></li><li>RGB, Color Mixer Brush</li></ul>",
   "about_the_game": "<strong>Lighting Tools and Tips - Series</strong><h2 class=\"bb_tag\">Video 1</h2><br><ul class=\"bb_ul\"><li>Demonstrating the tools and how they can increase workflow<br></li><li>Explaining basic understanding of light to start to make your character 3D feeling<br></li><li>Using the tools to get a good Ambient Occlusion to your characters, nondestructive</li></ul><h2 class=\"bb_tag\">Video 2 </h2><br><ul class=\"bb_ul\"><li>Using overlays to build skin tones. <br></li><li>Applying strategic coloring to increase vibrance<br></li><li>Use of accidents to enhance your painting.</li></ul><h2 class=\"bb_tag\">Video 3 </h2><br><ul class=\"bb_ul\"><li>Gradient Maps<br></li><li>Action<br></li><li>RGB, Color Mixer Brush</li></ul>",
   "short_description": "This tutorial demonstrates the tools you can use to increase workflow as well as explain the basic understanding of light to give your character that 3D feeling.",
   "fullgame": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     83367
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Jan, 2016"
@@ -127,5 +132,9 @@
     "url": "",
     "email": "robotpencil.info@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/414840/page_bg_generated_v6b.jpg?t=1452803387"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/414840/page_bg_generated_v6b.jpg?t=1452803387",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -4,6 +4,9 @@
   "steam_appid": 611770,
   "required_age": 0,
   "is_free": false,
+  "dlc": [
+    775031
+  ],
   "detailed_description": "Trailer shows a work in progress and game will be upgraded a lot.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Levels full of non-stop action, including highly hazardous environments: Underwater, Volcano, Space, Dark Cave<br></li><li>Huge bosses that pack a punch. Boss rush extra mode.<br></li><li>Optional scanline screen FX, as seen in trailer.<br></li><li>10 weapons (two same weapons stack up to higher power).<br></li><li>Steam Trading Cards.</li></ul><h2 class=\"bb_tag\">Coming Up soon</h2><ul class=\"bb_ul\"><li>Steam Achievements.<br></li><li>Railroad, night missions and more levels!<br></li><li>Level editor for making your own custom levels.<br></li><li>Destructible terrain (already available for testing in the Endless mode).<br></li><li>Dozens of new weapons and powerups, developed via technology tree between the levels.</li></ul><h2 class=\"bb_tag\">Coming Up later</h2><ul class=\"bb_ul\"><li>More Steam Achievements.<br></li><li>Scoring system with combos to compete against other players.<br></li><li>Linux version. Possibly even Android version, it depends.</li></ul><h2 class=\"bb_tag\">Lead Programmer - Xitilon</h2><h2 class=\"bb_tag\">Programmer and Visual Designer - Lowixsama</h2><h2 class=\"bb_tag\">Music - Darkman007</h2><h2 class=\"bb_tag\">Trailer - Lowixsama</h2><h2 class=\"bb_tag\">Greenlight Trailer - Dr. Z10</h2>",
   "about_the_game": "Trailer shows a work in progress and game will be upgraded a lot.<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>Levels full of non-stop action, including highly hazardous environments: Underwater, Volcano, Space, Dark Cave<br></li><li>Huge bosses that pack a punch. Boss rush extra mode.<br></li><li>Optional scanline screen FX, as seen in trailer.<br></li><li>10 weapons (two same weapons stack up to higher power).<br></li><li>Steam Trading Cards.</li></ul><h2 class=\"bb_tag\">Coming Up soon</h2><ul class=\"bb_ul\"><li>Steam Achievements.<br></li><li>Railroad, night missions and more levels!<br></li><li>Level editor for making your own custom levels.<br></li><li>Destructible terrain (already available for testing in the Endless mode).<br></li><li>Dozens of new weapons and powerups, developed via technology tree between the levels.</li></ul><h2 class=\"bb_tag\">Coming Up later</h2><ul class=\"bb_ul\"><li>More Steam Achievements.<br></li><li>Scoring system with combos to compete against other players.<br></li><li>Linux version. Possibly even Android version, it depends.</li></ul><h2 class=\"bb_tag\">Lead Programmer - Xitilon</h2><h2 class=\"bb_tag\">Programmer and Visual Designer - Lowixsama</h2><h2 class=\"bb_tag\">Music - Darkman007</h2><h2 class=\"bb_tag\">Trailer - Lowixsama</h2><h2 class=\"bb_tag\">Greenlight Trailer - Dr. Z10</h2>",
   "short_description": "Classic multi-directional (360\u00b0) shoot 'em up. Navigate your UFO through hazardous environments with dangerous enemies and beat huge bosses!",
@@ -24,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 329,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,29\u20ac"
   },
   "packages": [
     163682
@@ -45,11 +50,11 @@
           "packageid": 163682,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Void Source - 3,99\u20ac",
+          "option_text": "Void Source - 3,29\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 329
         }
       ]
     }
@@ -171,7 +176,7 @@
     }
   ],
   "achievements": {
-    "total": 11,
+    "total": 8,
     "highlighted": [
       {
         "name": "Mega-Cannon defeated",
@@ -198,20 +203,12 @@
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/611770/0e317a1da535d20510e098303e705d91e2d70a43.jpg"
       },
       {
-        "name": "Giga-score",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/611770/8a93f6c6db69ae1583ad0437f344385424a7056d.jpg"
-      },
-      {
-        "name": "Terra-score",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/611770/05dd8f36d6d5427097a70b98fe31b57816ddbb2a.jpg"
-      },
-      {
-        "name": "Technician",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/611770/b537d9685beaa7c808067871ab913fd86887a437.jpg"
-      },
-      {
         "name": "Victorious",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/611770/b3ee98dc0c6b0365208a53db58b6eea102977753.jpg"
+      },
+      {
+        "name": "Editor",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/611770/b5a723200a3cf1cc69fecc9d9985554e215d7b6c.jpg"
       }
     ]
   },
@@ -223,5 +220,9 @@
     "url": "",
     "email": "xitilon@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/611770/page_bg_generated_v6b.jpg?t=1519212429"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/611770/page_bg_generated_v6b.jpg?t=1519212429",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

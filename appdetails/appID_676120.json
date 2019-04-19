@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     192666
@@ -46,11 +48,11 @@
           "packageid": 192666,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Sango Guardian Chaos Generation Steamedition - 7,99\u20ac",
+          "option_text": "Sango Guardian Chaos Generation Steamedition - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -168,5 +170,12 @@
     "url": "http://www.sealytec.com/",
     "email": "850934026@qq.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/676120/page_bg_generated_v6b.jpg?t=1508296569"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/676120/page_bg_generated_v6b.jpg?t=1508296569",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

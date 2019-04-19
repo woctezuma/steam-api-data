@@ -26,10 +26,12 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
-    "34849"
+    34849
   ],
   "package_groups": [
     {
@@ -42,7 +44,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "34849",
+          "packageid": 34849,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Helicopter Simulator 2014: Search and Rescue - 5,99\u20ac",
@@ -199,7 +201,7 @@
     }
   ],
   "recommendations": {
-    "total": 297
+    "total": 226
   },
   "achievements": {
     "total": 36,
@@ -254,5 +256,9 @@
     "url": "http://playway.com/index.php?option=com_content&amp;view=article&amp;id=129&amp;Itemid=64",
     "email": "help@playway.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/266290/page_bg_generated_v6b.jpg?t=1516409288"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/266290/page_bg_generated_v6b.jpg?t=1516409288",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

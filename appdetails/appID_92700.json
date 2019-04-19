@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     7711
@@ -61,7 +63,7 @@
   },
   "metacritic": {
     "score": 34,
-    "url": "http://www.metacritic.com/game/pc/shadow-harvest-phantom-ops?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/shadow-harvest-phantom-ops?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -131,9 +133,6 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/92700/ss_6f0876896830b2c015b15cdb6e7b935c30026c14.1920x1080.jpg?t=1447354028"
     }
   ],
-  "recommendations": {
-    "total": 113
-  },
   "achievements": {
     "total": 0
   },
@@ -145,5 +144,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/92700/page_bg_generated_v6b.jpg?t=1447354028"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/92700/page_bg_generated_v6b.jpg?t=1447354028",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

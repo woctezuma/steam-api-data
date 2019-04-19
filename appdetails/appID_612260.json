@@ -11,7 +11,7 @@
     "appid": "427100",
     "name": "Fernbus Simulator"
   },
-  "supported_languages": "English, German, French, Polish, Russian, Portuguese-Brazil, Traditional Chinese, Portuguese, Turkish, Italian, Spanish, Simplified Chinese",
+  "supported_languages": "English, German, French, Polish, Russian, Portuguese - Brazil, Traditional Chinese, Portuguese, Turkish, Italian, Spanish - Spain, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/612260/header.jpg?t=1519981496",
   "website": "http://tml-studios.de/",
   "pc_requirements": {
@@ -37,11 +37,13 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     163850,
-    "214060"
+    214060
   ],
   "package_groups": [
     {
@@ -64,7 +66,7 @@
           "price_in_cents_with_discount": 199
         },
         {
-          "packageid": "214060",
+          "packageid": 214060,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Fernbus Simulator - Platinum Edition - 39,95\u20ac",
@@ -215,6 +217,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/612260/ss_29b1f27072819b96d49cbb745be9a95781f78513.1920x1080.jpg?t=1519981496"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Jun, 2017"
@@ -223,5 +228,9 @@
     "url": "https://aerosoft.zendesk.com/anonymous_requests/new",
     "email": "https://aerosoft.zendesk.com/anonymous_requests/new"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/612260/page_bg_generated_v6b.jpg?t=1519981496"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/612260/page_bg_generated_v6b.jpg?t=1519981496",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

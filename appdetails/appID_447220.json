@@ -11,7 +11,7 @@
     "appid": "363970",
     "name": "Clicker Heroes"
   },
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, French<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Portuguese<strong>*</strong>, Thai<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, French<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Portuguese<strong>*</strong>, Thai<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/447220/header.jpg?t=1478749064",
   "website": "http://clickerheroes.com",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     95579
@@ -158,6 +160,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Oct, 2016"
@@ -166,5 +171,9 @@
     "url": "http://www.reddit.com/r/ClickerHeroes/",
     "email": "clickerheroes@playsaurus.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447220/page_bg_generated_v6b.jpg?t=1478749064"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/447220/page_bg_generated_v6b.jpg?t=1478749064",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -3,12 +3,12 @@
   "name": "Snowday",
   "steam_appid": 515700,
   "required_age": 0,
-  "is_free": false,
-  "detailed_description": "Remember the good old days where you'd watch the snow come down and hope for a <strong>Snowday</strong>? Even if you haven't, <strong>Snowday</strong> will immerse you in the fun and excitement of the snowball fight like never before. <br><br><strong>Snowday</strong> is a <strong>competitive multiplayer VR game</strong> built from the ground up for use with <strong>motion controllers</strong>. A heavy emphasis is placed on tactical snowball fighting strategies. With its fast pace, you'll have to use cover, stealth, and accurate throwing to your advantage. And, if you're good enough, you just <strong>might</strong> earn your place as the neighborhood's best snowbrawler.",
-  "about_the_game": "Remember the good old days where you'd watch the snow come down and hope for a <strong>Snowday</strong>? Even if you haven't, <strong>Snowday</strong> will immerse you in the fun and excitement of the snowball fight like never before. <br><br><strong>Snowday</strong> is a <strong>competitive multiplayer VR game</strong> built from the ground up for use with <strong>motion controllers</strong>. A heavy emphasis is placed on tactical snowball fighting strategies. With its fast pace, you'll have to use cover, stealth, and accurate throwing to your advantage. And, if you're good enough, you just <strong>might</strong> earn your place as the neighborhood's best snowbrawler.",
-  "short_description": "Engage in multiplayer VR snowfights that capture real snow play like no FPS (First Person Snowbrawler) you've played before! Throw, dodge, and sneak your way to domination of the neighborhood snowfield.",
+  "is_free": true,
+  "detailed_description": "Remember the good old days where you'd watch the snow come down and hope for a <strong>Snowday</strong>? Even if you haven't, <strong>Snowday</strong> will immerse you in the fun and excitement of the snowball fight like never before. <br><br><strong>Snowday</strong> is a <strong>competitive VR game</strong> built from the ground up for use with <strong>motion controllers</strong>. A heavy emphasis is placed on tactical snowball fighting strategies. With its fast pace, you'll have to use cover, stealth, and accurate throwing to your advantage. And, if you're good enough, you just <strong>might</strong> earn your place as the neighborhood's best snowbrawler.",
+  "about_the_game": "Remember the good old days where you'd watch the snow come down and hope for a <strong>Snowday</strong>? Even if you haven't, <strong>Snowday</strong> will immerse you in the fun and excitement of the snowball fight like never before. <br><br><strong>Snowday</strong> is a <strong>competitive VR game</strong> built from the ground up for use with <strong>motion controllers</strong>. A heavy emphasis is placed on tactical snowball fighting strategies. With its fast pace, you'll have to use cover, stealth, and accurate throwing to your advantage. And, if you're good enough, you just <strong>might</strong> earn your place as the neighborhood's best snowbrawler.",
+  "short_description": "Engage in VR snowfights that capture real snow play like no FPS (First Person Snowbrawler) you've played before! Throw, dodge, and sneak your way to domination of the neighborhood snowfield.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/515700/header.jpg?t=1480556526",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/515700/header.jpg?t=1544389451",
   "website": "http://www.breachgate.com/snowday",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1 64 bit or newer<br></li><li><strong>Processor:</strong> Intel i5-4590 / AMD FX 8350 equivalent or greater<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970 / AMD Radeon 290 equivalent or greater<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
@@ -23,15 +23,9 @@
   "publishers": [
     "Breachgate"
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
-  },
   "packages": [
-    120462,
-    143066
+    310851,
+    311192
   ],
   "package_groups": [
     {
@@ -44,35 +38,14 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": 120462,
+          "packageid": 311192,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Snowday - 14,99\u20ac",
+          "option_text": "Snowday - Commercial License (Free) - Free",
           "option_description": "",
           "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 1499
-        }
-      ]
-    },
-    {
-      "name": "subscriptions",
-      "title": "Buy Snowday Subscription Plan",
-      "description": "To be billed on a recurring basis.",
-      "selection_text": "Select a subscription plan",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "true",
-      "subs": [
-        {
-          "packageid": 143066,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "1 Month(s) @ 27,99\u20ac/Month",
-          "option_description": "<p class=\"game_purchase_subscription\">27,99\u20ac at checkout, auto-renewed every 1 month(s) at 27,99\u20ac.</p>",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2799
+          "is_free_license": true,
+          "price_in_cents_with_discount": 0
         }
       ]
     }
@@ -84,12 +57,8 @@
   },
   "categories": [
     {
-      "id": 1,
-      "description": "Multi-player"
-    },
-    {
-      "id": 36,
-      "description": "Online Multi-Player"
+      "id": 2,
+      "description": "Single-player"
     }
   ],
   "genres": [
@@ -105,28 +74,28 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_3c50490af35ce9756bcb1730d829b8f57df6fc1f.600x338.jpg?t=1480556526",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_3c50490af35ce9756bcb1730d829b8f57df6fc1f.1920x1080.jpg?t=1480556526"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_3c50490af35ce9756bcb1730d829b8f57df6fc1f.600x338.jpg?t=1544389451",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_3c50490af35ce9756bcb1730d829b8f57df6fc1f.1920x1080.jpg?t=1544389451"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_3157bac0866e9866aa5d2d5f70e0021754606074.600x338.jpg?t=1480556526",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_3157bac0866e9866aa5d2d5f70e0021754606074.1920x1080.jpg?t=1480556526"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_3157bac0866e9866aa5d2d5f70e0021754606074.600x338.jpg?t=1544389451",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_3157bac0866e9866aa5d2d5f70e0021754606074.1920x1080.jpg?t=1544389451"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_325626b7fc078753e6b3367a5a6e8599b13d3b14.600x338.jpg?t=1480556526",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_325626b7fc078753e6b3367a5a6e8599b13d3b14.1920x1080.jpg?t=1480556526"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_325626b7fc078753e6b3367a5a6e8599b13d3b14.600x338.jpg?t=1544389451",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_325626b7fc078753e6b3367a5a6e8599b13d3b14.1920x1080.jpg?t=1544389451"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_f208fceefdf40df86226460079acc68ae37a5006.600x338.jpg?t=1480556526",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_f208fceefdf40df86226460079acc68ae37a5006.1920x1080.jpg?t=1480556526"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_f208fceefdf40df86226460079acc68ae37a5006.600x338.jpg?t=1544389451",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_f208fceefdf40df86226460079acc68ae37a5006.1920x1080.jpg?t=1544389451"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_988b5a494fd41cd510c9254d305e8dd4a19c787b.600x338.jpg?t=1480556526",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_988b5a494fd41cd510c9254d305e8dd4a19c787b.1920x1080.jpg?t=1480556526"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_988b5a494fd41cd510c9254d305e8dd4a19c787b.600x338.jpg?t=1544389451",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515700/ss_988b5a494fd41cd510c9254d305e8dd4a19c787b.1920x1080.jpg?t=1544389451"
     }
   ],
   "movies": [
@@ -151,6 +120,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Nov, 2016"
@@ -159,5 +131,9 @@
     "url": "http://www.breachgate.com/contact",
     "email": "info@breachgate.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/515700/page_bg_generated_v6b.jpg?t=1480556526"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/515700/page_bg_generated_v6b.jpg?t=1544389451",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

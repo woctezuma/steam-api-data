@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1699,
-    "final": 1699,
-    "discount_percent": 0
+    "initial": 1599,
+    "final": 1599,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "15,99\u20ac"
   },
   "packages": [
     223445
@@ -53,11 +55,11 @@
           "packageid": 223445,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: Blue Comet - 16,99\u20ac",
+          "option_text": "TANE DLC: Blue Comet - 15,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1699
+          "price_in_cents_with_discount": 1599
         }
       ]
     }
@@ -123,6 +125,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404211/ss_d06161feaa0e6069908a79e4075529dca3fd3ff8.1920x1080.jpg?t=1479201643"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Jan, 2016"
@@ -131,5 +136,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404211/page_bg_generated_v6b.jpg?t=1479201643"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404211/page_bg_generated_v6b.jpg?t=1479201643",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

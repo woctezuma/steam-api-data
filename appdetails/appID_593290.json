@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 61,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     154588
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 154588,
-          "percent_savings_text": "",
+          "percent_savings_text": "-61%",
           "percent_savings": 0,
-          "option_text": "Moccasin - 0,99\u20ac",
+          "option_text": "Moccasin - <span class=\"discount_original_price\">0,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -146,9 +148,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 127
-  },
   "achievements": {
     "total": 9,
     "highlighted": [
@@ -198,5 +197,9 @@
     "url": "",
     "email": "vai.mism@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/593290/page_bg_generated_v6b.jpg?t=1520017863"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/593290/page_bg_generated_v6b.jpg?t=1520017863",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

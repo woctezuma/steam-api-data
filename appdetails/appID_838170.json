@@ -2,18 +2,18 @@
   "type": "dlc",
   "name": "Outbreak: The Nightmare Chronicles - Season Pass",
   "steam_appid": 838170,
-  "required_age": 0,
+  "required_age": "17",
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "Purchase Outbreak: The Nightmare Chronicles' Season Pass to save and get access to all of the new game chapters as soon as they are released during 2018 and 2019. The Season Pass includes access to three additional story chapters, as well as new locations and variations for Battle Mode included with each chapter release. You'll continue Lydia's harrowing story after she was separated from the other survivors. As you explore the old manor and uncover the dark secrets below it, you'll face new challenges and threats as you uncover more secrets about the epidemic. Grab the Season Pass today to prepare yourself and save when compared to purchasing each DLC separately.<br><br><strong>Note: Please do not purchase any of the chapters separately, or the Complete Edition if you purchase the Season Pass. The Season Pass includes all content from those separate chapters and will become available as each is released. The Season Pass requires the base 'Outbreak: The Nightmare Chronicles' game to play.</strong>",
-  "about_the_game": "Purchase Outbreak: The Nightmare Chronicles' Season Pass to save and get access to all of the new game chapters as soon as they are released during 2018 and 2019. The Season Pass includes access to three additional story chapters, as well as new locations and variations for Battle Mode included with each chapter release. You'll continue Lydia's harrowing story after she was separated from the other survivors. As you explore the old manor and uncover the dark secrets below it, you'll face new challenges and threats as you uncover more secrets about the epidemic. Grab the Season Pass today to prepare yourself and save when compared to purchasing each DLC separately.<br><br><strong>Note: Please do not purchase any of the chapters separately, or the Complete Edition if you purchase the Season Pass. The Season Pass includes all content from those separate chapters and will become available as each is released. The Season Pass requires the base 'Outbreak: The Nightmare Chronicles' game to play.</strong>",
-  "short_description": "Purchase Outbreak: The Nightmare Chronicles' Season Pass to get access to all of the new game chapters as soon as they are released during 2018 and 2019 at a discounted price. The Season Pass includes access to three additional story chapters, as well as new locations and variations for Battle Mode included with each chapter release.",
+  "detailed_description": "Purchase Outbreak: The Nightmare Chronicles' Season Pass to save and get access to all of the remaining Story Mode and Battle Mode content after the initial chapter. You'll continue Lydia's harrowing story after she was separated from the other survivors. As you explore the old manor and uncover the dark secrets below it, you'll face new challenges and threats as you uncover more secrets about the epidemic. Grab the Season Pass today and save compared to purchasing each chapter separately.<br><br><strong>Note: Please do not purchase any of the chapters separately, or the Complete Edition if you purchase the Season Pass. The Season Pass includes all content from those separate chapters. The Season Pass requires the base 'Outbreak: The Nightmare Chronicles' game to play.</strong>",
+  "about_the_game": "Purchase Outbreak: The Nightmare Chronicles' Season Pass to save and get access to all of the remaining Story Mode and Battle Mode content after the initial chapter. You'll continue Lydia's harrowing story after she was separated from the other survivors. As you explore the old manor and uncover the dark secrets below it, you'll face new challenges and threats as you uncover more secrets about the epidemic. Grab the Season Pass today and save compared to purchasing each chapter separately.<br><br><strong>Note: Please do not purchase any of the chapters separately, or the Complete Edition if you purchase the Season Pass. The Season Pass includes all content from those separate chapters. The Season Pass requires the base 'Outbreak: The Nightmare Chronicles' game to play.</strong>",
+  "short_description": "Purchase Outbreak: The Nightmare Chronicles' Season Pass to save and get access to all of the remaining Story Mode and Battle Mode content after the initial chapter. You'll continue Lydia's harrowing story after she was separated from the other survivors.",
   "fullgame": {
     "appid": "811720",
     "name": "Outbreak: The Nightmare Chronicles"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/838170/header.jpg?t=1522690498",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/838170/header.jpg?t=1539001881",
   "website": "http://www.outbreakzone.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows (7/8/10) 64-bit<br></li><li><strong>Processor:</strong> Core i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 4400<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 12 GB available space<br></li><li><strong>Sound Card:</strong> Integrated<br></li><li><strong>Additional Notes:</strong> Xbox One, Xbox 360 or PS4 gamepad recommended</li></ul>",
@@ -35,10 +35,12 @@
     "Dead Drop Studios LLC"
   ],
   "price_overview": {
-    "currency": "EUR",
-    "initial": 819,
-    "final": 819,
-    "discount_percent": 0
+    "currency": "USD",
+    "initial": 999,
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "$9.99"
   },
   "packages": [
     261393
@@ -57,11 +59,11 @@
           "packageid": 261393,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Outbreak: The Nightmare Chronicles - Season Pass - 8,19\u20ac",
+          "option_text": "Outbreak: The Nightmare Chronicles - Season Pass - $9.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 819
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -95,14 +97,6 @@
   ],
   "genres": [
     {
-      "id": "73",
-      "description": "Violent"
-    },
-    {
-      "id": "74",
-      "description": "Gore"
-    },
-    {
       "id": "1",
       "description": "Action"
     },
@@ -126,37 +120,47 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_a5bcce00834d8ade0fbb45952e9f3edf93807203.600x338.jpg?t=1522690498",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_a5bcce00834d8ade0fbb45952e9f3edf93807203.1920x1080.jpg?t=1522690498"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_a5bcce00834d8ade0fbb45952e9f3edf93807203.600x338.jpg?t=1539001881",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_a5bcce00834d8ade0fbb45952e9f3edf93807203.1920x1080.jpg?t=1539001881"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_e33508cd1cf40b4b2a59bf16f0fc28c28495ca82.600x338.jpg?t=1522690498",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_e33508cd1cf40b4b2a59bf16f0fc28c28495ca82.1920x1080.jpg?t=1522690498"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_e33508cd1cf40b4b2a59bf16f0fc28c28495ca82.600x338.jpg?t=1539001881",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_e33508cd1cf40b4b2a59bf16f0fc28c28495ca82.1920x1080.jpg?t=1539001881"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_de22b11aa7d66da520515b41de982dc8408ec090.600x338.jpg?t=1522690498",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_de22b11aa7d66da520515b41de982dc8408ec090.1920x1080.jpg?t=1522690498"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_de22b11aa7d66da520515b41de982dc8408ec090.600x338.jpg?t=1539001881",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_de22b11aa7d66da520515b41de982dc8408ec090.1920x1080.jpg?t=1539001881"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_f8f32e76781a5f1568328dac9693f339e607751c.600x338.jpg?t=1522690498",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_f8f32e76781a5f1568328dac9693f339e607751c.1920x1080.jpg?t=1522690498"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_f8f32e76781a5f1568328dac9693f339e607751c.600x338.jpg?t=1539001881",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_f8f32e76781a5f1568328dac9693f339e607751c.1920x1080.jpg?t=1539001881"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_56d6dbb120e712b7e57b6974d0dc248233993a3c.600x338.jpg?t=1522690498",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_56d6dbb120e712b7e57b6974d0dc248233993a3c.1920x1080.jpg?t=1522690498"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_56d6dbb120e712b7e57b6974d0dc248233993a3c.600x338.jpg?t=1539001881",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/838170/ss_56d6dbb120e712b7e57b6974d0dc248233993a3c.1920x1080.jpg?t=1539001881"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
-    "date": "2 Apr, 2018"
+    "date": "Apr 2, 2018"
   },
   "support_info": {
     "url": "http://www.outbreakzone.com",
     "email": "support@deaddropstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/838170/page_bg_generated_v6b.jpg?t=1522690498"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/838170/page_bg_generated_v6b.jpg?t=1539001881",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

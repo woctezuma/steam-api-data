@@ -12,7 +12,7 @@
     "appid": "437570",
     "name": "GoNNER"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Portuguese, Dutch, Norwegian, Swedish, Russian, Simplified Chinese, Portuguese-Brazil, Polish, Japanese, Korean",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese, Dutch, Norwegian, Swedish, Russian, Simplified Chinese, Portuguese - Brazil, Polish, Japanese, Korean",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/533240/header.jpg?t=1496840967",
   "website": "http://gonnergame.com",
   "pc_requirements": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     129008
@@ -162,6 +164,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Oct, 2016"
@@ -170,5 +175,9 @@
     "url": "",
     "email": "IveFallenAndICantGetUp@rawfury.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/533240/page_bg_generated_v6b.jpg?t=1496840967"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/533240/page_bg_generated_v6b.jpg?t=1496840967",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

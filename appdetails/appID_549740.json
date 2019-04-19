@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     136078
@@ -185,5 +187,9 @@
     "url": "http://www.lostdecadegames.com/support/",
     "email": "hello@lostdecadegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/549740/page_bg_generated_v6b.jpg?t=1482121856"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/549740/page_bg_generated_v6b.jpg?t=1482121856",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

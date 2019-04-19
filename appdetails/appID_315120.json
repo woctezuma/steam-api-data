@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 199,
+    "final": 199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     47951
@@ -51,11 +53,11 @@
           "packageid": 47951,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Wild Warfare - Steam Starter Kit - 2,99\u20ac",
+          "option_text": "Wild Warfare - Steam Starter Kit - 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -116,6 +118,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Sep, 2014"
@@ -124,5 +129,9 @@
     "url": "http://hyperhippo.ca",
     "email": "wildwarfare@hyperhippo.ca"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/315120/page_bg_generated_v6b.jpg?t=1447362777"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/315120/page_bg_generated_v6b.jpg?t=1447362777",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

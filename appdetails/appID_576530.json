@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Animal Pack #2 unlocks the Animal Pack #2 creatures in the game ANIMALITY<br />\r\n<br />\r\n\u2605 Koala<br />\r\n\u2605 Lion<br />\r\n\u2605 Walrus<br />\r\n\u2605 Shark<br />\r\n\u2605 Parrot<br />\r\n\u2605 Snow Owl",
   "about_the_game": "Animal Pack #2 unlocks the Animal Pack #2 creatures in the game ANIMALITY<br />\r\n<br />\r\n\u2605 Koala<br />\r\n\u2605 Lion<br />\r\n\u2605 Walrus<br />\r\n\u2605 Shark<br />\r\n\u2605 Parrot<br />\r\n\u2605 Snow Owl",
-  "short_description": "",
+  "short_description": "Animal Pack #2 unlocks the Animal Pack #2 creatures in the game ANIMALITY \u2605 Koala \u2605 Lion \u2605 Walrus \u2605 Shark \u2605 Parrot \u2605 Snow Owl",
   "fullgame": {
     "appid": "576470",
     "name": "ANIMALITY"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     146968
@@ -126,5 +128,9 @@
     "url": "",
     "email": "lee@phatphrogstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576530/page_bg_generated_v6b.jpg?t=1486051244"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/576530/page_bg_generated_v6b.jpg?t=1486051244",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

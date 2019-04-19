@@ -12,8 +12,8 @@
     "appid": "396750",
     "name": "EVERSPACE\u2122"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German<strong>*</strong>, Spanish, Portuguese-Brazil, Russian, Simplified Chinese, Polish, Japanese, Korean, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/688700/header.jpg?t=1504882954",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German<strong>*</strong>, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Polish, Japanese, Korean, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/688700/header.jpg?t=1525873241",
   "website": "https://everspace-game.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any</li></ul>"
@@ -21,7 +21,9 @@
   "mac_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any</li></ul>"
   },
-  "linux_requirements": [],
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> any</li></ul>"
+  },
   "legal_notice": "EVERSPACE\u2122 is a trademark of ROCKFISH Games GmbH. All rights reserved. All other copyrights and trademarks are the property of their respective owners.",
   "developers": [
     "ROCKFISH Games"
@@ -33,7 +35,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     197361
@@ -64,7 +68,7 @@
   "platforms": {
     "windows": true,
     "mac": true,
-    "linux": false
+    "linux": true
   },
   "categories": [
     {
@@ -105,10 +109,13 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688700/ss_766ecf8e6c3660ccaf7f747b891f7f33af84c930.600x338.jpg?t=1504882954",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688700/ss_766ecf8e6c3660ccaf7f747b891f7f33af84c930.1920x1080.jpg?t=1504882954"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/688700/ss_766ecf8e6c3660ccaf7f747b891f7f33af84c930.600x338.jpg?t=1525873241",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/688700/ss_766ecf8e6c3660ccaf7f747b891f7f33af84c930.1920x1080.jpg?t=1525873241"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Aug, 2017"
@@ -117,5 +124,9 @@
     "url": "https://everspace-game.com/",
     "email": "support@rockfishgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/688700/page_bg_generated_v6b.jpg?t=1504882954"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/688700/page_bg_generated_v6b.jpg?t=1525873241",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

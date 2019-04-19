@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "It is 2070. A company specialized in robotics has developed artificial intelligence AJ version 1.0. <br />\r\nIt is the first stable version since the beginning of this project. <br />\r\nWithout hesitation the company launched the first trial of its operating system. <br />\r\n<br />\r\nYou are about to settle into a role of this piece of artificial intelligence named Android John. <br />\r\nHe does not understand who he is or where he is. <br />\r\nBut he has a goal. Somewhere in the sector C there is another Android called Sandra who was rendered inoperative due to unknown reasons. <br />\r\nYou need to reach sector C and find Sandra in order to accomplish the recovery process.",
   "about_the_game": "It is 2070. A company specialized in robotics has developed artificial intelligence AJ version 1.0. <br />\r\nIt is the first stable version since the beginning of this project. <br />\r\nWithout hesitation the company launched the first trial of its operating system. <br />\r\n<br />\r\nYou are about to settle into a role of this piece of artificial intelligence named Android John. <br />\r\nHe does not understand who he is or where he is. <br />\r\nBut he has a goal. Somewhere in the sector C there is another Android called Sandra who was rendered inoperative due to unknown reasons. <br />\r\nYou need to reach sector C and find Sandra in order to accomplish the recovery process.",
-  "short_description": "It is 2070. A company specialized in robotics has developed artificial intelligence AJ version 1.0. <br />\r\nIt is the first stable version since the beginning of this project. <br />\r\nWithout hesitation the company launched the first trial of its operating system.",
+  "short_description": "It is 2070. A company specialized in robotics has developed artificial intelligence AJ version 1.0. It is the first stable version since the beginning of this project. Without hesitation the company launched the first trial of its operating system.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/494660/header.jpg?t=1514447125",
   "website": null,
@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 39,
+    "discount_percent": 88,
+    "initial_formatted": "3,29\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     112604
@@ -43,13 +45,13 @@
       "subs": [
         {
           "packageid": 112604,
-          "percent_savings_text": "",
+          "percent_savings_text": "-88%",
           "percent_savings": 0,
-          "option_text": "Android John - 2,99\u20ac",
+          "option_text": "Android John - <span class=\"discount_original_price\">3,29\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -118,6 +120,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Jun, 2016"
@@ -126,5 +131,9 @@
     "url": "",
     "email": "recreat4_udk@inbox.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494660/page_bg_generated_v6b.jpg?t=1514447125"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494660/page_bg_generated_v6b.jpg?t=1514447125",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     156831
@@ -125,6 +127,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Mar, 2017"
@@ -133,5 +138,9 @@
     "url": "https://www.ironhelmet.com",
     "email": "jay@ironhelmet.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/597640/page_bg_generated_v6b.jpg?t=1489009818"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/597640/page_bg_generated_v6b.jpg?t=1489009818",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

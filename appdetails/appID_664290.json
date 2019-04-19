@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     188582
@@ -170,5 +172,12 @@
     "url": "http://www.ideacabin.co.uk/",
     "email": "info@ideacabin.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/664290/page_bg_generated_v6b.jpg?t=1504619541"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/664290/page_bg_generated_v6b.jpg?t=1504619541",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

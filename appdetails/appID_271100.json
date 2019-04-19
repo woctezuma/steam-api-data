@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Experience the art book and music soundtrack from Wales Interactive's sci-fi adventure horror Master Reboot. The 54 page art book features unseen behind the scenes concept work used in the creation of the game and is a real insight into the developers minds. The sound track includes 24 tracks that feature throughout the game including the games memorable end song &quot;Travelling Through Time&quot;.",
   "about_the_game": "Experience the art book and music soundtrack from Wales Interactive's sci-fi adventure horror Master Reboot. The 54 page art book features unseen behind the scenes concept work used in the creation of the game and is a real insight into the developers minds. The sound track includes 24 tracks that feature throughout the game including the games memorable end song &quot;Travelling Through Time&quot;.",
-  "short_description": "",
+  "short_description": "Experience the art book and music soundtrack from Wales Interactive's sci-fi adventure horror Master Reboot. The 54 page art book features unseen behind the scenes concept work used in the creation of the game and is a real insight into the developers minds.",
   "fullgame": {
     "appid": "251850",
     "name": "Master Reboot"
@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 1899,
+    "final": 569,
+    "discount_percent": 70,
+    "initial_formatted": "18,99\u20ac",
+    "final_formatted": "5,69\u20ac"
   },
   "packages": [
     36110,
@@ -61,13 +63,13 @@
         },
         {
           "packageid": 36413,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Master Reboot Deluxe Edition - 18,99\u20ac",
+          "option_text": "Master Reboot Deluxe Edition - <span class=\"discount_original_price\">18,99\u20ac</span> 5,69\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1899
+          "price_in_cents_with_discount": 569
         }
       ]
     }
@@ -128,6 +130,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/271100/ss_a4d8c66eb5161560e0accbacf0ec75ed67fe88c4.1920x1080.jpg?t=1447359898"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Dec, 2013"
@@ -136,5 +141,9 @@
     "url": "",
     "email": "support@walesinteractive.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/271100/page_bg_generated_v6b.jpg?t=1447359898"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/271100/page_bg_generated_v6b.jpg?t=1447359898",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

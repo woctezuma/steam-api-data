@@ -12,7 +12,7 @@
     "appid": "357720",
     "name": "Inside My Radio"
   },
-  "supported_languages": "English, French, German, Italian, Spanish, Portuguese, Russian",
+  "supported_languages": "English, French, German, Italian, Spanish - Spain, Portuguese, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/435500/header.jpg?t=1502365413",
   "website": "",
   "pc_requirements": {
@@ -31,8 +31,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 89,
-    "discount_percent": 82
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     90993,
@@ -51,23 +53,23 @@
       "subs": [
         {
           "packageid": 90993,
-          "percent_savings_text": "-82%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Inside My Radio Digital Deluxe Edition Upgrade - <span class=\"discount_original_price\">4,99\u20ac</span> 0,89\u20ac",
+          "option_text": "Inside My Radio Digital Deluxe Edition Upgrade - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 89
+          "price_in_cents_with_discount": 499
         },
         {
           "packageid": 66822,
-          "percent_savings_text": "-82%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Inside My Radio Digital Deluxe Edition - <span class=\"discount_original_price\">18,99\u20ac</span> 3,41\u20ac",
+          "option_text": "Inside My Radio Digital Deluxe Edition - 18,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 341
+          "price_in_cents_with_discount": 1899
         }
       ]
     }
@@ -169,6 +171,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/435500/ss_1b62b92c8511dfee6b6493c58cbe18e41bd87c34.1920x1080.jpg?t=1502365413"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": ""
@@ -177,5 +182,9 @@
     "url": "",
     "email": "support@iceberg-games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/435500/page_bg_generated_v6b.jpg?t=1502365413"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/435500/page_bg_generated_v6b.jpg?t=1502365413",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

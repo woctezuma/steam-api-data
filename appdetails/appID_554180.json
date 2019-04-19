@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1699,
-    "final": 1699,
-    "discount_percent": 0
+    "initial": 1467,
+    "final": 953,
+    "discount_percent": 35,
+    "initial_formatted": "14,67\u20ac",
+    "final_formatted": "9,53\u20ac"
   },
   "packages": [
     138126
@@ -49,13 +51,13 @@
       "subs": [
         {
           "packageid": 138126,
-          "percent_savings_text": "",
+          "percent_savings_text": "-35%",
           "percent_savings": 0,
-          "option_text": "Pale Spectrum - Part Two of the Book of Gray Magic - 16,99\u20ac",
+          "option_text": "Pale Spectrum - Part Two of the Book of Gray Magic - <span class=\"discount_original_price\">14,67\u20ac</span> 9,53\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1699
+          "price_in_cents_with_discount": 953
         }
       ]
     }
@@ -165,6 +167,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Sep, 2017"
@@ -173,5 +178,9 @@
     "url": "http://ithaqualabs.com/home/index.php/contact-us/",
     "email": "Ithaqualabs@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/554180/page_bg_generated_v6b.jpg?t=1506630120"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/554180/page_bg_generated_v6b.jpg?t=1506630120",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

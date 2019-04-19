@@ -39,7 +39,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     150010
@@ -74,7 +76,7 @@
   },
   "metacritic": {
     "score": 84,
-    "url": "http://www.metacritic.com/game/pc/the-end-is-nigh?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/the-end-is-nigh?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -172,10 +174,10 @@
     }
   ],
   "recommendations": {
-    "total": 1319
+    "total": 1435
   },
   "achievements": {
-    "total": 105,
+    "total": 106,
     "highlighted": [
       {
         "name": "Stage I",
@@ -227,5 +229,9 @@
     "url": "http://yourendisnigh.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/583470/page_bg_generated_v6b.jpg?t=1513035069"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/583470/page_bg_generated_v6b.jpg?t=1513035069",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

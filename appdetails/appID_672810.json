@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     191504
@@ -164,11 +166,6 @@
       "id": 3,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/672810/ss_93c49500041a57b44279131fb87c36fb0e4dbfc8.600x338.jpg?t=1508521534",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/672810/ss_93c49500041a57b44279131fb87c36fb0e4dbfc8.1920x1080.jpg?t=1508521534"
-    },
-    {
-      "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/672810/?t=1508521534",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/672810/?t=1508521534"
     }
   ],
   "release_date": {
@@ -179,5 +176,9 @@
     "url": "http://www.polarityflow.com/support",
     "email": "support@polarityflow.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/672810/page_bg_generated_v6b.jpg?t=1508521534"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/672810/page_bg_generated_v6b.jpg?t=1508521534",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

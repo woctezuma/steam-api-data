@@ -11,12 +11,12 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/383590/header.jpg?t=1458760779",
   "website": "http://www.battlebyte.com/expert-rifleman",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win XP<br></li><li><strong>Processor:</strong> 2.0 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB graphics card, Monitor resolution: 1024 x 768<br></li><li><strong>DirectX:</strong> Version 9.0b<br></li><li><strong>Storage:</strong> 1200 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 7+<br></li><li><strong>Graphics:</strong> 512 MB graphics card, Monitor resolution: 1920 x 1080 or higher</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Win XP<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> 2.0 GHz Dual Core Processor<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 2 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> 256 MB graphics card, Monitor resolution: 1024 x 768<br></li><li><strong>DirectX:</strong> \u0412\u0435\u0440\u0441\u0438\u0438 9.0b<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 1200 MB</li></ul>",
+    "recommended": "<strong>\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Win 7+<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> 512 MB graphics card, Monitor resolution: 1920 x 1080 or higher</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.7<br></li><li><strong>Processor:</strong> 2.0 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256 MB graphics card, Monitor resolution: 1024 x 768<br></li><li><strong>Storage:</strong> 1200 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.7.6+<br></li><li><strong>Graphics:</strong> 512 MB graphics card, Monitor resolution: 1920 x 1080 or higher</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> OS X 10.7<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> 2.0 GHz Dual Core Processor<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 2 GB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> 256 MB graphics card, Monitor resolution: 1024 x 768<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 1200 MB</li></ul>",
+    "recommended": "<strong>\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u043e\u0432\u0430\u043d\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> OS X 10.7.6+<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> 512 MB graphics card, Monitor resolution: 1920 x 1080 or higher</li></ul>"
   },
   "linux_requirements": [],
   "legal_notice": "Expert Rifleman (c) 2015 BattleByte Games LLC. All rights reserved.",
@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 1199,
+    "final": 1199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     72078
@@ -49,11 +51,11 @@
           "packageid": 72078,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Expert Rifleman - Reloaded - 14,99\u20ac",
+          "option_text": "Expert Rifleman - Reloaded - 11,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 1199
         }
       ]
     }
@@ -193,5 +195,9 @@
     "url": "",
     "email": "contact@battlebyte.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/383590/page_bg_generated_v6b.jpg?t=1458760779"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/383590/page_bg_generated_v6b.jpg?t=1458760779",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

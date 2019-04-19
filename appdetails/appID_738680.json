@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     216060
@@ -93,6 +95,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/738680/ss_cec8fd197d8bda09016f2d9661c5d168c9290b01.1920x1080.jpg?t=1509108695"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Oct, 2017"
@@ -101,5 +106,11 @@
     "url": "",
     "email": "st.christophershelp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/738680/page_bg_generated_v6b.jpg?t=1509108695"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/738680/page_bg_generated_v6b.jpg?t=1509108695",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

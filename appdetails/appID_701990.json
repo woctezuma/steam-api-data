@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     202316
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Sep, 2017"
@@ -127,5 +132,9 @@
     "url": "",
     "email": "peter@gametrip.io"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/701990/page_bg_generated_v6b.jpg?t=1505220559"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/701990/page_bg_generated_v6b.jpg?t=1505220559",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

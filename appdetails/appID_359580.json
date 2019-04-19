@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     64111,
@@ -81,7 +83,7 @@
   },
   "metacritic": {
     "score": 67,
-    "url": "http://www.metacritic.com/game/pc/uncanny-valley?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/uncanny-valley?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -195,7 +197,7 @@
     }
   ],
   "recommendations": {
-    "total": 407
+    "total": 218
   },
   "achievements": {
     "total": 18,
@@ -250,5 +252,9 @@
     "url": "",
     "email": "contact@cowarldycreations.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/359580/page_bg_generated_v6b.jpg?t=1447371558"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/359580/page_bg_generated_v6b.jpg?t=1447371558",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

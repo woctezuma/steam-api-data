@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     200157
@@ -118,6 +120,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Sep, 2017"
@@ -126,5 +131,9 @@
     "url": "",
     "email": "bubelstudio@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/696500/page_bg_generated_v6b.jpg?t=1504901308"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/696500/page_bg_generated_v6b.jpg?t=1504901308",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

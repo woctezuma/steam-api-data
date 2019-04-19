@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     232256
@@ -52,11 +54,11 @@
           "packageid": 232256,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Rym 9000 - 5,99\u20ac",
+          "option_text": "Rym 9000 - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -256,5 +258,9 @@
     "url": "https://sonoshee.itch.io/rym9k",
     "email": "sonoshee.contact@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/774561/page_bg_generated_v6b.jpg?t=1516042831"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/774561/page_bg_generated_v6b.jpg?t=1516042831",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

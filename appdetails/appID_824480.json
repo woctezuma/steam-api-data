@@ -4,15 +4,15 @@
   "steam_appid": 824480,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "In the new DLC, you and your friends will have to compete in a deadly battle. The lover's nightmare became a reality, terrible monsters want revenge on Lover and Wife for their sins!<br />\r\n<br />\r\nIn this addon:<br />\r\n- Two new characters - a demon and his faithful dog-servant<br />\r\n- Various types of weapons that will help you in the fight against monsters<br />\r\n- Atmospheric and mystical location<br />\r\n- New rules of the game, now you have only one goal - to survive at any cost<br />\r\n- Lots of new items and game mechanics<br />\r\n- Additional animations<br />\r\n- New search menu, which should make the selection of players more convenient<br />\r\n- Improved graphics",
-  "about_the_game": "In the new DLC, you and your friends will have to compete in a deadly battle. The lover's nightmare became a reality, terrible monsters want revenge on Lover and Wife for their sins!<br />\r\n<br />\r\nIn this addon:<br />\r\n- Two new characters - a demon and his faithful dog-servant<br />\r\n- Various types of weapons that will help you in the fight against monsters<br />\r\n- Atmospheric and mystical location<br />\r\n- New rules of the game, now you have only one goal - to survive at any cost<br />\r\n- Lots of new items and game mechanics<br />\r\n- Additional animations<br />\r\n- New search menu, which should make the selection of players more convenient<br />\r\n- Improved graphics",
+  "detailed_description": "In the new DLC, you and your friends will have to compete in a deadly battle. The lover's nightmare became a reality, terrible monsters want revenge on Lover and Wife for their sins!<br />\r\n<br />\r\nIn this addon:<br />\r\n- Two new characters - a baby-demon and his faithful dog-servant<br />\r\n- Various types of weapons that will help you in the fight against monsters<br />\r\n- Atmospheric and mystical location<br />\r\n- New rules of the game, now you have only one goal - to survive at any cost<br />\r\n- \u0421ompletely reworked animations<br />\r\n- Improved graphics<br />\r\n<br />\r\nAttention! Multiplayer game! It is highly recommended to play only with friends!",
+  "about_the_game": "In the new DLC, you and your friends will have to compete in a deadly battle. The lover's nightmare became a reality, terrible monsters want revenge on Lover and Wife for their sins!<br />\r\n<br />\r\nIn this addon:<br />\r\n- Two new characters - a baby-demon and his faithful dog-servant<br />\r\n- Various types of weapons that will help you in the fight against monsters<br />\r\n- Atmospheric and mystical location<br />\r\n- New rules of the game, now you have only one goal - to survive at any cost<br />\r\n- \u0421ompletely reworked animations<br />\r\n- Improved graphics<br />\r\n<br />\r\nAttention! Multiplayer game! It is highly recommended to play only with friends!",
   "short_description": "Find yourself in the most terrible nightmare of Lover!",
   "fullgame": {
     "appid": "589320",
     "name": "Catch a Lover"
   },
   "supported_languages": "English, Russian, Simplified Chinese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/824480/header.jpg?t=1521181320",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/824480/header.jpg?t=1552929327",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64 Bit/ Windows 8 64 Bit/ Windows 10 64 Bit<br></li><li><strong>Processor:</strong> Intel Quad Core i3 or AMD equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 560 (1GB) or AMD equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
@@ -26,7 +26,40 @@
   "publishers": [
     ""
   ],
-  "package_groups": [],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 199,
+    "final": 199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
+  },
+  "packages": [
+    253123
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Catch a Lover - Nightmare",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 253123,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Catch a Lover - Nightmare - 1,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 199
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -64,32 +97,99 @@
   ],
   "genres": [
     {
-      "id": "73",
-      "description": "Violent"
-    },
-    {
       "id": "1",
       "description": "Action"
     },
     {
       "id": "23",
       "description": "Indie"
+    },
+    {
+      "id": "28",
+      "description": "Simulation"
     }
   ],
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_2f4d6f95aef4667f715de3c179f8a79a2c256de1.600x338.jpg?t=1521181320",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_2f4d6f95aef4667f715de3c179f8a79a2c256de1.1920x1080.jpg?t=1521181320"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_a9df2d8e864f6a4c38bb29134831793acc797200.600x338.jpg?t=1552929327",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_a9df2d8e864f6a4c38bb29134831793acc797200.1920x1080.jpg?t=1552929327"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_ae7151e1e5e047b57c7a06a1b457642a69e02fbe.600x338.jpg?t=1552929327",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_ae7151e1e5e047b57c7a06a1b457642a69e02fbe.1920x1080.jpg?t=1552929327"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_76d9bf41bf999956593ce37edeaeead27c27c5dc.600x338.jpg?t=1552929327",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_76d9bf41bf999956593ce37edeaeead27c27c5dc.1920x1080.jpg?t=1552929327"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_09d347eaefa8393617e37b02d27da8ae72431146.600x338.jpg?t=1552929327",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_09d347eaefa8393617e37b02d27da8ae72431146.1920x1080.jpg?t=1552929327"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_129658fa20948f7d8e778cda1f3581defa15f519.600x338.jpg?t=1552929327",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_129658fa20948f7d8e778cda1f3581defa15f519.1920x1080.jpg?t=1552929327"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_544a142f3cdd44db784ab93b0250d257e0bcff6d.600x338.jpg?t=1552929327",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_544a142f3cdd44db784ab93b0250d257e0bcff6d.1920x1080.jpg?t=1552929327"
+    },
+    {
+      "id": 6,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_05fbd6fcc93caa5b9d00728cede2eff953c7cc5a.600x338.jpg?t=1552929327",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_05fbd6fcc93caa5b9d00728cede2eff953c7cc5a.1920x1080.jpg?t=1552929327"
+    },
+    {
+      "id": 7,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_2c6486b355b57be2307f0a80f3ccbcb9e29284ff.600x338.jpg?t=1552929327",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_2c6486b355b57be2307f0a80f3ccbcb9e29284ff.1920x1080.jpg?t=1552929327"
+    },
+    {
+      "id": 8,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_37985641967eb6cccc2af00312ccfa59f03a8e0d.600x338.jpg?t=1552929327",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_37985641967eb6cccc2af00312ccfa59f03a8e0d.1920x1080.jpg?t=1552929327"
+    },
+    {
+      "id": 9,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_5038bee2d4f7f5fa9bb5f39e5942860e433e594a.600x338.jpg?t=1552929327",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/824480/ss_5038bee2d4f7f5fa9bb5f39e5942860e433e594a.1920x1080.jpg?t=1552929327"
     }
   ],
+  "movies": [
+    {
+      "id": 256745318,
+      "name": "Catch a Lover: Nightmare",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256745318/movie.293x165.jpg?t=1552553918",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256745318/movie480.webm?t=1552553918",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256745318/movie_max.webm?t=1552553918"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
-    "coming_soon": true,
-    "date": "Spring 2018"
+    "coming_soon": false,
+    "date": "18 Mar, 2019"
   },
   "support_info": {
-    "url": "catchalover.com",
+    "url": "",
     "email": "toxicdogdev@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/824480/page_bg_generated_v6b.jpg?t=1521181320"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/824480/page_bg_generated_v6b.jpg?t=1552929327",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": "DLC contains blood and corpses"
+  }
 }

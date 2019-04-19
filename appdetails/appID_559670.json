@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     140234
@@ -157,6 +159,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/559670/ss_2f46addc1e438ca6820a0db9dead4fd5234b8c4c.1920x1080.jpg?t=1485293294"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Dec, 2016"
@@ -165,5 +170,12 @@
     "url": "http://www.bluewizard.com/support",
     "email": "slayawaycamp@bluewizard.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/559670/page_bg_generated_v6b.jpg?t=1485293294"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/559670/page_bg_generated_v6b.jpg?t=1485293294",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

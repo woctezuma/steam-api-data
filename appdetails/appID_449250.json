@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 599,
-    "discount_percent": 60
+    "initial": 1299,
+    "final": 1299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     96312
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 96312,
-          "percent_savings_text": "-60%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "A Little Lily Princess - <span class=\"discount_original_price\">14,99\u20ac</span> 5,99\u20ac",
+          "option_text": "A Little Lily Princess - 12,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 1299
         }
       ]
     }
@@ -141,7 +143,7 @@
     }
   ],
   "recommendations": {
-    "total": 156
+    "total": 174
   },
   "achievements": {
     "total": 9,
@@ -192,5 +194,9 @@
     "url": "",
     "email": "owner@hanakogames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449250/page_bg_generated_v6b.jpg?t=1463680962"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449250/page_bg_generated_v6b.jpg?t=1463680962",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

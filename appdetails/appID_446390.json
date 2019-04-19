@@ -67,7 +67,9 @@
     "currency": "EUR",
     "initial": 3699,
     "final": 3699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "36,99\u20ac"
   },
   "packages": [
     95314
@@ -193,7 +195,7 @@
     }
   ],
   "recommendations": {
-    "total": 429
+    "total": 458
   },
   "achievements": {
     "total": 44,
@@ -248,5 +250,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/446390/page_bg_generated_v6b.jpg?t=1478743816"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/446390/page_bg_generated_v6b.jpg?t=1478743816",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

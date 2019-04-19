@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     7152
@@ -129,8 +131,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 102
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -140,5 +142,9 @@
     "url": "",
     "email": "support@libredia.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/65070/page_bg_generated_v6b.jpg?t=1498120733"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/65070/page_bg_generated_v6b.jpg?t=1498120733",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

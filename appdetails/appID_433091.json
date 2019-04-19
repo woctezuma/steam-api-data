@@ -11,8 +11,8 @@
     "appid": "268500",
     "name": "XCOM\u00ae 2"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Japanese, Korean, Polish, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/433091/header.jpg?t=1521540256",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese, Korean, Polish, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/433091/header.jpg?t=1530567357",
   "website": "http://www.xcom.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae 7, 64-bit<br></li><li><strong>Processor:</strong> Intel Core 2 Duo E4700 2.6 GHz or AMD Phenom 9950 Quad Core 2.6 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB ATI Radeon HD 5770, 1GB NVIDIA GeForce GTX 460 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 45 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card<br></li><li><strong>Additional Notes:</strong> Initial installation requires one-time Internet connection for Steam authentication; software installations required (included with the game) include Steam Client, Microsoft Visual C++2012 and 2013 Runtime Libraries and Microsoft DirectX.</li></ul>",
@@ -27,20 +27,22 @@
   },
   "legal_notice": "\u00a92015 Take-Two Interactive Software, Inc. Take-Two Interactive Software, Inc., 2K, Firaxis Games, XCOM, XCOM 2, and their respective logos are trademarks of Take-Two Interactive Software, Inc. All rights reserved.",
   "developers": [
-    "Firaxis",
-    "Feral Interactive (Linux)",
-    "Feral Interactive (Mac)"
+    "Firaxis Games",
+    "Feral Interactive (Mac)",
+    "Feral Interactive (Linux)"
   ],
   "publishers": [
     "2K",
-    "Feral Interactive (Linux)",
-    "Feral Interactive (Mac)"
+    "Feral Interactive (Mac)",
+    "Feral Interactive (Linux)"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     90133
@@ -103,6 +105,10 @@
       "description": "Steam Workshop"
     },
     {
+      "id": 18,
+      "description": "Partial Controller Support"
+    },
+    {
       "id": 23,
       "description": "Steam Cloud"
     }
@@ -116,33 +122,33 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_e54875ec990c9aa8ac75f7d9b22df0b9b4971f33.600x338.jpg?t=1521540256",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_e54875ec990c9aa8ac75f7d9b22df0b9b4971f33.1920x1080.jpg?t=1521540256"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_e54875ec990c9aa8ac75f7d9b22df0b9b4971f33.600x338.jpg?t=1530567357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_e54875ec990c9aa8ac75f7d9b22df0b9b4971f33.1920x1080.jpg?t=1530567357"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_e195db33d266321575c489ea8a613f44953a15f1.600x338.jpg?t=1521540256",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_e195db33d266321575c489ea8a613f44953a15f1.1920x1080.jpg?t=1521540256"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_e195db33d266321575c489ea8a613f44953a15f1.600x338.jpg?t=1530567357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_e195db33d266321575c489ea8a613f44953a15f1.1920x1080.jpg?t=1530567357"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_70db370ffa1c5dd09951ed7949e015b58fdcf69b.600x338.jpg?t=1521540256",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_70db370ffa1c5dd09951ed7949e015b58fdcf69b.1920x1080.jpg?t=1521540256"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_70db370ffa1c5dd09951ed7949e015b58fdcf69b.600x338.jpg?t=1530567357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_70db370ffa1c5dd09951ed7949e015b58fdcf69b.1920x1080.jpg?t=1530567357"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_8423b6a59c71aadbef876354c1f1643bd6401ff2.600x338.jpg?t=1521540256",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_8423b6a59c71aadbef876354c1f1643bd6401ff2.1920x1080.jpg?t=1521540256"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_8423b6a59c71aadbef876354c1f1643bd6401ff2.600x338.jpg?t=1530567357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_8423b6a59c71aadbef876354c1f1643bd6401ff2.1920x1080.jpg?t=1530567357"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_936cb305364e4e0cf5a6745c8d0a425b1dfef8ef.600x338.jpg?t=1521540256",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_936cb305364e4e0cf5a6745c8d0a425b1dfef8ef.1920x1080.jpg?t=1521540256"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_936cb305364e4e0cf5a6745c8d0a425b1dfef8ef.600x338.jpg?t=1530567357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_936cb305364e4e0cf5a6745c8d0a425b1dfef8ef.1920x1080.jpg?t=1530567357"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_f8d08556c8e7a67bd274c7c9d398a077ff7cf8bf.600x338.jpg?t=1521540256",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_f8d08556c8e7a67bd274c7c9d398a077ff7cf8bf.1920x1080.jpg?t=1521540256"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_f8d08556c8e7a67bd274c7c9d398a077ff7cf8bf.600x338.jpg?t=1530567357",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/433091/ss_f8d08556c8e7a67bd274c7c9d398a077ff7cf8bf.1920x1080.jpg?t=1530567357"
     }
   ],
   "movies": [
@@ -158,15 +164,22 @@
     }
   ],
   "recommendations": {
-    "total": 404
+    "total": 390
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
     "date": "30 Jun, 2016"
   },
   "support_info": {
-    "url": "http://support.2k.com",
+    "url": "support.2k.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/433091/page_bg_generated_v6b.jpg?t=1521540256"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/433091/page_bg_generated_v6b.jpg?t=1530567357",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

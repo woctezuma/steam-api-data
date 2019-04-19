@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     191432
@@ -246,5 +248,9 @@
     "url": "http://masshive-media.com/contact-us",
     "email": "support@masshive-media.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/672590/page_bg_generated_v6b.jpg?t=1522120974"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/672590/page_bg_generated_v6b.jpg?t=1522120974",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

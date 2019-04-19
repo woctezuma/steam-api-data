@@ -12,8 +12,8 @@
     "appid": "612880",
     "name": "Wolfenstein II: The New Colossus"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong>, Japanese<strong>*</strong>, Polish, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/650410/header.jpg?t=1522683980",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Polish, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/650410/header.jpg?t=1532651773",
   "website": "http://www.wolfenstein.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win7, 8.1, or 10 (64-Bit versions)<br></li><li><strong>Processor:</strong> Intel Core i5-3570/i7-3770 or AMD FX-8350/Ryzen 5 1400<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 770 4GB/AMD Radeon R9 290 4GB or better<br></li><li><strong>Storage:</strong> 55 GB available space</li></ul>",
@@ -26,13 +26,15 @@
     "Machine Games"
   ],
   "publishers": [
-    "Bethesda Softworks"
+    "Bethesda-Soft"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 2499,
-    "final": 1499,
-    "discount_percent": 40
+    "final": 2499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "24,99\u20ac"
   },
   "packages": [
     183184,
@@ -50,23 +52,23 @@
       "subs": [
         {
           "packageid": 183184,
-          "percent_savings_text": "-40%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Wolfenstein II: The Freedom Chronicles - Season Pass - <span class=\"discount_original_price\">24,99\u20ac</span> 14,99\u20ac",
+          "option_text": "Wolfenstein II: The Freedom Chronicles - Season Pass - 24,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 2499
         },
         {
           "packageid": 183036,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Wolfenstein II: The New Colossus Digital Deluxe Edition - <span class=\"discount_original_price\">79,99\u20ac</span> 39,99\u20ac",
+          "option_text": "Wolfenstein II: The New Colossus Digital Deluxe Edition - 79,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 3999
+          "price_in_cents_with_discount": 7999
         }
       ]
     }
@@ -107,12 +109,15 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/650410/ss_c8c3d6d348f88f8963cd117a4a0a2ab99c155405.600x338.jpg?t=1522683980",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/650410/ss_c8c3d6d348f88f8963cd117a4a0a2ab99c155405.1920x1080.jpg?t=1522683980"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/650410/ss_c8c3d6d348f88f8963cd117a4a0a2ab99c155405.600x338.jpg?t=1532651773",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/650410/ss_c8c3d6d348f88f8963cd117a4a0a2ab99c155405.1920x1080.jpg?t=1532651773"
     }
   ],
   "recommendations": {
-    "total": 131
+    "total": 107
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -122,5 +127,13 @@
     "url": "http://help.bethesda.net/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/650410/page_bg_generated_v6b.jpg?t=1522683980"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/650410/page_bg_generated_v6b.jpg?t=1532651773",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

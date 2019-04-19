@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "In Morphblade you move around a grid slicing, smashing and bursting waves of nasty red bugs. Each tile you move to transforms you into a different weapon: on a Blades hex you can slice enemies on either side of you, on an Arrow you can launch yourself through two enemies in a row. Between waves, you choose how to build out the grid, and upgrade your most used hexes with new abilities.<br><br><ul class=\"bb_ul\"><li>Hammer: lets you stay put and smash a single enemy in front of you<br></li><li>Blades: kill enemies on either side as you move<br></li><li>Arrow: plunge right through an enemy and come out the other side<br></li><li>Repair: repairs any damage you've taken when you move here<br></li><li>Teleport: move to anywhere else on the grid<br></li><li>Acid: strips tough enemies of their armour, leaving them vulnerable</li></ul><br>Killing bugs earns you upgrades for your hexes, and each hex type can be cross-bred with every other type to take on some of its properties. Upgrade an Arrow with Acid and it can kill armoured enemies. Upgrade a Hammer with Blades and you can kill three enemies at once without moving. Upgrade a Teleporter with a Repair and you'll be healed each time you teleport.<br><br>Upgrades can even be stacked, so you can end up with an Arrow that propels you with infinite range, kills everything in your path, penetrates armour, knocks back everyone near your destination, heals you, and doubles as a teleporter.<br><br>The idea for tiles determining your weapon came from the iOS game Imbroglio by Michael Brough, which is great, and Morphblade is developed and released with his permission.",
   "about_the_game": "In Morphblade you move around a grid slicing, smashing and bursting waves of nasty red bugs. Each tile you move to transforms you into a different weapon: on a Blades hex you can slice enemies on either side of you, on an Arrow you can launch yourself through two enemies in a row. Between waves, you choose how to build out the grid, and upgrade your most used hexes with new abilities.<br><br><ul class=\"bb_ul\"><li>Hammer: lets you stay put and smash a single enemy in front of you<br></li><li>Blades: kill enemies on either side as you move<br></li><li>Arrow: plunge right through an enemy and come out the other side<br></li><li>Repair: repairs any damage you've taken when you move here<br></li><li>Teleport: move to anywhere else on the grid<br></li><li>Acid: strips tough enemies of their armour, leaving them vulnerable</li></ul><br>Killing bugs earns you upgrades for your hexes, and each hex type can be cross-bred with every other type to take on some of its properties. Upgrade an Arrow with Acid and it can kill armoured enemies. Upgrade a Hammer with Blades and you can kill three enemies at once without moving. Upgrade a Teleporter with a Repair and you'll be healed each time you teleport.<br><br>Upgrades can even be stacked, so you can end up with an Arrow that propels you with infinite range, kills everything in your path, penetrates armour, knocks back everyone near your destination, heals you, and doubles as a teleporter.<br><br>The idea for tiles determining your weapon came from the iOS game Imbroglio by Michael Brough, which is great, and Morphblade is developed and released with his permission.",
-  "short_description": "In Morphblade you move around a grid slicing, smashing and bursting waves of nasty red bugs. Each tile you move to transforms you into a different weapon: on a Blades hex you can slice enemies on either side of you, on an Arrow you can launch yourself through two enemies in a row. Between waves, you choose how to build out the grid, and upgrade your most used hexes with new abilities.",
+  "short_description": "In Morphblade you move around a grid slicing, smashing and bursting waves of nasty red bugs. Each tile you move to transforms you into a different weapon: on a Blades hex you can slice enemies on either side of you, on an Arrow you can launch yourself through two enemies in a row.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/494720/header.jpg?t=1488564101",
   "website": "http://www.pentadact.com/",
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     112651
@@ -118,8 +120,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 286
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -129,5 +131,9 @@
     "url": "",
     "email": "pentadact+morphblade@pentadact.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494720/page_bg_generated_v6b.jpg?t=1488564101"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494720/page_bg_generated_v6b.jpg?t=1488564101",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

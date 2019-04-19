@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 2299,
     "final": 2299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "22,99\u20ac"
   },
   "packages": [
     230809
@@ -155,6 +157,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/771830/ss_7978e15080c50257ede216581edf9aa389b6f3e8.1920x1080.jpg?t=1513960280"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Dec, 2017"
@@ -163,5 +168,9 @@
     "url": "https://orbxdirect.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771830/page_bg_generated_v6b.jpg?t=1513960280"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771830/page_bg_generated_v6b.jpg?t=1513960280",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

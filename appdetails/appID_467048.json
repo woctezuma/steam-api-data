@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Includes the costume items 'Wolf's Hair' and 'Golden Wolf's Hair.'",
   "about_the_game": "Includes the costume items 'Wolf's Hair' and 'Golden Wolf's Hair.'",
-  "short_description": "Includes the costume items 'Wolf's Hair' and 'Golden Wolf's Hair.'",
+  "short_description": "Includes the costume items 'Wolf's Hair' and 'Golden Wolf's Hair.",
   "fullgame": {
     "appid": "446390",
     "name": "Onechanbara Z2: Chaos"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     102771
@@ -109,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467048/ss_4b859f7d90d0d7a9f3168026b1b7c6caabc1ac01.1920x1080.jpg?t=1467770168"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jul, 2016"
@@ -117,5 +122,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467048/page_bg_generated_v6b.jpg?t=1467770168"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467048/page_bg_generated_v6b.jpg?t=1467770168",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

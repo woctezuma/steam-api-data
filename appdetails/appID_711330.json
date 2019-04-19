@@ -33,9 +33,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     205698
@@ -54,11 +56,11 @@
           "packageid": 205698,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Trial of the Demon Hunter - 2,99\u20ac",
+          "option_text": "Trial of the Demon Hunter - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -172,5 +174,9 @@
     "url": "https://www.choiceofgames.com/contact-us/",
     "email": "support-demonhunter-steam@hostedgames.org"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/711330/page_bg_generated_v6b.jpg?t=1513721446"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/711330/page_bg_generated_v6b.jpg?t=1513721446",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

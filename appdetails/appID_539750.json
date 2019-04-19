@@ -26,8 +26,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 61,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     132245
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 132245,
-          "percent_savings_text": "",
+          "percent_savings_text": "-61%",
           "percent_savings": 0,
-          "option_text": "Kombine - 0,99\u20ac",
+          "option_text": "Kombine - <span class=\"discount_original_price\">0,99\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -184,5 +186,9 @@
     "url": "http://rob1221.weebly.com/contact.html",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/539750/page_bg_generated_v6b.jpg?t=1507680947"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/539750/page_bg_generated_v6b.jpg?t=1507680947",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

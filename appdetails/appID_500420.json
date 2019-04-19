@@ -36,9 +36,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 899,
-    "final": 899,
-    "discount_percent": 0
+    "initial": 739,
+    "final": 739,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,39\u20ac"
   },
   "packages": [
     114785
@@ -57,11 +59,11 @@
           "packageid": 114785,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "SoulHunt - 8,99\u20ac",
+          "option_text": "SoulHunt - 7,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 899
+          "price_in_cents_with_discount": 739
         }
       ]
     }
@@ -228,5 +230,9 @@
     "url": "http://soulhuntgame.com/contact/",
     "email": "info@soulhuntgame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/500420/page_bg_generated_v6b.jpg?t=1513427292"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/500420/page_bg_generated_v6b.jpg?t=1513427292",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     94836
@@ -141,5 +143,9 @@
     "url": "https://github.com/andrettin/wyrmsun/issues",
     "email": "wyrmsun@stratagus.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/445340/page_bg_generated_v6b.jpg?t=1511693029"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/445340/page_bg_generated_v6b.jpg?t=1511693029",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

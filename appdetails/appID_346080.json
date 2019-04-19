@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Astro Emporia is a <strong>CASUAL</strong> turn based game where your objective is to make as much money in a limited amount of turns. <br><br>The game is designed to play a game in a few minutes which at the end you will get a <strong>high score</strong>. <br><br>While the amount you buy and sell for and the resource availability is <strong>randomised</strong> each time you visit a planet, there are tactics that enable you to increase your chances at getting a profit.",
   "about_the_game": "Astro Emporia is a <strong>CASUAL</strong> turn based game where your objective is to make as much money in a limited amount of turns. <br><br>The game is designed to play a game in a few minutes which at the end you will get a <strong>high score</strong>. <br><br>While the amount you buy and sell for and the resource availability is <strong>randomised</strong> each time you visit a planet, there are tactics that enable you to increase your chances at getting a profit.",
-  "short_description": "Astro Emporia is a <strong>CASUAL</strong> turn based randomised trading game where your objective is to make as much money in a limited amount of turns.",
+  "short_description": "Astro Emporia is a CASUAL turn based randomised trading game where your objective is to make as much money in a limited amount of turns.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/346080/header.jpg?t=1447368054",
   "website": "http://squirrelbot.com/astro-emporia/",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     59301
@@ -128,6 +130,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Feb, 2015"
@@ -136,5 +141,9 @@
     "url": "http://squirrelbot.com",
     "email": "support@squirrelbot.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/346080/page_bg_generated_v6b.jpg?t=1447368054"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/346080/page_bg_generated_v6b.jpg?t=1447368054",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

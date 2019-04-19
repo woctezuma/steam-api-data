@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Get Ready for Ultimate Kids Racing Adventure. This game will give you chance to make your kids happy with your happiness. <br />\r\n<br />\r\nFeatures<br />\r\n<br />\r\n-Suitable specially for kids and there families too.<br />\r\n-8 Racing Challenges with upto 100 laps in the game. <br />\r\n-More then 100 cars available in the game.<br />\r\n-Various different environments like desert, snow, city,highway, etc.<br />\r\n-Both Kids and family will Enjoy this game.<br />\r\n-Fully tested on Windows.<br />\r\n-Both Keyboard and Controller support provided.<br />\r\n-Ratings &amp; Feedback Appreciated.",
   "about_the_game": "Get Ready for Ultimate Kids Racing Adventure. This game will give you chance to make your kids happy with your happiness. <br />\r\n<br />\r\nFeatures<br />\r\n<br />\r\n-Suitable specially for kids and there families too.<br />\r\n-8 Racing Challenges with upto 100 laps in the game. <br />\r\n-More then 100 cars available in the game.<br />\r\n-Various different environments like desert, snow, city,highway, etc.<br />\r\n-Both Kids and family will Enjoy this game.<br />\r\n-Fully tested on Windows.<br />\r\n-Both Keyboard and Controller support provided.<br />\r\n-Ratings &amp; Feedback Appreciated.",
-  "short_description": "Get Ready for Ultimate Kids Racing Adventure. This game will give you chance to make your kids happy with your happiness. (Kids Play Family Enjoy)",
+  "short_description": "Get Ready for Ultimate Kids Racing Adventure. This game will give you chance to make your kids happy with your happiness.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/793970/header.jpg?t=1519943614",
   "website": "http://www.yashfuturetech.com",
@@ -32,10 +32,13 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
-    240708
+    240708,
+    250577
   ],
   "package_groups": [
     {
@@ -52,6 +55,16 @@
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Super Kids Racing - 9,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 999
+        },
+        {
+          "packageid": 250577,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Super Kids Racing - Commercial License - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -182,5 +195,9 @@
     "url": "http://www.yashfuturetech.com",
     "email": "support@yftstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793970/page_bg_generated_v6b.jpg?t=1519943614"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/793970/page_bg_generated_v6b.jpg?t=1519943614",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

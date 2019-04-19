@@ -14,13 +14,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/295510/header.jpg?t=1478564061",
   "website": "http://stage-nana.sakura.ne.jp/narcissu.htm",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> n/a<br></li><li><strong>Processor:</strong> n/a<br></li><li><strong>Graphics:</strong> n/a<br></li><li><strong>Sound Card:</strong> n/a</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> n/a<br></li><li><strong>\u30d7\u30ed\u30bb\u30c3\u30b5\u30fc:</strong> n/a<br></li><li><strong>\u30b0\u30e9\u30d5\u30a3\u30c3\u30af:</strong> n/a<br></li><li><strong>\u30b5\u30a6\u30f3\u30c9\u30ab\u30fc\u30c9:</strong> n/a</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> n/a<br></li><li><strong>Processor:</strong> n/a<br></li><li><strong>Graphics:</strong> n/a<br></li><li><strong>Sound Card:</strong> n/a</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> n/a<br></li><li><strong>\u30d7\u30ed\u30bb\u30c3\u30b5\u30fc:</strong> n/a<br></li><li><strong>\u30b0\u30e9\u30d5\u30a3\u30c3\u30af:</strong> n/a<br></li><li><strong>\u30b5\u30a6\u30f3\u30c9\u30ab\u30fc\u30c9:</strong> n/a</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> n/a<br></li><li><strong>Processor:</strong> n/a<br></li><li><strong>Graphics:</strong> n/a<br></li><li><strong>Sound Card:</strong> n/a</li></ul>"
+    "minimum": "<strong>\u6700\u4f4e:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> n/a<br></li><li><strong>\u30d7\u30ed\u30bb\u30c3\u30b5\u30fc:</strong> n/a<br></li><li><strong>\u30b0\u30e9\u30d5\u30a3\u30c3\u30af:</strong> n/a<br></li><li><strong>\u30b5\u30a6\u30f3\u30c9\u30ab\u30fc\u30c9:</strong> n/a</li></ul>"
   },
   "developers": [
     "stage-nana"
@@ -32,10 +32,12 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
-    "42545"
+    42545
   ],
   "package_groups": [
     {
@@ -48,7 +50,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "42545",
+          "packageid": 42545,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Narcissu Soundtrack - 7,99\u20ac",
@@ -116,6 +118,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/295510/ss_e17cee0829b9ede0d5195469482c2cc12053a074.1920x1080.jpg?t=1478564061"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Apr, 2014"
@@ -124,5 +129,9 @@
     "url": "",
     "email": "contact@sekaiproject.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/295510/page_bg_generated_v6b.jpg?t=1478564061"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/295510/page_bg_generated_v6b.jpg?t=1478564061",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

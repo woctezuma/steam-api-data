@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     199890
@@ -146,6 +148,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Sep, 2017"
@@ -154,5 +159,12 @@
     "url": "",
     "email": "pr@tophatentertainment.us"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/695760/page_bg_generated_v6b.jpg?t=1509596342"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/695760/page_bg_generated_v6b.jpg?t=1509596342",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": "Contains cartoonish depictions of a sexual nature and mild nudity.  "
+  }
 }

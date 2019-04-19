@@ -11,7 +11,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/494170/header.jpg?t=1500609755",
   "website": "http://fruitbatfactory.com/miniature",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista, 7, 8, or 10<br></li><li><strong>Processor:</strong> Intel Pentium 2.0GHz or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 720p or higher display resolution<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> DirectSound compatible sound card</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Windows Vista, 7, 8, or 10<br></li><li><strong>Processeur\u00a0:</strong> Intel Pentium 2.0GHz or higher<br></li><li><strong>M\u00e9moire vive\u00a0:</strong> 2 GB de m\u00e9moire<br></li><li><strong>Graphiques\u00a0:</strong> 720p or higher display resolution<br></li><li><strong>DirectX\u00a0:</strong> Version 9.0c<br></li><li><strong>Espace disque\u00a0:</strong> 4 GB d'espace disque disponible<br></li><li><strong>Carte son\u00a0:</strong> DirectSound compatible sound card</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     112404
@@ -60,7 +62,7 @@
   },
   "metacritic": {
     "score": 66,
-    "url": "http://www.metacritic.com/game/pc/miniature-garden?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/miniature-garden?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -193,5 +195,9 @@
     "url": "http://fruitbatfactory.com",
     "email": "support@fruitbatfactory.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494170/page_bg_generated_v6b.jpg?t=1500609755"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494170/page_bg_generated_v6b.jpg?t=1500609755",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

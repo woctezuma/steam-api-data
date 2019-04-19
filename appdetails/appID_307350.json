@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     45779,
@@ -124,8 +126,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 430
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -135,5 +137,9 @@
     "url": "http://www.idigicon.com/index.php?route=information/contact",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/307350/page_bg_generated_v6b.jpg?t=1447362272"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/307350/page_bg_generated_v6b.jpg?t=1447362272",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

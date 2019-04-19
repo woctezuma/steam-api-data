@@ -8,7 +8,7 @@
   "about_the_game": "Gunjack is the visually stunning best-selling VR game built from the ground up for virtual reality. <br><br>Take on the role of a gun turret operator on a mining vessel in the Outer Ring region of known space. As part of the ship\u2019s defense team, it is up to you to protect the rig from pirates, opportunists and anyone else looking to take what rightfully belongs to the company. Jump into your heavy weapons turret, power up your guns, and challenge deadly waves of enemy ships determined to blast you and your crew into oblivion. <br><br> - Intense, full-immersion arcade gameplay that puts you in the gunner's seat.<br> - Intuitive controls for immediate pick-up-and-play action.<br> - Multiple missions, bonus levels, and leaderboards for endless replayability.<br> - A virtual reality gaming experience set in the sprawling EVE universe.<br><br><strong> &quot;It\u2019s well-designed, varied and exceptionally polished.&quot; \u2605\u2605\u2605\u2605\u2605 \u2013 VR Focus<br> \u201cGunjack is a seriously gorgeous VR game.\u201d \u2013 CNET <br> \u201cWonderfully simple and intuitive\u201d - TheSixthAxis</strong><br><br><br>Notes:<br>- Use of this application is governed by CCP\u2019s end user license agreement. This is available at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.gunjack.com/eula/\" target=\"_blank\" rel=\"noopener\"  >http://www.gunjack.com/eula/</a><br>- Requires an HTC Vive Headset or Oculus Rift Headset<br>- Xbox controllers, Keyboard &amp; Mouse, or Vive Controllers supported but does not utilize Controller Motion Tracking functionality.<br>- For optimal play experience remain seated, but set the device to the \u2018Standing Only\u2019 mode.<br>- For optimal audio experience use HDMI audio output. <br>- To reset your orientation at any time use the left Menu button (Vive controller) or the Back button (Xbox controllers).<br>- Keyboard &amp; Mouse keybinds below:<br>   Fire: Space (Keyboard) or Left Click (Mouse)<br>   Reload: R or Left Alt (Keyboard) or Scroll wheel (Mouse)<br>   Use Power-ups: Right Alt (Keyboard) or Right Click (Mouse)<br>   Pause (Menu): P (Keyboard)<br>   Back: Backspace (Keyboard)<br>   Reset orientation: \\ (Keyboard)",
   "short_description": "Jump into your weapons turret in the best-selling VR game and annihilate endless waves of enemies determined to blast you and crew into oblivion. With intuitive controls and incredibly immersive arcade shooter action, Gunjack is the ultimate VR experience.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/410570/header.jpg?t=1492343516",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/410570/header.jpg?t=1549538139",
   "website": "http://www.gunjack.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1 or newer<br></li><li><strong>Processor:</strong> Intel\u00ae i5-4590 / AMD FX 8350 equivalent or greater<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce\u00ae GTX 970 / AMD Radeon\u2122 R9 290 equivalent or greater<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> This game requires use of VR equipment such as the HTV Vive.</li></ul>",
@@ -26,10 +26,13 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    81717
+    81717,
+    292856
   ],
   "package_groups": [
     {
@@ -47,6 +50,27 @@
           "percent_savings": 0,
           "option_text": "Gunjack - 4,99\u20ac",
           "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 499
+        }
+      ]
+    },
+    {
+      "name": "subscriptions",
+      "title": "Buy Gunjack Subscription Plan",
+      "description": "To be billed on a recurring basis.",
+      "selection_text": "Select a subscription plan",
+      "save_text": "",
+      "display_type": "1",
+      "is_recurring_subscription": "true",
+      "subs": [
+        {
+          "packageid": 292856,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "1 Month(s) @ 4,99\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">4,99\u20ac at checkout, auto-renewed every 1 month(s) at 4,99\u20ac.</p>",
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 499
@@ -94,23 +118,23 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_0242a2ea9d76189f707da9637ec33af3f64e459f.600x338.jpg?t=1492343516",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_0242a2ea9d76189f707da9637ec33af3f64e459f.1920x1080.jpg?t=1492343516"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_0242a2ea9d76189f707da9637ec33af3f64e459f.600x338.jpg?t=1549538139",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_0242a2ea9d76189f707da9637ec33af3f64e459f.1920x1080.jpg?t=1549538139"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_e2e6b4b4869f019bc70bf1dc93101d585357fd9a.600x338.jpg?t=1492343516",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_e2e6b4b4869f019bc70bf1dc93101d585357fd9a.1920x1080.jpg?t=1492343516"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_e2e6b4b4869f019bc70bf1dc93101d585357fd9a.600x338.jpg?t=1549538139",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_e2e6b4b4869f019bc70bf1dc93101d585357fd9a.1920x1080.jpg?t=1549538139"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_e9f2f25c75d29f1fac1e71807d327b702a6344be.600x338.jpg?t=1492343516",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_e9f2f25c75d29f1fac1e71807d327b702a6344be.1920x1080.jpg?t=1492343516"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_e9f2f25c75d29f1fac1e71807d327b702a6344be.600x338.jpg?t=1549538139",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_e9f2f25c75d29f1fac1e71807d327b702a6344be.1920x1080.jpg?t=1549538139"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_3b9406790eed9e2ebccc554c3ec6976a0a65d096.600x338.jpg?t=1492343516",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_3b9406790eed9e2ebccc554c3ec6976a0a65d096.1920x1080.jpg?t=1492343516"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_3b9406790eed9e2ebccc554c3ec6976a0a65d096.600x338.jpg?t=1549538139",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/410570/ss_3b9406790eed9e2ebccc554c3ec6976a0a65d096.1920x1080.jpg?t=1549538139"
     }
   ],
   "movies": [
@@ -126,7 +150,7 @@
     }
   ],
   "recommendations": {
-    "total": 170
+    "total": 180
   },
   "achievements": {
     "total": 12,
@@ -181,5 +205,9 @@
     "url": "N/A",
     "email": "gunjackvr@ccpgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/410570/page_bg_generated_v6b.jpg?t=1492343516"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/410570/page_bg_generated_v6b.jpg?t=1549538139",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

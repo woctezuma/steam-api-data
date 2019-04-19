@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Casino Slot Machines - Arcade Casino<br />\r\nThis pack contains 8 new icons + new theme<br />\r\n<br />\r\nEnjoy the nice graphics and make big win!",
   "about_the_game": "Casino Slot Machines - Arcade Casino<br />\r\nThis pack contains 8 new icons + new theme<br />\r\n<br />\r\nEnjoy the nice graphics and make big win!",
-  "short_description": "Casino Slot Machines - Arcade Casino<br />\r\nThis pack contains 8 new icons + new theme<br />\r\n<br />\r\nEnjoy the nice graphics and make big win!",
+  "short_description": "Casino Slot Machines - Arcade Casino This pack contains 8 new icons + new theme Enjoy the nice graphics and make big win!",
   "fullgame": {
     "appid": "769150",
     "name": "Casino Slot Machines"
@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     231537
@@ -48,11 +50,11 @@
           "packageid": 231537,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Casino Slot Machines - Arcade Casino - 0,99\u20ac",
+          "option_text": "Casino Slot Machines - Arcade Casino - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -121,6 +123,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/773280/ss_7b5a40b9db5c14de3dec572eda0f855f77dff0db.1920x1080.jpg?t=1514323079"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Dec, 2017"
@@ -129,5 +134,11 @@
     "url": "http://www.boogygames.com",
     "email": "boogygames@outlook.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/773280/page_bg_generated_v6b.jpg?t=1514323079"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/773280/page_bg_generated_v6b.jpg?t=1514323079",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

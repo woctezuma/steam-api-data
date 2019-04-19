@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     73795
@@ -137,7 +139,7 @@
     }
   ],
   "recommendations": {
-    "total": 183
+    "total": 193
   },
   "achievements": {
     "total": 3,
@@ -164,5 +166,9 @@
     "url": "http://www.alientrap.org",
     "email": "support@alientrap.org"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389220/page_bg_generated_v6b.jpg?t=1489433384"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389220/page_bg_generated_v6b.jpg?t=1489433384",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

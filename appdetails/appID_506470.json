@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     116847
@@ -187,5 +189,9 @@
     "url": "http://quipgame.com/quip-anomaly/",
     "email": "support@mentics.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/506470/page_bg_generated_v6b.jpg?t=1473002450"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/506470/page_bg_generated_v6b.jpg?t=1473002450",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

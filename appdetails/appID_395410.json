@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     76011
@@ -157,6 +159,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Oct, 2015"
@@ -165,5 +170,9 @@
     "url": "",
     "email": "boe_support@bestway.com.ua"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/395410/page_bg_generated_v6b.jpg?t=1509054043"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/395410/page_bg_generated_v6b.jpg?t=1509054043",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

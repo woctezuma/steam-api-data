@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Please Note: once purchased, the bonus content will appear in the game root installation directory, in a subdirectory called &quot;- bonus content&quot;.<br><br>Loren Bonus Content features the full game soundtrack and 14 different wallpapers, one for each main character of the story.<br><br>The full OST includes the songs:<br><br><ul class=\"bb_ul\"><li>Enter the Fray 04:41<br></li><li>The Chosen 01:58<br></li><li>Level Up! 02:49<br></li><li>Mystical Wonder 04:40<br></li><li>Inside the Castle of N'mar 02:41<br></li><li>Dark Elves Village 01:40<br></li><li>In Good Spirits 02:32<br></li><li>The March 04:31<br></li><li>Intense Combat 02:47<br></li><li>A Dangerous World 00:52<br></li><li>Sauzer's Theme 00:59<br></li><li>Peaceful 02:38<br></li><li>Stand Strong and Fight! 01:35<br></li><li>This is Despair 04:33<br></li><li>Pleasant Stay At the Inn 02:30<br></li><li>Peril in Hammerhands 01:37<br></li><li>Romance and Affection 01:48<br></li><li>The Alliance 00:52<br></li><li>To Lothark 01:50<br></li><li>Temple of Healing 02:42 </li></ul>",
   "about_the_game": "Please Note: once purchased, the bonus content will appear in the game root installation directory, in a subdirectory called &quot;- bonus content&quot;.<br><br>Loren Bonus Content features the full game soundtrack and 14 different wallpapers, one for each main character of the story.<br><br>The full OST includes the songs:<br><br><ul class=\"bb_ul\"><li>Enter the Fray 04:41<br></li><li>The Chosen 01:58<br></li><li>Level Up! 02:49<br></li><li>Mystical Wonder 04:40<br></li><li>Inside the Castle of N'mar 02:41<br></li><li>Dark Elves Village 01:40<br></li><li>In Good Spirits 02:32<br></li><li>The March 04:31<br></li><li>Intense Combat 02:47<br></li><li>A Dangerous World 00:52<br></li><li>Sauzer's Theme 00:59<br></li><li>Peaceful 02:38<br></li><li>Stand Strong and Fight! 01:35<br></li><li>This is Despair 04:33<br></li><li>Pleasant Stay At the Inn 02:30<br></li><li>Peril in Hammerhands 01:37<br></li><li>Romance and Affection 01:48<br></li><li>The Alliance 00:52<br></li><li>To Lothark 01:50<br></li><li>Temple of Healing 02:42 </li></ul>",
-  "short_description": "",
+  "short_description": "Please Note: once purchased, the bonus content will appear in the game root installation directory, in a subdirectory called &quot;- bonus content&quot;.Loren Bonus Content features the full game soundtrack and 14 different wallpapers, one for each main character of the story.",
   "fullgame": {
     "appid": "257970",
     "name": "Loren The Amazon Princess"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     37356
@@ -113,6 +115,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Feb, 2014"
@@ -121,5 +126,12 @@
     "url": "http://www.winterwolves.com/info.php",
     "email": "info@winterwolves.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/275240/page_bg_generated_v6b.jpg?t=1447360194"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/275240/page_bg_generated_v6b.jpg?t=1447360194",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

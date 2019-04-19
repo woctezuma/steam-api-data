@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     203455
@@ -179,5 +181,9 @@
     "url": "https://www.backtobasicsgaming.com/",
     "email": "paradoxterminal.games@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/705070/page_bg_generated_v6b.jpg?t=1505850258"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/705070/page_bg_generated_v6b.jpg?t=1505850258",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

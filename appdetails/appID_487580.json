@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Ludo Supremo</strong> is the classic board game of Ludo reinvented in beautiful 3D for the next generation of casual players seeking a fun gameplay experience with friends. You can play alone or compete against 3 opponents in a challenging game of tokens and chance. In Ludo Supremo, each player has to race 4 tokens from the starting point to the finishing point, according to the roll of the die. <br><br>Ludo is similar to many other games involving cross and circle, especially the Indian game of Pachisi. Players take turns to play. At the beginning of a game, you must throw a 6 before it becomes possible to navigate your colored token from its starting position to its starting square. After that, in each of the subsequent turns, your token may move forward for one to six squares as per indicated by the throwing die. If you throw a 6, you may choose to introduce a new token in the starting square or decide to navigate an already active token forward. Throwing a 6 also gives a bonus turn. The winner of Ludo Supremo is the player who successfully navigates all 4 tokens to the home area on the board.",
   "about_the_game": "<strong>Ludo Supremo</strong> is the classic board game of Ludo reinvented in beautiful 3D for the next generation of casual players seeking a fun gameplay experience with friends. You can play alone or compete against 3 opponents in a challenging game of tokens and chance. In Ludo Supremo, each player has to race 4 tokens from the starting point to the finishing point, according to the roll of the die. <br><br>Ludo is similar to many other games involving cross and circle, especially the Indian game of Pachisi. Players take turns to play. At the beginning of a game, you must throw a 6 before it becomes possible to navigate your colored token from its starting position to its starting square. After that, in each of the subsequent turns, your token may move forward for one to six squares as per indicated by the throwing die. If you throw a 6, you may choose to introduce a new token in the starting square or decide to navigate an already active token forward. Throwing a 6 also gives a bonus turn. The winner of Ludo Supremo is the player who successfully navigates all 4 tokens to the home area on the board.",
-  "short_description": "<strong>Ludo Supremo</strong> is the classic board game of Ludo reinvented in beautiful 3D for the next generation of casual players seeking a fun gameplay experience with friends. You can play alone or compete against 3 opponents in a challenging game of tokens and chance.",
+  "short_description": "Ludo Supremo is the classic board game of Ludo reinvented in beautiful 3D for the next generation of casual players seeking a fun gameplay experience with friends. You can play alone or compete against 3 opponents in a challenging game of tokens and chance.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/487580/header.jpg?t=1478753446",
   "website": "http://www.ensenasoft.com",
@@ -25,12 +25,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
-    109882
+    109882,
+    269944
   ],
   "package_groups": [
     {
@@ -46,11 +49,21 @@
           "packageid": 109882,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Ludo Supremo - 2,99\u20ac",
+          "option_text": "Ludo Supremo - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 159
+        },
+        {
+          "packageid": 269944,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Ludo Supremo - Commercial License - 2,39\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -120,6 +133,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Jun, 2016"
@@ -128,5 +144,9 @@
     "url": "http://www.ensenasoft.com",
     "email": "support@ensenasoft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/487580/page_bg_generated_v6b.jpg?t=1478753446"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/487580/page_bg_generated_v6b.jpg?t=1478753446",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -11,7 +11,7 @@
     "appid": "42700",
     "name": "Call of Duty\u00ae: Black Ops"
   },
-  "supported_languages": "English, French, German, Italian, Spanish",
+  "supported_languages": "English, French, German, Italian, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/42719/header.jpg?t=1463441872",
   "website": "http://www.callofduty.com",
   "pc_requirements": {
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1399,
     "final": 1399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "13,99\u20ac"
   },
   "packages": [
     11489,
@@ -164,7 +166,10 @@
     }
   ],
   "recommendations": {
-    "total": 233
+    "total": 232
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -174,5 +179,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42719/page_bg_generated_v6b.jpg?t=1463441872"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42719/page_bg_generated_v6b.jpg?t=1463441872",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

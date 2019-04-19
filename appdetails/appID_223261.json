@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>Pilot Commando: This skin gives the Commando a pilot suit inspired from the new \"Get To The Chopper\" game mode.\n</p>\n\n\n",
   "about_the_game": "<p>Pilot Commando: This skin gives the Commando a pilot suit inspired from the new \"Get To The Chopper\" game mode.\n</p>\n\n\n",
-  "short_description": "",
+  "short_description": "Pilot Commando: This skin gives the Commando a pilot suit inspired from the new \"Get To The Chopper\" game mode.",
   "fullgame": {
     "appid": "215470",
     "name": "Primal Carnage"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     19182,
@@ -137,6 +139,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/223261/ss_286d58b5e2653875497cb4cc1400c8d0970ab52b.1920x1080.jpg?t=1447357220"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Jan, 2013"
@@ -145,5 +150,9 @@
     "url": "http://www.lukewarmmedia.com/website/contacts",
     "email": "tim@reverbinc.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/223261/page_bg_generated_v6b.jpg?t=1447357220"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/223261/page_bg_generated_v6b.jpg?t=1447357220",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

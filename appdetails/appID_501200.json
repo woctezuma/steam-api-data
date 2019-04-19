@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Great Moon Colonization Project OST, writed by Vertex (Sergey Velichkin) and Medusa Integra, which contain:<br />\r\n<br />\r\n1.Moon (02:57) (Medusa Integra)<br />\r\n2.The Mission (01:05) (Vertex)<br />\r\n<br />\r\nand small little extra.",
   "about_the_game": "Great Moon Colonization Project OST, writed by Vertex (Sergey Velichkin) and Medusa Integra, which contain:<br />\r\n<br />\r\n1.Moon (02:57) (Medusa Integra)<br />\r\n2.The Mission (01:05) (Vertex)<br />\r\n<br />\r\nand small little extra.",
-  "short_description": "Listen great soundtrack anywhere!<br />\r\n<br />\r\nOfficial Moon Colonization Project Original Soundtrack available now!",
+  "short_description": "Listen great soundtrack anywhere! Official Moon Colonization Project Original Soundtrack available now!",
   "fullgame": {
     "appid": "496500",
     "name": "Moon Colonization Project"
@@ -35,8 +35,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "final": 41,
+    "discount_percent": 86,
+    "initial_formatted": "2,99\u20ac",
+    "final_formatted": "0,41\u20ac"
   },
   "packages": [
     115059
@@ -53,13 +55,13 @@
       "subs": [
         {
           "packageid": 115059,
-          "percent_savings_text": "",
+          "percent_savings_text": "-86%",
           "percent_savings": 0,
-          "option_text": "Moon Colonization Project | Soundtrack - 2,99\u20ac",
+          "option_text": "Moon Colonization Project | Soundtrack - <span class=\"discount_original_price\">2,99\u20ac</span> 0,41\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 41
         }
       ]
     }
@@ -100,5 +102,9 @@
     "url": "http://baddoge.ru/",
     "email": "dogedoge.guy@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501200/page_bg_generated_v6b.jpg?t=1468579167"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501200/page_bg_generated_v6b.jpg?t=1468579167",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

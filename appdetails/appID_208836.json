@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "<p>Convert all uncommon, rare, and mythic rare cards in \"Rogue's Gallery\" blue and black deck to premium foil cards. Additional content for Magic 2013. Requires Deck Pack 3.</p>\n",
   "about_the_game": "<p>Convert all uncommon, rare, and mythic rare cards in \"Rogue's Gallery\" blue and black deck to premium foil cards. Additional content for Magic 2013. Requires Deck Pack 3.</p>\n",
-  "short_description": "",
+  "short_description": "Convert all uncommon, rare, and mythic rare cards in \"Rogue's Gallery\" blue and black deck to premium foil cards. Additional content for Magic 2013. Requires Deck Pack 3.",
   "fullgame": {
     "appid": "97330",
     "name": "Magic: The Gathering - Duels of the Planeswalkers 2013"
   },
-  "supported_languages": "English, French, German, Italian, Japanese, Korean, Portuguese-Brazil, Russian, Spanish",
+  "supported_languages": "English, French, German, Italian, Japanese, Korean, Portuguese - Brazil, Russian, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/208836/header.jpg?t=1447357244",
   "website": "http://www.wizards.com/magic/digital/duelsoftheplaneswalkers.aspx",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     18932,
@@ -141,6 +143,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/208836/ss_eaefa9a2ebe45b88fcfff2f6f2446aba422fbece.1920x1080.jpg?t=1447357244"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Jan, 2013"
@@ -149,5 +154,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/208836/page_bg_generated_v6b.jpg?t=1447357244"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/208836/page_bg_generated_v6b.jpg?t=1447357244",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

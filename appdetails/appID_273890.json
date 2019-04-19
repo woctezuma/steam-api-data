@@ -7,8 +7,8 @@
   "controller_support": "full",
   "detailed_description": "<strong>Arctic Trucker Simulator</strong> \u2013 officially endorsed by <strong>Alex Debogorski</strong> \u2013 takes you down the world's iciest and most dangerous roads!<br><br>Do it like <strong>Alex Debogorski</strong> \u2013 the most popular Ice Road Trucker ever: Get in your truck, start the engine and transport massive cargos over the snowy transport routes of the Arctic.<br><br>Machines, wood and bulk solids \u2013 you'll get them to their destination with a good truck, excellent driving skills and a working heater. More profitable contracts beckon, allowing you to improve your cash balance, buy new tractors and take on bigger consignments. Take care, though \u2013 accidents and involuntary pit stops cause more damage than simply making the customer unhappy!<br><br>The ice roads await \u2013 in <strong>Arctic Trucker Simulator</strong>!<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li>Five trucks with varying power and traction<br></li><li>Career mode with a points multiplier<br></li><li>Improve, service and change the look of your truck<br></li><li>Dynamic weather system and numerous settings<br></li><li>Supports steering wheels and gamepads</li></ul>",
   "about_the_game": "<strong>Arctic Trucker Simulator</strong> \u2013 officially endorsed by <strong>Alex Debogorski</strong> \u2013 takes you down the world's iciest and most dangerous roads!<br><br>Do it like <strong>Alex Debogorski</strong> \u2013 the most popular Ice Road Trucker ever: Get in your truck, start the engine and transport massive cargos over the snowy transport routes of the Arctic.<br><br>Machines, wood and bulk solids \u2013 you'll get them to their destination with a good truck, excellent driving skills and a working heater. More profitable contracts beckon, allowing you to improve your cash balance, buy new tractors and take on bigger consignments. Take care, though \u2013 accidents and involuntary pit stops cause more damage than simply making the customer unhappy!<br><br>The ice roads await \u2013 in <strong>Arctic Trucker Simulator</strong>!<h2 class=\"bb_tag\">Key Features:</h2><ul class=\"bb_ul\"><li>Five trucks with varying power and traction<br></li><li>Career mode with a points multiplier<br></li><li>Improve, service and change the look of your truck<br></li><li>Dynamic weather system and numerous settings<br></li><li>Supports steering wheels and gamepads</li></ul>",
-  "short_description": "<strong>Arctic Trucker Simulator</strong> \u2013 officially endorsed by <strong>Alex Debogorski</strong> \u2013 takes you down the world's iciest and most dangerous roads!",
-  "supported_languages": "English, French, Italian, German, Spanish, Portuguese-Brazil, Simplified Chinese, Japanese, Polish, Russian",
+  "short_description": "Arctic Trucker Simulator \u2013 officially endorsed by Alex Debogorski \u2013 takes you down the world's iciest and most dangerous roads!",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Simplified Chinese, Japanese, Polish, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/273890/header.jpg?t=1475826148",
   "website": "http://uieg.de/",
   "pc_requirements": {
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "final": 299,
+    "discount_percent": 70,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     37024
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 37024,
-          "percent_savings_text": "",
+          "percent_savings_text": "-70%",
           "percent_savings": 0,
-          "option_text": "Arctic Trucker Simulator - 9,99\u20ac",
+          "option_text": "Arctic Trucker Simulator - <span class=\"discount_original_price\">9,99\u20ac</span> 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -199,5 +201,9 @@
     "url": "",
     "email": "support@uieg.de"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/273890/page_bg_generated_v6b.jpg?t=1475826148"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/273890/page_bg_generated_v6b.jpg?t=1475826148",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "Cities in Motion: US Cities is an expansion for city-based mass transportation PC-simulation game Cities in Motion.<br>\t\t\t\t\t\t\t\t\t\t\tThis expansion brings you two cities on a new continent with new challenges in both sandbox and campaign modes. New vehicle types and large populations set in beautiful metropolises will keep your creativity flowing! Try the trolley buses in New York or build a cable car network in sunny San Francisco, but remember to keep your passengers happy!<br>\t\t\t\t\t\t\t\t\t\t\t<h2 class=\"bb_tag\">Key Features:</h2>\t\t\t\t\t\t\t\t\t\t\t<ul class=\"bb_ul\"><li>Explore New York and San Francisco, bustling metropolises<br>\t\t\t\t\t\t\t\t\t\t\t</li><li>Boost your fleet with five new vehicles<br>\t\t\t\t\t\t\t\t\t\t\t</li><li>Try out two new transportation types: Trolley buses and Cable cars<br>\t\t\t\t\t\t\t\t\t\t\t</li><li>See new American-style buildings and landmarks<br>\t\t\t\t\t\t\t\t\t\t\t</li><li>Experience the feel of the big American cities <br>\t\t\t\t\t\t\t\t\t\t\t</li></ul>",
   "about_the_game": "Cities in Motion: US Cities is an expansion for city-based mass transportation PC-simulation game Cities in Motion.<br>\t\t\t\t\t\t\t\t\t\t\tThis expansion brings you two cities on a new continent with new challenges in both sandbox and campaign modes. New vehicle types and large populations set in beautiful metropolises will keep your creativity flowing! Try the trolley buses in New York or build a cable car network in sunny San Francisco, but remember to keep your passengers happy!<br>\t\t\t\t\t\t\t\t\t\t\t<h2 class=\"bb_tag\">Key Features:</h2>\t\t\t\t\t\t\t\t\t\t\t<ul class=\"bb_ul\"><li>Explore New York and San Francisco, bustling metropolises<br>\t\t\t\t\t\t\t\t\t\t\t</li><li>Boost your fleet with five new vehicles<br>\t\t\t\t\t\t\t\t\t\t\t</li><li>Try out two new transportation types: Trolley buses and Cable cars<br>\t\t\t\t\t\t\t\t\t\t\t</li><li>See new American-style buildings and landmarks<br>\t\t\t\t\t\t\t\t\t\t\t</li><li>Experience the feel of the big American cities <br>\t\t\t\t\t\t\t\t\t\t\t</li></ul>",
-  "short_description": "",
+  "short_description": "Cities in Motion: US Cities is an expansion for city-based mass transportation PC-simulation game Cities in Motion. This expansion brings you two cities on a new continent with new challenges in both sandbox and campaign modes. New vehicle types and large populations set in beautiful metropolises will keep your creativity flowing!",
   "fullgame": {
     "appid": "73010",
     "name": "Cities in Motion"
   },
-  "supported_languages": "English, French, German, Spanish",
+  "supported_languages": "English, French, German, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/73187/header.jpg?t=1447355235",
   "website": "http://www.citiesinmotion.com",
   "pc_requirements": {
@@ -33,13 +33,12 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
-    13252,
-    29532,
-    29078,
-    35269
+    13252
   ],
   "package_groups": [
     {
@@ -60,36 +59,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 499
-        },
-        {
-          "packageid": 29532,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Cities in Motion DLC Collection - 39,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 3999
-        },
-        {
-          "packageid": 29078,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Cities in Motion Collection - 49,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4999
-        },
-        {
-          "packageid": 35269,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Cities in Motion 1 and 2 Collection - 84,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 8499
         }
       ]
     }
@@ -157,6 +126,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/73187/ss_afa79b5b591093450a1b6c04c3a445d3ce16448f.1920x1080.jpg?t=1447355235"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jan, 2012"
@@ -165,5 +137,9 @@
     "url": "http://www.paradoxplaza.com/support",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/73187/page_bg_generated_v6b.jpg?t=1447355235"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/73187/page_bg_generated_v6b.jpg?t=1447355235",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

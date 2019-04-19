@@ -13,7 +13,7 @@
     "name": "Tsukigakirei"
   },
   "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/684082/header.jpg?t=1509033316",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/683020/header.jpg?t=1553553590",
   "website": null,
   "pc_requirements": [],
   "mac_requirements": [],
@@ -25,10 +25,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    "195605"
+    195605
   ],
   "package_groups": [
     {
@@ -41,7 +43,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "195605",
+          "packageid": 195605,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Tsukigakirei: Howling at the Moon - 1,99\u20ac",
@@ -68,6 +70,9 @@
       "description": "Native Steam Controller Support"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Oct, 2017"
@@ -76,5 +81,9 @@
     "url": "",
     "email": ""
   },
-  "background": ""
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

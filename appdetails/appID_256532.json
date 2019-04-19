@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<strong>*NOTE* This pack is available in the in-game store under the Marketplace tab.  You are strongly recommended to find the product there and make your purchase from within the game.<br><br>In order to be able to use this add-on livery product, you MUST first own the BR Class 31 Loco Add-on.  If you check in the in-game store it will verify if you own it before you purchase.</strong><br><br>The classic Class 31 diesel locomotive was a versatile workhorse of the British railway network, and now this Brush Type 2 is available for Train Simulator in Regional Railways livery. <br><br>British Railways\u2019 \u2018Pilot Scheme\u2019 to replace steam traction saw 20 Type 2 diesel locomotives built by Brush Traction in 1957. These development locomotives were fitted with Mirrlees engines and had a top speed of 80mph, designed for mixed traffic workings on the Eastern Region. Midway through production, BR decided to extend the fleet, ordering a further 243 locomotives that entered service by the end of 1962. <br><br>The main production locomotives were adapted slightly from their predecessors and underwent a programme of re-engineering in 1964 to replace the unreliable Mirrlees engines with higher rated, more powerful English Electric engines. The Class also made its way into other regions of the railway network, becoming a popular sight on both the Western and London Midland regions. <br><br><strong>You must own the BR Class 31 Loco Add-on before you will be able to use this add-on</strong>",
   "about_the_game": "<strong>*NOTE* This pack is available in the in-game store under the Marketplace tab.  You are strongly recommended to find the product there and make your purchase from within the game.<br><br>In order to be able to use this add-on livery product, you MUST first own the BR Class 31 Loco Add-on.  If you check in the in-game store it will verify if you own it before you purchase.</strong><br><br>The classic Class 31 diesel locomotive was a versatile workhorse of the British railway network, and now this Brush Type 2 is available for Train Simulator in Regional Railways livery. <br><br>British Railways\u2019 \u2018Pilot Scheme\u2019 to replace steam traction saw 20 Type 2 diesel locomotives built by Brush Traction in 1957. These development locomotives were fitted with Mirrlees engines and had a top speed of 80mph, designed for mixed traffic workings on the Eastern Region. Midway through production, BR decided to extend the fleet, ordering a further 243 locomotives that entered service by the end of 1962. <br><br>The main production locomotives were adapted slightly from their predecessors and underwent a programme of re-engineering in 1964 to replace the unreliable Mirrlees engines with higher rated, more powerful English Electric engines. The Class also made its way into other regions of the railway network, becoming a popular sight on both the Western and London Midland regions. <br><br><strong>You must own the BR Class 31 Loco Add-on before you will be able to use this add-on</strong>",
-  "short_description": "",
+  "short_description": "*NOTE* This pack is available in the in-game store under the Marketplace tab. You are strongly recommended to find the product there and make your purchase from within the game.In order to be able to use this add-on livery product, you MUST first own the BR Class 31 Loco Add-on.",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     41347
@@ -131,6 +133,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/256532/ss_fdaa216867cb2dfd39da77af9f201f1c225dbebe.1920x1080.jpg?t=1447359647"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Apr, 2014"
@@ -139,5 +144,9 @@
     "url": "http://www.railsimulator.com/support.php",
     "email": "support@railsimulator.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/256532/page_bg_generated_v6b.jpg?t=1447359647"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/256532/page_bg_generated_v6b.jpg?t=1447359647",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

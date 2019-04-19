@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Axes up! Bows drawn! Raise your horns!<br>Trolls, kobolds and other mythical creatures have it in for the fortress of the Vikings - and these are exactly who you're gonna beat up left and right in <strong>Viking Rage</strong>.<br>Thanks to virtual reality, in this tower defense game with a twist you are in the middle of the action, which might even make a bearded raider cry!<br>No use for fast clicking - you've got the controllers and with that the protection of your village in your hands, so go all out and:<br><ul class=\"bb_ul\"><li>Throw axes and bombs<br></li><li>Shoot with bow and arrows or crossbows<br></li><li>Play with the four elements<br></li><li>Surprise the intruders with traps</li></ul><br>There are outlandish lands, ludicrous weapons and all kinds of enemies to discover.<br>Let Thor guide you to reach a Norse war frenzy!",
   "about_the_game": "Axes up! Bows drawn! Raise your horns!<br>Trolls, kobolds and other mythical creatures have it in for the fortress of the Vikings - and these are exactly who you're gonna beat up left and right in <strong>Viking Rage</strong>.<br>Thanks to virtual reality, in this tower defense game with a twist you are in the middle of the action, which might even make a bearded raider cry!<br>No use for fast clicking - you've got the controllers and with that the protection of your village in your hands, so go all out and:<br><ul class=\"bb_ul\"><li>Throw axes and bombs<br></li><li>Shoot with bow and arrows or crossbows<br></li><li>Play with the four elements<br></li><li>Surprise the intruders with traps</li></ul><br>There are outlandish lands, ludicrous weapons and all kinds of enemies to discover.<br>Let Thor guide you to reach a Norse war frenzy!",
-  "short_description": "Axes up! Bows drawn! Raise your horns!<br />\r\nTrolls, kobolds and other mythical creatures have it in for the fortress of the vikings - and these are exactly who you're gonna beat up left and right in Viking Rage.",
+  "short_description": "Axes up! Bows drawn! Raise your horns! Trolls, kobolds and other mythical creatures have it in for the fortress of the vikings - and these are exactly who you're gonna beat up left and right in Viking Rage.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/589150/header.jpg?t=1515488969",
   "website": "http://www.vikingrage.beer",
@@ -33,10 +33,13 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
-    152434
+    152434,
+    306113
   ],
   "package_groups": [
     {
@@ -53,6 +56,16 @@
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Viking Rage - 8,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 899
+        },
+        {
+          "packageid": 306113,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Viking Rage - Commercial License - 8,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -239,5 +252,9 @@
     "url": "http://www.vikingrage.beer",
     "email": "support@headupgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589150/page_bg_generated_v6b.jpg?t=1515488969"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/589150/page_bg_generated_v6b.jpg?t=1515488969",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

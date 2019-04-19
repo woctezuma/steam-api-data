@@ -11,8 +11,8 @@
     "appid": "801020",
     "name": "Golden Dungeons"
   },
-  "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/839760/header.jpg?t=1523039923",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Hungarian<strong>*</strong>, Greek<strong>*</strong>, Danish<strong>*</strong>, Traditional Chinese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Dutch<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Thai<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Finnish<strong>*</strong>, Czech<strong>*</strong>, Swedish<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/839760/header.jpg?t=1531316741",
   "website": null,
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7,8,10<br></li><li><strong>Processor:</strong> 2.0 GHz CPU Dual Core<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> 512 MB</li></ul>",
@@ -27,10 +27,12 @@
     ""
   ],
   "price_overview": {
-    "currency": "EUR",
-    "initial": 79,
-    "final": 79,
-    "discount_percent": 0
+    "currency": "USD",
+    "initial": 99,
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "$0.99"
   },
   "packages": [
     262086
@@ -49,11 +51,11 @@
           "packageid": 262086,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Golden Dungeons - PRO Levels - 0,79\u20ac",
+          "option_text": "Golden Dungeons - PRO Levels - $0.99",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 79
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -94,27 +96,31 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/839760/ss_e726324bb4d1a63ede37b7dc60e6900e75988d81.600x338.jpg?t=1523039923",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/839760/ss_e726324bb4d1a63ede37b7dc60e6900e75988d81.1920x1080.jpg?t=1523039923"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/839760/ss_e726324bb4d1a63ede37b7dc60e6900e75988d81.600x338.jpg?t=1531316741",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/839760/ss_e726324bb4d1a63ede37b7dc60e6900e75988d81.1920x1080.jpg?t=1531316741"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/839760/ss_c91dcbf4747c30dc9437e6343bf11abfb698eb33.600x338.jpg?t=1523039923",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/839760/ss_c91dcbf4747c30dc9437e6343bf11abfb698eb33.1920x1080.jpg?t=1523039923"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/839760/ss_c91dcbf4747c30dc9437e6343bf11abfb698eb33.600x338.jpg?t=1531316741",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/839760/ss_c91dcbf4747c30dc9437e6343bf11abfb698eb33.1920x1080.jpg?t=1531316741"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/839760/ss_20eed4b19c7cc897ca78b38b4f4e057db5d4ddb8.600x338.jpg?t=1523039923",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/839760/ss_20eed4b19c7cc897ca78b38b4f4e057db5d4ddb8.1920x1080.jpg?t=1523039923"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/839760/ss_20eed4b19c7cc897ca78b38b4f4e057db5d4ddb8.600x338.jpg?t=1531316741",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/839760/ss_20eed4b19c7cc897ca78b38b4f4e057db5d4ddb8.1920x1080.jpg?t=1531316741"
     }
   ],
   "release_date": {
     "coming_soon": false,
-    "date": "6 Apr, 2018"
+    "date": "Apr 6, 2018"
   },
   "support_info": {
     "url": "",
     "email": "afbikstudio@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/839760/page_bg_generated_v6b.jpg?t=1523039923"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/839760/page_bg_generated_v6b.jpg?t=1531316741",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

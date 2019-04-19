@@ -14,13 +14,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/565070/header.jpg?t=1480954525",
   "website": "http://giantgoblinstudio.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Any</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Any</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Syst\u00e8me d'exploitation\u00a0:</strong> Any</li></ul>"
   },
   "legal_notice": "\u00a9 Giant Goblin Studio 2016",
   "developers": [
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     142651
@@ -117,5 +119,9 @@
     "url": "",
     "email": "contact@giantgoblinstudio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/565070/page_bg_generated_v6b.jpg?t=1480954525"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/565070/page_bg_generated_v6b.jpg?t=1480954525",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

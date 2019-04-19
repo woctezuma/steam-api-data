@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     155996
@@ -158,6 +160,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Feb, 2017"
@@ -166,5 +171,9 @@
     "url": "http://squawkybirdgames.com/",
     "email": "justin_jimmo@hotmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/596070/page_bg_generated_v6b.jpg?t=1489442644"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/596070/page_bg_generated_v6b.jpg?t=1489442644",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

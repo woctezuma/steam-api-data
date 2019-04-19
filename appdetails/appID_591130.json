@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     153359
@@ -212,5 +214,12 @@
     "url": "http://bunnymadnessanarchy.com",
     "email": "support@meephead.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/591130/page_bg_generated_v6b.jpg?t=1504222508"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/591130/page_bg_generated_v6b.jpg?t=1504222508",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

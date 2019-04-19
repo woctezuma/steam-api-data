@@ -11,7 +11,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/308000/header.jpg?t=1516749315",
   "website": "http://www.goldrush-game.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, Vista, 7, 8 or 10<br></li><li><strong>Processor:</strong> Pentium 200 MHz<br></li><li><strong>Storage:</strong> 30 MB available space</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Windows XP, Vista, 7, 8 or 10<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> Pentium 200 MHz<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 30 MB</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -26,9 +26,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 559,
-    "final": 559,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 81,
+    "discount_percent": 66,
+    "initial_formatted": "2,39\u20ac",
+    "final_formatted": "0,81\u20ac"
   },
   "packages": [
     46015
@@ -45,13 +47,13 @@
       "subs": [
         {
           "packageid": 46015,
-          "percent_savings_text": "",
+          "percent_savings_text": "-66%",
           "percent_savings": 0,
-          "option_text": "Gold Rush! Classic - 5,59\u20ac",
+          "option_text": "Gold Rush! Classic - <span class=\"discount_original_price\">2,39\u20ac</span> 0,81\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 559
+          "price_in_cents_with_discount": 81
         }
       ]
     }
@@ -165,8 +167,8 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 256
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -176,5 +178,9 @@
     "url": "http://www.sunlight-games.com/en/?nav=kontakt&amp;PHPSESSID=4b054f770dd559a50410f8907042df22",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/308000/page_bg_generated_v6b.jpg?t=1516749315"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/308000/page_bg_generated_v6b.jpg?t=1516749315",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 129,
-    "discount_percent": 35
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     187516
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 187516,
-          "percent_savings_text": "-35%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "UniOne - <span class=\"discount_original_price\">1,99\u20ac</span> 1,29\u20ac",
+          "option_text": "UniOne - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 129
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -167,5 +169,9 @@
     "url": "",
     "email": "308835414@qq.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/661480/page_bg_generated_v6b.jpg?t=1511070712"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/661480/page_bg_generated_v6b.jpg?t=1511070712",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Includes 4 unique ability and wargear items to equip your squad with.<ul class=\"bb_ul\"><li><strong>VENOMOUS TALONS:</strong> Attacks upon the enemy now have a guaranteed chance to stun and poison them for a short duration.<br>\t\t\t\t\t\t</li><li><strong>POISONOUS CYSTS:</strong> After taking a fixed amount of melee damage your Swarmlord will now spray a poison cloud that damages your enemies.<br>\t\t\t\t\t\t</li><li><strong>SHADOW IN THE WARP:</strong> When hit you now convert some of that damage to energy to power your abilities.<br>\t\t\t\t\t\t</li><li><strong>WARP FIELD:</strong> Calls forth an energy shield to protect your character from damage.</li></ul>",
   "about_the_game": "Includes 4 unique ability and wargear items to equip your squad with.<ul class=\"bb_ul\"><li><strong>VENOMOUS TALONS:</strong> Attacks upon the enemy now have a guaranteed chance to stun and poison them for a short duration.<br>\t\t\t\t\t\t</li><li><strong>POISONOUS CYSTS:</strong> After taking a fixed amount of melee damage your Swarmlord will now spray a poison cloud that damages your enemies.<br>\t\t\t\t\t\t</li><li><strong>SHADOW IN THE WARP:</strong> When hit you now convert some of that damage to energy to power your abilities.<br>\t\t\t\t\t\t</li><li><strong>WARP FIELD:</strong> Calls forth an energy shield to protect your character from damage.</li></ul>",
-  "short_description": "",
+  "short_description": "Includes 4 unique ability and wargear items to equip your squad with.VENOMOUS TALONS: Attacks upon the enemy now have a guaranteed chance to stun and poison them for a short duration. POISONOUS CYSTS: After taking a fixed amount of melee damage your Swarmlord will now spray a poison cloud that damages your enemies.",
   "fullgame": {
     "appid": "56400",
     "name": "Warhammer 40,000: Dawn of War II: Retribution"
@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     7438,
@@ -148,6 +150,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/56436/ss_b34089be8433e47f3870156f6e0d64a15a9a608b.1920x1080.jpg?t=1522071205"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Feb, 2011"
@@ -156,5 +161,9 @@
     "url": "https://support.sega.co.uk",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/56436/page_bg_generated_v6b.jpg?t=1522071205"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/56436/page_bg_generated_v6b.jpg?t=1522071205",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

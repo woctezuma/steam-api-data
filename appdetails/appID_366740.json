@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     66347
@@ -134,6 +136,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/366740/ss_6686eeba8b6dfd1aa2d6e6becd368f6a92de5e2c.1920x1080.jpg?t=1447373433"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 May, 2015"
@@ -142,5 +147,9 @@
     "url": "http://www.aldorlea.org",
     "email": "aldorlea@googlemail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/366740/page_bg_generated_v6b.jpg?t=1447373433"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/366740/page_bg_generated_v6b.jpg?t=1447373433",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

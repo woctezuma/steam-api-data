@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     48167
@@ -138,6 +140,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/315730/ss_01f87b66ebd9a0a834c1ef04efbc492fce21df58.1920x1080.jpg?t=1447362832"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Jul, 2014"
@@ -146,5 +151,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/315730/page_bg_generated_v6b.jpg?t=1447362832"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/315730/page_bg_generated_v6b.jpg?t=1447362832",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

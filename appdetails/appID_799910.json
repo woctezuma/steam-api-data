@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     243210
@@ -98,11 +100,6 @@
       "id": 2,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/799910/ss_85e0c2589a99abc51562fc63a6e54f0c429c2330.600x338.jpg?t=1520778804",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/799910/ss_85e0c2589a99abc51562fc63a6e54f0c429c2330.1920x1080.jpg?t=1520778804"
-    },
-    {
-      "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/799910/?t=1520778804",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/799910/?t=1520778804"
     }
   ],
   "movies": [
@@ -128,5 +125,9 @@
     "url": "",
     "email": "support@headshotlabs.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/799910/page_bg_generated_v6b.jpg?t=1520778804"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/799910/page_bg_generated_v6b.jpg?t=1520778804",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

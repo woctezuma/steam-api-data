@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "\n\t\t\t\t\t<p>This exclusive Soviet music pack contains over 14 minutes of specially composed music to enhance the experience of playing as the Soviet Union in Hearts of Iron 3.</p> \n\t\t\t\t\t<p>There are four separate suites all created to enrich the atmosphere of defending the workers republic in the struggles against fascism. Just like for the original soundtrack for Hearts of Iron 3, these additional music suites have been composed by critically acclaimed Grand Strategy game composer Andreas Waldetoft. </p> \n\t\t\t\t\t<p>Seasoned wargamers will recognize his work from other original music soundtracks like Europa Universalis 3 and Hearts of Iron 2  The war in Russia changed the course of World War II in Europe \u2013 will you?</p>",
   "about_the_game": "\n\t\t\t\t\t<p>This exclusive Soviet music pack contains over 14 minutes of specially composed music to enhance the experience of playing as the Soviet Union in Hearts of Iron 3.</p> \n\t\t\t\t\t<p>There are four separate suites all created to enrich the atmosphere of defending the workers republic in the struggles against fascism. Just like for the original soundtrack for Hearts of Iron 3, these additional music suites have been composed by critically acclaimed Grand Strategy game composer Andreas Waldetoft. </p> \n\t\t\t\t\t<p>Seasoned wargamers will recognize his work from other original music soundtracks like Europa Universalis 3 and Hearts of Iron 2  The war in Russia changed the course of World War II in Europe \u2013 will you?</p>",
-  "short_description": "",
+  "short_description": "This exclusive Soviet music pack contains over 14 minutes of specially composed music to enhance the experience of playing as the Soviet Union in Hearts of Iron 3. There are four separate suites all created to enrich the atmosphere of defending the workers republic in the struggles against fascism.",
   "fullgame": {
     "appid": "25890",
     "name": "Hearts of Iron III"
@@ -29,12 +29,12 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    2591,
-    29531,
-    37223
+    2591
   ],
   "package_groups": [
     {
@@ -55,26 +55,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 99
-        },
-        {
-          "packageid": 29531,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron 3 DLC Collection - 29,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2999
-        },
-        {
-          "packageid": 37223,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron Collection III (Jan 2014) - 41,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4199
         }
       ]
     }
@@ -131,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/25899/ss_7b736ec45d5258315cd71635880adc2b82174fae.1920x1080.jpg?t=1447352752"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Dec, 2009"
@@ -139,5 +122,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25899/page_bg_generated_v6b.jpg?t=1447352752"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25899/page_bg_generated_v6b.jpg?t=1447352752",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

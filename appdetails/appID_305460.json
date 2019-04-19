@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "FranknJohn is a horror inspired action roguelike, where your head <strong>is</strong> your weapon! Young FranknJohn is a failed experiment of a demented scientist, Dr Harmin. He wakes, with no memory, in a cell, with a head that can only stay on his body with the help of a chain. FranknJohn is far from helpless however, as his flaw becomes his strength - he can swing his head wildly round to smash away the plethora of strange creatures that roam the house of horror...<br><br><strong>Current Features</strong><br><ul class=\"bb_ul\"><li>Smash enemies with FranknJohn's weaponized head <br></li><li>Experiment with 20 different Skullcaps that alter gameplay in many different ways<br></li><li>Huge skill tree. Collect Dr. Harmin's mysterious ooze and use it to upgrade your body and mind<br></li><li>Randomly generated environments. A new experience with each new life<br></li><li>Local co-op - play with a friend! <br></li><li>Battle through the first area two areas of the game, &quot;The Garden of Denial&quot; and &quot;The Furnace of Anger&quot;<br></li><li>Perma-death, challenging enemies will test the sternest of players<br></li><li>Glorious soundtrack by Ben Prunty (FTL/Gravity Ghost)<br></li><li>Pills to temporally upgrade your stats<br></li><li>Explore FrankJohn's underground hideout</li></ul><br><strong>Planned Features</strong><br><strong>Content </strong><br><ul class=\"bb_ul\"><li>More areas - The Cistern of Depression and the final showdown with Dr. Harmin in the &quot;The Lab of Isolation&quot;<br></li><li>More variety, challenges and secrets - We have lot's of fun stuff in store<br></li><li>More Skullcaps - these are so much fun to make we want to keep making them forever<br></li><li>More enemies - Each new area will have roughly the same amount of enemies currently available<br></li><li>More bosses - Dr. Harmins most prized creations are being readied for battle<br></li><li>More glorious soundtrack by Ben Prunty</li></ul><br><strong>Bug Fixing</strong><br><ul class=\"bb_ul\"><li>We have put a lot of effort into making sure FranknJohn is as bug free as possible, however the game is in Early Access so it is unavoidable. We will do our best to squish them as soon as they present their ugly heads.</li></ul><br><strong>Balancing</strong><br><ul class=\"bb_ul\"><li>A game like this lives or dies on it's balance, so expect a lot of tweaking to occur throughout Early Access. </li></ul>",
   "about_the_game": "FranknJohn is a horror inspired action roguelike, where your head <strong>is</strong> your weapon! Young FranknJohn is a failed experiment of a demented scientist, Dr Harmin. He wakes, with no memory, in a cell, with a head that can only stay on his body with the help of a chain. FranknJohn is far from helpless however, as his flaw becomes his strength - he can swing his head wildly round to smash away the plethora of strange creatures that roam the house of horror...<br><br><strong>Current Features</strong><br><ul class=\"bb_ul\"><li>Smash enemies with FranknJohn's weaponized head <br></li><li>Experiment with 20 different Skullcaps that alter gameplay in many different ways<br></li><li>Huge skill tree. Collect Dr. Harmin's mysterious ooze and use it to upgrade your body and mind<br></li><li>Randomly generated environments. A new experience with each new life<br></li><li>Local co-op - play with a friend! <br></li><li>Battle through the first area two areas of the game, &quot;The Garden of Denial&quot; and &quot;The Furnace of Anger&quot;<br></li><li>Perma-death, challenging enemies will test the sternest of players<br></li><li>Glorious soundtrack by Ben Prunty (FTL/Gravity Ghost)<br></li><li>Pills to temporally upgrade your stats<br></li><li>Explore FrankJohn's underground hideout</li></ul><br><strong>Planned Features</strong><br><strong>Content </strong><br><ul class=\"bb_ul\"><li>More areas - The Cistern of Depression and the final showdown with Dr. Harmin in the &quot;The Lab of Isolation&quot;<br></li><li>More variety, challenges and secrets - We have lot's of fun stuff in store<br></li><li>More Skullcaps - these are so much fun to make we want to keep making them forever<br></li><li>More enemies - Each new area will have roughly the same amount of enemies currently available<br></li><li>More bosses - Dr. Harmins most prized creations are being readied for battle<br></li><li>More glorious soundtrack by Ben Prunty</li></ul><br><strong>Bug Fixing</strong><br><ul class=\"bb_ul\"><li>We have put a lot of effort into making sure FranknJohn is as bug free as possible, however the game is in Early Access so it is unavoidable. We will do our best to squish them as soon as they present their ugly heads.</li></ul><br><strong>Balancing</strong><br><ul class=\"bb_ul\"><li>A game like this lives or dies on it's balance, so expect a lot of tweaking to occur throughout Early Access. </li></ul>",
-  "short_description": "FranknJohn is a horror inspired action roguelike, where your head <strong>is</strong> your weapon! Battle your way through randomly generated environments and fight the demented creations from your creator Dr. Harmin. You must defeat Dr. Harmin and escape his domain!",
+  "short_description": "FranknJohn is a horror inspired action roguelike, where your head is your weapon! Battle your way through randomly generated environments and fight the demented creations from your creator Dr. Harmin. You must defeat Dr. Harmin and escape his domain!",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/305460/header.jpg?t=1461493195",
   "website": "http://www.franknjohn.com",
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     45310
@@ -184,6 +186,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Mar, 2015"
@@ -192,5 +197,9 @@
     "url": "http://www.bitsmithgames.com",
     "email": "http://info@bitsmithgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/305460/page_bg_generated_v6b.jpg?t=1461493195"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/305460/page_bg_generated_v6b.jpg?t=1461493195",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

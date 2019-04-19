@@ -29,9 +29,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 899,
-    "final": 899,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     164889
@@ -50,11 +52,11 @@
           "packageid": 164889,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Twist of Destiny - 8,99\u20ac",
+          "option_text": "Twist of Destiny - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 899
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -181,6 +183,31 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 5,
+    "highlighted": [
+      {
+        "name": "Happy Hunting",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/615150/ed0467673d8a3a3238c2131964ec9f9228cd59a1.jpg"
+      },
+      {
+        "name": "Big Hustle",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/615150/9aba98dabc32d7e82aefaf1cdcfe93a720721fd1.jpg"
+      },
+      {
+        "name": "Got a few Bites",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/615150/5331fba450756ff072904c1718d6e4ad587214cd.jpg"
+      },
+      {
+        "name": "It takes all kinds!",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/615150/e2443f8283e1cf25251bbd95021b9dda102e5559.jpg"
+      },
+      {
+        "name": "Play On and On",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/615150/14e8ece29c31dec89d32760cf7d9ab495a294d0b.jpg"
+      }
+    ]
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Apr, 2017"
@@ -189,5 +216,9 @@
     "url": "",
     "email": "srevilosrevilo2008@hotmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/615150/page_bg_generated_v6b.jpg?t=1516650235"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/615150/page_bg_generated_v6b.jpg?t=1516650235",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

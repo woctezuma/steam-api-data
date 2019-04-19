@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "The Chosen is a heroic RPG.<br />\r\n<br />\r\nStarting with the faded dream of his missing father, our hero, Edge decides to give his mother's grave a visit. Upon returning, Edge sees his good friend Serenity in a desperate fight with unknown soldiers. Where did these soldiers come from? Why have they been ordered to attack their peaceful village?<br />\r\n<br />\r\nAfter following the trail of these soldiers to the town's historic magic tower, Edge and Serenity discover a mysterious warrior trying to pull the great sword God's Tear from its pedestal. After fighting off this attempt from taking the town's prized possession, Serenity and Edge watch as the mysterious warrior vanishes into thin air leaving even more questions to be answered. Who was this mysterious man? Why was he trying to take the God's Tear?<br />\r\n<br />\r\nAfter this encounter, Edge and Serenity embark on an epic adventure to further discover the purpose of this attack. During this investigation, these two will uncover an ancient myth of their world that foretells a tale of one true hero being chosen to wield the God's Tear and challenge the greatest evil ever to face their time.<br />\r\n<br />\r\nWill you be able to unravel the mysterious plot against you and find your father? Will you become the Chosen?",
   "about_the_game": "The Chosen is a heroic RPG.<br />\r\n<br />\r\nStarting with the faded dream of his missing father, our hero, Edge decides to give his mother's grave a visit. Upon returning, Edge sees his good friend Serenity in a desperate fight with unknown soldiers. Where did these soldiers come from? Why have they been ordered to attack their peaceful village?<br />\r\n<br />\r\nAfter following the trail of these soldiers to the town's historic magic tower, Edge and Serenity discover a mysterious warrior trying to pull the great sword God's Tear from its pedestal. After fighting off this attempt from taking the town's prized possession, Serenity and Edge watch as the mysterious warrior vanishes into thin air leaving even more questions to be answered. Who was this mysterious man? Why was he trying to take the God's Tear?<br />\r\n<br />\r\nAfter this encounter, Edge and Serenity embark on an epic adventure to further discover the purpose of this attack. During this investigation, these two will uncover an ancient myth of their world that foretells a tale of one true hero being chosen to wield the God's Tear and challenge the greatest evil ever to face their time.<br />\r\n<br />\r\nWill you be able to unravel the mysterious plot against you and find your father? Will you become the Chosen?",
-  "short_description": "The Chosen is a heroic RPG. Will you be able to unravel the mysterious plot against you and  become the Chosen?",
+  "short_description": "The Chosen is a heroic RPG. Will you be able to unravel the mysterious plot against you and become the Chosen?",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/434420/header.jpg?t=1519556389",
   "website": null,
@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 90,
-    "final": 90,
-    "discount_percent": 0
+    "final": 39,
+    "discount_percent": 57,
+    "initial_formatted": "0,90\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     90628,
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 90628,
-          "percent_savings_text": "",
+          "percent_savings_text": "-57%",
           "percent_savings": 0,
-          "option_text": "The Chosen RPG - 0,90\u20ac",
+          "option_text": "The Chosen RPG - <span class=\"discount_original_price\">0,90\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 90
+          "price_in_cents_with_discount": 39
         },
         {
           "packageid": 250462,
@@ -155,7 +157,7 @@
     }
   ],
   "recommendations": {
-    "total": 939
+    "total": 849
   },
   "achievements": {
     "total": 8,
@@ -202,5 +204,12 @@
     "url": "",
     "email": "ian@ip-builders.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/434420/page_bg_generated_v6b.jpg?t=1519556389"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/434420/page_bg_generated_v6b.jpg?t=1519556389",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

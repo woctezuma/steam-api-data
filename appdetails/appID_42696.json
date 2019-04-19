@@ -11,7 +11,7 @@
     "appid": "115300",
     "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Italian, Spanish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, German, Italian, Spanish - Spain<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/42696/header.jpg?t=1463442980",
   "website": "http://www.callofduty.com",
   "pc_requirements": {
@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 1399,
     "final": 1399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "13,99\u20ac"
   },
   "packages": [
     15155,
@@ -147,6 +149,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/42696/ss_473108caa255f7ed86bd8728e52897d2bc1039fe.1920x1080.jpg?t=1463442980"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Jun, 2012"
@@ -155,5 +160,9 @@
     "url": "http://www.activision.com/support",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42696/page_bg_generated_v6b.jpg?t=1463442980"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42696/page_bg_generated_v6b.jpg?t=1463442980",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

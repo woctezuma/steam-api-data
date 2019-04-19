@@ -12,8 +12,8 @@
     "appid": "358090",
     "name": "D4: Dark Dreams Don\u2019t Die -Season One-"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese, Portuguese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/384220/header.jpg?t=1447376914",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Portuguese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/384220/header.jpg?t=1553250896",
   "website": "http://d4-game.com/pc/index.html",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-bit edition or Windows 8 64-bit edition<br></li><li><strong>Processor:</strong> Intel Core 2 Quad Q9550 @ 2.83GHz or an equivalent AMD CPU<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 470 or AMD Radeon HD 6870 (VRAM 1GB)<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> A DirectX 11 compatible card<br></li><li><strong>Additional Notes:</strong> Keyboard and mouse necessary. Compatible with XInput controllers such as the Xbox 360 controller. Display: 1280x720.</li></ul>",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     72277,
@@ -119,32 +121,41 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_16ef1065c88b7194afb87275ac67d931d2fcc28f.600x338.jpg?t=1447376914",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_16ef1065c88b7194afb87275ac67d931d2fcc28f.1920x1080.jpg?t=1447376914"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_16ef1065c88b7194afb87275ac67d931d2fcc28f.600x338.jpg?t=1553250896",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_16ef1065c88b7194afb87275ac67d931d2fcc28f.1920x1080.jpg?t=1553250896"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_01c5603015a03430dc5d5d7c6cbb3e6fd8802305.600x338.jpg?t=1447376914",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_01c5603015a03430dc5d5d7c6cbb3e6fd8802305.1920x1080.jpg?t=1447376914"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_01c5603015a03430dc5d5d7c6cbb3e6fd8802305.600x338.jpg?t=1553250896",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_01c5603015a03430dc5d5d7c6cbb3e6fd8802305.1920x1080.jpg?t=1553250896"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_52e9204c7f98f3b0dcdf7050f399bbd277613622.600x338.jpg?t=1447376914",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_52e9204c7f98f3b0dcdf7050f399bbd277613622.1920x1080.jpg?t=1447376914"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_52e9204c7f98f3b0dcdf7050f399bbd277613622.600x338.jpg?t=1553250896",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_52e9204c7f98f3b0dcdf7050f399bbd277613622.1920x1080.jpg?t=1553250896"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_f0aa318ccc5bafd361239dbc5b414af891a5d1c9.600x338.jpg?t=1447376914",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_f0aa318ccc5bafd361239dbc5b414af891a5d1c9.1920x1080.jpg?t=1447376914"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_f0aa318ccc5bafd361239dbc5b414af891a5d1c9.600x338.jpg?t=1553250896",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/384220/ss_f0aa318ccc5bafd361239dbc5b414af891a5d1c9.1920x1080.jpg?t=1553250896"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jul, 2015"
   },
   "support_info": {
-    "url": "http://playism-games.com/",
-    "email": "support@cs.playism.jp"
+    "url": "",
+    "email": "support@playism.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384220/page_bg_generated_v6b.jpg?t=1447376914"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384220/page_bg_generated_v6b.jpg?t=1553250896",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

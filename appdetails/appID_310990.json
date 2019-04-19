@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     46685
@@ -168,5 +170,9 @@
     "url": "http://smallgreenhill.com/maninamaze/",
     "email": "support@smallgreenhill.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/310990/page_bg_generated_v6b.jpg?t=1447362479"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/310990/page_bg_generated_v6b.jpg?t=1447362479",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

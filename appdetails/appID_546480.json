@@ -15,13 +15,13 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/546480/header.jpg?t=1477059986",
   "website": "http://atomicbutcher.info/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 160 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 160 MB d'espace disque disponible</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 160 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 160 MB d'espace disque disponible</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 160 MB available space</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Espace disque\u00a0:</strong> 160 MB d'espace disque disponible</li></ul>"
   },
   "developers": [
     "Das Humankapital"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     134841
@@ -109,5 +111,9 @@
     "url": "",
     "email": "support@dashumankapital.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/546480/page_bg_generated_v6b.jpg?t=1477059986"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/546480/page_bg_generated_v6b.jpg?t=1477059986",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

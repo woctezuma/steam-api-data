@@ -7,13 +7,13 @@
   "controller_support": "full",
   "detailed_description": "Spread terror among hordes of night zombies! Don your fluorescent outfit, equip special weapons, and get behind the wheel of the Volatile Hunter. Prove you were born in the dark, molded by it. The Volatile Hunter Bundle includes: a new buggy paint job, a new character outfit, blueprints for a new sword, baton, maul, and knife. Note: This content requires Dying Light: The Following expansion pack.<br />\r\n<br />\r\nDying Light is a first-person, action survival game set in a vast open world. Roam a city devastated by a mysterious epidemic, scavenging for supplies and crafting weapons to help defeat the hordes of flesh-hungry enemies the plague has created. At night, beware the Infected as they grow in strength and even more lethal nocturnal predators leave their nests to feed on their prey.",
   "about_the_game": "Spread terror among hordes of night zombies! Don your fluorescent outfit, equip special weapons, and get behind the wheel of the Volatile Hunter. Prove you were born in the dark, molded by it. The Volatile Hunter Bundle includes: a new buggy paint job, a new character outfit, blueprints for a new sword, baton, maul, and knife. Note: This content requires Dying Light: The Following expansion pack.<br />\r\n<br />\r\nDying Light is a first-person, action survival game set in a vast open world. Roam a city devastated by a mysterious epidemic, scavenging for supplies and crafting weapons to help defeat the hordes of flesh-hungry enemies the plague has created. At night, beware the Infected as they grow in strength and even more lethal nocturnal predators leave their nests to feed on their prey.",
-  "short_description": "Spread terror among hordes of night zombies! Don your fluorescent outfit, equip special weapons, and get behind the wheel of the Volatile Hunter. Prove you were born in the dark, molded by it. The Volatile Hunter Bundle includes: a new buggy paint job, a new character outfit, blueprints for a new sword, baton, maul, and knife. Note: This content requires Dying Light: The Following expansion pack.",
+  "short_description": "Spread terror among hordes of night zombies! Don your fluorescent outfit, equip special weapons, and get behind the wheel of the Volatile Hunter. Prove you were born in the dark, molded by it. The Volatile Hunter Bundle includes: a new buggy paint job, a new character outfit, blueprints for a new sword, baton, maul, and knife.",
   "fullgame": {
     "appid": "239140",
     "name": "Dying Light"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Dutch, Polish<strong>*</strong>, Portuguese-Brazil<strong>*</strong>, Russian, Japanese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/436082/header.jpg?t=1506342107",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Dutch, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian, Japanese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/436082/header.jpg?t=1528895876",
   "website": "http://www.dyinglightgame.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
@@ -32,13 +32,15 @@
     "Techland"
   ],
   "publishers": [
-    ""
+    "Techland Publishing"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "final": 200,
+    "discount_percent": 33,
+    "initial_formatted": "2,99\u20ac",
+    "final_formatted": "2,--\u20ac"
   },
   "packages": [
     91216
@@ -55,13 +57,13 @@
       "subs": [
         {
           "packageid": 91216,
-          "percent_savings_text": "",
+          "percent_savings_text": "-33%",
           "percent_savings": 0,
-          "option_text": "Dying Light- Volatile Hunter Bundle - 2,99\u20ac",
+          "option_text": "Dying Light- Volatile Hunter Bundle - <span class=\"discount_original_price\">2,99\u20ac</span> 2,--\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 200
         }
       ]
     }
@@ -126,8 +128,8 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/436082/ss_f38a765c4a810f19559b76fb951d9a718395fbdb.600x338.jpg?t=1506342107",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/436082/ss_f38a765c4a810f19559b76fb951d9a718395fbdb.1920x1080.jpg?t=1506342107"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/436082/ss_f38a765c4a810f19559b76fb951d9a718395fbdb.600x338.jpg?t=1528895876",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/436082/ss_f38a765c4a810f19559b76fb951d9a718395fbdb.1920x1080.jpg?t=1528895876"
     }
   ],
   "movies": [
@@ -143,7 +145,10 @@
     }
   ],
   "recommendations": {
-    "total": 104
+    "total": 143
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -153,5 +158,9 @@
     "url": "http://support.techland.pl/",
     "email": "support@techland.pl"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/436082/page_bg_generated_v6b.jpg?t=1506342107"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/436082/page_bg_generated_v6b.jpg?t=1528895876",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

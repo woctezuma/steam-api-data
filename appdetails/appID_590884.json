@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     153269
@@ -101,5 +103,9 @@
     "url": "",
     "email": "olivier.leclair93@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/590884/page_bg_generated_v6b.jpg?t=1486593269"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/590884/page_bg_generated_v6b.jpg?t=1486593269",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

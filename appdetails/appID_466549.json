@@ -12,7 +12,7 @@
     "appid": "438640",
     "name": "LEGO\u00ae STAR WARS\u2122: The Force Awakens"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Danish, Dutch, Polish, Portuguese-Brazil<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Danish, Dutch, Polish, Portuguese - Brazil<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/466549/header.jpg?t=1477488271",
   "website": "http://videogames.lego.com/en-us/lsw-the-force-awakens",
   "pc_requirements": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     102558
@@ -110,6 +112,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/466549/ss_1b48526f9f33ac27cc608fe900a082d11fff1287.1920x1080.jpg?t=1477488271"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Sep, 2016"
@@ -118,5 +123,9 @@
     "url": "http://support.wbgames.com",
     "email": "support@wbgames.com or Wbgames.intsupport@warnerbros.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466549/page_bg_generated_v6b.jpg?t=1477488271"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/466549/page_bg_generated_v6b.jpg?t=1477488271",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

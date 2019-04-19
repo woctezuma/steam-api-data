@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 330,
     "final": 330,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,30\u20ac"
   },
   "packages": [
     225974
@@ -121,5 +123,9 @@
     "url": "http://vulturestrike.com/contact/",
     "email": "contact@vulturestrike.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/764350/page_bg_generated_v6b.jpg?t=1513716966"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/764350/page_bg_generated_v6b.jpg?t=1513716966",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

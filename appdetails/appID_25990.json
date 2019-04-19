@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>The High Definition edition of Majesty Gold contains main game, the Northern Expansion Pack as well as 2 new quests and several other graphics and gameplay updates.\nMajesty is a Real-time strategy game with indirect control \u2013 your heroes have a will of their own! Your rule is not absolute, as you face subjects that are independent, stubborn -  and greedy. They will need a great deal of persuasion (ok, gold) before they carry out your wishes...</p>\n<h2>Key features:</h2>\n<ul>\n<li>Two additional quests, The Wrath of Krolm and The Balance of Twilight\n<li>The game can now be set to run at all common resolutions\n<li>Compatible with Windows 7, Vista, and XP operating systems\n<li>Many other gameplay bug fixes, improvements, and refinements \n</ul>",
   "about_the_game": "<p>The High Definition edition of Majesty Gold contains main game, the Northern Expansion Pack as well as 2 new quests and several other graphics and gameplay updates.\nMajesty is a Real-time strategy game with indirect control \u2013 your heroes have a will of their own! Your rule is not absolute, as you face subjects that are independent, stubborn -  and greedy. They will need a great deal of persuasion (ok, gold) before they carry out your wishes...</p>\n<h2>Key features:</h2>\n<ul>\n<li>Two additional quests, The Wrath of Krolm and The Balance of Twilight\n<li>The game can now be set to run at all common resolutions\n<li>Compatible with Windows 7, Vista, and XP operating systems\n<li>Many other gameplay bug fixes, improvements, and refinements \n</ul>",
-  "short_description": "",
+  "short_description": "The High Definition edition of Majesty Gold contains main game, the Northern Expansion Pack as well as 2 new quests and several other graphics and gameplay updates. Majesty is a Real-time strategy game with indirect control \u2013 your heroes have a will of their own!",
   "supported_languages": "English",
   "reviews": "                    \n\t\t\t\t\t<p>An addictive game you'll keep coming back to.\n\t\t\t\t\t<br /><strong>&mdash; IGN</strong>\n\t\t\t\t\t<br />\n\t\t\t\t\t<br />Truly Excellent\n\t\t\t\t\t<br />Majesty is original, fun and challenging... it's a winning combination of real-time strategy and role-playing elements.\n\t\t\t\t\t<br /><strong>&mdash; Gamespot</strong>\n\t\t\t\t\t<br />\n\t\t\t\t\t<br />A lot of fun.\n\t\t\t\t\t<br /><strong>&mdash; PCZone</strong>\n\t\t\t\t\t</p>            \n\t\t\t\t\t",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/25990/header.jpg?t=1447352469",
@@ -28,11 +28,12 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
-    2068,
-    79567
+    2068
   ],
   "package_groups": [
     {
@@ -53,16 +54,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 999
-        },
-        {
-          "packageid": 79567,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "World of Ardania Bundle - 89,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 8999
         }
       ]
     }
@@ -170,7 +161,10 @@
     }
   ],
   "recommendations": {
-    "total": 305
+    "total": 297
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -180,5 +174,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25990/page_bg_generated_v6b.jpg?t=1447352469"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25990/page_bg_generated_v6b.jpg?t=1447352469",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

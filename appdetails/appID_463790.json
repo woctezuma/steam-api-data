@@ -11,7 +11,7 @@
     "appid": "235540",
     "name": "Warhammer: End Times - Vermintide"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Spanish, Russian, Italian, Polish, Portuguese-Brazil<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Russian, Italian, Polish, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/463790/header.jpg?t=1499879162",
   "website": "http://www.vermintide.com",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     101534
@@ -140,6 +142,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Jul, 2017"
@@ -148,5 +153,9 @@
     "url": "http://helpdesk.fatshark.se/helpdesk/",
     "email": "support@fatshark.jitbit.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/463790/page_bg_generated_v6b.jpg?t=1499879162"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/463790/page_bg_generated_v6b.jpg?t=1499879162",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

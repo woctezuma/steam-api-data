@@ -12,7 +12,7 @@
     "appid": "543460",
     "name": "Dead Rising 4"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Japanese<strong>*</strong>, Korean, Polish, Portuguese-Brazil<strong>*</strong>, Russian, Simplified Chinese, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean, Polish, Portuguese - Brazil<strong>*</strong>, Russian, Simplified Chinese, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/592700/header.jpg?t=1494011128",
   "website": "http://deadrising.com/",
   "pc_requirements": {
@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 999,
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     154333
@@ -51,11 +53,11 @@
           "packageid": 154333,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Dead Rising 4 - Season Pass - 14,99\u20ac",
+          "option_text": "Dead Rising 4 - Season Pass - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -112,6 +114,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/592700/ss_a760bb3c04f2f8aa9ee82c199c72d8fa6f7985e3.1920x1080.jpg?t=1494011128"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Mar, 2017"
@@ -120,5 +125,9 @@
     "url": "http://www.capcom-unity.com/dead_rising/go/forum/view/7491/253071/dead-rising-4",
     "email": "support@capcom.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/592700/page_bg_generated_v6b.jpg?t=1494011128"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/592700/page_bg_generated_v6b.jpg?t=1494011128",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

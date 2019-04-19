@@ -12,7 +12,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/431560/header.jpg?t=1495590501",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP and newer<br></li><li><strong>Processor:</strong> 2.0+ GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Integrated Graphics<br></li><li><strong>Storage:</strong> 50 MB available space<br></li><li><strong>Sound Card:</strong> Integrated Audio</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Windows XP and newer<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> 2.0+ GHz<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 512 MB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> Integrated Graphics<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 50 MB<br></li><li><strong>\u0417\u0432\u0443\u043a\u043e\u0432\u0430\u044f \u043a\u0430\u0440\u0442\u0430:</strong> Integrated Audio</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     89667
@@ -127,24 +129,9 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 382
-  },
   "achievements": {
-    "total": 16,
+    "total": 11,
     "highlighted": [
-      {
-        "name": "What a nice hole",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/431560/522d7d07de67ec8fd2c457275bf526dee5ea71fd.jpg"
-      },
-      {
-        "name": "Its to hot",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/431560/622ac9ea3d3b45d50f7fdd0f8efdf8c2f905ea90.jpg"
-      },
-      {
-        "name": "Faugh! Disgusting ...",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/431560/6d74edc673025d75e48d6d26695dde71aed8f940.jpg"
-      },
       {
         "name": "Never surrender",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/431560/8cfa4990c3fa46e19cb2a83fcb4c92db39ee8ea0.jpg"
@@ -152,10 +139,6 @@
       {
         "name": "A thousand and one pain",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/431560/f6bf470df17c2e28cd8936638d1fd21c0741466d.jpg"
-      },
-      {
-        "name": "It really is possible?",
-        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/431560/d3e3761b8434e98b4d334c470a34d4e7204a7cb4.jpg"
       },
       {
         "name": "Welcome to the hell",
@@ -172,6 +155,22 @@
       {
         "name": "Hot guy",
         "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/431560/f5e29c7106dfda7bc54682b31dad89f7a0fc073f.jpg"
+      },
+      {
+        "name": "Cool Hardy",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/431560/bfe1af8b8afe6e13f12c2fa9025e23ed6d705978.jpg"
+      },
+      {
+        "name": "Expendable",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/431560/5f7fb352497378628a94bc07c80044fa47d06bf7.jpg"
+      },
+      {
+        "name": "Yellow after life",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/431560/bbaf89d4dff51584009a1876f8b7dc67cd4a0989.jpg"
+      },
+      {
+        "name": "He is black and glows ",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/431560/6dcd6e4c3f58dfc364f301ed7d1a315f0497184c.jpg"
       }
     ]
   },
@@ -183,5 +182,9 @@
     "url": "",
     "email": "xdgonx@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/431560/page_bg_generated_v6b.jpg?t=1495590501"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/431560/page_bg_generated_v6b.jpg?t=1495590501",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

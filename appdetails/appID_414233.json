@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "initial": 699,
+    "final": 699,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     83122
@@ -52,11 +54,11 @@
           "packageid": 83122,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Tabletopia - Champions of Midgard: The Dark Mountains - 7,99\u20ac",
+          "option_text": "Tabletopia - Champions of Midgard: The Dark Mountains - 6,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 699
         }
       ]
     }
@@ -165,5 +167,9 @@
     "url": "https://tabletopia.com/games/champions-of-midgard-the-dark-mountains",
     "email": "support@tabletopia.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/414233/page_bg_generated_v6b.jpg?t=1503539385"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/414233/page_bg_generated_v6b.jpg?t=1503539385",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

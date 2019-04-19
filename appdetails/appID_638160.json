@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     176512
@@ -66,7 +68,7 @@
   },
   "metacritic": {
     "score": 64,
-    "url": "http://www.metacritic.com/game/pc/moero-chronicle?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/moero-chronicle?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -145,7 +147,7 @@
     }
   ],
   "recommendations": {
-    "total": 262
+    "total": 344
   },
   "achievements": {
     "total": 42,
@@ -200,5 +202,9 @@
     "url": "http://www.ideafintl.com/pcsupport.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/638160/page_bg_generated_v6b.jpg?t=1505945318"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/638160/page_bg_generated_v6b.jpg?t=1505945318",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

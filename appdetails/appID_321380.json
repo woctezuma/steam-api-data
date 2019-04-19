@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     50273
@@ -144,5 +146,9 @@
     "url": "http://reewgames.com",
     "email": "support@reew.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/321380/page_bg_generated_v6b.jpg?t=1472592902"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/321380/page_bg_generated_v6b.jpg?t=1472592902",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

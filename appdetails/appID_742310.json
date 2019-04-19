@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Waste Walkers</strong><br><br>The Survivor Pack DLC lets you start off with some useful extra items to help you in your journey!<br><strong>Survivor Pack DLC: </strong><br><ul class=\"bb_ul\"><li>1x Hatchet (weapon)<br></li><li>1x Sawed Off Double Barrel Shotgun (weapon)<br></li><li>10x 12 Gauge Buckshot (ammunition)<br></li><li>1x Molotov Cocktail (grenade)<br></li><li>1x Leather Jacket (armor)<br></li><li>10x Tabs (money)<br></li><li>3x Water Bottle (drink)<br></li><li>1x MRE (food)<br></li><li>2x Bandages (medical item)<br></li><li>1x Medicated Bandage (medical item)<br></li><li>1x Anti-Radiation Tablet (medical item)</li></ul><br><strong>PLEASE NOTE: STARTING A NEW GAME WILL BE REQUIRED TO ACCESS THE ITEMS. THEY ARE GRANTED IMMEDIATELY AFTER CHARACTER CREATION!</strong>",
   "about_the_game": "<strong>Waste Walkers</strong><br><br>The Survivor Pack DLC lets you start off with some useful extra items to help you in your journey!<br><strong>Survivor Pack DLC: </strong><br><ul class=\"bb_ul\"><li>1x Hatchet (weapon)<br></li><li>1x Sawed Off Double Barrel Shotgun (weapon)<br></li><li>10x 12 Gauge Buckshot (ammunition)<br></li><li>1x Molotov Cocktail (grenade)<br></li><li>1x Leather Jacket (armor)<br></li><li>10x Tabs (money)<br></li><li>3x Water Bottle (drink)<br></li><li>1x MRE (food)<br></li><li>2x Bandages (medical item)<br></li><li>1x Medicated Bandage (medical item)<br></li><li>1x Anti-Radiation Tablet (medical item)</li></ul><br><strong>PLEASE NOTE: STARTING A NEW GAME WILL BE REQUIRED TO ACCESS THE ITEMS. THEY ARE GRANTED IMMEDIATELY AFTER CHARACTER CREATION!</strong>",
-  "short_description": "Waste Walkers Survivor Pack DLC:<br />\nThe Survivor Pack DLC lets you start off with some useful extra items to help you in your journey!",
+  "short_description": "Waste Walkers Survivor Pack DLC: The Survivor Pack DLC lets you start off with some useful extra items to help you in your journey!",
   "fullgame": {
     "appid": "371100",
     "name": "Waste Walkers"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     217486
@@ -128,5 +130,9 @@
     "url": "http://steamcommunity.com/app/371100/discussions/6/",
     "email": "crsvstudiosspprt@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/742310/page_bg_generated_v6b.jpg?t=1520893541"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/742310/page_bg_generated_v6b.jpg?t=1520893541",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

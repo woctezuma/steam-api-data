@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "mdiapp+ SE is a paint tool for creating cartoon.<br><br>It is equipped with the following convenient functions for creating a cartoon, such as:<br><ul class=\"bb_ul\"><li>1bit/8bit layer that requires a small memory consumption (the standard color layers are also available)<br></li><li>32bit and 64bit versions available (64bit version enables a faster performance)<br></li><li>Project management window that enables to organize the cartoon pages<br></li><li>Supporting multi thread (for the brush/blending mode processing)<br></li><li>Script Brush that enables programming (Lua)<br></li><li>3D Perspective tool for drawing sterically<br></li><li>Pen Pressure input from a pen tablet (Wintab/TabletPC)<br></li><li>Free Transform/Mesh Transform on layer<br></li><li>Common MDP format with FireAlpaca/MediBang Paint<br></li><li>Concentration Lines Filter</li></ul>",
   "about_the_game": "mdiapp+ SE is a paint tool for creating cartoon.<br><br>It is equipped with the following convenient functions for creating a cartoon, such as:<br><ul class=\"bb_ul\"><li>1bit/8bit layer that requires a small memory consumption (the standard color layers are also available)<br></li><li>32bit and 64bit versions available (64bit version enables a faster performance)<br></li><li>Project management window that enables to organize the cartoon pages<br></li><li>Supporting multi thread (for the brush/blending mode processing)<br></li><li>Script Brush that enables programming (Lua)<br></li><li>3D Perspective tool for drawing sterically<br></li><li>Pen Pressure input from a pen tablet (Wintab/TabletPC)<br></li><li>Free Transform/Mesh Transform on layer<br></li><li>Common MDP format with FireAlpaca/MediBang Paint<br></li><li>Concentration Lines Filter</li></ul>",
-  "short_description": "mdiapp+ SE is a paint tool for creating cartoon.<br><br>It is equipped with the following convenient functions for creating a cartoon, such as:<br><ul class=\"bb_ul\"><li>1bit/8bit layer that requires a small memory consumption (the standard color layers are also available)<br></li><li>Project management window that enables to organize the cartoon pages<br></li><li>3D Perspective tool for drawing sterically<br></li><li>Pen Pressure input from a pen tablet (Wintab/TabletPC)<br></li><li>Concentration Lines Filter</li></ul>",
+  "short_description": "mdiapp+ SE is a paint tool for creating cartoon.It is equipped with the following convenient functions for creating a cartoon, such as:1bit/8bit layer that requires a small memory consumption (the standard color layers are also available)Project management window that enables to organize the cartoon pages3D Perspective tool for drawing...",
   "supported_languages": "English, Japanese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/403030/header.jpg?t=1508296632",
   "website": "http://nattou.org/mdiapp/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Later<br></li><li><strong>Processor:</strong> Pentium 4<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+    "minimum": "<strong>M\u00ednimos:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 7 or Later<br></li><li><strong>Processador:</strong> Pentium 4<br></li><li><strong>Mem\u00f3ria:</strong> 2 GB de RAM<br></li><li><strong>Armazenamento:</strong> 100 MB de espa\u00e7o dispon\u00edvel</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 5000,
     "final": 5000,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "50,--\u20ac"
   },
   "packages": [
     78770
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Oct, 2017"
@@ -127,5 +132,9 @@
     "url": "http://d.hatena.ne.jp/MDIAPP/",
     "email": "mdiapp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403030/page_bg_generated_v6b.jpg?t=1508296632"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403030/page_bg_generated_v6b.jpg?t=1508296632",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

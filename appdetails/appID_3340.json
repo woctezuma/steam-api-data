@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     132
@@ -103,6 +105,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/3340/0000000544.1920x1080.jpg?t=1447350878"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Aug, 2006"
@@ -111,5 +116,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/3340/page_bg_generated_v6b.jpg?t=1447350878"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/3340/page_bg_generated_v6b.jpg?t=1447350878",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     237269
@@ -180,5 +182,9 @@
     "url": "",
     "email": "devirbynx@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/785870/page_bg_generated_v6b.jpg?t=1518803646"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/785870/page_bg_generated_v6b.jpg?t=1518803646",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

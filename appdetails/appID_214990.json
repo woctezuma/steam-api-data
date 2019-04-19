@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Enhance your Hearts of Iron III experience with the Italian Vehicle Pack. This pack contains 16 new vehicles for the Italian Army, Navy and Air Force. Included in this vehicle pack are iconic Italian tanks such as the Fiat-Ansaldo L6/40, the Macchi C.200 Saetta fighter and the CANT Z.1007 Alcione medium bomber. This unit pack also contains several naval units, including the Littorio class of fast battleships, the renowned Zara class heavy cruisers and the Navigatori class destroyers.",
   "about_the_game": "Enhance your Hearts of Iron III experience with the Italian Vehicle Pack. This pack contains 16 new vehicles for the Italian Army, Navy and Air Force. Included in this vehicle pack are iconic Italian tanks such as the Fiat-Ansaldo L6/40, the Macchi C.200 Saetta fighter and the CANT Z.1007 Alcione medium bomber. This unit pack also contains several naval units, including the Littorio class of fast battleships, the renowned Zara class heavy cruisers and the Navigatori class destroyers.",
-  "short_description": "",
+  "short_description": "Enhance your Hearts of Iron III experience with the Italian Vehicle Pack. This pack contains 16 new vehicles for the Italian Army, Navy and Air Force. Included in this vehicle pack are iconic Italian tanks such as the Fiat-Ansaldo L6/40, the Macchi C.200 Saetta fighter and the CANT Z.1007 Alcione medium bomber.",
   "fullgame": {
     "appid": "25890",
     "name": "Hearts of Iron III"
@@ -30,11 +30,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    29425,
-    37223
+    29425
   ],
   "package_groups": [
     {
@@ -55,16 +56,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 199
-        },
-        {
-          "packageid": 37223,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron Collection III (Jan 2014) - 41,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4199
         }
       ]
     }
@@ -155,6 +146,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/214990/ss_50ddd31eee605f471a7df4f4d451d0fd1fc7c846.1920x1080.jpg?t=1447358119"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Jul, 2013"
@@ -163,5 +157,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214990/page_bg_generated_v6b.jpg?t=1447358119"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214990/page_bg_generated_v6b.jpg?t=1447358119",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

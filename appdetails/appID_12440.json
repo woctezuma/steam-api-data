@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>This time he will not fail. This time Osiris will show the world of humans what he's made of. But the ankh alone is not enough - not as long as he hasn't found the most important part of his body: his heart.</p>\n\t\t\t\t\t<p>Life has not been kind to Assil. Only three weeks ago he managed to ward off his death curse. Since then a relationship (with Thara) has hit the rocks and the Ankh was stolen from him (by sinister assassins). Assil sets out to get it all back.</p>\n\t\t\t\t\t<p>He is not the only victim, however - there is another: the pharaoh! One moment he sits on his throne, lazy, sluggish and with a heck of a hangover, the next he is a slave in his own quarry - how could this have happened? And more importantly: how is he going to get out of this without getting killed?</p>\n\t\t\t\t\t<p>Ankh: Heart Of Osiris is even more intense and more bizarre as it takes the player even deeper into the lazy world of old Cairo. You'll meet a lot of familiar faces, but there are plenty of new surprises and the same black humor found in the first Ankh.</p>",
   "about_the_game": "<p>This time he will not fail. This time Osiris will show the world of humans what he's made of. But the ankh alone is not enough - not as long as he hasn't found the most important part of his body: his heart.</p>\n\t\t\t\t\t<p>Life has not been kind to Assil. Only three weeks ago he managed to ward off his death curse. Since then a relationship (with Thara) has hit the rocks and the Ankh was stolen from him (by sinister assassins). Assil sets out to get it all back.</p>\n\t\t\t\t\t<p>He is not the only victim, however - there is another: the pharaoh! One moment he sits on his throne, lazy, sluggish and with a heck of a hangover, the next he is a slave in his own quarry - how could this have happened? And more importantly: how is he going to get out of this without getting killed?</p>\n\t\t\t\t\t<p>Ankh: Heart Of Osiris is even more intense and more bizarre as it takes the player even deeper into the lazy world of old Cairo. You'll meet a lot of familiar faces, but there are plenty of new surprises and the same black humor found in the first Ankh.</p>",
-  "short_description": "",
+  "short_description": "This time he will not fail. This time Osiris will show the world of humans what he's made of. But the ankh alone is not enough - not as long as he hasn't found the most important part of his body: his heart. Life has not been kind to Assil. Only three weeks ago he managed to ward off his death curse.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/12440/header.jpg?t=1447352265",
   "website": "http://www.ankh-game.com/",
@@ -25,8 +25,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 99,
+    "discount_percent": 80,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     1689,
@@ -44,13 +46,13 @@
       "subs": [
         {
           "packageid": 1689,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "Ankh 2: Heart of Osiris  - 4,99\u20ac",
+          "option_text": "Ankh 2: Heart of Osiris  - <span class=\"discount_original_price\">4,99\u20ac</span> 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 99
         },
         {
           "packageid": 1691,
@@ -134,6 +136,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/12440/0000009101.1920x1080.jpg?t=1447352265"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Jun, 2009"
@@ -142,5 +147,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/12440/page_bg_generated_v6b.jpg?t=1447352265"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/12440/page_bg_generated_v6b.jpg?t=1447352265",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     164157
@@ -112,6 +114,51 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 39,
+    "highlighted": [
+      {
+        "name": "Aim True",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/613120/180766217e3c340588a96a65e5e9890ba2ba5b5e.jpg"
+      },
+      {
+        "name": "Steady under fire",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/613120/ebc9f3fec149e615059ae2bbf050c7de5db1140e.jpg"
+      },
+      {
+        "name": "Tiger Destroyer",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/613120/2f56c240c923fc34835d5c77292e156e12a9d617.jpg"
+      },
+      {
+        "name": "Nerves of steel",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/613120/5a9c7443167440329ffa111444f5c32875bc1520.jpg"
+      },
+      {
+        "name": "Take them down",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/613120/b74e441e0b50b41529ebb2768925825d213da86a.jpg"
+      },
+      {
+        "name": "Panzer Destroyer",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/613120/11745ec899bc193b4a32e5f057da3478d69f6398.jpg"
+      },
+      {
+        "name": "Cool Head",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/613120/71def8517deec8d13f3788c30c5704021e91c383.jpg"
+      },
+      {
+        "name": "Hold your ground",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/613120/6d212b8669723eca6a4a7e3538a5f97c822e7a17.jpg"
+      },
+      {
+        "name": "T34 Destroyer",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/613120/2a2503d34b47e4bde952b7547ec549d2b5346798.jpg"
+      },
+      {
+        "name": "Hold your ground",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/613120/7a048aaa3fb15786a745e43057e7589d82656a8f.jpg"
+      }
+    ]
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Mar, 2017"
@@ -120,5 +167,9 @@
     "url": "",
     "email": "support@hexwar.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/613120/page_bg_generated_v6b.jpg?t=1491398248"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/613120/page_bg_generated_v6b.jpg?t=1491398248",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

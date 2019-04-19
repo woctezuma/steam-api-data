@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     117841
@@ -115,6 +117,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Aug, 2016"
@@ -123,5 +128,9 @@
     "url": "http://spacewedgiegames.com/",
     "email": "spacewedgiellc@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/509230/page_bg_generated_v6b.jpg?t=1471066564"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/509230/page_bg_generated_v6b.jpg?t=1471066564",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Includes the costume item 'Golden Saki Pigtails.'",
   "about_the_game": "Includes the costume item 'Golden Saki Pigtails.'",
-  "short_description": "Includes the costume item 'Golden Saki Pigtails.'",
+  "short_description": "Includes the costume item 'Golden Saki Pigtails.",
   "fullgame": {
     "appid": "446390",
     "name": "Onechanbara Z2: Chaos"
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     102720
@@ -104,6 +106,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/467031/ss_15c2ad14007079f1fdf8609c2b83f4f48a761d45.1920x1080.jpg?t=1464919729"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Jun, 2016"
@@ -112,5 +117,9 @@
     "url": "",
     "email": "steam_support@d3p.co.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467031/page_bg_generated_v6b.jpg?t=1464919729"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/467031/page_bg_generated_v6b.jpg?t=1464919729",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

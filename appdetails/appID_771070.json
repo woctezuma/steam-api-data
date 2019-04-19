@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 1099,
     "final": 1099,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,99\u20ac"
   },
   "packages": [
     230289
@@ -133,6 +135,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Jan, 2018"
@@ -141,5 +146,9 @@
     "url": "http://picorinnesoft.web.fc2.com",
     "email": "picorinnesoft@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771070/page_bg_generated_v6b.jpg?t=1516406484"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/771070/page_bg_generated_v6b.jpg?t=1516406484",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

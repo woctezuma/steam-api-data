@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     130852
@@ -154,6 +156,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Oct, 2016"
@@ -162,5 +167,9 @@
     "url": "",
     "email": "gregkoos@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/536680/page_bg_generated_v6b.jpg?t=1478775318"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/536680/page_bg_generated_v6b.jpg?t=1478775318",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

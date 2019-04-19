@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>The Interwar Artillery sprite pack adds unique uniforms for armies using artillery divisions in the interwar period between WWI and WWII.</p>\n\t\t\t\t\t\t<p>From 1919 and forward, twelve countries are able to receive new, unique and historically accurate uniforms. Besides adding to the visual appeal of your armies, it will also help you identify which of your armies have the important artillery units very quickly.</p>\n\t\t\t\t\t\t<p>The set includes 12 artillery uniforms. Austrian, British, Chinese, French, German, Italian, Japanese, Russian, Spanish, Swedish, Turkish, and US armies receive new artillery uniforms.</p>",
   "about_the_game": "<p>The Interwar Artillery sprite pack adds unique uniforms for armies using artillery divisions in the interwar period between WWI and WWII.</p>\n\t\t\t\t\t\t<p>From 1919 and forward, twelve countries are able to receive new, unique and historically accurate uniforms. Besides adding to the visual appeal of your armies, it will also help you identify which of your armies have the important artillery units very quickly.</p>\n\t\t\t\t\t\t<p>The set includes 12 artillery uniforms. Austrian, British, Chinese, French, German, Italian, Japanese, Russian, Spanish, Swedish, Turkish, and US armies receive new artillery uniforms.</p>",
-  "short_description": "",
+  "short_description": "The Interwar Artillery sprite pack adds unique uniforms for armies using artillery divisions in the interwar period between WWI and WWII. From 1919 and forward, twelve countries are able to receive new, unique and historically accurate uniforms.",
   "fullgame": {
     "appid": "42960",
     "name": "Victoria II"
@@ -29,11 +29,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    7581,
-    29111
+    7581
   ],
   "package_groups": [
     {
@@ -54,16 +55,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 199
-        },
-        {
-          "packageid": 29111,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Victoria II DLC Collection - 24,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2499
         }
       ]
     }
@@ -110,6 +101,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/42965/ss_60bed8254005ca2e416d57b60ce2afcb710061c6.1920x1080.jpg?t=1447354049"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Mar, 2011"
@@ -118,5 +112,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42965/page_bg_generated_v6b.jpg?t=1447354049"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42965/page_bg_generated_v6b.jpg?t=1447354049",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

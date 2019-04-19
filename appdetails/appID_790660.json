@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
+    "initial": 329,
     "final": 39,
-    "discount_percent": 80
+    "discount_percent": 88,
+    "initial_formatted": "3,29\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     239255
@@ -43,9 +45,9 @@
       "subs": [
         {
           "packageid": 239255,
-          "percent_savings_text": "-80%",
+          "percent_savings_text": "-88%",
           "percent_savings": 0,
-          "option_text": "Cunning Fox - <span class=\"discount_original_price\">1,99\u20ac</span> 0,39\u20ac",
+          "option_text": "Cunning Fox - <span class=\"discount_original_price\">3,29\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -110,6 +112,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/790660/ss_2ff794cc9cc0ce8c6a0e22ac9fa86279cf7b9ded.1920x1080.jpg?t=1517575680"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Feb, 2018"
@@ -118,5 +123,9 @@
     "url": "",
     "email": "noreason76@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/790660/page_bg_generated_v6b.jpg?t=1517575680"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/790660/page_bg_generated_v6b.jpg?t=1517575680",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

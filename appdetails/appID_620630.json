@@ -26,12 +26,14 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 999,
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
-    "166709"
+    166709
   ],
   "package_groups": [
     {
@@ -44,14 +46,14 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "166709",
+          "packageid": 166709,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Civil War: 1865 - 2,99\u20ac",
+          "option_text": "Civil War: 1865 - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -112,6 +114,51 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 18,
+    "highlighted": [
+      {
+        "name": "Aim True",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620630/3c5024c513df893e8be511ed163c681369316709.jpg"
+      },
+      {
+        "name": "Steady under fire",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620630/ae0c158bcaad9aa3bd37cb8c219121f068a68547.jpg"
+      },
+      {
+        "name": "Nerves of steel",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620630/1c7822d29b00446e57eac3d8456c8a208ba876ed.jpg"
+      },
+      {
+        "name": "Cool Head",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620630/2857d1a7f0f4a029414cb4d9261f6fcd40e44d8e.jpg"
+      },
+      {
+        "name": "Cool under fire",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620630/d549a227f5d89b455138b4d3c0d6e3b6684ededa.jpg"
+      },
+      {
+        "name": "Hold your ground",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620630/e415becf6dcc16ca5bcfaaa3790360c0bf6100bc.jpg"
+      },
+      {
+        "name": "On a roll",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620630/12cebac3090a0e682e4eeea8e44d5a83382f3e52.jpg"
+      },
+      {
+        "name": "Courage under fire",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620630/96efed1f518f2a9a54583d75b7d248625e20fd3d.jpg"
+      },
+      {
+        "name": "True Grit",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620630/2ad1c3bbe5935107331d9e2a330915a8452e8f23.jpg"
+      },
+      {
+        "name": "Hard at it",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/620630/b447dbeedde5ff26449c24abd93425adac6fb57f.jpg"
+      }
+    ]
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Apr, 2017"
@@ -120,5 +167,9 @@
     "url": "",
     "email": "support@hexwar.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620630/page_bg_generated_v6b.jpg?t=1491580580"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/620630/page_bg_generated_v6b.jpg?t=1491580580",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

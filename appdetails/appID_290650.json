@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "final": 559,
+    "discount_percent": 30,
+    "initial_formatted": "7,99\u20ac",
+    "final_formatted": "5,59\u20ac"
   },
   "packages": [
     40754
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 40754,
-          "percent_savings_text": "",
+          "percent_savings_text": "-30%",
           "percent_savings": 0,
-          "option_text": "Time Ramesside (A New Reckoning) - 7,99\u20ac",
+          "option_text": "Time Ramesside (A New Reckoning) - <span class=\"discount_original_price\">7,99\u20ac</span> 5,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 559
         }
       ]
     }
@@ -325,9 +327,6 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/290650/ss_9d52bbaf9ed45acc412ed286359c444efc22e9b4.1920x1080.jpg?t=1449103758"
     }
   ],
-  "recommendations": {
-    "total": 327
-  },
   "achievements": {
     "total": 0
   },
@@ -339,5 +338,9 @@
     "url": "",
     "email": "panzergamingstudios@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/290650/page_bg_generated_v6b.jpg?t=1449103758"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/290650/page_bg_generated_v6b.jpg?t=1449103758",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     235345
@@ -100,11 +102,6 @@
       "id": 4,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781270/ss_22e70947d1cfc9fe5b0d830474d51cdf33f3dfbc.600x338.jpg?t=1518112828",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781270/ss_22e70947d1cfc9fe5b0d830474d51cdf33f3dfbc.1920x1080.jpg?t=1518112828"
-    },
-    {
-      "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/781270/?t=1518112828",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/781270/?t=1518112828"
     }
   ],
   "movies": [
@@ -119,6 +116,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Feb, 2018"
@@ -127,5 +127,9 @@
     "url": "",
     "email": "info@pikointeractive.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/781270/page_bg_generated_v6b.jpg?t=1518112828"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/781270/page_bg_generated_v6b.jpg?t=1518112828",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 1099,
     "final": 1099,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,99\u20ac"
   },
   "packages": [
     47781,
@@ -225,7 +227,7 @@
     }
   ],
   "recommendations": {
-    "total": 142
+    "total": 103
   },
   "achievements": {
     "total": 18,
@@ -280,5 +282,9 @@
     "url": "http://www.kavcom.co.uk/support",
     "email": "support@kavcom.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/275510/page_bg_generated_v6b.jpg?t=1447582619"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/275510/page_bg_generated_v6b.jpg?t=1447582619",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

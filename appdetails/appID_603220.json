@@ -37,9 +37,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     159749
@@ -58,11 +60,11 @@
           "packageid": 159749,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "ROTii - 1,99\u20ac",
+          "option_text": "ROTii - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -224,5 +226,9 @@
     "url": "http://darkshotstudios.com/about-us",
     "email": "info@darkshotstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/603220/page_bg_generated_v6b.jpg?t=1516731624"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/603220/page_bg_generated_v6b.jpg?t=1516731624",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

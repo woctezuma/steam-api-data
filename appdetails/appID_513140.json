@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<h2 class=\"bb_tag\">Description</h2>OCCHIO is a fast-paced puzzle platformer about facing fears, inside a lucid dream. <br><br>Explore this massive world, conquer obstacles, fight epic bosses to discover the truth behind this strange dream.<h2 class=\"bb_tag\">Details</h2><ul class=\"bb_ul\"><li> The difficulty curve is insane, with slippery controls and tough levels, you'll be sure to scream at your TV and throw your controller!<br></li><li> This game is much better with a controller (PlayStation or Xbox)<br></li><li> There may be an issue with ultrawide screens at the moment, depends on the monitor though, please change your resolution until the bug is fixed soon! For ultrawide monitors, you will see a black border to keep the aspect ratio, so it won't be stretched. :P</li></ul><h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li> Challenging boss battles!<br></li><li> Slippery and challenging platforming action!<br></li><li> Tough puzzles to solve!<br></li><li> Vague but deep and meaningful story.<br></li><li> Amazing original soundtrack<br></li><li> SCREEN SHAKEEE</li></ul><h2 class=\"bb_tag\"> Credits </h2><ul class=\"bb_ul\"><li> Preston Cammarata (Acerio) - Programmer/Designer<br></li><li> Arthur Cosentino (X27) - Bug Fixes<br></li><li> Gabriel Hawk - Music</li></ul>",
   "about_the_game": "<h2 class=\"bb_tag\">Description</h2>OCCHIO is a fast-paced puzzle platformer about facing fears, inside a lucid dream. <br><br>Explore this massive world, conquer obstacles, fight epic bosses to discover the truth behind this strange dream.<h2 class=\"bb_tag\">Details</h2><ul class=\"bb_ul\"><li> The difficulty curve is insane, with slippery controls and tough levels, you'll be sure to scream at your TV and throw your controller!<br></li><li> This game is much better with a controller (PlayStation or Xbox)<br></li><li> There may be an issue with ultrawide screens at the moment, depends on the monitor though, please change your resolution until the bug is fixed soon! For ultrawide monitors, you will see a black border to keep the aspect ratio, so it won't be stretched. :P</li></ul><h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li> Challenging boss battles!<br></li><li> Slippery and challenging platforming action!<br></li><li> Tough puzzles to solve!<br></li><li> Vague but deep and meaningful story.<br></li><li> Amazing original soundtrack<br></li><li> SCREEN SHAKEEE</li></ul><h2 class=\"bb_tag\"> Credits </h2><ul class=\"bb_ul\"><li> Preston Cammarata (Acerio) - Programmer/Designer<br></li><li> Arthur Cosentino (X27) - Bug Fixes<br></li><li> Gabriel Hawk - Music</li></ul>",
-  "short_description": "OCCHIO is a fast-paced puzzle platformer about facing fears, inside a lucid dream.<br />\r\n<br />\r\nExplore this massive world, conquer obstacles, fight epic bosses to discover the truth behind this strange dream.",
+  "short_description": "OCCHIO is a fast-paced puzzle platformer about facing fears, inside a lucid dream. Explore this massive world, conquer obstacles, fight epic bosses to discover the truth behind this strange dream.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/513140/header.jpg?t=1490855143",
   "website": "http://cammarata.info",
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     119603
@@ -126,6 +128,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Aug, 2016"
@@ -134,5 +139,9 @@
     "url": "http://cammarata.info",
     "email": "preston@cammarata.info"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/513140/page_bg_generated_v6b.jpg?t=1490855143"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/513140/page_bg_generated_v6b.jpg?t=1490855143",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -1,62 +1,31 @@
 {
   "type": "dlc",
-  "name": "Simple Story - Alex: Beer Keg Donation for developer",
+  "name": "Find Exit (Simple Story - Alex DLC)",
   "steam_appid": 821601,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "<strong> This DLC is a donation for the developer. It won`t add or change anything in a game.</strong><br><br>I do not hope that my games will bring me stable income or change my life. I just want to bring my stories to everyone who interested.<br>I really need a large sum of money, not for beer, but for expensive surgical operations instead. I hope what this DLC help me to collect at least part of this sum. I myself probably will never collect such a sum in my life. I have no illusion, but I want to be optimistic.<br><br><br>50% money from this DLC, will go to my surgical operations.<br>50% money will go to orphanages in Latvia (I will make photo-video reports and post them on the game forum).<br><br><br>If a miracle happens and the money for the operation will be collected, then all 100% of the sales will go to charity.",
-  "about_the_game": "<strong> This DLC is a donation for the developer. It won`t add or change anything in a game.</strong><br><br>I do not hope that my games will bring me stable income or change my life. I just want to bring my stories to everyone who interested.<br>I really need a large sum of money, not for beer, but for expensive surgical operations instead. I hope what this DLC help me to collect at least part of this sum. I myself probably will never collect such a sum in my life. I have no illusion, but I want to be optimistic.<br><br><br>50% money from this DLC, will go to my surgical operations.<br>50% money will go to orphanages in Latvia (I will make photo-video reports and post them on the game forum).<br><br><br>If a miracle happens and the money for the operation will be collected, then all 100% of the sales will go to charity.",
-  "short_description": "This DLC is just a donation to the developer. It will not add or change anything to the game.",
+  "detailed_description": "<strong>This DLC contains bonus game &quot;Find Exit&quot;.<br><br>&quot;Find Exit&quot; - it is my first project. This game served as inspiration and prototype for my future work. In this game you will find not a single word, but instead it have 3 huge labyrinths in which you need to find the teleport. Your task is to help the Demon find a way out and return home to his astral world.<br>(DLC can be found in main game folder, and it needs to start manually). </strong>",
+  "about_the_game": "<strong>This DLC contains bonus game &quot;Find Exit&quot;.<br><br>&quot;Find Exit&quot; - it is my first project. This game served as inspiration and prototype for my future work. In this game you will find not a single word, but instead it have 3 huge labyrinths in which you need to find the teleport. Your task is to help the Demon find a way out and return home to his astral world.<br>(DLC can be found in main game folder, and it needs to start manually). </strong>",
+  "short_description": "This DLC contains the bonus game &quot;Find Exit&quot;.",
   "fullgame": {
     "appid": "814200",
     "name": "Simple Story - Alex"
   },
   "supported_languages": "English, Russian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/821601/header.jpg?t=1521548547",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/821601/header.jpg?t=1549577553",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows (32-bit/64-bit)<br></li><li><strong>Processor:</strong> Intel Pentium III 800 MHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound Compatible</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows (32-bit/64-bit)<br></li><li><strong>Processor:</strong> Intel Pentium III 800 MHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong> 800 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound Compatible</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
   "developers": [
-    "\u041a\u0438\u041a\u043e Donations"
+    "\u041a\u0438\u041a\u043e"
   ],
   "publishers": [
-    "\u041a\u0438\u041a\u043e Donations"
+    "\u041a\u0438\u041a\u043e"
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
-  },
-  "packages": [
-    251991
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy Simple Story - Alex: Beer Keg Donation for developer",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 251991,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Donation beer keg for developer - 4,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 499
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -85,8 +54,18 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821601/ss_80a95cb28a79a69676aaa32fe71393d7f017541c.600x338.jpg?t=1521548547",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821601/ss_80a95cb28a79a69676aaa32fe71393d7f017541c.1920x1080.jpg?t=1521548547"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821601/ss_824cb71848d609a6a0ffd5fc0dea1cda8bb1159f.600x338.jpg?t=1549577553",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821601/ss_824cb71848d609a6a0ffd5fc0dea1cda8bb1159f.1920x1080.jpg?t=1549577553"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821601/ss_a01bbda817ce693319ea85a4f76189df81d99547.600x338.jpg?t=1549577553",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821601/ss_a01bbda817ce693319ea85a4f76189df81d99547.1920x1080.jpg?t=1549577553"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/821601/ss_49d108f5935a91c902c88df8820642804b5b4e9b.600x338.jpg?t=1549577553",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/821601/ss_49d108f5935a91c902c88df8820642804b5b4e9b.1920x1080.jpg?t=1549577553"
     }
   ],
   "release_date": {
@@ -97,5 +76,9 @@
     "url": "",
     "email": "vidon@inbox.lv"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/821601/page_bg_generated_v6b.jpg?t=1521548547"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/821601/page_bg_generated_v6b.jpg?t=1549577553",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     135526
@@ -119,6 +121,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Oct, 2016"
@@ -127,5 +132,9 @@
     "url": "www.eliot.co.kr",
     "email": "kimpd@eliot.co.kr"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548360/page_bg_generated_v6b.jpg?t=1478236233"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/548360/page_bg_generated_v6b.jpg?t=1478236233",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

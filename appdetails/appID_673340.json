@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Reference book of Red Spider Series. (PDF, written in Japanese)<br />\r\nContents:<br />\r\n-All Charatcer Sheets<br />\r\n-History<br />\r\n-Map<br />\r\n-Translator's Comments<br />\r\netc<br />\r\nNumber of pages:252<br />\r\nThis PDF is also included in OST.",
   "about_the_game": "Reference book of Red Spider Series. (PDF, written in Japanese)<br />\r\nContents:<br />\r\n-All Charatcer Sheets<br />\r\n-History<br />\r\n-Map<br />\r\n-Translator's Comments<br />\r\netc<br />\r\nNumber of pages:252<br />\r\nThis PDF is also included in OST.",
-  "short_description": "Reference book of Red Spider Series. (PDF, written in Japanese) Number of pages:252<br />\r\nThis PDF is also included in OST.",
+  "short_description": "Reference book of Red Spider Series. (PDF, written in Japanese) Number of pages:252 This PDF is also included in OST.",
   "fullgame": {
     "appid": "537130",
     "name": "Red Spider: Vengeance"
@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     191667
@@ -52,11 +54,11 @@
           "packageid": 191667,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Red Spider Chronicle - 1,99\u20ac",
+          "option_text": "Red Spider Chronicle - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -117,5 +119,9 @@
     "url": "http://www.rpgdl.org/wasp/",
     "email": "wasp@rpgdl.org"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/673340/page_bg_generated_v6b.jpg?t=1499424506"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/673340/page_bg_generated_v6b.jpg?t=1499424506",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

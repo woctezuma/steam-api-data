@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1899,
     "final": 1899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "18,99\u20ac"
   },
   "packages": [
     67126
@@ -248,9 +250,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 201
-  },
   "achievements": {
     "total": 10,
     "highlighted": [
@@ -304,5 +303,9 @@
     "url": "",
     "email": "seattletek@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/369080/page_bg_generated_v6b.jpg?t=1471192116"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/369080/page_bg_generated_v6b.jpg?t=1471192116",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

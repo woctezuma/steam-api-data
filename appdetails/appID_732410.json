@@ -11,8 +11,8 @@
     "appid": "550900",
     "name": "Metin2"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Arabic, Greek, Dutch, Polish, Portuguese, Romanian, Russian, Czech, Turkish, Hungarian, Danish",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/732410/header.jpg?t=1509097506",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Greek, Dutch, Polish, Portuguese, Romanian, Russian, Czech, Turkish, Hungarian, Danish",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/732410/header.jpg?t=1553596423",
   "website": "https://metin2.gameforge.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 7, Win 8 (Runs on Windows XP and up; no support offered.)<br></li><li><strong>Processor:</strong> Pentium 3 1 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Graphics card with more than 32 MB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> Support DirectX 9.0</li></ul>",
@@ -27,38 +27,7 @@
   "publishers": [
     "Gameforge 4D GmbH"
   ],
-  "price_overview": {
-    "currency": "EUR",
-    "initial": 4999,
-    "final": 4999,
-    "discount_percent": 0
-  },
-  "packages": [
-    213715
-  ],
-  "package_groups": [
-    {
-      "name": "default",
-      "title": "Buy Metin2-Power Booster Pack",
-      "description": "",
-      "selection_text": "Select a purchase option",
-      "save_text": "",
-      "display_type": 0,
-      "is_recurring_subscription": "false",
-      "subs": [
-        {
-          "packageid": 213715,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Metin2-Power Booster Pack - 49,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4999
-        }
-      ]
-    }
-  ],
+  "package_groups": [],
   "platforms": {
     "windows": true,
     "mac": false,
@@ -115,20 +84,23 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/732410/ss_e56883176b90ed31602c990a72feae09057b7e31.600x338.jpg?t=1509097506",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/732410/ss_e56883176b90ed31602c990a72feae09057b7e31.1920x1080.jpg?t=1509097506"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/732410/ss_e56883176b90ed31602c990a72feae09057b7e31.600x338.jpg?t=1553596423",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/732410/ss_e56883176b90ed31602c990a72feae09057b7e31.1920x1080.jpg?t=1553596423"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/732410/ss_d21ac8fbc890818f3a703f331a75e72cc37ff705.600x338.jpg?t=1509097506",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/732410/ss_d21ac8fbc890818f3a703f331a75e72cc37ff705.1920x1080.jpg?t=1509097506"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/732410/ss_d21ac8fbc890818f3a703f331a75e72cc37ff705.600x338.jpg?t=1553596423",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/732410/ss_d21ac8fbc890818f3a703f331a75e72cc37ff705.1920x1080.jpg?t=1553596423"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/732410/ss_f88513bddd091c680a6b8629b0a142ee782b4904.600x338.jpg?t=1509097506",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/732410/ss_f88513bddd091c680a6b8629b0a142ee782b4904.1920x1080.jpg?t=1509097506"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/732410/ss_f88513bddd091c680a6b8629b0a142ee782b4904.600x338.jpg?t=1553596423",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/732410/ss_f88513bddd091c680a6b8629b0a142ee782b4904.1920x1080.jpg?t=1553596423"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "23 Oct, 2017"
@@ -137,5 +109,9 @@
     "url": "http://steamcommunity.com/app/550900/discussions/0/1327844097112524885/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/732410/page_bg_generated_v6b.jpg?t=1509097506"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/732410/page_bg_generated_v6b.jpg?t=1553596423",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

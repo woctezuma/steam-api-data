@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     167414
@@ -165,6 +167,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jun, 2017"
@@ -173,5 +178,9 @@
     "url": "",
     "email": "darkmattergames52@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/622230/page_bg_generated_v6b.jpg?t=1499126579"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/622230/page_bg_generated_v6b.jpg?t=1499126579",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

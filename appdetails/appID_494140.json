@@ -11,7 +11,7 @@
     "appid": "252450",
     "name": "StarDrive 2"
   },
-  "supported_languages": "English, French, German, Spanish, Russian",
+  "supported_languages": "English, French, German, Spanish - Spain, Russian",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/494140/header.jpg?t=1466624759",
   "website": "http://www.stardrivegame.com",
   "pc_requirements": {
@@ -36,8 +36,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 124,
+    "discount_percent": 75,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "1,24\u20ac"
   },
   "packages": [
     112394,
@@ -55,23 +57,23 @@
       "subs": [
         {
           "packageid": 112394,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "StarDrive 2 - Shipyards Content Pack - 4,99\u20ac",
+          "option_text": "StarDrive 2 - Shipyards Content Pack - <span class=\"discount_original_price\">4,99\u20ac</span> 1,24\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 124
         },
         {
           "packageid": 112493,
-          "percent_savings_text": "",
+          "percent_savings_text": "-80%",
           "percent_savings": 0,
-          "option_text": "StarDrive 2 Gold Pack - 41,99\u20ac",
+          "option_text": "StarDrive 2 Gold Pack - <span class=\"discount_original_price\">41,99\u20ac</span> 8,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 4199
+          "price_in_cents_with_discount": 839
         }
       ]
     }
@@ -136,6 +138,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/494140/ss_921e8223e6528af755769b06aa18a0b98d8509d7.1920x1080.jpg?t=1466624759"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "22 Jun, 2016"
@@ -144,5 +149,9 @@
     "url": "http://www.stardrivegame.com/forum",
     "email": "support@stardrivegame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494140/page_bg_generated_v6b.jpg?t=1466624759"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494140/page_bg_generated_v6b.jpg?t=1466624759",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

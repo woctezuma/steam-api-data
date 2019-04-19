@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This DLC contains original soundtrack + some art. <br />\r\n<br />\r\nThe Soundtrack contains 15 tracks in MP3 and FLAC formats. The lossless soundtrack is Steam exclusive! Art contains images of each in-game character in HD, some backgrounds and fun scenes.",
   "about_the_game": "This DLC contains original soundtrack + some art. <br />\r\n<br />\r\nThe Soundtrack contains 15 tracks in MP3 and FLAC formats. The lossless soundtrack is Steam exclusive! Art contains images of each in-game character in HD, some backgrounds and fun scenes.",
-  "short_description": "",
+  "short_description": "This DLC contains original soundtrack + some art. The Soundtrack contains 15 tracks in MP3 and FLAC formats. The lossless soundtrack is Steam exclusive! Art contains images of each in-game character in HD, some backgrounds and fun scenes.",
   "fullgame": {
     "appid": "365070",
     "name": "One Manga Day"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     66556
@@ -117,5 +119,9 @@
     "url": "http://onemangaday.dexp.in/feedback.html",
     "email": "games@dexp.in"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367380/page_bg_generated_v6b.jpg?t=1447373620"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367380/page_bg_generated_v6b.jpg?t=1447373620",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

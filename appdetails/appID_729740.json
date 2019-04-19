@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     212741
@@ -46,11 +48,11 @@
           "packageid": 212741,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "JigsawMania - 4,99\u20ac",
+          "option_text": "JigsawMania - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -183,5 +185,9 @@
     "url": "https://www.wallpaperfusion.com/Support/",
     "email": "support@wallpaperfusion.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/729740/page_bg_generated_v6b.jpg?t=1510695553"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/729740/page_bg_generated_v6b.jpg?t=1510695553",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

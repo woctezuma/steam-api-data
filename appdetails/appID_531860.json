@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Where\u2019s My What</strong> is a simple yet highly addictive game where you must identify and select a certain number of items on the screen before time runs out! While it sounds simple, it quickly becomes a dash against the clock as you pinpoint the right items in dozens of included categories. If you choose a wrong item, valuable seconds are lost. If you choose a correct item, valuable seconds are given. Are you quick enough to get triple-star ratings? <i>Adventure Mode</i> features an amazing 100 levels to complete and the farther you get, the more difficult it becomes. <i>Free Mode</i> is a race against time as you play to beat your own record by discovering as many items as possible. You can even invite a friend to your house for some <i>local two-player</i> fun!<h2 class=\"bb_tag\">KEY FEATURES</h2><ul class=\"bb_ul\"><li>Single Player Adventure- &amp; Free-Mode<br></li><li>Local Two-Player Turn-Based Mode<br></li><li>100 Challenging Levels<br></li><li>70 Exciting Categories<br></li><li>100s Of Items To Discover<br></li><li>3-Star Rating System</li></ul>",
   "about_the_game": "<strong>Where\u2019s My What</strong> is a simple yet highly addictive game where you must identify and select a certain number of items on the screen before time runs out! While it sounds simple, it quickly becomes a dash against the clock as you pinpoint the right items in dozens of included categories. If you choose a wrong item, valuable seconds are lost. If you choose a correct item, valuable seconds are given. Are you quick enough to get triple-star ratings? <i>Adventure Mode</i> features an amazing 100 levels to complete and the farther you get, the more difficult it becomes. <i>Free Mode</i> is a race against time as you play to beat your own record by discovering as many items as possible. You can even invite a friend to your house for some <i>local two-player</i> fun!<h2 class=\"bb_tag\">KEY FEATURES</h2><ul class=\"bb_ul\"><li>Single Player Adventure- &amp; Free-Mode<br></li><li>Local Two-Player Turn-Based Mode<br></li><li>100 Challenging Levels<br></li><li>70 Exciting Categories<br></li><li>100s Of Items To Discover<br></li><li>3-Star Rating System</li></ul>",
-  "short_description": "<strong>Where\u2019s My What</strong> is a simple yet highly addictive game where you must identify and select a certain number of items on the screen before time runs out! While it sounds simple, it quickly becomes a dash against the clock as you pinpoint the right items in dozens of included categories.",
+  "short_description": "Where\u2019s My What is a simple yet highly addictive game where you must identify and select a certain number of items on the screen before time runs out! While it sounds simple, it quickly becomes a dash against the clock as you pinpoint the right items in dozens of included categories.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/531860/header.jpg?t=1476179883",
   "website": "http://www.wheresmywhat.com/",
@@ -25,12 +25,15 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
-    128332
+    128332,
+    269927
   ],
   "package_groups": [
     {
@@ -46,11 +49,21 @@
           "packageid": 128332,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Where's My What? - 4,99\u20ac",
+          "option_text": "Where's My What? - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 79
+        },
+        {
+          "packageid": 269927,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Where's My What? - Commercial License - 3,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -147,6 +160,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Sep, 2016"
@@ -155,5 +171,9 @@
     "url": "http://www.ensenasoft.com",
     "email": "support@ensenasoft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/531860/page_bg_generated_v6b.jpg?t=1476179883"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/531860/page_bg_generated_v6b.jpg?t=1476179883",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

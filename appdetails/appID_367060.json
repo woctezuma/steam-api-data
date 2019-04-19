@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 79,
     "final": 79,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     66468
@@ -125,6 +127,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 May, 2015"
@@ -133,5 +138,9 @@
     "url": "",
     "email": "onionman77@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367060/page_bg_generated_v6b.jpg?t=1447373517"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367060/page_bg_generated_v6b.jpg?t=1447373517",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

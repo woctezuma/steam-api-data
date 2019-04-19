@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 799,
-    "final": 799,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     49002
@@ -48,11 +50,11 @@
           "packageid": 49002,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Trainz Simulator DLC: CONTZ Pack - Basic Edition - 7,99\u20ac",
+          "option_text": "Trainz Simulator DLC: CONTZ Pack - Basic Edition - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -121,6 +123,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/318050/ss_e2f74af1d04bcdba7b169621ff69a02916310d3b.1920x1080.jpg?t=1447363116"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Aug, 2014"
@@ -129,5 +134,9 @@
     "url": "http://www.trainzportal.com",
     "email": "http://support.trainzportal.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/318050/page_bg_generated_v6b.jpg?t=1447363116"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/318050/page_bg_generated_v6b.jpg?t=1447363116",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<strong>Zombie Parking</strong> - computer indie-game in the genre of third-person shooter and survival <br>horror. The game is developed on Unreal Engine 4 for Windows, Mac, Linux platforms. <br><br>The goal of the game is to hold out as long as possible beating attacks of the living dead, who become stronger, faster and more dangerous with each killed enemy. <br><br>The player has a shotgun and machine gun in the arsenal. There are also canisters with gasoline on the level that can be used in combat. <br><br>Besides, you can get the following items by killing enemies: <br><br><ul class=\"bb_ul\"><li>ammunition for shotguns and machine gun <br></li><li>first aid kit <br></li><li>bulletproof vest (blocks part of damage) <br></li><li>double damage for 30 seconds <br></li><li>unlimited ammo for 30 seconds <br></li><li>impenetrable shield for 30 seconds <br></li><li>zombie destroyer (kills all zombies on the map)</li></ul><br>At the opening of the achievements in the Steam, will be added some improvements.<br><br><ul class=\"bb_ul\"><li><strong>Exploder</strong>: Jerry cans will cause double damage.<br></li><li><strong>Exploder Advanced</strong>: Jerry cans will not damage the player.<br></li><li><strong>Exploder Master</strong>: The radius of the explosion from a Jerrycan will be twice bigger.<br></li><li><strong>Double Unlim</strong>: Unlimited ammo will last 50% longer.<br></li><li><strong>Double Shield</strong>: Shield will last 50% longer.<br></li><li><strong>Double Damage</strong>: Double damage will work 50% longer.<br></li><li><strong>Brains Destroyer</strong>: Headshots will make double damage.<br></li><li><strong>Shotgun Begginer</strong>: The speed of shooting from shotgun will be 75% faster.<br></li><li><strong>Shotgun Advanced</strong>: The speed of reload a shotgun will be 75% faster.<br></li><li><strong>Shotgun Master</strong>: The damage caused by a shotgun will be twice larger.<br></li><li><strong>Rifle Begginer</strong>: Rifle will reload twice faster.<br></li><li><strong>Rifle Advanced</strong>: Double magazine for a rifle.<br></li><li><strong>Rifle Master</strong>: Rifle will make twice larger damage.</li></ul><br>A partial support of a gamepad is added to the game (adjustment for Xbox). The interface navigation only by mouse or touchpad.",
   "about_the_game": "<strong>Zombie Parking</strong> - computer indie-game in the genre of third-person shooter and survival <br>horror. The game is developed on Unreal Engine 4 for Windows, Mac, Linux platforms. <br><br>The goal of the game is to hold out as long as possible beating attacks of the living dead, who become stronger, faster and more dangerous with each killed enemy. <br><br>The player has a shotgun and machine gun in the arsenal. There are also canisters with gasoline on the level that can be used in combat. <br><br>Besides, you can get the following items by killing enemies: <br><br><ul class=\"bb_ul\"><li>ammunition for shotguns and machine gun <br></li><li>first aid kit <br></li><li>bulletproof vest (blocks part of damage) <br></li><li>double damage for 30 seconds <br></li><li>unlimited ammo for 30 seconds <br></li><li>impenetrable shield for 30 seconds <br></li><li>zombie destroyer (kills all zombies on the map)</li></ul><br>At the opening of the achievements in the Steam, will be added some improvements.<br><br><ul class=\"bb_ul\"><li><strong>Exploder</strong>: Jerry cans will cause double damage.<br></li><li><strong>Exploder Advanced</strong>: Jerry cans will not damage the player.<br></li><li><strong>Exploder Master</strong>: The radius of the explosion from a Jerrycan will be twice bigger.<br></li><li><strong>Double Unlim</strong>: Unlimited ammo will last 50% longer.<br></li><li><strong>Double Shield</strong>: Shield will last 50% longer.<br></li><li><strong>Double Damage</strong>: Double damage will work 50% longer.<br></li><li><strong>Brains Destroyer</strong>: Headshots will make double damage.<br></li><li><strong>Shotgun Begginer</strong>: The speed of shooting from shotgun will be 75% faster.<br></li><li><strong>Shotgun Advanced</strong>: The speed of reload a shotgun will be 75% faster.<br></li><li><strong>Shotgun Master</strong>: The damage caused by a shotgun will be twice larger.<br></li><li><strong>Rifle Begginer</strong>: Rifle will reload twice faster.<br></li><li><strong>Rifle Advanced</strong>: Double magazine for a rifle.<br></li><li><strong>Rifle Master</strong>: Rifle will make twice larger damage.</li></ul><br>A partial support of a gamepad is added to the game (adjustment for Xbox). The interface navigation only by mouse or touchpad.",
-  "short_description": "Computer indie-game in the genre of third-person shooter and survival <br />\r\nhorror.",
+  "short_description": "Computer indie-game in the genre of third-person shooter and survival horror.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/449090/header.jpg?t=1460620474",
   "website": null,
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     98646
@@ -200,5 +202,9 @@
     "url": "",
     "email": "contact@xpagame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449090/page_bg_generated_v6b.jpg?t=1460620474"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449090/page_bg_generated_v6b.jpg?t=1460620474",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

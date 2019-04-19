@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 450,
     "final": 450,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,50\u20ac"
   },
   "packages": [
     103341
@@ -127,6 +129,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 May, 2016"
@@ -135,5 +140,12 @@
     "url": "http://www.kolemusician.com/contact.html",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/468550/page_bg_generated_v6b.jpg?t=1462874363"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/468550/page_bg_generated_v6b.jpg?t=1462874363",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

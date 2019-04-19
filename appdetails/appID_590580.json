@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 1099,
     "final": 1099,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "10,99\u20ac"
   },
   "packages": [
     153174
@@ -143,6 +145,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Dec, 2017"
@@ -151,5 +156,9 @@
     "url": "http://www.thrivegames.net",
     "email": "info@thrivegames.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/590580/page_bg_generated_v6b.jpg?t=1513961309"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/590580/page_bg_generated_v6b.jpg?t=1513961309",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

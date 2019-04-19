@@ -11,7 +11,7 @@
     "appid": "374040",
     "name": "Portal Knights"
   },
-  "supported_languages": "English, French, Italian, German, Spanish, Portuguese-Brazil, Russian, Finnish, Japanese, Korean, Norwegian, Simplified Chinese, Swedish, Polish, Turkish, Czech, Thai",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Finnish, Japanese, Korean, Norwegian, Simplified Chinese, Swedish, Polish, Turkish, Czech, Thai",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/617110/header.jpg?t=1495120393",
   "website": "http://portalknights.com",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     165506
@@ -111,6 +113,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/617110/ss_0cb466db1be39581cb0d6447e00284c4c48afb14.1920x1080.jpg?t=1495120393"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 May, 2017"
@@ -119,5 +124,9 @@
     "url": "",
     "email": "support@505games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/617110/page_bg_generated_v6b.jpg?t=1495120393"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/617110/page_bg_generated_v6b.jpg?t=1495120393",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

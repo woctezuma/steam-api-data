@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     237780
@@ -133,6 +135,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Jan, 2018"
@@ -141,5 +146,9 @@
     "url": "https://vk.com/flatingo_games",
     "email": "xdgonx@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/787190/page_bg_generated_v6b.jpg?t=1518864991"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/787190/page_bg_generated_v6b.jpg?t=1518864991",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     143224
@@ -109,6 +111,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Dec, 2016"
@@ -117,5 +122,9 @@
     "url": "",
     "email": "haljumily@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/566580/page_bg_generated_v6b.jpg?t=1521399054"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/566580/page_bg_generated_v6b.jpg?t=1521399054",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

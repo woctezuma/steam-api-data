@@ -12,7 +12,7 @@
     "appid": "389730",
     "name": "TEKKEN 7"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Arabic, Japanese, Korean, Portuguese-Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Japanese, Korean, Portuguese - Brazil, Russian, Traditional Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/580020/header.jpg?t=1511774551",
   "website": "https://www.bandainamcoent.com",
   "pc_requirements": {
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 2499,
     "final": 2499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "24,99\u20ac"
   },
   "packages": [
     148631
@@ -125,7 +127,10 @@
     }
   ],
   "recommendations": {
-    "total": 411
+    "total": 351
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -135,5 +140,9 @@
     "url": "www.TEKKEN.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/580020/page_bg_generated_v6b.jpg?t=1511774551"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/580020/page_bg_generated_v6b.jpg?t=1511774551",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

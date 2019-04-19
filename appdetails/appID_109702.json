@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>Includes the Achron Original Soundtrack in MP3 format.</p>\n<p><strong>Songs will be placed in your Achron folder in the Steam Directory: ...\"Steam\\steamapps\\common\\Achron\\music\"</strong></p>\n",
   "about_the_game": "<p>Includes the Achron Original Soundtrack in MP3 format.</p>\n<p><strong>Songs will be placed in your Achron folder in the Steam Directory: ...\"Steam\\steamapps\\common\\Achron\\music\"</strong></p>\n",
-  "short_description": "",
+  "short_description": "Includes the Achron Original Soundtrack in MP3 format. Songs will be placed in your Achron folder in the Steam Directory: ...",
   "fullgame": {
     "appid": "109700",
     "name": "Achron"
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     11364,
@@ -127,5 +129,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/109702/page_bg_generated_v6b.jpg?t=1447354638"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/109702/page_bg_generated_v6b.jpg?t=1447354638",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

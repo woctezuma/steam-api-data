@@ -11,8 +11,8 @@
     "appid": "312450",
     "name": "Order of Battle: World War II"
   },
-  "supported_languages": "English, French, German, Spanish, Russian",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/816780/header.jpg?t=1520510529",
+  "supported_languages": "English, French, German, Spanish - Spain, Russian",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/816780/header.jpg?t=1526480144",
   "website": "http://orderofbattle.slitherine.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> XP, Vista, 7, 8, 10<br></li><li><strong>Processor:</strong> Pentium 4 or equivalent<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512 Mb DirectX 11 video card with shader model 2.0<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 4256 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>"
@@ -28,7 +28,40 @@
   "publishers": [
     "Slitherine Ltd."
   ],
-  "package_groups": [],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 1499,
+    "final": 1499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
+  },
+  "packages": [
+    250031
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Order of Battle: Sandstorm",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 250031,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Order of Battle: Sandstorm - 14,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 1499
+        }
+      ]
+    }
+  ],
   "platforms": {
     "windows": true,
     "mac": true,
@@ -77,32 +110,51 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_a68fc1b442ce5b4def77ba1ae9e27af054d2a45a.600x338.jpg?t=1520510529",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_a68fc1b442ce5b4def77ba1ae9e27af054d2a45a.1920x1080.jpg?t=1520510529"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_a68fc1b442ce5b4def77ba1ae9e27af054d2a45a.600x338.jpg?t=1526480144",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_a68fc1b442ce5b4def77ba1ae9e27af054d2a45a.1920x1080.jpg?t=1526480144"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_f13e633d16976f048170e1f56edfce26d3711afa.600x338.jpg?t=1520510529",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_f13e633d16976f048170e1f56edfce26d3711afa.1920x1080.jpg?t=1520510529"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_f13e633d16976f048170e1f56edfce26d3711afa.600x338.jpg?t=1526480144",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_f13e633d16976f048170e1f56edfce26d3711afa.1920x1080.jpg?t=1526480144"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_62eb9681953ee4fdfca9f6532c87389f5f5ac46a.600x338.jpg?t=1520510529",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_62eb9681953ee4fdfca9f6532c87389f5f5ac46a.1920x1080.jpg?t=1520510529"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_62eb9681953ee4fdfca9f6532c87389f5f5ac46a.600x338.jpg?t=1526480144",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_62eb9681953ee4fdfca9f6532c87389f5f5ac46a.1920x1080.jpg?t=1526480144"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_9487e1449028406848e84781f51120a8089071da.600x338.jpg?t=1520510529",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_9487e1449028406848e84781f51120a8089071da.1920x1080.jpg?t=1520510529"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_9487e1449028406848e84781f51120a8089071da.600x338.jpg?t=1526480144",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/816780/ss_9487e1449028406848e84781f51120a8089071da.1920x1080.jpg?t=1526480144"
     }
   ],
+  "movies": [
+    {
+      "id": 256717011,
+      "name": "Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256717011/movie.293x165.jpg?t=1526480139",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256717011/movie480.webm?t=1526480139",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256717011/movie_max.webm?t=1526480139"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
-    "coming_soon": true,
-    "date": "Coming soon!"
+    "coming_soon": false,
+    "date": "16 May, 2018"
   },
   "support_info": {
     "url": "www.slitherine.com",
     "email": "support@slitherine.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/816780/page_bg_generated_v6b.jpg?t=1520510529"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/816780/page_bg_generated_v6b.jpg?t=1526480144",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

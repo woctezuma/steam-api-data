@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     215044
@@ -139,6 +141,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Dec, 2017"
@@ -147,5 +152,9 @@
     "url": "pixelsixgames.net",
     "email": "pixelsixgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/736180/page_bg_generated_v6b.jpg?t=1512744236"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/736180/page_bg_generated_v6b.jpg?t=1512744236",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -1,18 +1,18 @@
 {
   "type": "dlc",
-  "name": "Sins of a Solar Empire\u00ae: Rebellion - Stellar Phenomena\u00ae",
+  "name": "Sins of a Solar Empire: Rebellion - Stellar Phenomena\u00ae",
   "steam_appid": 255910,
   "required_age": 0,
   "is_free": false,
   "detailed_description": "The ever-expanding conflicts within and between the TEC, Vasari, and Advent have pushed the battlegrounds into uncharted space. The sectors now being drawn into the war feature the most dangerous and powerful natural phenomena in the galaxy. <br><br>Exploit what resources remain in these dangerous sectors while you can. The uncharted depths of space hold threats beyond any natural phenomenon, and not all of them wait to be explored.<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>\t<strong>New stars:</strong> Skirt the boundary of a deadly black hole, avoid the deadly radiation of a spinning pulsar, and survive the crushing gravity of an impossibly dense neutron star.<br></li><li>\t<strong>6 new deep space anomalies:</strong> Mine the riches in the wreckage of a devastating fleet battle or recharge at an inexplicable fountain of antimatter tearing apart the fabric of space-time. Each anomaly\u2019s all-new gameplay effect adds variety and strategic opportunities to every map.<br></li><li>\t<strong>11 dramatic random events:</strong> The fate of not just your empire but the galaxy at large will change in a heartbeat with Stellar Phenomena\u2019s random events enabled. Stars launch volatile gases that shut down orbital operations, mobile storms wreak havoc across the solar system, and conquered factions sense your weakness and seek to reclaim their worlds.</li></ul>",
   "about_the_game": "The ever-expanding conflicts within and between the TEC, Vasari, and Advent have pushed the battlegrounds into uncharted space. The sectors now being drawn into the war feature the most dangerous and powerful natural phenomena in the galaxy. <br><br>Exploit what resources remain in these dangerous sectors while you can. The uncharted depths of space hold threats beyond any natural phenomenon, and not all of them wait to be explored.<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>\t<strong>New stars:</strong> Skirt the boundary of a deadly black hole, avoid the deadly radiation of a spinning pulsar, and survive the crushing gravity of an impossibly dense neutron star.<br></li><li>\t<strong>6 new deep space anomalies:</strong> Mine the riches in the wreckage of a devastating fleet battle or recharge at an inexplicable fountain of antimatter tearing apart the fabric of space-time. Each anomaly\u2019s all-new gameplay effect adds variety and strategic opportunities to every map.<br></li><li>\t<strong>11 dramatic random events:</strong> The fate of not just your empire but the galaxy at large will change in a heartbeat with Stellar Phenomena\u2019s random events enabled. Stars launch volatile gases that shut down orbital operations, mobile storms wreak havoc across the solar system, and conquered factions sense your weakness and seek to reclaim their worlds.</li></ul>",
-  "short_description": "",
+  "short_description": "The ever-expanding conflicts within and between the TEC, Vasari, and Advent have pushed the battlegrounds into uncharted space. The sectors now being drawn into the war feature the most dangerous and powerful natural phenomena in the galaxy. Exploit what resources remain in these dangerous sectors while you can.",
   "fullgame": {
     "appid": "204880",
-    "name": "Sins of a Solar Empire\u00ae: Rebellion"
+    "name": "Sins of a Solar Empire: Rebellion\u00ae"
   },
   "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Japanese, Polish, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/255910/header.jpg?t=1498591575",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/255910/header.jpg?t=1532975182",
   "website": "http://www.sinsofasolarempire.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 8 / Windows 7 SP1 / Windows Vista SP2<br>\t</li><li><strong>Processor:</strong> 3 GHz Intel Pentium 4 Processor or Equivalent<br>\t</li><li><strong>Memory:</strong> 2 GB Available System Memory<br>\t</li><li><strong>Graphics:</strong> 256 MB Video Card w/Pixel Shader 3.0 Support (Radeon X1650 / GeForce 6800* or Better)<br>\t</li><li><strong>DirectX\u00ae:</strong> 9.0c<br>\t</li><li><strong>Hard Drive:</strong> 5 GB HD space<br>\t</li><li><strong>Sound:</strong> DirectX 9.0c Compatible Sound Card<br>\t</li><li><strong>Other Requirements:</strong> Keyboard and Mouse (w/scroll wheel), Broadband Internet connection for Multiplayer<br></li><li> * NVidia video chipsets must use driver version 296.10 or higher and mobile cards be set as the primary video chipset for the game.</li></ul>",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     31828,
@@ -41,7 +43,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Sins of a Solar Empire\u00ae: Rebellion - Stellar Phenomena\u00ae",
+      "title": "Buy Sins of a Solar Empire: Rebellion - Stellar Phenomena\u00ae",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -52,7 +54,7 @@
           "packageid": 31828,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Sins of a Solar Empire: Rebellion - Stellar Phenomena DLC - 4,99\u20ac",
+          "option_text": "Sins of a Solar Empire: Rebellion - Stellar Phenomena\u00ae DLC - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -60,13 +62,13 @@
         },
         {
           "packageid": 39352,
-          "percent_savings_text": "-75%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Sins of a Solar Empire: Rebellion - Ultimate Edition - <span class=\"discount_original_price\">49,99\u20ac</span> 12,49\u20ac",
+          "option_text": "Sins of a Solar Empire: Rebellion\u00ae - Ultimate Edition - 49,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1249
+          "price_in_cents_with_discount": 4999
         }
       ]
     }
@@ -139,40 +141,43 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_bf2b336d069d5c08b88f8bb2dbed871fd1cb4276.600x338.jpg?t=1498591575",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_bf2b336d069d5c08b88f8bb2dbed871fd1cb4276.1920x1080.jpg?t=1498591575"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_bf2b336d069d5c08b88f8bb2dbed871fd1cb4276.600x338.jpg?t=1532975182",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_bf2b336d069d5c08b88f8bb2dbed871fd1cb4276.1920x1080.jpg?t=1532975182"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_dac562f97f8b12b2b649c444703e49d66b62baba.600x338.jpg?t=1498591575",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_dac562f97f8b12b2b649c444703e49d66b62baba.1920x1080.jpg?t=1498591575"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_dac562f97f8b12b2b649c444703e49d66b62baba.600x338.jpg?t=1532975182",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_dac562f97f8b12b2b649c444703e49d66b62baba.1920x1080.jpg?t=1532975182"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_9e46b6e320ff3e235a421d5295180c9e4b8f0a33.600x338.jpg?t=1498591575",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_9e46b6e320ff3e235a421d5295180c9e4b8f0a33.1920x1080.jpg?t=1498591575"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_9e46b6e320ff3e235a421d5295180c9e4b8f0a33.600x338.jpg?t=1532975182",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_9e46b6e320ff3e235a421d5295180c9e4b8f0a33.1920x1080.jpg?t=1532975182"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_42e26ad9df9d09d08f85b02e3505b0f739e52255.600x338.jpg?t=1498591575",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_42e26ad9df9d09d08f85b02e3505b0f739e52255.1920x1080.jpg?t=1498591575"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_42e26ad9df9d09d08f85b02e3505b0f739e52255.600x338.jpg?t=1532975182",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_42e26ad9df9d09d08f85b02e3505b0f739e52255.1920x1080.jpg?t=1532975182"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_04d3a878924c28416d2b0531edf7da8ed4f1c37f.600x338.jpg?t=1498591575",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_04d3a878924c28416d2b0531edf7da8ed4f1c37f.1920x1080.jpg?t=1498591575"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_04d3a878924c28416d2b0531edf7da8ed4f1c37f.600x338.jpg?t=1532975182",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_04d3a878924c28416d2b0531edf7da8ed4f1c37f.1920x1080.jpg?t=1532975182"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_4e192ad4d8f2d6a07d29068fc60193b9af84f885.600x338.jpg?t=1498591575",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_4e192ad4d8f2d6a07d29068fc60193b9af84f885.1920x1080.jpg?t=1498591575"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_4e192ad4d8f2d6a07d29068fc60193b9af84f885.600x338.jpg?t=1532975182",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_4e192ad4d8f2d6a07d29068fc60193b9af84f885.1920x1080.jpg?t=1532975182"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_ca695f83e5bb852e9faacd01e8e9cbb56d781129.600x338.jpg?t=1498591575",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_ca695f83e5bb852e9faacd01e8e9cbb56d781129.1920x1080.jpg?t=1498591575"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_ca695f83e5bb852e9faacd01e8e9cbb56d781129.600x338.jpg?t=1532975182",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255910/ss_ca695f83e5bb852e9faacd01e8e9cbb56d781129.1920x1080.jpg?t=1532975182"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Nov, 2013"
@@ -181,5 +186,9 @@
     "url": "http://www.stardock.com/support/",
     "email": "support@stardock.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/255910/page_bg_generated_v6b.jpg?t=1498591575"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/255910/page_bg_generated_v6b.jpg?t=1532975182",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

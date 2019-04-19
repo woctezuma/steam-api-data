@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "Get ready for a full season of amazing content with the CALL OF DUTY: GHOSTS SEASON PASS.<br />\r\n <br />\r\nWith the Season Pass you\u2019ll get 4 epic downloadable content packs: ONSLAUGHT, DEVASTATION, INVASION, AND NEMESIS \u2013 providing brand new multiplayer maps, bonus weapons, and a unique 4-part episodic Extinction experience, all for one great low price.*<br />\r\n <br />\r\nPlus, when you purchase the Season Pass, you get instant access to bonus in-game content including the downloadable multiplayer map, FREE FALL, and the TEAM LEADER DIGITAL PACK which includes: An MP player head, a bonus weapon camo, reticle, playercard, patch and background.<br />\r\n <br />\r\n*Save vs buying map packs ala carte.  DLC Content in the Season Pass may be sold separately.  If you purchase the Season Pass, do not also purchase these standalone Map Packs, as you will be charged for them.  Season Pass and DLC Map Packs may not be available on all platforms or in all territories. Pricing and release dates may vary by platform. Call of Duty: Ghosts game required; sold separately.",
   "about_the_game": "Get ready for a full season of amazing content with the CALL OF DUTY: GHOSTS SEASON PASS.<br />\r\n <br />\r\nWith the Season Pass you\u2019ll get 4 epic downloadable content packs: ONSLAUGHT, DEVASTATION, INVASION, AND NEMESIS \u2013 providing brand new multiplayer maps, bonus weapons, and a unique 4-part episodic Extinction experience, all for one great low price.*<br />\r\n <br />\r\nPlus, when you purchase the Season Pass, you get instant access to bonus in-game content including the downloadable multiplayer map, FREE FALL, and the TEAM LEADER DIGITAL PACK which includes: An MP player head, a bonus weapon camo, reticle, playercard, patch and background.<br />\r\n <br />\r\n*Save vs buying map packs ala carte.  DLC Content in the Season Pass may be sold separately.  If you purchase the Season Pass, do not also purchase these standalone Map Packs, as you will be charged for them.  Season Pass and DLC Map Packs may not be available on all platforms or in all territories. Pricing and release dates may vary by platform. Call of Duty: Ghosts game required; sold separately.",
-  "short_description": "",
+  "short_description": "Get ready for a full season of amazing content with the CALL OF DUTY: GHOSTS SEASON PASS. With the Season Pass you\u2019ll get 4 epic downloadable content packs: ONSLAUGHT, DEVASTATION, INVASION, AND NEMESIS \u2013 providing brand new multiplayer maps, bonus weapons, and a unique 4-part episodic Extinction experience, all for one great low price.",
   "fullgame": {
     "appid": "209160",
     "name": "Call of Duty\u00ae: Ghosts"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/255160/header.jpg?t=1447358803",
   "website": "www.callofduty.com",
   "pc_requirements": [],
@@ -29,10 +29,12 @@
     "currency": "EUR",
     "initial": 4999,
     "final": 4999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "49,99\u20ac"
   },
   "packages": [
-    "31497"
+    31497
   ],
   "package_groups": [
     {
@@ -45,7 +47,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "31497",
+          "packageid": 31497,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Call of Duty: Ghosts - Season Pass - 49,99\u20ac",
@@ -105,6 +107,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/255160/ss_7282c1ae5adb6a19b6d9aa177733407269d6ddbb.1920x1080.jpg?t=1447358803"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Nov, 2013"
@@ -113,5 +118,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/255160/page_bg_generated_v6b.jpg?t=1447358803"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/255160/page_bg_generated_v6b.jpg?t=1447358803",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

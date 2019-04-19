@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     78764
@@ -131,6 +133,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Sep, 2015"
@@ -139,5 +144,9 @@
     "url": "http://moshpit.boards.net/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403010/page_bg_generated_v6b.jpg?t=1447378050"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/403010/page_bg_generated_v6b.jpg?t=1447378050",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

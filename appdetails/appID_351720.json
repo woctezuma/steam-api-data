@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     61222
@@ -251,5 +253,9 @@
     "url": "http://oceanmedia.hr",
     "email": "support@oceanmedia.hr"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/351720/page_bg_generated_v6b.jpg?t=1482871669"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/351720/page_bg_generated_v6b.jpg?t=1482871669",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

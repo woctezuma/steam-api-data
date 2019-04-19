@@ -26,13 +26,15 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     28923,
     28924,
     47308,
-    "47306"
+    47306
   ],
   "package_groups": [
     {
@@ -75,7 +77,7 @@
           "price_in_cents_with_discount": 3699
         },
         {
-          "packageid": "47306",
+          "packageid": 47306,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Edge of Space Special Edition Upgrade - 11,99\u20ac",
@@ -232,7 +234,7 @@
     }
   ],
   "recommendations": {
-    "total": 2550
+    "total": 1884
   },
   "achievements": {
     "total": 24,
@@ -287,5 +289,9 @@
     "url": "www.playedgeofspace.com",
     "email": "support@handymanstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/238240/page_bg_generated_v6b.jpg?t=1447357846"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/238240/page_bg_generated_v6b.jpg?t=1447357846",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

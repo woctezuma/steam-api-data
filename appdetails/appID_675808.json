@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Unlock the F-181, a small EDF powered jet based on the current unrivalled king aboard US Navy aircraft carriers. Plane comes with working hook for carrier landings.<br />\r\nCarrier Ops game mode has the player compete in an increasingly difficult series of challenges based on RC carrier operations.",
   "about_the_game": "Unlock the F-181, a small EDF powered jet based on the current unrivalled king aboard US Navy aircraft carriers. Plane comes with working hook for carrier landings.<br />\r\nCarrier Ops game mode has the player compete in an increasingly difficult series of challenges based on RC carrier operations.",
-  "short_description": "The current unrivalled king on US Navy aircraft carriers.EDF powered",
+  "short_description": "The current unrivalled king on US Navy aircraft carriers.",
   "fullgame": {
     "appid": "670500",
     "name": "RC Plane 3"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     192534
@@ -138,5 +140,9 @@
     "url": "http://www.frozenpepper.it",
     "email": "rcplane3@frozenpepper.it"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/675808/page_bg_generated_v6b.jpg?t=1502168947"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/675808/page_bg_generated_v6b.jpg?t=1502168947",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

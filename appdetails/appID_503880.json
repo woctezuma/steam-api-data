@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 9299,
     "final": 9299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "92,99\u20ac"
   },
   "packages": [
     115935
@@ -110,5 +112,9 @@
     "url": "http://www.virtualbattlemap.com",
     "email": "mwmdragon.work@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/503880/page_bg_generated_v6b.jpg?t=1469078137"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/503880/page_bg_generated_v6b.jpg?t=1469078137",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

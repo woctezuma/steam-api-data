@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     195702
@@ -135,7 +137,7 @@
     }
   ],
   "recommendations": {
-    "total": 127
+    "total": 143
   },
   "achievements": {
     "total": 13,
@@ -190,5 +192,9 @@
     "url": "",
     "email": "pleasingfung@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/684270/page_bg_generated_v6b.jpg?t=1506810444"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/684270/page_bg_generated_v6b.jpg?t=1506810444",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

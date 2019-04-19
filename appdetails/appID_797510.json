@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 299,
+    "final": 299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     242203
@@ -48,11 +50,11 @@
           "packageid": 242203,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Splendor - The Cities - 1,99\u20ac",
+          "option_text": "Splendor - The Cities - 2,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 299
         }
       ]
     }
@@ -134,6 +136,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/797510/ss_8b4ba57aef5fe8c73818ad89c1a61b64ddaec8c9.1920x1080.jpg?t=1523451812"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Apr, 2018"
@@ -142,5 +147,9 @@
     "url": "http://www.daysofwonder.com/contact/digital-splendor-steampc/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/797510/page_bg_generated_v6b.jpg?t=1523451812"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/797510/page_bg_generated_v6b.jpg?t=1523451812",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

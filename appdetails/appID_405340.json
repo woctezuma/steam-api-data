@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     79614
@@ -65,8 +67,8 @@
     "linux": false
   },
   "metacritic": {
-    "score": 56,
-    "url": "http://www.metacritic.com/game/pc/siegecraft-commander?ftag=MCD-06-10aaa1f"
+    "score": 53,
+    "url": "https://www.metacritic.com/game/pc/siegecraft-commander?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -228,5 +230,9 @@
     "url": "",
     "email": "steam.support.scc@blowfishstudios.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/405340/page_bg_generated_v6b.jpg?t=1484615742"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/405340/page_bg_generated_v6b.jpg?t=1484615742",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

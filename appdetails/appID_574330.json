@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Take your Clickteam Fusion 2.5 project to new heights by publishing it to the Mac App Store with the new Mac Exporter. Using our amazing set of creation tools, Clickteam Fusion 2.5 and Clickteam Fusion 2.5 Developer. Create your content using our drag and drop visual interface and intuitive event editor, then with a touch of a button our tools will build an Mac Application, Mac xCode, or Mac .ccm project for you, ready to be moved to your mac to compile or test.<br><br><strong>Required:</strong> To test the exporter standalone applications you must own a Mac with OSX 10.9 (Mavericks) or greater.  You can also output a Mac Xcode project with a precompiled runtime so that you can change Xcode settings, for example for code signing before submitting to the Apple Mac App Store. A Mac Developer account ($99 per year on <a href=\"https://steamcommunity.com/linkfilter/?url=http://developer.apple.com)\" target=\"_blank\" rel=\"noopener\"  >developer.apple.com)</a> for signing and distributing your applications in the App Store is required. Clickteam Fusion 2.5 Steam or Clickteam Fusion 2.5 Developer Steam and the exporter work on Windows PC only.<br><br>Please be aware that this exporter add-on will only work with a full version of Fusion 2.5 - you will not be able to install it against a demo, limited or free version of any of these software titles.",
   "about_the_game": "Take your Clickteam Fusion 2.5 project to new heights by publishing it to the Mac App Store with the new Mac Exporter. Using our amazing set of creation tools, Clickteam Fusion 2.5 and Clickteam Fusion 2.5 Developer. Create your content using our drag and drop visual interface and intuitive event editor, then with a touch of a button our tools will build an Mac Application, Mac xCode, or Mac .ccm project for you, ready to be moved to your mac to compile or test.<br><br><strong>Required:</strong> To test the exporter standalone applications you must own a Mac with OSX 10.9 (Mavericks) or greater.  You can also output a Mac Xcode project with a precompiled runtime so that you can change Xcode settings, for example for code signing before submitting to the Apple Mac App Store. A Mac Developer account ($99 per year on <a href=\"https://steamcommunity.com/linkfilter/?url=http://developer.apple.com)\" target=\"_blank\" rel=\"noopener\"  >developer.apple.com)</a> for signing and distributing your applications in the App Store is required. Clickteam Fusion 2.5 Steam or Clickteam Fusion 2.5 Developer Steam and the exporter work on Windows PC only.<br><br>Please be aware that this exporter add-on will only work with a full version of Fusion 2.5 - you will not be able to install it against a demo, limited or free version of any of these software titles.",
-  "short_description": "Take your Clickteam Fusion 2.5 project to new heights by publishing it to the Mac App Store with the new Mac Exporter. Using our amazing set of creation tools, Clickteam Fusion 2.5 and Clickteam Fusion 2.5 Developer. Create your content using our drag and drop visual interface and intuitive event editor, then with a touch of button our tools will build an Mac Application, Mac xCode, or Mac .ccm project for you, ready to be moved to your mac to compile or test.",
+  "short_description": "Take your Clickteam Fusion 2.5 project to new heights by publishing it to the Mac App Store with the new Mac Exporter. Using our amazing set of creation tools, Clickteam Fusion 2.5 and Clickteam Fusion 2.5 Developer.",
   "fullgame": {
     "appid": "248170",
     "name": "Clickteam Fusion 2.5"
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 4699,
     "final": 4699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "46,99\u20ac"
   },
   "packages": [
     146213
@@ -130,6 +132,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/574330/ss_a23a4da4f44ced3038ca5b220d7136f56b7cc8d5.1920x1080.jpg?t=1523381956"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Apr, 2017"
@@ -138,5 +143,9 @@
     "url": "http://www.clickteam.com/contact-us",
     "email": "Support@Clickteam.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/574330/page_bg_generated_v6b.jpg?t=1523381956"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/574330/page_bg_generated_v6b.jpg?t=1523381956",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

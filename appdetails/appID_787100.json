@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 300,
+    "final": 300,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,--\u20ac"
   },
   "packages": [
     237745,
@@ -45,21 +47,21 @@
           "packageid": 237745,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Homeworld Defense - 3,99\u20ac",
+          "option_text": "Homeworld Defense - 3,--\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 300
         },
         {
           "packageid": 244943,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Homeworld Defense - Commercial License - 4,99\u20ac",
+          "option_text": "Homeworld Defense - Commercial License - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -209,5 +211,9 @@
     "url": "",
     "email": "uzerrrrr@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/787100/page_bg_generated_v6b.jpg?t=1518106699"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/787100/page_bg_generated_v6b.jpg?t=1518106699",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

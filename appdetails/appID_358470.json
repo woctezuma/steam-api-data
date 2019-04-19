@@ -12,7 +12,7 @@
     "appid": "257510",
     "name": "The Talos Principle"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Italian<strong>*</strong>, Polish<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Italian<strong>*</strong>, Polish<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/358470/header.jpg?t=1447371279",
   "website": "http://www.croteam.com/talosprinciple/",
   "pc_requirements": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     63678
@@ -73,7 +75,7 @@
   },
   "metacritic": {
     "score": 82,
-    "url": "http://www.metacritic.com/game/pc/the-talos-principle-road-to-gehenna?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/the-talos-principle-road-to-gehenna?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -175,7 +177,10 @@
     }
   ],
   "recommendations": {
-    "total": 611
+    "total": 651
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -185,5 +190,9 @@
     "url": "http://www.croteam.com/talosprinciple/",
     "email": "support@croteam.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/358470/page_bg_generated_v6b.jpg?t=1447371279"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/358470/page_bg_generated_v6b.jpg?t=1447371279",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

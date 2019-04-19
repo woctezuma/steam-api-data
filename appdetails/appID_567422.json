@@ -29,10 +29,12 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
-    "143490"
+    143490
   ],
   "package_groups": [
     {
@@ -45,7 +47,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "143490",
+          "packageid": 143490,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Skeet: VR Target Shooting - Thank You Gold - 14,99\u20ac",
@@ -117,5 +119,9 @@
     "url": "",
     "email": "flatboxstudios+support@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/567422/page_bg_generated_v6b.jpg?t=1483047004"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/567422/page_bg_generated_v6b.jpg?t=1483047004",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

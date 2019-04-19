@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     111853
@@ -51,11 +53,11 @@
           "packageid": 111853,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Crusaders of the Lost Idols - Epic Starter Pack - 9,99\u20ac",
+          "option_text": "Crusaders of the Lost Idols - Epic Starter Pack - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -109,6 +111,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/492890/ss_767ef663fcea6ab492f2ac58ba03b706fb84e5eb.1920x1080.jpg?t=1472853054"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Jul, 2016"
@@ -117,5 +122,9 @@
     "url": "http://www.codenameentertainment.com/",
     "email": "crusaders@codenameentertainment.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492890/page_bg_generated_v6b.jpg?t=1472853054"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492890/page_bg_generated_v6b.jpg?t=1472853054",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

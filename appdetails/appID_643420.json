@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 599,
-    "final": 599,
-    "discount_percent": 0
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     179973
@@ -51,11 +53,11 @@
           "packageid": 179973,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: Shortline Railroad - 5,99\u20ac",
+          "option_text": "TANE DLC: Shortline Railroad - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -236,6 +238,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/643420/ss_2641f94a558b734d11a6b54083baabaff8a9baa0.1920x1080.jpg?t=1496263198"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 May, 2017"
@@ -244,5 +249,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/643420/page_bg_generated_v6b.jpg?t=1496263198"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/643420/page_bg_generated_v6b.jpg?t=1496263198",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

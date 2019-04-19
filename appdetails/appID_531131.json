@@ -11,7 +11,7 @@
     "appid": "227300",
     "name": "Euro Truck Simulator 2"
   },
-  "supported_languages": "English, German, French, Italian, Korean, Spanish, Simplified Chinese, Russian, Japanese, Portuguese, Polish, Danish, Dutch, Finnish, Norwegian, Swedish, Hungarian, Czech, Romanian, Turkish, Portuguese-Brazil, Bulgarian, Greek",
+  "supported_languages": "English, German, French, Italian, Korean, Spanish - Spain, Simplified Chinese, Russian, Japanese, Portuguese, Polish, Danish, Dutch, Finnish, Norwegian, Swedish, Hungarian, Czech, Romanian, Turkish, Portuguese - Brazil, Bulgarian, Greek",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/531131/header.jpg?t=1494581416",
   "website": "http://eurotrucksimulator2.com/",
   "pc_requirements": {
@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     128047
@@ -165,7 +167,10 @@
     }
   ],
   "recommendations": {
-    "total": 1516
+    "total": 1653
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -175,5 +180,9 @@
     "url": "https://eurotrucksimulator2.com/support.php",
     "email": "support@eurotrucksimulator2.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/531131/page_bg_generated_v6b.jpg?t=1494581416"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/531131/page_bg_generated_v6b.jpg?t=1494581416",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

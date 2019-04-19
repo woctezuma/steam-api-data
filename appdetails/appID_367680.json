@@ -4,9 +4,9 @@
   "steam_appid": 367680,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "This DLC gives you the right to enter a name into the game so it shows up in all players' games. Players will recruit, command, and fight you for all time!<br><br>You'll enter your name through our <a href=\"https://steamcommunity.com/linkfilter/?url=http://rimworldgame.com/creative\" target=\"_blank\" rel=\"noopener\"  >creative rewards system</a></a> where we'll either approve it or give feedback if it doesn't quite fit.<br><br>Your name must follow the <a href=\"https://steamcommunity.com/linkfilter/?url=http://rimworldgame.com/creative/guidelines\" target=\"_blank\" rel=\"noopener\"  >creative rewards guidelines</a></a>.<br><br>(Note: This DLC does not change gameplay in any way - it only gives you the right to enter your content into the game. Also please note you can only have one entry per Steam account; purchasing multiple DLC tiers gives access to the highest one.)",
-  "about_the_game": "This DLC gives you the right to enter a name into the game so it shows up in all players' games. Players will recruit, command, and fight you for all time!<br><br>You'll enter your name through our <a href=\"https://steamcommunity.com/linkfilter/?url=http://rimworldgame.com/creative\" target=\"_blank\" rel=\"noopener\"  >creative rewards system</a></a> where we'll either approve it or give feedback if it doesn't quite fit.<br><br>Your name must follow the <a href=\"https://steamcommunity.com/linkfilter/?url=http://rimworldgame.com/creative/guidelines\" target=\"_blank\" rel=\"noopener\"  >creative rewards guidelines</a></a>.<br><br>(Note: This DLC does not change gameplay in any way - it only gives you the right to enter your content into the game. Also please note you can only have one entry per Steam account; purchasing multiple DLC tiers gives access to the highest one.)",
-  "short_description": "Enter a name into the game. Players will recruit, command, and fight you for all time! (All content must follow the <a href=\"https://steamcommunity.com/linkfilter/?url=http://rimworldgame.com/creative/guidelines\" target=\"_blank\" rel=\"noopener\"  >guidelines</a></a>.)",
+  "detailed_description": "This DLC gives you the right to enter a name into the game so it shows up in all players' games. Players will recruit, command, and fight you for all time!<br><br>You'll enter your name through our <a href=\"https://steamcommunity.com/linkfilter/?url=http://rimworldgame.com/creative\" target=\"_blank\" rel=\"noopener\"  >creative rewards system</a> where we'll either approve it or give feedback if it doesn't quite fit.<br><br>Your name must follow the <a href=\"https://steamcommunity.com/linkfilter/?url=http://rimworldgame.com/creative/guidelines\" target=\"_blank\" rel=\"noopener\"  >creative rewards guidelines</a>.<br><br>(Note: This DLC does not change gameplay in any way - it only gives you the right to enter your content into the game. Also please note you can only have one entry per Steam account; purchasing multiple DLC tiers gives access to the highest one.)",
+  "about_the_game": "This DLC gives you the right to enter a name into the game so it shows up in all players' games. Players will recruit, command, and fight you for all time!<br><br>You'll enter your name through our <a href=\"https://steamcommunity.com/linkfilter/?url=http://rimworldgame.com/creative\" target=\"_blank\" rel=\"noopener\"  >creative rewards system</a> where we'll either approve it or give feedback if it doesn't quite fit.<br><br>Your name must follow the <a href=\"https://steamcommunity.com/linkfilter/?url=http://rimworldgame.com/creative/guidelines\" target=\"_blank\" rel=\"noopener\"  >creative rewards guidelines</a>.<br><br>(Note: This DLC does not change gameplay in any way - it only gives you the right to enter your content into the game. Also please note you can only have one entry per Steam account; purchasing multiple DLC tiers gives access to the highest one.)",
+  "short_description": "Enter a name into the game. Players will recruit, command, and fight you for all time! (All content must follow the guidelines.",
   "fullgame": {
     "appid": "294100",
     "name": "RimWorld"
@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 1249,
+    "final": 1249,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,49\u20ac"
   },
   "packages": [
     66674
@@ -52,11 +54,11 @@
           "packageid": 66674,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "RimWorld Name in Game Upgrade - 14,99\u20ac",
+          "option_text": "RimWorld Name in Game Upgrade - 12,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 1249
         }
       ]
     }
@@ -113,6 +115,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/367680/ss_8102d6d9eab34405f300721cc7b6b0e14dd21fc8.1920x1080.jpg?t=1473442170"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Sep, 2016"
@@ -121,5 +126,9 @@
     "url": "https://ludeon.com/support",
     "email": "ludeonhelp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367680/page_bg_generated_v6b.jpg?t=1473442170"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/367680/page_bg_generated_v6b.jpg?t=1473442170",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

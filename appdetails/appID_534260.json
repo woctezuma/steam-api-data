@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "The Supporter Package adds <strong>no</strong> extra content!<br>This DLC is only for people who enjoyed ThinkToDie and wish to support the game by purchasing this DLC and therefore support the development of future and upcoming games.<br>With this package you help and support keeping this game free available and free to play for everyone.<br><br><i>Again: This DLC adds <u>NO </u>new content to the game. It is a supporter package only!</i>",
   "about_the_game": "The Supporter Package adds <strong>no</strong> extra content!<br>This DLC is only for people who enjoyed ThinkToDie and wish to support the game by purchasing this DLC and therefore support the development of future and upcoming games.<br>With this package you help and support keeping this game free available and free to play for everyone.<br><br><i>Again: This DLC adds <u>NO </u>new content to the game. It is a supporter package only!</i>",
-  "short_description": "This DLC is only for people who enjoyed ThinkToDie and wish to actively support the game by purchasing this DLC and therfore support the development of future and upcoming games. It adds <u>no</u> extra content, but helps keeping this game free for everyone.",
+  "short_description": "This DLC is only for people who enjoyed ThinkToDie and wish to actively support the game by purchasing this DLC and therfore support the development of future and upcoming games. It adds no extra content, but helps keeping this game free for everyone.",
   "fullgame": {
     "appid": "533690",
     "name": "Think To Die"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     129534
@@ -133,5 +135,9 @@
     "url": "http://felgcgamesdevelopm.wixsite.com/homepage",
     "email": "felgc.gamesdevelopment@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/534260/page_bg_generated_v6b.jpg?t=1494966299"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/534260/page_bg_generated_v6b.jpg?t=1494966299",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

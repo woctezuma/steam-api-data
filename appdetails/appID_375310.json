@@ -11,8 +11,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/375310/header.jpg?t=1447375566",
   "website": "https://wayforward.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00aeVista\u2122 or Windows\u00ae7<br></li><li><strong>Processor:</strong> Intel\u2122 Pentium 4 2.4 ghz with Hyper Threading<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel\u00ae HD Graphics<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1 MB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae7 or Windows\u00ae8<br></li><li><strong>Processor:</strong> Intel\u2122 Core 2 Duo / AMD\u2122 Athlon 64 X2 or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u2122 200 series or higher, AMD\u00ae Radeon\u2122 HD5000 series or higher (it must be able to manage Pixel Shader 3.0) with at least 512MB of display memory.<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Windows\u00aeVista\u2122 or Windows\u00ae7<br></li><li><strong>Prozessor:</strong> Intel\u2122 Pentium 4 2.4 ghz with Hyper Threading<br></li><li><strong>Arbeitsspeicher:</strong> 2 GB RAM<br></li><li><strong>Grafik:</strong> Intel\u00ae HD Graphics<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Speicherplatz:</strong> 1 MB verf\u00fcgbarer Speicherplatz</li></ul>",
+    "recommended": "<strong>Empfohlen:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Windows\u00ae7 or Windows\u00ae8<br></li><li><strong>Prozessor:</strong> Intel\u2122 Core 2 Duo / AMD\u2122 Athlon 64 X2 or higher<br></li><li><strong>Arbeitsspeicher:</strong> 4 GB RAM<br></li><li><strong>Grafik:</strong> NVIDIA\u00ae GeForce\u2122 200 series or higher, AMD\u00ae Radeon\u2122 HD5000 series or higher (it must be able to manage Pixel Shader 3.0) with at least 512MB of display memory.<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Speicherplatz:</strong> 2 MB verf\u00fcgbarer Speicherplatz</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     69338
@@ -123,6 +125,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Jun, 2015"
@@ -131,5 +136,9 @@
     "url": "https://wayforward.com/support/",
     "email": "support@wayforward.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/375310/page_bg_generated_v6b.jpg?t=1447375566"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/375310/page_bg_generated_v6b.jpg?t=1447375566",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

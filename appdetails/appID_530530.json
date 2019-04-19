@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     127808
@@ -133,6 +135,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Nov, 2016"
@@ -141,5 +146,9 @@
     "url": "http://binarystudio.co.id",
     "email": "apps@binaryworks.co.id"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/530530/page_bg_generated_v6b.jpg?t=1478616187"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/530530/page_bg_generated_v6b.jpg?t=1478616187",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

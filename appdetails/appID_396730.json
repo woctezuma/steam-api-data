@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "When a horrible accident unleashes waves of gravitational force across the planet, it cracks the crust and sends floating land masses into the air. Guster; the son of man responsible, is charged with the task of setting things right. <br />\r\n<br />\r\ngShift is a 2.5D puzzle-platformer with 99 maze levels across 10 types of terrain. There, you will come across 8 unique obstacles that should take you somewhere in the range of 15 hours to deal with. Kick things off with a free demo, and then take the deep and relaxing dive!",
   "about_the_game": "When a horrible accident unleashes waves of gravitational force across the planet, it cracks the crust and sends floating land masses into the air. Guster; the son of man responsible, is charged with the task of setting things right. <br />\r\n<br />\r\ngShift is a 2.5D puzzle-platformer with 99 maze levels across 10 types of terrain. There, you will come across 8 unique obstacles that should take you somewhere in the range of 15 hours to deal with. Kick things off with a free demo, and then take the deep and relaxing dive!",
-  "short_description": "Save the world with Guster! <br />\r\n<br />\r\ngShift is a 2.5D puzzle-platformer with 99 maze levels across 10 types of terrain.",
+  "short_description": "Save the world with Guster! gShift is a 2.5D puzzle-platformer with 99 maze levels across 10 types of terrain.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/396730/header.jpg?t=1447377657",
   "website": "http://www.deadweightgames.com/?page_id=22",
@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     76448
@@ -198,6 +200,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Aug, 2015"
@@ -206,5 +211,9 @@
     "url": "http://www.deadweightgames.com",
     "email": "contact@deadweightgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396730/page_bg_generated_v6b.jpg?t=1447377657"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/396730/page_bg_generated_v6b.jpg?t=1447377657",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

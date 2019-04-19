@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Invaders from Space have come to add extra terrestrial challenge to Crazy Machines 2!   Meet Flinky, the bouncy alien and slimy Species 1337 as you take on anti-gravity, break out the robots, and aim your laser beams!  Use your wits and be ready to encounter alien intelligence in the craziest mission ever from outer Space!<br><br>Challenge yourself with insane and dangerously silly experiments!  Shoot rockets with Lasers! Use mirrors and shields to manipulate them in the most unusual ways!  It\u2019s all different in outer space!   Set off C4 explosives, build between asteroids, and use gravitational shift to make contraptions that are out of this world!<br><br>Explore the possibilities and experience the craziest levels ever created for Space!<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>New and unique building parts featuring UFOs, Flinky, the bouncing alien, Species 1337, 'Mobile' Laser Cannons, Laser Shields, Asteroids, Planets, Moons, Rocket, and the X-Ray Display, and more!<br></li><li>Construct and create wacky contraptions that are out of this world!<br></li><li>Experience anti gravity bursts of energy like never before!<br></li><li>Can you make the aliens play volleyball? Make a rainbow wave of bouncing Flinkys? Will the robot circum-navigate the celestial body?<br></li><li>Exciting new levels like \u201cDestroy UFOs\u201d, \u201cFree Flinkys\u201d, \u201cRecycle Robots\u201d and more, in some of the most far-out cosmic levels ever exclusively created for Space!<br></li><li>Join the online community and compete in achievements.<br></li><li>Leaderboards<br></li><li>Create your own puzzles and share them online. Download and play other peoples puzzles. </li></ul>",
   "about_the_game": "Invaders from Space have come to add extra terrestrial challenge to Crazy Machines 2!   Meet Flinky, the bouncy alien and slimy Species 1337 as you take on anti-gravity, break out the robots, and aim your laser beams!  Use your wits and be ready to encounter alien intelligence in the craziest mission ever from outer Space!<br><br>Challenge yourself with insane and dangerously silly experiments!  Shoot rockets with Lasers! Use mirrors and shields to manipulate them in the most unusual ways!  It\u2019s all different in outer space!   Set off C4 explosives, build between asteroids, and use gravitational shift to make contraptions that are out of this world!<br><br>Explore the possibilities and experience the craziest levels ever created for Space!<h2 class=\"bb_tag\">Features</h2><ul class=\"bb_ul\"><li>New and unique building parts featuring UFOs, Flinky, the bouncing alien, Species 1337, 'Mobile' Laser Cannons, Laser Shields, Asteroids, Planets, Moons, Rocket, and the X-Ray Display, and more!<br></li><li>Construct and create wacky contraptions that are out of this world!<br></li><li>Experience anti gravity bursts of energy like never before!<br></li><li>Can you make the aliens play volleyball? Make a rainbow wave of bouncing Flinkys? Will the robot circum-navigate the celestial body?<br></li><li>Exciting new levels like \u201cDestroy UFOs\u201d, \u201cFree Flinkys\u201d, \u201cRecycle Robots\u201d and more, in some of the most far-out cosmic levels ever exclusively created for Space!<br></li><li>Join the online community and compete in achievements.<br></li><li>Leaderboards<br></li><li>Create your own puzzles and share them online. Download and play other peoples puzzles. </li></ul>",
-  "short_description": "Invaders from Space have come to add extra terrestrial challenge to Crazy Machines 2!   Meet Flinky, the bouncy alien and slimy Species 1337 as you take on anti-gravity, break out the robots, and aim your laser beams!",
+  "short_description": "Invaders from Space have come to add extra terrestrial challenge to Crazy Machines 2! Meet Flinky, the bouncy alien and slimy Species 1337 as you take on anti-gravity, break out the robots, and aim your laser beams!",
   "fullgame": {
     "appid": "18400",
     "name": "Crazy Machines 2"
@@ -29,10 +29,12 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
-    "15850",
+    15850,
     58400,
     67978
   ],
@@ -47,7 +49,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "15850",
+          "packageid": 15850,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Crazy Machines 2: Invaders From Space DLC - 2,99\u20ac",
@@ -60,11 +62,11 @@
           "packageid": 58400,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Crazy Machines 2: Essential Puzzle Pack - 22,99\u20ac",
+          "option_text": "Crazy Machines 2: Essential Puzzle Pack - 10,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2299
+          "price_in_cents_with_discount": 1079
         },
         {
           "packageid": 67978,
@@ -168,6 +170,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Jul, 2012"
@@ -176,5 +181,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/202454/page_bg_generated_v6b.jpg?t=1447356212"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/202454/page_bg_generated_v6b.jpg?t=1447356212",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

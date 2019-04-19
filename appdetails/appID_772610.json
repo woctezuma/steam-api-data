@@ -5,14 +5,14 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<strong>Q-YO Blaster</strong><br><br>Is a horizontal Shoot 'Em Up , with peculiar characters, strange enemies, bullets, many bullets and many explosions. Enter the miniature world and stop the threat.<br><br>Enjoy the rudeness with weapons, special powers and help from mystical beings.<br><br>Q-YO Blaster has a nice 2d environment with detailed pixel art scenarios, varied enemies section, stages, powers, improvements and many more<br><br><ul class=\"bb_ul\"><li>Characters by class</li></ul><ul class=\"bb_ul\"><li>Weapons and Perks</li></ul><ul class=\"bb_ul\"><li>Super Special Powers</li></ul><ul class=\"bb_ul\"><li>Variety of enemies and confrontations against great bosses</li></ul><ul class=\"bb_ul\"><li>8 stages with animated backgrounds and high detail</li></ul><ul class=\"bb_ul\"><li>Difficulty levels</li></ul>",
-  "about_the_game": "<strong>Q-YO Blaster</strong><br><br>Is a horizontal Shoot 'Em Up , with peculiar characters, strange enemies, bullets, many bullets and many explosions. Enter the miniature world and stop the threat.<br><br>Enjoy the rudeness with weapons, special powers and help from mystical beings.<br><br>Q-YO Blaster has a nice 2d environment with detailed pixel art scenarios, varied enemies section, stages, powers, improvements and many more<br><br><ul class=\"bb_ul\"><li>Characters by class</li></ul><ul class=\"bb_ul\"><li>Weapons and Perks</li></ul><ul class=\"bb_ul\"><li>Super Special Powers</li></ul><ul class=\"bb_ul\"><li>Variety of enemies and confrontations against great bosses</li></ul><ul class=\"bb_ul\"><li>8 stages with animated backgrounds and high detail</li></ul><ul class=\"bb_ul\"><li>Difficulty levels</li></ul>",
-  "short_description": "Q-YO Blaster is a shooting game, with peculiar characters, strange enemies, weapons and many explosions. Enter the miniature world and stop the threat",
-  "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/772610/header.jpg?t=1519514219",
+  "detailed_description": "<strong>Q-YO Blaster</strong><br><br>Is a horizontal Shoot 'Em Up , with peculiar characters, strange enemies, bullets, many bullets and many explosions. Enter the miniature world and stop the threat.<br><br>Enjoy the rudeness with weapons, special powers and help from mystical beings.<br><br>Q-YO Blaster has a nice 2d environment with detailed pixel art scenarios, varied enemies section, stages, powers, improvements and many more!<br><br><ul class=\"bb_ul\"><li>10 stages with animated backgrounds and high detail</li></ul><ul class=\"bb_ul\"><li>Characters by class</li></ul><ul class=\"bb_ul\"><li>Local Co-op</li></ul><ul class=\"bb_ul\"><li>Arcade mode</li></ul><ul class=\"bb_ul\"><li>Weapons and Perks</li></ul><ul class=\"bb_ul\"><li>Super Special Powers</li></ul><ul class=\"bb_ul\"><li>Variety of enemies and confrontations against great bosses</li></ul><ul class=\"bb_ul\"><li>Difficulty levels</li></ul><ul class=\"bb_ul\"><li>CRT mode</li></ul>",
+  "about_the_game": "<strong>Q-YO Blaster</strong><br><br>Is a horizontal Shoot 'Em Up , with peculiar characters, strange enemies, bullets, many bullets and many explosions. Enter the miniature world and stop the threat.<br><br>Enjoy the rudeness with weapons, special powers and help from mystical beings.<br><br>Q-YO Blaster has a nice 2d environment with detailed pixel art scenarios, varied enemies section, stages, powers, improvements and many more!<br><br><ul class=\"bb_ul\"><li>10 stages with animated backgrounds and high detail</li></ul><ul class=\"bb_ul\"><li>Characters by class</li></ul><ul class=\"bb_ul\"><li>Local Co-op</li></ul><ul class=\"bb_ul\"><li>Arcade mode</li></ul><ul class=\"bb_ul\"><li>Weapons and Perks</li></ul><ul class=\"bb_ul\"><li>Super Special Powers</li></ul><ul class=\"bb_ul\"><li>Variety of enemies and confrontations against great bosses</li></ul><ul class=\"bb_ul\"><li>Difficulty levels</li></ul><ul class=\"bb_ul\"><li>CRT mode</li></ul>",
+  "short_description": "Q-YO Blaster is a shooting game, with peculiar characters, strange enemies, weapons and many explosions.",
+  "supported_languages": "English, Spanish - Spain",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/772610/header.jpg?t=1549312782",
   "website": "https://teamrobotblackhat.com/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Dual Core  1.8 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Onboard<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> Onboard</li></ul>"
+    "minimum": "<strong>M\u00ednimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows 7<br></li><li><strong>Procesador:</strong> Dual Core  1.8 Ghz<br></li><li><strong>Memoria:</strong> 1 GB de RAM<br></li><li><strong>Gr\u00e1ficos:</strong> Onboard<br></li><li><strong>DirectX:</strong> Versi\u00f3n 9.0<br></li><li><strong>Almacenamiento:</strong> 250 MB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> Onboard</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     231197
@@ -65,6 +67,14 @@
       "description": "Single-player"
     },
     {
+      "id": 9,
+      "description": "Co-op"
+    },
+    {
+      "id": 39,
+      "description": "Local Co-op"
+    },
+    {
       "id": 22,
       "description": "Steam Achievements"
     },
@@ -78,10 +88,6 @@
     }
   ],
   "genres": [
-    {
-      "id": "74",
-      "description": "Gore"
-    },
     {
       "id": "1",
       "description": "Action"
@@ -98,48 +104,53 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_9463eaa2f02417e902aae569359bd84f9a9988f8.600x338.jpg?t=1519514219",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_9463eaa2f02417e902aae569359bd84f9a9988f8.1920x1080.jpg?t=1519514219"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_9463eaa2f02417e902aae569359bd84f9a9988f8.600x338.jpg?t=1549312782",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_9463eaa2f02417e902aae569359bd84f9a9988f8.1920x1080.jpg?t=1549312782"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_28e46f328a18fcac93e743ff7df2add97548bbac.600x338.jpg?t=1519514219",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_28e46f328a18fcac93e743ff7df2add97548bbac.1920x1080.jpg?t=1519514219"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_380cd36f96c2695304448522c45801381e18a103.600x338.jpg?t=1549312782",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_380cd36f96c2695304448522c45801381e18a103.1920x1080.jpg?t=1549312782"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_9e35f7a9d3942f75a87f14239ea54f2bb91d3ad8.600x338.jpg?t=1519514219",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_9e35f7a9d3942f75a87f14239ea54f2bb91d3ad8.1920x1080.jpg?t=1519514219"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_56e737b447153c309909f672767697b1d4b93194.600x338.jpg?t=1549312782",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_56e737b447153c309909f672767697b1d4b93194.1920x1080.jpg?t=1549312782"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_a638fb0f76db3991c9002572a169ae889fdee4ab.600x338.jpg?t=1519514219",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_a638fb0f76db3991c9002572a169ae889fdee4ab.1920x1080.jpg?t=1519514219"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_28e46f328a18fcac93e743ff7df2add97548bbac.600x338.jpg?t=1549312782",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_28e46f328a18fcac93e743ff7df2add97548bbac.1920x1080.jpg?t=1549312782"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_a3253d0a878f9b555a5f6fdeaf752c9bf04c1c3f.600x338.jpg?t=1519514219",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_a3253d0a878f9b555a5f6fdeaf752c9bf04c1c3f.1920x1080.jpg?t=1519514219"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_9e35f7a9d3942f75a87f14239ea54f2bb91d3ad8.600x338.jpg?t=1549312782",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_9e35f7a9d3942f75a87f14239ea54f2bb91d3ad8.1920x1080.jpg?t=1549312782"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_3e413112663cd896d1c021825f0208c1bad3d8c8.600x338.jpg?t=1519514219",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_3e413112663cd896d1c021825f0208c1bad3d8c8.1920x1080.jpg?t=1519514219"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_a638fb0f76db3991c9002572a169ae889fdee4ab.600x338.jpg?t=1549312782",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_a638fb0f76db3991c9002572a169ae889fdee4ab.1920x1080.jpg?t=1549312782"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_0e387241f4cc20e359f4b47bb7ad7f994698c244.600x338.jpg?t=1519514219",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_0e387241f4cc20e359f4b47bb7ad7f994698c244.1920x1080.jpg?t=1519514219"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_a3253d0a878f9b555a5f6fdeaf752c9bf04c1c3f.600x338.jpg?t=1549312782",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_a3253d0a878f9b555a5f6fdeaf752c9bf04c1c3f.1920x1080.jpg?t=1549312782"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_c57b2c2381b35e695327657e2286b131fba6e2cc.600x338.jpg?t=1519514219",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_c57b2c2381b35e695327657e2286b131fba6e2cc.1920x1080.jpg?t=1519514219"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_0e387241f4cc20e359f4b47bb7ad7f994698c244.600x338.jpg?t=1549312782",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_0e387241f4cc20e359f4b47bb7ad7f994698c244.1920x1080.jpg?t=1549312782"
     },
     {
       "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_f268853122570461fde9cc042d4b457028177742.600x338.jpg?t=1519514219",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_f268853122570461fde9cc042d4b457028177742.1920x1080.jpg?t=1519514219"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_c57b2c2381b35e695327657e2286b131fba6e2cc.600x338.jpg?t=1549312782",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_c57b2c2381b35e695327657e2286b131fba6e2cc.1920x1080.jpg?t=1549312782"
+    },
+    {
+      "id": 9,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_f268853122570461fde9cc042d4b457028177742.600x338.jpg?t=1549312782",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/772610/ss_f268853122570461fde9cc042d4b457028177742.1920x1080.jpg?t=1549312782"
     }
   ],
   "movies": [
@@ -155,7 +166,7 @@
     }
   ],
   "achievements": {
-    "total": 14,
+    "total": 16,
     "highlighted": [
       {
         "name": "Defeat Mr. Garrison",
@@ -204,8 +215,12 @@
     "date": "15 Jan, 2018"
   },
   "support_info": {
-    "url": "https://teamrobotblackhat.com/",
+    "url": "http://teamrobotblackhat.com/",
     "email": "teamrobotblackhat@hotmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/772610/page_bg_generated_v6b.jpg?t=1519514219"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/772610/page_bg_generated_v6b.jpg?t=1549312782",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

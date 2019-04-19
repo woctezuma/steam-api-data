@@ -5,18 +5,21 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<strong>Volleying</strong> is a physics-based game where the objective is to control a sphere throughout the court and make the ball touch the ground of your opponent side.<h2 class=\"bb_tag\">There are simple rules:</h2><ul class=\"bb_ul\"><li> After your first touch, you must return the ball in 10 seconds, or it will explode, and you'll lose!<br></li><li> While jumping, you can use a small dash in either direction, or up. But remember it takes 5 seconds to load again.</li></ul><br>In the <strong>arcade</strong> mode, there are <strong>items</strong> you can collect to temporarily change the <strong>size</strong> of the <strong>spheres</strong>, bringing funny situations to the game.<h2 class=\"bb_tag\">Play with your friends</h2><br>You can play 1 x 1, 1 x 2 or 2 x 2. There's also a <strong>coop mode</strong> where you can test your skills against CPU with a friend.",
-  "about_the_game": "<strong>Volleying</strong> is a physics-based game where the objective is to control a sphere throughout the court and make the ball touch the ground of your opponent side.<h2 class=\"bb_tag\">There are simple rules:</h2><ul class=\"bb_ul\"><li> After your first touch, you must return the ball in 10 seconds, or it will explode, and you'll lose!<br></li><li> While jumping, you can use a small dash in either direction, or up. But remember it takes 5 seconds to load again.</li></ul><br>In the <strong>arcade</strong> mode, there are <strong>items</strong> you can collect to temporarily change the <strong>size</strong> of the <strong>spheres</strong>, bringing funny situations to the game.<h2 class=\"bb_tag\">Play with your friends</h2><br>You can play 1 x 1, 1 x 2 or 2 x 2. There's also a <strong>coop mode</strong> where you can test your skills against CPU with a friend.",
-  "short_description": "<strong>Volleying</strong> is a physics-based game where the objective is to make the ball touch the ground of your opponent's side.",
+  "dlc": [
+    958250
+  ],
+  "detailed_description": "<strong>Volleying</strong> is a physics-based game where the objective is to control a sphere throughout the court and make the ball touch the ground of your opponent side.<h2 class=\"bb_tag\">There are simple rules:</h2><ul class=\"bb_ul\"><li> After your first touch, you must return the ball in 10 seconds, or it will explode, and you'll lose!<br></li><li> While jumping, you can use a small dash in either direction, or up. But remember it takes 5 seconds to load again.</li></ul><br>In the <strong>arcade</strong> mode, there are <strong>items</strong> you can collect to temporarily change the <strong>size</strong> of the <strong>spheres</strong>, bringing funny situations to the game.<h2 class=\"bb_tag\">Play with your friends</h2><br>You can play 1 x 1, 1 x 2 or 2 x 2. There's also a <strong>coop mode</strong> where you can test your skills against CPU with a friend.<br><br>Press the square brackets ( &quot;[&quot; and &quot;]&quot; ) to navigate between the sound tracks.",
+  "about_the_game": "<strong>Volleying</strong> is a physics-based game where the objective is to control a sphere throughout the court and make the ball touch the ground of your opponent side.<h2 class=\"bb_tag\">There are simple rules:</h2><ul class=\"bb_ul\"><li> After your first touch, you must return the ball in 10 seconds, or it will explode, and you'll lose!<br></li><li> While jumping, you can use a small dash in either direction, or up. But remember it takes 5 seconds to load again.</li></ul><br>In the <strong>arcade</strong> mode, there are <strong>items</strong> you can collect to temporarily change the <strong>size</strong> of the <strong>spheres</strong>, bringing funny situations to the game.<h2 class=\"bb_tag\">Play with your friends</h2><br>You can play 1 x 1, 1 x 2 or 2 x 2. There's also a <strong>coop mode</strong> where you can test your skills against CPU with a friend.<br><br>Press the square brackets ( &quot;[&quot; and &quot;]&quot; ) to navigate between the sound tracks.",
+  "short_description": "Volleying is a physics-based game where the objective is to make the ball touch the ground of your opponent's side.",
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/512160/header.jpg?t=1511233714",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/512160/header.jpg?t=1555004755",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 1.8GHz<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> 256MB - OpenGL 2.1+<br></li><li><strong>Storage:</strong> 12 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 1.8GHz<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> 256MB - OpenGL 2.1+ (with ARB extensions acceptable)<br></li><li><strong>Storage:</strong> 15 MB available space</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04 LTS<br></li><li><strong>Processor:</strong> 1.8GHz<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> 256MB - OpenGL 2.1+<br></li><li><strong>Storage:</strong> 22 MB available space</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04 LTS<br></li><li><strong>Processor:</strong> 1.8GHz<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> 256MB - OpenGL 2.1+ (with ARB extensions acceptable)<br></li><li><strong>Storage:</strong> 25 MB available space</li></ul>"
   },
   "developers": [
     "Gestalt Development Studio"
@@ -27,11 +30,14 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 48,
-    "discount_percent": 52
+    "final": 49,
+    "discount_percent": 51,
+    "initial_formatted": "0,99\u20ac",
+    "final_formatted": "0,49\u20ac"
   },
   "packages": [
-    119172
+    119172,
+    357668
   ],
   "package_groups": [
     {
@@ -45,13 +51,34 @@
       "subs": [
         {
           "packageid": 119172,
-          "percent_savings_text": "-52%",
+          "percent_savings_text": "-51%",
           "percent_savings": 0,
-          "option_text": "Volleying - <span class=\"discount_original_price\">0,99\u20ac</span> 0,48\u20ac",
+          "option_text": "Volleying - <span class=\"discount_original_price\">0,99\u20ac</span> 0,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 48
+          "price_in_cents_with_discount": 49
+        }
+      ]
+    },
+    {
+      "name": "subscriptions",
+      "title": "Buy Volleying Subscription Plan",
+      "description": "To be billed on a recurring basis.",
+      "selection_text": "Select a subscription plan",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "true",
+      "subs": [
+        {
+          "packageid": 357668,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "1 Month(s) @ 0,79\u20ac/Month",
+          "option_description": "<p class=\"game_purchase_subscription\">1,59\u20ac at checkout, auto-renewed every 1 month(s) at 0,79\u20ac.</p>",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -111,58 +138,54 @@
     {
       "id": "18",
       "description": "Sports"
-    },
-    {
-      "id": "70",
-      "description": "Early Access"
     }
   ],
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_9202d181f896ec61bb5d95af65de1ac7659c0aec.600x338.jpg?t=1511233714",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_9202d181f896ec61bb5d95af65de1ac7659c0aec.1920x1080.jpg?t=1511233714"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_9202d181f896ec61bb5d95af65de1ac7659c0aec.600x338.jpg?t=1555004755",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_9202d181f896ec61bb5d95af65de1ac7659c0aec.1920x1080.jpg?t=1555004755"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_ec89d7bed091d412c79b976280a447cf07578687.600x338.jpg?t=1511233714",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_ec89d7bed091d412c79b976280a447cf07578687.1920x1080.jpg?t=1511233714"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_ec89d7bed091d412c79b976280a447cf07578687.600x338.jpg?t=1555004755",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_ec89d7bed091d412c79b976280a447cf07578687.1920x1080.jpg?t=1555004755"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_b7ba8f08cdd873fdaeeff0d690e3f8241d7e2c75.600x338.jpg?t=1511233714",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_b7ba8f08cdd873fdaeeff0d690e3f8241d7e2c75.1920x1080.jpg?t=1511233714"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_b7ba8f08cdd873fdaeeff0d690e3f8241d7e2c75.600x338.jpg?t=1555004755",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_b7ba8f08cdd873fdaeeff0d690e3f8241d7e2c75.1920x1080.jpg?t=1555004755"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_e9904ac8e7813bcb5764189c161356cee9a80500.600x338.jpg?t=1511233714",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_e9904ac8e7813bcb5764189c161356cee9a80500.1920x1080.jpg?t=1511233714"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_e9904ac8e7813bcb5764189c161356cee9a80500.600x338.jpg?t=1555004755",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_e9904ac8e7813bcb5764189c161356cee9a80500.1920x1080.jpg?t=1555004755"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_211e598f6cd16c3176524c2c6ec47795f6419b80.600x338.jpg?t=1511233714",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_211e598f6cd16c3176524c2c6ec47795f6419b80.1920x1080.jpg?t=1511233714"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_1d4f3d65b253e1c42e22e09580dc93fd236f9704.600x338.jpg?t=1555004755",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_1d4f3d65b253e1c42e22e09580dc93fd236f9704.1920x1080.jpg?t=1555004755"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_07e6a1ca186cd781ed5de747dbd5aebbbfb93d23.600x338.jpg?t=1511233714",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_07e6a1ca186cd781ed5de747dbd5aebbbfb93d23.1920x1080.jpg?t=1511233714"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_07e6a1ca186cd781ed5de747dbd5aebbbfb93d23.600x338.jpg?t=1555004755",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/512160/ss_07e6a1ca186cd781ed5de747dbd5aebbbfb93d23.1920x1080.jpg?t=1555004755"
     }
   ],
   "movies": [
     {
       "id": 256680596,
       "name": "Official Trailer",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256680596/movie.293x165.jpg?t=1511233709",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256680596/movie.293x165.jpg?t=1536031506",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256680596/movie480.webm?t=1511233709",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256680596/movie_max.webm?t=1511233709"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256680596/movie480.webm?t=1536031506",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256680596/movie_max.webm?t=1536031506"
       },
       "highlight": true
     }
   ],
   "achievements": {
-    "total": 12,
+    "total": 16,
     "highlighted": [
       {
         "name": "Piece of Cake - 1PN",
@@ -208,11 +231,15 @@
   },
   "release_date": {
     "coming_soon": false,
-    "date": "16 Oct, 2017"
+    "date": "15 May, 2018"
   },
   "support_info": {
     "url": "",
     "email": "gestaltdevstudio@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512160/page_bg_generated_v6b.jpg?t=1511233714"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/512160/page_bg_generated_v6b.jpg?t=1555004755",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -44,7 +44,9 @@
     "currency": "EUR",
     "initial": 5499,
     "final": 5499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "54,99\u20ac"
   },
   "packages": [
     54297
@@ -172,7 +174,7 @@
     }
   ],
   "recommendations": {
-    "total": 234
+    "total": 128
   },
   "achievements": {
     "total": 0
@@ -185,5 +187,9 @@
     "url": "",
     "email": "support@brashmonkey.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/332360/page_bg_generated_v6b.jpg?t=1515842344"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/332360/page_bg_generated_v6b.jpg?t=1515842344",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

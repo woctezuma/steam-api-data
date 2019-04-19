@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     233899
@@ -118,6 +120,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Jan, 2018"
@@ -126,5 +131,9 @@
     "url": "",
     "email": "volga12-32@mail.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/777860/page_bg_generated_v6b.jpg?t=1516805049"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/777860/page_bg_generated_v6b.jpg?t=1516805049",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

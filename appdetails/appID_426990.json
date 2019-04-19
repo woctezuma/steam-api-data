@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     87982
@@ -94,6 +96,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/426990/ss_650ddbc55614e59d022eadc54469f28e2062feaa.1920x1080.jpg?t=1466717794"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "26 Apr, 2016"
@@ -102,5 +107,9 @@
     "url": "http://ideafintl.com/contact.php",
     "email": "pcsupport@ideafintl.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/426990/page_bg_generated_v6b.jpg?t=1466717794"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/426990/page_bg_generated_v6b.jpg?t=1466717794",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

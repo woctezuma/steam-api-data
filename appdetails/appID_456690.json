@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     98987
@@ -197,5 +199,9 @@
     "url": "http://steamcommunity.com/groups/alawargames",
     "email": "steam@alawar.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/456690/page_bg_generated_v6b.jpg?t=1478067889"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/456690/page_bg_generated_v6b.jpg?t=1478067889",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

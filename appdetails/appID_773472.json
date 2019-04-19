@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     231649
@@ -124,6 +126,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/773472/ss_204ba47e2f50e13a753f0010e7b481ab69e069f1.1920x1080.jpg?t=1515198349"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Dec, 2017"
@@ -132,5 +137,9 @@
     "url": "http://freestyle2.joycitygames.com/support/faq",
     "email": "steam_support@gamekiss.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/773472/page_bg_generated_v6b.jpg?t=1515198349"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/773472/page_bg_generated_v6b.jpg?t=1515198349",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -28,9 +28,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 659,
+    "final": 659,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,59\u20ac"
   },
   "packages": [
     82157
@@ -49,11 +51,11 @@
           "packageid": 82157,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Yet Another World - 1,99\u20ac",
+          "option_text": "Yet Another World - 6,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 659
         }
       ]
     }
@@ -155,6 +157,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Nov, 2015"
@@ -163,5 +168,9 @@
     "url": "http://energymilk.ru",
     "email": "info@energymilk.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/411740/page_bg_generated_v6b.jpg?t=1449815424"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/411740/page_bg_generated_v6b.jpg?t=1449815424",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

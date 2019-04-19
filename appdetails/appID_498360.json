@@ -11,7 +11,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/498360/header.jpg?t=1467778888",
   "website": null,
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP SP2+<br></li><li><strong>Processor:</strong> Dual Core CPU 2.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 300 or equivalent<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 260 MB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.00c compatible sound card</li></ul>"
+    "minimum": "<strong>M\u00ednimo:</strong><br><ul class=\"bb_ul\"><li><strong>SO:</strong> Windows XP SP2+<br></li><li><strong>Procesador:</strong> Dual Core CPU 2.0 GHz<br></li><li><strong>Memoria:</strong> 2 GB de RAM<br></li><li><strong>Gr\u00e1ficos:</strong> GeForce 300 or equivalent<br></li><li><strong>DirectX:</strong> Versi\u00f3n 9.0<br></li><li><strong>Almacenamiento:</strong> 260 MB de espacio disponible<br></li><li><strong>Tarjeta de sonido:</strong> DirectX 9.00c compatible sound card</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     113968
@@ -117,6 +119,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Jul, 2016"
@@ -125,5 +130,9 @@
     "url": "",
     "email": "jsoikkeli90@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498360/page_bg_generated_v6b.jpg?t=1467778888"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498360/page_bg_generated_v6b.jpg?t=1467778888",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

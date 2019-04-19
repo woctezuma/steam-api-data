@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     111751
@@ -147,9 +149,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 108
-  },
   "achievements": {
     "total": 13,
     "highlighted": [
@@ -203,5 +202,9 @@
     "url": "http://goonswarm.ru",
     "email": "support@goonswarm.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492430/page_bg_generated_v6b.jpg?t=1478630873"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/492430/page_bg_generated_v6b.jpg?t=1478630873",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

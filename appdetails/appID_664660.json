@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 200,
-    "discount_percent": 33
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     188706
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 188706,
-          "percent_savings_text": "-33%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Against the Gradient - <span class=\"discount_original_price\">2,99\u20ac</span> 2,--\u20ac",
+          "option_text": "Against the Gradient - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 200
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -186,5 +188,9 @@
     "url": "http://cogenteducation.com",
     "email": "sborden@cogenteducation.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/664660/page_bg_generated_v6b.jpg?t=1499689269"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/664660/page_bg_generated_v6b.jpg?t=1499689269",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

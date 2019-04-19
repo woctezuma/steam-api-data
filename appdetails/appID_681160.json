@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 699,
-    "final": 699,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     194557
@@ -51,11 +53,11 @@
           "packageid": 194557,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Breach of Contract Online - 6,99\u20ac",
+          "option_text": "Breach of Contract Online - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 699
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -176,5 +178,9 @@
     "url": "http://twitter.com/aidangig",
     "email": "aidangig@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/681160/page_bg_generated_v6b.jpg?t=1517500436"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/681160/page_bg_generated_v6b.jpg?t=1517500436",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

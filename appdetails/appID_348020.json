@@ -33,9 +33,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 699,
-    "final": 699,
-    "discount_percent": 0
+    "initial": 329,
+    "final": 39,
+    "discount_percent": 88,
+    "initial_formatted": "3,29\u20ac",
+    "final_formatted": "0,39\u20ac"
   },
   "packages": [
     59980
@@ -52,13 +54,13 @@
       "subs": [
         {
           "packageid": 59980,
-          "percent_savings_text": "",
+          "percent_savings_text": "-88%",
           "percent_savings": 0,
-          "option_text": "Bloodbath Kavkaz - 6,99\u20ac",
+          "option_text": "Bloodbath Kavkaz - <span class=\"discount_original_price\">3,29\u20ac</span> 0,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 699
+          "price_in_cents_with_discount": 39
         }
       ]
     }
@@ -173,7 +175,7 @@
     }
   ],
   "recommendations": {
-    "total": 2799
+    "total": 1723
   },
   "achievements": {
     "total": 40,
@@ -228,5 +230,12 @@
     "url": "http://bloodbathkavkaz.ru",
     "email": "support@dagestantechnology.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/348020/page_bg_generated_v6b.jpg?t=1484417824"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/348020/page_bg_generated_v6b.jpg?t=1484417824",
+  "content_descriptors": {
+    "ids": [
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

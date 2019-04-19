@@ -37,7 +37,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     244337
@@ -97,6 +99,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/802640/ss_c0f60ed1d6f60dab77b8b45b398fa31136292396.1920x1080.jpg?t=1519804904"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Feb, 2018"
@@ -105,5 +110,9 @@
     "url": "",
     "email": "support@deeprockgalactic.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/802640/page_bg_generated_v6b.jpg?t=1519804904"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/802640/page_bg_generated_v6b.jpg?t=1519804904",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

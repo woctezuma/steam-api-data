@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Templarius Games Studios is proud to present a game from Michael Cox, a game with one simple task; <strong>Don't Die!</strong><h2 class=\"bb_tag\"><strong>ABOUT THE GAME</strong></h2><i>Don't Die!</i> is a challenge of wits and strategy. Based on the old flash game <i>World's Hardest Game</i>, <i>Don't Die!</i> brings a list of new challenges in your daily gritty pleasure.<h2 class=\"bb_tag\"><strong>FEATURES</strong></h2><ul class=\"bb_ul\"><li>Dozens of levels to choose from!<br></li><li>Different types of enemies!<br></li><li>Abilities to assist in completing of levels in awesome fashion!<br></li><li>Ability to sprint, getting away from danger!<br></li><li>Timed levels for extra challenge!<br></li><li>Steam leaderboard implementation to challenge your friends!</li></ul>",
   "about_the_game": "Templarius Games Studios is proud to present a game from Michael Cox, a game with one simple task; <strong>Don't Die!</strong><h2 class=\"bb_tag\"><strong>ABOUT THE GAME</strong></h2><i>Don't Die!</i> is a challenge of wits and strategy. Based on the old flash game <i>World's Hardest Game</i>, <i>Don't Die!</i> brings a list of new challenges in your daily gritty pleasure.<h2 class=\"bb_tag\"><strong>FEATURES</strong></h2><ul class=\"bb_ul\"><li>Dozens of levels to choose from!<br></li><li>Different types of enemies!<br></li><li>Abilities to assist in completing of levels in awesome fashion!<br></li><li>Ability to sprint, getting away from danger!<br></li><li>Timed levels for extra challenge!<br></li><li>Steam leaderboard implementation to challenge your friends!</li></ul>",
-  "short_description": "Prepare for a challenge of wits, reflex, and strategy, and make sure that you <strong>Don't Die!</strong>",
+  "short_description": "Prepare for a challenge of wits, reflex, and strategy, and make sure that you Don't Die!",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/659870/header.jpg?t=1520252166",
   "website": null,
@@ -31,9 +31,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     186801,
@@ -53,21 +55,21 @@
           "packageid": 186801,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Don't Die! - 4,99\u20ac",
+          "option_text": "Don't Die! - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         },
         {
           "packageid": 227323,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Don't Die! - Commercial License - 5,99\u20ac",
+          "option_text": "Don't Die! - Commercial License - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 599
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -265,5 +267,9 @@
     "url": "https://templariusgames.com/support/",
     "email": "support@templariusgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/659870/page_bg_generated_v6b.jpg?t=1520252166"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/659870/page_bg_generated_v6b.jpg?t=1520252166",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

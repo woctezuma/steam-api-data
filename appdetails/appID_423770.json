@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     86815
@@ -149,7 +151,10 @@
     }
   ],
   "recommendations": {
-    "total": 134
+    "total": 108
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -159,5 +164,9 @@
     "url": "http://johnwizard.com",
     "email": "dan@johnwizard.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/423770/page_bg_generated_v6b.jpg?t=1449237233"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/423770/page_bg_generated_v6b.jpg?t=1449237233",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

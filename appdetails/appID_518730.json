@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     121540
@@ -135,7 +137,7 @@
     }
   ],
   "recommendations": {
-    "total": 188
+    "total": 141
   },
   "achievements": {
     "total": 24,
@@ -190,5 +192,9 @@
     "url": "http://firebeaststudio.com",
     "email": "contact@firebeaststudio.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/518730/page_bg_generated_v6b.jpg?t=1475466571"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/518730/page_bg_generated_v6b.jpg?t=1475466571",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

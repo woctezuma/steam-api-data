@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     16428
@@ -157,7 +159,7 @@
     }
   ],
   "recommendations": {
-    "total": 921
+    "total": 674
   },
   "achievements": {
     "total": 53,
@@ -212,5 +214,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214790/page_bg_generated_v6b.jpg?t=1496005161"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/214790/page_bg_generated_v6b.jpg?t=1496005161",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

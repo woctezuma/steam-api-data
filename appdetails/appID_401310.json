@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>This video is a basic introduction to modelling in Modo, aimed at complete beginners. I go through everything from the interface and modelling to UVs and rendering, at a very basic level.\r\n\r\nThis video is primarily aimed at people who want a quick introduction to modo and where things are located, how things work, aswell as general tips and tricks. I do not go into depth in any particular tools, but I do try to cover the basics of what I think you need to know to start getting your way around modo.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>This video is a basic introduction to modelling in Modo, aimed at complete beginners. I go through everything from the interface and modelling to UVs and rendering, at a very basic level.\r\n\r\nThis video is primarily aimed at people who want a quick introduction to modo and where things are located, how things work, aswell as general tips and tricks. I do not go into depth in any particular tools, but I do try to cover the basics of what I think you need to know to start getting your way around modo.",
   "about_the_game": "This video is a basic introduction to modelling in Modo, aimed at complete beginners. I go through everything from the interface and modelling to UVs and rendering, at a very basic level.<br />\r\n<br />\r\nThis video is primarily aimed at people who want a quick introduction to modo and where things are located, how things work, aswell as general tips and tricks. I do not go into depth in any particular tools, but I do try to cover the basics of what I think you need to know to start getting your way around modo.",
   "short_description": "A basic introduction to Modo, that goes through the basics of the program and the layout.",
   "fullgame": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     79151
@@ -141,6 +143,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "21 Oct, 2015"
@@ -149,5 +154,9 @@
     "url": "",
     "email": "contact@torfrick.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/401310/page_bg_generated_v6b.jpg?t=1447378033"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/401310/page_bg_generated_v6b.jpg?t=1447378033",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

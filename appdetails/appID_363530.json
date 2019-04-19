@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     65345
@@ -151,7 +153,7 @@
     }
   ],
   "recommendations": {
-    "total": 253
+    "total": 250
   },
   "achievements": {
     "total": 0
@@ -164,5 +166,9 @@
     "url": "www.support.encore.com",
     "email": "support@encore.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/363530/page_bg_generated_v6b.jpg?t=1466449255"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/363530/page_bg_generated_v6b.jpg?t=1466449255",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

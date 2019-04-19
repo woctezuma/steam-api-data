@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>When there is peace in the kingdom, and nothing has happened in a month, any good King would itch for war. And even if not a full scale war, then at least for a skirmish; and if there is no skirmish, then at least it's time to go hunting.</p>\n\t\t\t\t\t\t<p>And if the game is a werewolf, then well \u2013 that's a sure cure for boredom!</p>\n\t\t\t\t\t\t<p>But what started as a hunt may grow into a skirmish; and a skirmish may yet develop into a full-scale war. Or maybe the Adviser is exaggerating as always and all you'll have to face is a few minor problems....</p>\n\t\t\t\t\t\t<p>But no, deep in the darkness there prowls a mysterious mage-werewolf, who unites hordes of monsters to pose a hairy, scary threat to Ardania. Could it be that some ancient enemy, or his heirs, has returned to reclaim his domain? To overcome this menace, the Great King must draw upon all his skills, all the wisdom of his advisor, as well as the powers of an unexpected ally....</p>\n\t\t\t\t\t\t<h2>Key Features:</h2>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>\u201cHeirs of the Night\u201d campaign -- protect your borders and face an unknown threat in 8 new missions\n\t\t\t\t\t\t<li>Clash with several new monsters\n\t\t\t\t\t\t<li>Four New Multiplayer Maps ( including two co-operative missions)\n\t\t\t\t\t\t<li>New sets of weapons available\n\t\t\t\t\t\t<li>Play through a campaign with 16 missions divided into 4 chapters and a variety of multiplayer maps.\n\t\t\t\t\t\t<li>Choose from more than 10 different classes to oversee the protection of your lands.\n\t\t\t\t\t\t<li>GameSpy multiplayer for up to 4 players over LAN or Internet, including support for ranking ladders and tournaments.\n\t\t\t\t\t\t</ul>",
   "about_the_game": "<p>When there is peace in the kingdom, and nothing has happened in a month, any good King would itch for war. And even if not a full scale war, then at least for a skirmish; and if there is no skirmish, then at least it's time to go hunting.</p>\n\t\t\t\t\t\t<p>And if the game is a werewolf, then well \u2013 that's a sure cure for boredom!</p>\n\t\t\t\t\t\t<p>But what started as a hunt may grow into a skirmish; and a skirmish may yet develop into a full-scale war. Or maybe the Adviser is exaggerating as always and all you'll have to face is a few minor problems....</p>\n\t\t\t\t\t\t<p>But no, deep in the darkness there prowls a mysterious mage-werewolf, who unites hordes of monsters to pose a hairy, scary threat to Ardania. Could it be that some ancient enemy, or his heirs, has returned to reclaim his domain? To overcome this menace, the Great King must draw upon all his skills, all the wisdom of his advisor, as well as the powers of an unexpected ally....</p>\n\t\t\t\t\t\t<h2>Key Features:</h2>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li>\u201cHeirs of the Night\u201d campaign -- protect your borders and face an unknown threat in 8 new missions\n\t\t\t\t\t\t<li>Clash with several new monsters\n\t\t\t\t\t\t<li>Four New Multiplayer Maps ( including two co-operative missions)\n\t\t\t\t\t\t<li>New sets of weapons available\n\t\t\t\t\t\t<li>Play through a campaign with 16 missions divided into 4 chapters and a variety of multiplayer maps.\n\t\t\t\t\t\t<li>Choose from more than 10 different classes to oversee the protection of your lands.\n\t\t\t\t\t\t<li>GameSpy multiplayer for up to 4 players over LAN or Internet, including support for ranking ladders and tournaments.\n\t\t\t\t\t\t</ul>",
-  "short_description": "",
+  "short_description": "When there is peace in the kingdom, and nothing has happened in a month, any good King would itch for war. And even if not a full scale war, then at least for a skirmish; and if there is no skirmish, then at least it's time to go hunting. And if the game is a werewolf, then well \u2013 that's a sure cure for boredom!",
   "fullgame": {
     "appid": "25980",
     "name": "Majesty 2"
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "final": 249,
+    "discount_percent": 50,
+    "initial_formatted": "4,99\u20ac",
+    "final_formatted": "2,49\u20ac"
   },
   "packages": [
     7550
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 7550,
-          "percent_savings_text": "",
+          "percent_savings_text": "-50%",
           "percent_savings": 0,
-          "option_text": "Majesty 2: Battles of Ardania - 4,99\u20ac",
+          "option_text": "Majesty 2: Battles of Ardania - <span class=\"discount_original_price\">4,99\u20ac</span> 2,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 249
         }
       ]
     }
@@ -140,6 +142,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/73071/ss_86f01eec3e8bed6ca3d93dca7469a7d0317218fa.1920x1080.jpg?t=1447353972"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "9 Mar, 2011"
@@ -148,5 +153,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/73071/page_bg_generated_v6b.jpg?t=1447353972"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/73071/page_bg_generated_v6b.jpg?t=1447353972",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

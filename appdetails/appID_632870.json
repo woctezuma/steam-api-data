@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     172422
@@ -106,6 +108,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/632870/ss_a536506c2ec6aadbeee04e0d336273f7bb1e6505.1920x1080.jpg?t=1494271136"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 May, 2017"
@@ -114,5 +119,9 @@
     "url": "http://www.curve-digital.com",
     "email": "support@curve-digital.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/632870/page_bg_generated_v6b.jpg?t=1494271136"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/632870/page_bg_generated_v6b.jpg?t=1494271136",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

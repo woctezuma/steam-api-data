@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "This DLC provides the *Hacky Zack Original Soundtrack*, in mp3 320 kbps format.<br />\r\n<br />\r\nThe soundtrack consists of 9 downtempo nu-jazz songs that reflect the theme of each &quot;chapter&quot; of the game.<br />\r\n<br />\r\nTrack Listing:<br />\r\n<br />\r\n1) Hacky Zack<br />\r\n2) Introduction<br />\r\n3) Isolation<br />\r\n4) Denial<br />\r\n5) Self-destruction<br />\r\n6) Expectations<br />\r\n7) Manipulation<br />\r\n8) Acceptance<br />\r\n9) Conclusion<br />\r\n<br />\r\nMusic by Vincent Rubinetti. Album Art by Fellipe Martins<br />\r\n<br />\r\nSongs can be found in the game's Steam folder:<br />\r\n...\\Steam\\steamapps\\common\\HackyZack\\OST",
   "about_the_game": "This DLC provides the *Hacky Zack Original Soundtrack*, in mp3 320 kbps format.<br />\r\n<br />\r\nThe soundtrack consists of 9 downtempo nu-jazz songs that reflect the theme of each &quot;chapter&quot; of the game.<br />\r\n<br />\r\nTrack Listing:<br />\r\n<br />\r\n1) Hacky Zack<br />\r\n2) Introduction<br />\r\n3) Isolation<br />\r\n4) Denial<br />\r\n5) Self-destruction<br />\r\n6) Expectations<br />\r\n7) Manipulation<br />\r\n8) Acceptance<br />\r\n9) Conclusion<br />\r\n<br />\r\nMusic by Vincent Rubinetti. Album Art by Fellipe Martins<br />\r\n<br />\r\nSongs can be found in the game's Steam folder:<br />\r\n...\\Steam\\steamapps\\common\\HackyZack\\OST",
-  "short_description": "This DLC provides the *Hacky Zack Original Soundtrack*, in mp3 320 kbps format.<br />\r\n<br />\r\nThe soundtrack consists of 9 downtempo nu-jazz songs that reflect the theme of each &quot;chapter&quot; of the game.",
+  "short_description": "This DLC provides the *Hacky Zack Original Soundtrack*, in mp3 320 kbps format. The soundtrack consists of 9 downtempo nu-jazz songs that reflect the theme of each &quot;chapter&quot; of the game.",
   "fullgame": {
     "appid": "508530",
     "name": "HackyZack"
@@ -16,8 +16,8 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/615200/header.jpg?t=1490911959",
   "website": "http://spaceboygames.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> indie, pixel art, spaceboy games<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Memory:</strong> 1 MB RAM<br></li><li><strong>Graphics:</strong> 512 MB VRAM<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Sound Card:</strong> Yes<br></li><li><strong>Additional Notes:</strong> The game runs at locked 30 FPS.</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or Later<br></li><li><strong>Processor:</strong> 3 GHz<br></li><li><strong>Memory:</strong> 2 MB RAM<br></li><li><strong>Graphics:</strong> 1 GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 130 MB available space<br></li><li><strong>Sound Card:</strong> Yes<br></li><li><strong>Additional Notes:</strong> The game runs at locked 30 FPS.</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Besturingssysteem:</strong> indie, pixel art, spaceboy games<br></li><li><strong>Processor:</strong> 2 GHz<br></li><li><strong>Geheugen:</strong> 1 MB RAM<br></li><li><strong>Grafische kaart:</strong> 512 MB VRAM<br></li><li><strong>DirectX:</strong> Versie 10<br></li><li><strong>Opslagruimte:</strong> 100 MB beschikbare ruimte<br></li><li><strong>Geluidskaart:</strong> Yes<br></li><li><strong>Aanvullende opmerkingen:</strong> The game runs at locked 30 FPS.</li></ul>",
+    "recommended": "<strong>Aanbevolen:</strong><br><ul class=\"bb_ul\"><li><strong>Besturingssysteem:</strong> Windows 7 or Later<br></li><li><strong>Processor:</strong> 3 GHz<br></li><li><strong>Geheugen:</strong> 2 MB RAM<br></li><li><strong>Grafische kaart:</strong> 1 GB VRAM<br></li><li><strong>DirectX:</strong> Versie 11<br></li><li><strong>Opslagruimte:</strong> 130 MB beschikbare ruimte<br></li><li><strong>Geluidskaart:</strong> Yes<br></li><li><strong>Aanvullende opmerkingen:</strong> The game runs at locked 30 FPS.</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     164904
@@ -128,6 +130,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Mar, 2017"
@@ -136,5 +141,9 @@
     "url": "",
     "email": "alehitti@spaceboygames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/615200/page_bg_generated_v6b.jpg?t=1490911959"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/615200/page_bg_generated_v6b.jpg?t=1490911959",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

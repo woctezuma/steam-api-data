@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     181779
@@ -122,5 +124,9 @@
     "url": "",
     "email": "smestorp@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/646930/page_bg_generated_v6b.jpg?t=1499757787"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/646930/page_bg_generated_v6b.jpg?t=1499757787",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

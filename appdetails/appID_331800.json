@@ -11,7 +11,7 @@
     "appid": "211500",
     "name": "RaceRoom Racing Experience"
   },
-  "supported_languages": "English<strong>*</strong>, French, German, Italian, Spanish<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, German, Italian, Spanish - Spain<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/331800/header.jpg?t=1521186699",
   "website": "http://game.raceroom.com",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 1799,
     "final": 1799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "17,99\u20ac"
   },
   "packages": [
     54041
@@ -144,6 +146,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Nov, 2014"
@@ -152,5 +157,9 @@
     "url": "http://support.raceroomracingexperience.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/331800/page_bg_generated_v6b.jpg?t=1521186699"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/331800/page_bg_generated_v6b.jpg?t=1521186699",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

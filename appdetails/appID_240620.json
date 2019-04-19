@@ -15,7 +15,7 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/240620/header.jpg?t=1479240507",
   "website": "http://www.wanderlustgame.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Vista/7/8 (32- or 64-bit)<br></li><li><strong>Processor:</strong> 2.0 Ghz<br></li><li><strong>Memory:</strong> 800 MB RAM<br></li><li><strong>Graphics:</strong> 128mb Video Memory<br></li><li><strong>DirectX:</strong> Version 8.0<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> DirectX-compatible sound card<br></li><li><strong>Additional Notes:</strong> 2-button mouse, keyboard and speakers.</li></ul>"
+    "minimum": "<strong>\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435:</strong><br><ul class=\"bb_ul\"><li><strong>\u041e\u0421:</strong> Windows XP/Vista/7/8 (32- or 64-bit)<br></li><li><strong>\u041f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440:</strong> 2.0 Ghz<br></li><li><strong>\u041e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043f\u0430\u043c\u044f\u0442\u044c:</strong> 800 MB \u041e\u0417\u0423<br></li><li><strong>\u0412\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430:</strong> 128mb Video Memory<br></li><li><strong>DirectX:</strong> \u0412\u0435\u0440\u0441\u0438\u0438 8.0<br></li><li><strong>\u041c\u0435\u0441\u0442\u043e \u043d\u0430 \u0434\u0438\u0441\u043a\u0435:</strong> 300 MB<br></li><li><strong>\u0417\u0432\u0443\u043a\u043e\u0432\u0430\u044f \u043a\u0430\u0440\u0442\u0430:</strong> DirectX-compatible sound card<br></li><li><strong>\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e:</strong> 2-button mouse, keyboard and speakers.</li></ul>"
   },
   "mac_requirements": [],
   "linux_requirements": [],
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     58264
@@ -243,7 +245,7 @@
     }
   ],
   "recommendations": {
-    "total": 205
+    "total": 172
   },
   "achievements": {
     "total": 37,
@@ -298,5 +300,9 @@
     "url": "http://www.wanderlustgame.com",
     "email": "contact@yetitrunk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/240620/page_bg_generated_v6b.jpg?t=1479240507"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/240620/page_bg_generated_v6b.jpg?t=1479240507",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

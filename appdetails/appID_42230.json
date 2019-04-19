@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     8940,
@@ -152,6 +154,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/42230/ss_71bfbeb0696aff33f97f7ee9d1f8f0f2876d6cb9.1920x1080.jpg?t=1490219451"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Jul, 2011"
@@ -160,5 +165,9 @@
     "url": "https://www.herinteractive.com/support/contact-support/",
     "email": "techsupport@herinteractive.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42230/page_bg_generated_v6b.jpg?t=1490219451"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/42230/page_bg_generated_v6b.jpg?t=1490219451",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     139521
@@ -62,7 +64,7 @@
   },
   "metacritic": {
     "score": 85,
-    "url": "http://www.metacritic.com/game/pc/giants-citizen-kabuto?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/giants-citizen-kabuto?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -196,6 +198,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Dec, 2016"
@@ -204,5 +209,9 @@
     "url": "http://interplay.com/support/customer_service.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/557750/page_bg_generated_v6b.jpg?t=1499480251"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/557750/page_bg_generated_v6b.jpg?t=1499480251",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

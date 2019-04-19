@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     135181
@@ -119,5 +121,9 @@
     "url": "http://support.szone-online.net/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/547400/page_bg_generated_v6b.jpg?t=1518770919"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/547400/page_bg_generated_v6b.jpg?t=1518770919",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

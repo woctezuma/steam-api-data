@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     35827
@@ -163,5 +165,9 @@
     "url": "http://facebook.com/snowhorsegame",
     "email": "support@kinifigames.zendesk.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/270030/page_bg_generated_v6b.jpg?t=1470436305"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/270030/page_bg_generated_v6b.jpg?t=1470436305",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -7,12 +7,12 @@
   "controller_support": "full",
   "detailed_description": "<strong>The Red Bull Rookies Cup will add this exciting competition to the game.</strong><br>Since its inception in 2007 it has grown into one of the most thrilling 2 wheel spectacles in the world. Teenagers from around the world know that the best way of getting a start in Grand Prix motorcycle racing is by entering the Red Bull MotoGP Rookies Cup. Every year the level of competition has climbed and this year's intake are set to raise the bar yet again. <br>The 2013 season also sees changes both to the calendar and the machinery with the Cup adopting the stunning KTM RC 250 R 4-stroke Moto3 machine and finally saying goodbye to the 2-stroke KTM RC 125 that has powered the Rookies for the last 6 seasons. <br><br>To celebrate this wind of change, Milestone has decided to include the amazing Red Bull Rookies Cup DLC \u2013 available in all on and offline game modes with the exception of Career Mode - into MotoGP\u212213.<br><br> Here is the complete contents list: <br>-\t1 new bike model: KTM RC 250 R <br>-\t24 new riders:<br><br>o\tAnthony Alonso (USA) <br>o\tEnea Bastianini (ITA) <br>o\tDarryn Binder (SAF) <br>o\tScott Deroue (HOL) <br>o\tKarel Hanika (CZE) <br>o\tTarran Mackenzie (GBR) <br>o\tStefano Manzi (ITA) <br>o\tJorge Martin (SPA) <br>o\tAris Michail (GER) <br>o\tSoushi Mihara (JAP) <br>o\tJoan Mir (SPA) <br>o\tFelix Nassi (FIN) <br>o\tManuel Pagliani (ITA) <br>o\tDiego P\u00e9rez (SPA) <br>o\tCorentin Perolari (FRA) <br>o\tMarcos Ramirez (SPA) <br>o\tBradley Ray (GBR) <br>o\tToprak Razgatlioglu (TUR) <br>o\tJoe Roberts (USA) <br>o\tOlly Simpson (AUS) <br>o\tMario Tocca (ITA) <br>o\tLukas Trautmann (AUT) <br>o\tYui Watanabe (JAP) <br>o\tJordan Weaving (SAF)",
   "about_the_game": "<strong>The Red Bull Rookies Cup will add this exciting competition to the game.</strong><br>Since its inception in 2007 it has grown into one of the most thrilling 2 wheel spectacles in the world. Teenagers from around the world know that the best way of getting a start in Grand Prix motorcycle racing is by entering the Red Bull MotoGP Rookies Cup. Every year the level of competition has climbed and this year's intake are set to raise the bar yet again. <br>The 2013 season also sees changes both to the calendar and the machinery with the Cup adopting the stunning KTM RC 250 R 4-stroke Moto3 machine and finally saying goodbye to the 2-stroke KTM RC 125 that has powered the Rookies for the last 6 seasons. <br><br>To celebrate this wind of change, Milestone has decided to include the amazing Red Bull Rookies Cup DLC \u2013 available in all on and offline game modes with the exception of Career Mode - into MotoGP\u212213.<br><br> Here is the complete contents list: <br>-\t1 new bike model: KTM RC 250 R <br>-\t24 new riders:<br><br>o\tAnthony Alonso (USA) <br>o\tEnea Bastianini (ITA) <br>o\tDarryn Binder (SAF) <br>o\tScott Deroue (HOL) <br>o\tKarel Hanika (CZE) <br>o\tTarran Mackenzie (GBR) <br>o\tStefano Manzi (ITA) <br>o\tJorge Martin (SPA) <br>o\tAris Michail (GER) <br>o\tSoushi Mihara (JAP) <br>o\tJoan Mir (SPA) <br>o\tFelix Nassi (FIN) <br>o\tManuel Pagliani (ITA) <br>o\tDiego P\u00e9rez (SPA) <br>o\tCorentin Perolari (FRA) <br>o\tMarcos Ramirez (SPA) <br>o\tBradley Ray (GBR) <br>o\tToprak Razgatlioglu (TUR) <br>o\tJoe Roberts (USA) <br>o\tOlly Simpson (AUS) <br>o\tMario Tocca (ITA) <br>o\tLukas Trautmann (AUT) <br>o\tYui Watanabe (JAP) <br>o\tJordan Weaving (SAF)",
-  "short_description": "",
+  "short_description": "The Red Bull Rookies Cup will add this exciting competition to the game.Since its inception in 2007 it has grown into one of the most thrilling 2 wheel spectacles in the world. Teenagers from around the world know that the best way of getting a start in Grand Prix motorcycle racing is by entering the Red Bull MotoGP Rookies Cup.",
   "fullgame": {
     "appid": "240600",
     "name": "MotoGP\u212213"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/240611/header.jpg?t=1489747044",
   "website": "http://www.motogpvideogame.com/",
   "pc_requirements": {
@@ -33,10 +33,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    "31711"
+    31711
   ],
   "package_groups": [
     {
@@ -49,7 +51,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "31711",
+          "packageid": 31711,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "MotoGP\u212213: Red Bull Rookies Cup - 1,99\u20ac",
@@ -163,6 +165,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/240611/ss_9469f0075fc5b8996d64df147b79f5f109e0ec7c.1920x1080.jpg?t=1489747044"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Sep, 2013"
@@ -171,5 +176,9 @@
     "url": "http://milestone.it/contacts/support/?lang=en",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/240611/page_bg_generated_v6b.jpg?t=1489747044"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/240611/page_bg_generated_v6b.jpg?t=1489747044",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -34,8 +34,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 699,
-    "final": 699,
-    "discount_percent": 0
+    "final": 174,
+    "discount_percent": 75,
+    "initial_formatted": "6,99\u20ac",
+    "final_formatted": "1,74\u20ac"
   },
   "packages": [
     41768
@@ -52,13 +54,13 @@
       "subs": [
         {
           "packageid": 41768,
-          "percent_savings_text": "",
+          "percent_savings_text": "-75%",
           "percent_savings": 0,
-          "option_text": "Wars and Warriors: Joan of Arc - 6,99\u20ac",
+          "option_text": "Wars and Warriors: Joan of Arc - <span class=\"discount_original_price\">6,99\u20ac</span> 1,74\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 699
+          "price_in_cents_with_discount": 174
         }
       ]
     }
@@ -70,7 +72,7 @@
   },
   "metacritic": {
     "score": 60,
-    "url": "http://www.metacritic.com/game/pc/wars-and-warriors-joan-of-arc?ftag=MCD-06-10aaa1f"
+    "url": "https://www.metacritic.com/game/pc/wars-and-warriors-joan-of-arc?ftag=MCD-06-10aaa1f"
   },
   "categories": [
     {
@@ -152,6 +154,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Sep, 2015"
@@ -160,5 +165,9 @@
     "url": "http://www.retroism.com",
     "email": "support@retroism.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/294590/page_bg_generated_v6b.jpg?t=1457036019"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/294590/page_bg_generated_v6b.jpg?t=1457036019",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     180948
@@ -110,5 +112,9 @@
     "url": "",
     "email": "temario.business@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/644820/page_bg_generated_v6b.jpg?t=1497280413"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/644820/page_bg_generated_v6b.jpg?t=1497280413",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

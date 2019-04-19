@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     73776
@@ -117,6 +119,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389150/ss_3a89458f1115c7345b0d7080bd1450e24e35d5d9.1920x1080.jpg?t=1521482094"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "30 Oct, 2015"
@@ -125,5 +130,9 @@
     "url": "http://www.ideafintl.com/contact/steam",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389150/page_bg_generated_v6b.jpg?t=1521482094"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389150/page_bg_generated_v6b.jpg?t=1521482094",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

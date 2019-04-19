@@ -11,15 +11,21 @@
     "appid": "236850",
     "name": "Europa Universalis IV"
   },
-  "supported_languages": "English, German, French, Spanish",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/625050/header.jpg?t=1521722075",
+  "supported_languages": "English, German, French, Spanish - Spain",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/625050/header.jpg?t=1552039267",
   "website": "http://www.europauniversalis4.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Windows 7/Windows 8<br>\t</li><li><strong>Processor:</strong>Intel\u00ae Pentium\u00ae IV 2.4 GHz eller AMD 3500+<br>\t</li><li><strong>Memory:</strong>2 GB RAM<br>\t</li><li><strong>Graphics:</strong>NVIDIA\u00ae GeForce 8800 or ATI Radeon\u00ae X1900, 512mb video memory required<br>\t</li><li><strong>DirectX\u00ae:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>2 GB HD space<br>\t</li><li><strong>Sound:</strong>Direct X- compatible soundcard <br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection<br>\t</li><li><strong>Additional:</strong>Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer</li></ul>",
     "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>/Windows 7/Windows 8<br>\t</li><li><strong>Processor:</strong>Intel\u00ae Pentium\u00ae IV 2.4 GHz or AMD 3500+<br>\t</li><li><strong>Memory:</strong>2 GB RAM<br>\t</li><li><strong>Graphics:</strong>NVIDIA\u00ae GeForce 8800 or ATI Radeon\u00ae X1900, 1024mb video memory recommended<br>\t</li><li><strong>DirectX\u00ae:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>2 GB HD space<br>\t</li><li><strong>Sound:</strong>Direct X-compatible soundcard<br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection<br>\t</li><li><strong>Additional:</strong>Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer</li></ul>"
   },
-  "mac_requirements": [],
-  "linux_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Mac OS X 10.6.8 or better<br>\t</li><li><strong>Processor:</strong>Intel Core Duo Processor (2GHz or better)<br>\t</li><li><strong>Memory:</strong>4 GB RAM<br>\t</li><li><strong>Graphics:</strong>ATI Radeon HD 6750 / NVIDIA GeForce 320 / NVIDIA GeForce 9600 or higher, 1024MB graphics memory required<br>\t</li><li><strong>Hard Drive:</strong>6 GB HD space<br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection<br>\t</li><li><strong>Additional:</strong>GLSL 1.3, OpenGL 2.1. Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Mac OS X 10.6.8 or better<br>\t</li><li><strong>Processor:</strong>Intel Core Duo Processor (2GHz or better)<br>\t</li><li><strong>Memory:</strong>8 GB RAM<br>\t</li><li><strong>Graphics:</strong>ATI Radeon HD 6750 / NVIDIA GeForce 320 / NVIDIA GeForce 9600 or higher, 1024MB graphics memory required<br>\t</li><li><strong>Hard Drive:</strong>6 GB HD space<br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection<br>\t</li><li><strong>Additional:</strong>GLSL 1.3, OpenGL 2.1. Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Ubuntu 16.04 LTS<br>\t</li><li><strong>Processor:</strong>Intel Core Duo Processor (2GHz or better)<br>\t</li><li><strong>Memory:</strong>4 GB RAM<br>\t</li><li><strong>Graphics:</strong>ATI Radeon HD 6750 / NVIDIA GeForce 320 / NVIDIA GeForce 9600 or higher, 1024MB graphics memory required<br>\t</li><li><strong>Hard Drive:</strong>6 GB HD space<br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection<br>\t</li><li><strong>Additional:</strong>GLSL 1.3, OpenGL 2.1. Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Ubuntu 16.04 LTS<br>\t</li><li><strong>Processor:</strong>Intel Core Duo Processor (2GHz or better)<br>\t</li><li><strong>Memory:</strong>8 GB RAM<br>\t</li><li><strong>Graphics:</strong>ATI Radeon HD 6750 / NVIDIA GeForce 320 / NVIDIA GeForce 9600 or higher, 1024MB graphics memory required<br>\t</li><li><strong>Hard Drive:</strong>6 GB HD space<br>\t</li><li><strong>Other Requirements:</strong>Broadband Internet connection<br>\t</li><li><strong>Additional:</strong>GLSL 1.3, OpenGL 2.1. Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer</li></ul>"
+  },
   "legal_notice": "Paradox Interactive, EUROPA UNIVERSALIS\u00ae Copyright\u00a9 [2013] Paradox Interactive AB All rights reserved. <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.paradoxplaza.com\" target=\"_blank\" rel=\"noopener\"  >www.paradoxplaza.com</a>",
   "developers": [
     "Paradox Development Studio"
@@ -31,7 +37,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     168679
@@ -50,7 +58,7 @@
           "packageid": 168679,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Immersion Pack - Europa Universalis IV: Third Rome - 9,99\u20ac",
+          "option_text": "Europa Universalis IV: Third Rome - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -111,43 +119,43 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_eec8b425ac7f0b95308a6e35500850b2a9c04e1e.600x338.jpg?t=1521722075",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_eec8b425ac7f0b95308a6e35500850b2a9c04e1e.1920x1080.jpg?t=1521722075"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_eec8b425ac7f0b95308a6e35500850b2a9c04e1e.600x338.jpg?t=1552039267",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_eec8b425ac7f0b95308a6e35500850b2a9c04e1e.1920x1080.jpg?t=1552039267"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_13a3057af774378b1de0086ee3d9244e4c579b24.600x338.jpg?t=1521722075",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_13a3057af774378b1de0086ee3d9244e4c579b24.1920x1080.jpg?t=1521722075"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_13a3057af774378b1de0086ee3d9244e4c579b24.600x338.jpg?t=1552039267",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_13a3057af774378b1de0086ee3d9244e4c579b24.1920x1080.jpg?t=1552039267"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_48aaabeb91deb738d4a56765b73abe4b250a78ea.600x338.jpg?t=1521722075",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_48aaabeb91deb738d4a56765b73abe4b250a78ea.1920x1080.jpg?t=1521722075"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_48aaabeb91deb738d4a56765b73abe4b250a78ea.600x338.jpg?t=1552039267",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_48aaabeb91deb738d4a56765b73abe4b250a78ea.1920x1080.jpg?t=1552039267"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_9f3d665eac86604207e61ce53f1d1bc2240f9edc.600x338.jpg?t=1521722075",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_9f3d665eac86604207e61ce53f1d1bc2240f9edc.1920x1080.jpg?t=1521722075"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_9f3d665eac86604207e61ce53f1d1bc2240f9edc.600x338.jpg?t=1552039267",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_9f3d665eac86604207e61ce53f1d1bc2240f9edc.1920x1080.jpg?t=1552039267"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_167ed54f07798710aa8b28c6272949e7e0b8f61e.600x338.jpg?t=1521722075",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_167ed54f07798710aa8b28c6272949e7e0b8f61e.1920x1080.jpg?t=1521722075"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_167ed54f07798710aa8b28c6272949e7e0b8f61e.600x338.jpg?t=1552039267",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_167ed54f07798710aa8b28c6272949e7e0b8f61e.1920x1080.jpg?t=1552039267"
     },
     {
       "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_f618fe2c3897e350faab09c1aed28ea77a9419a0.600x338.jpg?t=1521722075",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_f618fe2c3897e350faab09c1aed28ea77a9419a0.1920x1080.jpg?t=1521722075"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_f618fe2c3897e350faab09c1aed28ea77a9419a0.600x338.jpg?t=1552039267",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_f618fe2c3897e350faab09c1aed28ea77a9419a0.1920x1080.jpg?t=1552039267"
     },
     {
       "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_27fac08ce42a97acbacc50b0e5e73537c58f412c.600x338.jpg?t=1521722075",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_27fac08ce42a97acbacc50b0e5e73537c58f412c.1920x1080.jpg?t=1521722075"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_27fac08ce42a97acbacc50b0e5e73537c58f412c.600x338.jpg?t=1552039267",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_27fac08ce42a97acbacc50b0e5e73537c58f412c.1920x1080.jpg?t=1552039267"
     },
     {
       "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_7ad8b134d1d46228acca15c0886951ccd3dd6bf0.600x338.jpg?t=1521722075",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_7ad8b134d1d46228acca15c0886951ccd3dd6bf0.1920x1080.jpg?t=1521722075"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_7ad8b134d1d46228acca15c0886951ccd3dd6bf0.600x338.jpg?t=1552039267",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/625050/ss_7ad8b134d1d46228acca15c0886951ccd3dd6bf0.1920x1080.jpg?t=1552039267"
     }
   ],
   "movies": [
@@ -163,7 +171,10 @@
     }
   ],
   "recommendations": {
-    "total": 199
+    "total": 192
+  },
+  "achievements": {
+    "total": 0
   },
   "release_date": {
     "coming_soon": false,
@@ -173,5 +184,9 @@
     "url": "https://paradox.zendesk.com/home",
     "email": "support@paradoxplaza.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/625050/page_bg_generated_v6b.jpg?t=1521722075"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/625050/page_bg_generated_v6b.jpg?t=1552039267",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

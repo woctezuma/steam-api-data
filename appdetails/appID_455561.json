@@ -12,7 +12,7 @@
     "name": "NightCry"
   },
   "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/455561/header.jpg?t=1464574622",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/455561/header.jpg?t=1555560071",
   "website": "http://www.night-cry.com/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 3 MB available space</li></ul>"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     98558
@@ -86,17 +88,24 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/455561/ss_b60927f3aed778d3e62f4f2c4f1ac3d27f092753.600x338.jpg?t=1464574622",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/455561/ss_b60927f3aed778d3e62f4f2c4f1ac3d27f092753.1920x1080.jpg?t=1464574622"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/455561/ss_b60927f3aed778d3e62f4f2c4f1ac3d27f092753.600x338.jpg?t=1555560071",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/455561/ss_b60927f3aed778d3e62f4f2c4f1ac3d27f092753.1920x1080.jpg?t=1555560071"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Mar, 2016"
   },
   "support_info": {
-    "url": "http://playism-games.com/contact",
-    "email": ""
+    "url": "",
+    "email": "support@playism.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/455561/page_bg_generated_v6b.jpg?t=1464574622"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/455561/page_bg_generated_v6b.jpg?t=1555560071",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

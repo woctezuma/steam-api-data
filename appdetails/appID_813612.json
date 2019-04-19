@@ -10,7 +10,7 @@
   "short_description": "Unlock extra equipment with the Extra Equipment Set.",
   "fullgame": {
     "appid": "726950",
-    "name": "Dark Rose Valkyrie"
+    "name": "Dark Rose Valkyrie / \u30af\u30ed\u30d0\u30e9\u30ce\u30ef\u30eb\u30ad\u30e5\u30fc\u30ec / \u9ed1\u73ab\u7470\u5973\u6b66\u795e"
   },
   "supported_languages": "English<strong>*</strong>, Traditional Chinese, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/813612/header.jpg?t=1523382296",
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     248633
@@ -126,6 +128,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/813612/ss_af6e4e1f313547ca6a687eea16ef129bc558107c.1920x1080.jpg?t=1523382296"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 Apr, 2018"
@@ -134,5 +139,9 @@
     "url": "http://www.ideafintl.com/pcsupport.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/813612/page_bg_generated_v6b.jpg?t=1523382296"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/813612/page_bg_generated_v6b.jpg?t=1523382296",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

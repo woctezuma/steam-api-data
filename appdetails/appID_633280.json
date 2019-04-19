@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 3699,
-    "final": 3699,
-    "discount_percent": 0
+    "initial": 3499,
+    "final": 3499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "34,99\u20ac"
   },
   "packages": [
     172575
@@ -51,11 +53,11 @@
           "packageid": 172575,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: Canadian Rocky Mountains - Rogers Pass - 36,99\u20ac",
+          "option_text": "TANE DLC Route: Canadian Rocky Mountains - Rogers Pass - 34,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 3699
+          "price_in_cents_with_discount": 3499
         }
       ]
     }
@@ -141,6 +143,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/633280/ss_5385859f2639c8b55893b58b8575fdf6a286ef77.1920x1080.jpg?t=1493859823"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 May, 2017"
@@ -149,5 +154,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/633280/page_bg_generated_v6b.jpg?t=1493859823"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/633280/page_bg_generated_v6b.jpg?t=1493859823",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

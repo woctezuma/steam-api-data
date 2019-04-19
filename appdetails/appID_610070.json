@@ -12,7 +12,7 @@
     "appid": "312520",
     "name": "Rain World"
   },
-  "supported_languages": "English, Italian, Spanish, Portuguese-Brazil, French, German",
+  "supported_languages": "English, Italian, Spanish - Spain, Portuguese - Brazil, French, German",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/610070/header.jpg?t=1490673162",
   "website": "http://www.adultswim.com/games/pc-console/rain-world/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     162800
@@ -148,6 +150,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/610070/ss_ac9c5296916330c54c69302963d151ad261d6c14.1920x1080.jpg?t=1490673162"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Mar, 2017"
@@ -156,5 +161,9 @@
     "url": "games.adultswim.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/610070/page_bg_generated_v6b.jpg?t=1490673162"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/610070/page_bg_generated_v6b.jpg?t=1490673162",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

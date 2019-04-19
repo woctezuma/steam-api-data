@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     75341
@@ -144,6 +146,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "11 Aug, 2015"
@@ -152,5 +157,9 @@
     "url": "http://www.shusgarden.ca",
     "email": "support@shusgarden.ca"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/393350/page_bg_generated_v6b.jpg?t=1475094664"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/393350/page_bg_generated_v6b.jpg?t=1475094664",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

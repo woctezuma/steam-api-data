@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 399,
-    "final": 399,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     238180
@@ -48,11 +50,11 @@
           "packageid": 238180,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "City of sky - 3,99\u20ac",
+          "option_text": "City of sky - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 399
+          "price_in_cents_with_discount": 79
         }
       ]
     }
@@ -161,6 +163,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "1 Mar, 2018"
@@ -169,5 +174,9 @@
     "url": "",
     "email": "63901007@qq.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/788180/page_bg_generated_v6b.jpg?t=1520325979"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/788180/page_bg_generated_v6b.jpg?t=1520325979",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

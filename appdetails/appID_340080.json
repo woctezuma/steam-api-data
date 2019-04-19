@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     57021,
@@ -114,6 +116,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/340080/ss_5efaea7e6ab093ce7e3a711df435e25e2ed4de99.1920x1080.jpg?t=1481877452"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "2 Mar, 2015"
@@ -122,5 +127,12 @@
     "url": "http://moenovel.com/imh/",
     "email": "support@moenovel.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340080/page_bg_generated_v6b.jpg?t=1481877452"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/340080/page_bg_generated_v6b.jpg?t=1481877452",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

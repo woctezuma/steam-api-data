@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 999,
-    "final": 999,
-    "discount_percent": 0
+    "initial": 819,
+    "final": 819,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,19\u20ac"
   },
   "packages": [
     246565
@@ -51,11 +53,11 @@
           "packageid": 246565,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Bacon Man: An Adventure - Original Soundtrack - 9,99\u20ac",
+          "option_text": "Bacon Man: An Adventure - Original Soundtrack - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -128,5 +130,9 @@
     "url": "https://skymapgames.com/about/",
     "email": "contact@skymapgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/808390/page_bg_generated_v6b.jpg?t=1520035951"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/808390/page_bg_generated_v6b.jpg?t=1520035951",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

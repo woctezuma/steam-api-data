@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     164691
@@ -127,6 +129,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Mar, 2017"
@@ -135,5 +140,12 @@
     "url": "http://www.twitter.com/SilverCowStudio",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/614560/page_bg_generated_v6b.jpg?t=1490795998"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/614560/page_bg_generated_v6b.jpg?t=1490795998",
+  "content_descriptors": {
+    "ids": [
+      1,
+      5
+    ],
+    "notes": null
+  }
 }

@@ -15,16 +15,16 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/531750/header.jpg?t=1513206846",
   "website": "http://stegalosaurus.org",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Windows XP</li></ul>",
+    "recommended": "<strong>Empfohlen:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Windows 10</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.8 and above</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.8 and above</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Mac OS X 10.8 and above</li></ul>",
+    "recommended": "<strong>Empfohlen:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> Mac OS X 10.8 and above</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> x86 or compatible processor</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> x86 or compatible processor</li></ul>"
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> x86 or compatible processor</li></ul>",
+    "recommended": "<strong>Empfohlen:</strong><br><ul class=\"bb_ul\"><li><strong>Betriebssystem:</strong> x86 or compatible processor</li></ul>"
   },
   "developers": [
     "Stegalosaurus Game Development"
@@ -36,7 +36,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     128286
@@ -124,5 +126,9 @@
     "url": "stegalosaurus.org",
     "email": "bryymiller@stegalosaurus.org"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/531750/page_bg_generated_v6b.jpg?t=1513206846"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/531750/page_bg_generated_v6b.jpg?t=1513206846",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

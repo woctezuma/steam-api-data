@@ -12,26 +12,32 @@
     "appid": "311210",
     "name": "Call of Duty\u00ae: Black Ops III"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Japanese, Polish, Portuguese-Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/366849/header.jpg?t=1464917355",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese, Polish, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/366849/header.jpg?t=1554429088",
   "website": "https://www.callofduty.com/blackops3",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-Bit / Windows 8 64-Bit / Windows 8.1 64-Bit<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i3-530 @ 2.93 GHz / AMD Phenom\u2122 II X4 810 @ 2.60 GHz<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u00ae GTX 470 @ 1GB / ATI\u00ae Radeon\u2122 HD 6970 @ 1GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 60 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible</li></ul>"
   },
-  "mac_requirements": [],
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.13.6 (High Sierra) or later<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5 (4 Cores) @ 2.3 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> ATI\u00ae Radeon\u2122 M295X @ 2GB<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 150 GB available space<br></li><li><strong>Additional Notes:</strong> NVIDIA and Intel GPUs are not officially supported hardware.</li></ul>"
+  },
   "linux_requirements": [],
   "legal_notice": "\u00a9 2015 Activision Publishing, Inc. ACTIVISION, CALL OF DUTY, CALL OF DUTY BLACK OPS, and stylized roman numeral III are trademarks of Activision Publishing, Inc.",
   "developers": [
-    "Treyarch"
+    "Treyarch",
+    "Aspyr (Mac)"
   ],
   "publishers": [
-    "Activision"
+    "Activision",
+    "Aspyr (Mac)"
   ],
   "price_overview": {
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     66389
@@ -61,7 +67,7 @@
   ],
   "platforms": {
     "windows": true,
-    "mac": false,
+    "mac": true,
     "linux": false
   },
   "categories": [
@@ -111,8 +117,8 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/366849/ss_8ae9ef9fc44fd5165837d3a4b9a7adf075ca07e9.600x338.jpg?t=1464917355",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/366849/ss_8ae9ef9fc44fd5165837d3a4b9a7adf075ca07e9.1920x1080.jpg?t=1464917355"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/366849/ss_8ae9ef9fc44fd5165837d3a4b9a7adf075ca07e9.600x338.jpg?t=1554429088",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/366849/ss_8ae9ef9fc44fd5165837d3a4b9a7adf075ca07e9.1920x1080.jpg?t=1554429088"
     }
   ],
   "movies": [
@@ -138,7 +144,7 @@
     }
   ],
   "recommendations": {
-    "total": 322
+    "total": 236
   },
   "release_date": {
     "coming_soon": false,
@@ -148,5 +154,9 @@
     "url": "http://support.activision.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/366849/page_bg_generated_v6b.jpg?t=1464917355"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/366849/page_bg_generated_v6b.jpg?t=1554429088",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

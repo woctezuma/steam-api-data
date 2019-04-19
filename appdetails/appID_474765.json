@@ -12,7 +12,7 @@
     "appid": "312660",
     "name": "Sniper Elite 4"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Polish, Portuguese-Brazil, Russian<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/474765/header.jpg?t=1493205289",
   "website": "http://www.sniperelite4.com",
   "pc_requirements": {
@@ -32,8 +32,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 699,
-    "final": 349,
-    "discount_percent": 50
+    "final": 699,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     105472
@@ -50,13 +52,13 @@
       "subs": [
         {
           "packageid": 105472,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Sniper Elite 4 - Deathstorm Part 2: Infiltration - <span class=\"discount_original_price\">6,99\u20ac</span> 3,49\u20ac",
+          "option_text": "Sniper Elite 4 - Deathstorm Part 2: Infiltration - 6,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 349
+          "price_in_cents_with_discount": 699
         }
       ]
     }
@@ -143,6 +145,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "25 Apr, 2017"
@@ -151,5 +156,9 @@
     "url": "http://www.rebellion.co.uk/support",
     "email": "se4.support@rebellion.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/474765/page_bg_generated_v6b.jpg?t=1493205289"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/474765/page_bg_generated_v6b.jpg?t=1493205289",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

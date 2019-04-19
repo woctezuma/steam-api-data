@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     212486
@@ -112,5 +114,9 @@
     "url": "http://amazumedia.com",
     "email": "contact@amazumedia.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/728980/page_bg_generated_v6b.jpg?t=1507998882"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/728980/page_bg_generated_v6b.jpg?t=1507998882",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

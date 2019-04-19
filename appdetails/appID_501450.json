@@ -1,14 +1,14 @@
 {
   "type": "game",
-  "name": "Puzzle Blocks",
+  "name": "Puzzle Cross",
   "steam_appid": 501450,
   "required_age": 0,
   "is_free": false,
-  "detailed_description": "Puzzle Blocks is a Virtual Reality Nonogram Puzzles game for HTC Vive.<br />\r\n<br />\r\nCreate &amp; share user made levels and puzzles built with 'PUZZLE BLOCKS MAKER', a powerful and user friendly editor that is integrated directly into Steam Workshop.<br />\r\n<br />\r\nYour imagination is the limit!",
-  "about_the_game": "Puzzle Blocks is a Virtual Reality Nonogram Puzzles game for HTC Vive.<br />\r\n<br />\r\nCreate &amp; share user made levels and puzzles built with 'PUZZLE BLOCKS MAKER', a powerful and user friendly editor that is integrated directly into Steam Workshop.<br />\r\n<br />\r\nYour imagination is the limit!",
-  "short_description": "Puzzle Blocks is a Virtual Reality Nonogram Puzzles game for HTC Vive,<br />\r\nCreate &amp; Share custom levels and puzzles directly on Steam Workshop.",
+  "detailed_description": "Puzzle Cross is a VR Nonogram Puzzles game!",
+  "about_the_game": "Puzzle Cross is a VR Nonogram Puzzles game!",
+  "short_description": "Puzzle Cross is a Virtual Reality Nonogram Puzzles game.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/501450/header.jpg?t=1498097886",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/501450/header.jpg?t=1529819243",
   "website": "http://www.puzzleblocks.net",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 SP1, Windows 8.1 or later, Windows 10<br></li><li><strong>Processor:</strong> CPU: Intel i5-4590 equivalent or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 970, AMD Radeon R9 290 equivalent or better<br></li><li><strong>Storage:</strong> 250 MB available space<br></li><li><strong>Additional Notes:</strong> VR Headset required</li></ul>"
@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     115147
@@ -33,7 +35,7 @@
   "package_groups": [
     {
       "name": "default",
-      "title": "Buy Puzzle Blocks",
+      "title": "Buy Puzzle Cross",
       "description": "",
       "selection_text": "Select a purchase option",
       "save_text": "",
@@ -93,68 +95,38 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_ed50dff5b42440b43282488fb805253fda7ee1ca.600x338.jpg?t=1498097886",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_ed50dff5b42440b43282488fb805253fda7ee1ca.1920x1080.jpg?t=1498097886"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_bc31edf33f82e65767649a0bc5d0e6817ece5ebc.600x338.jpg?t=1529819243",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_bc31edf33f82e65767649a0bc5d0e6817ece5ebc.1920x1080.jpg?t=1529819243"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_c27fdc0cf4215839d4474aaf9122777c3190dc5e.600x338.jpg?t=1498097886",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_c27fdc0cf4215839d4474aaf9122777c3190dc5e.1920x1080.jpg?t=1498097886"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_495e6085d001c02e268d53325fd369d03d741cb3.600x338.jpg?t=1529819243",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_495e6085d001c02e268d53325fd369d03d741cb3.1920x1080.jpg?t=1529819243"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_cda0fc0c39df3cef9df3acb37e05b6fb381d8be1.600x338.jpg?t=1498097886",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_cda0fc0c39df3cef9df3acb37e05b6fb381d8be1.1920x1080.jpg?t=1498097886"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_9aa9e99444b7052935eeefcc484bc44d3b875e19.600x338.jpg?t=1529819243",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_9aa9e99444b7052935eeefcc484bc44d3b875e19.1920x1080.jpg?t=1529819243"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_a0b3b9688890d9806daf5da0454be0f47ce9bc82.600x338.jpg?t=1498097886",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_a0b3b9688890d9806daf5da0454be0f47ce9bc82.1920x1080.jpg?t=1498097886"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_285ae114fec62757afb73f759ef10831dcf5ff84.600x338.jpg?t=1529819243",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_285ae114fec62757afb73f759ef10831dcf5ff84.1920x1080.jpg?t=1529819243"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_2934d4ea5a6260a47cbf02d4d074c722c2c92461.600x338.jpg?t=1498097886",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_2934d4ea5a6260a47cbf02d4d074c722c2c92461.1920x1080.jpg?t=1498097886"
-    },
-    {
-      "id": 5,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_5f415dab1436826f0edf25165887a3c1c5801252.600x338.jpg?t=1498097886",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_5f415dab1436826f0edf25165887a3c1c5801252.1920x1080.jpg?t=1498097886"
-    },
-    {
-      "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_323fa6ccacad2f400496d7dc8c994d260db841f9.600x338.jpg?t=1498097886",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_323fa6ccacad2f400496d7dc8c994d260db841f9.1920x1080.jpg?t=1498097886"
-    },
-    {
-      "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_65fef6a4c72afb7f427d4999ba666dd4bf67590a.600x338.jpg?t=1498097886",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_65fef6a4c72afb7f427d4999ba666dd4bf67590a.1920x1080.jpg?t=1498097886"
-    },
-    {
-      "id": 8,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_62396e11883d488be20c3ca628306f458e3b690b.600x338.jpg?t=1498097886",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_62396e11883d488be20c3ca628306f458e3b690b.1920x1080.jpg?t=1498097886"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_5818a589897cfe0aca8e61193046feefa36a0146.600x338.jpg?t=1529819243",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/501450/ss_5818a589897cfe0aca8e61193046feefa36a0146.1920x1080.jpg?t=1529819243"
     }
   ],
   "movies": [
     {
-      "id": 256688248,
-      "name": "[Puzzle Blocks] Zen Mode Update",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256688248/movie.293x165.jpg?t=1498097871",
+      "id": 256720603,
+      "name": "Puzzle Cross - Gameplay",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256720603/movie.293x165.jpg?t=1529615261",
       "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256688248/movie480.webm?t=1498097871",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256688248/movie_max.webm?t=1498097871"
-      },
-      "highlight": true
-    },
-    {
-      "id": 256677725,
-      "name": "[Puzzle Blocks] The New Student",
-      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256677725/movie.293x165.jpg?t=1498097878",
-      "webm": {
-        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256677725/movie480.webm?t=1498097878",
-        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256677725/movie_max.webm?t=1498097878"
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256720603/movie480.webm?t=1529615261",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256720603/movie_max.webm?t=1529615261"
       },
       "highlight": true
     }
@@ -170,5 +142,9 @@
     "url": "http://www.puzzleblocks.net",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501450/page_bg_generated_v6b.jpg?t=1498097886"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/501450/page_bg_generated_v6b.jpg?t=1529819243",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

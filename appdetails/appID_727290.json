@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 1299,
     "final": 1299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     211904
@@ -274,5 +276,9 @@
     "url": "http://www.experimentalgamer.com",
     "email": "dave@experimentalgamer.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/727290/page_bg_generated_v6b.jpg?t=1519448411"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/727290/page_bg_generated_v6b.jpg?t=1519448411",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -30,10 +30,13 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
-    98089
+    98089,
+    343798
   ],
   "package_groups": [
     {
@@ -50,6 +53,16 @@
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Dark Witch 1 Soundtracks - 9,99\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 999
+        },
+        {
+          "packageid": 343798,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Soundtracks - Commercial License - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
@@ -158,5 +171,9 @@
     "url": "",
     "email": "insidesystemgame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/454110/page_bg_generated_v6b.jpg?t=1458103041"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/454110/page_bg_generated_v6b.jpg?t=1458103041",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

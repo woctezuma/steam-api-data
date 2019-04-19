@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 1249,
+    "final": 1249,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,49\u20ac"
   },
   "packages": [
     223431
@@ -53,11 +55,11 @@
           "packageid": 223431,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "TANE DLC: Southern Pacific GE CW44-9 - 14,99\u20ac",
+          "option_text": "TANE DLC: Southern Pacific GE CW44-9 - 12,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 1249
         }
       ]
     }
@@ -118,6 +120,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/404981/ss_e4192ccdd48a9c9bdd24f03ddbfe5be8b2e760e9.1920x1080.jpg?t=1479203168"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Jan, 2016"
@@ -126,5 +131,9 @@
     "url": "http://support.trainzportal.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404981/page_bg_generated_v6b.jpg?t=1479203168"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/404981/page_bg_generated_v6b.jpg?t=1479203168",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

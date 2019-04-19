@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Take part in a difficult 2D Metroidvania adventure where you will fight through the Manor and surrounding areas to find the source of fog consuming the world. Collect weapons, relics, and experience to upgrade your character to fight, or avoid, the hordes of monsters sent out by the scientist. This challenging game requires fast reflexes and mastery of the character movement system to complete your quest.<br />\r\n<br />\r\n- 2D Metroidvania with an emphasis on platforming<br />\r\n- 40 Weapons to use<br />\r\n- 35 Relics to collect<br />\r\n- 40 Enemies to defeat<br />\r\n- Unlockable variation modes<br />\r\n- Lots of secrets<br />\r\n- Big game world to explore<br />\r\n- High level of mastery required<br />\r\n<br />\r\nController recommended",
   "about_the_game": "Take part in a difficult 2D Metroidvania adventure where you will fight through the Manor and surrounding areas to find the source of fog consuming the world. Collect weapons, relics, and experience to upgrade your character to fight, or avoid, the hordes of monsters sent out by the scientist. This challenging game requires fast reflexes and mastery of the character movement system to complete your quest.<br />\r\n<br />\r\n- 2D Metroidvania with an emphasis on platforming<br />\r\n- 40 Weapons to use<br />\r\n- 35 Relics to collect<br />\r\n- 40 Enemies to defeat<br />\r\n- Unlockable variation modes<br />\r\n- Lots of secrets<br />\r\n- Big game world to explore<br />\r\n- High level of mastery required<br />\r\n<br />\r\nController recommended",
-  "short_description": "Take part in a difficult 2D Metroidvania adventure where you will fight through the Manor and surrounding areas to find the source of fog consuming the world. Collect weapons, relics, and experience to upgrade your character to fight, or avoid, the hordes of monsters sent out by the scientist. This challenging game requires fast reflexes and mastery of the character movement system to complete your quest.",
+  "short_description": "Take part in a difficult 2D Metroidvania adventure where you will fight through the Manor and surrounding areas to find the source of fog consuming the world. Collect weapons, relics, and experience to upgrade your character to fight, or avoid, the hordes of monsters sent out by the scientist.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/772200/header.jpg?t=1517429768",
   "website": "https://twitter.com/doglessheadgame?lang=en",
@@ -25,12 +25,14 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 699,
-    "final": 699,
-    "discount_percent": 0
+    "initial": 614,
+    "final": 368,
+    "discount_percent": 40,
+    "initial_formatted": "6,14\u20ac",
+    "final_formatted": "3,68\u20ac"
   },
   "packages": [
-    "230995"
+    230995
   ],
   "package_groups": [
     {
@@ -43,14 +45,14 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "230995",
-          "percent_savings_text": "",
+          "packageid": 230995,
+          "percent_savings_text": "-40%",
           "percent_savings": 0,
-          "option_text": "Mortal Manor - 6,99\u20ac",
+          "option_text": "Mortal Manor - <span class=\"discount_original_price\">6,14\u20ac</span> 3,68\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 699
+          "price_in_cents_with_discount": 368
         }
       ]
     }
@@ -191,5 +193,9 @@
     "url": "",
     "email": "doglessheadgamescustomer@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/772200/page_bg_generated_v6b.jpg?t=1517429768"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/772200/page_bg_generated_v6b.jpg?t=1517429768",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -12,7 +12,7 @@
     "name": "CAFE 0 ~The Sleeping Beast~"
   },
   "supported_languages": "English, Japanese",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/562891/header.jpg?t=1481860505",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/562891/header.jpg?t=1536596908",
   "website": "http://www.roseverte.net/cafe0/beast/en/",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> XP</li></ul>"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     141554
@@ -72,18 +74,6 @@
     {
       "id": 21,
       "description": "Downloadable Content"
-    },
-    {
-      "id": 22,
-      "description": "Steam Achievements"
-    },
-    {
-      "id": 29,
-      "description": "Steam Trading Cards"
-    },
-    {
-      "id": 23,
-      "description": "Steam Cloud"
     }
   ],
   "genres": [
@@ -103,8 +93,8 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562891/ss_1e9602ab0cd9cc0e5d046212c950275ca17c4e7f.600x338.jpg?t=1481860505",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562891/ss_1e9602ab0cd9cc0e5d046212c950275ca17c4e7f.1920x1080.jpg?t=1481860505"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/562891/ss_1e9602ab0cd9cc0e5d046212c950275ca17c4e7f.600x338.jpg?t=1536596908",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/562891/ss_1e9602ab0cd9cc0e5d046212c950275ca17c4e7f.1920x1080.jpg?t=1536596908"
     }
   ],
   "release_date": {
@@ -115,5 +105,9 @@
     "url": "http://www.roseverte.net/esupport.html",
     "email": "support@roseverte.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562891/page_bg_generated_v6b.jpg?t=1481860505"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562891/page_bg_generated_v6b.jpg?t=1536596908",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

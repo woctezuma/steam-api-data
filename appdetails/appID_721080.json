@@ -25,10 +25,12 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
-    "209227"
+    209227
   ],
   "package_groups": [
     {
@@ -41,7 +43,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "209227",
+          "packageid": 209227,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Bounce Ball - 1,99\u20ac",
@@ -122,6 +124,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Oct, 2017"
@@ -130,5 +135,9 @@
     "url": "",
     "email": "spdigitalarts@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/721080/page_bg_generated_v6b.jpg?t=1507934300"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/721080/page_bg_generated_v6b.jpg?t=1507934300",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

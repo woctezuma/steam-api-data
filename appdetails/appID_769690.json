@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     229250
@@ -104,16 +106,6 @@
       "id": 5,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/769690/ss_105f8dcbfe553d7a9ddb1f3238ef3e1f3caa87ea.600x338.jpg?t=1520691584",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/769690/ss_105f8dcbfe553d7a9ddb1f3238ef3e1f3caa87ea.1920x1080.jpg?t=1520691584"
-    },
-    {
-      "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/769690/?t=1520691584",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/769690/?t=1520691584"
-    },
-    {
-      "id": 7,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/769690/?t=1520691584",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/769690/?t=1520691584"
     }
   ],
   "movies": [
@@ -128,6 +120,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Dec, 2017"
@@ -136,5 +131,9 @@
     "url": "http://www.shohogames.com",
     "email": "contact@shohogames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/769690/page_bg_generated_v6b.jpg?t=1520691584"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/769690/page_bg_generated_v6b.jpg?t=1520691584",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

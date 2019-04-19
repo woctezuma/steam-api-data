@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     125454
@@ -187,5 +189,9 @@
     "url": "http://10tons.com/Support.html",
     "email": "support@10tons.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/525450/page_bg_generated_v6b.jpg?t=1521466076"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/525450/page_bg_generated_v6b.jpg?t=1521466076",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

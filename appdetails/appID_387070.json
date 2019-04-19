@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     73144
@@ -159,9 +161,6 @@
       "highlight": true
     }
   ],
-  "recommendations": {
-    "total": 104
-  },
   "achievements": {
     "total": 8,
     "highlighted": [
@@ -207,5 +206,11 @@
     "url": "www.darkdayinteractive.com",
     "email": "staff@darkdayinteractive.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/387070/page_bg_generated_v6b.jpg?t=1447377088"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/387070/page_bg_generated_v6b.jpg?t=1447377088",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

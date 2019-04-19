@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     225523
@@ -196,5 +198,9 @@
     "url": "",
     "email": "steam@otakumaker.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/763090/page_bg_generated_v6b.jpg?t=1515776420"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/763090/page_bg_generated_v6b.jpg?t=1515776420",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

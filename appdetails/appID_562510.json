@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "JugiPaint is a painting software with diverse tools for various illustration works. It provides many standard digital painting features like layers, brushes, selections, transformations, etc., as well as some less often like guide layers and panels. The raster based painting and editing capabilities are supplemented with powerful tools for creating vector based line art.     <br />\r\nJugiPaint is the successor of Comicado and is also well suited for creating comics. <br />\r\n<br />\r\nKey features: <br />\r\n- a versatile brush system which powers a wide range of brushes with a high level of customization <br />\r\n- vector drawing<br />\r\n- filter layers<br />\r\n- text layers<br />\r\n- guide layers - perspective and simple mannequin<br />\r\n- layered panels for comics creation<br />\r\n- rulers",
   "about_the_game": "JugiPaint is a painting software with diverse tools for various illustration works. It provides many standard digital painting features like layers, brushes, selections, transformations, etc., as well as some less often like guide layers and panels. The raster based painting and editing capabilities are supplemented with powerful tools for creating vector based line art.     <br />\r\nJugiPaint is the successor of Comicado and is also well suited for creating comics. <br />\r\n<br />\r\nKey features: <br />\r\n- a versatile brush system which powers a wide range of brushes with a high level of customization <br />\r\n- vector drawing<br />\r\n- filter layers<br />\r\n- text layers<br />\r\n- guide layers - perspective and simple mannequin<br />\r\n- layered panels for comics creation<br />\r\n- rulers",
-  "short_description": "JugiPaint is a painting software with diverse tools for various illustration works.  It provides many standard digital painting features like layers, brushes, selections, transformations, etc., as well as some less often like guide layers and panels. The raster based painting and editing capabilities are supplemented with powerful tools for creating vector based line art.",
+  "short_description": "JugiPaint is a painting software with diverse tools for various illustration works. It provides many standard digital painting features like layers, brushes, selections, transformations, etc., as well as some less often like guide layers and panels.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/562510/header.jpg?t=1481097309",
   "website": "http://jugipaint.com",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 3500,
     "final": 3500,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "35,--\u20ac"
   },
   "packages": [
     141438
@@ -110,6 +112,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Dec, 2016"
@@ -118,5 +123,9 @@
     "url": "http://jugipaint.com",
     "email": "jugiweb@jugilus.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562510/page_bg_generated_v6b.jpg?t=1481097309"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/562510/page_bg_generated_v6b.jpg?t=1481097309",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

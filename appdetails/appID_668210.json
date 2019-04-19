@@ -28,7 +28,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     189958
@@ -163,7 +165,7 @@
     }
   ],
   "recommendations": {
-    "total": 353
+    "total": 413
   },
   "achievements": {
     "total": 16,
@@ -218,5 +220,9 @@
     "url": "https://kong.zendesk.com/hc/en-us",
     "email": "support@kongregate.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/668210/page_bg_generated_v6b.jpg?t=1506009937"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/668210/page_bg_generated_v6b.jpg?t=1506009937",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

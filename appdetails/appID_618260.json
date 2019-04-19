@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 159,
     "final": 159,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     165894
@@ -136,6 +138,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "16 Jan, 2018"
@@ -144,5 +149,9 @@
     "url": "https://gestmorphgames.com/",
     "email": "Syphyous@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/618260/page_bg_generated_v6b.jpg?t=1516140519"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/618260/page_bg_generated_v6b.jpg?t=1516140519",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Acaratus DLC package containing the Deluxe content (game NOT included)<br />\r\n<br />\r\nDigital Artbook<br />\r\n<br />\r\nDigital Soundtrack",
   "about_the_game": "Acaratus DLC package containing the Deluxe content (game NOT included)<br />\r\n<br />\r\nDigital Artbook<br />\r\n<br />\r\nDigital Soundtrack",
-  "short_description": "Acaratus DLC package containing the Deluxe content (game NOT included)<br />\r\n<br />\r\nDigital Artbook<br />\r\n<br />\r\nDigital Soundtrack",
+  "short_description": "Acaratus DLC package containing the Deluxe content (game NOT included) Digital Artbook Digital Soundtrack",
   "fullgame": {
     "appid": "376410",
     "name": "Acaratus"
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     96264
@@ -119,5 +121,9 @@
     "url": "",
     "email": "support@nodbrim.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449080/page_bg_generated_v6b.jpg?t=1459451670"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/449080/page_bg_generated_v6b.jpg?t=1459451670",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

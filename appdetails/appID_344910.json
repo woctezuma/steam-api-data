@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<strong>Sun Blast is the best 3d space shooter on Steam.  Earn upgrades as you fight your way through a massive seleciton of levels.</strong><br><br>In a period of 48 hours, an alien race utterly annihilated Earth's military forces.  Only one colonial ship remains, and it's humanity's last chance.  <br><br>Choose your starfighter and join the desperate counter-assault on the alien forces.  You're massively overpowered and ridiculously outgunned, but with cunning and a lot of luck, you can prevail. <br><br>As you prove your worth in combat, you'll rise in rank and gain the ability to upgrade your ships weapons and defenses.   This is the 3d space shooter you've been waiting for!  <br><br><strong>Features:</strong><br><br><ul class=\"bb_ul\"><li>Full gamepad support<br></li><li>Three ship designs to choose from, each with unique look and behavior<br></li><li>Fight against stealthy fighters and gigantic starships <br></li><li>Huge level selection, from planet orbits to underground tunnels to infested military bases<br></li><li>Replay levels to earn medals<br></li><li>Steam achievements and leaderboards</li></ul>",
   "about_the_game": "<strong>Sun Blast is the best 3d space shooter on Steam.  Earn upgrades as you fight your way through a massive seleciton of levels.</strong><br><br>In a period of 48 hours, an alien race utterly annihilated Earth's military forces.  Only one colonial ship remains, and it's humanity's last chance.  <br><br>Choose your starfighter and join the desperate counter-assault on the alien forces.  You're massively overpowered and ridiculously outgunned, but with cunning and a lot of luck, you can prevail. <br><br>As you prove your worth in combat, you'll rise in rank and gain the ability to upgrade your ships weapons and defenses.   This is the 3d space shooter you've been waiting for!  <br><br><strong>Features:</strong><br><br><ul class=\"bb_ul\"><li>Full gamepad support<br></li><li>Three ship designs to choose from, each with unique look and behavior<br></li><li>Fight against stealthy fighters and gigantic starships <br></li><li>Huge level selection, from planet orbits to underground tunnels to infested military bases<br></li><li>Replay levels to earn medals<br></li><li>Steam achievements and leaderboards</li></ul>",
-  "short_description": "<h2 class=\"bb_tag\">Sun Blast is the best 3d space shooter on Steam.  Earn upgrades as you fight your way through a huge seleciton of levels.  Full gamepad support!</h2>",
+  "short_description": "Sun Blast is the best 3d space shooter on Steam. Earn upgrades as you fight your way through a huge seleciton of levels. Full gamepad support!",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/344910/header.jpg?t=1492978798",
   "website": "http://www.sunblastthegame.com",
@@ -30,10 +30,12 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    "58935"
+    58935
   ],
   "package_groups": [
     {
@@ -46,7 +48,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "58935",
+          "packageid": 58935,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "Sun Blast - 0,99\u20ac",
@@ -154,7 +156,7 @@
     }
   ],
   "recommendations": {
-    "total": 588
+    "total": 495
   },
   "achievements": {
     "total": 24,
@@ -209,5 +211,9 @@
     "url": "http://www.sunblastthegame.com/support.php",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/344910/page_bg_generated_v6b.jpg?t=1492978798"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/344910/page_bg_generated_v6b.jpg?t=1492978798",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

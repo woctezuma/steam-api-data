@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 199,
-    "final": 133,
-    "discount_percent": 33
+    "final": 199,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     158689
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 158689,
-          "percent_savings_text": "-33%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "The Cat Games - <span class=\"discount_original_price\">1,99\u20ac</span> 1,33\u20ac",
+          "option_text": "The Cat Games - 1,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 133
+          "price_in_cents_with_discount": 199
         }
       ]
     }
@@ -157,7 +159,7 @@
     }
   ],
   "recommendations": {
-    "total": 454
+    "total": 489
   },
   "achievements": {
     "total": 16,
@@ -212,5 +214,9 @@
     "url": "http://mhanka.com/",
     "email": "mhanka@gmx.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/603260/page_bg_generated_v6b.jpg?t=1490349385"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/603260/page_bg_generated_v6b.jpg?t=1490349385",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

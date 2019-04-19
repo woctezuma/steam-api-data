@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     62161
@@ -154,6 +156,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/354190/ss_99c7fe82229db5bcb399c20dc70409ef6be8b334.1920x1080.jpg?t=1447370203"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 May, 2015"
@@ -162,5 +167,9 @@
     "url": "http://www.winterwolves.com/info.php",
     "email": "info@winterwolves.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/354190/page_bg_generated_v6b.jpg?t=1447370203"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/354190/page_bg_generated_v6b.jpg?t=1447370203",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

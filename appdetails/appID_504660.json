@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<h2 class=\"bb_tag\">A classic command-based RPG with 3D map interface and smooth battle animation!</h2><h2 class=\"bb_tag\">Story</h2>A century ago, there was a unique artist named Orwiel. Sion and Michelle set off on a journey to discover his final works. The two meet a girl with no memories named Liara. What the girl carries will shake both the path they travel and their fate!<h2 class=\"bb_tag\">A mainstream command RPG with a 3D map interface!</h2>Begin a new adventure in this game's 3D dungeons! This game uses old-school command-based battles to bring you an easily understood and played mainstream command RPG.<h2 class=\"bb_tag\">Impressive battle animation!</h2>Finely-drawn enemies, smooth motion, and screen-filling effects let you experience impressive scenes of battle!<h2 class=\"bb_tag\">Enhance your weapon and learn new skills</h2>Keep using your skills to make them more powerful! Go to the blacksmith in town to enhance your characters' weapons and learn new skills. Each character can learn up to five skills. As you use these skills, the nature of their attacks and power will change. Keep using them in order to deal massive damage!<h2 class=\"bb_tag\">Store SP in order to unleash special abilities!</h2>Build your SP gauge in battle and use it to unleash special abilities! The gauge has a maximum of four levels, and by using it all at once, your allies can join in to create an even more powerful attack.<h2 class=\"bb_tag\">About KEMCO</h2><i>KEMCO</i> is a video game publishing company specializing in handheld JRPG games. By focusing on immersive narratives and quality gameplay we strive to continually design gaming experiences both seasoned and new gamers alike can enjoy while advancing the genre to a whole new level.<br><br><i>*IMPORTANT NOTICE*<br>This app features full controller support with the Xbox 360 Controller on Windows. Full controller support is not guaranteed on Mac OS X.</i>",
   "about_the_game": "<h2 class=\"bb_tag\">A classic command-based RPG with 3D map interface and smooth battle animation!</h2><h2 class=\"bb_tag\">Story</h2>A century ago, there was a unique artist named Orwiel. Sion and Michelle set off on a journey to discover his final works. The two meet a girl with no memories named Liara. What the girl carries will shake both the path they travel and their fate!<h2 class=\"bb_tag\">A mainstream command RPG with a 3D map interface!</h2>Begin a new adventure in this game's 3D dungeons! This game uses old-school command-based battles to bring you an easily understood and played mainstream command RPG.<h2 class=\"bb_tag\">Impressive battle animation!</h2>Finely-drawn enemies, smooth motion, and screen-filling effects let you experience impressive scenes of battle!<h2 class=\"bb_tag\">Enhance your weapon and learn new skills</h2>Keep using your skills to make them more powerful! Go to the blacksmith in town to enhance your characters' weapons and learn new skills. Each character can learn up to five skills. As you use these skills, the nature of their attacks and power will change. Keep using them in order to deal massive damage!<h2 class=\"bb_tag\">Store SP in order to unleash special abilities!</h2>Build your SP gauge in battle and use it to unleash special abilities! The gauge has a maximum of four levels, and by using it all at once, your allies can join in to create an even more powerful attack.<h2 class=\"bb_tag\">About KEMCO</h2><i>KEMCO</i> is a video game publishing company specializing in handheld JRPG games. By focusing on immersive narratives and quality gameplay we strive to continually design gaming experiences both seasoned and new gamers alike can enjoy while advancing the genre to a whole new level.<br><br><i>*IMPORTANT NOTICE*<br>This app features full controller support with the Xbox 360 Controller on Windows. Full controller support is not guaranteed on Mac OS X.</i>",
-  "short_description": "A classic command-based RPG with 3D map interface and smooth battle animation!<br />\r\nA century ago, there was a unique artist named Orwiel. Sion and Michelle set off on a journey to discover his final works. The two meet a girl with no memories named Liara. What the girl carries will shake both the path they travel and their fate!",
+  "short_description": "A classic command-based RPG with 3D map interface and smooth battle animation! A century ago, there was a unique artist named Orwiel. Sion and Michelle set off on a journey to discover his final works. The two meet a girl with no memories named Liara. What the girl carries will shake both the path they travel and their fate!",
   "supported_languages": "English, Japanese, Simplified Chinese, Traditional Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/504660/header.jpg?t=1494485245",
   "website": "http://www.kemco-games.com/",
@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     116203
@@ -149,6 +151,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "29 Jan, 2017"
@@ -157,5 +162,9 @@
     "url": "http://www.kemco-games.com/",
     "email": "keitai-info@kemco.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/504660/page_bg_generated_v6b.jpg?t=1494485245"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/504660/page_bg_generated_v6b.jpg?t=1494485245",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -6,9 +6,9 @@
   "is_free": false,
   "detailed_description": "Virtual Desktop is an application developed for the Oculus Rift, HTC Vive and Windows Mixed Reality headsets that lets you use your computer in VR. You can browse the web, watch movies, Netflix or even play games on a giant virtual screen.<br><br>Other features include:<br><ul class=\"bb_ul\"><li>Hardware accelerated 360 video playback<br></li><li>Ability to play/stream YouTube 360 videos<br></li><li>Browse and view 360 photos<br></li><li>MilkDrop support for music visualization<br></li><li>3D Side-By-Side video support<br></li><li>Game launcher with voice commands<br></li><li>Multi-monitor<br></li><li>Environment Editor to create custom environments<br></li><li>Steam Workshop integration for environments<br></li><li>Dashboard integration so you can see/use your desktop in any VR game</li></ul>",
   "about_the_game": "Virtual Desktop is an application developed for the Oculus Rift, HTC Vive and Windows Mixed Reality headsets that lets you use your computer in VR. You can browse the web, watch movies, Netflix or even play games on a giant virtual screen.<br><br>Other features include:<br><ul class=\"bb_ul\"><li>Hardware accelerated 360 video playback<br></li><li>Ability to play/stream YouTube 360 videos<br></li><li>Browse and view 360 photos<br></li><li>MilkDrop support for music visualization<br></li><li>3D Side-By-Side video support<br></li><li>Game launcher with voice commands<br></li><li>Multi-monitor<br></li><li>Environment Editor to create custom environments<br></li><li>Steam Workshop integration for environments<br></li><li>Dashboard integration so you can see/use your desktop in any VR game</li></ul>",
-  "short_description": "Virtual Desktop is an application developed for the Oculus Rift, HTC Vive and WMR headsets that lets you use your computer in VR.<br />\nYou can browse the web, watch movies, Netflix or even play games on a giant virtual screen.",
+  "short_description": "Virtual Desktop is an application developed for the Oculus Rift, HTC Vive and WMR headsets that lets you use your computer in VR. You can browse the web, watch movies, Netflix or even play games on a giant virtual screen.",
   "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201cThese are the kinds of programs that change the way people look at technology. In this case, it\u2019s a program that, for some people, might actually make virtual reality a enjoyable, even practical, replacement for their monitor.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.kotaku.com.au/2016/03/one-program-lets-you-use-your-entire-pc-in-vr-without-any-fuss/\" target=\"_blank\" rel=\"noopener\"  >Kotaku</a></a><br><br>\u201cIt's an incredibly polished app that take minimal resources to provide a number of functions that feel like they should be a standardised part of the VR experience coming to consumer homes.\u201d<br><a href=\"http://www.destructoid.com/review-virtual-desktop-vr-353028.phtml\" target=\"_blank\" rel=\"noreferrer\"  >Destructoid</a></a><br><br>\u201cThis is the first program you should buy for your Oculus Rift\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.polygon.com/2016/3/28/11317318/virtual-desktop-oculus-rift\" target=\"_blank\" rel=\"noopener\"  >Polygon</a></a><br>",
+  "reviews": "\u201cThese are the kinds of programs that change the way people look at technology. In this case, it\u2019s a program that, for some people, might actually make virtual reality a enjoyable, even practical, replacement for their monitor.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.kotaku.com.au/2016/03/one-program-lets-you-use-your-entire-pc-in-vr-without-any-fuss/\" target=\"_blank\" rel=\"noopener\"  >Kotaku</a><br><br>\u201cIt's an incredibly polished app that take minimal resources to provide a number of functions that feel like they should be a standardised part of the VR experience coming to consumer homes.\u201d<br><a href=\"http://www.destructoid.com/review-virtual-desktop-vr-353028.phtml\" target=\"_blank\" rel=\"noreferrer\"  >Destructoid</a><br><br>\u201cThis is the first program you should buy for your Oculus Rift\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://www.polygon.com/2016/3/28/11317318/virtual-desktop-oculus-rift\" target=\"_blank\" rel=\"noopener\"  >Polygon</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/382110/header.jpg?t=1513728802",
   "website": "http://www.vrdesktop.net/",
   "pc_requirements": {
@@ -25,9 +25,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1499,
-    "final": 1499,
-    "discount_percent": 0
+    "initial": 1299,
+    "final": 1299,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "12,99\u20ac"
   },
   "packages": [
     71606
@@ -46,11 +48,11 @@
           "packageid": 71606,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Virtual Desktop - 14,99\u20ac",
+          "option_text": "Virtual Desktop - 12,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 1499
+          "price_in_cents_with_discount": 1299
         }
       ]
     }
@@ -146,7 +148,7 @@
     }
   ],
   "recommendations": {
-    "total": 838
+    "total": 1010
   },
   "achievements": {
     "total": 0
@@ -159,5 +161,9 @@
     "url": "http://steamcommunity.com/app/382110/discussions/",
     "email": "guy@vrdesktop.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/382110/page_bg_generated_v6b.jpg?t=1513728802"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/382110/page_bg_generated_v6b.jpg?t=1513728802",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -5,9 +5,9 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Creature Factory 2 is the second installment of the original Open Movie Workshop DVD. However, this is not a simple refresh, it's an entirely different workflow. Like the first part of the series, Creature Factory 2 is not meant to be a simple follow-along tutorial. Instead we witness an inspiring creative process from start to finish.\r\n\r\nOriginally published on cloud.blender.org - August 2014. \r\n\r\nTotal duration: 13 hours, 45 chapters.\r\n\r\nAuthor: Andy Goralczyk\r\nAs a Blender 3D artist, Andy was responsible for much of the design, compositing and lighting for Elephants Dream, Big Buck Bunny, Tears Of Steel, Caminandes 2, and Cosmos Laundromat.\r\n\r\nLicense: Creative Commons Attribution 3.0. This product is has been made by and added to Steam Store by Blender Institute to support free/open Blender projects.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Creature Factory 2 is the second installment of the original Open Movie Workshop DVD. However, this is not a simple refresh, it's an entirely different workflow. Like the first part of the series, Creature Factory 2 is not meant to be a simple follow-along tutorial. Instead we witness an inspiring creative process from start to finish.\r\n\r\nOriginally published on cloud.blender.org - August 2014. \r\n\r\nTotal duration: 13 hours, 45 chapters.\r\n\r\nAuthor: Andy Goralczyk\r\nAs a Blender 3D artist, Andy was responsible for much of the design, compositing and lighting for Elephants Dream, Big Buck Bunny, Tears Of Steel, Caminandes 2, and Cosmos Laundromat.\r\n\r\nLicense: Creative Commons Attribution 3.0. This product is has been made by and added to Steam Store by Blender Institute to support free/open Blender projects.",
   "about_the_game": "Creature Factory 2 is the second installment of the original Open Movie Workshop DVD. However, this is not a simple refresh, it's an entirely different workflow. Like the first part of the series, Creature Factory 2 is not meant to be a simple follow-along tutorial. Instead we witness an inspiring creative process from start to finish.<br />\r\n<br />\r\nOriginally published on cloud.blender.org - August 2014. <br />\r\n<br />\r\nTotal duration: 13 hours, 45 chapters.<br />\r\n<br />\r\nAuthor: Andy Goralczyk<br />\r\nAs a Blender 3D artist, Andy was responsible for much of the design, compositing and lighting for Elephants Dream, Big Buck Bunny, Tears Of Steel, Caminandes 2, and Cosmos Laundromat.<br />\r\n<br />\r\nLicense: Creative Commons Attribution 3.0. This product is has been made by and added to Steam Store by Blender Institute to support free/open Blender projects.",
-  "short_description": "Creature Factory 2 is a workflow oriented Blender tutorial series. It allows you to witness an inspiring creative process from start to finish.<br />\r\nTotal duration: 13 hours, 45 chapters.",
+  "short_description": "Creature Factory 2 is a workflow oriented Blender tutorial series. It allows you to witness an inspiring creative process from start to finish. Total duration: 13 hours, 45 chapters.",
   "fullgame": {
     "appid": null,
     "name": "Uninitialized"
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     72357
@@ -135,6 +137,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Jul, 2015"
@@ -143,5 +148,9 @@
     "url": "http://www.blender.org/support/",
     "email": "foundation@blender.org"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384420/page_bg_generated_v6b.jpg?t=1447376932"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384420/page_bg_generated_v6b.jpg?t=1447376932",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

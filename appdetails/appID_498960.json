@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Before the events of Blood Gulch there was Project Freelancer, an experimental military program which sought to create a new breed of warrior. This new soldier was to be faster, stronger and smarter than any other we've seen before... which, based on previous seasons of RED VS. BLUE, doesn't really take that much.  Adding an exciting new cast of characters to the classic ensemble, this innovative narrative - part amazing action prequel and part hilarious comedy sequel - unveils the mystery behind Project Freelancer and its dire consequences for the Reds and Blues.",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>Before the events of Blood Gulch there was Project Freelancer, an experimental military program which sought to create a new breed of warrior. This new soldier was to be faster, stronger and smarter than any other we've seen before... which, based on previous seasons of RED VS. BLUE, doesn't really take that much.  Adding an exciting new cast of characters to the classic ensemble, this innovative narrative - part amazing action prequel and part hilarious comedy sequel - unveils the mystery behind Project Freelancer and its dire consequences for the Reds and Blues.",
   "about_the_game": "Before the events of Blood Gulch there was Project Freelancer, an experimental military program which sought to create a new breed of warrior. This new soldier was to be faster, stronger and smarter than any other we've seen before... which, based on previous seasons of RED VS. BLUE, doesn't really take that much.  Adding an exciting new cast of characters to the classic ensemble, this innovative narrative - part amazing action prequel and part hilarious comedy sequel - unveils the mystery behind Project Freelancer and its dire consequences for the Reds and Blues.",
   "short_description": "Before the events of Blood Gulch there was Project Freelancer, an experimental military program which sought to create a new breed of warrior.",
   "fullgame": {
@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     114156,
@@ -160,6 +162,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Aug, 2016"
@@ -168,5 +173,9 @@
     "url": "http://www.cinedigm.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498960/page_bg_generated_v6b.jpg?t=1472754710"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/498960/page_bg_generated_v6b.jpg?t=1472754710",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

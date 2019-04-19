@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     190856
@@ -257,5 +259,9 @@
     "url": "http://www.teekoogames.com/contact/",
     "email": "support@teekoogames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/670780/page_bg_generated_v6b.jpg?t=1511625789"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/670780/page_bg_generated_v6b.jpg?t=1511625789",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

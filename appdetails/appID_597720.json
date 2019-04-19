@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     156855
@@ -131,6 +133,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Apr, 2017"
@@ -139,5 +144,9 @@
     "url": "",
     "email": "l.tavenier@live.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/597720/page_bg_generated_v6b.jpg?t=1492081309"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/597720/page_bg_generated_v6b.jpg?t=1492081309",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

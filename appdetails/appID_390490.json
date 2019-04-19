@@ -12,8 +12,8 @@
     "name": "Echo Tokyo: An Intro"
   },
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/390490/header.jpg?t=1515415934",
-  "website": "http://dharker.studio",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/390490/header.jpg?t=1545390204",
+  "website": "http://www.echotokyogames.com",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP<br></li><li><strong>Storage:</strong> 15 MB available space</li></ul>"
   },
@@ -23,9 +23,9 @@
   "linux_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Storage:</strong> 15 MB available space</li></ul>"
   },
-  "legal_notice": "Dharker Studios Ltd \u00a92016+",
+  "legal_notice": "Echo Tokyo Games \u00a92018+",
   "developers": [
-    "Dharker Studio"
+    "Echo Tokyo Games"
   ],
   "publishers": [
     "Dharker Studio"
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 79,
     "final": 79,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     74462
@@ -79,14 +81,6 @@
   ],
   "genres": [
     {
-      "id": "72",
-      "description": "Nudity"
-    },
-    {
-      "id": "73",
-      "description": "Violent"
-    },
-    {
       "id": "25",
       "description": "Adventure"
     },
@@ -102,27 +96,38 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/390490/ss_3dd66ccc44c05997fa791a90e2ccca3a61f84738.600x338.jpg?t=1515415934",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/390490/ss_3dd66ccc44c05997fa791a90e2ccca3a61f84738.1920x1080.jpg?t=1515415934"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/390490/ss_3dd66ccc44c05997fa791a90e2ccca3a61f84738.600x338.jpg?t=1545390204",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/390490/ss_3dd66ccc44c05997fa791a90e2ccca3a61f84738.1920x1080.jpg?t=1545390204"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/390490/ss_c7c4cd7e5adff5e5f7e1c5d529a43063701ab707.600x338.jpg?t=1515415934",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/390490/ss_c7c4cd7e5adff5e5f7e1c5d529a43063701ab707.1920x1080.jpg?t=1515415934"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/390490/ss_c7c4cd7e5adff5e5f7e1c5d529a43063701ab707.600x338.jpg?t=1545390204",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/390490/ss_c7c4cd7e5adff5e5f7e1c5d529a43063701ab707.1920x1080.jpg?t=1545390204"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/390490/ss_79cd91bf7209af216ee0d08cf23e6b8a4c0bf930.600x338.jpg?t=1515415934",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/390490/ss_79cd91bf7209af216ee0d08cf23e6b8a4c0bf930.1920x1080.jpg?t=1515415934"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/390490/ss_79cd91bf7209af216ee0d08cf23e6b8a4c0bf930.600x338.jpg?t=1545390204",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/390490/ss_79cd91bf7209af216ee0d08cf23e6b8a4c0bf930.1920x1080.jpg?t=1545390204"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Jan, 2016"
   },
   "support_info": {
-    "url": "http://Dharker.Studio",
+    "url": "http://www.echotokyogames.com",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/390490/page_bg_generated_v6b.jpg?t=1515415934"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/390490/page_bg_generated_v6b.jpg?t=1545390204",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

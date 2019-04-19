@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 159,
     "final": 159,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
     261245
@@ -138,6 +140,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Apr, 2018"
@@ -146,5 +151,9 @@
     "url": "",
     "email": "support@microids.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/837790/page_bg_generated_v6b.jpg?t=1522743456"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/837790/page_bg_generated_v6b.jpg?t=1522743456",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

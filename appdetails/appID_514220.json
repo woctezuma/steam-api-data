@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     119941
@@ -224,5 +226,9 @@
     "url": "http://www.m07games.com",
     "email": "contact@m07games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/514220/page_bg_generated_v6b.jpg?t=1483192558"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/514220/page_bg_generated_v6b.jpg?t=1483192558",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

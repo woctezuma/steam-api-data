@@ -12,7 +12,7 @@
     "appid": "494580",
     "name": "STANDBY"
   },
-  "supported_languages": "English, German, Spanish, Russian, French, Simplified Chinese",
+  "supported_languages": "English, German, Spanish - Spain, Russian, French, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/578201/header.jpg?t=1484299614",
   "website": null,
   "pc_requirements": {
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     147625
@@ -158,5 +160,9 @@
     "url": "http://standbygame.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/578201/page_bg_generated_v6b.jpg?t=1484299614"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/578201/page_bg_generated_v6b.jpg?t=1484299614",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "<i>Only the host needs to own this DLC. </i><br><br>3-6 Players | Ages 8 &amp; Up<br><br>~45-60 Minutes<br><br><strong>RARRR!! </strong>is APE's card game of earth-shaking battles between giant Japanese movie monsters (daikaiju). Each player creates a monster, builds up its power, and then battles against other monsters to destroy the world\u2019s greatest cities.<br><br>Monsters are constructed using Katakana cards, which create the monsters' names and give them terrifying powers. Players spend their monsters' power when battling other monsters. The winner ravages the city. But be careful how you spend your power - there are a lot of cities to crush!",
   "about_the_game": "<i>Only the host needs to own this DLC. </i><br><br>3-6 Players | Ages 8 &amp; Up<br><br>~45-60 Minutes<br><br><strong>RARRR!! </strong>is APE's card game of earth-shaking battles between giant Japanese movie monsters (daikaiju). Each player creates a monster, builds up its power, and then battles against other monsters to destroy the world\u2019s greatest cities.<br><br>Monsters are constructed using Katakana cards, which create the monsters' names and give them terrifying powers. Players spend their monsters' power when battling other monsters. The winner ravages the city. But be careful how you spend your power - there are a lot of cities to crush!",
-  "short_description": "<strong>RARRR!!</strong> is APE's card game of earth-shaking battles between giant Japanese movie monsters (daikaiju). Each player creates a monster, builds up its power, and then battles against other monsters to destroy the world\u2019s greatest cities.",
+  "short_description": "RARRR!! is APE's card game of earth-shaking battles between giant Japanese movie monsters (daikaiju). Each player creates a monster, builds up its power, and then battles against other monsters to destroy the world\u2019s greatest cities.",
   "fullgame": {
     "appid": "286160",
     "name": "Tabletop Simulator"
@@ -31,10 +31,12 @@
     ""
   ],
   "price_overview": {
-    "currency": "RUB",
-    "initial": 12900,
-    "final": 12900,
-    "discount_percent": 0
+    "currency": "EUR",
+    "initial": 499,
+    "final": 499,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     99192
@@ -53,11 +55,11 @@
           "packageid": 99192,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "RARRR!! - 129 p\u0443\u0431.",
+          "option_text": "RARRR!! - 4,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 12900
+          "price_in_cents_with_discount": 499
         }
       ]
     }
@@ -184,6 +186,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "4 Apr, 2016"
@@ -192,5 +197,9 @@
     "url": "http://www.berserk-games.com/forum",
     "email": "berserkgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/457180/page_bg_generated_v6b.jpg?t=1478647613"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/457180/page_bg_generated_v6b.jpg?t=1478647613",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

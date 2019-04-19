@@ -12,18 +12,18 @@
     "name": "Sentinels of the Multiverse"
   },
   "supported_languages": "English",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/532620/header.jpg?t=1478095778",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/532620/header.jpg?t=1534193215",
   "website": "http://sentinelsdigital.com",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> No additional requirements</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> No additional requirements</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> No additional requirements</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> No additional requirements</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Additional Notes:</strong> No additional requirements</li></ul>"
+    "minimum": "<strong>Minimale\u00a0:</strong><br><ul class=\"bb_ul\"><li><strong>Notes suppl\u00e9mentaires\u00a0:</strong> No additional requirements</li></ul>"
   },
-  "legal_notice": "Copyright \u00a9 2014-2016 Handelabra Games Inc.<br />\r\n<br />\r\nSentinels of The Multiverse: The Video Game is an officially licensed product of \u201cSentinels of the Multiverse\u00ae\u201d from Greater Than Games LLC.",
+  "legal_notice": "Copyright \u00a9 2014-2018 Handelabra Games Inc.<br />\r\n<br />\r\nSentinels of The Multiverse: The Video Game is an officially licensed product of \u201cSentinels of the Multiverse\u00ae\u201d from Greater Than Games LLC.",
   "developers": [
     "Handelabra Games Inc."
   ],
@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     128789
@@ -77,8 +79,24 @@
       "description": "Multi-player"
     },
     {
+      "id": 36,
+      "description": "Online Multi-Player"
+    },
+    {
+      "id": 37,
+      "description": "Local Multi-Player"
+    },
+    {
       "id": 9,
       "description": "Co-op"
+    },
+    {
+      "id": 38,
+      "description": "Online Co-op"
+    },
+    {
+      "id": 39,
+      "description": "Local Co-op"
     },
     {
       "id": 24,
@@ -118,30 +136,33 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_c0e65ef1dbdba9e475c0aa1908e597e7cbcbcfd4.600x338.jpg?t=1478095778",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_c0e65ef1dbdba9e475c0aa1908e597e7cbcbcfd4.1920x1080.jpg?t=1478095778"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_c0e65ef1dbdba9e475c0aa1908e597e7cbcbcfd4.600x338.jpg?t=1534193215",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_c0e65ef1dbdba9e475c0aa1908e597e7cbcbcfd4.1920x1080.jpg?t=1534193215"
     },
     {
       "id": 1,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_191ec22a3e112c9d4c4b8aa0d64aaf3683cb5459.600x338.jpg?t=1478095778",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_191ec22a3e112c9d4c4b8aa0d64aaf3683cb5459.1920x1080.jpg?t=1478095778"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_191ec22a3e112c9d4c4b8aa0d64aaf3683cb5459.600x338.jpg?t=1534193215",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_191ec22a3e112c9d4c4b8aa0d64aaf3683cb5459.1920x1080.jpg?t=1534193215"
     },
     {
       "id": 2,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_3806a60ad9113d179bec60e1c719250fc9337062.600x338.jpg?t=1478095778",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_3806a60ad9113d179bec60e1c719250fc9337062.1920x1080.jpg?t=1478095778"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_3806a60ad9113d179bec60e1c719250fc9337062.600x338.jpg?t=1534193215",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_3806a60ad9113d179bec60e1c719250fc9337062.1920x1080.jpg?t=1534193215"
     },
     {
       "id": 3,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_3bb94f792d759dab928fabefe147e5cf5ce2c478.600x338.jpg?t=1478095778",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_3bb94f792d759dab928fabefe147e5cf5ce2c478.1920x1080.jpg?t=1478095778"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_3bb94f792d759dab928fabefe147e5cf5ce2c478.600x338.jpg?t=1534193215",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_3bb94f792d759dab928fabefe147e5cf5ce2c478.1920x1080.jpg?t=1534193215"
     },
     {
       "id": 4,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_a5b203df98795cd27abddedef792bd156f32f233.600x338.jpg?t=1478095778",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_a5b203df98795cd27abddedef792bd156f32f233.1920x1080.jpg?t=1478095778"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_a5b203df98795cd27abddedef792bd156f32f233.600x338.jpg?t=1534193215",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/532620/ss_a5b203df98795cd27abddedef792bd156f32f233.1920x1080.jpg?t=1534193215"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Oct, 2016"
@@ -150,5 +171,9 @@
     "url": "http://handelabra.com/contact",
     "email": "support@handelabra.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/532620/page_bg_generated_v6b.jpg?t=1478095778"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/532620/page_bg_generated_v6b.jpg?t=1534193215",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

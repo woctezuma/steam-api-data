@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<p>Due to over exposure to the Zytron gasses, A.R.E.S. loses himself to older temptations for power and war.</p>\n\t\t\t\t\t\t<p>While other suit upgrades involve the incorporation of advanced technological hardware, the Berzerker Suit is a reminder of A.R.E.S. dark mysterious past. The suit is equipped with a powerful weapon that creates a deadly fire shot but the owner receives more damage.</p>",
   "about_the_game": "<p>Due to over exposure to the Zytron gasses, A.R.E.S. loses himself to older temptations for power and war.</p>\n\t\t\t\t\t\t<p>While other suit upgrades involve the incorporation of advanced technological hardware, the Berzerker Suit is a reminder of A.R.E.S. dark mysterious past. The suit is equipped with a powerful weapon that creates a deadly fire shot but the owner receives more damage.</p>",
-  "short_description": "",
+  "short_description": "Due to over exposure to the Zytron gasses, A.R.E.S. loses himself to older temptations for power and war. While other suit upgrades involve the incorporation of advanced technological hardware, the Berzerker Suit is a reminder of A.R.E.S. dark mysterious past.",
   "fullgame": {
     "appid": "92300",
     "name": "A.R.E.S.: Extinction Agenda"
@@ -27,9 +27,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 99,
-    "final": 99,
-    "discount_percent": 0
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
   },
   "packages": [
     8935,
@@ -49,11 +51,11 @@
           "packageid": 8935,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "A.R.E.S.: Berzerker Suit - 0,99\u20ac",
+          "option_text": "A.R.E.S.: Berzerker Suit - 0,79\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 99
+          "price_in_cents_with_discount": 79
         },
         {
           "packageid": 13177,
@@ -132,5 +134,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/92302/page_bg_generated_v6b.jpg?t=1447354436"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/92302/page_bg_generated_v6b.jpg?t=1447354436",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

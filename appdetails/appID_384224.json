@@ -12,8 +12,8 @@
     "appid": "358090",
     "name": "D4: Dark Dreams Don\u2019t Die -Season One-"
   },
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish, Japanese, Portuguese<br><strong>*</strong>languages with full audio support",
-  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/384224/header.jpg?t=1447376918",
+  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Portuguese<br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/384224/header.jpg?t=1553250856",
   "website": "http://d4-game.com/pc/index.html",
   "pc_requirements": {
     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-bit edition or Windows 8 64-bit edition<br></li><li><strong>Processor:</strong> Intel Core 2 Quad Q9550 @ 2.83GHz or an equivalent AMD CPU<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 470 or AMD Radeon HD 6870 (VRAM 1GB)<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Sound Card:</strong> A DirectX 11 compatible card<br></li><li><strong>Additional Notes:</strong> Keyboard and mouse necessary. Compatible with XInput controllers such as the Xbox 360 controller. Display: 1280x720.</li></ul>",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     72285,
@@ -119,17 +121,26 @@
   "screenshots": [
     {
       "id": 0,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/384224/ss_9a1dabf8af85b68f2a73f9b77cf5ccec87af5b82.600x338.jpg?t=1447376918",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/384224/ss_9a1dabf8af85b68f2a73f9b77cf5ccec87af5b82.1920x1080.jpg?t=1447376918"
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/384224/ss_9a1dabf8af85b68f2a73f9b77cf5ccec87af5b82.600x338.jpg?t=1553250856",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/384224/ss_9a1dabf8af85b68f2a73f9b77cf5ccec87af5b82.1920x1080.jpg?t=1553250856"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "17 Jul, 2015"
   },
   "support_info": {
-    "url": "http://playism-games.com/",
-    "email": "support@cs.playism.jp"
+    "url": "",
+    "email": "support@playism.jp"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384224/page_bg_generated_v6b.jpg?t=1447376918"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/384224/page_bg_generated_v6b.jpg?t=1553250856",
+  "content_descriptors": {
+    "ids": [
+      5
+    ],
+    "notes": null
+  }
 }

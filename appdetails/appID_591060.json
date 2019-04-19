@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This is a extra DLC content<br />\r\nIf you want to get many stars quickly<br />\r\nYou can choose it<br />\r\n<br />\r\nIn order to ensure fair competition you can only buy once!<br />\r\nThe different systems will have a hidden bonus !<br />\r\n<br />\r\nADD 13000 STARS IN JET HERO!!",
   "about_the_game": "This is a extra DLC content<br />\r\nIf you want to get many stars quickly<br />\r\nYou can choose it<br />\r\n<br />\r\nIn order to ensure fair competition you can only buy once!<br />\r\nThe different systems will have a hidden bonus !<br />\r\n<br />\r\nADD 13000 STARS IN JET HERO!!",
-  "short_description": "This is a extra DLC content<br />\r\nIf you want to get many 13000 quickly<br />\r\nYou can choose it",
+  "short_description": "This is a extra DLC content If you want to get many 13000 quickly You can choose it",
   "fullgame": {
     "appid": "586060",
     "name": "JET HERO"
@@ -33,7 +33,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     153326
@@ -133,5 +135,9 @@
     "url": "http://zovgame.lofter.com/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/591060/page_bg_generated_v6b.jpg?t=1487494128"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/591060/page_bg_generated_v6b.jpg?t=1487494128",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

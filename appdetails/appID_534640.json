@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "This DLC provides the following rewards:<br><br><ul class=\"bb_ul\"><li> Prismata Single Player Campaign Episode 2: Recombination.<br></li><li> Prismata Single Player Campaign Episode 3: Keystone.<br></li><li> Prismata Single Player Campaign Episode 4: Lockdown.<br></li><li> Prismata Single Player Campaign Episode 5: Pulse.<br></li><li> An equippable in-game &quot;supporter&quot; badge.<br></li><li> A permanent 20% Ranked Play cosmetic loot bonus.<br></li><li> The &quot;Sweet Treat Steelsplitter&quot; unit skin.<br></li><li> The golden pass\u2014unlimited free golden Ranked Play tickets.<br></li><li> 2000 shards and 5 Power Cores (for unlocking skins/emotes.)</li></ul><br>You'll be given an option to activate these rewards as soon as you log into Prismata after purchasing the DLC. The rewards can only be applied to one single Prismata username.",
   "about_the_game": "This DLC provides the following rewards:<br><br><ul class=\"bb_ul\"><li> Prismata Single Player Campaign Episode 2: Recombination.<br></li><li> Prismata Single Player Campaign Episode 3: Keystone.<br></li><li> Prismata Single Player Campaign Episode 4: Lockdown.<br></li><li> Prismata Single Player Campaign Episode 5: Pulse.<br></li><li> An equippable in-game &quot;supporter&quot; badge.<br></li><li> A permanent 20% Ranked Play cosmetic loot bonus.<br></li><li> The &quot;Sweet Treat Steelsplitter&quot; unit skin.<br></li><li> The golden pass\u2014unlimited free golden Ranked Play tickets.<br></li><li> 2000 shards and 5 Power Cores (for unlocking skins/emotes.)</li></ul><br>You'll be given an option to activate these rewards as soon as you log into Prismata after purchasing the DLC. The rewards can only be applied to one single Prismata username.",
-  "short_description": "The Founder's Edition DLC unlocks the complete 5-chapter Prismata Single Player Campaign, plus &quot;Engineer Tier&quot; perks from our old Kickstarter rewards. You can upgrade to other tiers from within Prismata.<br />\r\n<br />\r\nNone of these rewards will help you win in Ranked Play modes; these are cosmetic rewards only!",
+  "short_description": "The Founder's Edition DLC unlocks the complete 5-chapter Prismata Single Player Campaign, plus &quot;Engineer Tier&quot; perks from our old Kickstarter rewards. You can upgrade to other tiers from within Prismata. None of these rewards will help you win in Ranked Play modes; these are cosmetic rewards only!",
   "fullgame": {
     "appid": "490220",
     "name": "Prismata"
@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 2299,
-    "final": 2299,
-    "discount_percent": 0
+    "initial": 2099,
+    "final": 2099,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "20,99\u20ac"
   },
   "packages": [
     129714
@@ -51,11 +53,11 @@
           "packageid": 129714,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Prismata Founder's Edition DLC - 22,99\u20ac",
+          "option_text": "Prismata Founder's Edition DLC - 20,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 2299
+          "price_in_cents_with_discount": 2099
         }
       ]
     }
@@ -164,5 +166,9 @@
     "url": "http://discord.gg/prismata",
     "email": "support@prismata.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/534640/page_bg_generated_v6b.jpg?t=1520553508"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/534640/page_bg_generated_v6b.jpg?t=1520553508",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

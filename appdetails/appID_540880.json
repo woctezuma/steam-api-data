@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 1199,
     "final": 1199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "11,99\u20ac"
   },
   "packages": [
     132638
@@ -170,5 +172,9 @@
     "url": "http://www.pillowfight.io",
     "email": "support@pillowfight.io"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/540880/page_bg_generated_v6b.jpg?t=1476719074"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/540880/page_bg_generated_v6b.jpg?t=1476719074",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

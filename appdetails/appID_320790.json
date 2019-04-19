@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 799,
     "final": 799,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     50045,
@@ -128,6 +130,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Oct, 2014"
@@ -136,5 +141,9 @@
     "url": "http://www.deadghost.se/forum",
     "email": "support@deadghost.se"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/320790/page_bg_generated_v6b.jpg?t=1478791543"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/320790/page_bg_generated_v6b.jpg?t=1478791543",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

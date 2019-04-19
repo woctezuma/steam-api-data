@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<h2 class=\"bb_tag\"><strong>Sewer (Map Pack)</strong></h2><br><i>What can be more exciting than getting under the city and crawling around in its waste? It\u2019s full of joy and adventure, isn\u2019t it?<br><br>And sometimes, it\u2019s necessary. The druid\u2019s trees are dying. He says the roots are reaching down in the deep, right to the old sewer system that runs under the city. Something is happening down there and it would be great if you could prevent the destruction of the rare and precious trees before it\u2019s too late.</i><br><br>This set includes 49 sewer tiles.<br><br><strong>Requires:</strong> An active subscription or a one time purchase of a Fantasy Grounds Full or Ultimate license and any Ruleset.",
   "about_the_game": "<h2 class=\"bb_tag\"><strong>Sewer (Map Pack)</strong></h2><br><i>What can be more exciting than getting under the city and crawling around in its waste? It\u2019s full of joy and adventure, isn\u2019t it?<br><br>And sometimes, it\u2019s necessary. The druid\u2019s trees are dying. He says the roots are reaching down in the deep, right to the old sewer system that runs under the city. Something is happening down there and it would be great if you could prevent the destruction of the rare and precious trees before it\u2019s too late.</i><br><br>This set includes 49 sewer tiles.<br><br><strong>Requires:</strong> An active subscription or a one time purchase of a Fantasy Grounds Full or Ultimate license and any Ruleset.",
-  "short_description": "<h2 class=\"bb_tag\"><strong>Sewer (Map Pack)</strong></h2><i>What can be more exciting than getting under the city and crawling around in its waste? It\u2019s full of joy and adventure, isn\u2019t it?<br>And sometimes, it\u2019s necessary. The druid\u2019s trees are dying. He says the roots are reaching down in the deep, right to the old sewer system that runs under the city. Something is happening down there and it would be great if you could prevent the destruction of the rare and precious trees before it\u2019s too late.</i><br>This set includes 49 sewer tiles.",
+  "short_description": "Sewer (Map Pack)What can be more exciting than getting under the city and crawling around in its waste? It\u2019s full of joy and adventure, isn\u2019t it?And sometimes, it\u2019s necessary. The druid\u2019s trees are dying. He says the roots are reaching down in the deep, right to the old sewer system that runs under the city.",
   "fullgame": {
     "appid": "252690",
     "name": "Fantasy Grounds"
@@ -20,7 +20,7 @@
   },
   "mac_requirements": [],
   "linux_requirements": [],
-  "legal_notice": "Some content Copyright (c) 2016 AAW Games, LLC and Black Scroll Games. ALL RIGHTS RESERVED.<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2016 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a></a> for more product information.",
+  "legal_notice": "Some content Copyright (c) 2016 AAW Games, LLC and Black Scroll Games. ALL RIGHTS RESERVED.<br><br>Fantasy Grounds is a trademark of SmiteWorks USA LLC. (C) 2016 SmiteWorks USA LLC. ALL RIGHTS RESERVED. Visit the Fantasy Grounds website at <a href=\"https://steamcommunity.com/linkfilter/?url=http://www.fantasygrounds.com\" target=\"_blank\" rel=\"noopener\"  >http://www.fantasygrounds.com</a> for more product information.",
   "developers": [
     "SmiteWorks USA, LLC"
   ],
@@ -30,8 +30,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 799,
-    "final": 639,
-    "discount_percent": 20
+    "final": 799,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,99\u20ac"
   },
   "packages": [
     145568
@@ -48,13 +50,13 @@
       "subs": [
         {
           "packageid": 145568,
-          "percent_savings_text": "-20%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Fantasy Grounds - Sewer (Map Pack) - <span class=\"discount_original_price\">7,99\u20ac</span> 6,39\u20ac",
+          "option_text": "Fantasy Grounds - Sewer (Map Pack) - 7,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 639
+          "price_in_cents_with_discount": 799
         }
       ]
     }
@@ -118,6 +120,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/572840/ss_21ffe26e44ad5c013c12099c19478fcdad2a29e0.1920x1080.jpg?t=1482260262"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "20 Dec, 2016"
@@ -126,5 +131,9 @@
     "url": "",
     "email": "support@fantasygrounds.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/572840/page_bg_generated_v6b.jpg?t=1482260262"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/572840/page_bg_generated_v6b.jpg?t=1482260262",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

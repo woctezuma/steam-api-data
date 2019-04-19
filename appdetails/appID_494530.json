@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "In the roomscale VR wavegame <strong>Orc Hunter</strong> you have to defend yourself against hordes of orcs. To do so you can either use swords in close combat or fight them with a bow or magic staff from a distance.<br><br>Key Features:<br><br>- Room scale VR<br>To create a lifelike feeling, Orc Hunter uses the HTC Vives' roomtracking as the way to control the players movement.<br><br>- Motion controlled weapons<br>You use both of the vives' motioncontrollers to freely pick your weapons.  <br>Besides swords, you can currently choose a bow, a mace or a shield.<br><br>Discord: <a href=\"https://steamcommunity.com/linkfilter/?url=https://discord.gg/zwefM8W\" target=\"_blank\" rel=\"noopener\"  >https://discord.gg/zwefM8W</a><br><br>If you are interested about the features we will add in the future, you should check the disussions. You can find them on the right side of the store page.",
   "about_the_game": "In the roomscale VR wavegame <strong>Orc Hunter</strong> you have to defend yourself against hordes of orcs. To do so you can either use swords in close combat or fight them with a bow or magic staff from a distance.<br><br>Key Features:<br><br>- Room scale VR<br>To create a lifelike feeling, Orc Hunter uses the HTC Vives' roomtracking as the way to control the players movement.<br><br>- Motion controlled weapons<br>You use both of the vives' motioncontrollers to freely pick your weapons.  <br>Besides swords, you can currently choose a bow, a mace or a shield.<br><br>Discord: <a href=\"https://steamcommunity.com/linkfilter/?url=https://discord.gg/zwefM8W\" target=\"_blank\" rel=\"noopener\"  >https://discord.gg/zwefM8W</a><br><br>If you are interested about the features we will add in the future, you should check the disussions. You can find them on the right side of the store page.",
-  "short_description": "In the roomscale VR wavegame <strong>Orc Hunter</strong> you have to defend yourself against endless hordes of orcs. To do so you can either use swords in close combat or fight them with a bow or magic staff from a distance.",
+  "short_description": "In the roomscale VR wavegame Orc Hunter you have to defend yourself against endless hordes of orcs. To do so you can either use swords in close combat or fight them with a bow or magic staff from a distance.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/494530/header.jpg?t=1500886816",
   "website": "http://www.orc-hunter.com/",
@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     112557
@@ -187,6 +189,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "24 Jul, 2017"
@@ -195,5 +200,9 @@
     "url": "http://www.orc-hunter.com/contact/",
     "email": "support@orc-hunter.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494530/page_bg_generated_v6b.jpg?t=1500886816"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/494530/page_bg_generated_v6b.jpg?t=1500886816",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

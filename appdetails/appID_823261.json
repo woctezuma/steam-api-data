@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 499,
     "final": 499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "4,99\u20ac"
   },
   "packages": [
     252640
@@ -113,6 +115,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/823261/ss_05c75a48d7e89581d55269dfed781012e2950181.1920x1080.jpg?t=1522149279"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "27 Mar, 2018"
@@ -121,5 +126,13 @@
     "url": "",
     "email": "thepiratesfate@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/823261/page_bg_generated_v6b.jpg?t=1522149279"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/823261/page_bg_generated_v6b.jpg?t=1522149279",
+  "content_descriptors": {
+    "ids": [
+      1,
+      2,
+      5
+    ],
+    "notes": null
+  }
 }

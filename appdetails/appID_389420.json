@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     73862
@@ -138,6 +140,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/389420/ss_3ab31fda9ff5d42937f21e503759c7b3522116b7.1920x1080.jpg?t=1517305008"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Oct, 2015"
@@ -146,5 +151,9 @@
     "url": "http://www.slitherine.com",
     "email": "support@slitherine.co.uk"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389420/page_bg_generated_v6b.jpg?t=1517305008"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/389420/page_bg_generated_v6b.jpg?t=1517305008",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

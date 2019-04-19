@@ -11,7 +11,7 @@
     "appid": "477770",
     "name": "Ride 2"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong>, Portuguese-Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/515100/header.jpg?t=1484666797",
   "website": "http://ridevideogame.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     120229
@@ -164,6 +166,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/515100/ss_21c902fc56f9d60cfcda6fb5a9545520f55c8a5c.1920x1080.jpg?t=1484666797"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Oct, 2016"
@@ -172,5 +177,9 @@
     "url": "http://milestone.it/supporto/?lang=en",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/515100/page_bg_generated_v6b.jpg?t=1484666797"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/515100/page_bg_generated_v6b.jpg?t=1484666797",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

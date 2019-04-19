@@ -12,7 +12,7 @@
     "appid": "378080",
     "name": "Rack N Ruin"
   },
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/400600/header.jpg?t=1447950470",
   "website": "http://www.racknruingame.com",
   "pc_requirements": {
@@ -35,7 +35,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     77733
@@ -176,5 +178,9 @@
     "url": "http://forum.lifesparkent.com",
     "email": "support@lifesparkent.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/400600/page_bg_generated_v6b.jpg?t=1447950470"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/400600/page_bg_generated_v6b.jpg?t=1447950470",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

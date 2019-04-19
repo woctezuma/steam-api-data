@@ -27,7 +27,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     223295
@@ -120,6 +122,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "18 Dec, 2017"
@@ -128,5 +133,9 @@
     "url": "www.captain-games.com",
     "email": "envirobear2010@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/757040/page_bg_generated_v6b.jpg?t=1514000425"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/757040/page_bg_generated_v6b.jpg?t=1514000425",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

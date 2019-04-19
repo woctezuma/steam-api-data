@@ -29,8 +29,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "final": 101,
+    "discount_percent": 66,
+    "initial_formatted": "2,99\u20ac",
+    "final_formatted": "1,01\u20ac"
   },
   "packages": [
     54467
@@ -47,13 +49,13 @@
       "subs": [
         {
           "packageid": 54467,
-          "percent_savings_text": "",
+          "percent_savings_text": "-66%",
           "percent_savings": 0,
-          "option_text": "Gold Rush! Anniversary Special Edition Upgrade - 2,99\u20ac",
+          "option_text": "Gold Rush! Anniversary Special Edition Upgrade - <span class=\"discount_original_price\">2,99\u20ac</span> 1,01\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 101
         }
       ]
     }
@@ -194,5 +196,9 @@
     "url": "http://www.sunlight-games.com/en/?nav=kontakt",
     "email": "support@sunlight-games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/328690/page_bg_generated_v6b.jpg?t=1516749320"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/328690/page_bg_generated_v6b.jpg?t=1516749320",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -31,10 +31,12 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
-    "231811"
+    231811
   ],
   "package_groups": [
     {
@@ -47,7 +49,7 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "231811",
+          "packageid": 231811,
           "percent_savings_text": "",
           "percent_savings": 0,
           "option_text": "The Legend of Heroes: Trails of Cold Steel II - Unspeakable Costumes - 2,99\u20ac",
@@ -123,6 +125,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/773765/ss_98884659ceba9074c78fe0b18088e4ef3fa15d96.1920x1080.jpg?t=1518630443"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Feb, 2018"
@@ -131,5 +136,9 @@
     "url": "",
     "email": "support@xseedgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/773765/page_bg_generated_v6b.jpg?t=1518630443"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/773765/page_bg_generated_v6b.jpg?t=1518630443",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

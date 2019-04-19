@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
     207918
@@ -113,11 +115,6 @@
       "id": 5,
       "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/717160/ss_ed1e070811692a3399509f835516ea639682cb04.600x338.jpg?t=1511582438",
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/717160/ss_ed1e070811692a3399509f835516ea639682cb04.1920x1080.jpg?t=1511582438"
-    },
-    {
-      "id": 6,
-      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/717160/?t=1511582438",
-      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/717160/?t=1511582438"
     }
   ],
   "movies": [
@@ -140,5 +137,9 @@
     "url": "",
     "email": "Info@thebeamz.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/717160/page_bg_generated_v6b.jpg?t=1511582438"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/717160/page_bg_generated_v6b.jpg?t=1511582438",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

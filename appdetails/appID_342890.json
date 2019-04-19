@@ -8,7 +8,7 @@
   "about_the_game": "Synonymy is a non-profit, educational word game narrated by Richard Dawkins where players are challenged to find a path between random words through their network of synonyms. By taking the synonym of a word, and then a synonym of that synonym, and so on, you can ultimately arrive at any other word in a language.<br />\r\n<br />\r\nThe game supports multiplayer, and weekly challenges in which users can compete globally on set start and end words. Every time a path is uncovered by a user, it is tweeted from @synonymygame and posted to our Facebook page. All profits go to educational charities. <br />\r\n<br />\r\nA visualization of the game's network can be seen here -- http://tinyurl.com/med6g8b -- In order to compute relative distance, all synonyms were mapped using 3d graphing software, as if each word were a planet that had a gravitational pull proportional to its number of relationships to other nodes. Above is a 2D representation of that model, a 40,000 x 40,000 rendering.<br />\r\n<br />\r\nMusic by Daduk",
   "short_description": "Synonymy is a non-profit, educational word game narrated by Richard Dawkins where players are challenged to find a path between random words through their network of synonyms. By taking the synonym of a word, and then a synonym of that synonym, and so on, you can ultimately arrive at any other word in a language.",
   "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "reviews": "\u201cSynonymy is about the blurry edges of words that make carefully choosing them so much fun, the slight inflections you can add to draw connections.\u201d<br><a href=\"http://www.rockpapershotgun.com/2014/11/21/synonymy-puzzle-richard-dawkins/\" target=\"_blank\" rel=\"noreferrer\"  >Rock, Paper, Shotgun</a></a><br>",
+  "reviews": "\u201cSynonymy is about the blurry edges of words that make carefully choosing them so much fun, the slight inflections you can add to draw connections.\u201d<br><a href=\"http://www.rockpapershotgun.com/2014/11/21/synonymy-puzzle-richard-dawkins/\" target=\"_blank\" rel=\"noreferrer\"  >Rock, Paper, Shotgun</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/342890/header.jpg?t=1447367223",
   "website": "www.synonymy-game.com",
   "pc_requirements": {
@@ -28,12 +28,14 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 159,
+    "final": 159,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,59\u20ac"
   },
   "packages": [
-    "58065"
+    58065
   ],
   "package_groups": [
     {
@@ -46,14 +48,14 @@
       "is_recurring_subscription": "false",
       "subs": [
         {
-          "packageid": "58065",
+          "packageid": 58065,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Synonymy - 1,99\u20ac",
+          "option_text": "Synonymy - 1,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 159
         }
       ]
     }
@@ -126,6 +128,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "5 Mar, 2015"
@@ -134,5 +139,9 @@
     "url": "www.synonymy-game.com/#contact",
     "email": "synonymygame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/342890/page_bg_generated_v6b.jpg?t=1447367223"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/342890/page_bg_generated_v6b.jpg?t=1447367223",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

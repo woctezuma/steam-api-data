@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "\n\t\t\t\t\t<p>German Infantry Sprite Pack includes 38 new uniforms for various models of infantry for the German player.</p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li>Infantry / Anti-Tank 1936, 1938, 1940, 1944\n\t\t\t\t\t<li>Cavalry 1936, 1938, 1940, 1944\n\t\t\t\t\t<li>Artillery / Rocket Artillery 1936, 1938, 1940, 1944\n\t\t\t\t\t<li>Military Police 1936, 1939, 1942, 1945\n\t\t\t\t\t<li>Armoured Car 1936, 1944\n\t\t\t\t\t<li>Anti-Air 1936, 1940\n\t\t\t\t\t<li>Mountain Infantry 1936, 1942, 1944\n\t\t\t\t\t<li>Militia 1936, 1942, 1944\n\t\t\t\t\t<li>Marine-Infantry 1936, 1940\n\t\t\t\t\t<li>Paratrooper 1940, 1944\n\t\t\t\t\t<li>Partisan 1936\n\t\t\t\t\t<li>Engineer 1936, 1939, 1940, 1944\n\t\t\t\t\t<li>Self Propelled Artillery / Self Propelled Rocket Artillery 1940\n\t\t\t\t\t<li>HQ 1936\n\t\t\t\t\t<li>Garrison 1936\n\t\t\t\t\t</ul>\n\t\t\t\t\t",
   "about_the_game": "\n\t\t\t\t\t<p>German Infantry Sprite Pack includes 38 new uniforms for various models of infantry for the German player.</p>\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li>Infantry / Anti-Tank 1936, 1938, 1940, 1944\n\t\t\t\t\t<li>Cavalry 1936, 1938, 1940, 1944\n\t\t\t\t\t<li>Artillery / Rocket Artillery 1936, 1938, 1940, 1944\n\t\t\t\t\t<li>Military Police 1936, 1939, 1942, 1945\n\t\t\t\t\t<li>Armoured Car 1936, 1944\n\t\t\t\t\t<li>Anti-Air 1936, 1940\n\t\t\t\t\t<li>Mountain Infantry 1936, 1942, 1944\n\t\t\t\t\t<li>Militia 1936, 1942, 1944\n\t\t\t\t\t<li>Marine-Infantry 1936, 1940\n\t\t\t\t\t<li>Paratrooper 1940, 1944\n\t\t\t\t\t<li>Partisan 1936\n\t\t\t\t\t<li>Engineer 1936, 1939, 1940, 1944\n\t\t\t\t\t<li>Self Propelled Artillery / Self Propelled Rocket Artillery 1940\n\t\t\t\t\t<li>HQ 1936\n\t\t\t\t\t<li>Garrison 1936\n\t\t\t\t\t</ul>\n\t\t\t\t\t",
-  "short_description": "",
+  "short_description": "German Infantry Sprite Pack includes 38 new uniforms for various models of infantry for the German player. Infantry / Anti-Tank 1936, 1938, 1940, 1944 Cavalry 1936, 1938, 1940, 1944 Artillery / Rocket Artillery 1936, 1938, 1940, 1944 Military Police 1936, 1939, 1942, 1945 Armoured Car 1936, 1944 Anti-Air 1936, 1940 Mountain Infantry...",
   "fullgame": {
     "appid": "25890",
     "name": "Hearts of Iron III"
@@ -29,12 +29,12 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
-    2588,
-    29531,
-    37223
+    2588
   ],
   "package_groups": [
     {
@@ -55,26 +55,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 99
-        },
-        {
-          "packageid": 29531,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron 3 DLC Collection - 29,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 2999
-        },
-        {
-          "packageid": 37223,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Hearts of Iron Collection III (Jan 2014) - 41,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4199
         }
       ]
     }
@@ -141,6 +121,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/25896/ss_a262c7ddbc6da57d0662416531f7671e007bb403.1920x1080.jpg?t=1447352750"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "8 Dec, 2009"
@@ -149,5 +132,9 @@
     "url": "",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25896/page_bg_generated_v6b.jpg?t=1447352750"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/25896/page_bg_generated_v6b.jpg?t=1447352750",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

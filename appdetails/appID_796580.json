@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Your goal is simple: survive for 100 seconds.  <br />\r\n<br />\r\nIn this bullet hell game, threatening circles and triangles will chase you, shoot at you, and even explode in an effort to end your life.  Take control of a small, vulnerable cube with the ability to evade enemies and shoot back at them.  Beware, one hit will kill you.  <br />\r\n<br />\r\n<br />\r\nChoose the color of your character.  The enemy spawn rate depends upon the color you select.",
   "about_the_game": "Your goal is simple: survive for 100 seconds.  <br />\r\n<br />\r\nIn this bullet hell game, threatening circles and triangles will chase you, shoot at you, and even explode in an effort to end your life.  Take control of a small, vulnerable cube with the ability to evade enemies and shoot back at them.  Beware, one hit will kill you.  <br />\r\n<br />\r\n<br />\r\nChoose the color of your character.  The enemy spawn rate depends upon the color you select.",
-  "short_description": "Your goal is simple: survive for 100 seconds.  <br />\r\n<br />\r\nIn this bullet hell game, threatening circles and triangles will chase you, shoot at you, and even explode in an effort to end your life.  Take control of a small, vulnerable cube with the ability to evade enemies and shoot back at them.  Beware, one hit will kill you.",
+  "short_description": "Your goal is simple: survive for 100 seconds. In this bullet hell game, threatening circles and triangles will chase you, shoot at you, and even explode in an effort to end your life. Take control of a small, vulnerable cube with the ability to evade enemies and shoot back at them. Beware, one hit will kill you.",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/796580/header.jpg?t=1520860378",
   "website": "https://twitter.com/100secondsgame",
@@ -23,9 +23,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 499,
-    "final": 499,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     241843
@@ -44,11 +46,11 @@
           "packageid": 241843,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "100 Seconds - 4,99\u20ac",
+          "option_text": "100 Seconds - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 499
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -185,5 +187,9 @@
     "url": "https://twitter.com/100secondsgame",
     "email": "100secondsgame@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/796580/page_bg_generated_v6b.jpg?t=1520860378"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/796580/page_bg_generated_v6b.jpg?t=1520860378",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

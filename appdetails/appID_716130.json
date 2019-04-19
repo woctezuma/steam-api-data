@@ -24,9 +24,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 259,
+    "final": 259,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,59\u20ac"
   },
   "packages": [
     207526
@@ -45,11 +47,11 @@
           "packageid": 207526,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Rotatorix - 2,99\u20ac",
+          "option_text": "Rotatorix - 2,59\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 259
         }
       ]
     }
@@ -192,5 +194,9 @@
     "url": "",
     "email": "rotatorix@neural-soft.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/716130/page_bg_generated_v6b.jpg?t=1507932107"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/716130/page_bg_generated_v6b.jpg?t=1507932107",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

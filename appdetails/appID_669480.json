@@ -38,7 +38,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     190390
@@ -139,6 +141,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/669480/ss_91ab0f6ea386894791dbd6a5939a13e652cb9c5d.1920x1080.jpg?t=1501234486"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "28 Jul, 2017"
@@ -147,5 +152,9 @@
     "url": "http://redthreadgames.com/forum/forum/15-general-support/",
     "email": "support@redthreadgames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/669480/page_bg_generated_v6b.jpg?t=1501234486"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/669480/page_bg_generated_v6b.jpg?t=1501234486",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

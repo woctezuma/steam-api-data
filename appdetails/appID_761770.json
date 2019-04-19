@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     225069
@@ -176,6 +178,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "15 Dec, 2017"
@@ -184,5 +189,9 @@
     "url": "http://www.hangsim.com/fire-flight/",
     "email": "support@hangsim.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/761770/page_bg_generated_v6b.jpg?t=1513330214"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/761770/page_bg_generated_v6b.jpg?t=1513330214",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

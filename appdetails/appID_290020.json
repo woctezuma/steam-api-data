@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "Design, build and wire up your own unique robot to complete challenging logic puzzles.<br><br>LogicBots is a puzzle game where robots are used to complete the various levels. Sometimes the LogicBots will be controlled by the player and other times they will work independently to complete the puzzles. In both cases it will be up to the player to design, build and wire their LogicBot to meet the requirements of the level.<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>40 challenging levels</li><li>5 in depth tutorials</li><li>3 bonus objectives for each level</li><li>Language packs</li><li>Sandbox mode</li><li>Level builder</li><li>Workshop integration</li><li>Endless combinations of parts and circuits</li><li>Physics driven gameplay</li><li>Soundtrack by Brandon Penney aka Neon-Bard</li></ul>",
   "about_the_game": "Design, build and wire up your own unique robot to complete challenging logic puzzles.<br><br>LogicBots is a puzzle game where robots are used to complete the various levels. Sometimes the LogicBots will be controlled by the player and other times they will work independently to complete the puzzles. In both cases it will be up to the player to design, build and wire their LogicBot to meet the requirements of the level.<h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>40 challenging levels</li><li>5 in depth tutorials</li><li>3 bonus objectives for each level</li><li>Language packs</li><li>Sandbox mode</li><li>Level builder</li><li>Workshop integration</li><li>Endless combinations of parts and circuits</li><li>Physics driven gameplay</li><li>Soundtrack by Brandon Penney aka Neon-Bard</li></ul>",
-  "short_description": "Design, build and wire up your own unique robot to complete challenging logic puzzles.<br />\r\n<br />\r\nLogicBots is a puzzle game where robots are used to complete the various levels.",
+  "short_description": "Design, build and wire up your own unique robot to complete challenging logic puzzles. LogicBots is a puzzle game where robots are used to complete the various levels.",
   "supported_languages": "English, French, German, Hungarian, Japanese, Russian, Simplified Chinese",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/290020/header.jpg?t=1512967430",
   "website": "http://www.incandescentgames.co.uk/",
@@ -33,9 +33,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 1999,
-    "final": 999,
-    "discount_percent": 50
+    "initial": 1650,
+    "final": 1650,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "16,50\u20ac"
   },
   "packages": [
     40640
@@ -52,13 +54,13 @@
       "subs": [
         {
           "packageid": 40640,
-          "percent_savings_text": "-50%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "LogicBots - <span class=\"discount_original_price\">19,99\u20ac</span> 9,99\u20ac",
+          "option_text": "LogicBots - 16,50\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 999
+          "price_in_cents_with_discount": 1650
         }
       ]
     }
@@ -199,7 +201,7 @@
     }
   ],
   "recommendations": {
-    "total": 115
+    "total": 119
   },
   "achievements": {
     "total": 27,
@@ -254,5 +256,9 @@
     "url": "",
     "email": "incandescentgames@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/290020/page_bg_generated_v6b.jpg?t=1512967430"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/290020/page_bg_generated_v6b.jpg?t=1512967430",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

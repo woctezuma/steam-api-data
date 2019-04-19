@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 699,
     "final": 699,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "6,99\u20ac"
   },
   "packages": [
     208778
@@ -135,6 +137,9 @@
       "highlight": false
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "31 Oct, 2017"
@@ -143,5 +148,9 @@
     "url": "",
     "email": "vetasunity@yandex.ru"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/719830/page_bg_generated_v6b.jpg?t=1509457380"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/719830/page_bg_generated_v6b.jpg?t=1509457380",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

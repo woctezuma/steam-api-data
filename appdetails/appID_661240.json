@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 199,
     "final": 199,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "1,99\u20ac"
   },
   "packages": [
     187454
@@ -124,6 +126,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "13 Jul, 2017"
@@ -132,5 +137,9 @@
     "url": "http://blacksidegames.com/",
     "email": "support@blacksidegames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/661240/page_bg_generated_v6b.jpg?t=1499957871"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/661240/page_bg_generated_v6b.jpg?t=1499957871",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

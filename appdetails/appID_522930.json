@@ -7,7 +7,7 @@
   "controller_support": "full",
   "detailed_description": "Add a Bouncy Castle to your forest!",
   "about_the_game": "Add a Bouncy Castle to your forest!",
-  "short_description": "Bouncy Castle!  BOUNCE!  BOUNCE!",
+  "short_description": "Bouncy Castle! BOUNCE! BOUNCE!",
   "fullgame": {
     "appid": "513210",
     "name": "Rescue Bear Operation"
@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 999,
     "final": 999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     124373
@@ -122,5 +124,9 @@
     "url": "",
     "email": "support@thoughtops.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/522930/page_bg_generated_v6b.jpg?t=1475165175"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/522930/page_bg_generated_v6b.jpg?t=1475165175",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

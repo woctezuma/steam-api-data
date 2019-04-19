@@ -24,8 +24,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 99,
-    "final": 66,
-    "discount_percent": 33
+    "final": 99,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     201031
@@ -42,13 +44,13 @@
       "subs": [
         {
           "packageid": 201031,
-          "percent_savings_text": "-33%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Puzzle Dating - <span class=\"discount_original_price\">0,99\u20ac</span> 0,66\u20ac",
+          "option_text": "Puzzle Dating - 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 66
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -182,5 +184,9 @@
     "url": "http://mhanka.com/",
     "email": "mhanka@gmx.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/698830/page_bg_generated_v6b.jpg?t=1505383677"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/698830/page_bg_generated_v6b.jpg?t=1505383677",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

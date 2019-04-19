@@ -1,1 +1,204 @@
-{"type": "game", "name": "Evospace", "steam_appid": 1013540, "required_age": 0, "is_free": false, "detailed_description": "Evospace is sandbox game with fully dynamic, procedurally generated world. Game about digging, exploring, building and technologies.", "about_the_game": "Evospace is sandbox game with fully dynamic, procedurally generated world. Game about digging, exploring, building and technologies.", "short_description": "Evospace is sandbox game with fully dynamic, procedurally generated world. Game about digging, exploring, building and technologies.", "supported_languages": "English, Russian", "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/header.jpg?t=1548003478", "website": null, "pc_requirements": {"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 660 2GB<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>", "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 770 2GB<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"}, "mac_requirements": {"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>", "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"}, "linux_requirements": {"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>", "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"}, "developers": ["Round Cube Studio"], "publishers": ["Round Cube Studio"], "package_groups": [], "platforms": {"windows": true, "mac": false, "linux": false}, "categories": [{"id": 2, "description": "Single-player"}, {"id": 22, "description": "Steam Achievements"}, {"id": 17, "description": "Includes level editor"}], "genres": [{"id": "25", "description": "Adventure"}, {"id": "23", "description": "Indie"}, {"id": "28", "description": "Simulation"}, {"id": "70", "description": "Early Access"}], "screenshots": [{"id": 0, "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_ced41d7b8db0799bd2cda6c0ca27300a2ad6991c.600x338.jpg?t=1548003478", "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_ced41d7b8db0799bd2cda6c0ca27300a2ad6991c.1920x1080.jpg?t=1548003478"}, {"id": 1, "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_1bc3763f433d9481e3aac5409816be9b222f4411.600x338.jpg?t=1548003478", "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_1bc3763f433d9481e3aac5409816be9b222f4411.1920x1080.jpg?t=1548003478"}, {"id": 2, "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_49366c0413b745a9f9dc751dc96b6e0eca665d46.600x338.jpg?t=1548003478", "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_49366c0413b745a9f9dc751dc96b6e0eca665d46.1920x1080.jpg?t=1548003478"}, {"id": 3, "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_3d15b98221b7a66388e1213fdec006f814b37fa3.600x338.jpg?t=1548003478", "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_3d15b98221b7a66388e1213fdec006f814b37fa3.1920x1080.jpg?t=1548003478"}, {"id": 4, "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_9025eac6565588fcf6c2e5333ccbacbd6fe5ee42.600x338.jpg?t=1548003478", "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_9025eac6565588fcf6c2e5333ccbacbd6fe5ee42.1920x1080.jpg?t=1548003478"}], "movies": [{"id": 256740811, "name": "Trailer", "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256740811/movie.293x165.jpg?t=1547844240", "webm": {"480": "http://steamcdn-a.akamaihd.net/steam/apps/256740811/movie480.webm?t=1547844240", "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740811/movie_max.webm?t=1547844240"}, "highlight": true}], "release_date": {"coming_soon": true, "date": "4 Feb, 2019"}, "support_info": {"url": "https://discord.gg/JatUj4", "email": "evospace.dev@gmail.com"}, "background": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/page_bg_generated_v6b.jpg?t=1548003478", "content_descriptors": {"ids": [], "notes": null}}
+{
+  "type": "game",
+  "name": "Evospace",
+  "steam_appid": 1013540,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "<h2 class=\"bb_tag\">Completly changabe world</h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1013540/extras/dig.gif?t=1551061198\" ><br><br>You can create any buildings, small or large. It all depends on the player's imagination, it can be a cozy house at the sea coast, surrounded by the woods or a giant processing plant in the middle of the desert hills.<h2 class=\"bb_tag\">Automatization</h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1013540/extras/automate.gif?t=1551061198\" ><br><br>Player can explore infinite world, gather resources, craft, build automated factories, scale and complexity of which will only increase during the game.",
+  "about_the_game": "<h2 class=\"bb_tag\">Completly changabe world</h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1013540/extras/dig.gif?t=1551061198\" ><br><br>You can create any buildings, small or large. It all depends on the player's imagination, it can be a cozy house at the sea coast, surrounded by the woods or a giant processing plant in the middle of the desert hills.<h2 class=\"bb_tag\">Automatization</h2><img src=\"https://steamcdn-a.akamaihd.net/steam/apps/1013540/extras/automate.gif?t=1551061198\" ><br><br>Player can explore infinite world, gather resources, craft, build automated factories, scale and complexity of which will only increase during the game.",
+  "short_description": "Evospace is sandbox game with fully dynamic, procedurally generated world. Game about digging, exploring, building and technologies.",
+  "supported_languages": "English, Russian",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/header.jpg?t=1551061198",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 660 2GB<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 770 2GB<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+  },
+  "developers": [
+    "Round Cube Studio"
+  ],
+  "publishers": [
+    "Round Cube Studio"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 739,
+    "final": 739,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "7,39\u20ac"
+  },
+  "packages": [
+    335813
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Evospace",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 335813,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Evospace - 7,39\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 739
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    },
+    {
+      "id": 17,
+      "description": "Includes level editor"
+    }
+  ],
+  "genres": [
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    },
+    {
+      "id": "28",
+      "description": "Simulation"
+    },
+    {
+      "id": "70",
+      "description": "Early Access"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_49366c0413b745a9f9dc751dc96b6e0eca665d46.600x338.jpg?t=1551061198",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_49366c0413b745a9f9dc751dc96b6e0eca665d46.1920x1080.jpg?t=1551061198"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_9025eac6565588fcf6c2e5333ccbacbd6fe5ee42.600x338.jpg?t=1551061198",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_9025eac6565588fcf6c2e5333ccbacbd6fe5ee42.1920x1080.jpg?t=1551061198"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_9e0e8c3bc390cee82afd6fa30ea1db90d16cf691.600x338.jpg?t=1551061198",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_9e0e8c3bc390cee82afd6fa30ea1db90d16cf691.1920x1080.jpg?t=1551061198"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_6b3381112c1cf0b5a436a0d98b22b04abfbf6e2e.600x338.jpg?t=1551061198",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_6b3381112c1cf0b5a436a0d98b22b04abfbf6e2e.1920x1080.jpg?t=1551061198"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_aa5d83e43f0a96ed3b78bc1ac69e45fc7cbe47d2.600x338.jpg?t=1551061198",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_aa5d83e43f0a96ed3b78bc1ac69e45fc7cbe47d2.1920x1080.jpg?t=1551061198"
+    },
+    {
+      "id": 5,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_bfe5c04802d1e5c6e6ea3a8bc97d9aef6677c1c5.600x338.jpg?t=1551061198",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/ss_bfe5c04802d1e5c6e6ea3a8bc97d9aef6677c1c5.1920x1080.jpg?t=1551061198"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256740811,
+      "name": "Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256740811/movie.293x165.jpg?t=1547844240",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256740811/movie480.webm?t=1547844240",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256740811/movie_max.webm?t=1547844240"
+      },
+      "highlight": true
+    }
+  ],
+  "achievements": {
+    "total": 19,
+    "highlighted": [
+      {
+        "name": "Copper Age",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/62adccc75d26005786a691042eb81b3466f3ffdf.jpg"
+      },
+      {
+        "name": "Steel Age",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/f196ec2460b8a400d9d8f1d82dacfacf7f02b1e4.jpg"
+      },
+      {
+        "name": "Titanium Age",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/d4b82b54fc8496c9d8c7c1cd4f0eac5c4c40f60d.jpg"
+      },
+      {
+        "name": "Stainless Steel Age",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/f834fb5c9fe437dc07a6b4b7264a3d74e381b373.jpg"
+      },
+      {
+        "name": "Aluminium Age",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/e7e4fe4ecd710509c246247223345b2b2f65bccf.jpg"
+      },
+      {
+        "name": "Copper Ore",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/bbb744bb91c871831e1bab3ce72328f0db2b5672.jpg"
+      },
+      {
+        "name": "Iron Ore",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/7c3e40b6cd9c8bf3a054d846d1f0149347a206c7.jpg"
+      },
+      {
+        "name": "Aluminium Ore",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/729908821cc367ce36ffcc750f876b9ebbf4f99e.jpg"
+      },
+      {
+        "name": "Gold Ore",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/3c964d97cab6e56a540266444e7ef2b8a7e20f60.jpg"
+      },
+      {
+        "name": "Uranium Ore",
+        "path": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1013540/a6ac1541c89ea942e41eaae3b9845d2a6fc81f30.jpg"
+      }
+    ]
+  },
+  "release_date": {
+    "coming_soon": false,
+    "date": "14 Feb, 2019"
+  },
+  "support_info": {
+    "url": "https://discord.gg/RPkSZNY",
+    "email": "evospace.dev@gmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1013540/page_bg_generated_v6b.jpg?t=1551061198",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

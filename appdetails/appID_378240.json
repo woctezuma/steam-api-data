@@ -32,7 +32,9 @@
     "currency": "EUR",
     "initial": 1999,
     "final": 1999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "19,99\u20ac"
   },
   "packages": [
     70284
@@ -205,5 +207,9 @@
     "url": "http://evallis.net",
     "email": "contact@evallis.net"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/378240/page_bg_generated_v6b.jpg?t=1506147017"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/378240/page_bg_generated_v6b.jpg?t=1506147017",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

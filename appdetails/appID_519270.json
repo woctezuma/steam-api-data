@@ -5,7 +5,7 @@
   "required_age": 0,
   "is_free": false,
   "controller_support": "full",
-  "detailed_description": "<h1>Streaming Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In this tutorial we are going to discuss the channels and shape tools and how it can help create environments faster and more efficiently.\r\n\r\nIncluded are work files, brushes and shape tools",
+  "detailed_description": "<h1>Steam Video</h1><p>This content is only available in an online streaming format. More information about streaming videos can be found in the <a href=\"https://support.steampowered.com/kb_article.php?ref=8699-OASD-1871\">Streaming Videos on Steam FAQ</a>.</p><br><h1>About the Video</h1>In this tutorial we are going to discuss the channels and shape tools and how it can help create environments faster and more efficiently.\r\n\r\nIncluded are work files, brushes and shape tools",
   "about_the_game": "In this tutorial we are going to discuss the channels and shape tools and how it can help create environments faster and more efficiently.<br />\r\n<br />\r\nIncluded are work files, brushes and shape tools",
   "short_description": "A tutorial on using channels and shape tools",
   "fullgame": {
@@ -32,9 +32,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 299,
-    "final": 299,
-    "discount_percent": 0
+    "initial": 239,
+    "final": 239,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,39\u20ac"
   },
   "packages": [
     122179
@@ -53,11 +55,11 @@
           "packageid": 122179,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Kalen Chock Presents: Channels and Advanced Shape Tool - 2,99\u20ac",
+          "option_text": "Kalen Chock Presents: Channels and Advanced Shape Tool - 2,39\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 299
+          "price_in_cents_with_discount": 239
         }
       ]
     }
@@ -104,6 +106,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/519260/ss_8ef669fb987604570cf993213408713a7ccaabc9.1920x1080.jpg?t=1473710256"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "12 Sep, 2016"
@@ -112,5 +117,9 @@
     "url": "",
     "email": "KdChock@gmail.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519260/page_bg_generated_v6b.jpg?t=1473710256"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/519260/page_bg_generated_v6b.jpg?t=1473710256",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

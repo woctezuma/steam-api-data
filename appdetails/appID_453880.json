@@ -8,7 +8,7 @@
   "about_the_game": "In a Soviet Laboratory on Venus, a secret super-soldier program has gone horribly wrong. Subjects gained super-human strength and reflexes, but became irrationally violent. What's worse, those the subjects attacked began showing the same symptoms. These beings, dubbed &quot;Ninja,&quot; have now overrun the facility. The laboratory has gone into lockdown. You play as a lone scientist who must find a way to escape from the Ninja Outbreak. <br><br><strong>Features</strong><br><br>- Scarcity of Resources: Ammo is scarce, and sometimes your best option will be to run. <br><br>- Risk and Reward: Do you go for that extra bit of ammo, or that key that will open a shortcut, when you know there's a Ninja just around the corner? <br><br>- Weapon Variety: In addition to basic weapons such as the pistol and shotgun, you can find experimental weapons being developed at the laboratory. <br><br>- Exploration: How much of the game world you explore is up to you. Do you delve deeper into the laboratory searching for weapons and resources, or do you head straight to the North Lab to take on the Master Ninja? <br><br>- Many enemy types: You will face off against many varieties of Ninja as well as dangerous Venusian lifeforms. Some ninja will sabotage your environment, some will steal items, and some will follow you from a distance before jumping in for a precise strike.<br><br>-Betray the Ninja Empire:  Ninja is supreme and you have double-crossed it!  Why did you do that?",
   "short_description": "Survive in an off-world research station that has been overrun by a contagion that turns its victims into bloodthirsty Ninja.",
   "supported_languages": "English",
-  "reviews": "\u201cThere comes a time early in the game, when you have to take one out to get a certain keycard, and even though it appeared not to notice me approaching it from behind with my wrench, in that moment I felt as much tension as I\u2019ve ever felt in a game. Ninja Outbreak has lots of those kinds of moments\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://fireside.gamejolt.com/post/ninja-outbreak-npcwhcpx\" target=\"_blank\" rel=\"noopener\"  >GameJolt Fireside</a></a><br>",
+  "reviews": "\u201cThere comes a time early in the game, when you have to take one out to get a certain keycard, and even though it appeared not to notice me approaching it from behind with my wrench, in that moment I felt as much tension as I\u2019ve ever felt in a game. Ninja Outbreak has lots of those kinds of moments\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=http://fireside.gamejolt.com/post/ninja-outbreak-npcwhcpx\" target=\"_blank\" rel=\"noopener\"  >GameJolt Fireside</a><br>",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/453880/header.jpg?t=1459353616",
   "website": "http://renegadesector.com/",
   "pc_requirements": {
@@ -28,8 +28,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 199,
-    "discount_percent": 80
+    "final": 999,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "9,99\u20ac"
   },
   "packages": [
     98025
@@ -46,13 +48,13 @@
       "subs": [
         {
           "packageid": 98025,
-          "percent_savings_text": "-80%",
+          "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Ninja Outbreak - <span class=\"discount_original_price\">9,99\u20ac</span> 1,99\u20ac",
+          "option_text": "Ninja Outbreak - 9,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 999
         }
       ]
     }
@@ -176,5 +178,9 @@
     "url": "http://renegadesector.com/contact/",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/453880/page_bg_generated_v6b.jpg?t=1459353616"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/453880/page_bg_generated_v6b.jpg?t=1459353616",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

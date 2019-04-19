@@ -11,7 +11,7 @@
     "appid": "334230",
     "name": "Town of Salem"
   },
-  "supported_languages": "English<strong>*</strong>, Spanish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, Spanish - Spain<strong>*</strong><br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/648420/header.jpg?t=1508374218",
   "website": "http://www.blankmediagames.com/",
   "pc_requirements": {
@@ -31,7 +31,9 @@
     "currency": "EUR",
     "initial": 299,
     "final": 299,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "2,99\u20ac"
   },
   "packages": [
     182345
@@ -123,6 +125,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "6 Jun, 2017"
@@ -131,5 +136,9 @@
     "url": "http://www.blankmediagames.com/phpbb/",
     "email": "info@blankmediagames.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/648420/page_bg_generated_v6b.jpg?t=1508374218"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/648420/page_bg_generated_v6b.jpg?t=1508374218",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

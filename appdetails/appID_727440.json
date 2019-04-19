@@ -33,8 +33,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 999,
-    "final": 699,
-    "discount_percent": 30
+    "final": 449,
+    "discount_percent": 55,
+    "initial_formatted": "9,99\u20ac",
+    "final_formatted": "4,49\u20ac"
   },
   "packages": [
     211946
@@ -51,13 +53,13 @@
       "subs": [
         {
           "packageid": 211946,
-          "percent_savings_text": "-30%",
+          "percent_savings_text": "-55%",
           "percent_savings": 0,
-          "option_text": "Road Redemption - Developer Commentary Video - <span class=\"discount_original_price\">9,99\u20ac</span> 6,99\u20ac",
+          "option_text": "Road Redemption - Developer Commentary Video - <span class=\"discount_original_price\">9,99\u20ac</span> 4,49\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 699
+          "price_in_cents_with_discount": 449
         }
       ]
     }
@@ -161,6 +163,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/727440/ss_fe41026fff5cdefcf66b6ef8c8855fe55fe7b589.1920x1080.jpg?t=1507072944"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "3 Oct, 2017"
@@ -169,5 +174,9 @@
     "url": "http://steamcommunity.com/app/300380/discussions/0/",
     "email": "pr@darkseasinteractive.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/727440/page_bg_generated_v6b.jpg?t=1507072944"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/727440/page_bg_generated_v6b.jpg?t=1507072944",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

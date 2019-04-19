@@ -6,12 +6,12 @@
   "is_free": false,
   "detailed_description": "<strong>Cities in Motion: German Cities</strong> is a new addition to the city-based mass transportation PC-simulation game Cities in Motion. <br>\t\t\t\t\t\tGerman Cities brings you back to the early days of transportation history. Engage in the campaign with four different scenario set in ten decades starting from the 1920\u2019s. Manage Cologne and Leipzig through hard times and better days in six challenging scenarios.<br>\t\t\t\t\t\t<h2 class=\"bb_tag\">Key features:</h2>\t\t\t\t\t\t<ul class=\"bb_ul\"><li>Explore the beautiful German cities of Cologne, and Leipzig<br>\t\t\t\t\t\t</li><li>Engage in a campaign with 4 different scenarios<br>\t\t\t\t\t\t</li><li>See the new great landmarks in the cities <br>\t\t\t\t\t\t</li><li>Build your mass transit empire in the sandbox set from 1970\u2019s to 2020<br>\t\t\t\t\t\t</li><li>Two great German cities are in need of your help<br>\t\t\t\t\t\t</li></ul>",
   "about_the_game": "<strong>Cities in Motion: German Cities</strong> is a new addition to the city-based mass transportation PC-simulation game Cities in Motion. <br>\t\t\t\t\t\tGerman Cities brings you back to the early days of transportation history. Engage in the campaign with four different scenario set in ten decades starting from the 1920\u2019s. Manage Cologne and Leipzig through hard times and better days in six challenging scenarios.<br>\t\t\t\t\t\t<h2 class=\"bb_tag\">Key features:</h2>\t\t\t\t\t\t<ul class=\"bb_ul\"><li>Explore the beautiful German cities of Cologne, and Leipzig<br>\t\t\t\t\t\t</li><li>Engage in a campaign with 4 different scenarios<br>\t\t\t\t\t\t</li><li>See the new great landmarks in the cities <br>\t\t\t\t\t\t</li><li>Build your mass transit empire in the sandbox set from 1970\u2019s to 2020<br>\t\t\t\t\t\t</li><li>Two great German cities are in need of your help<br>\t\t\t\t\t\t</li></ul>",
-  "short_description": "",
+  "short_description": "Cities in Motion: German Cities is a new addition to the city-based mass transportation PC-simulation game Cities in Motion. German Cities brings you back to the early days of transportation history. Engage in the campaign with four different scenario set in ten decades starting from the 1920\u2019s.",
   "fullgame": {
     "appid": "73010",
     "name": "Cities in Motion"
   },
-  "supported_languages": "English, French, German, Spanish",
+  "supported_languages": "English, French, German, Spanish - Spain",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/73185/header.jpg?t=1447354684",
   "website": "http://www.citiesinmotion.com",
   "pc_requirements": {
@@ -33,13 +33,12 @@
     "currency": "EUR",
     "initial": 599,
     "final": 599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "5,99\u20ac"
   },
   "packages": [
-    11555,
-    29532,
-    "29078",
-    35269
+    11555
   ],
   "package_groups": [
     {
@@ -60,36 +59,6 @@
           "can_get_free_license": "0",
           "is_free_license": false,
           "price_in_cents_with_discount": 599
-        },
-        {
-          "packageid": 29532,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Cities in Motion DLC Collection - 39,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 3999
-        },
-        {
-          "packageid": "29078",
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Cities in Motion Collection - 49,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 4999
-        },
-        {
-          "packageid": 35269,
-          "percent_savings_text": "",
-          "percent_savings": 0,
-          "option_text": "Cities in Motion 1 and 2 Collection - 84,99\u20ac",
-          "option_description": "",
-          "can_get_free_license": "0",
-          "is_free_license": false,
-          "price_in_cents_with_discount": 8499
         }
       ]
     }
@@ -152,6 +121,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/73185/ss_3ccca062aa5f46b3cc79aaba1383eedaea584d44.1920x1080.jpg?t=1447354684"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "14 Sep, 2011"
@@ -160,5 +132,9 @@
     "url": "http://www.paradoxplaza.com/support",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/73185/page_bg_generated_v6b.jpg?t=1447354684"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/73185/page_bg_generated_v6b.jpg?t=1447354684",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

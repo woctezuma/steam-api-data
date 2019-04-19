@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 899,
     "final": 899,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "8,99\u20ac"
   },
   "packages": [
     56024
@@ -248,5 +250,9 @@
     "url": "http://www.planetshipgame.com",
     "email": "support@planetshipgame.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/337280/page_bg_generated_v6b.jpg?t=1447365786"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/337280/page_bg_generated_v6b.jpg?t=1447365786",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

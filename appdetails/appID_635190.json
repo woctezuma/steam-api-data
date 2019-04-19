@@ -6,7 +6,7 @@
   "is_free": false,
   "detailed_description": "<i>Puppy Doge VR</i> offers a light VR experience where players casually interact with a puppy.<br><br>features:<br><ul class=\"bb_ul\"><li> choose from 3 different puppies<br></li><li> pet puppies by stroking their fur<br></li><li> feed or play fetch<br></li><li> Optional &quot;Doge Mode&quot; inspired by internet meme</li></ul><br>Disclaimer: this basic simulation <strong>DOES NOT</strong> feature mechanics such as growth or obedience training. This is <strong>not</strong> a full blown pet game.",
   "about_the_game": "<i>Puppy Doge VR</i> offers a light VR experience where players casually interact with a puppy.<br><br>features:<br><ul class=\"bb_ul\"><li> choose from 3 different puppies<br></li><li> pet puppies by stroking their fur<br></li><li> feed or play fetch<br></li><li> Optional &quot;Doge Mode&quot; inspired by internet meme</li></ul><br>Disclaimer: this basic simulation <strong>DOES NOT</strong> feature mechanics such as growth or obedience training. This is <strong>not</strong> a full blown pet game.",
-  "short_description": "<i>Puppy Doge VR</i> is a light VR experience where players casually interact with a puppy",
+  "short_description": "Puppy Doge VR is a light VR experience where players casually interact with a puppy",
   "supported_languages": "English",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/635190/header.jpg?t=1494474935",
   "website": null,
@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 99,
     "final": 99,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     174424
@@ -118,6 +120,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "10 May, 2017"
@@ -126,5 +131,9 @@
     "url": "https://www.reddit.com/r/puppydogevr",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/635190/page_bg_generated_v6b.jpg?t=1494474935"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/635190/page_bg_generated_v6b.jpg?t=1494474935",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

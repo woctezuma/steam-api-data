@@ -34,7 +34,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     75381,
@@ -64,11 +66,11 @@
           "packageid": 75743,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Circa Infinity - Deluxe Edition - 7,99\u20ac",
+          "option_text": "Circa Infinity - Deluxe Edition - 8,19\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 799
+          "price_in_cents_with_discount": 819
         }
       ]
     }
@@ -113,5 +115,9 @@
     "url": "http://circainfinitygame.com/",
     "email": "kenny@kennysun.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/393510/page_bg_generated_v6b.jpg?t=1447377474"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/393510/page_bg_generated_v6b.jpg?t=1447377474",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

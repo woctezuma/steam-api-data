@@ -11,16 +11,16 @@
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/416370/header.jpg?t=1448014127",
   "website": "http://www.phime.com/games/showing-tonight-mindhunters-incident/",
   "pc_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP, 7, 8.1, 10<br></li><li><strong>Processor:</strong> 2GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9 GPU<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8.1, 10<br></li><li><strong>Processor:</strong> 3GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9 GPU<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Windows XP, 7, 8.1, 10<br></li><li><strong>Procesor:</strong> 2GHz<br></li><li><strong>Pami\u0119\u0107:</strong> 2 GB RAM<br></li><li><strong>Karta graficzna:</strong> DirectX 9 GPU<br></li><li><strong>DirectX:</strong> Wersja 9.0c<br></li><li><strong>Miejsce na dysku:</strong> 1 GB dost\u0119pnej przestrzeni</li></ul>",
+    "recommended": "<strong>Zalecane:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Windows 7, 8.1, 10<br></li><li><strong>Procesor:</strong> 3GHz<br></li><li><strong>Pami\u0119\u0107:</strong> 2 GB RAM<br></li><li><strong>Karta graficzna:</strong> DirectX 9 GPU<br></li><li><strong>DirectX:</strong> Wersja 9.0c<br></li><li><strong>Miejsce na dysku:</strong> 1 GB dost\u0119pnej przestrzeni</li></ul>"
   },
   "mac_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.7+<br></li><li><strong>Processor:</strong> 2GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL GPU<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.11<br></li><li><strong>Processor:</strong> 3GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL GPU<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Mac OS X 10.7+<br></li><li><strong>Procesor:</strong> 2GHz<br></li><li><strong>Pami\u0119\u0107:</strong> 2 GB RAM<br></li><li><strong>Karta graficzna:</strong> OpenGL GPU<br></li><li><strong>Miejsce na dysku:</strong> 1 GB dost\u0119pnej przestrzeni</li></ul>",
+    "recommended": "<strong>Zalecane:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> Mac OS X 10.11<br></li><li><strong>Procesor:</strong> 3GHz<br></li><li><strong>Pami\u0119\u0107:</strong> 2 GB RAM<br></li><li><strong>Karta graficzna:</strong> OpenGL GPU<br></li><li><strong>Miejsce na dysku:</strong> 1 GB dost\u0119pnej przestrzeni</li></ul>"
   },
   "linux_requirements": {
-    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> SteamOS or Ubuntu<br></li><li><strong>Processor:</strong> 2GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL GPU<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
-    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> SteamOS or Ubuntu<br></li><li><strong>Processor:</strong> 3GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL GPU<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    "minimum": "<strong>Minimalne:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> SteamOS or Ubuntu<br></li><li><strong>Procesor:</strong> 2GHz<br></li><li><strong>Pami\u0119\u0107:</strong> 2 GB RAM<br></li><li><strong>Karta graficzna:</strong> OpenGL GPU<br></li><li><strong>Miejsce na dysku:</strong> 1 GB dost\u0119pnej przestrzeni</li></ul>",
+    "recommended": "<strong>Zalecane:</strong><br><ul class=\"bb_ul\"><li><strong>System operacyjny:</strong> SteamOS or Ubuntu<br></li><li><strong>Procesor:</strong> 3GHz<br></li><li><strong>Pami\u0119\u0107:</strong> 2 GB RAM<br></li><li><strong>Karta graficzna:</strong> OpenGL GPU<br></li><li><strong>Miejsce na dysku:</strong> 1 GB dost\u0119pnej przestrzeni</li></ul>"
   },
   "developers": [
     "phime studio LLC"
@@ -30,9 +30,11 @@
   ],
   "price_overview": {
     "currency": "EUR",
-    "initial": 199,
-    "final": 199,
-    "discount_percent": 0
+    "initial": 399,
+    "final": 399,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     83910
@@ -51,11 +53,11 @@
           "packageid": 83910,
           "percent_savings_text": "",
           "percent_savings": 0,
-          "option_text": "Showing Tonight: Mindhunters Incident - 1,99\u20ac",
+          "option_text": "Showing Tonight: Mindhunters Incident - 3,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 199
+          "price_in_cents_with_discount": 399
         }
       ]
     }
@@ -310,5 +312,9 @@
     "url": "http://www.phime.com",
     "email": "office@phime.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416370/page_bg_generated_v6b.jpg?t=1448014127"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/416370/page_bg_generated_v6b.jpg?t=1448014127",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

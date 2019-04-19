@@ -25,7 +25,9 @@
     "currency": "EUR",
     "initial": 399,
     "final": 399,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "3,99\u20ac"
   },
   "packages": [
     156893,
@@ -155,7 +157,7 @@
     }
   ],
   "recommendations": {
-    "total": 159
+    "total": 199
   },
   "achievements": {
     "total": 10,
@@ -210,5 +212,9 @@
     "url": "http://www.desktoppaints.com/ipage.php?page=contact",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/597840/page_bg_generated_v6b.jpg?t=1513085782"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/597840/page_bg_generated_v6b.jpg?t=1513085782",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

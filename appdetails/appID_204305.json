@@ -11,7 +11,7 @@
     "appid": "204300",
     "name": "Awesomenauts - the 2D moba"
   },
-  "supported_languages": "English<strong>*</strong>, German, French, Italian, Spanish, Dutch, Portuguese-Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+  "supported_languages": "English<strong>*</strong>, German, French, Italian, Spanish - Spain, Dutch, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
   "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/204305/header.jpg?t=1493972404",
   "website": "http://www.awesomenauts.com/",
   "pc_requirements": {
@@ -36,8 +36,10 @@
   "price_overview": {
     "currency": "EUR",
     "initial": 249,
-    "final": 249,
-    "discount_percent": 0
+    "final": 99,
+    "discount_percent": 60,
+    "initial_formatted": "2,49\u20ac",
+    "final_formatted": "0,99\u20ac"
   },
   "packages": [
     16784
@@ -54,13 +56,13 @@
       "subs": [
         {
           "packageid": 16784,
-          "percent_savings_text": "",
+          "percent_savings_text": "-60%",
           "percent_savings": 0,
-          "option_text": "Awesomenauts - Mousquetaire Leon Skin - 2,49\u20ac",
+          "option_text": "Awesomenauts - Mousquetaire Leon Skin - <span class=\"discount_original_price\">2,49\u20ac</span> 0,99\u20ac",
           "option_description": "",
           "can_get_free_license": "0",
           "is_free_license": false,
-          "price_in_cents_with_discount": 249
+          "price_in_cents_with_discount": 99
         }
       ]
     }
@@ -153,6 +155,9 @@
       "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/204305/ss_12ca8fe6d9368fa6496f5a2ef2f6d55a42d96a22.1920x1080.jpg?t=1493972404"
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "19 Sep, 2012"
@@ -161,5 +166,9 @@
     "url": "http://www.awesomenauts.com/forum/viewforum.php?f=10",
     "email": "support@ronimo-games.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/204305/page_bg_generated_v6b.jpg?t=1493972404"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/204305/page_bg_generated_v6b.jpg?t=1493972404",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

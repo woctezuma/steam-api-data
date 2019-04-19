@@ -29,7 +29,9 @@
     "currency": "EUR",
     "initial": 4599,
     "final": 4599,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "45,99\u20ac"
   },
   "packages": [
     77745
@@ -107,6 +109,9 @@
       "highlight": true
     }
   ],
+  "achievements": {
+    "total": 0
+  },
   "release_date": {
     "coming_soon": false,
     "date": "7 Mar, 2016"
@@ -115,5 +120,9 @@
     "url": "http://support.emediamusic.com",
     "email": "custserv@emediamusic.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/400650/page_bg_generated_v6b.jpg?t=1478048288"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/400650/page_bg_generated_v6b.jpg?t=1478048288",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

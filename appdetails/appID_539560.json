@@ -30,7 +30,9 @@
     "currency": "EUR",
     "initial": 1499,
     "final": 1499,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "14,99\u20ac"
   },
   "packages": [
     132058
@@ -268,5 +270,9 @@
     "url": "http://www.viennaautomobilesociety.com",
     "email": "support@royalpolygon.com"
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/539560/page_bg_generated_v6b.jpg?t=1506263077"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/539560/page_bg_generated_v6b.jpg?t=1506263077",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }

@@ -26,7 +26,9 @@
     "currency": "EUR",
     "initial": 3999,
     "final": 3999,
-    "discount_percent": 0
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "39,99\u20ac"
   },
   "packages": [
     53312
@@ -216,5 +218,9 @@
     "url": "http://myrpg.eu",
     "email": ""
   },
-  "background": "https://steamcdn-a.akamaihd.net/steam/apps/329890/page_bg_generated_v6b.jpg?t=1447364407"
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/329890/page_bg_generated_v6b.jpg?t=1447364407",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
 }
