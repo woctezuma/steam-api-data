@@ -1,1 +1,121 @@
-{"type": "dlc", "name": "Narco Strike - Developer Pack", "steam_appid": 1094860, "required_age": 0, "is_free": false, "detailed_description": "This package includes a collection of developer content used for game creation. It can be used to expand game experience.<br />\r\n<br />\r\nFeatures.<br />\r\n<br />\r\n-Levels design files.<br />\r\n<br />\r\n-Free game desgin content, like images and art.<br />\r\n<br />\r\n-Exclusive sounds and music.", "about_the_game": "This package includes a collection of developer content used for game creation. It can be used to expand game experience.<br />\r\n<br />\r\nFeatures.<br />\r\n<br />\r\n-Levels design files.<br />\r\n<br />\r\n-Free game desgin content, like images and art.<br />\r\n<br />\r\n-Exclusive sounds and music.", "short_description": "Collection of content development art and other cotent used for the game.", "fullgame": {"appid": "1020410", "name": "Narco Strike"}, "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support", "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1094860/header.jpg?t=1559157319", "website": "https://www.moddb.com/games/narco-strike", "pc_requirements": {"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP (SP3) or higher<br></li><li><strong>Processor:</strong> Intel Core 2 Duo (Merom) 1.66GHz or equivalent<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Intel Graphics Media Accelerator 950 or equivalent<br></li><li><strong>Storage:</strong> 10 MB available space<br></li><li><strong>Sound Card:</strong> Soundcard compatible with DirectX 9.0c</li></ul>", "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> Intel Pentium 4 a 2.4 GHz o equivalente<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon X800 / NVIDIA GeForce 7600 / Intel HD Graphics 2000 or higher<br></li><li><strong>Storage:</strong> 30 MB available space<br></li><li><strong>Sound Card:</strong> Dolby Surround 5.1</li></ul>"}, "mac_requirements": [], "linux_requirements": [], "developers": ["Free Initiative Games"], "publishers": ["Free Initiative Games"], "price_overview": {"currency": "EUR", "initial": 79, "final": 79, "discount_percent": 0, "initial_formatted": "", "final_formatted": "0,79\u20ac"}, "packages": [368969], "package_groups": [{"name": "default", "title": "Buy Narco Strike - Developer Pack", "description": "", "selection_text": "Select a purchase option", "save_text": "", "display_type": 0, "is_recurring_subscription": "false", "subs": [{"packageid": 368969, "percent_savings_text": "", "percent_savings": 0, "option_text": "Narco Strike - Developer Pack - 0,79\u20ac", "option_description": "", "can_get_free_license": "0", "is_free_license": false, "price_in_cents_with_discount": 79}]}], "platforms": {"windows": true, "mac": false, "linux": false}, "categories": [{"id": 2, "description": "Single-player"}, {"id": 21, "description": "Downloadable Content"}, {"id": 22, "description": "Steam Achievements"}, {"id": 18, "description": "Partial Controller Support"}], "genres": [{"id": "1", "description": "Action"}, {"id": "25", "description": "Adventure"}], "screenshots": [{"id": 0, "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1094860/ss_e3a1c260211dd0efd068113d3aa85d52e848baf9.600x338.jpg?t=1559157319", "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1094860/ss_e3a1c260211dd0efd068113d3aa85d52e848baf9.1920x1080.jpg?t=1559157319"}, {"id": 1, "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1094860/ss_09037f7de62ca1c2c5fa427ab45e40f6cd7c04ec.600x338.jpg?t=1559157319", "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1094860/ss_09037f7de62ca1c2c5fa427ab45e40f6cd7c04ec.1920x1080.jpg?t=1559157319"}], "release_date": {"coming_soon": false, "date": "29 May, 2019"}, "support_info": {"url": "https://www.moddb.com/games/narco-strike", "email": "francotf514@gmail.com"}, "background": "https://steamcdn-a.akamaihd.net/steam/apps/1094860/page_bg_generated_v6b.jpg?t=1559157319", "content_descriptors": {"ids": [], "notes": null}}
+{
+  "type": "dlc",
+  "name": "Narco Strike - Developer Pack",
+  "steam_appid": 1094860,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "This package includes a collection of developer content used for game creation. It can be used to expand game experience.<br />\r\n<br />\r\nFeatures.<br />\r\n<br />\r\n-Levels design files.<br />\r\n<br />\r\n-Free game desgin content, like images and art.<br />\r\n<br />\r\n-Exclusive sounds and music.",
+  "about_the_game": "This package includes a collection of developer content used for game creation. It can be used to expand game experience.<br />\r\n<br />\r\nFeatures.<br />\r\n<br />\r\n-Levels design files.<br />\r\n<br />\r\n-Free game desgin content, like images and art.<br />\r\n<br />\r\n-Exclusive sounds and music.",
+  "short_description": "Collection of content development art and other cotent used for the game.",
+  "fullgame": {
+    "appid": "1020410",
+    "name": "Narco Strike"
+  },
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1094860/header.jpg?t=1559157319",
+  "website": "https://www.moddb.com/games/narco-strike",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP (SP3) or higher<br></li><li><strong>Processor:</strong> Intel Core 2 Duo (Merom) 1.66GHz or equivalent<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Intel Graphics Media Accelerator 950 or equivalent<br></li><li><strong>Storage:</strong> 10 MB available space<br></li><li><strong>Sound Card:</strong> Soundcard compatible with DirectX 9.0c</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or higher<br></li><li><strong>Processor:</strong> Intel Pentium 4 a 2.4 GHz o equivalente<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon X800 / NVIDIA GeForce 7600 / Intel HD Graphics 2000 or higher<br></li><li><strong>Storage:</strong> 30 MB available space<br></li><li><strong>Sound Card:</strong> Dolby Surround 5.1</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "Free Initiative Games"
+  ],
+  "publishers": [
+    "Free Initiative Games"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
+  },
+  "packages": [
+    368969
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Narco Strike - Developer Pack",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 368969,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Narco Strike - Developer Pack - 0,79\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 79
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 21,
+      "description": "Downloadable Content"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    },
+    {
+      "id": 18,
+      "description": "Partial Controller Support"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "description": "Action"
+    },
+    {
+      "id": "25",
+      "description": "Adventure"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1094860/ss_e3a1c260211dd0efd068113d3aa85d52e848baf9.600x338.jpg?t=1559157319",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1094860/ss_e3a1c260211dd0efd068113d3aa85d52e848baf9.1920x1080.jpg?t=1559157319"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1094860/ss_09037f7de62ca1c2c5fa427ab45e40f6cd7c04ec.600x338.jpg?t=1559157319",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1094860/ss_09037f7de62ca1c2c5fa427ab45e40f6cd7c04ec.1920x1080.jpg?t=1559157319"
+    }
+  ],
+  "release_date": {
+    "coming_soon": false,
+    "date": "29 May, 2019"
+  },
+  "support_info": {
+    "url": "https://www.moddb.com/games/narco-strike",
+    "email": "francotf514@gmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1094860/page_bg_generated_v6b.jpg?t=1559157319",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

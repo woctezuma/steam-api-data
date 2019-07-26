@@ -1,1 +1,125 @@
-{"type": "dlc", "name": "Divine D.I.V.A. (Extra)", "steam_appid": 1064980, "required_age": 0, "is_free": false, "detailed_description": "This DLC give you the images used in the game.<br />\r\nResolution: 1280x720<br />\r\nThey will be located in \u201cExtra (DLC)\u201d.", "about_the_game": "This DLC give you the images used in the game.<br />\r\nResolution: 1280x720<br />\r\nThey will be located in \u201cExtra (DLC)\u201d.", "short_description": "This DLC give you the images used in the game.", "fullgame": {"appid": "1064930", "name": "Divine D.I.V.A."}, "supported_languages": "English, French", "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/header.jpg?t=1558209440", "website": "http://miagames.net/en/divine-d-i-v-a", "pc_requirements": {"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 1.2 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 1280x720<br></li><li><strong>Storage:</strong> 2 MB available space</li></ul>"}, "mac_requirements": {"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.6 or higher<br></li><li><strong>Processor:</strong> 1.2 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 1280x720<br></li><li><strong>Storage:</strong> 2 MB available space</li></ul>"}, "linux_requirements": {"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> x86 or compatible<br></li><li><strong>Processor:</strong> 1.2 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 1280x720<br></li><li><strong>Storage:</strong> 2 MB available space</li></ul>"}, "developers": ["Mia Blais-C\u00f4t\u00e9"], "publishers": ["Mia Blais-C\u00f4t\u00e9"], "price_overview": {"currency": "EUR", "initial": 88, "final": 88, "discount_percent": 0, "initial_formatted": "", "final_formatted": "0,88\u20ac"}, "packages": [356337], "package_groups": [{"name": "default", "title": "Buy Divine D.I.V.A. (Extra)", "description": "", "selection_text": "Select a purchase option", "save_text": "", "display_type": 0, "is_recurring_subscription": "false", "subs": [{"packageid": 356337, "percent_savings_text": "", "percent_savings": 0, "option_text": "Divine D.I.V.A. (Extra) - 0,88\u20ac", "option_description": "", "can_get_free_license": "0", "is_free_license": false, "price_in_cents_with_discount": 88}]}], "platforms": {"windows": true, "mac": true, "linux": true}, "categories": [{"id": 2, "description": "Single-player"}, {"id": 21, "description": "Downloadable Content"}, {"id": 22, "description": "Steam Achievements"}], "genres": [{"id": "4", "description": "Casual"}, {"id": "23", "description": "Indie"}], "screenshots": [{"id": 0, "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/ss_97e84b3002d6e7a932b73a36785968372caa5ef8.600x338.jpg?t=1558209440", "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/ss_97e84b3002d6e7a932b73a36785968372caa5ef8.1920x1080.jpg?t=1558209440"}, {"id": 1, "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/ss_333eeaf50ed06ddcabf803ed3d78193bb8127209.600x338.jpg?t=1558209440", "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/ss_333eeaf50ed06ddcabf803ed3d78193bb8127209.1920x1080.jpg?t=1558209440"}, {"id": 2, "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/ss_4fb1ef507ec2964f00c4c31487cc3dd7a9e34a06.600x338.jpg?t=1558209440", "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/ss_4fb1ef507ec2964f00c4c31487cc3dd7a9e34a06.1920x1080.jpg?t=1558209440"}], "release_date": {"coming_soon": false, "date": "6 May, 2019"}, "support_info": {"url": "https://www.facebook.com/miabcgames/", "email": ""}, "background": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/page_bg_generated_v6b.jpg?t=1558209440", "content_descriptors": {"ids": [], "notes": null}}
+{
+  "type": "dlc",
+  "name": "Divine D.I.V.A. (Extra)",
+  "steam_appid": 1064980,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "This DLC give you the images used in the game.<br />\r\nResolution: 1280x720<br />\r\nThey will be located in \u201cExtra (DLC)\u201d.",
+  "about_the_game": "This DLC give you the images used in the game.<br />\r\nResolution: 1280x720<br />\r\nThey will be located in \u201cExtra (DLC)\u201d.",
+  "short_description": "This DLC give you the images used in the game.",
+  "fullgame": {
+    "appid": "1064930",
+    "name": "Divine D.I.V.A."
+  },
+  "supported_languages": "English, French",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/header.jpg?t=1558209440",
+  "website": "http://miagames.net/en/divine-d-i-v-a",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 1.2 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 1280x720<br></li><li><strong>Storage:</strong> 2 MB available space</li></ul>"
+  },
+  "mac_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.6 or higher<br></li><li><strong>Processor:</strong> 1.2 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 1280x720<br></li><li><strong>Storage:</strong> 2 MB available space</li></ul>"
+  },
+  "linux_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> x86 or compatible<br></li><li><strong>Processor:</strong> 1.2 Ghz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 1280x720<br></li><li><strong>Storage:</strong> 2 MB available space</li></ul>"
+  },
+  "developers": [
+    "Mia Blais-C\u00f4t\u00e9"
+  ],
+  "publishers": [
+    "Mia Blais-C\u00f4t\u00e9"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 88,
+    "final": 88,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,88\u20ac"
+  },
+  "packages": [
+    356337
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Divine D.I.V.A. (Extra)",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 356337,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Divine D.I.V.A. (Extra) - 0,88\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 88
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 21,
+      "description": "Downloadable Content"
+    },
+    {
+      "id": 22,
+      "description": "Steam Achievements"
+    }
+  ],
+  "genres": [
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/ss_97e84b3002d6e7a932b73a36785968372caa5ef8.600x338.jpg?t=1558209440",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/ss_97e84b3002d6e7a932b73a36785968372caa5ef8.1920x1080.jpg?t=1558209440"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/ss_333eeaf50ed06ddcabf803ed3d78193bb8127209.600x338.jpg?t=1558209440",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/ss_333eeaf50ed06ddcabf803ed3d78193bb8127209.1920x1080.jpg?t=1558209440"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/ss_4fb1ef507ec2964f00c4c31487cc3dd7a9e34a06.600x338.jpg?t=1558209440",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/ss_4fb1ef507ec2964f00c4c31487cc3dd7a9e34a06.1920x1080.jpg?t=1558209440"
+    }
+  ],
+  "release_date": {
+    "coming_soon": false,
+    "date": "6 May, 2019"
+  },
+  "support_info": {
+    "url": "https://www.facebook.com/miabcgames/",
+    "email": ""
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1064980/page_bg_generated_v6b.jpg?t=1558209440",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

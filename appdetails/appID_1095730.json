@@ -1,1 +1,72 @@
-{"type": "demo", "name": "Lost Demo", "steam_appid": 1095730, "required_age": 0, "is_free": true, "detailed_description": "Lost Demo for BIC<br />\r\n<br />\r\n * Demo is NOT savable.", "about_the_game": "Lost Demo for BIC<br />\r\n<br />\r\n * Demo is NOT savable.", "short_description": "Lost Demo for BIC", "fullgame": {"appid": "1095360", "name": "Lost"}, "supported_languages": "English, Korean", "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1095730/header.jpg?t=1560072879", "website": "https://tiny-beluga.github.io/lost", "pc_requirements": {"minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows</li></ul>", "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows</li></ul>"}, "mac_requirements": [], "linux_requirements": [], "developers": ["Tiny Beluga"], "publishers": ["Tiny Beluga"], "package_groups": [], "platforms": {"windows": true, "mac": false, "linux": false}, "categories": [{"id": 2, "description": "Single-player"}, {"id": 10, "description": "Game demo"}], "genres": [{"id": "25", "description": "Adventure"}, {"id": "4", "description": "Casual"}, {"id": "23", "description": "Indie"}], "release_date": {"coming_soon": true, "date": "28 Jun, 2019"}, "support_info": {"url": "https://github.com/tiny-beluga/Lost-Issue-Tracker/issues", "email": "tinybeluga.official@gmail.com"}, "background": "", "content_descriptors": {"ids": [], "notes": null}}
+{
+  "type": "demo",
+  "name": "Lost Demo",
+  "steam_appid": 1095730,
+  "required_age": 0,
+  "is_free": true,
+  "detailed_description": "Lost Demo for BIC<br />\r\n<br />\r\n * Demo is NOT savable.",
+  "about_the_game": "Lost Demo for BIC<br />\r\n<br />\r\n * Demo is NOT savable.",
+  "short_description": "Lost Demo for BIC",
+  "fullgame": {
+    "appid": "1095360",
+    "name": "Lost"
+  },
+  "supported_languages": "English, Korean",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1095730/header.jpg?t=1560072879",
+  "website": "https://tiny-beluga.github.io/lost",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "Tiny Beluga"
+  ],
+  "publishers": [
+    "Tiny Beluga"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 10,
+      "description": "Game demo"
+    }
+  ],
+  "genres": [
+    {
+      "id": "25",
+      "description": "Adventure"
+    },
+    {
+      "id": "4",
+      "description": "Casual"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    }
+  ],
+  "release_date": {
+    "coming_soon": true,
+    "date": "28 Jun, 2019"
+  },
+  "support_info": {
+    "url": "https://github.com/tiny-beluga/Lost-Issue-Tracker/issues",
+    "email": "tinybeluga.official@gmail.com"
+  },
+  "background": "",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

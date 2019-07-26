@@ -1,0 +1,122 @@
+{
+  "type": "dlc",
+  "name": "Hyacinthus-donation",
+  "steam_appid": 1120070,
+  "required_age": 0,
+  "is_free": false,
+  "detailed_description": "This is just a donation.<br />\r\nThank you for your donation!",
+  "about_the_game": "This is just a donation.<br />\r\nThank you for your donation!",
+  "short_description": "This is just a donation. Thank you for your donation!",
+  "fullgame": {
+    "appid": "1120050",
+    "name": "Hyacinthus"
+  },
+  "supported_languages": "Japanese, Simplified Chinese, Traditional Chinese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1120070/header.jpg?t=1563444407",
+  "website": null,
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows xp or later<br></li><li><strong>Processor:</strong> any cpu 1GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> any<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "developers": [
+    "\u673d\u6728\u5e03\u53ef\u51cb\u591c"
+  ],
+  "publishers": [
+    "JingtuStudio"
+  ],
+  "price_overview": {
+    "currency": "EUR",
+    "initial": 79,
+    "final": 79,
+    "discount_percent": 0,
+    "initial_formatted": "",
+    "final_formatted": "0,79\u20ac"
+  },
+  "packages": [
+    379477,
+    382224
+  ],
+  "package_groups": [
+    {
+      "name": "default",
+      "title": "Buy Hyacinthus-donation",
+      "description": "",
+      "selection_text": "Select a purchase option",
+      "save_text": "",
+      "display_type": 0,
+      "is_recurring_subscription": "false",
+      "subs": [
+        {
+          "packageid": 379477,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Hyacinthus-donation - 0,79\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 79
+        },
+        {
+          "packageid": 382224,
+          "percent_savings_text": "",
+          "percent_savings": 0,
+          "option_text": "Hyacinthus-donation - Commercial License - 0,79\u20ac",
+          "option_description": "",
+          "can_get_free_license": "0",
+          "is_free_license": false,
+          "price_in_cents_with_discount": 79
+        }
+      ]
+    }
+  ],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 2,
+      "description": "Single-player"
+    },
+    {
+      "id": 21,
+      "description": "Downloadable Content"
+    },
+    {
+      "id": 23,
+      "description": "Steam Cloud"
+    }
+  ],
+  "genres": [
+    {
+      "id": "37",
+      "description": "Free to Play"
+    },
+    {
+      "id": "23",
+      "description": "Indie"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1120070/ss_33ba7a6c37a4825cbc7bd1b6b75460ba959b12d2.600x338.jpg?t=1563444407",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1120070/ss_33ba7a6c37a4825cbc7bd1b6b75460ba959b12d2.1920x1080.jpg?t=1563444407"
+    }
+  ],
+  "release_date": {
+    "coming_soon": false,
+    "date": "15 Jul, 2019"
+  },
+  "support_info": {
+    "url": "https://weibo.com/moulderwood",
+    "email": ""
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1120070/page_bg_generated_v6b.jpg?t=1563444407",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}

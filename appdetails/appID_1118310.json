@@ -1,0 +1,97 @@
+{
+  "type": "game",
+  "name": "RetroArch",
+  "steam_appid": 1118310,
+  "required_age": 0,
+  "is_free": true,
+  "controller_support": "full",
+  "detailed_description": "RetroArch is an open source and cross platform frontend/framework for emulators, game engines, video games, media players and other applications.<br />\r\n<br />\r\nWhile it can do many things besides this, it is most widely known for enabling you to run classic games on a wide range of computers and consoles through a slick graphical interface. Settings are also unified so configuration is done once and for all.<br />\r\n<br />\r\nIn addition to this, you will soon be able to run original game discs (CDs) from RetroArch. We take videogame preservation seriously and want to ensure you can run your originally bought content on modern day PCs.<br />\r\n<br />\r\nRetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, and more!",
+  "about_the_game": "RetroArch is an open source and cross platform frontend/framework for emulators, game engines, video games, media players and other applications.<br />\r\n<br />\r\nWhile it can do many things besides this, it is most widely known for enabling you to run classic games on a wide range of computers and consoles through a slick graphical interface. Settings are also unified so configuration is done once and for all.<br />\r\n<br />\r\nIn addition to this, you will soon be able to run original game discs (CDs) from RetroArch. We take videogame preservation seriously and want to ensure you can run your originally bought content on modern day PCs.<br />\r\n<br />\r\nRetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, and more!",
+  "short_description": "RetroArch is an open source and cross platform frontend/framework for emulators, game engines, video games, media players and other applications",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Greek, Japanese, Korean, Norwegian, Polish, Portuguese, Portuguese - Brazil, Russian, Spanish - Latin America, Swedish, Turkish, Vietnamese",
+  "header_image": "https://steamcdn-a.akamaihd.net/steam/apps/1118310/header.jpg?t=1564071943",
+  "website": "https://www.retroarch.com",
+  "pc_requirements": {
+    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows 7<br></li><li><strong>Processor:</strong> Intel Pentium 4 and up (CPU with SSE2 instructions required)<br></li><li><strong>Memory:</strong> 32 MB RAM<br></li><li><strong>Graphics:</strong> Any compliant OpenGL 2.x or Direct3D11 GPU. For shaders to work properly, should support at least Shader Model 2.0.<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Additional Notes:</strong> For OpenGL: Intel HD 2K/3K GPUs on Windows 10 will have to fall back to an OpenGL 1.1 driver.</li></ul>",
+    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Microsoft Windows 10<br></li><li><strong>Processor:</strong> Intel Core series or AMD equivalent<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Intel: At least Intel HD 4K required for OpenGL, any compliant D3D11 GPU for Direct3D 11. Should support at least Shader Model 3.0 and/or 4.0.<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Additional Notes:</strong> For OpenGL: Intel HD 2K/3K GPUs on Windows 10 will have to fall back to an OpenGL 1.1 driver.</li></ul>"
+  },
+  "mac_requirements": [],
+  "linux_requirements": [],
+  "legal_notice": "RetroArch is free/open source software, available under the GNU GPL 3.0 license.<br />\r\n<br />\r\nIt does not contain any copyrighted material by third parties. RetroArch does not condone piracy in any way, shape or form.",
+  "developers": [
+    "Libretro"
+  ],
+  "publishers": [
+    "Libretro"
+  ],
+  "package_groups": [],
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "categories": [
+    {
+      "id": 28,
+      "description": "Full controller support"
+    }
+  ],
+  "genres": [
+    {
+      "id": "37",
+      "description": "Free to Play"
+    }
+  ],
+  "screenshots": [
+    {
+      "id": 0,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1118310/ss_b061f7b69dc4ed52cee1ca3d6e870d7b11d78797.600x338.jpg?t=1564071943",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1118310/ss_b061f7b69dc4ed52cee1ca3d6e870d7b11d78797.1920x1080.jpg?t=1564071943"
+    },
+    {
+      "id": 1,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1118310/ss_ff5c9866b3b27290b1b03e9d50df347e4e5f81ad.600x338.jpg?t=1564071943",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1118310/ss_ff5c9866b3b27290b1b03e9d50df347e4e5f81ad.1920x1080.jpg?t=1564071943"
+    },
+    {
+      "id": 2,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1118310/ss_739365e8e8f7cb8c5ed5619f0f08ff550c165054.600x338.jpg?t=1564071943",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1118310/ss_739365e8e8f7cb8c5ed5619f0f08ff550c165054.1920x1080.jpg?t=1564071943"
+    },
+    {
+      "id": 3,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1118310/ss_f498ee5a3c1a5497c23723f3ee840b794d604e9f.600x338.jpg?t=1564071943",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1118310/ss_f498ee5a3c1a5497c23723f3ee840b794d604e9f.1920x1080.jpg?t=1564071943"
+    },
+    {
+      "id": 4,
+      "path_thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/1118310/ss_6780aa920422429bd67a737ccba13bb8dffe2154.600x338.jpg?t=1564071943",
+      "path_full": "https://steamcdn-a.akamaihd.net/steam/apps/1118310/ss_6780aa920422429bd67a737ccba13bb8dffe2154.1920x1080.jpg?t=1564071943"
+    }
+  ],
+  "movies": [
+    {
+      "id": 256756030,
+      "name": "RetroArch Trailer",
+      "thumbnail": "https://steamcdn-a.akamaihd.net/steam/apps/256756030/movie.293x165.jpg?t=1563066062",
+      "webm": {
+        "480": "http://steamcdn-a.akamaihd.net/steam/apps/256756030/movie480.webm?t=1563066062",
+        "max": "http://steamcdn-a.akamaihd.net/steam/apps/256756030/movie_max.webm?t=1563066062"
+      },
+      "highlight": true
+    }
+  ],
+  "release_date": {
+    "coming_soon": true,
+    "date": "Q3 2019"
+  },
+  "support_info": {
+    "url": "",
+    "email": "libretro@gmail.com"
+  },
+  "background": "https://steamcdn-a.akamaihd.net/steam/apps/1118310/page_bg_generated_v6b.jpg?t=1564071943",
+  "content_descriptors": {
+    "ids": [],
+    "notes": null
+  }
+}
